@@ -9,4 +9,3 @@ https://livestream-kr.github.io/music-program/all.xml
 - [KBS] 스케치북: https://livestream-kr.github.io/music-program/sketchbook.xml
 - [KBS] 불후의 명곡: https://livestream-kr.github.io/music-program/satfreedom.xml
 - [MBC] 복면가왕: https://livestream-kr.github.io/music-program/mask.xml
-- [tvN] 놀라운 토요일 도레미마켓: https://livestream-kr.github.io/music-program/amazingsaturday.xml
