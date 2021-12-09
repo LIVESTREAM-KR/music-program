@@ -63,7 +63,7 @@ contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[kbs-sketchbook]
+[sketchbook]
 title = "유희열의 스케치북"
 url = "https://program.naver.com/p/662817/clip"
 entrySelector = "li.ClipCard_item__1ly4h"
