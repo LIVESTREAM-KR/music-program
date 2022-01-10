@@ -4,9 +4,17 @@
         <title>유희열의 스케치북</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 08:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 09:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너드커넥션 - 좋은 밤 좋은 꿈 | KBS 220107 방송]]></title>
+            <link>https://tv.naver.com/v/24528493</link>
+            <guid>https://tv.naver.com/v/24528493</guid>
+            <pubDate>Mon, 10 Jan 2022 09:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[04:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_32/XSK56_1641806493031Q22ml_JPEG/61dbf4ed123bc328490f324a_upload_1641805117204.jpeg?type=f246_140" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[＜2022 너의 이름은5＞ 박빙의 대결 끝에 선출된 유스케 자유이용권 주인공♨ | KBS 220107 방송]]></title>
             <link>https://tv.naver.com/v/24495743</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 07 Jan 2022 17:28:51 GMT</pubDate>
             <content:encoded><![CDATA[04:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220108_204/OtAgD_16415751942359lJl5_JPEG/61d85f7f653f3a3a0dca80d3_upload_1641570197473.jpeg?type=f246_140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[너드커넥션 - 좋은 밤 좋은 꿈 | KBS 220107 방송]]></title>
-            <link>https://tv.naver.com/v/24495741</link>
-            <guid>https://tv.naver.com/v/24495741</guid>
-            <pubDate>Fri, 07 Jan 2022 17:28:51 GMT</pubDate>
-            <content:encoded><![CDATA[04:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220108_91/Cyje9_1641575192535hR7hs_JPEG/61d85a50af4c6a37d7878943_upload_1641568886247.jpeg?type=f246_140" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[데뷔 전에 박정현에게 받은 러브콜?! 매력적인 목소리로 부르는 ‘매직 카펫 라이드’ | KBS 220107 방송]]></title>
