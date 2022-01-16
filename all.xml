@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 11:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 12:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1936,20 +1936,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220116_65/ffFFF_164233120403752Ijs_JPEG/clip_20220116195932_53.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['커튼콜'의 정체는 가수 히키!, MBC 220116 방송 (복면가왕)]]></title>
-            <link>https://tv.naver.com/v/24631832</link>
-            <guid>https://tv.naver.com/v/24631832</guid>
-            <pubDate>Sun, 16 Jan 2022 11:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[02:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220116_266/N0rCO_1642330299227e581P_JPEG/clip_20220116194049_47.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['겨울아이'의 가왕 방어전 무대 - Love poem, MBC 220116 방송 (복면가왕)]]></title>
             <link>https://tv.naver.com/v/24631830</link>
             <guid>https://tv.naver.com/v/24631830</guid>
             <pubDate>Sun, 16 Jan 2022 11:16:59 GMT</pubDate>
             <content:encoded><![CDATA[04:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220116_284/4nhop_1642330295546qjTin_JPEG/clip_20220116193059_44.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['커튼콜'의 정체는 가수 히키!, MBC 220116 방송 (복면가왕)]]></title>
+            <link>https://tv.naver.com/v/24631832</link>
+            <guid>https://tv.naver.com/v/24631832</guid>
+            <pubDate>Sun, 16 Jan 2022 11:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[02:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220116_266/N0rCO_1642330299227e581P_JPEG/clip_20220116194049_47.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다 함께 추억 속으로🌸 강주원이 부르는 ＜사랑과 우정 사이＞♬, MBC 220116 방송 (복면가왕)]]></title>
