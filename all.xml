@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 11:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 12:31:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -733,7 +733,7 @@
             <guid>https://tv.naver.com/v/24712644</guid>
             <pubDate>Thu, 20 Jan 2022 11:17:24 GMT</pubDate>
             <content:encoded><![CDATA[04:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_118/u7xMw_16426765007802DhJk_JPEG/5acc73b0-385a-4fd3-8e20-6863794cd4b8_B.jpg?type=f246_140" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_47/pzsY6_164267770103071fvy_JPEG/eafc1912-bc8d-4223-9cac-4518a1ab9b3a_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['최초 공개' 변화무쌍한 B. '뱀뱀'의 'Slow Mo' 무대 | Mnet 220120 방송 (엠카운트다운)]]></title>
@@ -768,6 +768,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_53/hJ4Gu_1642676191455nu43y_JPEG/9f134f2f-43cd-4346-a15e-8425443a5297_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['COMEBACK' 펑키&섹시 '모모랜드'의 'Yummy Yummy Love' 무대 | Mnet 220120 방송 (엠카운트다운)]]></title>
+            <link>https://tv.naver.com/v/24712487</link>
+            <guid>https://tv.naver.com/v/24712487</guid>
+            <pubDate>Thu, 20 Jan 2022 11:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[03:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_265/q2TW6_1642675897677EplCm_JPEG/dbf71bb5-b954-425c-a79f-095b81a77a33_B.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['컴백 인터뷰' 뱀뱀(BamBam) | Mnet 220120 방송 (엠카운트다운)]]></title>
             <link>https://tv.naver.com/v/24712485</link>
             <guid>https://tv.naver.com/v/24712485</guid>
@@ -782,14 +790,6 @@
             <pubDate>Thu, 20 Jan 2022 11:17:24 GMT</pubDate>
             <content:encoded><![CDATA[03:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220120_244/9Eydu_1642675891172XNrmS_JPEG/e6054710-2f52-479a-8bc5-09cf3efa9cc2_B.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['COMEBACK' 펑키&섹시 '모모랜드'의 'Yummy Yummy Love' 무대 | Mnet 220120 방송 (엠카운트다운)]]></title>
-            <link>https://tv.naver.com/v/24712487</link>
-            <guid>https://tv.naver.com/v/24712487</guid>
-            <pubDate>Thu, 20 Jan 2022 11:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[03:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220120_265/q2TW6_1642675897677EplCm_JPEG/dbf71bb5-b954-425c-a79f-095b81a77a33_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['COMEBACK' 과감한 사랑 고백 '프로미스나인'의 'DM' 무대 | Mnet 220120 방송 (엠카운트다운)]]></title>
