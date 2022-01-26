@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1264,20 +1264,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220126_148/mBT3a_1643155950360XpNeT_JPEG/CA202201260008.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[스포 권장] 미리 보는 프로미스나인 엔딩요정_ 송하영ver. (쇼챔피언)]]></title>
-            <link>https://tv.naver.com/v/24798251</link>
-            <guid>https://tv.naver.com/v/24798251</guid>
-            <pubDate>Wed, 26 Jan 2022 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[00:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_1/DbNdS_1643155894708RVrMe_JPEG/CA202201260007.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[스포 권장] 미리 보는 프로미스나인 엔딩요정_ 이새롬ver. (쇼챔피언)]]></title>
             <link>https://tv.naver.com/v/24798249</link>
             <guid>https://tv.naver.com/v/24798249</guid>
             <pubDate>Wed, 26 Jan 2022 03:19:11 GMT</pubDate>
             <content:encoded><![CDATA[00:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220126_101/GLbbz_1643155893304WKPJT_JPEG/CA202201260006.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포 권장] 미리 보는 프로미스나인 엔딩요정_ 송하영ver. (쇼챔피언)]]></title>
+            <link>https://tv.naver.com/v/24798251</link>
+            <guid>https://tv.naver.com/v/24798251</guid>
+            <pubDate>Wed, 26 Jan 2022 03:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[00:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_1/DbNdS_1643155894708RVrMe_JPEG/CA202201260007.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 프롬이들과 함께하는 ♡2022년 새해 맞이♡ (feat. 쇼챔 라인업) (쇼챔피언)]]></title>
