@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 11:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 12:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -752,20 +752,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220210_78/shqzX_1644489395454EPlDc_JPEG/fecd5eee-f273-4088-89be-55703f815cde_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['STUDIO M' 매력 보이스 '김민석(멜로망스)'의 '취중고백' 무대 | Mnet 220210 방송 (엠카운트다운)]]></title>
-            <link>https://tv.naver.com/v/25054791</link>
-            <guid>https://tv.naver.com/v/25054791</guid>
-            <pubDate>Thu, 10 Feb 2022 11:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[03:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_101/GNUDe_1644489099962FDp8O_JPEG/5adbfe88-42f0-43e4-8285-1ccecadbfc02_B.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['1위' 해피 바이러스ˣ‿ˣ 'YENA(최예나)'의 'SMILEY (Feat. BIBI)' 무대| Mnet 220210 방송 (엠카운트다운)]]></title>
             <link>https://tv.naver.com/v/25054792</link>
             <guid>https://tv.naver.com/v/25054792</guid>
             <pubDate>Thu, 10 Feb 2022 11:16:21 GMT</pubDate>
             <content:encoded><![CDATA[02:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220210_5/xnDt9_16444891024825iihi_JPEG/0dce8ccc-1e9f-41cc-b4e2-f6b8d39e1284_B.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['STUDIO M' 매력 보이스 '김민석(멜로망스)'의 '취중고백' 무대 | Mnet 220210 방송 (엠카운트다운)]]></title>
+            <link>https://tv.naver.com/v/25054791</link>
+            <guid>https://tv.naver.com/v/25054791</guid>
+            <pubDate>Thu, 10 Feb 2022 11:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[03:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220210_101/GNUDe_1644489099962FDp8O_JPEG/5adbfe88-42f0-43e4-8285-1ccecadbfc02_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['최초 공개' 아련타곤 '펜타곤'의 '관람차 (Sparkling Night' 무대 | Mnet 220210 방송 (엠카운트다운)]]></title>
