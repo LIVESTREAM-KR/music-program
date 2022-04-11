@@ -4,17 +4,9 @@
         <title>엠카운트다운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 09:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 10:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[4월 1주 1위 'NCT DREAM'의 '버퍼링(Glitch Mode)' 앵콜 무대! (Full ver.)]]></title>
-            <link>https://tv.naver.com/v/26164822</link>
-            <guid>https://tv.naver.com/v/26164822</guid>
-            <pubDate>Mon, 11 Apr 2022 09:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[06:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_74/llfW2_16496686301588qoRM_JPEG/b587a234-0493-4b39-b0db-dd4706fff6b4_B.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[4월 1주 TOP10은 누구?]]></title>
             <link>https://tv.naver.com/v/26164821</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 11 Apr 2022 09:20:48 GMT</pubDate>
             <content:encoded><![CDATA[01:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_126/YFESG_1649668628425a538h_JPEG/9d4efad3-e10d-431d-9048-61954784aec0_B.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4월 1주 1위 'NCT DREAM'의 '버퍼링(Glitch Mode)' 앵콜 무대! (Full ver.)]]></title>
+            <link>https://tv.naver.com/v/26164822</link>
+            <guid>https://tv.naver.com/v/26164822</guid>
+            <pubDate>Mon, 11 Apr 2022 09:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[06:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_74/llfW2_16496686301588qoRM_JPEG/b587a234-0493-4b39-b0db-dd4706fff6b4_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['최초 공개' '수호'의, 수호에 의한 'Grey Suit' 무대 | Mnet 220407 방송]]></title>
