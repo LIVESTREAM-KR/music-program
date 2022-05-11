@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 11:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 12:44:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1264,20 +1264,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_260/wZ7zJ_1652264219932UnWqY_JPEG/CA202205110066.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[E'LAST - Creature (엘라스트 - 크리처) (쇼챔피언)]]></title>
-            <link>https://tv.naver.com/v/26719305</link>
-            <guid>https://tv.naver.com/v/26719305</guid>
-            <pubDate>Wed, 11 May 2022 10:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[03:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_169/JbM8m_1652263920744Hykzu_JPEG/CA202205110073.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[HOT DEBUT] LE SSERAFIM - FEARLESS (르세라핌 - 피어리스) (쇼챔피언)]]></title>
             <link>https://tv.naver.com/v/26719309</link>
             <guid>https://tv.naver.com/v/26719309</guid>
             <pubDate>Wed, 11 May 2022 10:25:18 GMT</pubDate>
             <content:encoded><![CDATA[03:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_101/DoDsF_1652263927280w1aaa_JPEG/CA202205110075.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[E'LAST - Creature (엘라스트 - 크리처) (쇼챔피언)]]></title>
+            <link>https://tv.naver.com/v/26719305</link>
+            <guid>https://tv.naver.com/v/26719305</guid>
+            <pubDate>Wed, 11 May 2022 10:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[03:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_169/JbM8m_1652263920744Hykzu_JPEG/CA202205110073.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DKB - Sober (다크비 - 안취해) (쇼챔피언)]]></title>
