@@ -4,17 +4,9 @@
         <title>엠카운트다운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 10:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 11:27:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[7월 1주 1위 '프로미스나인'의 'Stay This Way' 앵콜 무대! (Full ver.)]]></title>
-            <link>https://tv.naver.com/v/27875658</link>
-            <guid>https://tv.naver.com/v/27875658</guid>
-            <pubDate>Mon, 11 Jul 2022 10:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[06:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_59/OzwKr_1657534629074imr7v_JPEG/004e84a1-9cb0-4514-8d8b-ecaa0975055d_B.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[7월 1주 TOP10은 누구?]]></title>
             <link>https://tv.naver.com/v/27875655</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 11 Jul 2022 10:23:10 GMT</pubDate>
             <content:encoded><![CDATA[01:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_98/jhSi1_1657534627350frD2o_JPEG/dee3f112-53c1-447c-8fc6-fa72a45e6378_B.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7월 1주 1위 '프로미스나인'의 'Stay This Way' 앵콜 무대! (Full ver.)]]></title>
+            <link>https://tv.naver.com/v/27875658</link>
+            <guid>https://tv.naver.com/v/27875658</guid>
+            <pubDate>Mon, 11 Jul 2022 10:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[06:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_59/OzwKr_1657534629074imr7v_JPEG/004e84a1-9cb0-4514-8d8b-ecaa0975055d_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[치명적 열병 같은♨ '선미'의 '열이올라요 (Heart Burn)' 무대 | Mnet 220707 방송]]></title>
