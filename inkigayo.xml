@@ -4,7 +4,7 @@
         <title>인기가요</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 08:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 09:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220724_89/Uf6OL_1658650020143TwttJ_JPEG/b5c0aad2-638f-4a79-9619-4704022319c7.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찰떡궁합 ‘에이핑크 초봄’의 앙큼발랄 댄스 팝! ‘Copycat’]]></title>
-            <link>https://tv.naver.com/v/28132871</link>
-            <guid>https://tv.naver.com/v/28132871</guid>
-            <pubDate>Sun, 24 Jul 2022 08:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[03:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_172/8oHg0_1658649721261fnYI2_JPEG/52859bd5-32b7-40bf-8801-4c3144d02e02.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘위너’만의 밝고 에너제틱한 감성을 담은 노래♬ ‘I LOVE U’]]></title>
             <link>https://tv.naver.com/v/28132878</link>
             <guid>https://tv.naver.com/v/28132878</guid>
             <pubDate>Sun, 24 Jul 2022 08:25:16 GMT</pubDate>
             <content:encoded><![CDATA[03:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220724_299/oFtpU_1658649727623079Dk_JPEG/99d86bd4-f3b8-4f70-8537-d2fb6dee5fec.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찰떡궁합 ‘에이핑크 초봄’의 앙큼발랄 댄스 팝! ‘Copycat’]]></title>
+            <link>https://tv.naver.com/v/28132871</link>
+            <guid>https://tv.naver.com/v/28132871</guid>
+            <pubDate>Sun, 24 Jul 2022 08:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[03:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_172/8oHg0_1658649721261fnYI2_JPEG/52859bd5-32b7-40bf-8801-4c3144d02e02.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘세븐틴’과 떠나는 낭만으로 가득한 미지의 영역! ‘_WORLD’]]></title>
