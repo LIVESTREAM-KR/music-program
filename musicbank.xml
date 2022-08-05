@@ -4,7 +4,7 @@
         <title>뮤직뱅크</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 10:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 11:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_18/G0foK_1659691922187Q9f8j_JPEG/62ecdd39d2661ec217266d8c_upload_1659690969647.jpeg?type=f246_140" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[둠두둠 (Doom Du Doom) - P1Harmony(피원하모니) | KBS 220805 방송]]></title>
-            <link>https://tv.naver.com/v/28395016</link>
-            <guid>https://tv.naver.com/v/28395016</guid>
-            <pubDate>Fri, 05 Aug 2022 10:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[02:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_73/QtGZZ_1659691380750vetsX_JPEG/62ecdaecb020b2fae593f906_upload_1659690209449.jpeg?type=f246_140" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Drummin' - TO1 | KBS 220805 방송]]></title>
             <link>https://tv.naver.com/v/28395020</link>
             <guid>https://tv.naver.com/v/28395020</guid>
             <pubDate>Fri, 05 Aug 2022 10:22:54 GMT</pubDate>
             <content:encoded><![CDATA[03:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_76/Dpxy6_1659691384426fQCv8_JPEG/62ecdb833e026d6ec1b86ca7_upload_1659690312716.jpeg?type=f246_140" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[둠두둠 (Doom Du Doom) - P1Harmony(피원하모니) | KBS 220805 방송]]></title>
+            <link>https://tv.naver.com/v/28395016</link>
+            <guid>https://tv.naver.com/v/28395016</guid>
+            <pubDate>Fri, 05 Aug 2022 10:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[02:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_73/QtGZZ_1659691380750vetsX_JPEG/62ecdaecb020b2fae593f906_upload_1659690209449.jpeg?type=f246_140" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Hit The Bass - 블리처스(BLITZERS) | KBS 220805 방송]]></title>
