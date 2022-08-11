@@ -4,17 +4,9 @@
         <title>엠카운트다운</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 11:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 12:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA['ATEEZ'의 역대급 퍼포먼스☆ 'Guerrilla' 무대 | Mnet 220811 방송]]></title>
-            <link>https://tv.naver.com/v/28514275</link>
-            <guid>https://tv.naver.com/v/28514275</guid>
-            <pubDate>Thu, 11 Aug 2022 11:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[03:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_147/sC3kH_1660214828847ULCzy_JPEG/b116e8b2-66b0-4a29-978b-74d066e0bdd1_B.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA['HOT DEBUT' 절제된 섹시美 '키노 (펜타곤)'의 'POSE' 무대 | Mnet 220811 방송]]></title>
             <link>https://tv.naver.com/v/28514272</link>
@@ -22,6 +14,14 @@
             <pubDate>Thu, 11 Aug 2022 11:18:37 GMT</pubDate>
             <content:encoded><![CDATA[03:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_122/TBdLc_1660214826987oTEDR_JPEG/e2775b48-ab90-4e54-9f8f-417dbf5de99f_B.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['ATEEZ'의 역대급 퍼포먼스☆ 'Guerrilla' 무대 | Mnet 220811 방송]]></title>
+            <link>https://tv.naver.com/v/28514275</link>
+            <guid>https://tv.naver.com/v/28514275</guid>
+            <pubDate>Thu, 11 Aug 2022 11:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[03:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_147/sC3kH_1660214828847ULCzy_JPEG/b116e8b2-66b0-4a29-978b-74d066e0bdd1_B.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예나 지금이나 귀여운 'YENA(최예나)'의 'SMARTPHONE' 무대 | Mnet 220811 방송]]></title>
