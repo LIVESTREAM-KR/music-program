@@ -2,7 +2,217 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-09-23T18:45:22.353Z</updated>
+    <updated>2022-09-23T19:07:45.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘강타’, 화려한 야경 아래 감각적인 멜로디! ‘Eyes On You’]]></title>
+        <id>https://tv.naver.com/v/29278206</id>
+        <link href="https://tv.naver.com/v/29278206"/>
+        <updated>2022-09-23T19:07:11.677Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아이브’, 사랑 앞에 솔직하고 당찬 소녀들! ‘After LIKE’]]></title>
+        <id>https://tv.naver.com/v/29278146</id>
+        <link href="https://tv.naver.com/v/29278146"/>
+        <updated>2022-09-23T19:07:11.677Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘최유정’, 사랑할 수밖에 없는 매력♡ ‘Sunflower’]]></title>
+        <id>https://tv.naver.com/v/29278126</id>
+        <link href="https://tv.naver.com/v/29278126"/>
+        <updated>2022-09-23T19:07:11.677Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이진혁’, 한순간 사랑에 빠진 강렬한 눈 맞춤! ‘Crack’]]></title>
+        <id>https://tv.naver.com/v/29278073</id>
+        <link href="https://tv.naver.com/v/29278073"/>
+        <updated>2022-09-23T19:07:11.677Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘김재환’, 아름다운 기억에 짙어지는 그리움! ‘그 시절 우리는’]]></title>
+        <id>https://tv.naver.com/v/29278005</id>
+        <link href="https://tv.naver.com/v/29278005"/>
+        <updated>2022-09-23T19:07:11.685Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘로켓펀치’, 당당하고 자신감 넘치는 팔색조 매력! ‘FLASH’]]></title>
+        <id>https://tv.naver.com/v/29277939</id>
+        <link href="https://tv.naver.com/v/29277939"/>
+        <updated>2022-09-23T19:07:11.687Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[섹시 비주얼로 컴백한 ‘원어스’의 무대! ‘Same Scent’]]></title>
+        <id>https://tv.naver.com/v/29277849</id>
+        <link href="https://tv.naver.com/v/29277849"/>
+        <updated>2022-09-23T19:07:11.687Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘크랙시’의 웅장X다크 퍼포먼스! ‘REQUIEM’]]></title>
+        <id>https://tv.naver.com/v/29277763</id>
+        <link href="https://tv.naver.com/v/29277763"/>
+        <updated>2022-09-23T19:07:11.691Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감각적인 비트 위 ‘씨아이엑스’만의 5인 5색 퍼포먼스! ‘458’]]></title>
+        <id>https://tv.naver.com/v/29277655</id>
+        <link href="https://tv.naver.com/v/29277655"/>
+        <updated>2022-09-23T19:07:11.691Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘미미로즈’, 임창정 제작 걸그룹 전격 데뷔! ‘Rose’]]></title>
+        <id>https://tv.naver.com/v/29277564</id>
+        <link href="https://tv.naver.com/v/29277564"/>
+        <updated>2022-09-23T19:07:11.695Z</updated>
+        <content type="html"><![CDATA[04:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 세계 주목 받으며 청량아치로 돌아온 ‘트라이비’의 ‘KISS’]]></title>
+        <id>https://tv.naver.com/v/29277563</id>
+        <link href="https://tv.naver.com/v/29277563"/>
+        <updated>2022-09-23T19:07:11.696Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘티오원’과 함께하는 시끌벅적 즐거운 파티! ‘What A Beautiful Day’]]></title>
+        <id>https://tv.naver.com/v/29277476</id>
+        <link href="https://tv.naver.com/v/29277476"/>
+        <updated>2022-09-23T19:07:11.700Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘빌리’가 선보이는 원더풀 월드! ‘RING ma Bell’]]></title>
+        <id>https://tv.naver.com/v/29277304</id>
+        <link href="https://tv.naver.com/v/29277304"/>
+        <updated>2022-09-23T19:07:11.700Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘템페스트’, 청량 에너지로 똘똘 뭉친 소년들! ‘Can’t Stop Shining’]]></title>
+        <id>https://tv.naver.com/v/29277303</id>
+        <link href="https://tv.naver.com/v/29277303"/>
+        <updated>2022-09-23T19:07:11.710Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘임윤성’, 개성 있는 보컬에 달콤한 트럼펫 연주까지! ‘Midnight Driver’]]></title>
+        <id>https://tv.naver.com/v/29277217</id>
+        <link href="https://tv.naver.com/v/29277217"/>
+        <updated>2022-09-23T19:07:11.710Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더욱 파워풀한 기세로 타오르는 ‘블랭키’의 무대! ‘FUEGO’]]></title>
+        <id>https://tv.naver.com/v/29277137</id>
+        <link href="https://tv.naver.com/v/29277137"/>
+        <updated>2022-09-23T19:07:11.710Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웅장하고 폭발적인 ‘키’의  One&Only 퍼포먼스! ‘가솔린’]]></title>
+        <id>https://tv.naver.com/v/29006072</id>
+        <link href="https://tv.naver.com/v/29006072"/>
+        <updated>2022-09-23T19:07:11.710Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만능 치트‘키'의 독보적 음악 색깔 선사! ‘Villain (Ft. 제노 of NCT)’]]></title>
+        <id>https://tv.naver.com/v/29006053</id>
+        <link href="https://tv.naver.com/v/29006053"/>
+        <updated>2022-09-23T19:07:11.710Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대세 걸그룹의 정석, ‘트와이스’의 사랑스러운 메시지♥ ‘Talk that Talk’]]></title>
+        <id>https://tv.naver.com/v/29005983</id>
+        <link href="https://tv.naver.com/v/29005983"/>
+        <updated>2022-09-23T19:07:11.710Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z세대 ‘아이브’의 당돌한 사랑법♡ ‘After LIKE’]]></title>
+        <id>https://tv.naver.com/v/29005914</id>
+        <link href="https://tv.naver.com/v/29005914"/>
+        <updated>2022-09-23T19:07:11.710Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[본능적인 감각을 깨우는 ‘씨아이엑스’의 무대! ‘458’]]></title>
+        <id>https://tv.naver.com/v/29005849</id>
+        <link href="https://tv.naver.com/v/29005849"/>
+        <updated>2022-09-23T19:07:11.712Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이진혁’의 치명적이고 거친 매력! ‘Crack’]]></title>
+        <id>https://tv.naver.com/v/29005708</id>
+        <link href="https://tv.naver.com/v/29005708"/>
+        <updated>2022-09-23T19:07:11.715Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신비롭게 반짝이는 ‘로켓펀치’의 무대! ‘FLASH’]]></title>
+        <id>https://tv.naver.com/v/29005707</id>
+        <link href="https://tv.naver.com/v/29005707"/>
+        <updated>2022-09-23T19:07:11.716Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘비에이이173’, 거침없는 카리스마로 무대 장악! ‘DaSH’]]></title>
+        <id>https://tv.naver.com/v/29005706</id>
+        <link href="https://tv.naver.com/v/29005706"/>
+        <updated>2022-09-23T19:07:11.717Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘다크비’, 깊어진 감성만큼 성숙한 매력 ‘넌 매일’]]></title>
+        <id>https://tv.naver.com/v/29005643</id>
+        <link href="https://tv.naver.com/v/29005643"/>
+        <updated>2022-09-23T19:07:11.718Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘템페스트’, 4세대 K-POP 루키! ‘Can’t Stop Shining’]]></title>
+        <id>https://tv.naver.com/v/29005566</id>
+        <link href="https://tv.naver.com/v/29005566"/>
+        <updated>2022-09-23T19:07:11.719Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시원×달콤 보컬 ‘김채원’, 에이프릴에서 솔로로! ‘TOMORROW’]]></title>
+        <id>https://tv.naver.com/v/29005442</id>
+        <link href="https://tv.naver.com/v/29005442"/>
+        <updated>2022-09-23T19:07:11.720Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘빌리’의 유니크한 매력에 눈과 귀 자동 반응! ‘RING ma Bell’]]></title>
+        <id>https://tv.naver.com/v/29005428</id>
+        <link href="https://tv.naver.com/v/29005428"/>
+        <updated>2022-09-23T19:07:11.721Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘블리처스’, 점점 짙어지는 포근한 가을 감성! ‘Gradation’]]></title>
+        <id>https://tv.naver.com/v/29005295</id>
+        <link href="https://tv.naver.com/v/29005295"/>
+        <updated>2022-09-23T19:07:11.722Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블록버스터 급 스케일을 자랑하는 ‘크랙시’의 세계관! ‘Undercover’]]></title>
+        <id>https://tv.naver.com/v/29005293</id>
+        <link href="https://tv.naver.com/v/29005293"/>
+        <updated>2022-09-23T19:07:11.724Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
 </feed>
