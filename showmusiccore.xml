@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-09-24T08:31:59.210Z</updated>
+    <updated>2022-09-24T09:23:59.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 – 2 Baddies(엔시티 127 - 질주) FanCam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29432652</id>
+        <link href="https://tv.naver.com/v/29432652"/>
+        <updated>2022-09-24T09:23:19.556Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN - 2 Baddies(엔시티 127 해찬 - 질주) FanCam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29432586</id>
+        <link href="https://tv.naver.com/v/29432586"/>
+        <updated>2022-09-24T09:23:19.575Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 JUNGWOO - 2 Baddies(엔시티 127 정우 - 질주) FanCam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29432585</id>
+        <link href="https://tv.naver.com/v/29432585"/>
+        <updated>2022-09-24T09:23:19.575Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 YUTA - 2 Baddies(엔시티 127 유타 - 질주) FanCam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29432584</id>
+        <link href="https://tv.naver.com/v/29432584"/>
+        <updated>2022-09-24T09:23:19.576Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》이진혁 - 크랙 (LEE JIN HYUK - Crack), MBC 220917 방송]]></title>
         <id>https://tv.naver.com/v/29431478</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/29266225"/>
         <updated>2022-09-23T19:07:05.173Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미방분] 9월 3주차 1위 앵콜 무대! 아이브 - 애프터 라이크 (IVE - After LIKE), MBC 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29266163</id>
-        <link href="https://tv.naver.com/v/29266163"/>
-        <updated>2022-09-23T19:07:05.173Z</updated>
-        <content type="html"><![CDATA[05:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE GAEUL - After LIKE(아이브 가을 - 애프터 라이크) FanCam | Show! MusicCore | MBC220917방송]]></title>
-        <id>https://tv.naver.com/v/29266162</id>
-        <link href="https://tv.naver.com/v/29266162"/>
-        <updated>2022-09-23T19:07:05.175Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE(아이브) – After LIKE(애프터 라이크) 1위 직캠 FanCam | Show! MusicCore | MBC220917방송]]></title>
-        <id>https://tv.naver.com/v/29266161</id>
-        <link href="https://tv.naver.com/v/29266161"/>
-        <updated>2022-09-23T19:07:05.175Z</updated>
-        <content type="html"><![CDATA[05:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE JINHYUK - Crack(이진혁 – 크랙) FanCam | Show! MusicCore | MBC220917방송]]></title>
-        <id>https://tv.naver.com/v/29266080</id>
-        <link href="https://tv.naver.com/v/29266080"/>
-        <updated>2022-09-23T19:07:05.177Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
