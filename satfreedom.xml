@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-09-24T11:20:03.756Z</updated>
+    <updated>2022-09-24T12:42:36.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 574회 아티스트 혜은이 편 우승자 ⭐정영주⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/29434435</id>
+        <link href="https://tv.naver.com/v/29434435"/>
+        <updated>2022-09-24T12:42:29.865Z</updated>
+        <content type="html"><![CDATA[01:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소란 - 새벽비 | KBS 220924 방송]]></title>
+        <id>https://tv.naver.com/v/29434362</id>
+        <link href="https://tv.naver.com/v/29434362"/>
+        <updated>2022-09-24T12:42:29.866Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션의 아이콘✨ 혜은이 레전드 영상의 오마주를 예고한 소란! | KBS 220924 방송]]></title>
+        <id>https://tv.naver.com/v/29434297</id>
+        <link href="https://tv.naver.com/v/29434297"/>
+        <updated>2022-09-24T12:42:29.866Z</updated>
+        <content type="html"><![CDATA[02:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정영주 - 열정 | KBS 220924 방송]]></title>
+        <id>https://tv.naver.com/v/29434221</id>
+        <link href="https://tv.naver.com/v/29434221"/>
+        <updated>2022-09-24T12:42:29.866Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원조 맛집 전문가 혜은이?! 정영주와 혜은이의 13년만의 재회! 과연 선곡은? | KBS 220924 방송]]></title>
+        <id>https://tv.naver.com/v/29434136</id>
+        <link href="https://tv.naver.com/v/29434136"/>
+        <updated>2022-09-24T12:42:29.866Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신승태 - 독백 | KBS 220924 방송]]></title>
         <id>https://tv.naver.com/v/29434059</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/29267060"/>
         <updated>2022-09-23T19:07:38.034Z</updated>
         <content type="html"><![CDATA[05:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빵으로 에너지 충전!🍞🔋 진솔한 마음이 담긴 에일리의 선곡 | KBS 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29267003</id>
-        <link href="https://tv.naver.com/v/29267003"/>
-        <updated>2022-09-23T19:07:38.043Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다 - 미련한 사랑 | KBS 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29267002</id>
-        <link href="https://tv.naver.com/v/29267002"/>
-        <updated>2022-09-23T19:07:38.045Z</updated>
-        <content type="html"><![CDATA[05:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑에 나이는 중요치 않아💞 영원한 요정 바다, 과연 선곡은? | KBS 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29266961</id>
-        <link href="https://tv.naver.com/v/29266961"/>
-        <updated>2022-09-23T19:07:38.047Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다리까지 올라오는 소름.. 드라마 여주인공이 부르는 듯했던 바다의 무대☆ | KBS 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29266953</id>
-        <link href="https://tv.naver.com/v/29266953"/>
-        <updated>2022-09-23T19:07:38.049Z</updated>
-        <content type="html"><![CDATA[01:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민혜에게 불후 무대는 결투장?🔥 부담스러운 학생들의 모니터링! | KBS 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29266952</id>
-        <link href="https://tv.naver.com/v/29266952"/>
-        <updated>2022-09-23T19:07:38.052Z</updated>
-        <content type="html"><![CDATA[02:02]]></content>
     </entry>
 </feed>
