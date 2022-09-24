@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-24T07:23:06.116Z</updated>
+    <updated>2022-09-24T08:31:59.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Faster + 질주 (2 Baddies) - NCT127 | KBS 220923 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,97 @@
         <content type="html"><![CDATA[02:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜X교차》이진혁 - 크랙 (LEE JIN HYUK - Crack), MBC 220917 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29431478</id>
+        <link href="https://tv.naver.com/v/29431478"/>
+        <updated>2022-09-24T08:31:20.797Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》로켓펀치 - 플래시 (Rocket Punch - FLASH), MBC 220917 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29431475</id>
+        <link href="https://tv.naver.com/v/29431475"/>
+        <updated>2022-09-24T08:31:20.800Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》씨아이엑스 - 458 (CIX - 458), MBC 220917 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29431473</id>
+        <link href="https://tv.naver.com/v/29431473"/>
+        <updated>2022-09-24T08:31:20.800Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 127 - 질주 (NCT 127 - 2 Baddies), MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29431170</id>
+        <link href="https://tv.naver.com/v/29431170"/>
+        <updated>2022-09-24T08:31:20.802Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 127 - 패스터 (NCT 127 - Faster), MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29431146</id>
+        <link href="https://tv.naver.com/v/29431146"/>
+        <updated>2022-09-24T08:31:20.816Z</updated>
+        <content type="html"><![CDATA[01:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재환 - 그 시절 우리는 (KIM JAE HWAN - BACK THEN), MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29431062</id>
+        <link href="https://tv.naver.com/v/29431062"/>
+        <updated>2022-09-24T08:31:20.817Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최유정 - 선플라워 (P.E.L) (CHOI YOOJUNG - Sunflower (P.E.L)), MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29430906</id>
+        <link href="https://tv.naver.com/v/29430906"/>
+        <updated>2022-09-24T08:31:20.817Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이진혁 - 크랙 (LEE JIN HYUK - Crack), MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29430905</id>
+        <link href="https://tv.naver.com/v/29430905"/>
+        <updated>2022-09-24T08:31:20.824Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이브(IVE) in 코노돌🎉 - (왁스 - 화장을 고치고, 2NE1 - 내가 제일 잘 나가) , MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29430816</id>
+        <link href="https://tv.naver.com/v/29430816"/>
+        <updated>2022-09-24T08:31:20.824Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로켓펀치 - 플래시 (Rocket Punch - FLASH), MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29430711</id>
+        <link href="https://tv.naver.com/v/29430711"/>
+        <updated>2022-09-24T08:31:20.836Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 다이스 (NMIXX - DICE), MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29430641</id>
+        <link href="https://tv.naver.com/v/29430641"/>
+        <updated>2022-09-24T08:31:20.836Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 쿨 (유어 레인보우) (NMIXX - COOL(Your rainbow)), MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29430555</id>
+        <link href="https://tv.naver.com/v/29430555"/>
+        <updated>2022-09-24T08:31:20.836Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스 - 세임 센트 (ONEUS - Same Scent), MBC 220924 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29430455</id>
+        <link href="https://tv.naver.com/v/29430455"/>
+        <updated>2022-09-24T08:31:20.836Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[빌리 - 링 마 벨 (Billlie - RING ma Bell(what a wonderful world)), MBC 220924 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/29430381</id>
         <link href="https://tv.naver.com/v/29430381"/>
@@ -332,97 +423,6 @@
         <link href="https://tv.naver.com/v/29266080"/>
         <updated>2022-09-23T19:07:05.177Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CIX BAE JINYOUNG - 458(씨아이엑스 배진영 - 458) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29266078</id>
-        <link href="https://tv.naver.com/v/29266078"/>
-        <updated>2022-09-23T19:07:05.193Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LIZ - After LIKE(아이브 리즈 - 애프터 라이크) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29266076</id>
-        <link href="https://tv.naver.com/v/29266076"/>
-        <updated>2022-09-23T19:07:05.194Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONEUS LEE DO - Same Scent(원어스 이도 - 세임 센트) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29266074</id>
-        <link href="https://tv.naver.com/v/29266074"/>
-        <updated>2022-09-23T19:07:05.196Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO - After LIKE(아이브 이서 - 애프터 라이크) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29266004</id>
-        <link href="https://tv.naver.com/v/29266004"/>
-        <updated>2022-09-23T19:07:05.198Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONEUS – Same Scent(원어스 - 세임 센트) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29266003</id>
-        <link href="https://tv.naver.com/v/29266003"/>
-        <updated>2022-09-23T19:07:05.200Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Billlie – RING ma Bell(빌리 - 링 마 벨) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29265950</id>
-        <link href="https://tv.naver.com/v/29265950"/>
-        <updated>2022-09-23T19:07:05.202Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST – Can’t Stop Shining(템페스트 - 캔 스탑 샤이닝) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29265949</id>
-        <link href="https://tv.naver.com/v/29265949"/>
-        <updated>2022-09-23T19:07:05.203Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONEUS XION - Same Scent(원어스 시온 - 세임 센트) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29265948</id>
-        <link href="https://tv.naver.com/v/29265948"/>
-        <updated>2022-09-23T19:07:05.205Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE REI - After LIKE(아이브 레이 - 애프터 라이크) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29265879</id>
-        <link href="https://tv.naver.com/v/29265879"/>
-        <updated>2022-09-23T19:07:05.206Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE AN YUJIN - After LIKE(아이브 안유진 - 애프터 라이크) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29265878</id>
-        <link href="https://tv.naver.com/v/29265878"/>
-        <updated>2022-09-23T19:07:05.209Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONEUS SEO HO - Same Scent(원어스 서호 - 세임 센트) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29265805</id>
-        <link href="https://tv.naver.com/v/29265805"/>
-        <updated>2022-09-23T19:07:05.210Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CHOI YOUJEONG - Sunflower (P.E.L)(최유정 – 선플라워) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29265739</id>
-        <link href="https://tv.naver.com/v/29265739"/>
-        <updated>2022-09-23T19:07:05.211Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONEUS HWAN WOONG - Same Scent(원어스 환웅 - 세임 센트) FanCam | Show! MusicCore | MBC220917방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29265712</id>
-        <link href="https://tv.naver.com/v/29265712"/>
-        <updated>2022-09-23T19:07:05.213Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘강타’, 화려한 야경 아래 감각적인 멜로디! ‘Eyes On You’ (인기가요)]]></title>
