@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-09-25T09:24:03.569Z</updated>
+    <updated>2022-09-25T10:26:24.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['상견례 프리패스상'의 정체는 개그우먼 엄지윤!, MBC 220925 방송]]></title>
+        <id>https://tv.naver.com/v/29448118</id>
+        <link href="https://tv.naver.com/v/29448118"/>
+        <updated>2022-09-25T10:26:23.382Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의장대 출신 '면접 프리패스상'?! '면접 프리패스상'이 준비한 의장대 댄스 개인기✨, MBC 220925 방송]]></title>
+        <id>https://tv.naver.com/v/29448099</id>
+        <link href="https://tv.naver.com/v/29448099"/>
+        <updated>2022-09-25T10:26:23.383Z</updated>
+        <content type="html"><![CDATA[01:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셀 위 댄스~?💃 '상견례 프리패스상' X 박지훈의 ＜어머님이 누구니＞ 커버 댄스!, MBC 220925 방송]]></title>
+        <id>https://tv.naver.com/v/29448022</id>
+        <link href="https://tv.naver.com/v/29448022"/>
+        <updated>2022-09-25T10:26:23.385Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['상견례 프리패스상' VS '면접 프리패스상'의 1라운드 무대 - 고백, MBC 220925 방송]]></title>
+        <id>https://tv.naver.com/v/29447905</id>
+        <link href="https://tv.naver.com/v/29447905"/>
+        <updated>2022-09-25T10:26:23.386Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['변호사'의 정체는 인디 가수 모트!, MBC 220925 방송]]></title>
+        <id>https://tv.naver.com/v/29447839</id>
+        <link href="https://tv.naver.com/v/29447839"/>
+        <updated>2022-09-25T10:26:23.388Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무편집본 공개] '우리 우정 한 표 차이' 박현수&백형훈 특별무대 - 날아, MBC 220918 방송]]></title>
         <id>https://tv.naver.com/v/29323027</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/29136434"/>
         <updated>2022-09-23T19:07:44.547Z</updated>
         <content type="html"><![CDATA[04:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃보다 가왕' 플라워 고유진 & 육중완 3라운드 리허설 무대 - 희야, MBC 220911 방송]]></title>
-        <id>https://tv.naver.com/v/29136329</id>
-        <link href="https://tv.naver.com/v/29136329"/>
-        <updated>2022-09-23T19:07:44.549Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃보다 가왕'의 정체는 플라워 고유진 & 육중완 밴드의 육중완!, MBC 220911 방송]]></title>
-        <id>https://tv.naver.com/v/29136225</id>
-        <link href="https://tv.naver.com/v/29136225"/>
-        <updated>2022-09-23T19:07:44.551Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜2배 더 치열해진 가왕석 쟁탈전! 가왕석으로 금의 환향할 단 한 팀은?＞ 복면가왕 372회 예고, MBC 220911 방송]]></title>
-        <id>https://tv.naver.com/v/29007403</id>
-        <link href="https://tv.naver.com/v/29007403"/>
-        <updated>2022-09-23T19:07:44.552Z</updated>
-        <content type="html"><![CDATA[00:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신들의 부활'X'꽃보다 가왕'X유채훈의 컬래버 상황극🎬 오은영의 명절 상담소📣, MBC 220904 방송]]></title>
-        <id>https://tv.naver.com/v/29007322</id>
-        <link href="https://tv.naver.com/v/29007322"/>
-        <updated>2022-09-23T19:07:44.554Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신들의 부활' VS '꽃보다 가왕'의 1라운드 무대 - 라라라, MBC 220904 방송]]></title>
-        <id>https://tv.naver.com/v/29007262</id>
-        <link href="https://tv.naver.com/v/29007262"/>
-        <updated>2022-09-23T19:07:44.555Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
