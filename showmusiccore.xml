@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-09-26T06:15:06.506Z</updated>
+    <updated>2022-09-26T07:39:31.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NCT 127 JAEHYUN - 2 Baddies(엔시티 127 재현 - 질주) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29469334</id>
+        <link href="https://tv.naver.com/v/29469334"/>
+        <updated>2022-09-26T07:38:53.709Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 리노(민호), 우주호🚀 9월 넷째 주 음악중심 MC 컷 모음!, MBC 220924 방송]]></title>
+        <id>https://tv.naver.com/v/29466763</id>
+        <link href="https://tv.naver.com/v/29466763"/>
+        <updated>2022-09-26T07:38:53.712Z</updated>
+        <content type="html"><![CDATA[14:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Lapillus CHANTY - GRATATA(라필루스 샨티 - 그라타타) FanCam | Show! MusicCore | MBC229024방송]]></title>
         <id>https://tv.naver.com/v/29433568</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29432991"/>
         <updated>2022-09-24T10:24:48.462Z</updated>
         <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 JAEHYUN - Faster(엔시티 127 재현 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29432872</id>
-        <link href="https://tv.naver.com/v/29432872"/>
-        <updated>2022-09-24T10:24:48.464Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 JOHNNY - Faster(엔시티 127 쟈니 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29432871</id>
-        <link href="https://tv.naver.com/v/29432871"/>
-        <updated>2022-09-24T10:24:48.465Z</updated>
-        <content type="html"><![CDATA[01:55]]></content>
     </entry>
 </feed>
