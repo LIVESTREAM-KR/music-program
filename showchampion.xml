@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-09-26T04:58:56.810Z</updated>
+    <updated>2022-09-26T06:15:06.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 9월 마지막 주! 쇼챔피언이 판도를 뒤집어 완전히♬]]></title>
+        <id>https://tv.naver.com/v/29464995</id>
+        <link href="https://tv.naver.com/v/29464995"/>
+        <updated>2022-09-26T06:14:51.686Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9월 2주차 ♥쇼챔피언♡ MC 모음.zip (씨아이엑스 현석, 아스트로 문빈&산하) | Show Champion | EP.449]]></title>
         <id>https://tv.naver.com/v/29365819</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29196937"/>
         <updated>2022-09-23T19:07:31.815Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TO1 - What A Beautiful Day (티오원 - 왓 어 뷰티풀 데이)]]></title>
-        <id>https://tv.naver.com/v/29196935</id>
-        <link href="https://tv.naver.com/v/29196935"/>
-        <updated>2022-09-23T19:07:31.816Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
