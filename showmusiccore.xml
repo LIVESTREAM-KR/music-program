@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-09-26T23:29:22.442Z</updated>
+    <updated>2022-09-27T02:19:41.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NMIXX KYUJIN - DICE(엔믹스 규진 - 다이스) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29488155</id>
+        <link href="https://tv.naver.com/v/29488155"/>
+        <updated>2022-09-27T02:18:58.324Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NMIXX HAEWON - DICE(엔믹스 해원 - 다이스) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29488028</id>
+        <link href="https://tv.naver.com/v/29488028"/>
+        <updated>2022-09-27T02:18:58.333Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] NMIXX SULLYOON - DICE(엔믹스 설윤 - 다이스) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
+        <id>https://tv.naver.com/v/29487893</id>
+        <link href="https://tv.naver.com/v/29487893"/>
+        <updated>2022-09-27T02:18:58.334Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최애직캠] NCT 127 JAEHYUN - Faster(엔시티 127 재현 - 패스터) Close-up Cam | Show! MusicCore | MBC220924방송]]></title>
         <id>https://tv.naver.com/v/29470137</id>
@@ -192,27 +213,6 @@
         <id>https://tv.naver.com/v/29433069</id>
         <link href="https://tv.naver.com/v/29433069"/>
         <updated>2022-09-24T10:24:48.450Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 MARK - Faster(엔시티 127 마크 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433059</id>
-        <link href="https://tv.naver.com/v/29433059"/>
-        <updated>2022-09-24T10:24:48.452Z</updated>
-        <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEIL - 2 Baddies(엔시티 127 태일 - 질주) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433057</id>
-        <link href="https://tv.naver.com/v/29433057"/>
-        <updated>2022-09-24T10:24:48.452Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 – Faster(엔시티 127 - 패스터) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433000</id>
-        <link href="https://tv.naver.com/v/29433000"/>
-        <updated>2022-09-24T10:24:48.456Z</updated>
         <content type="html"><![CDATA[02:07]]></content>
     </entry>
 </feed>
