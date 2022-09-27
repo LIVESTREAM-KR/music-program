@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2022-09-27T04:43:35.678Z</updated>
+    <updated>2022-09-27T06:04:27.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NMIXX가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/29494172</id>
+        <link href="https://tv.naver.com/v/29494172"/>
+        <updated>2022-09-27T06:04:00.653Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 시즈니를 향한💚 'NCT 127'의 '질주 (2 Baddies)' 무대 | Mnet 220922 방송]]></title>
         <id>https://tv.naver.com/v/29386357</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29103524"/>
         <updated>2022-09-23T19:07:18.740Z</updated>
         <content type="html"><![CDATA[01:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 아련 섹시 '원어스(ONEUS)'의 'Same Scent' 무대 | Mnet 220908 방송]]></title>
-        <id>https://tv.naver.com/v/29103522</id>
-        <link href="https://tv.naver.com/v/29103522"/>
-        <updated>2022-09-23T19:07:18.744Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
     </entry>
 </feed>
