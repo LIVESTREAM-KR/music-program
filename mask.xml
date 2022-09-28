@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-09-28T09:33:33.508Z</updated>
+    <updated>2022-09-28T10:31:48.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 귓가를 사로잡은 청량한 목소리🎶 만능 개그우먼 엄지윤! , MBC 220925 방송]]></title>
+        <id>https://tv.naver.com/v/29532044</id>
+        <link href="https://tv.naver.com/v/29532044"/>
+        <updated>2022-09-28T10:31:48.323Z</updated>
+        <content type="html"><![CDATA[07:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분 공개] 칸토 3R 리허설 무대 영상 - 별 보러 가자, MBC 220925 방송]]></title>
         <id>https://tv.naver.com/v/29504165</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29279365"/>
         <updated>2022-09-23T19:07:44.523Z</updated>
         <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜추석 특집 듀엣 대전의 가왕은?＞ 복면가왕 373회 예고, MBC 220918 방송]]></title>
-        <id>https://tv.naver.com/v/29137414</id>
-        <link href="https://tv.naver.com/v/29137414"/>
-        <updated>2022-09-23T19:07:44.523Z</updated>
-        <content type="html"><![CDATA[00:59]]></content>
     </entry>
 </feed>

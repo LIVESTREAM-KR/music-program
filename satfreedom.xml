@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-09-28T09:33:33.509Z</updated>
+    <updated>2022-09-28T10:31:48.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[✨특집 티저✨ 불후 국군의 날 특집👍 뜨거웠던 현장 미리보기! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/29532746</id>
+        <link href="https://tv.naver.com/v/29532746"/>
+        <updated>2022-09-28T10:31:42.069Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 574회 아티스트 혜은이 편 우승자 ⭐정영주⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/29434435</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29267211"/>
         <updated>2022-09-23T19:07:38.030Z</updated>
         <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에일리 - 사랑은 늘 도망가 | KBS 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29267060</id>
-        <link href="https://tv.naver.com/v/29267060"/>
-        <updated>2022-09-23T19:07:38.034Z</updated>
-        <content type="html"><![CDATA[05:48]]></content>
     </entry>
 </feed>
