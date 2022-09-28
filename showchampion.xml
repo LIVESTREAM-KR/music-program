@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-09-28T10:31:48.883Z</updated>
+    <updated>2022-09-28T11:22:32.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[입덕 LIVE] 성장형 아티스트 원어스가 보여주는 특별한 무대♥]]></title>
+        <id>https://tv.naver.com/v/29533083</id>
+        <link href="https://tv.naver.com/v/29533083"/>
+        <updated>2022-09-28T11:22:16.452Z</updated>
+        <content type="html"><![CDATA[04:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SOLO HOT DEBUT] Choi Yoojung - Sunflower(P.E.L) (최유정 - 선플라워)]]></title>
+        <id>https://tv.naver.com/v/29533082</id>
+        <link href="https://tv.naver.com/v/29533082"/>
+        <updated>2022-09-28T11:22:16.467Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] NMIXX - DICE (엔믹스 - 다이스)]]></title>
+        <id>https://tv.naver.com/v/29533081</id>
+        <link href="https://tv.naver.com/v/29533081"/>
+        <updated>2022-09-28T11:22:16.467Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SOLO HOT DEBUT] Choi Yoojung - OWL (최유정 - 아울)]]></title>
+        <id>https://tv.naver.com/v/29532975</id>
+        <link href="https://tv.naver.com/v/29532975"/>
+        <updated>2022-09-28T11:22:16.474Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[입덕 LIVE] ONEUS - Pink Venom (원곡 : BLACKPINK) (원어스 - 핑크 베놈)]]></title>
         <id>https://tv.naver.com/v/29532865</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/29340750"/>
         <updated>2022-09-23T19:07:31.780Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] SF9 - Tear Drop (에스에프나인 - 티어 드롭)]]></title>
-        <id>https://tv.naver.com/v/29340748</id>
-        <link href="https://tv.naver.com/v/29340748"/>
-        <updated>2022-09-23T19:07:31.781Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] OH MY GIRL - The fifth season(SSFWL) (오마이걸 - 다섯 번째 계절)]]></title>
-        <id>https://tv.naver.com/v/29340745</id>
-        <link href="https://tv.naver.com/v/29340745"/>
-        <updated>2022-09-23T19:07:31.784Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] SEVENTEEN - Don't Wanna Cry (세븐틴 - 울고 싶지 않아)]]></title>
-        <id>https://tv.naver.com/v/29340722</id>
-        <link href="https://tv.naver.com/v/29340722"/>
-        <updated>2022-09-23T19:07:31.785Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] N.Flying - Rooftop (엔플라잉 - 옥탑방)]]></title>
-        <id>https://tv.naver.com/v/29340582</id>
-        <link href="https://tv.naver.com/v/29340582"/>
-        <updated>2022-09-23T19:07:31.787Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
