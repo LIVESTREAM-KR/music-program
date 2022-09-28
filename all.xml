@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-28T12:48:07.132Z</updated>
+    <updated>2022-09-28T13:57:22.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Faster + 질주 (2 Baddies) - NCT127 | KBS 220923 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,20 @@
         <content type="html"><![CDATA[02:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS KEONHEE - Same Scent (원어스 건희 - 세임 센트) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29533215</id>
+        <link href="https://tv.naver.com/v/29533215"/>
+        <updated>2022-09-28T13:57:09.334Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS LEEDO - Same Scent (원어스 이도 - 세임 센트) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29533105</id>
+        <link href="https://tv.naver.com/v/29533105"/>
+        <updated>2022-09-28T13:57:09.336Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[입덕 LIVE] 성장형 아티스트 원어스가 보여주는 특별한 무대♥ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/29533083</id>
         <link href="https://tv.naver.com/v/29533083"/>
@@ -1076,6 +1090,20 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS XION - Same Scent (원어스 시온 - 세임 센트) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29533079</id>
+        <link href="https://tv.naver.com/v/29533079"/>
+        <updated>2022-09-28T13:57:09.341Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS HWANWOONG - Same Scent (원어스 환웅 - 세임 센트) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29533078</id>
+        <link href="https://tv.naver.com/v/29533078"/>
+        <updated>2022-09-28T13:57:09.342Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SOLO HOT DEBUT] Choi Yoojung - OWL (최유정 - 아울) (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/29532975</id>
         <link href="https://tv.naver.com/v/29532975"/>
@@ -1088,6 +1116,34 @@
         <link href="https://tv.naver.com/v/29532865"/>
         <updated>2022-09-28T10:31:35.888Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS - Same Scent (원어스 - 세임 센트) l Show Champion l EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532770</id>
+        <link href="https://tv.naver.com/v/29532770"/>
+        <updated>2022-09-28T13:57:09.347Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] CHOI YOOJUNG - Sunflower(P.E.L) (최유정 - 선플라워) l Show Champion l EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532636</id>
+        <link href="https://tv.naver.com/v/29532636"/>
+        <updated>2022-09-28T13:57:09.348Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX LILY - DICE (엔믹스 릴리 - 다이스) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532635</id>
+        <link href="https://tv.naver.com/v/29532635"/>
+        <updated>2022-09-28T13:57:09.349Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX JINNI - DICE (엔믹스 지니 - 다이스) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532633</id>
+        <link href="https://tv.naver.com/v/29532633"/>
+        <updated>2022-09-28T13:57:09.350Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MAKAMAKA - I AM (마카마카 - 아이 엠) (쇼챔피언)]]></title>
@@ -1104,6 +1160,20 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS RAVN - Same Scent (원어스 레이븐 - 세임 센트) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532469</id>
+        <link href="https://tv.naver.com/v/29532469"/>
+        <updated>2022-09-28T13:57:09.354Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX HAEWON - DICE (엔믹스 해원 - 다이스) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532468</id>
+        <link href="https://tv.naver.com/v/29532468"/>
+        <updated>2022-09-28T13:57:09.355Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ONEUS - Same Scent (원어스 - 새임 센트) (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/29532448</id>
         <link href="https://tv.naver.com/v/29532448"/>
@@ -1118,6 +1188,34 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS SEOHO - Same Scent (원어스 서호 - 세임 센트) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532445</id>
+        <link href="https://tv.naver.com/v/29532445"/>
+        <updated>2022-09-28T13:57:09.358Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX JIWOO - DICE (엔믹스 지우 - 다이스) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532443</id>
+        <link href="https://tv.naver.com/v/29532443"/>
+        <updated>2022-09-28T13:57:09.359Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX BAE - DICE (엔믹스 배이 - 다이스) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532239</id>
+        <link href="https://tv.naver.com/v/29532239"/>
+        <updated>2022-09-28T13:57:09.360Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX SULLYOON - DICE (엔믹스 설윤 - 다이스) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532163</id>
+        <link href="https://tv.naver.com/v/29532163"/>
+        <updated>2022-09-28T13:57:09.361Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[HOT DEBUT] mimiirose - Rose (미미로즈 - 로즈) (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/29532142</id>
         <link href="https://tv.naver.com/v/29532142"/>
@@ -1130,6 +1228,13 @@
         <link href="https://tv.naver.com/v/29532140"/>
         <updated>2022-09-28T10:31:35.894Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX KYUJIN - DICE (엔믹스 규진 - 다이스) | Show Champion | EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29532046</id>
+        <link href="https://tv.naver.com/v/29532046"/>
+        <updated>2022-09-28T13:57:09.365Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[MC석 인터뷰] 엔믹스가 앤써에게 전하는 파이팅 메시지♥ (쇼챔피언)]]></title>
@@ -1153,116 +1258,11 @@
         <content type="html"><![CDATA[02:59]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YEAHSHINE - Wanna go for a walk (예빈나다 - 산책하러 갈래) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29531709</id>
-        <link href="https://tv.naver.com/v/29531709"/>
-        <updated>2022-09-28T10:31:35.903Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KANG MINJAE - Rose (강민재 - 장미) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29531448</id>
-        <link href="https://tv.naver.com/v/29531448"/>
-        <updated>2022-09-28T09:33:17.393Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 9월 마지막 주! 쇼챔피언이 판도를 뒤집어 완전히♬ (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29464995</id>
-        <link href="https://tv.naver.com/v/29464995"/>
-        <updated>2022-09-26T06:14:51.686Z</updated>
-        <content type="html"><![CDATA[00:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9월 2주차 ♥쇼챔피언♡ MC 모음.zip (씨아이엑스 현석, 아스트로 문빈&산하) | Show Champion | EP.449 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29365819</id>
-        <link href="https://tv.naver.com/v/29365819"/>
-        <updated>2022-09-23T19:07:31.761Z</updated>
-        <content type="html"><![CDATA[06:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] ITZY - SNEAKERS (있지 - 스니커즈) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29343612</id>
-        <link href="https://tv.naver.com/v/29343612"/>
-        <updated>2022-09-23T19:07:31.764Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] DKZ - Cupid (디케이지 - 사랑도둑) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29343611</id>
-        <link href="https://tv.naver.com/v/29343611"/>
-        <updated>2022-09-23T19:07:31.767Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] LE SSERAFIM - FEARLESS (르세라핌 - 피어리스) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29343460</id>
-        <link href="https://tv.naver.com/v/29343460"/>
-        <updated>2022-09-23T19:07:31.768Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] LUCY - PLAY (루시 - 놀이) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29343305</id>
-        <link href="https://tv.naver.com/v/29343305"/>
-        <updated>2022-09-23T19:07:31.769Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] YUQI - Giant(Band Ver.) + Bonnie & Clyde(Band Ver.) (우기((여자)아이들) - 자이언트 + 보니 & 클라이드 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29341127</id>
-        <link href="https://tv.naver.com/v/29341127"/>
-        <updated>2022-09-23T19:07:31.770Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] MOONBIN&SANHA(ASTRO) - WHO (문빈&산하(아스트로) - 후) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29341013</id>
-        <link href="https://tv.naver.com/v/29341013"/>
-        <updated>2022-09-23T19:07:31.771Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] KIM JAE HWAN - Your Shampoo Scent In The Flowers (김재환 - 흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야(원곡 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29341012</id>
-        <link href="https://tv.naver.com/v/29341012"/>
-        <updated>2022-09-23T19:07:31.773Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] YENA - Only One(원곡 : BoA) (최예나 - 온리 원) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29341010</id>
-        <link href="https://tv.naver.com/v/29341010"/>
-        <updated>2022-09-23T19:07:31.774Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] CIX - LOVE ME RIGHT (원곡 : EXO) (씨아이엑스 - 러브 미 라잇) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29341009</id>
-        <link href="https://tv.naver.com/v/29341009"/>
-        <updated>2022-09-23T19:07:31.775Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] WJSN THE BLACK - Rum Pum Pum Pum (우주소녀 더 블랙 - 첫 사랑니(원곡 : f(x))) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29340753</id>
-        <link href="https://tv.naver.com/v/29340753"/>
-        <updated>2022-09-23T19:07:31.778Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] WONPIL - HeeJae (원필(DAY6) - 희재(원곡 : 성시경)) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29340751</id>
-        <link href="https://tv.naver.com/v/29340751"/>
-        <updated>2022-09-23T19:07:31.779Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔피언 가을 秋억 여행] TWICE - Feel Special (트와이스 - 필 스페셜) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29340750</id>
-        <link href="https://tv.naver.com/v/29340750"/>
-        <updated>2022-09-23T19:07:31.780Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX - DICE (엔믹스 - 다이스) l Show Champion l EP.451 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29531822</id>
+        <link href="https://tv.naver.com/v/29531822"/>
+        <updated>2022-09-28T13:57:09.370Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✨특집 티저✨ 불후 국군의 날 특집👍 뜨거웠던 현장 미리보기! | KBS 방송 (불후의 명곡)]]></title>
