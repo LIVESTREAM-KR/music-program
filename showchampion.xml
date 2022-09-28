@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-09-28T08:36:53.884Z</updated>
+    <updated>2022-09-28T09:33:33.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KANG MINJAE - Rose (강민재 - 장미)]]></title>
+        <id>https://tv.naver.com/v/29531448</id>
+        <link href="https://tv.naver.com/v/29531448"/>
+        <updated>2022-09-28T09:33:17.393Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 9월 마지막 주! 쇼챔피언이 판도를 뒤집어 완전히♬]]></title>
         <id>https://tv.naver.com/v/29464995</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29197081"/>
         <updated>2022-09-23T19:07:31.814Z</updated>
         <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Punch - FLASH (로켓펀치 - 플래시)]]></title>
-        <id>https://tv.naver.com/v/29196937</id>
-        <link href="https://tv.naver.com/v/29196937"/>
-        <updated>2022-09-23T19:07:31.815Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
