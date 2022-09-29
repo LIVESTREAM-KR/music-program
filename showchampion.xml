@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-09-29T10:28:11.802Z</updated>
+    <updated>2022-09-29T11:21:35.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9월 4주차 ♥쇼챔피언♡ MC 모음.zip (NMIXX 설윤, ASRTO 문빈&산하) | Show Champion | EP.551]]></title>
+        <id>https://tv.naver.com/v/29536665</id>
+        <link href="https://tv.naver.com/v/29536665"/>
+        <updated>2022-09-29T11:21:22.535Z</updated>
+        <content type="html"><![CDATA[07:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS KEONHEE - Same Scent (원어스 건희 - 세임 센트) | Show Champion | EP.451]]></title>
         <id>https://tv.naver.com/v/29533215</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29531825"/>
         <updated>2022-09-28T10:31:35.895Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX - DICE (엔믹스 - 다이스) l Show Champion l EP.451]]></title>
-        <id>https://tv.naver.com/v/29531822</id>
-        <link href="https://tv.naver.com/v/29531822"/>
-        <updated>2022-09-28T13:57:09.370Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
