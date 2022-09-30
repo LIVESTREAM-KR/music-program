@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-30T08:38:11.173Z</updated>
+    <updated>2022-09-30T09:33:09.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[StarLight - 라임라잇(LIMELIGHT) | KBS 220930 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/29590642</id>
+        <link href="https://tv.naver.com/v/29590642"/>
+        <updated>2022-09-30T09:32:14.488Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장미 - 강민재 | KBS 220930 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/29589957</id>
+        <link href="https://tv.naver.com/v/29589957"/>
+        <updated>2022-09-30T09:32:14.489Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I AM - 마카마카 | KBS 220930 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/29589784</id>
+        <link href="https://tv.naver.com/v/29589784"/>
+        <updated>2022-09-30T09:32:14.489Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[City Of Stars, 안아줘요(Hug Song) - 장원영 X 이채민 | KBS 220930 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/29589488</id>
+        <link href="https://tv.naver.com/v/29589488"/>
+        <updated>2022-09-30T09:32:14.489Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faster + 질주 (2 Baddies) - NCT127 | KBS 220923 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/29414898</id>
@@ -185,34 +213,6 @@
         <link href="https://tv.naver.com/v/29249397"/>
         <updated>2022-09-23T19:06:58.501Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What A Beautiful Day - TO1 | KBS 220916 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29249246</id>
-        <link href="https://tv.naver.com/v/29249246"/>
-        <updated>2022-09-23T19:06:58.502Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RING ma Bell (what a wonderful world) - Billlie | KBS 220916 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29249239</id>
-        <link href="https://tv.naver.com/v/29249239"/>
-        <updated>2022-09-23T19:06:58.504Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can’t Stop Shining - TEMPEST(템페스트) | KBS 220916 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29249103</id>
-        <link href="https://tv.naver.com/v/29249103"/>
-        <updated>2022-09-23T19:06:58.505Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸음마 (get him UGH) - BAE173(비에이이일칠삼) | KBS 220916 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29248977</id>
-        <link href="https://tv.naver.com/v/29248977"/>
-        <updated>2022-09-23T19:06:58.507Z</updated>
-        <content type="html"><![CDATA[02:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT 127.zip 📂 Fire Truck(소방차)부터 2 Baddies(질주)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
