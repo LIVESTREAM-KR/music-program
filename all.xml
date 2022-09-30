@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-30T06:19:37.161Z</updated>
+    <updated>2022-09-30T07:44:43.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Faster + 질주 (2 Baddies) - NCT127 | KBS 220923 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127.zip 📂 Fire Truck(소방차)부터 2 Baddies(질주)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29573594</id>
+        <link href="https://tv.naver.com/v/29573594"/>
+        <updated>2022-09-30T07:44:04.472Z</updated>
+        <content type="html"><![CDATA[01:01:50]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[최애직캠] NMIXX KYUJIN - DICE(엔믹스 규진 - 다이스) Close-up Cam | Show! MusicCore | MBC220924방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/29488155</id>
         <link href="https://tv.naver.com/v/29488155"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/29433113"/>
         <updated>2022-09-24T10:24:48.450Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEYONG - Faster(엔시티 127 태용 - 패스터) FanCam | Show! MusicCore | MBC220924방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29433069</id>
-        <link href="https://tv.naver.com/v/29433069"/>
-        <updated>2022-09-24T10:24:48.450Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BLACKPINK - INTRO+Shut Down | SBS 220925 방송 (인기가요)]]></title>
