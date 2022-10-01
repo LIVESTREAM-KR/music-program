@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-01T12:45:41.973Z</updated>
+    <updated>2022-10-01T13:45:18.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[질주 (2 Baddies) - NCT127 | KBS 220930 방송 (뮤직뱅크)]]></title>
@@ -1405,13 +1405,6 @@
         <content type="html"><![CDATA[01:24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라포엠 - 비목 | KBS 221001 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/29606421</id>
-        <link href="https://tv.naver.com/v/29606421"/>
-        <updated>2022-10-01T10:26:45.928Z</updated>
-        <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[정선아 - 아름다운 나라 | KBS 221001 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/29606420</id>
         <link href="https://tv.naver.com/v/29606420"/>
@@ -1473,6 +1466,13 @@
         <link href="https://tv.naver.com/v/29434136"/>
         <updated>2022-09-24T12:42:29.866Z</updated>
         <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신승태 - 독백 | KBS 220924 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/29434059</id>
+        <link href="https://tv.naver.com/v/29434059"/>
+        <updated>2022-10-01T13:45:11.302Z</updated>
+        <content type="html"><![CDATA[05:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 가을 밤에 어울리는 짙은 감성🌆 래퍼 칸토! , MBC 220925 방송 (복면가왕)]]></title>
