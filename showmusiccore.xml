@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-01T06:03:26.063Z</updated>
+    <updated>2022-10-01T07:29:28.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미미로즈 - 로즈 (mimiirose - Rose), MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29604182</id>
+        <link href="https://tv.naver.com/v/29604182"/>
+        <updated>2022-10-01T07:28:50.484Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권민제 - 어묵 국물 (KWON MIN JE - Memory), MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29604115</id>
+        <link href="https://tv.naver.com/v/29604115"/>
+        <updated>2022-10-01T07:28:50.484Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비 - 인 디 에어(777) (TRI.BE - In The Air(777)), MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29604014</id>
+        <link href="https://tv.naver.com/v/29604014"/>
+        <updated>2022-10-01T07:28:50.485Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마카마카 - 아이엠 (MAKAMAKA - I AM), MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29603872</id>
+        <link href="https://tv.naver.com/v/29603872"/>
+        <updated>2022-10-01T07:28:50.490Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이포 - 폭풍 같은 사랑 (K4 - Love Storm), MBC 221001]]></title>
+        <id>https://tv.naver.com/v/29603781</id>
+        <link href="https://tv.naver.com/v/29603781"/>
+        <updated>2022-10-01T07:28:50.491Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나영 - 버스 (Na yeong - BUS), MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29603778</id>
+        <link href="https://tv.naver.com/v/29603778"/>
+        <updated>2022-10-01T07:28:50.491Z</updated>
+        <content type="html"><![CDATA[02:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롤링쿼츠 - 나잡아봐라 (Rolling Quartz - NAZABABARA), MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29603641</id>
+        <link href="https://tv.naver.com/v/29603641"/>
+        <updated>2022-10-01T07:28:50.492Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇 - 스타라이트 (LIMELIGHT - StarLight), MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29603544</id>
+        <link href="https://tv.naver.com/v/29603544"/>
+        <updated>2022-10-01T07:28:50.493Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예빈나다 - 산책하러 갈래 (YEAHSHINE - Wanna go for a walk), MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29603475</id>
+        <link href="https://tv.naver.com/v/29603475"/>
+        <updated>2022-10-01T07:28:50.493Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT 127.zip 📂 Fire Truck(소방차)부터 2 Baddies(질주)까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/29573594</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/29433322"/>
         <updated>2022-09-24T10:24:48.433Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX – DICE(엔믹스 - 다이스) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433321</id>
-        <link href="https://tv.naver.com/v/29433321"/>
-        <updated>2022-09-24T10:24:48.433Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONEUS – Same Scent(원어스 - 세임 센트) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433276</id>
-        <link href="https://tv.naver.com/v/29433276"/>
-        <updated>2022-09-24T10:24:48.433Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX JIWOO - DICE(엔믹스 지우 - 다이스) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433235</id>
-        <link href="https://tv.naver.com/v/29433235"/>
-        <updated>2022-09-24T10:24:48.433Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX BAE - DICE(엔믹스 배이 - 다이스) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433234</id>
-        <link href="https://tv.naver.com/v/29433234"/>
-        <updated>2022-09-24T10:24:48.443Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX JINNI - DICE(엔믹스 지니 - 다이스) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433233</id>
-        <link href="https://tv.naver.com/v/29433233"/>
-        <updated>2022-09-24T10:24:48.443Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX LILY - DICE(엔믹스 릴리 - 다이스) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433232</id>
-        <link href="https://tv.naver.com/v/29433232"/>
-        <updated>2022-09-24T10:24:48.447Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON - DICE(엔믹스 해원 - 다이스) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433165</id>
-        <link href="https://tv.naver.com/v/29433165"/>
-        <updated>2022-09-24T10:24:48.447Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX KYUJIN - DICE(엔믹스 규진 - 다이스) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433115</id>
-        <link href="https://tv.naver.com/v/29433115"/>
-        <updated>2022-09-24T10:24:48.450Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON - DICE(엔믹스 설윤 - 다이스) FanCam | Show! MusicCore | MBC220924방송]]></title>
-        <id>https://tv.naver.com/v/29433113</id>
-        <link href="https://tv.naver.com/v/29433113"/>
-        <updated>2022-09-24T10:24:48.450Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
