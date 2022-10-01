@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-01T11:21:13.627Z</updated>
+    <updated>2022-10-01T12:45:41.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[질주 (2 Baddies) - NCT127 | KBS 220930 방송 (뮤직뱅크)]]></title>
@@ -1265,11 +1265,18 @@
         <content type="html"><![CDATA[02:59]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어느 때보다도 뜨거운 열기가 전해졌던 무대들🔥 아닌척하다 딱 걸린 이찬원?!🤣 | KBS 221001 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/29607300</id>
-        <link href="https://tv.naver.com/v/29607300"/>
-        <updated>2022-10-01T11:21:06.650Z</updated>
-        <content type="html"><![CDATA[01:15]]></content>
+        <title type="html"><![CDATA[싸이 - 예술이야 | KBS 221001 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/29607383</id>
+        <link href="https://tv.naver.com/v/29607383"/>
+        <updated>2022-10-01T12:45:34.069Z</updated>
+        <content type="html"><![CDATA[04:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸이 - 연예인 | KBS 221001 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/29607364</id>
+        <link href="https://tv.naver.com/v/29607364"/>
+        <updated>2022-10-01T12:45:34.071Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 💖더 프렌즈 특집💖 1부! 가요계 절친들의 찐~한 케미 놓치지 마세요🥳 | KBS 방송 (불후의 명곡)]]></title>
@@ -1277,6 +1284,13 @@
         <link href="https://tv.naver.com/v/29607299"/>
         <updated>2022-10-01T11:21:06.651Z</updated>
         <content type="html"><![CDATA[00:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어느 때보다도 뜨거운 열기가 전해졌던 무대들🔥 아닌척하다 딱 걸린 이찬원?!🤣 | KBS 221001 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/29607300</id>
+        <link href="https://tv.naver.com/v/29607300"/>
+        <updated>2022-10-01T11:21:06.650Z</updated>
+        <content type="html"><![CDATA[01:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싸이 - That That(prod. & feat. SUGA of BTS) | KBS 221001 방송 (불후의 명곡)]]></title>
@@ -1459,20 +1473,6 @@
         <link href="https://tv.naver.com/v/29434136"/>
         <updated>2022-09-24T12:42:29.866Z</updated>
         <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신승태 - 독백 | KBS 220924 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/29434059</id>
-        <link href="https://tv.naver.com/v/29434059"/>
-        <updated>2022-09-24T11:19:57.192Z</updated>
-        <content type="html"><![CDATA[05:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경연조차 잊게 만들었다.. 모두의 혼을 쏙 뺀 무대 신승태의 무대🎤 | KBS 220924 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/29433992</id>
-        <link href="https://tv.naver.com/v/29433992"/>
-        <updated>2022-09-24T11:19:57.192Z</updated>
-        <content type="html"><![CDATA[01:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 가을 밤에 어울리는 짙은 감성🌆 래퍼 칸토! , MBC 220925 방송 (복면가왕)]]></title>
