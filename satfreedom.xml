@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-10-02T15:26:51.109Z</updated>
+    <updated>2022-10-02T16:33:28.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라포엠 - 비목 | KBS 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29625309</id>
+        <link href="https://tv.naver.com/v/29625309"/>
+        <updated>2022-10-02T16:33:20.342Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이 - 예술이야 | KBS 221001 방송]]></title>
         <id>https://tv.naver.com/v/29607383</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29434136"/>
         <updated>2022-09-24T12:42:29.866Z</updated>
         <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신승태 - 독백 | KBS 220924 방송]]></title>
-        <id>https://tv.naver.com/v/29434059</id>
-        <link href="https://tv.naver.com/v/29434059"/>
-        <updated>2022-10-01T13:45:11.302Z</updated>
-        <content type="html"><![CDATA[05:35]]></content>
     </entry>
 </feed>
