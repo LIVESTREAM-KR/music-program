@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-10-02T07:26:21.107Z</updated>
+    <updated>2022-10-02T08:30:16.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시우민(XIUMIN) - Brand New | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617851</id>
+        <link href="https://tv.naver.com/v/29617851"/>
+        <updated>2022-10-02T08:29:43.127Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - PARTY ROCK | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617773</id>
+        <link href="https://tv.naver.com/v/29617773"/>
+        <updated>2022-10-02T08:29:43.127Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비(TRI.BE) - In The Air (777) | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617769</id>
+        <link href="https://tv.naver.com/v/29617769"/>
+        <updated>2022-10-02T08:29:43.151Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - DICE | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617697</id>
+        <link href="https://tv.naver.com/v/29617697"/>
+        <updated>2022-10-02T08:29:43.151Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김영철- 막가리 | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617609</id>
+        <link href="https://tv.naver.com/v/29617609"/>
+        <updated>2022-10-02T08:29:43.151Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래소년(MIRAE) -  Drip N’ Drop | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617510</id>
+        <link href="https://tv.naver.com/v/29617510"/>
+        <updated>2022-10-02T08:29:43.151Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마카마카 - I AM | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617429</id>
+        <link href="https://tv.naver.com/v/29617429"/>
+        <updated>2022-10-02T08:29:43.151Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mimiirose - Rose | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617339</id>
+        <link href="https://tv.naver.com/v/29617339"/>
+        <updated>2022-10-02T08:29:43.151Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예빈나다 - 산책하러 갈래 | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617242</id>
+        <link href="https://tv.naver.com/v/29617242"/>
+        <updated>2022-10-02T08:29:43.151Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라필루스(Lapillus) - GRATATA | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617240</id>
+        <link href="https://tv.naver.com/v/29617240"/>
+        <updated>2022-10-02T08:29:43.151Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[권민제 - 어묵국물 | SBS 221002 방송]]></title>
         <id>https://tv.naver.com/v/29617077</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/29444985"/>
         <updated>2022-09-25T07:22:20.045Z</updated>
         <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘강타’, 화려한 야경 아래 감각적인 멜로디! ‘Eyes On You’]]></title>
-        <id>https://tv.naver.com/v/29278206</id>
-        <link href="https://tv.naver.com/v/29278206"/>
-        <updated>2022-09-23T19:07:11.677Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘아이브’, 사랑 앞에 솔직하고 당찬 소녀들! ‘After LIKE’]]></title>
-        <id>https://tv.naver.com/v/29278146</id>
-        <link href="https://tv.naver.com/v/29278146"/>
-        <updated>2022-09-23T19:07:11.677Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘최유정’, 사랑할 수밖에 없는 매력♡ ‘Sunflower’]]></title>
-        <id>https://tv.naver.com/v/29278126</id>
-        <link href="https://tv.naver.com/v/29278126"/>
-        <updated>2022-09-23T19:07:11.677Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이진혁’, 한순간 사랑에 빠진 강렬한 눈 맞춤! ‘Crack’]]></title>
-        <id>https://tv.naver.com/v/29278073</id>
-        <link href="https://tv.naver.com/v/29278073"/>
-        <updated>2022-09-23T19:07:11.677Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘김재환’, 아름다운 기억에 짙어지는 그리움! ‘그 시절 우리는’]]></title>
-        <id>https://tv.naver.com/v/29278005</id>
-        <link href="https://tv.naver.com/v/29278005"/>
-        <updated>2022-09-23T19:07:11.685Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘로켓펀치’, 당당하고 자신감 넘치는 팔색조 매력! ‘FLASH’]]></title>
-        <id>https://tv.naver.com/v/29277939</id>
-        <link href="https://tv.naver.com/v/29277939"/>
-        <updated>2022-09-23T19:07:11.687Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[섹시 비주얼로 컴백한 ‘원어스’의 무대! ‘Same Scent’]]></title>
-        <id>https://tv.naver.com/v/29277849</id>
-        <link href="https://tv.naver.com/v/29277849"/>
-        <updated>2022-09-23T19:07:11.687Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘크랙시’의 웅장X다크 퍼포먼스! ‘REQUIEM’]]></title>
-        <id>https://tv.naver.com/v/29277763</id>
-        <link href="https://tv.naver.com/v/29277763"/>
-        <updated>2022-09-23T19:07:11.691Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감각적인 비트 위 ‘씨아이엑스’만의 5인 5색 퍼포먼스! ‘458’]]></title>
-        <id>https://tv.naver.com/v/29277655</id>
-        <link href="https://tv.naver.com/v/29277655"/>
-        <updated>2022-09-23T19:07:11.691Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘미미로즈’, 임창정 제작 걸그룹 전격 데뷔! ‘Rose’]]></title>
-        <id>https://tv.naver.com/v/29277564</id>
-        <link href="https://tv.naver.com/v/29277564"/>
-        <updated>2022-09-23T19:07:11.695Z</updated>
-        <content type="html"><![CDATA[04:31]]></content>
     </entry>
 </feed>
