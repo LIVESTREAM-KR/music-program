@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-10-02T08:30:16.195Z</updated>
+    <updated>2022-10-02T09:26:52.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 - Faster + 질주 (2 Baddies) | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29619165</id>
+        <link href="https://tv.naver.com/v/29619165"/>
+        <updated>2022-10-02T09:26:19.173Z</updated>
+        <content type="html"><![CDATA[06:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시우민(XIUMIN) - Brand New | SBS 221002 방송]]></title>
         <id>https://tv.naver.com/v/29617851</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29445072"/>
         <updated>2022-09-25T07:22:20.045Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예빈나다 - 산책하러 갈래 | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29444985</id>
-        <link href="https://tv.naver.com/v/29444985"/>
-        <updated>2022-09-25T07:22:20.045Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
 </feed>
