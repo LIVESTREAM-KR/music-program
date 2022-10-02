@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-10-02T06:35:59.419Z</updated>
+    <updated>2022-10-02T07:26:21.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[권민제 - 어묵국물 | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617077</id>
+        <link href="https://tv.naver.com/v/29617077"/>
+        <updated>2022-10-02T07:25:49.018Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - StarLight | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617074</id>
+        <link href="https://tv.naver.com/v/29617074"/>
+        <updated>2022-10-02T07:25:49.027Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADORA - Magical Symphony | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29617073</id>
+        <link href="https://tv.naver.com/v/29617073"/>
+        <updated>2022-10-02T07:25:49.028Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[롤링쿼츠(Rolling Quartz) - NAZABABARA | SBS 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29616883</id>
+        <link href="https://tv.naver.com/v/29616883"/>
+        <updated>2022-10-02T07:25:49.028Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BLACKPINK - INTRO+Shut Down | SBS 220925 방송]]></title>
         <id>https://tv.naver.com/v/29446155</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/29277564"/>
         <updated>2022-09-23T19:07:11.695Z</updated>
         <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계 주목 받으며 청량아치로 돌아온 ‘트라이비’의 ‘KISS’]]></title>
-        <id>https://tv.naver.com/v/29277563</id>
-        <link href="https://tv.naver.com/v/29277563"/>
-        <updated>2022-09-23T19:07:11.696Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘티오원’과 함께하는 시끌벅적 즐거운 파티! ‘What A Beautiful Day’]]></title>
-        <id>https://tv.naver.com/v/29277476</id>
-        <link href="https://tv.naver.com/v/29277476"/>
-        <updated>2022-09-23T19:07:11.700Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘빌리’가 선보이는 원더풀 월드! ‘RING ma Bell’]]></title>
-        <id>https://tv.naver.com/v/29277304</id>
-        <link href="https://tv.naver.com/v/29277304"/>
-        <updated>2022-09-23T19:07:11.700Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘템페스트’, 청량 에너지로 똘똘 뭉친 소년들! ‘Can’t Stop Shining’]]></title>
-        <id>https://tv.naver.com/v/29277303</id>
-        <link href="https://tv.naver.com/v/29277303"/>
-        <updated>2022-09-23T19:07:11.710Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
