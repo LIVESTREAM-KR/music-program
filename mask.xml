@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-10-02T11:21:17.367Z</updated>
+    <updated>2022-10-02T12:44:58.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜고음 본좌 소찬휘도 인정한 가왕급 보컬의 등장?!＞ 복면가왕 376회 예고, MBC 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29621141</id>
+        <link href="https://tv.naver.com/v/29621141"/>
+        <updated>2022-10-02T12:44:58.097Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['백마 탄 왕자'의 정체는 가수 신유!, MBC 221002 방송]]></title>
         <id>https://tv.naver.com/v/29621052</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29448099"/>
         <updated>2022-09-25T10:26:23.383Z</updated>
         <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀 위 댄스~?💃 '상견례 프리패스상' X 박지훈의 ＜어머님이 누구니＞ 커버 댄스!, MBC 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29448022</id>
-        <link href="https://tv.naver.com/v/29448022"/>
-        <updated>2022-09-25T10:26:23.385Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
     </entry>
 </feed>
