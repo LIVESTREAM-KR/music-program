@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-03T02:00:32.847Z</updated>
+    <updated>2022-10-03T03:42:12.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[질주 (2 Baddies) - NCT127 | KBS 220930 방송 (뮤직뱅크)]]></title>
@@ -341,6 +341,13 @@
         <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[최애직캠] XIUMIN - Brand New(시우민 - 브랜뉴) Close-up Cam | Show! MusicCore | MBC221001방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29605527</id>
+        <link href="https://tv.naver.com/v/29605527"/>
+        <updated>2022-10-03T03:41:32.372Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] MIRAE – Drip N’ Drop(미래소년 - 드립 앤 드롭) FanCam | Show! MusicCore | MBC221001방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/29605530</id>
         <link href="https://tv.naver.com/v/29605530"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/29604520"/>
         <updated>2022-10-01T08:33:59.099Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라필루스 - 그라타타 (Lapillus - GRATATA), MBC 221001 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29604362</id>
-        <link href="https://tv.naver.com/v/29604362"/>
-        <updated>2022-10-01T08:33:59.099Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 - Faster + 질주 (2 Baddies) | SBS 221002 방송 (인기가요)]]></title>
