@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-04T04:12:47.462Z</updated>
+    <updated>2022-10-04T05:47:35.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 MARK - 2 Baddies(엔시티 127 마크 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655474</id>
+        <link href="https://tv.naver.com/v/29655474"/>
+        <updated>2022-10-04T05:46:50.251Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN - 2 Baddies(엔시티 127 해찬 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
+        <id>https://tv.naver.com/v/29655312</id>
+        <link href="https://tv.naver.com/v/29655312"/>
+        <updated>2022-10-04T05:46:50.268Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 리노(민호), 우주호🚀 10월 첫째 주 음악중심 MC 컷 모음!, MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29654752</id>
+        <link href="https://tv.naver.com/v/29654752"/>
+        <updated>2022-10-04T05:46:50.277Z</updated>
+        <content type="html"><![CDATA[13:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분] 10월 1주차 1위 앵콜 무대! 엔시티 127 - 질주 (NCT 127 - 2 Baddies), MBC 221001 방송]]></title>
         <id>https://tv.naver.com/v/29605866</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/29604613"/>
         <updated>2022-10-01T08:33:59.096Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - 다이스 (NMIXX - DICE), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604611</id>
-        <link href="https://tv.naver.com/v/29604611"/>
-        <updated>2022-10-01T08:33:59.099Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래소년 - 드립 앤 드롭 (MIRAE - Drip N' Drop), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604522</id>
-        <link href="https://tv.naver.com/v/29604522"/>
-        <updated>2022-10-01T08:33:59.099Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환(KIM JAE HWAN) X 이진혁(LEE JIN HYUK) in 코노돌🎉 - (부활-Lonely Night,슈프림팀(영준)-그땐그땐그땐), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29604520</id>
-        <link href="https://tv.naver.com/v/29604520"/>
-        <updated>2022-10-01T08:33:59.099Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
