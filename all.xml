@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-04T10:28:01.003Z</updated>
+    <updated>2022-10-04T11:22:02.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[질주 (2 Baddies) - NCT127 | KBS 220930 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CRAVITY가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/29666560</id>
+        <link href="https://tv.naver.com/v/29666560"/>
+        <updated>2022-10-04T11:21:36.114Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[🏁예〰️〰️싸〰️🏁'NCT 127'의 '질주 (2 Baddies)' 무대 | Mnet 220929 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/29566305</id>
         <link href="https://tv.naver.com/v/29566305"/>
@@ -838,11 +845,46 @@
         <content type="html"><![CDATA[01:52]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' '스트릿 맨 파이터 부리더 계급'의 'LAW (Song by 윤미래, 비비(BIBI)' 무대 | Mnet 220922 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/29385991</id>
-        <link href="https://tv.naver.com/v/29385991"/>
-        <updated>2022-09-23T19:07:18.692Z</updated>
-        <content type="html"><![CDATA[01:37]]></content>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/29666302</id>
+        <link href="https://tv.naver.com/v/29666302"/>
+        <updated>2022-10-04T11:21:42.782Z</updated>
+        <content type="html"><![CDATA[04:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 긍정 에너지 듬뿍 담은, CRAVITY 'PARTY ROCK' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/29666301</id>
+        <link href="https://tv.naver.com/v/29666301"/>
+        <updated>2022-10-04T11:21:42.782Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최초공개] 통통 튀는 청량 무대, CRAVITY 'Boogie Woogie' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/29666150</id>
+        <link href="https://tv.naver.com/v/29666150"/>
+        <updated>2022-10-04T11:21:42.782Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을밤 생각나는, 멜로망스 '다시 또 널 사랑하게 되었네 (‘PLAYLIST’ OST)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/29665915</id>
+        <link href="https://tv.naver.com/v/29665915"/>
+        <updated>2022-10-04T11:21:42.789Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 시간 여행 속으로, 미래소년 'Drip N' Drop' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/29665912</id>
+        <link href="https://tv.naver.com/v/29665912"/>
+        <updated>2022-10-04T11:21:42.789Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감미로운 보이스, 서울 '낮의 별' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/29665752</id>
+        <link href="https://tv.naver.com/v/29665752"/>
+        <updated>2022-10-04T11:21:42.789Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Comeback] 중독적인 가사, 김영철 '막가리' (더쇼)]]></title>
@@ -1011,48 +1053,6 @@
         <link href="https://tv.naver.com/v/29327252"/>
         <updated>2022-09-23T19:07:25.233Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 화려한 장미 같은 무대, mimiirose 'INTRO   Rose' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29327042</id>
-        <link href="https://tv.naver.com/v/29327042"/>
-        <updated>2022-09-23T19:07:25.238Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[희망찬 에너지, 루미너스 'Creature' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29327041</id>
-        <link href="https://tv.naver.com/v/29327041"/>
-        <updated>2022-09-23T19:07:25.239Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카리스마 여전사들, CRAXY (크랙시) 'REQUIEM' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29326949</id>
-        <link href="https://tv.naver.com/v/29326949"/>
-        <updated>2022-09-23T19:07:25.241Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔직하고 당당한, 마카마카 'I AM' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29326812</id>
-        <link href="https://tv.naver.com/v/29326812"/>
-        <updated>2022-09-23T19:07:25.242Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감각적 리듬, MustB(머스트비) 'La Senorita(라 세뇨리타)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29326307</id>
-        <link href="https://tv.naver.com/v/29326307"/>
-        <updated>2022-09-23T19:07:25.244Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29171888</id>
-        <link href="https://tv.naver.com/v/29171888"/>
-        <updated>2022-09-23T19:07:25.245Z</updated>
-        <content type="html"><![CDATA[04:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 쇼챔 연구소, 팬심 완전 정복을 위한 연구를 시작합니다✍ (쇼챔피언)]]></title>
