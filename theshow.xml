@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2022-10-05T04:02:57.609Z</updated>
+    <updated>2022-10-05T05:52:27.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[모두의 엔딩 - 빛보다 THE 빠르SHOW] CRAVITY (크래비티)]]></title>
+        <id>https://tv.naver.com/v/29684718</id>
+        <link href="https://tv.naver.com/v/29684718"/>
+        <updated>2022-10-05T05:52:05.190Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
         <id>https://tv.naver.com/v/29666302</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29327335"/>
         <updated>2022-09-29T15:28:18.157Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애절한 보이스, 이우 '아무말도 하지마']]></title>
-        <id>https://tv.naver.com/v/29327252</id>
-        <link href="https://tv.naver.com/v/29327252"/>
-        <updated>2022-09-29T15:28:18.158Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>

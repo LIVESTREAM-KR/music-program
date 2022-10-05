@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-05T04:02:57.630Z</updated>
+    <updated>2022-10-05T05:52:28.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[질주 (2 Baddies) - NCT127 | KBS 220930 방송 (뮤직뱅크)]]></title>
@@ -845,6 +845,13 @@
         <content type="html"><![CDATA[01:52]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[모두의 엔딩 - 빛보다 THE 빠르SHOW] CRAVITY (크래비티) (더쇼)]]></title>
+        <id>https://tv.naver.com/v/29684718</id>
+        <link href="https://tv.naver.com/v/29684718"/>
+        <updated>2022-10-05T05:52:05.190Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
         <id>https://tv.naver.com/v/29666302</id>
         <link href="https://tv.naver.com/v/29666302"/>
@@ -1046,13 +1053,6 @@
         <link href="https://tv.naver.com/v/29327335"/>
         <updated>2022-09-23T19:07:25.232Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애절한 보이스, 이우 '아무말도 하지마' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29327252</id>
-        <link href="https://tv.naver.com/v/29327252"/>
-        <updated>2022-09-23T19:07:25.233Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 쇼챔 연구소, 팬심 완전 정복을 위한 연구를 시작합니다✍ (쇼챔피언)]]></title>
