@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-10-05T08:33:09.715Z</updated>
+    <updated>2022-10-05T09:27:58.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -153,6 +153,13 @@
         <content type="html"><![CDATA[01:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[라포엠 - 비목 | KBS 221001 방송]]></title>
+        <id>https://tv.naver.com/v/29606421</id>
+        <link href="https://tv.naver.com/v/29606421"/>
+        <updated>2022-10-05T09:27:51.959Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[정선아 - 아름다운 나라 | KBS 221001 방송]]></title>
         <id>https://tv.naver.com/v/29606420</id>
         <link href="https://tv.naver.com/v/29606420"/>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29434221"/>
         <updated>2022-09-24T12:42:29.866Z</updated>
         <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원조 맛집 전문가 혜은이?! 정영주와 혜은이의 13년만의 재회! 과연 선곡은? | KBS 220924 방송]]></title>
-        <id>https://tv.naver.com/v/29434136</id>
-        <link href="https://tv.naver.com/v/29434136"/>
-        <updated>2022-09-24T12:42:29.866Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
     </entry>
 </feed>
