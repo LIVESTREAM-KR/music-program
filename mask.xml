@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-10-06T04:56:51.020Z</updated>
+    <updated>2022-10-06T05:43:46.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 트로트 계의 왕자님 등장! 짙은 감성과 애절 보이스! 가수 신유!, MBC 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29717836</id>
+        <link href="https://tv.naver.com/v/29717836"/>
+        <updated>2022-10-06T05:43:45.960Z</updated>
+        <content type="html"><![CDATA[11:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 독보적인 미성의 싱어송 라이터! 과즙미 뿜뿜 가수 하현상!, MBC 221002 방송]]></title>
+        <id>https://tv.naver.com/v/29717230</id>
+        <link href="https://tv.naver.com/v/29717230"/>
+        <updated>2022-10-06T05:43:45.962Z</updated>
+        <content type="html"><![CDATA[06:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜고음 본좌 소찬휘도 인정한 가왕급 보컬의 등장?!＞ 복면가왕 376회 예고, MBC 221009 방송]]></title>
         <id>https://tv.naver.com/v/29621141</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29448402"/>
         <updated>2022-09-25T11:20:09.578Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['상견례 프리패스상'의 정체는 개그우먼 엄지윤!, MBC 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29448118</id>
-        <link href="https://tv.naver.com/v/29448118"/>
-        <updated>2022-09-25T10:26:23.382Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의장대 출신 '면접 프리패스상'?! '면접 프리패스상'이 준비한 의장대 댄스 개인기✨, MBC 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29448099</id>
-        <link href="https://tv.naver.com/v/29448099"/>
-        <updated>2022-09-25T10:26:23.383Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
     </entry>
 </feed>
