@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-08T12:43:13.742Z</updated>
+    <updated>2022-10-08T13:45:19.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[PARTY ROCK - CRAVITY | KBS 221007 방송 (뮤직뱅크)]]></title>
@@ -215,18 +215,18 @@
         <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] DKZ – Uh-Heung(디케이지 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29778386</id>
-        <link href="https://tv.naver.com/v/29778386"/>
-        <updated>2022-10-08T11:20:16.624Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] CRAVITY – PARTY ROCK(크래비티 - 파티 락) FanCam | Show! MusicCore | MBC221008방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/29778387</id>
         <link href="https://tv.naver.com/v/29778387"/>
         <updated>2022-10-08T11:20:16.624Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] DKZ – Uh-Heung(디케이지 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29778386</id>
+        <link href="https://tv.naver.com/v/29778386"/>
+        <updated>2022-10-08T11:20:16.624Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] DKZ KYOUNGYOON - Uh-Heung(디케이지 경윤 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송 (쇼! 음악중심)]]></title>
@@ -292,13 +292,6 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] AB6IX PARK WOO JIN - Sugarcoat(에이비식스 박우진 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/29777448</id>
-        <link href="https://tv.naver.com/v/29777448"/>
-        <updated>2022-10-08T10:26:29.481Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] Lapillus CHANTY - GRATATA(라필루스 샨티 - 그라타타) FanCam | Show! MusicCore | MBC221008방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/29777450</id>
         <link href="https://tv.naver.com/v/29777450"/>
@@ -311,6 +304,13 @@
         <link href="https://tv.naver.com/v/29777449"/>
         <updated>2022-10-08T10:26:29.481Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] AB6IX PARK WOO JIN - Sugarcoat(에이비식스 박우진 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/29777448</id>
+        <link href="https://tv.naver.com/v/29777448"/>
+        <updated>2022-10-08T10:26:29.481Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] AB6IX KIM DONG HYUN - Sugarcoat(에이비식스 김동현 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송 (쇼! 음악중심)]]></title>
@@ -1293,18 +1293,18 @@
         <content type="html"><![CDATA[04:09]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[키노&WOODZ vs 스테파니&리사! 명곡판정단의 마지막 선택은?! | KBS 221008 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/29778850</id>
-        <link href="https://tv.naver.com/v/29778850"/>
-        <updated>2022-10-08T12:43:07.050Z</updated>
-        <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예고] 🔥더 프렌즈 특집 2부🔥 갈수록 점점 불타오르는 분위기! 본방사수☆ | KBS 221008 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/29778849</id>
         <link href="https://tv.naver.com/v/29778849"/>
         <updated>2022-10-08T12:43:07.050Z</updated>
         <content type="html"><![CDATA[00:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키노&WOODZ vs 스테파니&리사! 명곡판정단의 마지막 선택은?! | KBS 221008 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/29778850</id>
+        <link href="https://tv.naver.com/v/29778850"/>
+        <updated>2022-10-08T12:43:07.050Z</updated>
+        <content type="html"><![CDATA[01:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정신이 아득해지는 샤우팅을 보여준 스테파니&리사!🔥 찬또가 인정하는 최고 무대★ | KBS 221008 방송 (불후의 명곡)]]></title>

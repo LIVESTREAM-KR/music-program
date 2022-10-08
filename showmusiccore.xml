@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-08T12:43:13.716Z</updated>
+    <updated>2022-10-08T13:45:19.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DKZ – Uh-Heung(디케이지 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29778386</id>
-        <link href="https://tv.naver.com/v/29778386"/>
-        <updated>2022-10-08T11:20:16.624Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] CRAVITY – PARTY ROCK(크래비티 - 파티 락) FanCam | Show! MusicCore | MBC221008방송]]></title>
         <id>https://tv.naver.com/v/29778387</id>
         <link href="https://tv.naver.com/v/29778387"/>
         <updated>2022-10-08T11:20:16.624Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] DKZ – Uh-Heung(디케이지 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29778386</id>
+        <link href="https://tv.naver.com/v/29778386"/>
+        <updated>2022-10-08T11:20:16.624Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] DKZ KYOUNGYOON - Uh-Heung(디케이지 경윤 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] AB6IX PARK WOO JIN - Sugarcoat(에이비식스 박우진 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777448</id>
-        <link href="https://tv.naver.com/v/29777448"/>
-        <updated>2022-10-08T10:26:29.481Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] Lapillus CHANTY - GRATATA(라필루스 샨티 - 그라타타) FanCam | Show! MusicCore | MBC221008방송]]></title>
         <id>https://tv.naver.com/v/29777450</id>
         <link href="https://tv.naver.com/v/29777450"/>
@@ -102,6 +95,13 @@
         <link href="https://tv.naver.com/v/29777449"/>
         <updated>2022-10-08T10:26:29.481Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] AB6IX PARK WOO JIN - Sugarcoat(에이비식스 박우진 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29777448</id>
+        <link href="https://tv.naver.com/v/29777448"/>
+        <updated>2022-10-08T10:26:29.481Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] AB6IX KIM DONG HYUN - Sugarcoat(에이비식스 김동현 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송]]></title>
