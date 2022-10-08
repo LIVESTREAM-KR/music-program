@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-08T10:27:11.095Z</updated>
+    <updated>2022-10-08T11:21:03.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] CRAVITY – PARTY ROCK(크래비티 - 파티 락) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29778387</id>
+        <link href="https://tv.naver.com/v/29778387"/>
+        <updated>2022-10-08T11:20:16.624Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] DKZ – Uh-Heung(디케이지 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29778386</id>
+        <link href="https://tv.naver.com/v/29778386"/>
+        <updated>2022-10-08T11:20:16.624Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] DKZ KYOUNGYOON - Uh-Heung(디케이지 경윤 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29778274</id>
+        <link href="https://tv.naver.com/v/29778274"/>
+        <updated>2022-10-08T11:20:16.630Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] DKZ JAECHAN - Uh-Heung(디케이지 재찬 - 호랑이가 쫓아온다) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29778258</id>
+        <link href="https://tv.naver.com/v/29778258"/>
+        <updated>2022-10-08T11:20:16.630Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] XIUMIN - Brand New(시우민 – 브랜뉴) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29778042</id>
+        <link href="https://tv.naver.com/v/29778042"/>
+        <updated>2022-10-08T11:20:16.632Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON - DICE(엔믹스 설윤 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29777980</id>
+        <link href="https://tv.naver.com/v/29777980"/>
+        <updated>2022-10-08T11:20:16.633Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NMIXX JINNI - DICE(엔믹스 지니 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
         <id>https://tv.naver.com/v/29777926</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/29777026"/>
         <updated>2022-10-08T09:25:47.007Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids – CASE 143(스트레이 키즈 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29776952</id>
-        <link href="https://tv.naver.com/v/29776952"/>
-        <updated>2022-10-08T09:25:47.007Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEULGI - 28 Reasons(슬기 – 28 리즌스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29776951</id>
-        <link href="https://tv.naver.com/v/29776951"/>
-        <updated>2022-10-08T09:25:47.007Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids SEUNGMIN - CASE 143(스트레이 키즈 승민 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29776889</id>
-        <link href="https://tv.naver.com/v/29776889"/>
-        <updated>2022-10-08T09:25:47.007Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids FELIX - CASE 143(스트레이 키즈 필릭스 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29776888</id>
-        <link href="https://tv.naver.com/v/29776888"/>
-        <updated>2022-10-08T09:25:47.008Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈 - 케이스 143 (Stray Kids - CASE 143), MBC 221008 방송]]></title>
-        <id>https://tv.naver.com/v/29775749</id>
-        <link href="https://tv.naver.com/v/29775749"/>
-        <updated>2022-10-08T08:31:00.375Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시우민 - 브랜드 뉴 (XIUMIN - Brand New), MBC 221008 방송]]></title>
-        <id>https://tv.naver.com/v/29775674</id>
-        <link href="https://tv.naver.com/v/29775674"/>
-        <updated>2022-10-08T08:31:00.383Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
