@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-08T08:31:38.383Z</updated>
+    <updated>2022-10-08T09:26:23.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids I.N - CASE 143(스트레이 키즈 아이엔 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29777105</id>
+        <link href="https://tv.naver.com/v/29777105"/>
+        <updated>2022-10-08T09:25:47.002Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids HYUNJIN - CASE 143(스트레이 키즈 현진 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29777104</id>
+        <link href="https://tv.naver.com/v/29777104"/>
+        <updated>2022-10-08T09:25:47.006Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids CHANGBIN - CASE 143(스트레이 키즈 창빈 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29777103</id>
+        <link href="https://tv.naver.com/v/29777103"/>
+        <updated>2022-10-08T09:25:47.007Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids LEE KNOW - CASE 143(스트레이 키즈 리노 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29777028</id>
+        <link href="https://tv.naver.com/v/29777028"/>
+        <updated>2022-10-08T09:25:47.007Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SEULGI - 28 Reasons(슬기 – 28 리즌스) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29777026</id>
+        <link href="https://tv.naver.com/v/29777026"/>
+        <updated>2022-10-08T09:25:47.007Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids – CASE 143(스트레이 키즈 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29776952</id>
+        <link href="https://tv.naver.com/v/29776952"/>
+        <updated>2022-10-08T09:25:47.007Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SEULGI - 28 Reasons(슬기 – 28 리즌스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29776951</id>
+        <link href="https://tv.naver.com/v/29776951"/>
+        <updated>2022-10-08T09:25:47.007Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids SEUNGMIN - CASE 143(스트레이 키즈 승민 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29776889</id>
+        <link href="https://tv.naver.com/v/29776889"/>
+        <updated>2022-10-08T09:25:47.007Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids FELIX - CASE 143(스트레이 키즈 필릭스 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
+        <id>https://tv.naver.com/v/29776888</id>
+        <link href="https://tv.naver.com/v/29776888"/>
+        <updated>2022-10-08T09:25:47.008Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스트레이 키즈 - 케이스 143 (Stray Kids - CASE 143), MBC 221008 방송]]></title>
         <id>https://tv.naver.com/v/29775749</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/29655992"/>
         <updated>2022-10-04T06:39:34.441Z</updated>
         <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최애직캠] NCT 127 JAEHYUN - 2 Baddies(엔시티 127 재현 - 질주) Close-up Cam | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29655990</id>
-        <link href="https://tv.naver.com/v/29655990"/>
-        <updated>2022-10-04T06:39:34.448Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최애직캠] NCT 127 TAEYONG - 2 Baddies(엔시티 127 태용 - 질주) Close-up Cam | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29655654</id>
-        <link href="https://tv.naver.com/v/29655654"/>
-        <updated>2022-10-04T06:39:34.448Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최애직캠] NCT 127 JUNGWOO - 2 Baddies(엔시티 127 정우 - 질주) Close-up Cam | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29655650</id>
-        <link href="https://tv.naver.com/v/29655650"/>
-        <updated>2022-10-04T06:39:34.448Z</updated>
-        <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 JOHNNY - 2 Baddies(엔시티 127 쟈니 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29655649</id>
-        <link href="https://tv.naver.com/v/29655649"/>
-        <updated>2022-10-04T06:39:34.448Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 DOYOUNG - 2 Baddies(엔시티 127 도영 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29655648</id>
-        <link href="https://tv.naver.com/v/29655648"/>
-        <updated>2022-10-04T06:39:34.448Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 MARK - 2 Baddies(엔시티 127 마크 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29655474</id>
-        <link href="https://tv.naver.com/v/29655474"/>
-        <updated>2022-10-04T05:46:50.251Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN - 2 Baddies(엔시티 127 해찬 - 질주) FanCam | Show! MusicCore | MBC221001방송]]></title>
-        <id>https://tv.naver.com/v/29655312</id>
-        <link href="https://tv.naver.com/v/29655312"/>
-        <updated>2022-10-04T05:46:50.268Z</updated>
-        <content type="html"><![CDATA[04:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 리노(민호), 우주호🚀 10월 첫째 주 음악중심 MC 컷 모음!, MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29654752</id>
-        <link href="https://tv.naver.com/v/29654752"/>
-        <updated>2022-10-04T05:46:50.277Z</updated>
-        <content type="html"><![CDATA[13:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미방분] 10월 1주차 1위 앵콜 무대! 엔시티 127 - 질주 (NCT 127 - 2 Baddies), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29605866</id>
-        <link href="https://tv.naver.com/v/29605866"/>
-        <updated>2022-10-01T09:26:33.505Z</updated>
-        <content type="html"><![CDATA[06:59]]></content>
     </entry>
 </feed>
