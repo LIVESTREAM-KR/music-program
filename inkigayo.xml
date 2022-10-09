@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-10-09T07:25:37.871Z</updated>
+    <updated>2022-10-09T08:31:01.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슬기(SEULGI) - 28 Reasons | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29790639</id>
+        <link href="https://tv.naver.com/v/29790639"/>
+        <updated>2022-10-09T08:30:25.572Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시우민(XIUMIN) - Brand New | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29790638</id>
+        <link href="https://tv.naver.com/v/29790638"/>
+        <updated>2022-10-09T08:30:25.572Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids - CASE 143 | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29790535</id>
+        <link href="https://tv.naver.com/v/29790535"/>
+        <updated>2022-10-09T08:30:25.577Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crush - Rush Hour(feat. j-hope of BTS) | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29790446</id>
+        <link href="https://tv.naver.com/v/29790446"/>
+        <updated>2022-10-09T08:30:25.595Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB6IX - Sugarcoat | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29790358</id>
+        <link href="https://tv.naver.com/v/29790358"/>
+        <updated>2022-10-09T08:30:25.596Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저) - HELLO | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29790269</id>
+        <link href="https://tv.naver.com/v/29790269"/>
+        <updated>2022-10-09T08:30:25.596Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - DICE | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29790268</id>
+        <link href="https://tv.naver.com/v/29790268"/>
+        <updated>2022-10-09T08:30:25.596Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - PARTY ROCK | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29790191</id>
+        <link href="https://tv.naver.com/v/29790191"/>
+        <updated>2022-10-09T08:30:25.597Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mimiirose - Rose | SBS 221009 방송]]></title>
+        <id>https://tv.naver.com/v/29790098</id>
+        <link href="https://tv.naver.com/v/29790098"/>
+        <updated>2022-10-09T08:30:25.597Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DKZ - 호랑이가 쫓아온다(Uh-Heung) | SBS 221009 방송]]></title>
         <id>https://tv.naver.com/v/29790017</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/29617077"/>
         <updated>2022-10-02T07:25:49.018Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - StarLight | SBS 221002 방송]]></title>
-        <id>https://tv.naver.com/v/29617074</id>
-        <link href="https://tv.naver.com/v/29617074"/>
-        <updated>2022-10-02T07:25:49.027Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADORA - Magical Symphony | SBS 221002 방송]]></title>
-        <id>https://tv.naver.com/v/29617073</id>
-        <link href="https://tv.naver.com/v/29617073"/>
-        <updated>2022-10-02T07:25:49.028Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[롤링쿼츠(Rolling Quartz) - NAZABABARA | SBS 221002 방송]]></title>
-        <id>https://tv.naver.com/v/29616883</id>
-        <link href="https://tv.naver.com/v/29616883"/>
-        <updated>2022-10-02T07:25:49.028Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLACKPINK - INTRO+Shut Down | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29446155</id>
-        <link href="https://tv.naver.com/v/29446155"/>
-        <updated>2022-09-25T08:28:27.562Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최유정 - Sunflower (P.E.L) | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445972</id>
-        <link href="https://tv.naver.com/v/29445972"/>
-        <updated>2022-09-25T08:28:27.562Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스(ONEUS) - Same Scent | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445970</id>
-        <link href="https://tv.naver.com/v/29445970"/>
-        <updated>2022-09-25T08:28:27.563Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓펀치(Rocket Punch) - FLASH | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445894</id>
-        <link href="https://tv.naver.com/v/29445894"/>
-        <updated>2022-09-25T08:28:27.563Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진혁 - Crack | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445747</id>
-        <link href="https://tv.naver.com/v/29445747"/>
-        <updated>2022-09-25T08:28:27.564Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - INTRO+DICE | SBS 220925 방송]]></title>
-        <id>https://tv.naver.com/v/29445745</id>
-        <link href="https://tv.naver.com/v/29445745"/>
-        <updated>2022-09-25T08:28:27.573Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
