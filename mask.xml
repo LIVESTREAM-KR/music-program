@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-10-09T11:20:41.174Z</updated>
+    <updated>2022-10-09T12:44:09.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜6연승에 도전하는 인디언 인형의 운명은?＞ 복면가왕 377회 예고, MBC 221016 방송]]></title>
+        <id>https://tv.naver.com/v/29794368</id>
+        <link href="https://tv.naver.com/v/29794368"/>
+        <updated>2022-10-09T12:44:08.632Z</updated>
+        <content type="html"><![CDATA[00:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['파김치'의 정체는 개그맨 김성원!, MBC 221009 방송]]></title>
         <id>https://tv.naver.com/v/29793859</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29619714"/>
         <updated>2022-10-02T10:26:52.079Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['면접 프리패스상' 2라운드 무대 - 잊어야 한다는 마음으로, MBC 221002 방송]]></title>
-        <id>https://tv.naver.com/v/29619542</id>
-        <link href="https://tv.naver.com/v/29619542"/>
-        <updated>2022-10-02T10:26:52.079Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
