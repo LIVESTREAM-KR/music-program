@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-08T23:28:47.974Z</updated>
+    <updated>2022-10-09T02:21:05.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[PARTY ROCK - CRAVITY | KBS 221007 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[02:59]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] '파김치'의 ＜배우 이경영 성대모사＞✨ 개인기 중 무대로 김구라 소환?! ＂우리 구라 구라 김구라＂, MBC 221009 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/29769902</id>
+        <link href="https://tv.naver.com/v/29769902"/>
+        <updated>2022-10-09T02:21:04.684Z</updated>
+        <content type="html"><![CDATA[01:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 트로트 계의 왕자님 등장! 짙은 감성과 애절 보이스! 가수 신유!, MBC 221002 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/29717836</id>
         <link href="https://tv.naver.com/v/29717836"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/29448477"/>
         <updated>2022-09-25T11:20:09.577Z</updated>
         <content type="html"><![CDATA[01:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['과즙' VS '육즙'의 1라운드 무대 - 하루 하루, MBC 220925 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/29448402</id>
-        <link href="https://tv.naver.com/v/29448402"/>
-        <updated>2022-09-25T11:20:09.578Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
