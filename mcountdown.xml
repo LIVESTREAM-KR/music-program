@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2022-10-10T11:23:04.605Z</updated>
+    <updated>2022-10-10T12:55:06.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/29814195</id>
+        <link href="https://tv.naver.com/v/29814195"/>
+        <updated>2022-10-10T12:54:40.138Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[취향저격 선물 '시우민 (XIUMIN)'의 'Brand New' 무대 | Mnet 221006 방송]]></title>
         <id>https://tv.naver.com/v/29730305</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29565941"/>
         <updated>2022-09-29T11:21:09.458Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 차원을 넘어 '미래소년'의 'Drip N' Drop' 무대 | Mnet 220929 방송]]></title>
-        <id>https://tv.naver.com/v/29565940</id>
-        <link href="https://tv.naver.com/v/29565940"/>
-        <updated>2022-09-29T11:21:09.459Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
