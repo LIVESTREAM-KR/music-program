@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-11T02:14:07.488Z</updated>
+    <updated>2022-10-11T04:46:03.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 승민 X 민주 X 리노(민호), 10월 둘째 주 음악중심 MC 컷 모음!, MBC 221008 방송]]></title>
+        <id>https://tv.naver.com/v/29826486</id>
+        <link href="https://tv.naver.com/v/29826486"/>
+        <updated>2022-10-11T04:45:25.008Z</updated>
+        <content type="html"><![CDATA[11:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최애직캠] SEULGI - 28 Reasons(슬기 - 28 리즌스) Close-up Cam | Show! MusicCore | MBC221008방송]]></title>
         <id>https://tv.naver.com/v/29822621</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29777103"/>
         <updated>2022-10-08T09:25:47.007Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids LEE KNOW - CASE 143(스트레이 키즈 리노 - 케이스 143) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777028</id>
-        <link href="https://tv.naver.com/v/29777028"/>
-        <updated>2022-10-08T09:25:47.007Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
