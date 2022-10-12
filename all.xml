@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-12T10:30:01.521Z</updated>
+    <updated>2022-10-12T11:23:47.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[PARTY ROCK - CRAVITY | KBS 221007 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[COMEBACK] Stray Kids - CASE 143 (스트레이키즈 - 케이스 143) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/29870644</id>
+        <link href="https://tv.naver.com/v/29870644"/>
+        <updated>2022-10-12T11:23:34.522Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] AB6IX - Sugarcoat (에이비식스 - 슈가코트) (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/29870480</id>
         <link href="https://tv.naver.com/v/29870480"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/29693125"/>
         <updated>2022-10-05T10:29:30.989Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 K-POP 연구소] Highlight - DAYDREAM (하이라이트 - 데이드림) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/29692727</id>
-        <link href="https://tv.naver.com/v/29692727"/>
-        <updated>2022-10-05T10:29:30.991Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[페이스캠] WOODZ(조승연)- HONEY ❤ 불후의 명곡 ❤ 더 프렌즈 특집 1부 | KBS 방송 (불후의 명곡)]]></title>
