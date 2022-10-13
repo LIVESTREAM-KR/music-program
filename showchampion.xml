@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-10-13T10:28:55.805Z</updated>
+    <updated>2022-10-13T11:22:47.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 2주차 ♥쇼챔피언♡ MC 모음.zip (CRAVITY 세림, ASTRO 문빈&산하) | Show Champion | EP.453]]></title>
+        <id>https://tv.naver.com/v/29891609</id>
+        <link href="https://tv.naver.com/v/29891609"/>
+        <updated>2022-10-13T11:22:33.947Z</updated>
+        <content type="html"><![CDATA[06:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 1위] 10월 둘째 주 챔피언송 Stray Kids 앵콜 Full ver.]]></title>
         <id>https://tv.naver.com/v/29873036</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29868272"/>
         <updated>2022-10-12T13:59:30.983Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] DKZ JONGHYEONG - Uh-Heung (디케이지 종형 - 호랑이가 쫓아온다) | Show Champion | EP.453]]></title>
-        <id>https://tv.naver.com/v/29868173</id>
-        <link href="https://tv.naver.com/v/29868173"/>
-        <updated>2022-10-12T13:59:30.984Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
