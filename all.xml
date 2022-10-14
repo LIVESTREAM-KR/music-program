@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-14T09:28:54.935Z</updated>
+    <updated>2022-10-14T10:28:47.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[28 Reasons - 슬기(SEULGI) | KBS 221014 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/29931644</id>
+        <link href="https://tv.naver.com/v/29931644"/>
+        <updated>2022-10-14T10:28:00.242Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CASE 143 - Stray Kids (스트레이 키즈) | KBS 221014 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/29931630</id>
+        <link href="https://tv.naver.com/v/29931630"/>
+        <updated>2022-10-14T10:28:00.242Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Rules - 백호 (BAEKHO) | KBS 221014 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/29931500</id>
+        <link href="https://tv.naver.com/v/29931500"/>
+        <updated>2022-10-14T10:28:00.278Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ILLELLA (일낼라) - 마마무(MAMAMOO) | KBS 221014 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/29931378</id>
+        <link href="https://tv.naver.com/v/29931378"/>
+        <updated>2022-10-14T10:28:00.278Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What If Love - 업텐션 | KBS 221014 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/29931122</id>
@@ -185,34 +213,6 @@
         <link href="https://tv.naver.com/v/29759229"/>
         <updated>2022-10-07T09:28:10.784Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magical Symphony - ADORA | KBS 221007 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29759014</id>
-        <link href="https://tv.naver.com/v/29759014"/>
-        <updated>2022-10-07T09:28:10.784Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mi Deh Yah (feat. KOONTA(쿤타)) - 코카앤버터 (CocaNButter) | KBS 221007 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29758635</id>
-        <link href="https://tv.naver.com/v/29758635"/>
-        <updated>2022-10-07T09:28:10.784Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Icarus - RoaD-B(로드비) | KBS 221007 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29758497</id>
-        <link href="https://tv.naver.com/v/29758497"/>
-        <updated>2022-10-07T09:28:10.786Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NAZABABABA - 롤링쿼츠(Rolling Quartz) | KBS 221007 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29757795</id>
-        <link href="https://tv.naver.com/v/29757795"/>
-        <updated>2022-10-07T09:28:10.787Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[최애직캠] Stray Kids FELIX - CASE 143(스트레이 키즈 필릭스 - 케이스 143) Close-up Cam | Show! MusicCore | MBC22100 (쇼! 음악중심)]]></title>
