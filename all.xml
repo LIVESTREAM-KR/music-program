@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-13T23:31:07.545Z</updated>
+    <updated>2022-10-14T02:34:56.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[PARTY ROCK - CRAVITY | KBS 221007 방송 (뮤직뱅크)]]></title>
@@ -845,6 +845,13 @@
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[SPOT] THE SHOW : GYEONGJU Special (더쇼)]]></title>
+        <id>https://tv.naver.com/v/29912731</id>
+        <link href="https://tv.naver.com/v/29912731"/>
+        <updated>2022-10-14T02:34:35.346Z</updated>
+        <content type="html"><![CDATA[00:27]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[모두의 엔딩 - 빛보다 THE 빠르SHOW] CRAVITY (크래비티) (더쇼)]]></title>
         <id>https://tv.naver.com/v/29684718</id>
         <link href="https://tv.naver.com/v/29684718"/>
@@ -1046,13 +1053,6 @@
         <link href="https://tv.naver.com/v/29327518"/>
         <updated>2022-09-23T19:07:25.231Z</updated>
         <content type="html"><![CDATA[05:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중독적인 락 사운드, Billlie 'RING ma Bell (what a wonderful world)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29327335</id>
-        <link href="https://tv.naver.com/v/29327335"/>
-        <updated>2022-09-23T19:07:25.232Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10월 2주차 ♥쇼챔피언♡ MC 모음.zip (CRAVITY 세림, ASTRO 문빈&산하) | Show Champion | EP.453 (쇼챔피언)]]></title>
