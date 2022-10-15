@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-10-15T09:27:15.820Z</updated>
+    <updated>2022-10-15T10:30:06.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리듬파워 - 호랑나비♬ 화끈한 토크 신고식! 양동근의 리듬파워 첫인상?! | KBS 221015 방송]]></title>
+        <id>https://tv.naver.com/v/29950201</id>
+        <link href="https://tv.naver.com/v/29950201"/>
+        <updated>2022-10-15T10:29:59.301Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17년 지기 국악 남사친, 여사친 신승태&이미리! 우정 ~ing 스토리⭐️ | KBS 221015 방송]]></title>
+        <id>https://tv.naver.com/v/29950055</id>
+        <link href="https://tv.naver.com/v/29950055"/>
+        <updated>2022-10-15T10:29:59.303Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고음 카타르시스☆ 스테파니와 리사의 우승 소감&기념 무대! 리사 - 레베카♬ | KBS 221015 방송]]></title>
+        <id>https://tv.naver.com/v/29950051</id>
+        <link href="https://tv.naver.com/v/29950051"/>
+        <updated>2022-10-15T10:29:59.304Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💚더 프렌즈 특집 2부 라인업💚 황치열의 예언! 현실이 될 것인가..?! | KBS 221015 방송]]></title>
+        <id>https://tv.naver.com/v/29949924</id>
+        <link href="https://tv.naver.com/v/29949924"/>
+        <updated>2022-10-15T10:29:59.304Z</updated>
+        <content type="html"><![CDATA[01:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[페이스캠] WOODZ(조승연)- HONEY ❤ 불후의 명곡 ❤ 더 프렌즈 특집 1부 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/29779025</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/29607383"/>
         <updated>2022-10-01T12:45:34.069Z</updated>
         <content type="html"><![CDATA[04:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이 - 연예인 | KBS 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29607364</id>
-        <link href="https://tv.naver.com/v/29607364"/>
-        <updated>2022-10-01T12:45:34.071Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 💖더 프렌즈 특집💖 1부! 가요계 절친들의 찐~한 케미 놓치지 마세요🥳 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/29607299</id>
-        <link href="https://tv.naver.com/v/29607299"/>
-        <updated>2022-10-01T11:21:06.651Z</updated>
-        <content type="html"><![CDATA[00:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 때보다도 뜨거운 열기가 전해졌던 무대들🔥 아닌척하다 딱 걸린 이찬원?!🤣 | KBS 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29607300</id>
-        <link href="https://tv.naver.com/v/29607300"/>
-        <updated>2022-10-01T11:21:06.650Z</updated>
-        <content type="html"><![CDATA[01:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이 - That That(prod. & feat. SUGA of BTS) | KBS 221001 방송]]></title>
-        <id>https://tv.naver.com/v/29607297</id>
-        <link href="https://tv.naver.com/v/29607297"/>
-        <updated>2022-10-01T11:21:06.652Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
