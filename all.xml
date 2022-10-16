@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-16T06:35:27.221Z</updated>
+    <updated>2022-10-16T07:26:57.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[28 Reasons - 슬기(SEULGI) | KBS 221014 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,62 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[권은비 - Underwater | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962445</id>
+        <link href="https://tv.naver.com/v/29962445"/>
+        <updated>2022-10-16T07:26:24.953Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mimiirose - Rose | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962444</id>
+        <link href="https://tv.naver.com/v/29962444"/>
+        <updated>2022-10-16T07:26:24.953Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - PARTY ROCK | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962376</id>
+        <link href="https://tv.naver.com/v/29962376"/>
+        <updated>2022-10-16T07:26:24.953Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림캐쳐 - VISION | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962294</id>
+        <link href="https://tv.naver.com/v/29962294"/>
+        <updated>2022-10-16T07:26:24.953Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래소년(MIRAE) - Drip N' Drop | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962225</id>
+        <link href="https://tv.naver.com/v/29962225"/>
+        <updated>2022-10-16T07:26:24.957Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAN - Beautiful LIE | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962222</id>
+        <link href="https://tv.naver.com/v/29962222"/>
+        <updated>2022-10-16T07:26:24.957Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - StarLight | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962168</id>
+        <link href="https://tv.naver.com/v/29962168"/>
+        <updated>2022-10-16T07:26:24.957Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코카앤버터 - Mi Deh Yah (feat. KOONTA (쿤타)) | SBS 221016 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/29962035</id>
+        <link href="https://tv.naver.com/v/29962035"/>
+        <updated>2022-10-16T07:26:24.957Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[슬기(SEULGI) - 28 Reasons | SBS 221009 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/29790639</id>
         <link href="https://tv.naver.com/v/29790639"/>
@@ -577,62 +633,6 @@
         <link href="https://tv.naver.com/v/29617769"/>
         <updated>2022-10-02T08:29:43.151Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - DICE | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617697</id>
-        <link href="https://tv.naver.com/v/29617697"/>
-        <updated>2022-10-02T08:29:43.151Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영철- 막가리 | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617609</id>
-        <link href="https://tv.naver.com/v/29617609"/>
-        <updated>2022-10-02T08:29:43.151Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래소년(MIRAE) -  Drip N’ Drop | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617510</id>
-        <link href="https://tv.naver.com/v/29617510"/>
-        <updated>2022-10-02T08:29:43.151Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마카마카 - I AM | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617429</id>
-        <link href="https://tv.naver.com/v/29617429"/>
-        <updated>2022-10-02T08:29:43.151Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mimiirose - Rose | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617339</id>
-        <link href="https://tv.naver.com/v/29617339"/>
-        <updated>2022-10-02T08:29:43.151Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예빈나다 - 산책하러 갈래 | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617242</id>
-        <link href="https://tv.naver.com/v/29617242"/>
-        <updated>2022-10-02T08:29:43.151Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라필루스(Lapillus) - GRATATA | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617240</id>
-        <link href="https://tv.naver.com/v/29617240"/>
-        <updated>2022-10-02T08:29:43.151Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권민제 - 어묵국물 | SBS 221002 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/29617077</id>
-        <link href="https://tv.naver.com/v/29617077"/>
-        <updated>2022-10-02T07:25:49.018Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['HOT DEBUT' 홀로서기 첫 발 '백호'의 'No Rules' 무대 | Mnet 221013 방송 (엠카운트다운)]]></title>
