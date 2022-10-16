@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-10-16T11:22:00.843Z</updated>
+    <updated>2022-10-16T12:46:19.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜레전드들도 감탄한 보컬 신 등장? 첫 방어전부터 가왕 대위기!?＞ 복면가왕 378회 예고, MBC 221023 방송]]></title>
+        <id>https://tv.naver.com/v/29966485</id>
+        <link href="https://tv.naver.com/v/29966485"/>
+        <updated>2022-10-16T12:46:18.789Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['인디언 인형'의 정체는 카디의 보컬 김예지!, MBC 221016 방송]]></title>
         <id>https://tv.naver.com/v/29966247</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29792552"/>
         <updated>2022-10-09T10:27:35.067Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재즈 디바 웅산의 스페셜 무대 - Moondance, MBC 221009 방송]]></title>
-        <id>https://tv.naver.com/v/29792256</id>
-        <link href="https://tv.naver.com/v/29792256"/>
-        <updated>2022-10-09T10:27:35.067Z</updated>
-        <content type="html"><![CDATA[04:53]]></content>
     </entry>
 </feed>
