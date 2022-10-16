@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-16T13:43:25.786Z</updated>
+    <updated>2022-10-16T14:24:24.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[28 Reasons - 슬기(SEULGI) | KBS 221014 방송 (뮤직뱅크)]]></title>
@@ -1524,6 +1524,13 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['총각김치'의 심경을 담은 댄스⭐ ＜집에 안 갈래＞ 댄스 개인기🕺, MBC 221016 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/29965432</id>
+        <link href="https://tv.naver.com/v/29965432"/>
+        <updated>2022-10-16T10:30:47.853Z</updated>
+        <content type="html"><![CDATA[01:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['이과 소녀'의 정체는 가수 겸 뮤지컬 배우 정유지!, MBC 221016 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/29965434</id>
         <link href="https://tv.naver.com/v/29965434"/>
@@ -1536,13 +1543,6 @@
         <link href="https://tv.naver.com/v/29965433"/>
         <updated>2022-10-16T10:30:47.851Z</updated>
         <content type="html"><![CDATA[01:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['총각김치'의 심경을 담은 댄스⭐ ＜집에 안 갈래＞ 댄스 개인기🕺, MBC 221016 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/29965432</id>
-        <link href="https://tv.naver.com/v/29965432"/>
-        <updated>2022-10-16T10:30:47.853Z</updated>
-        <content type="html"><![CDATA[01:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['총각김치' 2라운드 무대 - 현명한 선택, MBC 221016 방송 (복면가왕)]]></title>
