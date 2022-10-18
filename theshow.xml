@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2022-10-18T08:39:17.398Z</updated>
+    <updated>2022-10-18T09:34:59.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빛이 되어줄, 라임라잇(LIMELIGHT) 'StarLight']]></title>
+        <id>https://tv.naver.com/v/30027391</id>
+        <link href="https://tv.naver.com/v/30027391"/>
+        <updated>2022-10-18T09:34:39.112Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[INTRO] THE SHOW in Gyeongju]]></title>
+        <id>https://tv.naver.com/v/30027066</id>
+        <link href="https://tv.naver.com/v/30027066"/>
+        <updated>2022-10-18T09:34:39.112Z</updated>
+        <content type="html"><![CDATA[00:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SPOT] THE SHOW : GYEONGJU Special]]></title>
         <id>https://tv.naver.com/v/29912731</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29327629"/>
         <updated>2022-10-18T06:13:59.341Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반짝이는 에너지, 템페스트(TEMPEST) 'Can't Stop Shining']]></title>
-        <id>https://tv.naver.com/v/29327627</id>
-        <link href="https://tv.naver.com/v/29327627"/>
-        <updated>2022-10-18T06:13:59.342Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2022 카타르 월드컵 스페셜] DRIPPIN(드리핀)]]></title>
-        <id>https://tv.naver.com/v/29327518</id>
-        <link href="https://tv.naver.com/v/29327518"/>
-        <updated>2022-10-18T06:13:59.343Z</updated>
-        <content type="html"><![CDATA[05:27]]></content>
     </entry>
 </feed>
