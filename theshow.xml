@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2022-10-18T10:30:40.292Z</updated>
+    <updated>2022-10-18T11:22:50.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/30029859</id>
+        <link href="https://tv.naver.com/v/30029859"/>
+        <updated>2022-10-18T11:22:26.138Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트렌디한 사운드, VIVIZ (비비지) 'BOP BOP!']]></title>
+        <id>https://tv.naver.com/v/30029858</id>
+        <link href="https://tv.naver.com/v/30029858"/>
+        <updated>2022-10-18T11:22:26.143Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상큼한 에이드가 생각나는, VIVIZ (비비지) 'LOVEADE']]></title>
+        <id>https://tv.naver.com/v/30029857</id>
+        <link href="https://tv.naver.com/v/30029857"/>
+        <updated>2022-10-18T11:22:26.143Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가을밤 감미로운 보이스, 원어스(ONEUS) '천만분의 1의 확률의 너 (Gravitation)']]></title>
+        <id>https://tv.naver.com/v/30029734</id>
+        <link href="https://tv.naver.com/v/30029734"/>
+        <updated>2022-10-18T11:22:26.144Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 희망을 향해 앞장선, 드림캐쳐 'VISION']]></title>
+        <id>https://tv.naver.com/v/30029486</id>
+        <link href="https://tv.naver.com/v/30029486"/>
+        <updated>2022-10-18T11:22:26.144Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 러블리한 에너지, 케플러(Kep1er) 'We Fresh']]></title>
+        <id>https://tv.naver.com/v/30029482</id>
+        <link href="https://tv.naver.com/v/30029482"/>
+        <updated>2022-10-18T11:22:26.144Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 강렬한 퍼포먼스, 원호(WONHO) 'Crazy']]></title>
+        <id>https://tv.naver.com/v/30029351</id>
+        <link href="https://tv.naver.com/v/30029351"/>
+        <updated>2022-10-18T11:22:26.145Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 감성적인 무드, 원호(WONHO) 'Don't Regret']]></title>
+        <id>https://tv.naver.com/v/30029089</id>
+        <link href="https://tv.naver.com/v/30029089"/>
+        <updated>2022-10-18T11:22:26.145Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 더욱 깊어진 카리스마, 박지훈 'NITRO']]></title>
+        <id>https://tv.naver.com/v/30029085</id>
+        <link href="https://tv.naver.com/v/30029085"/>
+        <updated>2022-10-18T11:22:26.146Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Comeback] 모두의 마음을 휩쓸, 권은비 'Underwater']]></title>
         <id>https://tv.naver.com/v/30028949</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/29665752"/>
         <updated>2022-10-18T06:13:59.316Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 중독적인 가사, 김영철 '막가리']]></title>
-        <id>https://tv.naver.com/v/29665604</id>
-        <link href="https://tv.naver.com/v/29665604"/>
-        <updated>2022-10-18T06:13:59.317Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭발적인 가창력, 권민제 '어묵 국물(Memory)']]></title>
-        <id>https://tv.naver.com/v/29665462</id>
-        <link href="https://tv.naver.com/v/29665462"/>
-        <updated>2022-10-18T06:13:59.318Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[THE 미니웨이] 미래소년]]></title>
-        <id>https://tv.naver.com/v/29665335</id>
-        <link href="https://tv.naver.com/v/29665335"/>
-        <updated>2022-10-18T06:13:59.318Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 강렬한 사운드, Lapillus(라필루스) 'GRATATA']]></title>
-        <id>https://tv.naver.com/v/29665331</id>
-        <link href="https://tv.naver.com/v/29665331"/>
-        <updated>2022-10-18T06:13:59.319Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초공개] 부드러운 매력을 보여줄, Lapillus(라필루스) 'Burn With Love']]></title>
-        <id>https://tv.naver.com/v/29665216</id>
-        <link href="https://tv.naver.com/v/29665216"/>
-        <updated>2022-10-18T06:13:59.320Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동화 속 주인공, ADORA 'Magical Symphony']]></title>
-        <id>https://tv.naver.com/v/29664758</id>
-        <link href="https://tv.naver.com/v/29664758"/>
-        <updated>2022-10-18T06:13:59.323Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 신비로운 별빛, 라임라잇(Lime Light) 'StarLight']]></title>
-        <id>https://tv.naver.com/v/29664624</id>
-        <link href="https://tv.naver.com/v/29664624"/>
-        <updated>2022-10-18T06:13:59.324Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 설렘이 담긴, 예빈나다 '산책하러 갈래']]></title>
-        <id>https://tv.naver.com/v/29664417</id>
-        <link href="https://tv.naver.com/v/29664417"/>
-        <updated>2022-10-18T06:13:59.325Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시선을 사로잡는 매력, mimiirose 'Rose']]></title>
-        <id>https://tv.naver.com/v/29664251</id>
-        <link href="https://tv.naver.com/v/29664251"/>
-        <updated>2022-10-18T06:13:59.330Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
