@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-10-19T08:41:37.504Z</updated>
+    <updated>2022-10-19T09:35:26.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TAN - Beautiful LIE (티에이엔 - 뷰티풀 라이)]]></title>
+        <id>https://tv.naver.com/v/30060479</id>
+        <link href="https://tv.naver.com/v/30060479"/>
+        <updated>2022-10-19T09:35:13.423Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIMELIGHT - StarLight (라임라잇 - 스타라이트)]]></title>
+        <id>https://tv.naver.com/v/30060476</id>
+        <link href="https://tv.naver.com/v/30060476"/>
+        <updated>2022-10-19T09:35:13.424Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEE DO JIN - Youth is just now (이도진 - 청춘은 바로 지금)]]></title>
+        <id>https://tv.naver.com/v/30060474</id>
+        <link href="https://tv.naver.com/v/30060474"/>
+        <updated>2022-10-19T09:35:13.425Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🌊홀려가듯 쇼챔피언 널 휩쓸어🌊]]></title>
         <id>https://tv.naver.com/v/29983982</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/29868927"/>
         <updated>2022-10-12T10:29:48.364Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CRAVITY SERIM - PARTY ROCK (크래비티 세림 - 파티 락) | Show Champion | EP.453]]></title>
-        <id>https://tv.naver.com/v/29868925</id>
-        <link href="https://tv.naver.com/v/29868925"/>
-        <updated>2022-10-12T13:59:30.974Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CRAVITY WONJIN - PARTY ROCK (크래비티 원진 - 파티 락) | Show Champion | EP.453]]></title>
-        <id>https://tv.naver.com/v/29868747</id>
-        <link href="https://tv.naver.com/v/29868747"/>
-        <updated>2022-10-12T13:59:30.979Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CRAVITY - PARTY ROCK (크래비티 - 파티 락) l Show Champion l EP.453]]></title>
-        <id>https://tv.naver.com/v/29868739</id>
-        <link href="https://tv.naver.com/v/29868739"/>
-        <updated>2022-10-12T13:59:30.981Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
