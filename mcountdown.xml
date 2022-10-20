@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2022-10-20T09:31:42.308Z</updated>
+    <updated>2022-10-20T10:30:17.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['KINGDOM(킹덤)'의 시선강탈 퍼포먼스! '백야(Long Live The King)' 무대 | Mnet 221020 방송]]></title>
+        <id>https://tv.naver.com/v/30093970</id>
+        <link href="https://tv.naver.com/v/30093970"/>
+        <updated>2022-10-20T10:29:51.005Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월메이드 러브송 '그리즐리(Grizzly)'의 '우리 다투게 돼도 이것만 기억해 줄래' 무대 | Mnet 221020 방송]]></title>
+        <id>https://tv.naver.com/v/30093828</id>
+        <link href="https://tv.naver.com/v/30093828"/>
+        <updated>2022-10-20T10:29:51.009Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/30031362</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29730298"/>
         <updated>2022-10-06T11:22:18.938Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 슬기 (SEULGI) | Mnet 221006 방송]]></title>
-        <id>https://tv.naver.com/v/29730296</id>
-        <link href="https://tv.naver.com/v/29730296"/>
-        <updated>2022-10-06T11:22:18.941Z</updated>
-        <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 유쾌 바이브 'TREASURE (트레저)'의 'HELLO' 무대 | Mnet 221006 방송]]></title>
-        <id>https://tv.naver.com/v/29730295</id>
-        <link href="https://tv.naver.com/v/29730295"/>
-        <updated>2022-10-06T11:22:18.947Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
     </entry>
 </feed>

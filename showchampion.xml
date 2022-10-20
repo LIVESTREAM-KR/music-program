@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-10-20T09:31:42.302Z</updated>
+    <updated>2022-10-20T10:30:17.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 3주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (NMIXX 설윤&규진&해원) | Show Champion | EP.454]]></title>
+        <id>https://tv.naver.com/v/30082450</id>
+        <link href="https://tv.naver.com/v/30082450"/>
+        <updated>2022-10-20T10:30:04.247Z</updated>
+        <content type="html"><![CDATA[08:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] WONHO - Don't Regret (원호 - 돈 리그렛) l Show Champion l EP.454]]></title>
         <id>https://tv.naver.com/v/30063630</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30060474"/>
         <updated>2022-10-19T09:35:13.425Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Kep1er - We Fresh (케플러 - 위 프레시) l Show Champion l EP.454]]></title>
-        <id>https://tv.naver.com/v/30060243</id>
-        <link href="https://tv.naver.com/v/30060243"/>
-        <updated>2022-10-19T14:02:00.299Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
