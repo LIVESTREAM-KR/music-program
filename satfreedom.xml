@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-10-21T15:34:38.725Z</updated>
+    <updated>2022-10-21T16:39:28.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 스타가 부르는 전설의 ✨K-POP 명곡✨ 방송 전 무대 大공개! 🎧🎧🎧 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30129814</id>
+        <link href="https://tv.naver.com/v/30129814"/>
+        <updated>2022-10-21T16:39:21.116Z</updated>
+        <content type="html"><![CDATA[07:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 576회 더 프렌즈 특집 2부 우승자 ⭐환희x그렉⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/29951456</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29778846"/>
         <updated>2022-10-20T10:30:10.456Z</updated>
         <content type="html"><![CDATA[01:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태일(블락비)&마독스 - 이 밤의 끝을 잡고 | KBS 221008 방송]]></title>
-        <id>https://tv.naver.com/v/29778845</id>
-        <link href="https://tv.naver.com/v/29778845"/>
-        <updated>2022-10-20T10:30:10.457Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
