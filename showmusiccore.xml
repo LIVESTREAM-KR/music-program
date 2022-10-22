@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-22T07:28:09.321Z</updated>
+    <updated>2022-10-22T08:33:17.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엔시티 127 - 질주 (NCT 127 - 2 Baddies), MBC 221001 방송]]></title>
+        <id>https://tv.naver.com/v/30139316</id>
+        <link href="https://tv.naver.com/v/30139316"/>
+        <updated>2022-10-22T08:32:38.605Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엔믹스 - 다이스 (NMIXX - DICE), MBC 221008 방송]]></title>
+        <id>https://tv.naver.com/v/30139237</id>
+        <link href="https://tv.naver.com/v/30139237"/>
+        <updated>2022-10-22T08:32:38.608Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 시우민 - 브랜드 뉴 (XIUMIN - Brand New), MBC 221008 방송]]></title>
+        <id>https://tv.naver.com/v/30139235</id>
+        <link href="https://tv.naver.com/v/30139235"/>
+        <updated>2022-10-22T08:32:38.609Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마마무 - 일낼라 (MAMAMOO - ILLELLA), MBC 221022 방송]]></title>
+        <id>https://tv.naver.com/v/30139154</id>
+        <link href="https://tv.naver.com/v/30139154"/>
+        <updated>2022-10-22T08:32:38.610Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트레이키즈 - 케이스 143 (Stray Kids - CASE 143), MBC 221022 방송]]></title>
+        <id>https://tv.naver.com/v/30138969</id>
+        <link href="https://tv.naver.com/v/30138969"/>
+        <updated>2022-10-22T08:32:38.615Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이찬혁 - 파노라마 (LEE CHANHYUK - Panorama), MBC 221022 방송]]></title>
+        <id>https://tv.naver.com/v/30138968</id>
+        <link href="https://tv.naver.com/v/30138968"/>
+        <updated>2022-10-22T08:32:38.616Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - Nxde ((G)I-DLE - Nxde), MBC 221022 방송]]></title>
+        <id>https://tv.naver.com/v/30138966</id>
+        <link href="https://tv.naver.com/v/30138966"/>
+        <updated>2022-10-22T08:32:38.616Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔플라잉 - 폭망 (N.Flying - I Like You), MBC 221022 방송]]></title>
+        <id>https://tv.naver.com/v/30138820</id>
+        <link href="https://tv.naver.com/v/30138820"/>
+        <updated>2022-10-22T08:32:38.617Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원호 - 온 앤 온 (WONHO - On & On), MBC 221022 방송]]></title>
+        <id>https://tv.naver.com/v/30138816</id>
+        <link href="https://tv.naver.com/v/30138816"/>
+        <updated>2022-10-22T08:32:38.617Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원어스(ONEUS) in 코노돌🎉 - (izi - 응급실, 소찬휘 - TEARS) , MBC 221022 방송]]></title>
         <id>https://tv.naver.com/v/30138647</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/29778042"/>
         <updated>2022-10-18T06:13:39.409Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON - DICE(엔믹스 설윤 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777980</id>
-        <link href="https://tv.naver.com/v/29777980"/>
-        <updated>2022-10-18T06:13:39.410Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX JINNI - DICE(엔믹스 지니 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777926</id>
-        <link href="https://tv.naver.com/v/29777926"/>
-        <updated>2022-10-18T06:13:39.411Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON - DICE(엔믹스 해원 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777925</id>
-        <link href="https://tv.naver.com/v/29777925"/>
-        <updated>2022-10-18T06:13:39.412Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XIUMIN - Brand New(시우민 – 브랜뉴) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777914</id>
-        <link href="https://tv.naver.com/v/29777914"/>
-        <updated>2022-10-18T06:13:39.413Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX – DICE(엔믹스 - 다이스) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777724</id>
-        <link href="https://tv.naver.com/v/29777724"/>
-        <updated>2022-10-18T06:13:39.414Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KINGDOM – Long Live The King(킹덤 - 백야) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777582</id>
-        <link href="https://tv.naver.com/v/29777582"/>
-        <updated>2022-10-18T06:13:39.415Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lapillus CHANTY - GRATATA(라필루스 샨티 - 그라타타) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777450</id>
-        <link href="https://tv.naver.com/v/29777450"/>
-        <updated>2022-10-18T06:13:39.416Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lapillus – GRATATA(라필루스 - 그라타타) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777449</id>
-        <link href="https://tv.naver.com/v/29777449"/>
-        <updated>2022-10-18T06:13:39.417Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] AB6IX PARK WOO JIN - Sugarcoat(에이비식스 박우진 - 슈가코트) FanCam | Show! MusicCore | MBC221008방송]]></title>
-        <id>https://tv.naver.com/v/29777448</id>
-        <link href="https://tv.naver.com/v/29777448"/>
-        <updated>2022-10-18T06:13:39.418Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
