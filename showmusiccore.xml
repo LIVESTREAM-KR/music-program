@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-22T10:29:56.410Z</updated>
+    <updated>2022-10-22T11:21:11.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON - DICE(엔믹스 #해원 - 다이스) FanCam | Show! MusicCore | MBC221022방송]]></title>
+        <id>https://tv.naver.com/v/30142003</id>
+        <link href="https://tv.naver.com/v/30142003"/>
+        <updated>2022-10-22T11:20:32.746Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON - DICE(엔믹스 #설윤 - 다이스) FanCam | Show! MusicCore | MBC221022방송]]></title>
+        <id>https://tv.naver.com/v/30142002</id>
+        <link href="https://tv.naver.com/v/30142002"/>
+        <updated>2022-10-22T11:20:32.747Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NMIXX – DICE(#엔믹스 - 다이스) FanCam | Show! MusicCore | MBC221022방송]]></title>
+        <id>https://tv.naver.com/v/30141999</id>
+        <link href="https://tv.naver.com/v/30141999"/>
+        <updated>2022-10-22T11:20:32.748Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] (G)I-DLE – Nxde(#여자아이들 - 누드) FanCam | Show! MusicCore | MBC221022방송]]></title>
         <id>https://tv.naver.com/v/30141196</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/30139838"/>
         <updated>2022-10-22T09:26:51.453Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엔시티 127 - 질주 (NCT 127 - 2 Baddies), MBC 221001 방송]]></title>
-        <id>https://tv.naver.com/v/30139316</id>
-        <link href="https://tv.naver.com/v/30139316"/>
-        <updated>2022-10-22T08:32:38.605Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엔믹스 - 다이스 (NMIXX - DICE), MBC 221008 방송]]></title>
-        <id>https://tv.naver.com/v/30139237</id>
-        <link href="https://tv.naver.com/v/30139237"/>
-        <updated>2022-10-22T08:32:38.608Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 시우민 - 브랜드 뉴 (XIUMIN - Brand New), MBC 221008 방송]]></title>
-        <id>https://tv.naver.com/v/30139235</id>
-        <link href="https://tv.naver.com/v/30139235"/>
-        <updated>2022-10-22T08:32:38.609Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
