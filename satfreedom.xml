@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-10-22T11:21:11.135Z</updated>
+    <updated>2022-10-22T12:46:47.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 578회 전설의 K-POP 특집 1부 우승자 ⭐이지훈⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30142412</id>
+        <link href="https://tv.naver.com/v/30142412"/>
+        <updated>2022-10-22T12:46:40.485Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔딩 NO.1✨ 화려한 발차기☆ 충격적 가창력과 퍼포먼스를 보여준 몽니의 무대! | KBS 221022 방송]]></title>
+        <id>https://tv.naver.com/v/30142238</id>
+        <link href="https://tv.naver.com/v/30142238"/>
+        <updated>2022-10-22T12:46:40.491Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] 🔥전설의 K-POP 특집 2부🔥 퍼포먼스 장인들의 양보 없는 대결 본방사수🎇 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30142227</id>
+        <link href="https://tv.naver.com/v/30142227"/>
+        <updated>2022-10-22T12:46:40.491Z</updated>
+        <content type="html"><![CDATA[01:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※최종 결과※ 몽니 vs 이지훈! 명곡판정단의 마지막 선택은?! | KBS 221022 방송]]></title>
+        <id>https://tv.naver.com/v/30142223</id>
+        <link href="https://tv.naver.com/v/30142223"/>
+        <updated>2022-10-22T12:46:40.494Z</updated>
+        <content type="html"><![CDATA[01:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몽니 - NO.1 | KBS 221022 방송]]></title>
         <id>https://tv.naver.com/v/30142162</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/29950686"/>
         <updated>2022-10-15T11:20:54.418Z</updated>
         <content type="html"><![CDATA[05:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※일동기립※ 음악으로 마음의 위로를 준 김기태, 윤성의 여운 백배 무대💧 | KBS 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29950626</id>
-        <link href="https://tv.naver.com/v/29950626"/>
-        <updated>2022-10-15T11:20:54.420Z</updated>
-        <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양동근&리듬파워 - I Wanna(Drop It like Its hot!) | KBS 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29950520</id>
-        <link href="https://tv.naver.com/v/29950520"/>
-        <updated>2022-10-15T11:20:54.421Z</updated>
-        <content type="html"><![CDATA[05:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신승태&이미리 - 고래사냥 | KBS 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29950507</id>
-        <link href="https://tv.naver.com/v/29950507"/>
-        <updated>2022-10-15T11:20:54.423Z</updated>
-        <content type="html"><![CDATA[06:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기태가 직접! 하는 친구 윤성 소개💖 황윤성vs윤성의 검색어 자리싸움! | KBS 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29950456</id>
-        <link href="https://tv.naver.com/v/29950456"/>
-        <updated>2022-10-15T11:20:54.424Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
