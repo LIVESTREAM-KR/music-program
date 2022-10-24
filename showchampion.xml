@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-10-24T05:03:37.134Z</updated>
+    <updated>2022-10-24T07:01:28.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 이번주 쇼챔 AN 보면 TI슈로 눈물 닦을 예정💪]]></title>
+        <id>https://tv.naver.com/v/30176176</id>
+        <link href="https://tv.naver.com/v/30176176"/>
+        <updated>2022-10-24T07:01:14.751Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10월 3주차 ♥쇼챔피언♡ MC 모음.zip (NMIXX 설윤&규진&해원) | Show Champion | EP.454]]></title>
         <id>https://tv.naver.com/v/30082450</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30060476"/>
         <updated>2022-10-19T09:35:13.424Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEE DO JIN - Youth is just now (이도진 - 청춘은 바로 지금)]]></title>
-        <id>https://tv.naver.com/v/30060474</id>
-        <link href="https://tv.naver.com/v/30060474"/>
-        <updated>2022-10-19T09:35:13.425Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
