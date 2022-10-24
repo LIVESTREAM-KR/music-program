@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-24T07:01:28.304Z</updated>
+    <updated>2022-10-24T07:55:03.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] Stray Kids HYUNJIN - CASE 143(스트레이 키즈 #현진 - 케이스 143) Close-up Cam|Show! MusicCore|MBC221022방]]></title>
+        <id>https://tv.naver.com/v/30179289</id>
+        <link href="https://tv.naver.com/v/30179289"/>
+        <updated>2022-10-24T07:54:23.569Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] Stray Kids FELIX - CASE 143(스트레이 키즈 #필릭스 - 케이스 143) Close-up Cam|Show! MusicCore|MBC221022방송]]></title>
+        <id>https://tv.naver.com/v/30179078</id>
+        <link href="https://tv.naver.com/v/30179078"/>
+        <updated>2022-10-24T07:54:23.570Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Stray Kids HAN - CASE 143(스트레이 키즈 #한 - 케이스 143) FanCam | Show! MusicCore | MBC221022방송]]></title>
         <id>https://tv.naver.com/v/30178868</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30140131"/>
         <updated>2022-10-22T09:26:51.442Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er MASHIRO - We Fresh(케플러 #마시로 - 위 프레시) FanCam | Show! MusicCore | MBC221022방송]]></title>
-        <id>https://tv.naver.com/v/30140104</id>
-        <link href="https://tv.naver.com/v/30140104"/>
-        <updated>2022-10-22T09:26:51.446Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MAMAMOO – ILLELLA(#마마무 - 일낼라) FanCam | Show! MusicCore | MBC221022방송]]></title>
-        <id>https://tv.naver.com/v/30140102</id>
-        <link href="https://tv.naver.com/v/30140102"/>
-        <updated>2022-10-22T09:26:51.446Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
