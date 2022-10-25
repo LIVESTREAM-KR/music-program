@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-25T09:37:30.312Z</updated>
+    <updated>2022-10-25T10:31:34.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[폭망 (I Like You) - 엔플라잉 (N.Flying) | KBS 221021 방송 (뮤직뱅크)]]></title>
@@ -845,6 +845,83 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[풋풋한 매력, TAN 'Beautiful LIE' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30223027</id>
+        <link href="https://tv.naver.com/v/30223027"/>
+        <updated>2022-10-25T10:31:15.361Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[모두의 엔딩 - 쇼랑해] 케플러(Kep1er) (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30222845</id>
+        <link href="https://tv.naver.com/v/30222845"/>
+        <updated>2022-10-25T10:31:15.362Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당찬 메시지를 담은, Lapillus(라필루스) 'GRATATA' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30222703</id>
+        <link href="https://tv.naver.com/v/30222703"/>
+        <updated>2022-10-25T10:31:15.362Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밝아질 날을 위해, APR PROJECT (에이피알 프로젝트) '장면 (feat. 호현)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30222561</id>
+        <link href="https://tv.naver.com/v/30222561"/>
+        <updated>2022-10-25T10:31:15.362Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웅장하고 섬세한, KINGDOM(킹덤) '백야 (Long Live The King)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30222405</id>
+        <link href="https://tv.naver.com/v/30222405"/>
+        <updated>2022-10-25T10:31:15.370Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[THE 강습소] LE SSERAFIM (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30222404</id>
+        <link href="https://tv.naver.com/v/30222404"/>
+        <updated>2022-10-25T10:31:15.373Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 긴장감이 느껴지는, 핑크판타지(PinkFantasy) '기괴한 이야기 : Get out' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30222248</id>
+        <link href="https://tv.naver.com/v/30222248"/>
+        <updated>2022-10-25T10:31:15.375Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컬러풀 사운드, mimiirose 'Kill Me More' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30222245</id>
+        <link href="https://tv.naver.com/v/30222245"/>
+        <updated>2022-10-25T10:31:15.375Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개성 넘치는 무대, 두리(DooRi) '싱글2벙글' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30222137</id>
+        <link href="https://tv.naver.com/v/30222137"/>
+        <updated>2022-10-25T10:31:15.379Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 빛나는 에너지, Queenz Eye(퀸즈아이) 'Yummy Yummy' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30221969</id>
+        <link href="https://tv.naver.com/v/30221969"/>
+        <updated>2022-10-25T10:31:15.379Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음을 담아낸, 그리즐리(Grizzly) '우리 다투게 돼도 이것만 기억해 줄래' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/30221964</id>
+        <link href="https://tv.naver.com/v/30221964"/>
+        <updated>2022-10-25T10:31:15.379Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
         <id>https://tv.naver.com/v/30029859</id>
         <link href="https://tv.naver.com/v/30029859"/>
@@ -976,83 +1053,6 @@
         <link href="https://tv.naver.com/v/30028118"/>
         <updated>2022-10-18T10:30:20.867Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설렘 가득 가을 감성, 예빈나다 '산책하러 갈래' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30028116</id>
-        <link href="https://tv.naver.com/v/30028116"/>
-        <updated>2022-10-18T10:30:20.867Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛이 되어줄, 라임라잇(LIMELIGHT) 'StarLight' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30027391</id>
-        <link href="https://tv.naver.com/v/30027391"/>
-        <updated>2022-10-18T09:34:39.112Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[INTRO] THE SHOW in Gyeongju (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30027066</id>
-        <link href="https://tv.naver.com/v/30027066"/>
-        <updated>2022-10-18T09:34:39.112Z</updated>
-        <content type="html"><![CDATA[00:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPOT] THE SHOW : GYEONGJU Special (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29912731</id>
-        <link href="https://tv.naver.com/v/29912731"/>
-        <updated>2022-10-14T02:34:35.346Z</updated>
-        <content type="html"><![CDATA[00:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모두의 엔딩 - 빛보다 THE 빠르SHOW] CRAVITY (크래비티) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29684718</id>
-        <link href="https://tv.naver.com/v/29684718"/>
-        <updated>2022-10-05T05:52:05.190Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29666302</id>
-        <link href="https://tv.naver.com/v/29666302"/>
-        <updated>2022-10-04T11:21:42.782Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 긍정 에너지 듬뿍 담은, CRAVITY 'PARTY ROCK' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29666301</id>
-        <link href="https://tv.naver.com/v/29666301"/>
-        <updated>2022-10-04T11:21:42.782Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초공개] 통통 튀는 청량 무대, CRAVITY 'Boogie Woogie' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29666150</id>
-        <link href="https://tv.naver.com/v/29666150"/>
-        <updated>2022-10-04T11:21:42.782Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을밤 생각나는, 멜로망스 '다시 또 널 사랑하게 되었네 (‘PLAYLIST’ OST)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29665915</id>
-        <link href="https://tv.naver.com/v/29665915"/>
-        <updated>2022-10-04T11:21:42.789Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 시간 여행 속으로, 미래소년 'Drip N' Drop' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29665912</id>
-        <link href="https://tv.naver.com/v/29665912"/>
-        <updated>2022-10-04T11:21:42.789Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감미로운 보이스, 서울 '낮의 별' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/29665752</id>
-        <link href="https://tv.naver.com/v/29665752"/>
-        <updated>2022-10-04T11:21:42.789Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 이번주 쇼챔 AN 보면 TI슈로 눈물 닦을 예정💪 (쇼챔피언)]]></title>
