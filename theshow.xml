@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2022-10-25T10:31:34.465Z</updated>
+    <updated>2022-10-25T11:24:01.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/30224014</id>
+        <link href="https://tv.naver.com/v/30224014"/>
+        <updated>2022-10-25T11:23:39.134Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 진짜 나를 보여줄, (여자)아이들 'Nxde']]></title>
+        <id>https://tv.naver.com/v/30223896</id>
+        <link href="https://tv.naver.com/v/30223896"/>
+        <updated>2022-10-25T11:23:39.139Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 널 좋아하게 돼서, 엔플라잉 (N.Flying) '폭망 (I Like You)']]></title>
+        <id>https://tv.naver.com/v/30223895</id>
+        <link href="https://tv.naver.com/v/30223895"/>
+        <updated>2022-10-25T11:23:39.140Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 어떠한 시련에도 더 단단해지는, LE SSERAFIM 'ANTIFRAGILE']]></title>
+        <id>https://tv.naver.com/v/30223871</id>
+        <link href="https://tv.naver.com/v/30223871"/>
+        <updated>2022-10-25T11:23:39.140Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러블리 드라큘라, 이채연 'HUSH RUSH']]></title>
+        <id>https://tv.naver.com/v/30223746</id>
+        <link href="https://tv.naver.com/v/30223746"/>
+        <updated>2022-10-25T11:23:39.144Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파티 즐길 사람 '다 여기 모여', CRAVITY 'PARTY ROCK']]></title>
+        <id>https://tv.naver.com/v/30223612</id>
+        <link href="https://tv.naver.com/v/30223612"/>
+        <updated>2022-10-25T11:23:39.146Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 치명적 다크 무드, 위아이(WEi) 'Spray']]></title>
+        <id>https://tv.naver.com/v/30223609</id>
+        <link href="https://tv.naver.com/v/30223609"/>
+        <updated>2022-10-25T11:23:39.147Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한계 없는 히어로들의 무대, 케플러(Kep1er) 'We Fresh']]></title>
+        <id>https://tv.naver.com/v/30223497</id>
+        <link href="https://tv.naver.com/v/30223497"/>
+        <updated>2022-10-25T11:23:39.148Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강렬한 퍼포먼스, DKZ '호랑이가 쫓아온다 (Uh-Heung)']]></title>
+        <id>https://tv.naver.com/v/30223466</id>
+        <link href="https://tv.naver.com/v/30223466"/>
+        <updated>2022-10-25T11:23:39.148Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[풋풋한 매력, TAN 'Beautiful LIE']]></title>
         <id>https://tv.naver.com/v/30223027</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/30028949"/>
         <updated>2022-10-18T10:30:20.845Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Solo Debut] 무대에서 가장 빛나는, 이채연 'HUSH RUSH']]></title>
-        <id>https://tv.naver.com/v/30028829</id>
-        <link href="https://tv.naver.com/v/30028829"/>
-        <updated>2022-10-18T10:30:20.850Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감각적 멜로디, 미래소년 'Drip N' Drop']]></title>
-        <id>https://tv.naver.com/v/30028828</id>
-        <link href="https://tv.naver.com/v/30028828"/>
-        <updated>2022-10-18T10:30:20.850Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 펑키하고 청량한, TAN 'Beautiful LIE']]></title>
-        <id>https://tv.naver.com/v/30028711</id>
-        <link href="https://tv.naver.com/v/30028711"/>
-        <updated>2022-10-18T10:30:20.850Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 자신들의 길을 만들어 나가는, DKZ '호랑이가 쫓아온다 (Uh-Heung)']]></title>
-        <id>https://tv.naver.com/v/30028710</id>
-        <link href="https://tv.naver.com/v/30028710"/>
-        <updated>2022-10-18T10:30:20.850Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달콤함으로 물들일, woo!ah! (우아!) '단거(Danger)']]></title>
-        <id>https://tv.naver.com/v/30028709</id>
-        <link href="https://tv.naver.com/v/30028709"/>
-        <updated>2022-10-18T10:30:20.851Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화려한 장밋빛 무대, mimiirose 'Rose']]></title>
-        <id>https://tv.naver.com/v/30028495</id>
-        <link href="https://tv.naver.com/v/30028495"/>
-        <updated>2022-10-18T10:30:20.862Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Solo Debut] 서로를 위하는, 이채연 'Danny']]></title>
-        <id>https://tv.naver.com/v/30028468</id>
-        <link href="https://tv.naver.com/v/30028468"/>
-        <updated>2022-10-18T10:30:20.862Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시원한 가을 하늘, 트라이비(TRI.BE) 'In The Air (777)']]></title>
-        <id>https://tv.naver.com/v/30028397</id>
-        <link href="https://tv.naver.com/v/30028397"/>
-        <updated>2022-10-18T10:30:20.866Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발랄한 매력, 송채아 '째깍째깍']]></title>
-        <id>https://tv.naver.com/v/30028118</id>
-        <link href="https://tv.naver.com/v/30028118"/>
-        <updated>2022-10-18T10:30:20.867Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
