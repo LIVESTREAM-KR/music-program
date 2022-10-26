@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-10-26T10:25:47.144Z</updated>
+    <updated>2022-10-26T11:20:35.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] (G)I-DLE - Nxde ((여자)아이들 - 누드)]]></title>
+        <id>https://tv.naver.com/v/30256217</id>
+        <link href="https://tv.naver.com/v/30256217"/>
+        <updated>2022-10-26T11:20:21.671Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] N.Flying - I Like You (엔플라잉 - 폭망)]]></title>
+        <id>https://tv.naver.com/v/30256207</id>
+        <link href="https://tv.naver.com/v/30256207"/>
+        <updated>2022-10-26T11:20:21.672Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] LE SSERAFIM - ANTIFRAGILE (르세라핌 - 안티프래자일)]]></title>
+        <id>https://tv.naver.com/v/30256069</id>
+        <link href="https://tv.naver.com/v/30256069"/>
+        <updated>2022-10-26T11:20:21.672Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] N.Flying - The Night (엔플라잉 - 그 밤)]]></title>
+        <id>https://tv.naver.com/v/30255938</id>
+        <link href="https://tv.naver.com/v/30255938"/>
+        <updated>2022-10-26T11:20:21.680Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - PARTY ROCK (크래비티 - 파티 락)]]></title>
+        <id>https://tv.naver.com/v/30255744</id>
+        <link href="https://tv.naver.com/v/30255744"/>
+        <updated>2022-10-26T11:20:21.681Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEE CHAE YEON - HUSH RUSH (이채연 - 허쉬 러쉬)]]></title>
+        <id>https://tv.naver.com/v/30255740</id>
+        <link href="https://tv.naver.com/v/30255740"/>
+        <updated>2022-10-26T11:20:21.681Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] WEi - Spray (위아이 - 스프레이)]]></title>
         <id>https://tv.naver.com/v/30255470</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/30062708"/>
         <updated>2022-10-19T14:02:00.279Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] PARK JIHOON - NITRO (박지훈 - 나이트로) l Show Champion l EP.454]]></title>
-        <id>https://tv.naver.com/v/30062706</id>
-        <link href="https://tv.naver.com/v/30062706"/>
-        <updated>2022-10-19T14:02:00.280Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX - DICE (엔믹스 - 다이스) l Show Champion l EP.454]]></title>
-        <id>https://tv.naver.com/v/30062554</id>
-        <link href="https://tv.naver.com/v/30062554"/>
-        <updated>2022-10-19T14:02:00.284Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX HAEWON - DICE (엔믹스 해원 - 다이스) | Show Champion | EP.454]]></title>
-        <id>https://tv.naver.com/v/30062465</id>
-        <link href="https://tv.naver.com/v/30062465"/>
-        <updated>2022-10-19T14:02:00.285Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX KYUJIN - DICE (엔믹스 규진 - 다이스) | Show Champion | EP.454]]></title>
-        <id>https://tv.naver.com/v/30062190</id>
-        <link href="https://tv.naver.com/v/30062190"/>
-        <updated>2022-10-19T14:02:00.285Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX SULLYOON - DICE (엔믹스 설윤 - 다이스) | Show Champion | EP.454]]></title>
-        <id>https://tv.naver.com/v/30062106</id>
-        <link href="https://tv.naver.com/v/30062106"/>
-        <updated>2022-10-19T14:02:00.286Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] WONHO - Don't Regret (원호 - 돈 리그렛)]]></title>
-        <id>https://tv.naver.com/v/30061818</id>
-        <link href="https://tv.naver.com/v/30061818"/>
-        <updated>2022-10-19T10:34:26.759Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
