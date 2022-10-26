@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-26T07:23:27.028Z</updated>
+    <updated>2022-10-26T08:29:09.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] (G)I-DLE.zip 📂 LATATA부터 Nxde까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/30241159</id>
+        <link href="https://tv.naver.com/v/30241159"/>
+        <updated>2022-10-26T08:28:36.014Z</updated>
+        <content type="html"><![CDATA[35:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] (G)I-DLE SHUHUA - Nxde(여자아이들 슈화 - 누드) Close-up Cam | Show! MusicCore | MBC221022방송]]></title>
         <id>https://tv.naver.com/v/30185664</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30140283"/>
         <updated>2022-10-22T09:26:51.440Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er HIKARU - We Fresh(케플러 #히카루 - 위 프레시) FanCam | Show! MusicCore | MBC221022방송]]></title>
-        <id>https://tv.naver.com/v/30140282</id>
-        <link href="https://tv.naver.com/v/30140282"/>
-        <updated>2022-10-22T09:26:51.441Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>

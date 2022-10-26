@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-10-26T07:23:27.034Z</updated>
+    <updated>2022-10-26T08:29:09.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -181,6 +181,20 @@
         <content type="html"><![CDATA[01:01]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오늘 목표는 우승입니다! 이찬원&황윤성 찬성형제💛 이 조합 찬성! | KBS 221015 방송]]></title>
+        <id>https://tv.naver.com/v/29951108</id>
+        <link href="https://tv.naver.com/v/29951108"/>
+        <updated>2022-10-26T08:29:03.953Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이찬원&황윤성 - 정말 좋았네 | KBS 221015 방송]]></title>
+        <id>https://tv.naver.com/v/29951104</id>
+        <link href="https://tv.naver.com/v/29951104"/>
+        <updated>2022-10-26T08:29:03.954Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[여운이 가시지 않는다! 흥 MAX 강철 성대를 보여준 이찬원&황윤성의 무대🕺🏽 | KBS 221015 방송]]></title>
         <id>https://tv.naver.com/v/29951032</id>
         <link href="https://tv.naver.com/v/29951032"/>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29950745"/>
         <updated>2022-10-15T11:20:54.415Z</updated>
         <content type="html"><![CDATA[02:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기태&윤성 무대의 남다른 리액션! 양동근&리듬파워 온몸으로 표현하는 감동🤣 | KBS 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29950692</id>
-        <link href="https://tv.naver.com/v/29950692"/>
-        <updated>2022-10-15T11:20:54.417Z</updated>
-        <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기태&윤성 - 나를 외치다 | KBS 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29950686</id>
-        <link href="https://tv.naver.com/v/29950686"/>
-        <updated>2022-10-15T11:20:54.418Z</updated>
-        <content type="html"><![CDATA[05:17]]></content>
     </entry>
 </feed>
