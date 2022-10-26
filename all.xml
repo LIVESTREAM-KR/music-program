@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-26T11:20:35.827Z</updated>
+    <updated>2022-10-26T12:52:47.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[폭망 (I Like You) - 엔플라잉 (N.Flying) | KBS 221021 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 내가 사랑한 K-POP편 무대 大공개! 🎧🎧🎧 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/30259510</id>
+        <link href="https://tv.naver.com/v/30259510"/>
+        <updated>2022-10-26T12:52:40.481Z</updated>
+        <content type="html"><![CDATA[07:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 578회 전설의 K-POP 특집 1부 우승자 ⭐이지훈⭐ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/30142412</id>
         <link href="https://tv.naver.com/v/30142412"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/29951030"/>
         <updated>2022-10-15T11:20:54.412Z</updated>
         <content type="html"><![CDATA[02:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환희&그렉이 HELLO를 선곡한 이유는? & 황치열을 향한 찬또 삐졌또ㅠㅠ | KBS 221015 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/29950745</id>
-        <link href="https://tv.naver.com/v/29950745"/>
-        <updated>2022-10-15T11:20:54.415Z</updated>
-        <content type="html"><![CDATA[02:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[＜총각김치의 가왕 첫 타이틀 매치!＞ 복면가왕 379회 예고, MBC 221030 방송 (복면가왕)]]></title>

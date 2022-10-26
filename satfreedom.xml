@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-10-26T11:20:35.789Z</updated>
+    <updated>2022-10-26T12:52:47.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 내가 사랑한 K-POP편 무대 大공개! 🎧🎧🎧 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30259510</id>
+        <link href="https://tv.naver.com/v/30259510"/>
+        <updated>2022-10-26T12:52:40.481Z</updated>
+        <content type="html"><![CDATA[07:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 578회 전설의 K-POP 특집 1부 우승자 ⭐이지훈⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/30142412</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29951030"/>
         <updated>2022-10-15T11:20:54.412Z</updated>
         <content type="html"><![CDATA[02:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환희&그렉이 HELLO를 선곡한 이유는? & 황치열을 향한 찬또 삐졌또ㅠㅠ | KBS 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29950745</id>
-        <link href="https://tv.naver.com/v/29950745"/>
-        <updated>2022-10-15T11:20:54.415Z</updated>
-        <content type="html"><![CDATA[02:26]]></content>
     </entry>
 </feed>
