@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-10-27T09:26:31.649Z</updated>
+    <updated>2022-10-27T10:26:08.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 4주차 ♥쇼챔피언♡ MC 딴콩민 모음.zip (VERIVERY 강민, ASTRO 문빈&산하) | Show Champion | EP.455]]></title>
+        <id>https://tv.naver.com/v/30284292</id>
+        <link href="https://tv.naver.com/v/30284292"/>
+        <updated>2022-10-27T10:25:53.929Z</updated>
+        <content type="html"><![CDATA[08:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] WEi - Higher Ground (위아이 - 하이어 그라운드) l Show Champion l EP.455]]></title>
         <id>https://tv.naver.com/v/30282600</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30254977"/>
         <updated>2022-10-26T13:55:17.975Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] WEi KIM YOHAN - Spray (위아이 김요한 - 스프레이) | Show Champion | EP.455]]></title>
-        <id>https://tv.naver.com/v/30254841</id>
-        <link href="https://tv.naver.com/v/30254841"/>
-        <updated>2022-10-26T13:55:17.976Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
