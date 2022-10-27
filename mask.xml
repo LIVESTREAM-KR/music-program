@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-10-27T08:30:00.191Z</updated>
+    <updated>2022-10-27T09:26:31.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 과즙미 뿜뿜, 감성과 싱그러움이 가득! 클라씨 윤채원!, MBC 221023 방송]]></title>
+        <id>https://tv.naver.com/v/30285615</id>
+        <link href="https://tv.naver.com/v/30285615"/>
+        <updated>2022-10-27T09:26:31.062Z</updated>
+        <content type="html"><![CDATA[10:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 뮤지션으로 재도약! 짙은 감성의 마성의 목소리! 가수이자 배우 허규!, MBC 221023 방송]]></title>
+        <id>https://tv.naver.com/v/30285612</id>
+        <link href="https://tv.naver.com/v/30285612"/>
+        <updated>2022-10-27T09:26:31.063Z</updated>
+        <content type="html"><![CDATA[11:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 입담에 가려진 반전 노래 실력! 해설위원 서형욱!, MBC 221023 방송]]></title>
+        <id>https://tv.naver.com/v/30285229</id>
+        <link href="https://tv.naver.com/v/30285229"/>
+        <updated>2022-10-27T09:26:31.064Z</updated>
+        <content type="html"><![CDATA[09:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜총각김치의 가왕 첫 타이틀 매치!＞ 복면가왕 379회 예고, MBC 221030 방송]]></title>
         <id>https://tv.naver.com/v/30157457</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/29965031"/>
         <updated>2022-10-16T10:30:47.853Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복면가왕 보물 찾기✨ '가을소풍'이 숨겨둔 편지를 찾아라!💌, MBC 221016 방송]]></title>
-        <id>https://tv.naver.com/v/29964891</id>
-        <link href="https://tv.naver.com/v/29964891"/>
-        <updated>2022-10-16T10:30:47.853Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넋을 놓고 감상하게 만드는 몸짓💕 '라떼는 말이야'가 선보이는 ＜부채춤＞ 개인기!, MBC 221016 방송]]></title>
-        <id>https://tv.naver.com/v/29964890</id>
-        <link href="https://tv.naver.com/v/29964890"/>
-        <updated>2022-10-16T10:30:47.853Z</updated>
-        <content type="html"><![CDATA[01:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가을소풍' 2라운드 무대 - 씨스루, MBC 221016 방송]]></title>
-        <id>https://tv.naver.com/v/29964689</id>
-        <link href="https://tv.naver.com/v/29964689"/>
-        <updated>2022-10-16T10:30:47.853Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
