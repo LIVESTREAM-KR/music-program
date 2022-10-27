@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-10-27T07:22:23.097Z</updated>
+    <updated>2022-10-27T08:30:00.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] WEi - Higher Ground (위아이 - 하이어 그라운드) l Show Champion l EP.455]]></title>
+        <id>https://tv.naver.com/v/30282600</id>
+        <link href="https://tv.naver.com/v/30282600"/>
+        <updated>2022-10-27T08:29:48.663Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] DKZ - Uh-Heung (디케이지 - 호랑이가 쫓아온다) l Show Champion l EP.455]]></title>
+        <id>https://tv.naver.com/v/30282019</id>
+        <link href="https://tv.naver.com/v/30282019"/>
+        <updated>2022-10-27T08:29:48.665Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] Lapillus - Burn With Love (라필루스 - 번 위드 럽) l Show Champion l EP.455]]></title>
+        <id>https://tv.naver.com/v/30281330</id>
+        <link href="https://tv.naver.com/v/30281330"/>
+        <updated>2022-10-27T08:29:48.667Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] CRAVITY TAEYOUNG - PARTY ROCK (크래비티 태영 - 파티 락) | Show Champion | EP.455]]></title>
         <id>https://tv.naver.com/v/30258688</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/30254841"/>
         <updated>2022-10-26T13:55:17.976Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[줍줍 TIME] 시련을 마주할수록 더욱 단단해지는 '냥'세라핌♥]]></title>
-        <id>https://tv.naver.com/v/30254737</id>
-        <link href="https://tv.naver.com/v/30254737"/>
-        <updated>2022-10-26T10:25:33.464Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HOT DEBUT] Queenz Eye - Yummy Yummy (퀸즈아이 - 야미 야미)]]></title>
-        <id>https://tv.naver.com/v/30254736</id>
-        <link href="https://tv.naver.com/v/30254736"/>
-        <updated>2022-10-26T10:25:33.465Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] N.Flying KIM JAE HYUN - I Like You (엔플라잉 김재현 - 폭망) | Show Champion | EP.455]]></title>
-        <id>https://tv.naver.com/v/30254734</id>
-        <link href="https://tv.naver.com/v/30254734"/>
-        <updated>2022-10-26T13:55:17.979Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
