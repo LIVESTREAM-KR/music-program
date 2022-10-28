@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-28T08:35:41.614Z</updated>
+    <updated>2022-10-28T09:24:58.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[DANCE ON - 앨리스(ALICE) | KBS 221028 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/30319631</id>
+        <link href="https://tv.naver.com/v/30319631"/>
+        <updated>2022-10-28T09:24:11.917Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spray - 위아이(WEi) | KBS 221028 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/30319629</id>
+        <link href="https://tv.naver.com/v/30319629"/>
+        <updated>2022-10-28T09:24:11.917Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATTITUDE - ATBO | KBS 221028 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/30319626</id>
+        <link href="https://tv.naver.com/v/30319626"/>
+        <updated>2022-10-28T09:24:11.918Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMAZON - TFN | KBS 221028 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/30319439</id>
+        <link href="https://tv.naver.com/v/30319439"/>
+        <updated>2022-10-28T09:24:11.918Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kill Me More - mimiirose | KBS 221028 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/30319432</id>
+        <link href="https://tv.naver.com/v/30319432"/>
+        <updated>2022-10-28T09:24:11.918Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generation - tripleS AAA | KBS 221028 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/30319430</id>
+        <link href="https://tv.naver.com/v/30319430"/>
+        <updated>2022-10-28T09:24:11.918Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yummy Yummy (야미야미) - Queenz Eye (퀸즈아이) | KBS 221028 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/30319171</id>
+        <link href="https://tv.naver.com/v/30319171"/>
+        <updated>2022-10-28T09:24:11.921Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carnival - 에이블루(ABLUE) | KBS 221028 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/30319166</id>
+        <link href="https://tv.naver.com/v/30319166"/>
+        <updated>2022-10-28T09:24:11.921Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭망 (I Like You) - 엔플라잉 (N.Flying) | KBS 221021 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/30123057</id>
@@ -157,62 +213,6 @@
         <link href="https://tv.naver.com/v/29931117"/>
         <updated>2022-10-14T09:28:09.587Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dont Regret - 원호 (WONHO) | KBS 221014 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29931001</id>
-        <link href="https://tv.naver.com/v/29931001"/>
-        <updated>2022-10-14T09:28:09.587Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VISION - 드림캐쳐 | KBS 221014 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29930995</id>
-        <link href="https://tv.naver.com/v/29930995"/>
-        <updated>2022-10-14T09:28:09.587Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NITRO - 박지훈 | KBS 221014 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29930808</id>
-        <link href="https://tv.naver.com/v/29930808"/>
-        <updated>2022-10-14T09:28:09.595Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sugarcoat - AB6IX (에이비식스) | KBS 221014 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29930513</id>
-        <link href="https://tv.naver.com/v/29930513"/>
-        <updated>2022-10-14T09:28:09.596Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Underwater - 권은비 | KBS 221014 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29930511</id>
-        <link href="https://tv.naver.com/v/29930511"/>
-        <updated>2022-10-14T09:28:09.603Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PARTY ROCK - CRAVITY | KBS 221014 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29930510</id>
-        <link href="https://tv.naver.com/v/29930510"/>
-        <updated>2022-10-14T09:28:09.622Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HUSH RUSH - 이채연 | KBS 221014 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29930344</id>
-        <link href="https://tv.naver.com/v/29930344"/>
-        <updated>2022-10-14T09:28:09.622Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drip N’ Drop - 미래소년 | KBS 221014 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/29930340</id>
-        <link href="https://tv.naver.com/v/29930340"/>
-        <updated>2022-10-14T09:28:09.622Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] (G)I-DLE.zip 📂 LATATA부터 Nxde까지 | Show! MusicCore (쇼! 음악중심)]]></title>
