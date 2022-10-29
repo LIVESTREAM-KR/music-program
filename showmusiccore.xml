@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-10-29T06:28:13.627Z</updated>
+    <updated>2022-10-29T07:21:28.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퀸즈아이 - 야미 야미 (Queenz Eye - Yummy Yummy), MBC 221029 방송]]></title>
+        <id>https://tv.naver.com/v/30335743</id>
+        <link href="https://tv.naver.com/v/30335743"/>
+        <updated>2022-10-29T07:20:50.157Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트리플에스 AAA - 제너레이션 (tripleS AAA - Generation), MBC 221029 방송]]></title>
+        <id>https://tv.naver.com/v/30335742</id>
+        <link href="https://tv.naver.com/v/30335742"/>
+        <updated>2022-10-29T07:20:50.157Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잭킹콩 - 썸머 포 유 (Jackingcong - Summer For You), MBC 221029]]></title>
+        <id>https://tv.naver.com/v/30335668</id>
+        <link href="https://tv.naver.com/v/30335668"/>
+        <updated>2022-10-29T07:20:50.158Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] (G)I-DLE.zip 📂 LATATA부터 Nxde까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/30241159</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/30140789"/>
         <updated>2022-10-22T10:29:17.228Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHAEYEON - HUSH RUSH(#이채연 – 허쉬 러쉬) FanCam (Horizontal Ver.) | Show! MusicCore | MBC2210]]></title>
-        <id>https://tv.naver.com/v/30140517</id>
-        <link href="https://tv.naver.com/v/30140517"/>
-        <updated>2022-10-22T09:26:51.433Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er CHAEHYUN - We Fresh(케플러 #김채현 - 위 프레시) FanCam | Show! MusicCore | MBC221022방송]]></title>
-        <id>https://tv.naver.com/v/30140516</id>
-        <link href="https://tv.naver.com/v/30140516"/>
-        <updated>2022-10-22T09:26:51.433Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er XIAOTING - We Fresh(케플러 #샤오팅 - 위 프레시) FanCam | Show! MusicCore | MBC221022방송]]></title>
-        <id>https://tv.naver.com/v/30140283</id>
-        <link href="https://tv.naver.com/v/30140283"/>
-        <updated>2022-10-22T09:26:51.440Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
