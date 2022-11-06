@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-11-06T06:27:06.007Z</updated>
+    <updated>2022-11-06T07:19:56.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[tripleS AAA - Generation | SBS 221106 방송]]></title>
+        <id>https://tv.naver.com/v/30529546</id>
+        <link href="https://tv.naver.com/v/30529546"/>
+        <updated>2022-11-06T07:19:26.597Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TFN - AMAZON | SBS 221106 방송]]></title>
+        <id>https://tv.naver.com/v/30529522</id>
+        <link href="https://tv.naver.com/v/30529522"/>
+        <updated>2022-11-06T07:19:26.597Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queenz Eye(퀸즈아이) - Yummy Yummy | SBS 221106 방송]]></title>
+        <id>https://tv.naver.com/v/30529520</id>
+        <link href="https://tv.naver.com/v/30529520"/>
+        <updated>2022-11-06T07:19:26.597Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids - CASE 143 | SBS 221023 방송]]></title>
         <id>https://tv.naver.com/v/30158605</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/29962445"/>
         <updated>2022-10-16T07:26:24.953Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mimiirose - Rose | SBS 221016 방송]]></title>
-        <id>https://tv.naver.com/v/29962444</id>
-        <link href="https://tv.naver.com/v/29962444"/>
-        <updated>2022-10-16T07:26:24.953Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - PARTY ROCK | SBS 221016 방송]]></title>
-        <id>https://tv.naver.com/v/29962376</id>
-        <link href="https://tv.naver.com/v/29962376"/>
-        <updated>2022-10-16T07:26:24.953Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림캐쳐 - VISION | SBS 221016 방송]]></title>
-        <id>https://tv.naver.com/v/29962294</id>
-        <link href="https://tv.naver.com/v/29962294"/>
-        <updated>2022-10-16T07:26:24.953Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
