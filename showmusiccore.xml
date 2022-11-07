@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-11-07T01:54:16.747Z</updated>
+    <updated>2022-11-07T03:41:00.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] MONSTA X KIHYUN - Youth (몬스타엑스 기현 - 유스) Close-up Cam | Show! MusicCore | MBC221029방송]]></title>
+        <id>https://tv.naver.com/v/30546088</id>
+        <link href="https://tv.naver.com/v/30546088"/>
+        <updated>2022-11-07T03:40:19.782Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) FanCam | Show! MusicCore | MBC221029방송]]></title>
         <id>https://tv.naver.com/v/30338276</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30337761"/>
         <updated>2022-10-29T10:28:09.993Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er - We Fresh(케플러 - 위 프레시) FanCam | Show! MusicCore | MBC221029방송]]></title>
-        <id>https://tv.naver.com/v/30337759</id>
-        <link href="https://tv.naver.com/v/30337759"/>
-        <updated>2022-10-29T10:28:09.994Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
