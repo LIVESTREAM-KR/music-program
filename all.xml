@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-11T10:29:43.837Z</updated>
+    <updated>2022-11-11T11:19:59.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nxde - (여자)아이들 | KBS 221028 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[미방분 선공개] ❤불후 로맨틱 홀리데이❤ 조성모 - To Heaven | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/30694807</id>
+        <link href="https://tv.naver.com/v/30694807"/>
+        <updated>2022-11-11T11:19:50.869Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 579회 전설의 K-POP 특집 2부 우승자 ⭐박재정⭐ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/30339715</id>
         <link href="https://tv.naver.com/v/30339715"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/30142162"/>
         <updated>2022-10-22T11:21:04.254Z</updated>
         <content type="html"><![CDATA[04:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지훈 - 말리꽃 | KBS 221022 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30142148</id>
-        <link href="https://tv.naver.com/v/30142148"/>
-        <updated>2022-10-22T11:21:04.254Z</updated>
-        <content type="html"><![CDATA[05:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[＜가왕석을 둘러싼 치열한 사랑싸움＞ 복면가왕 380회 예고, MBC 221113 방송 (복면가왕)]]></title>

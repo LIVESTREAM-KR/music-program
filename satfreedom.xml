@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-11-11T10:29:43.818Z</updated>
+    <updated>2022-11-11T11:19:59.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분 선공개] ❤불후 로맨틱 홀리데이❤ 조성모 - To Heaven | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30694807</id>
+        <link href="https://tv.naver.com/v/30694807"/>
+        <updated>2022-11-11T11:19:50.869Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 579회 전설의 K-POP 특집 2부 우승자 ⭐박재정⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/30339715</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30142162"/>
         <updated>2022-10-22T11:21:04.254Z</updated>
         <content type="html"><![CDATA[04:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지훈 - 말리꽃 | KBS 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30142148</id>
-        <link href="https://tv.naver.com/v/30142148"/>
-        <updated>2022-10-22T11:21:04.254Z</updated>
-        <content type="html"><![CDATA[05:40]]></content>
     </entry>
 </feed>
