@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-11-12T12:38:19.742Z</updated>
+    <updated>2022-11-12T13:32:08.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,20 +11,6 @@
         <link href="https://tv.naver.com/v/30716894"/>
         <updated>2022-11-12T12:38:11.912Z</updated>
         <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 - il Mare Calmo Della Sera  | KBS 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30716803</id>
-        <link href="https://tv.naver.com/v/30716803"/>
-        <updated>2022-11-12T12:38:11.914Z</updated>
-        <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 - Brucia La Terra | KBS 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30716801</id>
-        <link href="https://tv.naver.com/v/30716801"/>
-        <updated>2022-11-12T12:38:11.916Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고]💟로맨틱 홀리데이 특집 2부💟 끝나지 않은 어느 때보다 따뜻한 가을밤 | KBS 방송]]></title>
@@ -39,6 +25,20 @@
         <link href="https://tv.naver.com/v/30716798"/>
         <updated>2022-11-12T12:38:11.924Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김호중 - il Mare Calmo Della Sera  | KBS 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30716803</id>
+        <link href="https://tv.naver.com/v/30716803"/>
+        <updated>2022-11-12T12:38:11.914Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김호중 - Brucia La Terra | KBS 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30716801</id>
+        <link href="https://tv.naver.com/v/30716801"/>
+        <updated>2022-11-12T12:38:11.916Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잔나비 - 가을밤에 든 생각 | KBS 221112 방송]]></title>
