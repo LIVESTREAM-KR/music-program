@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-11-12T06:27:02.729Z</updated>
+    <updated>2022-11-12T07:21:06.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티비오 - 애티튜드 (ATBO - ATTITUDE), MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30712327</id>
+        <link href="https://tv.naver.com/v/30712327"/>
+        <updated>2022-11-12T07:20:21.925Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클라씨 - 틱틱붐 (CLASS:y - Tick Tick Boom), MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30712210</id>
+        <link href="https://tv.naver.com/v/30712210"/>
+        <updated>2022-11-12T07:20:21.927Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클라씨 - 질러스 (CLASS:y - ZEALOUS), MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30712126</id>
+        <link href="https://tv.naver.com/v/30712126"/>
+        <updated>2022-11-12T07:20:21.927Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나이트 - 배드 큐피드 (YOUNITE - Bad Cupid), MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30712063</id>
+        <link href="https://tv.naver.com/v/30712063"/>
+        <updated>2022-11-12T07:20:21.927Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 드로우 (ICHILLIN' - Draw), MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30711943</id>
+        <link href="https://tv.naver.com/v/30711943"/>
+        <updated>2022-11-12T07:20:21.927Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알렉사 - 백 인 보그 (AleXa - Back In Vouge), MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30711939</id>
+        <link href="https://tv.naver.com/v/30711939"/>
+        <updated>2022-11-12T07:20:21.933Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경서 - 고백연습 (KyoungSeo - CHECKLIST), MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30711846</id>
+        <link href="https://tv.naver.com/v/30711846"/>
+        <updated>2022-11-12T07:20:21.933Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트리플에스 AAA - 제너레이션 (tripleS AAA - Generation), MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30711755</id>
+        <link href="https://tv.naver.com/v/30711755"/>
+        <updated>2022-11-12T07:20:21.935Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퀸즈아이 - 야미 야미 (Queenz Eye - Yummy Yummy), MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30711641</id>
+        <link href="https://tv.naver.com/v/30711641"/>
+        <updated>2022-11-12T07:20:21.936Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] (G)I-DLE SHUHUA - Nxde((여자)아이들 슈화 - 누드) Close-up Cam | Show! MusicCore | MBC221029방송]]></title>
         <id>https://tv.naver.com/v/30546299</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/30337981"/>
         <updated>2022-10-29T10:28:09.977Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CLASS:y Chae Won - ZEALOUS(클라씨 채원 - 질러스) FanCam | Show! MusicCore | MBC221029방송]]></title>
-        <id>https://tv.naver.com/v/30337905</id>
-        <link href="https://tv.naver.com/v/30337905"/>
-        <updated>2022-10-29T10:28:09.977Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 5주차 1위 (여자)아이들 - Nxde ((G)I-DLE - Nxde), MBC 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30337843</id>
-        <link href="https://tv.naver.com/v/30337843"/>
-        <updated>2022-10-29T10:28:09.981Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》스트레이 키즈 - 케이스 143 (Stray Kids - CASE 143), MBC 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30337841</id>
-        <link href="https://tv.naver.com/v/30337841"/>
-        <updated>2022-10-29T10:28:09.981Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHAEYEON - HUSH RUSH(이채연 – 허쉬 러쉬) FanCam (Horizontal Ver.)|Show! MusicCore|MBC221029방송]]></title>
-        <id>https://tv.naver.com/v/30337827</id>
-        <link href="https://tv.naver.com/v/30337827"/>
-        <updated>2022-10-29T10:28:09.981Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WEi - Spray(위아이 - 스프레이) FanCam | Show! MusicCore | MBC221029방송]]></title>
-        <id>https://tv.naver.com/v/30337825</id>
-        <link href="https://tv.naver.com/v/30337825"/>
-        <updated>2022-10-29T10:28:09.989Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》킹덤 - 백야 (KINGDOM - Long Live The King), MBC 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30337823</id>
-        <link href="https://tv.naver.com/v/30337823"/>
-        <updated>2022-10-29T10:28:09.989Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CLASS:y Bo Eun - Tick Tick Boom(클라씨 보은 - 틱틱붐) FanCam | Show! MusicCore | MBC221029방송]]></title>
-        <id>https://tv.naver.com/v/30337766</id>
-        <link href="https://tv.naver.com/v/30337766"/>
-        <updated>2022-10-29T10:28:09.989Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CLASS:y Chae Won - Tick Tick Boom(클라씨 채원 - 틱틱붐) FanCam | Show! MusicCore | MBC221029방송]]></title>
-        <id>https://tv.naver.com/v/30337765</id>
-        <link href="https://tv.naver.com/v/30337765"/>
-        <updated>2022-10-29T10:28:09.989Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CLASS:y Seon You - Tick Tick Boom(클라씨 선유 - 틱틱붐) FanCam | Show! MusicCore | MBC221029방송]]></title>
-        <id>https://tv.naver.com/v/30337763</id>
-        <link href="https://tv.naver.com/v/30337763"/>
-        <updated>2022-10-29T10:28:09.990Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
