@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-11-12T09:21:47.433Z</updated>
+    <updated>2022-11-12T10:22:32.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설레는 오프닝 무대의 주인공 조성모! 관객들 깨물어드리러(?) 무대로 출발~! | KBS 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30715311</id>
+        <link href="https://tv.naver.com/v/30715311"/>
+        <updated>2022-11-12T10:22:24.900Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큰 화제가 되었던 로맨틱 홀리데이 라인업💟 경북 브라더스 김호중&황치열?!🤣 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30715216</id>
+        <link href="https://tv.naver.com/v/30715216"/>
+        <updated>2022-11-12T10:22:24.905Z</updated>
+        <content type="html"><![CDATA[02:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분 선공개] ❤불후 로맨틱 홀리데이❤ 조성모 - To Heaven | KBS 방송]]></title>
         <id>https://tv.naver.com/v/30694807</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30142227"/>
         <updated>2022-10-22T12:46:40.491Z</updated>
         <content type="html"><![CDATA[01:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※최종 결과※ 몽니 vs 이지훈! 명곡판정단의 마지막 선택은?! | KBS 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30142223</id>
-        <link href="https://tv.naver.com/v/30142223"/>
-        <updated>2022-10-22T12:46:40.494Z</updated>
-        <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽니 - NO.1 | KBS 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30142162</id>
-        <link href="https://tv.naver.com/v/30142162"/>
-        <updated>2022-10-22T11:21:04.254Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
     </entry>
 </feed>
