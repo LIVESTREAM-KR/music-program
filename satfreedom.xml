@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-11-12T11:18:20.771Z</updated>
+    <updated>2022-11-12T12:38:19.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거미x잔나비 - 휘파람 | KBS 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30716894</id>
+        <link href="https://tv.naver.com/v/30716894"/>
+        <updated>2022-11-12T12:38:11.912Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김호중 - il Mare Calmo Della Sera  | KBS 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30716803</id>
+        <link href="https://tv.naver.com/v/30716803"/>
+        <updated>2022-11-12T12:38:11.914Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김호중 - Brucia La Terra | KBS 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30716801</id>
+        <link href="https://tv.naver.com/v/30716801"/>
+        <updated>2022-11-12T12:38:11.916Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고]💟로맨틱 홀리데이 특집 2부💟 끝나지 않은 어느 때보다 따뜻한 가을밤 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30716800</id>
+        <link href="https://tv.naver.com/v/30716800"/>
+        <updated>2022-11-12T12:38:11.921Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의성 하늘에서 펼쳐지는 빛의 향연, 로맨틱 홀리데이를 비추는 아름다운 드론 쇼🎆 | KBS 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30716798</id>
+        <link href="https://tv.naver.com/v/30716798"/>
+        <updated>2022-11-12T12:38:11.924Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔나비 - 가을밤에 든 생각 | KBS 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30716670</id>
+        <link href="https://tv.naver.com/v/30716670"/>
+        <updated>2022-11-12T12:38:11.926Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔나비 - 뜨거운 여름밤은 가고 남은 건 볼품없지만 | KBS 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30716666</id>
+        <link href="https://tv.naver.com/v/30716666"/>
+        <updated>2022-11-12T12:38:11.928Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로맨틱 보이스하면 떠오르는💕 보컬 여신 거미! 이영현이 부러와(?)하는 이유? | KBS 221112 방송]]></title>
         <id>https://tv.naver.com/v/30716500</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/30339209"/>
         <updated>2022-10-29T12:39:50.445Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로피를🏆️ 향해 칼을 갈고 나온 박재정! 김동률-감사를 선곡한 이유는? | KBS 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30339105</id>
-        <link href="https://tv.naver.com/v/30339105"/>
-        <updated>2022-10-29T11:18:52.261Z</updated>
-        <content type="html"><![CDATA[02:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감탄이 나오는 호소력 짙은 보이스💧 진심이 가득한 모습을 보여준 KCM의 무대! | KBS 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30339103</id>
-        <link href="https://tv.naver.com/v/30339103"/>
-        <updated>2022-10-29T11:18:52.274Z</updated>
-        <content type="html"><![CDATA[01:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가희 - 이 밤이 깊어 가지만 + Come Back Home | KBS 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30338820</id>
-        <link href="https://tv.naver.com/v/30338820"/>
-        <updated>2022-10-29T11:18:52.274Z</updated>
-        <content type="html"><![CDATA[05:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설명이 필요 없는 레전드 스타 가희⭐️ 과연 선곡은?! | KBS 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30338764</id>
-        <link href="https://tv.naver.com/v/30338764"/>
-        <updated>2022-10-29T11:18:52.279Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※토크대기실 기립박수※ 명불허전 레전드 퍼포먼스를🤘 보여준 가희의 무대! | KBS 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30338748</id>
-        <link href="https://tv.naver.com/v/30338748"/>
-        <updated>2022-10-29T11:18:52.283Z</updated>
-        <content type="html"><![CDATA[02:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라워 - 세계로 가는 기차 | KBS 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30338505</id>
-        <link href="https://tv.naver.com/v/30338505"/>
-        <updated>2022-10-29T11:18:52.287Z</updated>
-        <content type="html"><![CDATA[04:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아들과 아버지의 대결..?🤣 밀레니엄 청춘 밴드의 상징☆ 플라워 무대 출격! | KBS 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30338419</id>
-        <link href="https://tv.naver.com/v/30338419"/>
-        <updated>2022-10-29T11:18:52.289Z</updated>
-        <content type="html"><![CDATA[02:00]]></content>
     </entry>
 </feed>
