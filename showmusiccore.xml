@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-11-13T03:29:42.600Z</updated>
+    <updated>2022-11-13T04:35:42.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://tv.naver.com/v/30714985"/>
         <updated>2022-11-12T10:21:52.431Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Highlight YANG YOSEOP - ALONE(하이라이트 양요섭 - 얼론) Close-up Cam | Show! MusicCore | MBC221112방송]]></title>
+        <id>https://tv.naver.com/v/30714867</id>
+        <link href="https://tv.naver.com/v/30714867"/>
+        <updated>2022-11-13T04:35:02.949Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NATURE - LIMBO!(네이처 - 넘어와) FanCam | Show! MusicCore | MBC221112방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30713619"/>
         <updated>2022-11-12T09:21:07.624Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Highlight – ALONE(하이라이트 - 얼론) FanCam | Show! MusicCore | MBC221112방송]]></title>
-        <id>https://tv.naver.com/v/30713598</id>
-        <link href="https://tv.naver.com/v/30713598"/>
-        <updated>2022-11-12T08:26:38.152Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
