@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-11-13T06:26:55.618Z</updated>
+    <updated>2022-11-13T07:20:09.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - VAGABOND | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30729961</id>
+        <link href="https://tv.naver.com/v/30729961"/>
+        <updated>2022-11-13T07:19:36.235Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queenz Eye(퀸즈아이) - Yummy Yummy | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30729881</id>
+        <link href="https://tv.naver.com/v/30729881"/>
+        <updated>2022-11-13T07:19:36.250Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기현(몬스타엑스) - Youth | SBS 221106 방송]]></title>
         <id>https://tv.naver.com/v/30530520</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30154153"/>
         <updated>2022-10-23T08:31:11.892Z</updated>
         <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이(WEi) - Spray | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154071</id>
-        <link href="https://tv.naver.com/v/30154071"/>
-        <updated>2022-10-23T07:27:50.542Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러(Kep1er) - We Fresh | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30153998</id>
-        <link href="https://tv.naver.com/v/30153998"/>
-        <updated>2022-10-23T07:27:50.542Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
