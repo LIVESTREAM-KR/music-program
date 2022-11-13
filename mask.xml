@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-11-13T08:27:06.194Z</updated>
+    <updated>2022-11-13T09:24:18.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['돈쭐' VS '혼쭐'의 1라운드 무대 - 어땠을까 (feat. 박정현), MBC 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30732215</id>
+        <link href="https://tv.naver.com/v/30732215"/>
+        <updated>2022-11-13T09:24:17.392Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜가왕석을 둘러싼 치열한 사랑싸움＞ 복면가왕 380회 예고, MBC 221113 방송]]></title>
         <id>https://tv.naver.com/v/30533707</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30156732"/>
         <updated>2022-10-23T10:27:21.985Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['AZ개그' VS 'MZ세대'의 1라운드 무대 - 꿈처럼, MBC 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30156527</id>
-        <link href="https://tv.naver.com/v/30156527"/>
-        <updated>2022-10-23T10:27:21.990Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
