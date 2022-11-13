@@ -2,9 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-11-13T07:20:09.055Z</updated>
+    <updated>2022-11-13T08:27:06.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이라이트 - Alone | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30731070</id>
+        <link href="https://tv.naver.com/v/30731070"/>
+        <updated>2022-11-13T08:26:34.331Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LE SSERAFIM - ANTIFRAGILE | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730973</id>
+        <link href="https://tv.naver.com/v/30730973"/>
+        <updated>2022-11-13T08:26:34.331Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조유리 - Loveable | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730972</id>
+        <link href="https://tv.naver.com/v/30730972"/>
+        <updated>2022-11-13T08:26:34.331Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김종현 - Lights | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730814</id>
+        <link href="https://tv.naver.com/v/30730814"/>
+        <updated>2022-11-13T08:26:34.331Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - PARTY ROCK | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730794</id>
+        <link href="https://tv.naver.com/v/30730794"/>
+        <updated>2022-11-13T08:26:34.331Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLASS:y(클라씨) - Tick Tick Boom | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730711</id>
+        <link href="https://tv.naver.com/v/30730711"/>
+        <updated>2022-11-13T08:26:34.333Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes - Hair Cut | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730629</id>
+        <link href="https://tv.naver.com/v/30730629"/>
+        <updated>2022-11-13T08:26:34.334Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE - Bad Cupid | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730551</id>
+        <link href="https://tv.naver.com/v/30730551"/>
+        <updated>2022-11-13T08:26:34.335Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730549</id>
+        <link href="https://tv.naver.com/v/30730549"/>
+        <updated>2022-11-13T08:26:34.336Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPEX(이펙스) - 사랑歌 | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730440</id>
+        <link href="https://tv.naver.com/v/30730440"/>
+        <updated>2022-11-13T08:26:34.337Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN’ - Draw | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730339</id>
+        <link href="https://tv.naver.com/v/30730339"/>
+        <updated>2022-11-13T08:26:34.338Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAXY(크랙시) - Poison Rose | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730253</id>
+        <link href="https://tv.naver.com/v/30730253"/>
+        <updated>2022-11-13T08:26:34.342Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATBO - ATTITUDE | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730171</id>
+        <link href="https://tv.naver.com/v/30730171"/>
+        <updated>2022-11-13T08:26:34.343Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NINE.i(나인아이) - Young Boy | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730169</id>
+        <link href="https://tv.naver.com/v/30730169"/>
+        <updated>2022-11-13T08:26:34.344Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알렉사 - Back In Vogue | SBS 221113 방송]]></title>
+        <id>https://tv.naver.com/v/30730061</id>
+        <link href="https://tv.naver.com/v/30730061"/>
+        <updated>2022-11-13T08:26:34.345Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRENDZ(트렌드지) - VAGABOND | SBS 221113 방송]]></title>
         <id>https://tv.naver.com/v/30729961</id>
@@ -109,110 +214,5 @@
         <link href="https://tv.naver.com/v/30529783"/>
         <updated>2022-11-06T08:26:01.151Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨리스(ALICE) - DANCE ON | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529701</id>
-        <link href="https://tv.naver.com/v/30529701"/>
-        <updated>2022-11-06T08:26:01.165Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS AAA - Generation | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529546</id>
-        <link href="https://tv.naver.com/v/30529546"/>
-        <updated>2022-11-06T07:19:26.597Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TFN - AMAZON | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529522</id>
-        <link href="https://tv.naver.com/v/30529522"/>
-        <updated>2022-11-06T07:19:26.597Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Queenz Eye(퀸즈아이) - Yummy Yummy | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529520</id>
-        <link href="https://tv.naver.com/v/30529520"/>
-        <updated>2022-11-06T07:19:26.597Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids - CASE 143 | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30158605</id>
-        <link href="https://tv.naver.com/v/30158605"/>
-        <updated>2022-10-23T12:47:00.086Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무(MAMAMOO) - ILLELLA(일낼라) | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154782</id>
-        <link href="https://tv.naver.com/v/30154782"/>
-        <updated>2022-10-23T08:31:11.878Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - Nxde | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154683</id>
-        <link href="https://tv.naver.com/v/30154683"/>
-        <updated>2022-10-23T08:31:11.878Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - ANTIFRAGILE | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154607</id>
-        <link href="https://tv.naver.com/v/30154607"/>
-        <updated>2022-10-23T08:31:11.879Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) - HELLO | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154505</id>
-        <link href="https://tv.naver.com/v/30154505"/>
-        <updated>2022-10-23T08:31:11.890Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원호(WONHO) - On & On(ft. YUNHWAY) | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154437</id>
-        <link href="https://tv.naver.com/v/30154437"/>
-        <updated>2022-10-23T08:31:11.890Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬혁 - 파노라마 | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154435</id>
-        <link href="https://tv.naver.com/v/30154435"/>
-        <updated>2022-10-23T08:31:11.890Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔플라잉(N.Flying) - 폭망(I Like You) | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154432</id>
-        <link href="https://tv.naver.com/v/30154432"/>
-        <updated>2022-10-23T08:31:11.890Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백호(BAEKHO) - No Rules | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154257</id>
-        <link href="https://tv.naver.com/v/30154257"/>
-        <updated>2022-10-23T08:31:11.891Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비 - Underwater | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154256</id>
-        <link href="https://tv.naver.com/v/30154256"/>
-        <updated>2022-10-23T08:31:11.892Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - DICE | SBS 221023 방송]]></title>
-        <id>https://tv.naver.com/v/30154153</id>
-        <link href="https://tv.naver.com/v/30154153"/>
-        <updated>2022-10-23T08:31:11.892Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
     </entry>
 </feed>
