@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-11-14T05:28:56.338Z</updated>
+    <updated>2022-11-14T06:28:48.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] Tap Tap🙋🏻‍♀ 컴백대잔치 눈물이 나올꺼 같어 ㅎㅎㅎ]]></title>
+        <id>https://tv.naver.com/v/30751923</id>
+        <link href="https://tv.naver.com/v/30751923"/>
+        <updated>2022-11-14T06:28:34.976Z</updated>
+        <content type="html"><![CDATA[00:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔이네 겨울 준비] EXO - Miracles in December (엑소 - 12월의 기적)]]></title>
         <id>https://tv.naver.com/v/30619045</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/30258143</id>
         <link href="https://tv.naver.com/v/30258143"/>
         <updated>2022-10-26T13:55:17.930Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CRAVITY - PARTY ROCK (크래비티 - 파티 락) l Show Champion l EP.455]]></title>
-        <id>https://tv.naver.com/v/30258071</id>
-        <link href="https://tv.naver.com/v/30258071"/>
-        <updated>2022-10-26T13:55:17.932Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
