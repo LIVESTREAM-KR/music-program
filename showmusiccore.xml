@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-11-14T08:30:03.171Z</updated>
+    <updated>2022-11-14T09:23:13.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 스페셜 MC 도영, 11월 둘째 주 음악중심 MC 컷 모음!, MBC 221112 방송]]></title>
+        <id>https://tv.naver.com/v/30759054</id>
+        <link href="https://tv.naver.com/v/30759054"/>
+        <updated>2022-11-14T09:22:37.980Z</updated>
+        <content type="html"><![CDATA[10:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》(여자)아이들 - Nxde ((G)I-DLE - Nxde), MBC 221029 방송]]></title>
         <id>https://tv.naver.com/v/30716275</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30713621"/>
         <updated>2022-11-12T09:21:07.624Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Highlight YOON DUJUN - ALONE(하이라이트 윤두준 - 얼론) FanCam | Show! MusicCore | MBC221112방송]]></title>
-        <id>https://tv.naver.com/v/30713619</id>
-        <link href="https://tv.naver.com/v/30713619"/>
-        <updated>2022-11-12T09:21:07.624Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
