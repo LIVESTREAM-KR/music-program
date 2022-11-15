@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2022-11-15T10:23:21.897Z</updated>
+    <updated>2022-11-15T11:18:46.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/30793426</id>
+        <link href="https://tv.naver.com/v/30793426"/>
+        <updated>2022-11-15T11:18:22.346Z</updated>
+        <content type="html"><![CDATA[04:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 감성적이고 감각적인, 하이라이트 'Alone']]></title>
+        <id>https://tv.naver.com/v/30793221</id>
+        <link href="https://tv.naver.com/v/30793221"/>
+        <updated>2022-11-15T11:18:22.363Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 사랑에 빠진 핑크빛 행복, 하이라이트 'S.I.L.Y (Say I Love You)']]></title>
+        <id>https://tv.naver.com/v/30793219</id>
+        <link href="https://tv.naver.com/v/30793219"/>
+        <updated>2022-11-15T11:18:22.364Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 설렘을 갖고 나아갈, 김종현 'Lights']]></title>
+        <id>https://tv.naver.com/v/30793073</id>
+        <link href="https://tv.naver.com/v/30793073"/>
+        <updated>2022-11-15T11:18:22.364Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 더 높이 새롭게, 김종현 'Blaze']]></title>
+        <id>https://tv.naver.com/v/30793072</id>
+        <link href="https://tv.naver.com/v/30793072"/>
+        <updated>2022-11-15T11:18:22.366Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 따뜻한 위로를 전하는, 조유리 'Loveable']]></title>
+        <id>https://tv.naver.com/v/30792827</id>
+        <link href="https://tv.naver.com/v/30792827"/>
+        <updated>2022-11-15T11:18:22.366Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 밝은 에너지, 앨리스(ALICE) 'Dance on']]></title>
+        <id>https://tv.naver.com/v/30792799</id>
+        <link href="https://tv.naver.com/v/30792799"/>
+        <updated>2022-11-15T11:18:22.367Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 솔직한 사랑의 감정, EPEX(이펙스) '사랑歌']]></title>
+        <id>https://tv.naver.com/v/30792674</id>
+        <link href="https://tv.naver.com/v/30792674"/>
+        <updated>2022-11-15T11:18:22.370Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 첫사랑에 빠졌을 땐, EPEX(이펙스) '첫사랑의 법칙']]></title>
+        <id>https://tv.naver.com/v/30792668</id>
+        <link href="https://tv.naver.com/v/30792668"/>
+        <updated>2022-11-15T11:18:22.370Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 치명적 매력의 큐피드, YOUNITE 'Bad Cupid']]></title>
+        <id>https://tv.naver.com/v/30792511</id>
+        <link href="https://tv.naver.com/v/30792511"/>
+        <updated>2022-11-15T11:18:22.372Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 이들만이 가지는 멋, ATBO 'ATTITUDE']]></title>
+        <id>https://tv.naver.com/v/30792352</id>
+        <link href="https://tv.naver.com/v/30792352"/>
+        <updated>2022-11-15T11:18:22.373Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Comeback] 매혹적인 무대로 돌아온, 알렉사(AleXa) 'Back In Vogue']]></title>
         <id>https://tv.naver.com/v/30792211</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/30223609"/>
         <updated>2022-10-25T11:23:39.147Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한계 없는 히어로들의 무대, 케플러(Kep1er) 'We Fresh']]></title>
-        <id>https://tv.naver.com/v/30223497</id>
-        <link href="https://tv.naver.com/v/30223497"/>
-        <updated>2022-10-25T11:23:39.148Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강렬한 퍼포먼스, DKZ '호랑이가 쫓아온다 (Uh-Heung)']]></title>
-        <id>https://tv.naver.com/v/30223466</id>
-        <link href="https://tv.naver.com/v/30223466"/>
-        <updated>2022-10-25T11:23:39.148Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풋풋한 매력, TAN 'Beautiful LIE']]></title>
-        <id>https://tv.naver.com/v/30223027</id>
-        <link href="https://tv.naver.com/v/30223027"/>
-        <updated>2022-10-25T10:31:15.361Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모두의 엔딩 - 쇼랑해] 케플러(Kep1er)]]></title>
-        <id>https://tv.naver.com/v/30222845</id>
-        <link href="https://tv.naver.com/v/30222845"/>
-        <updated>2022-10-25T10:31:15.362Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당찬 메시지를 담은, Lapillus(라필루스) 'GRATATA']]></title>
-        <id>https://tv.naver.com/v/30222703</id>
-        <link href="https://tv.naver.com/v/30222703"/>
-        <updated>2022-10-25T10:31:15.362Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밝아질 날을 위해, APR PROJECT (에이피알 프로젝트) '장면 (feat. 호현)']]></title>
-        <id>https://tv.naver.com/v/30222561</id>
-        <link href="https://tv.naver.com/v/30222561"/>
-        <updated>2022-10-25T10:31:15.362Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웅장하고 섬세한, KINGDOM(킹덤) '백야 (Long Live The King)']]></title>
-        <id>https://tv.naver.com/v/30222405</id>
-        <link href="https://tv.naver.com/v/30222405"/>
-        <updated>2022-10-25T10:31:15.370Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[THE 강습소] LE SSERAFIM]]></title>
-        <id>https://tv.naver.com/v/30222404</id>
-        <link href="https://tv.naver.com/v/30222404"/>
-        <updated>2022-10-25T10:31:15.373Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 긴장감이 느껴지는, 핑크판타지(PinkFantasy) '기괴한 이야기 : Get out']]></title>
-        <id>https://tv.naver.com/v/30222248</id>
-        <link href="https://tv.naver.com/v/30222248"/>
-        <updated>2022-10-25T10:31:15.375Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬러풀 사운드, mimiirose 'Kill Me More']]></title>
-        <id>https://tv.naver.com/v/30222245</id>
-        <link href="https://tv.naver.com/v/30222245"/>
-        <updated>2022-10-25T10:31:15.375Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개성 넘치는 무대, 두리(DooRi) '싱글2벙글']]></title>
-        <id>https://tv.naver.com/v/30222137</id>
-        <link href="https://tv.naver.com/v/30222137"/>
-        <updated>2022-10-25T10:31:15.379Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
