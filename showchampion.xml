@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-11-16T10:22:48.455Z</updated>
+    <updated>2022-11-16T11:18:50.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] HIGHLIGHT - Alone (하이라이트 - 얼론)]]></title>
+        <id>https://tv.naver.com/v/30823801</id>
+        <link href="https://tv.naver.com/v/30823801"/>
+        <updated>2022-11-16T11:18:35.074Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] HIGHLIGHT - S.I.L.Y(Say I Love You) (하이라이트 - 실리(세이 아이 러브 유))]]></title>
+        <id>https://tv.naver.com/v/30823798</id>
+        <link href="https://tv.naver.com/v/30823798"/>
+        <updated>2022-11-16T11:18:35.074Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SOLO HOT DEBUT] KIM JONGHYEON - Lights (김종현 - 라이트)]]></title>
+        <id>https://tv.naver.com/v/30823675</id>
+        <link href="https://tv.naver.com/v/30823675"/>
+        <updated>2022-11-16T11:18:35.083Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JO YURI - Loveable (조유리 - 러버블)]]></title>
         <id>https://tv.naver.com/v/30823296</id>
@@ -94,7 +115,7 @@
         <id>https://tv.naver.com/v/30822411</id>
         <link href="https://tv.naver.com/v/30822411"/>
         <updated>2022-11-16T10:22:35.047Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
+        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] NINE.i - Young Boy (나인아이 - 영 보이)]]></title>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/30617821"/>
         <updated>2022-11-09T10:24:25.484Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔이네 겨울 준비] BAEK Z YOUNG - The woman + Don't forget me (백지영 - 그 여자 + 잊지 말아요)]]></title>
-        <id>https://tv.naver.com/v/30617820</id>
-        <link href="https://tv.naver.com/v/30617820"/>
-        <updated>2022-11-09T10:24:25.485Z</updated>
-        <content type="html"><![CDATA[04:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔이네 겨울 준비] YOUNHA - I'll Be Your Light + Greetings From Afar (윤하 - 빛이 되어줄게 + 멀리서 안부)]]></title>
-        <id>https://tv.naver.com/v/30617632</id>
-        <link href="https://tv.naver.com/v/30617632"/>
-        <updated>2022-11-09T10:24:25.486Z</updated>
-        <content type="html"><![CDATA[05:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔이네 겨울 준비] HYOLYN - Crazy of you + Good bye (효린 - 미치게 만들어 + 안녕)]]></title>
-        <id>https://tv.naver.com/v/30617628</id>
-        <link href="https://tv.naver.com/v/30617628"/>
-        <updated>2022-11-09T10:24:25.487Z</updated>
-        <content type="html"><![CDATA[05:41]]></content>
     </entry>
 </feed>
