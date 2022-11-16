@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-11-16T08:30:30.116Z</updated>
+    <updated>2022-11-16T09:23:20.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CRAXY - Poison Rose (크랙시 - 포이즌 로즈)]]></title>
+        <id>https://tv.naver.com/v/30821824</id>
+        <link href="https://tv.naver.com/v/30821824"/>
+        <updated>2022-11-16T09:23:05.273Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] Tap Tap🙋🏻‍♀ 컴백대잔치 눈물이 나올꺼 같어 ㅎㅎㅎ]]></title>
         <id>https://tv.naver.com/v/30751923</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[[쇼챔직캠 4K] CRAVITY MINHEE - PARTY ROCK (크래비티 민희 - 파티 락) | Show Champion | EP.455]]></title>
         <id>https://tv.naver.com/v/30258408</id>
         <link href="https://tv.naver.com/v/30258408"/>
-        <updated>2022-10-26T13:55:17.930Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CRAVITY JUNGMO - PARTY ROCK (크래비티 정모 - 파티 락) | Show Champion | EP.455]]></title>
-        <id>https://tv.naver.com/v/30258143</id>
-        <link href="https://tv.naver.com/v/30258143"/>
         <updated>2022-10-26T13:55:17.930Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
