@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-11-16T11:18:50.126Z</updated>
+    <updated>2022-11-16T12:40:40.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 11월 셋째 주 챔피언송 하이라이트 앵콜 Full ver.]]></title>
+        <id>https://tv.naver.com/v/30825829</id>
+        <link href="https://tv.naver.com/v/30825829"/>
+        <updated>2022-11-16T12:40:28.081Z</updated>
+        <content type="html"><![CDATA[04:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] HIGHLIGHT - Alone (하이라이트 - 얼론)]]></title>
         <id>https://tv.naver.com/v/30823801</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30617822"/>
         <updated>2022-11-09T10:24:25.483Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔이네 겨울 준비] CIX - Movie Star (씨아이엑스 - 무비 스타)]]></title>
-        <id>https://tv.naver.com/v/30617821</id>
-        <link href="https://tv.naver.com/v/30617821"/>
-        <updated>2022-11-09T10:24:25.484Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
