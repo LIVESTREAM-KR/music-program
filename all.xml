@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-17T07:19:12.889Z</updated>
+    <updated>2022-11-17T08:28:51.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nxde - (여자)아이들 | KBS 221028 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,27 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KIM JONGHYEON - Lights (김종현 - 라이트) | Show Champion | EP.457 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/30848189</id>
+        <link href="https://tv.naver.com/v/30848189"/>
+        <updated>2022-11-17T08:28:38.361Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] AleXa - Back In Vogue (알렉사 - 백 인 보그) | Show Champion | EP.457 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/30848020</id>
+        <link href="https://tv.naver.com/v/30848020"/>
+        <updated>2022-11-17T08:28:38.361Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS AAA - Generation (트리플에스 AAA - 제너레이션) l Show Champion l EP.457 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/30847977</id>
+        <link href="https://tv.naver.com/v/30847977"/>
+        <updated>2022-11-17T08:28:38.362Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔 1위] 11월 셋째 주 챔피언송 하이라이트 앵콜 Full ver. (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/30825829</id>
         <link href="https://tv.naver.com/v/30825829"/>
@@ -1242,27 +1263,6 @@
         <link href="https://tv.naver.com/v/30820418"/>
         <updated>2022-11-16T13:40:52.427Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO YURI - Loveable (조유리 - 러버블) | Show Champion | EP.457 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/30820256</id>
-        <link href="https://tv.naver.com/v/30820256"/>
-        <updated>2022-11-16T13:40:52.429Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HIGHLIGHT SON DONGWOON (하이라이트 손동운) - S.I.L.Y(Say I Love You) | Show Champion | EP.457 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/30820110</id>
-        <link href="https://tv.naver.com/v/30820110"/>
-        <updated>2022-11-16T13:40:52.432Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HIGHLIGHT LEE KIKWANG (하이라이트 이기광) - S.I.L.Y(Say I Love You) | Show Champion | EP.457 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/30819930</id>
-        <link href="https://tv.naver.com/v/30819930"/>
-        <updated>2022-11-16T13:40:52.433Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거미x잔나비 - 휘파람 | KBS 221112 방송 (불후의 명곡)]]></title>
