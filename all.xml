@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-18T07:19:35.125Z</updated>
+    <updated>2022-11-18T08:26:01.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nxde - (여자)아이들 | KBS 221028 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] JOYURI.zip 📂 GLASSY부터 Loveable까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/30838011</id>
+        <link href="https://tv.naver.com/v/30838011"/>
+        <updated>2022-11-18T08:25:23.132Z</updated>
+        <content type="html"><![CDATA[12:14]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 스페셜 MC 도영, 11월 둘째 주 음악중심 MC 컷 모음!, MBC 221112 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/30759054</id>
         <link href="https://tv.naver.com/v/30759054"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/30713802"/>
         <updated>2022-11-12T09:21:07.622Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Highlight YANG YOSEOP - ALONE(하이라이트 양요섭 - 얼론) FanCam | Show! MusicCore | MBC221112방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/30713621</id>
-        <link href="https://tv.naver.com/v/30713621"/>
-        <updated>2022-11-12T09:21:07.624Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트 - Alone | SBS 221113 방송 (인기가요)]]></title>
