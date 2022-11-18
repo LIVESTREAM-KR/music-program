@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-11-18T14:20:58.718Z</updated>
+    <updated>2022-11-18T15:22:01.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 가을 뮤직 페스티벌의 새 지평! 🎉로맨틱 홀리데이🎉 2부 티저! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30893618</id>
+        <link href="https://tv.naver.com/v/30893618"/>
+        <updated>2022-11-18T15:21:54.789Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[거미x잔나비 - 휘파람 | KBS 221112 방송]]></title>
         <id>https://tv.naver.com/v/30716894</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30339371"/>
         <updated>2022-10-29T12:39:50.445Z</updated>
         <content type="html"><![CDATA[01:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왕중왕전 우승, 트로피 5개 보유자! Y2K 대표 발라더 KCM의 선곡은?!🎤 | KBS 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30339209</id>
-        <link href="https://tv.naver.com/v/30339209"/>
-        <updated>2022-10-29T12:39:50.445Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
