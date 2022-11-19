@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-11-19T06:25:33.251Z</updated>
+    <updated>2022-11-19T07:19:35.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네이처 - 넘어와 (NATURE - LIMBO!), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/30903446</id>
+        <link href="https://tv.naver.com/v/30903446"/>
+        <updated>2022-11-19T07:18:49.484Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클라씨 - 틱틱붐 (CLASS:y - Tick Tick Boom), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/30903370</id>
+        <link href="https://tv.naver.com/v/30903370"/>
+        <updated>2022-11-19T07:18:49.484Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑스디너리 히어로즈 - 헤어 컷 (Xdinary Heroes - Hair Cut), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/30903293</id>
+        <link href="https://tv.naver.com/v/30903293"/>
+        <updated>2022-11-19T07:18:49.489Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티비오 - 애티튜드 (ATBO - ATTITUDE), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/30903222</id>
+        <link href="https://tv.naver.com/v/30903222"/>
+        <updated>2022-11-19T07:18:49.489Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 드로우 (ICHILLIN' - Draw), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/30903162</id>
+        <link href="https://tv.naver.com/v/30903162"/>
+        <updated>2022-11-19T07:18:49.489Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나이트 - 배드 큐피드 (YOUNITE - Bad Cupid), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/30903161</id>
+        <link href="https://tv.naver.com/v/30903161"/>
+        <updated>2022-11-19T07:18:49.489Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티에프앤 - 아마존 (TFN - AMAZON), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/30903034</id>
+        <link href="https://tv.naver.com/v/30903034"/>
+        <updated>2022-11-19T07:18:49.497Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑 - 러브티콘 (♡TiCON) (CSR - LOVETICON (♡TiCON)), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/30902964</id>
+        <link href="https://tv.naver.com/v/30902964"/>
+        <updated>2022-11-19T07:18:49.498Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] JOYURI.zip 📂 GLASSY부터 Loveable까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/30838011</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/30714230"/>
         <updated>2022-11-12T09:21:07.614Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CLASS:y  Chae Won - Tick Tick Boom(클라씨 채원 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-        <id>https://tv.naver.com/v/30714229</id>
-        <link href="https://tv.naver.com/v/30714229"/>
-        <updated>2022-11-12T09:21:07.615Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes O.de - Hair Cut(엑스디너리 히어로즈 오드 - 헤어 컷) FanCam | Show! MusicCore | MBC221112방송]]></title>
-        <id>https://tv.naver.com/v/30714227</id>
-        <link href="https://tv.naver.com/v/30714227"/>
-        <updated>2022-11-12T09:21:07.616Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CLASS:y Bo Eun - Tick Tick Boom(클라씨 보은 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-        <id>https://tv.naver.com/v/30714206</id>
-        <link href="https://tv.naver.com/v/30714206"/>
-        <updated>2022-11-12T09:21:07.617Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CLASS:y Seon You - Tick Tick Boom(클라씨 선유 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-        <id>https://tv.naver.com/v/30714098</id>
-        <link href="https://tv.naver.com/v/30714098"/>
-        <updated>2022-11-12T09:21:07.618Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CLASS:y Hyung Seo - Tick Tick Boom(클라씨 형서 - 틱틱붐) FanCam | Show! MusicCore | MBC221112방송]]></title>
-        <id>https://tv.naver.com/v/30714096</id>
-        <link href="https://tv.naver.com/v/30714096"/>
-        <updated>2022-11-12T09:21:07.619Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes JOOYEON - Hair Cut(엑스디너리 히어로즈 주연 - 헤어 컷) FanCam | Show! MusicCore | MBC22111]]></title>
-        <id>https://tv.naver.com/v/30714094</id>
-        <link href="https://tv.naver.com/v/30714094"/>
-        <updated>2022-11-12T09:21:07.620Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes JUN HAN - Hair Cut(엑스디너리 히어로즈 준한 - 헤어 컷) FanCam | Show! MusicCore | MBC22111]]></title>
-        <id>https://tv.naver.com/v/30714092</id>
-        <link href="https://tv.naver.com/v/30714092"/>
-        <updated>2022-11-12T09:21:07.621Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Highlight SON DONGWOON - ALONE(하이라이트 손동운 - 얼론) FanCam | Show! MusicCore | MBC221112방송]]></title>
-        <id>https://tv.naver.com/v/30713802</id>
-        <link href="https://tv.naver.com/v/30713802"/>
-        <updated>2022-11-12T09:21:07.622Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
