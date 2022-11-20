@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-11-20T06:25:36.661Z</updated>
+    <updated>2022-11-20T07:19:22.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - VAGABOND | SBS 221120 방송]]></title>
+        <id>https://tv.naver.com/v/30921134</id>
+        <link href="https://tv.naver.com/v/30921134"/>
+        <updated>2022-11-20T07:18:48.604Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECRET NUMBER(시크릿넘버) - TAP | SBS 221120 방송]]></title>
+        <id>https://tv.naver.com/v/30921129</id>
+        <link href="https://tv.naver.com/v/30921129"/>
+        <updated>2022-11-20T07:18:48.604Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Fight Inside | SBS 221120 방송]]></title>
+        <id>https://tv.naver.com/v/30921027</id>
+        <link href="https://tv.naver.com/v/30921027"/>
+        <updated>2022-11-20T07:18:48.604Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TFN - AMAZON | SBS 221120 방송]]></title>
+        <id>https://tv.naver.com/v/30920960</id>
+        <link href="https://tv.naver.com/v/30920960"/>
+        <updated>2022-11-20T07:18:48.609Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트 - Alone | SBS 221113 방송]]></title>
         <id>https://tv.naver.com/v/30731070</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/30530091"/>
         <updated>2022-11-06T08:26:01.145Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 사랑歌 | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529968</id>
-        <link href="https://tv.naver.com/v/30529968"/>
-        <updated>2022-11-06T08:26:01.147Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김완선 - 사과꽃 | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529862</id>
-        <link href="https://tv.naver.com/v/30529862"/>
-        <updated>2022-11-06T08:26:01.149Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경서 - 고백연습 | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529808</id>
-        <link href="https://tv.naver.com/v/30529808"/>
-        <updated>2022-11-06T08:26:01.150Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATBO - ATTITUDE | SBS 221106 방송]]></title>
-        <id>https://tv.naver.com/v/30529783</id>
-        <link href="https://tv.naver.com/v/30529783"/>
-        <updated>2022-11-06T08:26:01.151Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
