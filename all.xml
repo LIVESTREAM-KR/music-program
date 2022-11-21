@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-21T04:29:54.611Z</updated>
+    <updated>2022-11-21T05:20:28.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Alone - 하이라이트 | KBS 221118 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 수요일엔 쇼챔피언 얼음 얼음, 땡❣ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/30944852</id>
+        <link href="https://tv.naver.com/v/30944852"/>
+        <updated>2022-11-21T05:20:14.098Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] KIM JONGHYEON - Lights (김종현 - 라이트) | Show Champion | EP.457 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/30848189</id>
         <link href="https://tv.naver.com/v/30848189"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/30820637"/>
         <updated>2022-11-16T13:40:52.426Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[원픽캠 4K] JO YURI - Loveable (조유리 - 러버블) | Show Champion | EP.457 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/30820418</id>
-        <link href="https://tv.naver.com/v/30820418"/>
-        <updated>2022-11-16T13:40:52.427Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조성모 - 너의 곁으로 | KBS 221119 방송 (불후의 명곡)]]></title>
