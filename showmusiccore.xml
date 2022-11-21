@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-11-21T05:20:28.253Z</updated>
+    <updated>2022-11-21T06:28:35.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 민주, 11월 셋째 주 음악중심 MC 컷 모음!, MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/30946369</id>
+        <link href="https://tv.naver.com/v/30946369"/>
+        <updated>2022-11-21T06:27:56.331Z</updated>
+        <content type="html"><![CDATA[10:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Highlight YANG YOSEOP - Alone(하이라이트 양요섭 - 얼론) FanCam | Show! MusicCore | MBC221119방송]]></title>
         <id>https://tv.naver.com/v/30905422</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30904240"/>
         <updated>2022-11-19T08:25:28.480Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》이채연 - 허쉬 러쉬 (LEE CHAE YEON - HUSH RUSH), MBC 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30904176</id>
-        <link href="https://tv.naver.com/v/30904176"/>
-        <updated>2022-11-19T08:25:28.480Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
