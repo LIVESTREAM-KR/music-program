@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-11-21T09:21:34.698Z</updated>
+    <updated>2022-11-21T10:27:01.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[페이스캠]잔나비 최정훈-뜨거운 여름밤은 가고 남은 건 볼품없지만❤불후의 명곡❤로맨틱 홀리데이 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30954176</id>
+        <link href="https://tv.naver.com/v/30954176"/>
+        <updated>2022-11-21T10:26:53.913Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조성모 - 너의 곁으로 | KBS 221119 방송]]></title>
         <id>https://tv.naver.com/v/30908482</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30716666"/>
         <updated>2022-11-12T12:38:11.928Z</updated>
         <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로맨틱 보이스하면 떠오르는💕 보컬 여신 거미! 이영현이 부러와(?)하는 이유? | KBS 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30716500</id>
-        <link href="https://tv.naver.com/v/30716500"/>
-        <updated>2022-11-12T11:18:13.566Z</updated>
-        <content type="html"><![CDATA[01:47]]></content>
     </entry>
 </feed>
