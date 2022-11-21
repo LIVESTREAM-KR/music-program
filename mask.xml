@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-11-20T23:22:24.823Z</updated>
+    <updated>2022-11-21T01:51:00.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] NMIXX  릴리 3R 리허설 무대 영상 - 마리아 (Maria), MBC 221120 방송]]></title>
+        <id>https://tv.naver.com/v/30925647</id>
+        <link href="https://tv.naver.com/v/30925647"/>
+        <updated>2022-11-21T01:50:59.705Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜신이 내린 목소리는 3연승 골망을 흔들 수 있을까?＞ 복면가왕 382회 예고, MBC 221204 방송]]></title>
         <id>https://tv.naver.com/v/30924847</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30732215"/>
         <updated>2022-11-13T09:24:17.392Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜가왕석을 둘러싼 치열한 사랑싸움＞ 복면가왕 380회 예고, MBC 221113 방송]]></title>
-        <id>https://tv.naver.com/v/30533707</id>
-        <link href="https://tv.naver.com/v/30533707"/>
-        <updated>2022-11-06T11:17:49.736Z</updated>
-        <content type="html"><![CDATA[00:38]]></content>
     </entry>
 </feed>
