@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2022-11-22T11:18:15.115Z</updated>
+    <updated>2022-11-22T12:44:25.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[첫사랑의 설렘, EPEX(이펙스) '사랑歌']]></title>
+        <id>https://tv.naver.com/v/30989459</id>
+        <link href="https://tv.naver.com/v/30989459"/>
+        <updated>2022-11-22T11:17:53.442Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Comeback] 폭발적 퍼포먼스, DRIPPIN (드리핀) 'The One']]></title>
         <id>https://tv.naver.com/v/30989456</id>
         <link href="https://tv.naver.com/v/30989456"/>
@@ -53,13 +60,6 @@
         <link href="https://tv.naver.com/v/30989454"/>
         <updated>2022-11-22T11:17:53.442Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑의 설렘, EPEX(이펙스) '사랑歌']]></title>
-        <id>https://tv.naver.com/v/30989459</id>
-        <link href="https://tv.naver.com/v/30989459"/>
-        <updated>2022-11-22T11:17:53.442Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카리스마 아홉 큐피드, YOUNITE 'Bad Cupid']]></title>

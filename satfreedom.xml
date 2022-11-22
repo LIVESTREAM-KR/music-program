@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-11-22T11:18:15.112Z</updated>
+    <updated>2022-11-22T12:44:25.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[페이스캠]잔나비 김도형-뜨거운 여름밤은 가고 남은 건 볼품없지만❤불후의 명곡❤로맨틱 홀리데이 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/30991952</id>
+        <link href="https://tv.naver.com/v/30991952"/>
+        <updated>2022-11-22T12:44:18.025Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[페이스캠]잔나비 최정훈-뜨거운 여름밤은 가고 남은 건 볼품없지만❤불후의 명곡❤로맨틱 홀리데이 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/30954176</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30716670"/>
         <updated>2022-11-12T12:38:11.926Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 - 뜨거운 여름밤은 가고 남은 건 볼품없지만 | KBS 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30716666</id>
-        <link href="https://tv.naver.com/v/30716666"/>
-        <updated>2022-11-12T12:38:11.928Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
     </entry>
 </feed>
