@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-11-23T11:17:26.384Z</updated>
+    <updated>2022-11-23T12:39:09.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 11월 넷째 주 챔피언송 VERIVERY 앵콜 Full ver.]]></title>
+        <id>https://tv.naver.com/v/31026844</id>
+        <link href="https://tv.naver.com/v/31026844"/>
+        <updated>2022-11-23T12:38:54.050Z</updated>
+        <content type="html"><![CDATA[05:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] YooA - Selfish (유아 - 셀피쉬)]]></title>
         <id>https://tv.naver.com/v/31024050</id>
@@ -143,7 +150,7 @@
         <id>https://tv.naver.com/v/31022189</id>
         <link href="https://tv.naver.com/v/31022189"/>
         <updated>2022-11-23T10:21:30.723Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
+        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CLASS:y - Tick Tick Boom (클라씨 - 틱틱붐)]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30823801"/>
         <updated>2022-11-16T11:18:35.074Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] HIGHLIGHT - S.I.L.Y(Say I Love You) (하이라이트 - 실리(세이 아이 러브 유))]]></title>
-        <id>https://tv.naver.com/v/30823798</id>
-        <link href="https://tv.naver.com/v/30823798"/>
-        <updated>2022-11-16T11:18:35.074Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
