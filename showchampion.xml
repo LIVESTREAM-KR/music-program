@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-11-24T10:21:35.352Z</updated>
+    <updated>2022-11-24T11:17:17.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 3주차 ♥쇼챔피언♡ MC 모음.zip (HIGHLIGHT 양요섭 & 손동운) | Show Champion | EP.457]]></title>
+        <id>https://tv.naver.com/v/31060508</id>
+        <link href="https://tv.naver.com/v/31060508"/>
+        <updated>2022-11-24T11:17:03.337Z</updated>
+        <content type="html"><![CDATA[06:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] YooA - Lay Low (유아 - 레이 로우) l Show Champion l EP.458]]></title>
         <id>https://tv.naver.com/v/31055069</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31019094"/>
         <updated>2022-11-23T13:36:20.225Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TO1 RENTA - Freeze Tag (티오원 렌타 - 얼음 땡) | Show Champion | EP.458]]></title>
-        <id>https://tv.naver.com/v/31018759</id>
-        <link href="https://tv.naver.com/v/31018759"/>
-        <updated>2022-11-23T13:36:20.226Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
