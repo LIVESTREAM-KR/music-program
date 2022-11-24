@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-24T09:19:24.679Z</updated>
+    <updated>2022-11-24T10:21:35.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Alone - 하이라이트 | KBS 221118 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,27 @@
         <content type="html"><![CDATA[03:10]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 강렬한 엔딩에 쏟아지는 환호🤩 뮤지컬 배우 류승주! , MBC 221120 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/31059887</id>
+        <link href="https://tv.naver.com/v/31059887"/>
+        <updated>2022-11-24T10:21:34.552Z</updated>
+        <content type="html"><![CDATA[12:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 신인 같지 않은 탄탄한 보컬🎤🎶 NMIXX(엔믹스) 릴리!, MBC 221120 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/31059211</id>
+        <link href="https://tv.naver.com/v/31059211"/>
+        <updated>2022-11-24T10:21:34.552Z</updated>
+        <content type="html"><![CDATA[09:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 노래가 너무 좋아서 복면가왕까지 오게 된 승제쌤...★ 수학 강사 정승제!, MBC 221120 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/31058794</id>
+        <link href="https://tv.naver.com/v/31058794"/>
+        <updated>2022-11-24T10:21:34.556Z</updated>
+        <content type="html"><![CDATA[07:55]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[미방분 공개] NMIXX  릴리 3R 리허설 무대 영상 - 마리아 (Maria), MBC 221120 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/30925647</id>
         <link href="https://tv.naver.com/v/30925647"/>
@@ -1662,26 +1683,5 @@
         <link href="https://tv.naver.com/v/30732628"/>
         <updated>2022-11-13T10:22:54.512Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['혼쭐'의 정체는 코미디아티스트 웻보이!, MBC 221113 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/30732624</id>
-        <link href="https://tv.naver.com/v/30732624"/>
-        <updated>2022-11-13T10:22:54.513Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돈쭐', 추억의 스카이 콩콩 개인기?! & '혼쭐'의 효과음에 맞춰 프리스타일 댄스!✨, MBC 221113 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/30732381</id>
-        <link href="https://tv.naver.com/v/30732381"/>
-        <updated>2022-11-13T10:22:54.513Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돈쭐' VS '혼쭐'의 1라운드 무대 - 어땠을까 (feat. 박정현), MBC 221113 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/30732215</id>
-        <link href="https://tv.naver.com/v/30732215"/>
-        <updated>2022-11-13T09:24:17.392Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
