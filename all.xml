@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-26T09:21:42.105Z</updated>
+    <updated>2022-11-26T10:19:36.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Selfish - 유아 | KBS 221125 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] VERIVERY GYEHYEON - Tap Tap(베리베리 계현 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31108696</id>
+        <link href="https://tv.naver.com/v/31108696"/>
+        <updated>2022-11-26T10:18:55.795Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VERIVERY KANGMIN  - Tap Tap(베리베리 강민 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31108551</id>
+        <link href="https://tv.naver.com/v/31108551"/>
+        <updated>2022-11-26T10:18:55.797Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] VERIVERY HOYOUNG  - Tap Tap(베리베리 호영 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/31108419</id>
         <link href="https://tv.naver.com/v/31108419"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/31105718"/>
         <updated>2022-11-26T07:16:32.052Z</updated>
         <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 민주, 11월 셋째 주 음악중심 MC 컷 모음!, MBC 221119 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/30946369</id>
-        <link href="https://tv.naver.com/v/30946369"/>
-        <updated>2022-11-21T06:27:56.331Z</updated>
-        <content type="html"><![CDATA[10:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Highlight YANG YOSEOP - Alone(하이라이트 양요섭 - 얼론) FanCam | Show! MusicCore | MBC221119방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/30905422</id>
-        <link href="https://tv.naver.com/v/30905422"/>
-        <updated>2022-11-19T09:22:13.243Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박진영 - Groove Back | SBS 221120 방송 (인기가요)]]></title>
@@ -1265,6 +1265,20 @@
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[패티킴 - 가을을 남기고 간 사랑 | KBS 221126 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31109041</id>
+        <link href="https://tv.naver.com/v/31109041"/>
+        <updated>2022-11-26T10:19:28.885Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 무대를 선 것 같은 떨림, 차오르는 눈물 The one & only 패티킴✨ | KBS 221126 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31109038</id>
+        <link href="https://tv.naver.com/v/31109038"/>
+        <updated>2022-11-26T10:19:28.886Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[페이스캠]잔나비 김도형-뜨거운 여름밤은 가고 남은 건 볼품없지만❤불후의 명곡❤로맨틱 홀리데이 | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/30991952</id>
         <link href="https://tv.naver.com/v/30991952"/>
@@ -1459,20 +1473,6 @@
         <link href="https://tv.naver.com/v/30716803"/>
         <updated>2022-11-12T12:38:11.914Z</updated>
         <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 - Brucia La Terra | KBS 221112 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30716801</id>
-        <link href="https://tv.naver.com/v/30716801"/>
-        <updated>2022-11-12T12:38:11.916Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 - 가을밤에 든 생각 | KBS 221112 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30716670</id>
-        <link href="https://tv.naver.com/v/30716670"/>
-        <updated>2022-11-12T12:38:11.926Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 강렬한 엔딩에 쏟아지는 환호🤩 뮤지컬 배우 류승주! , MBC 221120 방송 (복면가왕)]]></title>

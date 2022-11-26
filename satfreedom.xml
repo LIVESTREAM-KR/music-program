@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-11-26T09:21:42.092Z</updated>
+    <updated>2022-11-26T10:19:36.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패티킴 - 가을을 남기고 간 사랑 | KBS 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31109041</id>
+        <link href="https://tv.naver.com/v/31109041"/>
+        <updated>2022-11-26T10:19:28.885Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 무대를 선 것 같은 떨림, 차오르는 눈물 The one & only 패티킴✨ | KBS 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31109038</id>
+        <link href="https://tv.naver.com/v/31109038"/>
+        <updated>2022-11-26T10:19:28.886Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[페이스캠]잔나비 김도형-뜨거운 여름밤은 가고 남은 건 볼품없지만❤불후의 명곡❤로맨틱 홀리데이 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/30991952</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30716803"/>
         <updated>2022-11-12T12:38:11.914Z</updated>
         <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 - Brucia La Terra | KBS 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30716801</id>
-        <link href="https://tv.naver.com/v/30716801"/>
-        <updated>2022-11-12T12:38:11.916Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 - 가을밤에 든 생각 | KBS 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30716670</id>
-        <link href="https://tv.naver.com/v/30716670"/>
-        <updated>2022-11-12T12:38:11.926Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>

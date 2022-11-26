@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-11-26T09:21:42.088Z</updated>
+    <updated>2022-11-26T10:19:36.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VERIVERY GYEHYEON - Tap Tap(베리베리 계현 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
+        <id>https://tv.naver.com/v/31108696</id>
+        <link href="https://tv.naver.com/v/31108696"/>
+        <updated>2022-11-26T10:18:55.795Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VERIVERY KANGMIN  - Tap Tap(베리베리 강민 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
+        <id>https://tv.naver.com/v/31108551</id>
+        <link href="https://tv.naver.com/v/31108551"/>
+        <updated>2022-11-26T10:18:55.797Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] VERIVERY HOYOUNG  - Tap Tap(베리베리 호영 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
         <id>https://tv.naver.com/v/31108419</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31105718"/>
         <updated>2022-11-26T07:16:32.052Z</updated>
         <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 민주, 11월 셋째 주 음악중심 MC 컷 모음!, MBC 221119 방송]]></title>
-        <id>https://tv.naver.com/v/30946369</id>
-        <link href="https://tv.naver.com/v/30946369"/>
-        <updated>2022-11-21T06:27:56.331Z</updated>
-        <content type="html"><![CDATA[10:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Highlight YANG YOSEOP - Alone(하이라이트 양요섭 - 얼론) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30905422</id>
-        <link href="https://tv.naver.com/v/30905422"/>
-        <updated>2022-11-19T09:22:13.243Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
