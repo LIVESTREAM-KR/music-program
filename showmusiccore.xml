@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-11-26T07:17:07.987Z</updated>
+    <updated>2022-11-26T08:23:59.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 하이라이트 - 얼론 (HIGHLIGHT - Alone), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/31107105</id>
+        <link href="https://tv.naver.com/v/31107105"/>
+        <updated>2022-11-26T08:23:20.616Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 김종현 - 라이트 (KIM JONGHYEON - Lights), MBC 221119 방송]]></title>
+        <id>https://tv.naver.com/v/31107104</id>
+        <link href="https://tv.naver.com/v/31107104"/>
+        <updated>2022-11-26T08:23:20.624Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첸 - 사라지고 있어 (CHEN - Last Scene), MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31106946</id>
+        <link href="https://tv.naver.com/v/31106946"/>
+        <updated>2022-11-26T08:23:20.624Z</updated>
+        <content type="html"><![CDATA[04:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅톤 - 바이러스 (VICTON - Virus), MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31106828</id>
+        <link href="https://tv.naver.com/v/31106828"/>
+        <updated>2022-11-26T08:23:20.625Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리 - 탭 탭 (VERIVERY - Tap Tap), MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31106827</id>
+        <link href="https://tv.naver.com/v/31106827"/>
+        <updated>2022-11-26T08:23:20.625Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드리핀 - 더 원 (DRIPPIN - The One), MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31106746</id>
+        <link href="https://tv.naver.com/v/31106746"/>
+        <updated>2022-11-26T08:23:20.626Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티오원 - 얼음 땡 (TO1 - Freeze Tag), MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31106656</id>
+        <link href="https://tv.naver.com/v/31106656"/>
+        <updated>2022-11-26T08:23:20.627Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑스디너리 히어로즈 - 헤어 컷 (Xdinary Heroes - Hair Cut), MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31106580</id>
+        <link href="https://tv.naver.com/v/31106580"/>
+        <updated>2022-11-26T08:23:20.629Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔플라잉(N.Flying) X 기현(KIHYUN) in 코노돌🎉 - (체리필터 - 낭만 고양이, 김연우 - 나와 같다면) , MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31106579</id>
+        <link href="https://tv.naver.com/v/31106579"/>
+        <updated>2022-11-26T08:23:20.630Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HYNN(박혜원) - 결승선 (HYNN - RUN), MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31106491</id>
+        <link href="https://tv.naver.com/v/31106491"/>
+        <updated>2022-11-26T08:23:20.633Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나이트 - 배드 큐피드 (YOUNITE - Bad Cupid), MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31106489</id>
+        <link href="https://tv.naver.com/v/31106489"/>
+        <updated>2022-11-26T08:23:20.634Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티에프앤 - 아마존 (TFN - AMAZON), MBC 221126 방송]]></title>
         <id>https://tv.naver.com/v/31106308</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/30905109"/>
         <updated>2022-11-19T09:22:13.261Z</updated>
         <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VICTON SEJUN - Virus(빅톤 임세준 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30905108</id>
-        <link href="https://tv.naver.com/v/30905108"/>
-        <updated>2022-11-19T09:22:13.261Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY GYEHYEON - Tap Tap(베리베리 계현 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30905042</id>
-        <link href="https://tv.naver.com/v/30905042"/>
-        <updated>2022-11-19T09:22:13.261Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YooA - Selfish(유아 – 셀피시) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30905015</id>
-        <link href="https://tv.naver.com/v/30905015"/>
-        <updated>2022-11-19T09:22:13.261Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] JO YURI - Loveable(조유리 – 러버블) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30904942</id>
-        <link href="https://tv.naver.com/v/30904942"/>
-        <updated>2022-11-19T09:22:13.265Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VICTON SUBIN - Virus(빅톤 정수빈 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30904941</id>
-        <link href="https://tv.naver.com/v/30904941"/>
-        <updated>2022-11-19T09:22:13.265Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VICTON HANSE - Virus(빅톤 도한세 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30904940</id>
-        <link href="https://tv.naver.com/v/30904940"/>
-        <updated>2022-11-19T09:22:13.267Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DRIPPIN – The One(드리핀 - 더 원) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30904939</id>
-        <link href="https://tv.naver.com/v/30904939"/>
-        <updated>2022-11-19T09:22:13.267Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY – Tap Tap(베리베리 - 탭 탭) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30904937</id>
-        <link href="https://tv.naver.com/v/30904937"/>
-        <updated>2022-11-19T09:22:13.267Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VICTON BYUNGCHAN - Virus(빅톤 최병찬 - 바이러스) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30904856</id>
-        <link href="https://tv.naver.com/v/30904856"/>
-        <updated>2022-11-19T09:22:13.267Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YOUNITE - Bad Cupid(유나이트 - 배드 큐피드) FanCam | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30904854</id>
-        <link href="https://tv.naver.com/v/30904854"/>
-        <updated>2022-11-19T09:22:13.280Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] JO YURI - Loveable(조유리 – 러버블) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221119방송]]></title>
-        <id>https://tv.naver.com/v/30904853</id>
-        <link href="https://tv.naver.com/v/30904853"/>
-        <updated>2022-11-19T09:22:13.280Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
