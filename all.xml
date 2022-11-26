@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-26T11:16:25.368Z</updated>
+    <updated>2022-11-26T12:36:57.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Selfish - 유아 | KBS 221125 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,76 @@
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] DRIPPIN – The One(드리핀 - 더 원) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31111130</id>
+        <link href="https://tv.naver.com/v/31111130"/>
+        <updated>2022-11-26T12:36:16.481Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TO1 RENTA  - Freeze Tag(티오원 렌타 - 얼음 땡) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31110989</id>
+        <link href="https://tv.naver.com/v/31110989"/>
+        <updated>2022-11-26T12:36:16.481Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes – Hair Cut(엑스디너리 히어로즈 - 헤어 컷) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31110906</id>
+        <link href="https://tv.naver.com/v/31110906"/>
+        <updated>2022-11-26T12:36:16.481Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATBO - ATTITUDE(에이티비오 - 애티튜드) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31110903</id>
+        <link href="https://tv.naver.com/v/31110903"/>
+        <updated>2022-11-26T12:36:16.486Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VICTON – Virus(빅톤 - 바이러스) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31110835</id>
+        <link href="https://tv.naver.com/v/31110835"/>
+        <updated>2022-11-26T12:36:16.486Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] YOUNITE - Bad Cupid(유나이트 - 배드 큐피드) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31110788</id>
+        <link href="https://tv.naver.com/v/31110788"/>
+        <updated>2022-11-26T12:36:16.486Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TO1 YEO JEONG  - Freeze Tag(티오원 여정 - 얼음 땡) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31110771</id>
+        <link href="https://tv.naver.com/v/31110771"/>
+        <updated>2022-11-26T12:36:16.486Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TO1 DAIGO - Freeze Tag(티오원 다이고 - 얼음 땡) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31110686</id>
+        <link href="https://tv.naver.com/v/31110686"/>
+        <updated>2022-11-26T12:36:16.486Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TO1 – Freeze Tag(티오원 - 얼음 땡) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31110377</id>
+        <link href="https://tv.naver.com/v/31110377"/>
+        <updated>2022-11-26T12:36:16.487Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TEMPEST TAERAE  - Dragon (飛上)(템페스트 태래 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31110376</id>
+        <link href="https://tv.naver.com/v/31110376"/>
+        <updated>2022-11-26T12:36:16.488Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] TEMPEST HWARANG - Dragon (飛上)(템페스트 화랑 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/31110167</id>
         <link href="https://tv.naver.com/v/31110167"/>
@@ -353,76 +423,6 @@
         <link href="https://tv.naver.com/v/31106946"/>
         <updated>2022-11-26T08:23:20.624Z</updated>
         <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤 - 바이러스 (VICTON - Virus), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106828</id>
-        <link href="https://tv.naver.com/v/31106828"/>
-        <updated>2022-11-26T08:23:20.625Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베리베리 - 탭 탭 (VERIVERY - Tap Tap), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106827</id>
-        <link href="https://tv.naver.com/v/31106827"/>
-        <updated>2022-11-26T08:23:20.625Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀 - 더 원 (DRIPPIN - The One), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106746</id>
-        <link href="https://tv.naver.com/v/31106746"/>
-        <updated>2022-11-26T08:23:20.626Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티오원 - 얼음 땡 (TO1 - Freeze Tag), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106656</id>
-        <link href="https://tv.naver.com/v/31106656"/>
-        <updated>2022-11-26T08:23:20.627Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스디너리 히어로즈 - 헤어 컷 (Xdinary Heroes - Hair Cut), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106580</id>
-        <link href="https://tv.naver.com/v/31106580"/>
-        <updated>2022-11-26T08:23:20.629Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔플라잉(N.Flying) X 기현(KIHYUN) in 코노돌🎉 - (체리필터 - 낭만 고양이, 김연우 - 나와 같다면) , MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106579</id>
-        <link href="https://tv.naver.com/v/31106579"/>
-        <updated>2022-11-26T08:23:20.630Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYNN(박혜원) - 결승선 (HYNN - RUN), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106491</id>
-        <link href="https://tv.naver.com/v/31106491"/>
-        <updated>2022-11-26T08:23:20.633Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나이트 - 배드 큐피드 (YOUNITE - Bad Cupid), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106489</id>
-        <link href="https://tv.naver.com/v/31106489"/>
-        <updated>2022-11-26T08:23:20.634Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티에프앤 - 아마존 (TFN - AMAZON), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106308</id>
-        <link href="https://tv.naver.com/v/31106308"/>
-        <updated>2022-11-26T07:16:32.041Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라씨 - 틱틱붐 (CLASS:y - Tick Tick Boom), MBC 221126 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31106307</id>
-        <link href="https://tv.naver.com/v/31106307"/>
-        <updated>2022-11-26T07:16:32.042Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박진영 - Groove Back | SBS 221120 방송 (인기가요)]]></title>
@@ -1265,6 +1265,76 @@
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 👑아티스트 패티 킴 특집 2부👑 모두를 깜짝 놀라게 한 특별 손님?! 놓치지 마세요 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110603</id>
+        <link href="https://tv.naver.com/v/31110603"/>
+        <updated>2022-11-26T12:36:50.528Z</updated>
+        <content type="html"><![CDATA[01:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※최종 결과※ 조명섭 vs 김기태! 명곡판정단의 선택은?!  | KBS 221126 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110596</id>
+        <link href="https://tv.naver.com/v/31110596"/>
+        <updated>2022-11-26T12:36:50.528Z</updated>
+        <content type="html"><![CDATA[00:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조명섭 - 사랑이여 다시 한번 | KBS 221126 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110593</id>
+        <link href="https://tv.naver.com/v/31110593"/>
+        <updated>2022-11-26T12:36:50.531Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※방송 3사 최초※ 김연아❤️고우림 결혼 비하인드 스토리! 낯선 유부남의 향기?! | KBS 221126 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110591</id>
+        <link href="https://tv.naver.com/v/31110591"/>
+        <updated>2022-11-26T12:36:50.532Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김기태 - 이별 | KBS 221126 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110470</id>
+        <link href="https://tv.naver.com/v/31110470"/>
+        <updated>2022-11-26T12:36:50.532Z</updated>
+        <content type="html"><![CDATA[07:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 582회 The One & Only 패티김 편 1부 우승자 김기태⭐ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110385</id>
+        <link href="https://tv.naver.com/v/31110385"/>
+        <updated>2022-11-26T12:36:50.539Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김기태의 이유 있는 그 어느 때보다 진중한 선곡, 존경하는 마음 | KBS 221126 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110384</id>
+        <link href="https://tv.naver.com/v/31110384"/>
+        <updated>2022-11-26T12:36:50.540Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑(CSR) - 사랑이란 두 글자 | KBS 221126 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110381</id>
+        <link href="https://tv.naver.com/v/31110381"/>
+        <updated>2022-11-26T12:36:50.541Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 빅마마 박인혜 - 초우 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110373</id>
+        <link href="https://tv.naver.com/v/31110373"/>
+        <updated>2022-11-26T12:36:50.542Z</updated>
+        <content type="html"><![CDATA[04:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패티 킴의 첫사랑을 향한 응원❤‍🔥 일어서면 뭐든 할 수 있어! | KBS 221126 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/31110267</id>
+        <link href="https://tv.naver.com/v/31110267"/>
+        <updated>2022-11-26T12:36:50.544Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[반전 매력의 극치! 잠자던 호랑이가 포효하듯 남다른 울림을 선사한 김기태의 무대 | KBS 221126 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/31110189</id>
         <link href="https://tv.naver.com/v/31110189"/>
@@ -1403,76 +1473,6 @@
         <link href="https://tv.naver.com/v/30991952"/>
         <updated>2022-11-22T12:44:18.025Z</updated>
         <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[페이스캠]잔나비 최정훈-뜨거운 여름밤은 가고 남은 건 볼품없지만❤불후의 명곡❤로맨틱 홀리데이 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30954176</id>
-        <link href="https://tv.naver.com/v/30954176"/>
-        <updated>2022-11-21T10:26:53.913Z</updated>
-        <content type="html"><![CDATA[04:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조성모 - 너의 곁으로 | KBS 221119 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30908482</id>
-        <link href="https://tv.naver.com/v/30908482"/>
-        <updated>2022-11-19T12:39:42.469Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 👑아티스트 패티 김 특집👑 ONE&ONLY 가요계 여왕의 귀환! 본방사수☆ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30908383</id>
-        <link href="https://tv.naver.com/v/30908383"/>
-        <updated>2022-11-19T12:39:42.469Z</updated>
-        <content type="html"><![CDATA[00:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조성모 - 가시나무 | KBS 221119 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30908369</id>
-        <link href="https://tv.naver.com/v/30908369"/>
-        <updated>2022-11-19T12:39:42.484Z</updated>
-        <content type="html"><![CDATA[04:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 - 그중에 그대를 만나 | KBS 221119 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30908366</id>
-        <link href="https://tv.naver.com/v/30908366"/>
-        <updated>2022-11-19T12:39:42.484Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 - 백만송이 장미 | KBS 221119 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30908365</id>
-        <link href="https://tv.naver.com/v/30908365"/>
-        <updated>2022-11-19T12:39:42.486Z</updated>
-        <content type="html"><![CDATA[05:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아름다운 드론 쇼🎆 마음을 따뜻하게 해준 명곡들과 이 순간을 기억하며 | KBS 221119 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30908261</id>
-        <link href="https://tv.naver.com/v/30908261"/>
-        <updated>2022-11-19T12:39:42.487Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미 - You Are My Everything | KBS 221119 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30908160</id>
-        <link href="https://tv.naver.com/v/30908160"/>
-        <updated>2022-11-19T11:16:56.684Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이브로 무대를 꽉 채우는 거미❤️ ＜그대 돌아오면＞ ,＜친구라도 될걸 그랬어＞  | KBS 221119 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30908132</id>
-        <link href="https://tv.naver.com/v/30908132"/>
-        <updated>2022-11-19T11:16:56.692Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거미 - 어른아이 | KBS 221119 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/30908037</id>
-        <link href="https://tv.naver.com/v/30908037"/>
-        <updated>2022-11-19T11:16:56.696Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 강렬한 엔딩에 쏟아지는 환호🤩 뮤지컬 배우 류승주! , MBC 221120 방송 (복면가왕)]]></title>
