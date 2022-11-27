@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2022-11-27T06:24:14.294Z</updated>
+    <updated>2022-11-27T07:18:15.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE - Bad Cupid | SBS 221127 방송]]></title>
+        <id>https://tv.naver.com/v/31121409</id>
+        <link href="https://tv.naver.com/v/31121409"/>
+        <updated>2022-11-27T07:17:41.578Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221127 방송]]></title>
+        <id>https://tv.naver.com/v/31121326</id>
+        <link href="https://tv.naver.com/v/31121326"/>
+        <updated>2022-11-27T07:17:41.578Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NINE.i(나인아이) - Young Boy | SBS 221127 방송]]></title>
+        <id>https://tv.naver.com/v/31121325</id>
+        <link href="https://tv.naver.com/v/31121325"/>
+        <updated>2022-11-27T07:17:41.578Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IRRIS(아이리스) - Stay W!th Me | SBS 221127 방송]]></title>
+        <id>https://tv.naver.com/v/31121247</id>
+        <link href="https://tv.naver.com/v/31121247"/>
+        <updated>2022-11-27T07:17:41.582Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFTY FIFTY - Higher | SBS 221127 방송]]></title>
+        <id>https://tv.naver.com/v/31121141</id>
+        <link href="https://tv.naver.com/v/31121141"/>
+        <updated>2022-11-27T07:17:41.582Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Fight Inside | SBS 221127 방송]]></title>
+        <id>https://tv.naver.com/v/31120984</id>
+        <link href="https://tv.naver.com/v/31120984"/>
+        <updated>2022-11-27T07:17:41.585Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진영 - Groove Back | SBS 221120 방송]]></title>
         <id>https://tv.naver.com/v/30922008</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/30730711"/>
         <updated>2022-11-13T08:26:34.333Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - Hair Cut | SBS 221113 방송]]></title>
-        <id>https://tv.naver.com/v/30730629</id>
-        <link href="https://tv.naver.com/v/30730629"/>
-        <updated>2022-11-13T08:26:34.334Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE - Bad Cupid | SBS 221113 방송]]></title>
-        <id>https://tv.naver.com/v/30730551</id>
-        <link href="https://tv.naver.com/v/30730551"/>
-        <updated>2022-11-13T08:26:34.335Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이처(NATURE) - LIMBO!(넘어와) | SBS 221113 방송]]></title>
-        <id>https://tv.naver.com/v/30730549</id>
-        <link href="https://tv.naver.com/v/30730549"/>
-        <updated>2022-11-13T08:26:34.336Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 사랑歌 | SBS 221113 방송]]></title>
-        <id>https://tv.naver.com/v/30730440</id>
-        <link href="https://tv.naver.com/v/30730440"/>
-        <updated>2022-11-13T08:26:34.337Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’ - Draw | SBS 221113 방송]]></title>
-        <id>https://tv.naver.com/v/30730339</id>
-        <link href="https://tv.naver.com/v/30730339"/>
-        <updated>2022-11-13T08:26:34.338Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAXY(크랙시) - Poison Rose | SBS 221113 방송]]></title>
-        <id>https://tv.naver.com/v/30730253</id>
-        <link href="https://tv.naver.com/v/30730253"/>
-        <updated>2022-11-13T08:26:34.342Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
