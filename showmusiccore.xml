@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-11-28T06:26:13.621Z</updated>
+    <updated>2022-11-28T07:21:35.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 리노, 11월 넷째 주 우주호🚀 MC 컷 모음!, MBC 221126 방송]]></title>
+        <id>https://tv.naver.com/v/31143852</id>
+        <link href="https://tv.naver.com/v/31143852"/>
+        <updated>2022-11-28T07:20:55.469Z</updated>
+        <content type="html"><![CDATA[08:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] DRIPPIN – The One(드리핀 - 더 원) FanCam | Show! MusicCore | MBC221126방송]]></title>
         <id>https://tv.naver.com/v/31111130</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31107104"/>
         <updated>2022-11-26T08:23:20.624Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첸 - 사라지고 있어 (CHEN - Last Scene), MBC 221126 방송]]></title>
-        <id>https://tv.naver.com/v/31106946</id>
-        <link href="https://tv.naver.com/v/31106946"/>
-        <updated>2022-11-26T08:23:20.624Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
     </entry>
 </feed>
