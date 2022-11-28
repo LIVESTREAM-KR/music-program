@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-11-28T03:34:45.850Z</updated>
+    <updated>2022-11-28T04:24:57.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 청량, 섹시, 사랑 말만 해🎶 쇼챔피언에는 다 있으니깐💚]]></title>
+        <id>https://tv.naver.com/v/31133022</id>
+        <link href="https://tv.naver.com/v/31133022"/>
+        <updated>2022-11-28T04:24:43.665Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 4주차 ♥쇼챔피언♡ MC 모음.zip (김종현 & TO1 동건 & DRIPPIN 차준호) | Show Champion | EP.458]]></title>
         <id>https://tv.naver.com/v/31061138</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31021738"/>
         <updated>2022-11-23T10:21:30.731Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[원픽캠 4K] YooA - Selfish (유아 - 셀피쉬) l Show Champion l EP.458]]></title>
-        <id>https://tv.naver.com/v/31019488</id>
-        <link href="https://tv.naver.com/v/31019488"/>
-        <updated>2022-11-23T13:36:20.224Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
