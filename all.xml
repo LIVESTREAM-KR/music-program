@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-29T07:18:38.693Z</updated>
+    <updated>2022-11-29T08:25:54.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Selfish - 유아 | KBS 221125 방송 (뮤직뱅크)]]></title>
@@ -1601,13 +1601,6 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[＜오늘이 복가 명작전? 피날레 무대를 향한 치열한 경쟁!＞ 복면가왕 381회 예고, MBC 221120 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/30734365</id>
-        <link href="https://tv.naver.com/v/30734365"/>
-        <updated>2022-11-13T12:40:02.616Z</updated>
-        <content type="html"><![CDATA[00:36]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[실용무용과 수석 입학자 키노의 댄스 실력💕 '이것이 수석 입학의 클래스✨', MBC 221113 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/30734170</id>
         <link href="https://tv.naver.com/v/30734170"/>
@@ -1683,5 +1676,12 @@
         <link href="https://tv.naver.com/v/30732628"/>
         <updated>2022-11-13T10:22:54.512Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['혼쭐'의 정체는 코미디아티스트 웻보이!, MBC 221113 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/30732624</id>
+        <link href="https://tv.naver.com/v/30732624"/>
+        <updated>2022-11-29T08:25:54.107Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
