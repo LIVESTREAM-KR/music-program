@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-12-01T11:17:16.257Z</updated>
+    <updated>2022-12-01T12:43:07.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 5주차 ♥쇼챔피언♡ MC 모음.zip (woo!ah! 나나 & 우연) | Show Champion | EP.459]]></title>
+        <id>https://tv.naver.com/v/31257216</id>
+        <link href="https://tv.naver.com/v/31257216"/>
+        <updated>2022-12-01T12:42:53.056Z</updated>
+        <content type="html"><![CDATA[06:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] SECRET NUMBER - TAP (시크릿넘버 - 탭) l Show Champion l EP.459]]></title>
         <id>https://tv.naver.com/v/31239708</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31219218"/>
         <updated>2022-11-30T13:33:15.893Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miss. Jung - All right (미쓰정 - 좋습니다)]]></title>
-        <id>https://tv.naver.com/v/31219195</id>
-        <link href="https://tv.naver.com/v/31219195"/>
-        <updated>2022-11-30T10:21:52.329Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
     </entry>
 </feed>
