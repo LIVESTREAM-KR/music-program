@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-12-01T08:26:28.423Z</updated>
+    <updated>2022-12-01T09:20:28.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] SECRET NUMBER - TAP (시크릿넘버 - 탭) l Show Champion l EP.459]]></title>
+        <id>https://tv.naver.com/v/31239708</id>
+        <link href="https://tv.naver.com/v/31239708"/>
+        <updated>2022-12-01T09:20:13.864Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] VERIVERY HOYOUNG - Tap Tap (베리베리 호영 - 탭탭) | Show Champion | EP.459]]></title>
         <id>https://tv.naver.com/v/31221386</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31219195"/>
         <updated>2022-11-30T10:21:52.329Z</updated>
         <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] DRIPPIN LEE HYEOP - The One (드리핀 이협 - 더 원) | Show Champion | EP.459]]></title>
-        <id>https://tv.naver.com/v/31219036</id>
-        <link href="https://tv.naver.com/v/31219036"/>
-        <updated>2022-11-30T13:33:15.896Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
