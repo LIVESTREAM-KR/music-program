@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-03T07:16:07.260Z</updated>
+    <updated>2022-12-03T08:26:22.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[카라 - 웬 아이 무브 (KARA - WHEN I MOVE), MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31303989</id>
+        <link href="https://tv.naver.com/v/31303989"/>
+        <updated>2022-12-03T08:25:44.634Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 - 벌스데이 (Red Velvet - Birthday), MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31303841</id>
+        <link href="https://tv.naver.com/v/31303841"/>
+        <updated>2022-12-03T08:25:44.636Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[있지 - 체셔 (ITZY - Cheshire), MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31303728</id>
+        <link href="https://tv.naver.com/v/31303728"/>
+        <updated>2022-12-03T08:25:44.638Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리 - 탭 탭 (VERIVERY - Tap Tap), MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31303635</id>
+        <link href="https://tv.naver.com/v/31303635"/>
+        <updated>2022-12-03T08:25:44.639Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드리핀 - 더 원 (DRIPPIN - The One), MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31303555</id>
+        <link href="https://tv.naver.com/v/31303555"/>
+        <updated>2022-12-03T08:25:44.657Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이채연(LEE CHAEYEON)X조유리(JO YURI)in 코노돌🎉-(백지영-내 귀에 캔디(feat.택연),아이유-잔소리(with.슬옹)), MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31303534</id>
+        <link href="https://tv.naver.com/v/31303534"/>
+        <updated>2022-12-03T08:25:44.672Z</updated>
+        <content type="html"><![CDATA[02:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티오원 - 얼음 땡 (TO1 - Freeze Tag), MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31303249</id>
+        <link href="https://tv.naver.com/v/31303249"/>
+        <updated>2022-12-03T08:25:44.675Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피원하모니 - 백 다운 (P1Harmony - Back Down), MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31303248</id>
+        <link href="https://tv.naver.com/v/31303248"/>
+        <updated>2022-12-03T08:25:44.676Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정동원 - 뱃놀이 (Jeong Dongwon - Baennori), MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31303137</id>
+        <link href="https://tv.naver.com/v/31303137"/>
+        <updated>2022-12-03T08:25:44.678Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앨리스 - 댄스 온 (ALICE - DANCE ON), MBC 221203]]></title>
+        <id>https://tv.naver.com/v/31303135</id>
+        <link href="https://tv.naver.com/v/31303135"/>
+        <updated>2022-12-03T08:25:44.680Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[템페스트 - 드래곤(비상) (TEMPEST - Dragon (飛上)), MBC 221203 방송]]></title>
         <id>https://tv.naver.com/v/31302963</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/31109922"/>
         <updated>2022-11-26T11:15:49.592Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST EUNCHAN - Dragon (飛上)(템페스트 은찬 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31109861</id>
-        <link href="https://tv.naver.com/v/31109861"/>
-        <updated>2022-11-26T11:15:49.594Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST HYUK  - Dragon (飛上)(템페스트 혁 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31109860</id>
-        <link href="https://tv.naver.com/v/31109860"/>
-        <updated>2022-11-26T11:15:49.595Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST – Dragon (飛上)(템페스트 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31109656</id>
-        <link href="https://tv.naver.com/v/31109656"/>
-        <updated>2022-11-26T11:15:49.595Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST HANBIN - Dragon (飛上)(템페스트 한빈 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31109575</id>
-        <link href="https://tv.naver.com/v/31109575"/>
-        <updated>2022-11-26T11:15:49.599Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY GYEHYEON - Tap Tap(베리베리 계현 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31108696</id>
-        <link href="https://tv.naver.com/v/31108696"/>
-        <updated>2022-11-26T10:18:55.795Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY KANGMIN  - Tap Tap(베리베리 강민 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31108551</id>
-        <link href="https://tv.naver.com/v/31108551"/>
-        <updated>2022-11-26T10:18:55.797Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY HOYOUNG  - Tap Tap(베리베리 호영 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31108419</id>
-        <link href="https://tv.naver.com/v/31108419"/>
-        <updated>2022-11-26T09:21:00.709Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY DONGHEON - Tap Tap(베리베리 동헌 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31108418</id>
-        <link href="https://tv.naver.com/v/31108418"/>
-        <updated>2022-11-26T09:21:00.711Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY YONGSEUNG - Tap Tap(베리베리 용승 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31108397</id>
-        <link href="https://tv.naver.com/v/31108397"/>
-        <updated>2022-11-26T09:21:00.716Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY YEONHO - Tap Tap(베리베리 연호 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송]]></title>
-        <id>https://tv.naver.com/v/31108321</id>
-        <link href="https://tv.naver.com/v/31108321"/>
-        <updated>2022-11-26T09:21:00.717Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
