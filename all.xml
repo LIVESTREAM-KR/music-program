@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-03T06:22:25.081Z</updated>
+    <updated>2022-12-03T07:16:07.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221202 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,48 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[템페스트 - 드래곤(비상) (TEMPEST - Dragon (飛上)), MBC 221203 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31302963</id>
+        <link href="https://tv.naver.com/v/31302963"/>
+        <updated>2022-12-03T07:15:27.934Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 드로우 (ICHILLIN' - Draw), MBC 221203 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31302856</id>
+        <link href="https://tv.naver.com/v/31302856"/>
+        <updated>2022-12-03T07:15:27.934Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위앤유 - 하루하루 (WeNU - Haru Haru), MBC 221203 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31302853</id>
+        <link href="https://tv.naver.com/v/31302853"/>
+        <updated>2022-12-03T07:15:27.934Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트렌드지 - 배가본드 (TRENDZ - VAGABOND), MBC 221203 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31302750</id>
+        <link href="https://tv.naver.com/v/31302750"/>
+        <updated>2022-12-03T07:15:27.936Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑 - 러브티콘(♡TiCON) (CSR - LOVETICON(♡TiCON)), MBC 221203 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31302639</id>
+        <link href="https://tv.naver.com/v/31302639"/>
+        <updated>2022-12-03T07:15:27.937Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클라씨 - 질러스 (CLASS:y - ZEALOUS), MBC 221203 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31302637</id>
+        <link href="https://tv.naver.com/v/31302637"/>
+        <updated>2022-12-03T07:15:27.946Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 리노, 11월 넷째 주 우주호🚀 MC 컷 모음!, MBC 221126 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/31143852</id>
         <link href="https://tv.naver.com/v/31143852"/>
@@ -381,48 +423,6 @@
         <link href="https://tv.naver.com/v/31108321"/>
         <updated>2022-11-26T09:21:00.717Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY MINCHAN  - Tap Tap(베리베리 민찬 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31108320</id>
-        <link href="https://tv.naver.com/v/31108320"/>
-        <updated>2022-11-26T09:21:00.723Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY – Tap Tap(베리베리 - 탭 탭) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31108318</id>
-        <link href="https://tv.naver.com/v/31108318"/>
-        <updated>2022-11-26T09:21:00.724Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CHEN - Last Scene(첸 – 사라지고 있어) FanCam (Horizontal Ver.) | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31108317</id>
-        <link href="https://tv.naver.com/v/31108317"/>
-        <updated>2022-11-26T09:21:00.725Z</updated>
-        <content type="html"><![CDATA[04:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CHEN - Last Scene(첸 – 사라지고 있어) FanCam | Show! MusicCore | MBC221126방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31108064</id>
-        <link href="https://tv.naver.com/v/31108064"/>
-        <updated>2022-11-26T09:21:00.726Z</updated>
-        <content type="html"><![CDATA[04:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 하이라이트 - 얼론 (HIGHLIGHT - Alone), MBC 221119 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31107105</id>
-        <link href="https://tv.naver.com/v/31107105"/>
-        <updated>2022-11-26T08:23:20.616Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 김종현 - 라이트 (KIM JONGHYEON - Lights), MBC 221119 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31107104</id>
-        <link href="https://tv.naver.com/v/31107104"/>
-        <updated>2022-11-26T08:23:20.624Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BoA - Forgive Me | SBS 221127 방송 (인기가요)]]></title>
