@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-12-04T11:14:53.788Z</updated>
+    <updated>2022-12-04T12:34:07.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜신이 내린 목소리의 3연승 도전 D-day! 아무도 예측 못한 결과 발생?＞ 복면가왕 383회 예고, MBC 221211 방송]]></title>
+        <id>https://tv.naver.com/v/31324838</id>
+        <link href="https://tv.naver.com/v/31324838"/>
+        <updated>2022-12-04T12:34:07.168Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['레드카드'의 정체는 모델 정혁!, MBC 221204 방송]]></title>
         <id>https://tv.naver.com/v/31323863</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30923313"/>
         <updated>2022-11-20T10:21:56.422Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돈쭐' 2라운드 무대 - Celebrity, MBC 221120 방송]]></title>
-        <id>https://tv.naver.com/v/30923267</id>
-        <link href="https://tv.naver.com/v/30923267"/>
-        <updated>2022-11-20T10:21:56.423Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
