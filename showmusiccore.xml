@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-05T02:44:13.585Z</updated>
+    <updated>2022-12-05T03:20:47.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet IRENE - Birthday(레드벨벳 아이린 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221203방송]]></title>
+        <id>https://tv.naver.com/v/31338138</id>
+        <link href="https://tv.naver.com/v/31338138"/>
+        <updated>2022-12-05T03:20:04.930Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet JOY - Birthday(레드벨벳 조이 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221203방송]]></title>
+        <id>https://tv.naver.com/v/31337929</id>
+        <link href="https://tv.naver.com/v/31337929"/>
+        <updated>2022-12-05T03:20:04.931Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] CLASS:y – ZEALOUS(클라씨 - 질러스) FanCam | Show! MusicCore | MBC221203방송]]></title>
         <id>https://tv.naver.com/v/31305362</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31304564"/>
         <updated>2022-12-03T09:16:59.356Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KARA Han Seung Yeon - WHEN I MOVE(카라 한승연 - 웬 아이 무브) FanCam | Show! MusicCore | MBC221203방송]]></title>
-        <id>https://tv.naver.com/v/31304563</id>
-        <link href="https://tv.naver.com/v/31304563"/>
-        <updated>2022-12-03T09:16:59.357Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KARA PARK GYU RI - WHEN I MOVE(카라 박규리 - 웬 아이 무브) FanCam | Show! MusicCore | MBC221203방송]]></title>
-        <id>https://tv.naver.com/v/31304562</id>
-        <link href="https://tv.naver.com/v/31304562"/>
-        <updated>2022-12-03T09:16:59.358Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
