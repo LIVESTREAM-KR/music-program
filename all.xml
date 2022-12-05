@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-05T05:18:15.965Z</updated>
+    <updated>2022-12-05T06:24:23.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221202 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ITZY RYUJIN - Cheshire(있지 류진 - 체셔) Close-up Cam | Show! MusicCore | MBC221203방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31344559</id>
+        <link href="https://tv.naver.com/v/31344559"/>
+        <updated>2022-12-05T06:23:35.714Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ITZY CHAERYEONG - Cheshire(있지 채령 - 체셔) Close-up Cam | Show! MusicCore | MBC221203방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31344555</id>
+        <link href="https://tv.naver.com/v/31344555"/>
+        <updated>2022-12-05T06:23:35.716Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] Red Velvet IRENE - Birthday(레드벨벳 아이린 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221203방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/31338138</id>
         <link href="https://tv.naver.com/v/31338138"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/31304646"/>
         <updated>2022-12-03T09:16:59.353Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KARA Nicole - WHEN I MOVE(카라 니콜 - 웬 아이 무브) FanCam | Show! MusicCore | MBC221203방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31304645</id>
-        <link href="https://tv.naver.com/v/31304645"/>
-        <updated>2022-12-03T09:16:59.354Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY YUNA  - Cheshire(있지 유나 - 체셔) FanCam | Show! MusicCore | MBC221203방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31304564</id>
-        <link href="https://tv.naver.com/v/31304564"/>
-        <updated>2022-12-03T09:16:59.356Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KARA - WHEN I MOVE | SBS 221204 방송 (인기가요)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 12월에도 쇼챔피언 SPECIAL STAGE와 함께 날아 Fly High🐉 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/31342937</id>
+        <link href="https://tv.naver.com/v/31342937"/>
+        <updated>2022-12-05T06:24:06.757Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[11월 5주차 ♥쇼챔피언♡ MC 모음.zip (woo!ah! 나나 & 우연) | Show Champion | EP.459 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/31257216</id>
         <link href="https://tv.naver.com/v/31257216"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/31219468"/>
         <updated>2022-11-30T13:33:15.890Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] DRIPPIN CHA JUNHO - The One (드리핀 차준호 - 더 원) | Show Champion | EP.459 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/31219218</id>
-        <link href="https://tv.naver.com/v/31219218"/>
-        <updated>2022-11-30T13:33:15.893Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 583회 The One & Only 패티김 편 2부 우승자 ⭐황치열⭐ | KBS 방송 (불후의 명곡)]]></title>
