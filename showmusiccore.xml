@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-05T07:18:11.544Z</updated>
+    <updated>2022-12-05T08:24:47.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 리아 X 민주 X 예지, 12월 첫째 주 음악중심 MC 컷 모음!, MBC 221203 방송]]></title>
+        <id>https://tv.naver.com/v/31348944</id>
+        <link href="https://tv.naver.com/v/31348944"/>
+        <updated>2022-12-05T08:24:08.358Z</updated>
+        <content type="html"><![CDATA[12:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ITZY RYUJIN - Cheshire(있지 류진 - 체셔) Close-up Cam | Show! MusicCore | MBC221203방송]]></title>
         <id>https://tv.naver.com/v/31344559</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31304647"/>
         <updated>2022-12-03T09:16:59.352Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Red Velvet – Birthday(레드벨벳 - 벌스데이) FanCam | Show! MusicCore | MBC221203방송]]></title>
-        <id>https://tv.naver.com/v/31304646</id>
-        <link href="https://tv.naver.com/v/31304646"/>
-        <updated>2022-12-03T09:16:59.353Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
