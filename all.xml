@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-06T08:30:48.907Z</updated>
+    <updated>2022-12-06T09:18:28.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221202 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] KARA.zip 📂 Break It부터 WHEN I MOVE까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31352333</id>
+        <link href="https://tv.naver.com/v/31352333"/>
+        <updated>2022-12-06T09:17:48.601Z</updated>
+        <content type="html"><![CDATA[01:04:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 리아 X 민주 X 예지, 12월 첫째 주 음악중심 MC 컷 모음!, MBC 221203 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/31348944</id>
         <link href="https://tv.naver.com/v/31348944"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/31304648"/>
         <updated>2022-12-03T09:16:59.351Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY LIA - Cheshire(있지 리아 - 체셔) FanCam | Show! MusicCore | MBC221203방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31304647</id>
-        <link href="https://tv.naver.com/v/31304647"/>
-        <updated>2022-12-03T09:16:59.352Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KARA - WHEN I MOVE | SBS 221204 방송 (인기가요)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-06T08:30:48.860Z</updated>
+    <updated>2022-12-06T09:18:28.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] KARA.zip 📂 Break It부터 WHEN I MOVE까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/31352333</id>
+        <link href="https://tv.naver.com/v/31352333"/>
+        <updated>2022-12-06T09:17:48.601Z</updated>
+        <content type="html"><![CDATA[01:04:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 리아 X 민주 X 예지, 12월 첫째 주 음악중심 MC 컷 모음!, MBC 221203 방송]]></title>
         <id>https://tv.naver.com/v/31348944</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31304648"/>
         <updated>2022-12-03T09:16:59.351Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY LIA - Cheshire(있지 리아 - 체셔) FanCam | Show! MusicCore | MBC221203방송]]></title>
-        <id>https://tv.naver.com/v/31304647</id>
-        <link href="https://tv.naver.com/v/31304647"/>
-        <updated>2022-12-03T09:16:59.352Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
