@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-12-07T16:26:37.303Z</updated>
+    <updated>2022-12-07T17:18:10.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1harmony THEO - Back Down (피원하모니 테오 - 백 다운) | Show Champion | EP.460]]></title>
+        <id>https://tv.naver.com/v/31430183</id>
+        <link href="https://tv.naver.com/v/31430183"/>
+        <updated>2022-12-07T17:17:56.654Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony - Back Down (피원하모니 - 백 다운) l Show Champion l EP.460]]></title>
+        <id>https://tv.naver.com/v/31430095</id>
+        <link href="https://tv.naver.com/v/31430095"/>
+        <updated>2022-12-07T17:17:56.655Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1harmony KEEHO - Back Down (피원하모니 기호 - 백 다운) | Show Champion | EP.460]]></title>
+        <id>https://tv.naver.com/v/31430011</id>
+        <link href="https://tv.naver.com/v/31430011"/>
+        <updated>2022-12-07T17:17:56.660Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] P1harmony INTAK - Back Down (피원하모니 인탁 - 백 다운) | Show Champion | EP.460]]></title>
         <id>https://tv.naver.com/v/31429382</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/31420832"/>
         <updated>2022-12-07T10:20:41.215Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] Jeong Dong Won - Baennori (정동원 - 뱃놀이)]]></title>
-        <id>https://tv.naver.com/v/31420737</id>
-        <link href="https://tv.naver.com/v/31420737"/>
-        <updated>2022-12-07T10:20:41.221Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - The One (드리핀 - 더 원)]]></title>
-        <id>https://tv.naver.com/v/31420734</id>
-        <link href="https://tv.naver.com/v/31420734"/>
-        <updated>2022-12-07T10:20:41.223Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] Park Ki Young - Love Contact (박기영 - 사랑이 닿으면)]]></title>
-        <id>https://tv.naver.com/v/31420585</id>
-        <link href="https://tv.naver.com/v/31420585"/>
-        <updated>2022-12-07T10:20:41.223Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
