@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-07T13:26:11.626Z</updated>
+    <updated>2022-12-07T14:17:44.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221202 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,27 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HYUK - Dragon (템페스트 혁 - 드래곤) | Show Champion | EP.460 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/31426461</id>
+        <link href="https://tv.naver.com/v/31426461"/>
+        <updated>2022-12-07T14:17:31.461Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST LEW - Dragon (템페스트 류 - 드래곤) | Show Champion | EP.460 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/31426228</id>
+        <link href="https://tv.naver.com/v/31426228"/>
+        <updated>2022-12-07T14:17:31.462Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - Dragon (템페스트 형섭 - 드래곤) | Show Champion | EP.460 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/31426227</id>
+        <link href="https://tv.naver.com/v/31426227"/>
+        <updated>2022-12-07T14:17:31.462Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HANBIN - Dragon (템페스트 한빈 - 드래곤) | Show Champion | EP.460 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/31425756</id>
         <link href="https://tv.naver.com/v/31425756"/>
@@ -1242,27 +1263,6 @@
         <link href="https://tv.naver.com/v/31342937"/>
         <updated>2022-12-05T06:24:06.757Z</updated>
         <content type="html"><![CDATA[00:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 5주차 ♥쇼챔피언♡ MC 모음.zip (woo!ah! 나나 & 우연) | Show Champion | EP.459 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/31257216</id>
-        <link href="https://tv.naver.com/v/31257216"/>
-        <updated>2022-12-01T12:42:53.056Z</updated>
-        <content type="html"><![CDATA[06:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] SECRET NUMBER - TAP (시크릿넘버 - 탭) l Show Champion l EP.459 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/31239708</id>
-        <link href="https://tv.naver.com/v/31239708"/>
-        <updated>2022-12-01T09:20:13.864Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VERIVERY HOYOUNG - Tap Tap (베리베리 호영 - 탭탭) | Show Champion | EP.459 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/31221386</id>
-        <link href="https://tv.naver.com/v/31221386"/>
-        <updated>2022-11-30T13:33:15.835Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 583회 The One & Only 패티김 편 2부 우승자 ⭐황치열⭐ | KBS 방송 (불후의 명곡)]]></title>
