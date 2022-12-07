@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-12-07T10:20:55.238Z</updated>
+    <updated>2022-12-07T11:16:25.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[WINTER SPECIAL] CIX - Cinema (씨아이엑스 - 시네마)]]></title>
+        <id>https://tv.naver.com/v/31421258</id>
+        <link href="https://tv.naver.com/v/31421258"/>
+        <updated>2022-12-07T11:16:12.222Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TO1 - Freeze Tag (티오원 - 얼음 땡)]]></title>
+        <id>https://tv.naver.com/v/31421127</id>
+        <link href="https://tv.naver.com/v/31421127"/>
+        <updated>2022-12-07T11:16:12.224Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] P1Harmony - Back Down (피원하모니 - 백 다운)]]></title>
+        <id>https://tv.naver.com/v/31420979</id>
+        <link href="https://tv.naver.com/v/31420979"/>
+        <updated>2022-12-07T11:16:12.225Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[woo!ah! - Rollercoaster (우아! - 롤러코스터)]]></title>
         <id>https://tv.naver.com/v/31420832</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/31220792"/>
         <updated>2022-11-30T13:33:15.856Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[woo!ah! - Rollercoaster (우아! - 롤러코스터)]]></title>
-        <id>https://tv.naver.com/v/31220572</id>
-        <link href="https://tv.naver.com/v/31220572"/>
-        <updated>2022-11-30T10:21:52.301Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] JUNG DONG HA - the place at the time (정동하 - 단골집)]]></title>
-        <id>https://tv.naver.com/v/31220570</id>
-        <link href="https://tv.naver.com/v/31220570"/>
-        <updated>2022-11-30T10:21:52.303Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX - Hymn to Love (이펙스 - 사랑歌)]]></title>
-        <id>https://tv.naver.com/v/31220545</id>
-        <link href="https://tv.naver.com/v/31220545"/>
-        <updated>2022-11-30T10:21:52.304Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
