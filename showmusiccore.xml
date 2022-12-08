@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-08T07:17:22.460Z</updated>
+    <updated>2022-12-08T08:24:12.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Red Velvet.zip 📂 Happiness(행복)부터 Birthday까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/31406603</id>
+        <link href="https://tv.naver.com/v/31406603"/>
+        <updated>2022-12-08T08:23:31.409Z</updated>
+        <content type="html"><![CDATA[01:02:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] KARA.zip 📂 Break It부터 WHEN I MOVE까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/31352333</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31304663"/>
         <updated>2022-12-03T09:16:59.350Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST – Dragon (飛上)(템페스트 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221203방송]]></title>
-        <id>https://tv.naver.com/v/31304648</id>
-        <link href="https://tv.naver.com/v/31304648"/>
-        <updated>2022-12-03T09:16:59.351Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
     </entry>
 </feed>
