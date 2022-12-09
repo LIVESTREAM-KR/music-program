@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-12-09T11:16:16.555Z</updated>
+    <updated>2022-12-09T12:37:08.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[12월 1주차 ♥쇼챔피언♡ MC 모음.zip (CIX 현석&배진영&승훈) | Show Champion | EP.460]]></title>
+        <id>https://tv.naver.com/v/31480960</id>
+        <link href="https://tv.naver.com/v/31480960"/>
+        <updated>2022-12-09T12:36:54.361Z</updated>
+        <content type="html"><![CDATA[05:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] P1harmony THEO - Back Down (피원하모니 테오 - 백 다운) | Show Champion | EP.460]]></title>
         <id>https://tv.naver.com/v/31430183</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31420979"/>
         <updated>2022-12-07T11:16:12.225Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[woo!ah! - Rollercoaster (우아! - 롤러코스터)]]></title>
-        <id>https://tv.naver.com/v/31420832</id>
-        <link href="https://tv.naver.com/v/31420832"/>
-        <updated>2022-12-07T10:20:41.215Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
