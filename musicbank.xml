@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-12-09T09:19:51.995Z</updated>
+    <updated>2022-12-09T10:20:52.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Birthday - Red Velvet | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31483129</id>
+        <link href="https://tv.naver.com/v/31483129"/>
+        <updated>2022-12-09T10:20:04.882Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼음땡(Freeze Tag) - TO1 | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482934</id>
+        <link href="https://tv.naver.com/v/31482934"/>
+        <updated>2022-12-09T10:20:04.887Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheshire - ITZY | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482797</id>
+        <link href="https://tv.naver.com/v/31482797"/>
+        <updated>2022-12-09T10:20:04.887Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back Down - P1Harmony | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482712</id>
+        <link href="https://tv.naver.com/v/31482712"/>
+        <updated>2022-12-09T10:20:04.894Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollercoaster - woo!ah! (우아!) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482707</id>
+        <link href="https://tv.naver.com/v/31482707"/>
+        <updated>2022-12-09T10:20:04.899Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The One - DRIPPIN (드리핀) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482535</id>
+        <link href="https://tv.naver.com/v/31482535"/>
+        <updated>2022-12-09T10:20:04.899Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragon(飛上) - TEMPEST(템페스트) | KBS 221209 방송]]></title>
         <id>https://tv.naver.com/v/31482271</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/31285289"/>
         <updated>2022-12-02T09:17:33.499Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAGABOND - TRENDZ(트렌드지) | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31285288</id>
-        <link href="https://tv.naver.com/v/31285288"/>
-        <updated>2022-12-02T09:17:33.501Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fight Inside - AIMERS | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31285145</id>
-        <link href="https://tv.naver.com/v/31285145"/>
-        <updated>2022-12-02T09:17:33.513Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higher - FIFTY FIFTY(피프티 피프티) | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31284509</id>
-        <link href="https://tv.naver.com/v/31284509"/>
-        <updated>2022-12-02T09:17:33.517Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back In Vogue - AleXa (알렉사) | KBS 221202 방송]]></title>
-        <id>https://tv.naver.com/v/31284317</id>
-        <link href="https://tv.naver.com/v/31284317"/>
-        <updated>2022-12-02T09:17:33.518Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selfish - 유아 | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31088250</id>
-        <link href="https://tv.naver.com/v/31088250"/>
-        <updated>2022-11-25T10:21:05.504Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tap Tap - VERIVERY | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31087797</id>
-        <link href="https://tv.naver.com/v/31087797"/>
-        <updated>2022-11-25T10:21:05.504Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
