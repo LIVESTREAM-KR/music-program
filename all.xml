@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-09T07:17:22.907Z</updated>
+    <updated>2022-12-09T08:24:05.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221202 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] ITZY.zip 📂 DALLA DALLA(달라달라)부터 Cheshire까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31434983</id>
+        <link href="https://tv.naver.com/v/31434983"/>
+        <updated>2022-12-09T08:23:21.890Z</updated>
+        <content type="html"><![CDATA[32:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] Red Velvet.zip 📂 Happiness(행복)부터 Birthday까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/31406603</id>
         <link href="https://tv.naver.com/v/31406603"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/31304664"/>
         <updated>2022-12-03T09:16:59.349Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KARA Kang Ji Young - WHEN I MOVE(카라 강지영 - 웬 아이 무브) FanCam | Show! MusicCore | MBC221203방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31304663</id>
-        <link href="https://tv.naver.com/v/31304663"/>
-        <updated>2022-12-03T09:16:59.350Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KARA - WHEN I MOVE | SBS 221204 방송 (인기가요)]]></title>
