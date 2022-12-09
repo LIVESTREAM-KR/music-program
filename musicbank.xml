@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2022-12-09T08:24:05.644Z</updated>
+    <updated>2022-12-09T09:19:51.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dragon(飛上) - TEMPEST(템페스트) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482271</id>
+        <link href="https://tv.naver.com/v/31482271"/>
+        <updated>2022-12-09T09:19:03.030Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taste The Feeling - TEMPEST(템페스트) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482268</id>
+        <link href="https://tv.naver.com/v/31482268"/>
+        <updated>2022-12-09T09:19:03.030Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Draw(드로우) - ICHILLIN’ (아이칠린) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482146</id>
+        <link href="https://tv.naver.com/v/31482146"/>
+        <updated>2022-12-09T09:19:03.030Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31482136</id>
+        <link href="https://tv.naver.com/v/31482136"/>
+        <updated>2022-12-09T09:19:03.030Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VAGABOND - TRENDZ(트렌드지) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481832</id>
+        <link href="https://tv.naver.com/v/31481832"/>
+        <updated>2022-12-09T09:19:03.033Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 같이 걸어요 - 하동연 | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481800</id>
+        <link href="https://tv.naver.com/v/31481800"/>
+        <updated>2022-12-09T09:19:03.033Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay w!th me - IRRIS (아이리스) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481464</id>
+        <link href="https://tv.naver.com/v/31481464"/>
+        <updated>2022-12-09T09:19:03.034Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루하루 - WeNU(위앤유) | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481349</id>
+        <link href="https://tv.naver.com/v/31481349"/>
+        <updated>2022-12-09T09:19:03.034Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fight Inside - AIMERS | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481316</id>
+        <link href="https://tv.naver.com/v/31481316"/>
+        <updated>2022-12-09T09:19:03.034Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올드스쿨 (Old School) - NTX | KBS 221209 방송]]></title>
+        <id>https://tv.naver.com/v/31481147</id>
+        <link href="https://tv.naver.com/v/31481147"/>
+        <updated>2022-12-09T09:19:03.037Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러브티콘 (♡TiCON) - 첫사랑(CSR) | KBS 221202 방송]]></title>
         <id>https://tv.naver.com/v/31286189</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/31087797"/>
         <updated>2022-11-25T10:21:05.504Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사라지고 있어 (Last Scene) - 첸 (CHEN) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31087607</id>
-        <link href="https://tv.naver.com/v/31087607"/>
-        <updated>2022-11-25T10:21:05.516Z</updated>
-        <content type="html"><![CDATA[04:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blaze - 김종현(JR) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31087605</id>
-        <link href="https://tv.naver.com/v/31087605"/>
-        <updated>2022-11-25T10:21:05.525Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virus - VICTON(빅톤) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31087603</id>
-        <link href="https://tv.naver.com/v/31087603"/>
-        <updated>2022-11-25T10:21:05.526Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIMBO! (넘어와) - 네이처(NATURE) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31087312</id>
-        <link href="https://tv.naver.com/v/31087312"/>
-        <updated>2022-11-25T10:21:05.526Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼음 땡(Freeze Tag) - TO1 | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31087107</id>
-        <link href="https://tv.naver.com/v/31087107"/>
-        <updated>2022-11-25T10:21:05.526Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rollercoaster - woo!ah! (우아!) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31087103</id>
-        <link href="https://tv.naver.com/v/31087103"/>
-        <updated>2022-11-25T10:21:05.526Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The One - DRIPPIN (드리핀) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31086777</id>
-        <link href="https://tv.naver.com/v/31086777"/>
-        <updated>2022-11-25T09:19:22.175Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon(飛上) - TEMPEST(템페스트) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31086741</id>
-        <link href="https://tv.naver.com/v/31086741"/>
-        <updated>2022-11-25T09:19:22.178Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higher - FIFTY FIFTY(피프티 피프티) | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31086731</id>
-        <link href="https://tv.naver.com/v/31086731"/>
-        <updated>2022-11-25T09:19:22.180Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hair Cut - Xdinary Heroes | KBS 221125 방송]]></title>
-        <id>https://tv.naver.com/v/31086571</id>
-        <link href="https://tv.naver.com/v/31086571"/>
-        <updated>2022-11-25T09:19:22.184Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
