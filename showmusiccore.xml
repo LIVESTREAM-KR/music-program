@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-10T11:18:20.769Z</updated>
+    <updated>2022-12-10T12:32:43.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Red Velvet SEULGI - Birthday(레드벨벳 슬기 - 벌스데이) FanCam | Show! MusicCore | MBC221210방송]]></title>
+        <id>https://tv.naver.com/v/31500593</id>
+        <link href="https://tv.naver.com/v/31500593"/>
+        <updated>2022-12-10T09:16:45.096Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] CSR – ♡TiCON(첫사랑 - 러브티콘) FanCam | Show! MusicCore | MBC221210방송]]></title>
         <id>https://tv.naver.com/v/31500596</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] Red Velvet SEULGI - Birthday(레드벨벳 슬기 - 벌스데이) FanCam | Show! MusicCore | MBC221210방송]]></title>
-        <id>https://tv.naver.com/v/31500593</id>
-        <link href="https://tv.naver.com/v/31500593"/>
-        <updated>2022-12-10T09:16:45.096Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
+        <title type="html"><![CDATA[[예능연구소] ITZY RYUJIN  - Cheshire(있지 류진 - 체셔) FanCam | Show! MusicCore | MBC221210방송]]></title>
+        <id>https://tv.naver.com/v/31500578</id>
+        <link href="https://tv.naver.com/v/31500578"/>
+        <updated>2022-12-10T09:16:45.104Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TEMPEST – Dragon (飛上)(템페스트 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221210방송]]></title>
@@ -32,13 +39,6 @@
         <link href="https://tv.naver.com/v/31500579"/>
         <updated>2022-12-10T09:16:45.104Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY RYUJIN  - Cheshire(있지 류진 - 체셔) FanCam | Show! MusicCore | MBC221210방송]]></title>
-        <id>https://tv.naver.com/v/31500578</id>
-        <link href="https://tv.naver.com/v/31500578"/>
-        <updated>2022-12-10T09:16:45.104Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ITZY CHAERYEONG - Cheshire(있지 채령 - 체셔) FanCam | Show! MusicCore | MBC221210방송]]></title>
