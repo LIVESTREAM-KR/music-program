@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-10T12:32:44.015Z</updated>
+    <updated>2022-12-10T13:25:39.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Birthday - Red Velvet | KBS 221209 방송 (뮤직뱅크)]]></title>
@@ -215,13 +215,6 @@
         <content type="html"><![CDATA[03:58]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] Red Velvet SEULGI - Birthday(레드벨벳 슬기 - 벌스데이) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500593</id>
-        <link href="https://tv.naver.com/v/31500593"/>
-        <updated>2022-12-10T09:16:45.096Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] CSR – ♡TiCON(첫사랑 - 러브티콘) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/31500596</id>
         <link href="https://tv.naver.com/v/31500596"/>
@@ -236,11 +229,11 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY RYUJIN  - Cheshire(있지 류진 - 체셔) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500578</id>
-        <link href="https://tv.naver.com/v/31500578"/>
-        <updated>2022-12-10T09:16:45.104Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
+        <title type="html"><![CDATA[[예능연구소] Red Velvet SEULGI - Birthday(레드벨벳 슬기 - 벌스데이) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31500593</id>
+        <link href="https://tv.naver.com/v/31500593"/>
+        <updated>2022-12-10T09:16:45.096Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TEMPEST – Dragon (飛上)(템페스트 - 드래곤(비상)) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
@@ -248,6 +241,13 @@
         <link href="https://tv.naver.com/v/31500579"/>
         <updated>2022-12-10T09:16:45.104Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ITZY RYUJIN  - Cheshire(있지 류진 - 체셔) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31500578</id>
+        <link href="https://tv.naver.com/v/31500578"/>
+        <updated>2022-12-10T09:16:45.104Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ITZY CHAERYEONG - Cheshire(있지 채령 - 체셔) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
@@ -1279,7 +1279,7 @@
         <content type="html"><![CDATA[00:56]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예고] 대한민국 R&B 대디 🔥아티스트 김조한🔥 우승을 위한 반칙까지?!  | KBS 221210 방송 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[[예고] 대한민국 R&B 대디 🔥아티스트 김조한🔥 우승을 위한 반칙까지?!  | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/31503318</id>
         <link href="https://tv.naver.com/v/31503318"/>
         <updated>2022-12-10T12:32:37.331Z</updated>
