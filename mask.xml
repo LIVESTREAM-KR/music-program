@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2022-12-12T12:36:50.684Z</updated>
+    <updated>2022-12-12T13:27:20.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] H.O.T. 이재원 3R 리허설 무대 영상 - 그 아픔까지 사랑한 거야, MBC 221211 방송]]></title>
+        <id>https://tv.naver.com/v/31550193</id>
+        <link href="https://tv.naver.com/v/31550193"/>
+        <updated>2022-12-12T13:27:20.048Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] (여자)아이들 찐 팬💕 STAYC 윤의 미방분 댄스 개인기 공개!, MBC 221211 방송]]></title>
+        <id>https://tv.naver.com/v/31550192</id>
+        <link href="https://tv.naver.com/v/31550192"/>
+        <updated>2022-12-12T13:27:20.049Z</updated>
+        <content type="html"><![CDATA[01:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜뭘 좋아하실지 몰라 다 준비했습니다. 모두가 탐내는 최강 라인업!＞ 복면가왕 384회 예고, MBC 221218 방송]]></title>
         <id>https://tv.naver.com/v/31519883</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31322944"/>
         <updated>2022-12-04T10:19:07.998Z</updated>
         <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['평양냉면'의 정체는 대한민국 1호 귀순 배우 겸 가수 김혜영!, MBC 221204 방송]]></title>
-        <id>https://tv.naver.com/v/31322852</id>
-        <link href="https://tv.naver.com/v/31322852"/>
-        <updated>2022-12-04T10:19:08.001Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고기국수' & '평양냉면'의 결정적 힌트 제공✨ 두 사람의 어릴 적 사진 공개!, MBC 221204 방송]]></title>
-        <id>https://tv.naver.com/v/31322597</id>
-        <link href="https://tv.naver.com/v/31322597"/>
-        <updated>2022-12-04T10:19:08.004Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
     </entry>
 </feed>
