@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2022-12-12T06:24:17.728Z</updated>
+    <updated>2022-12-12T07:18:26.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 1년 동안 무얼 했느냐 「K-POP」🙏🏻 2022 쇼챔피언 연말 결산♥]]></title>
+        <id>https://tv.naver.com/v/31538443</id>
+        <link href="https://tv.naver.com/v/31538443"/>
+        <updated>2022-12-12T07:18:10.910Z</updated>
+        <content type="html"><![CDATA[01:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[12월 1주차 ♥쇼챔피언♡ MC 모음.zip (CIX 현석&배진영&승훈) | Show Champion | EP.460]]></title>
         <id>https://tv.naver.com/v/31480960</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31421127"/>
         <updated>2022-12-07T11:16:12.224Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] P1Harmony - Back Down (피원하모니 - 백 다운)]]></title>
-        <id>https://tv.naver.com/v/31420979</id>
-        <link href="https://tv.naver.com/v/31420979"/>
-        <updated>2022-12-07T11:16:12.225Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
