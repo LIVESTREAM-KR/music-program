@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-12T05:17:47.934Z</updated>
+    <updated>2022-12-12T06:24:17.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] MINHO - Chase(민호 - 놓아줘) Close-up Cam | Show! MusicCore | MBC221210방송]]></title>
+        <id>https://tv.naver.com/v/31536174</id>
+        <link href="https://tv.naver.com/v/31536174"/>
+        <updated>2022-12-12T06:23:42.251Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] Jeong Dong Won - Baennori(정동원 – 뱃놀이) Close-up Cam | Show! MusicCore | MBC221210방송]]></title>
+        <id>https://tv.naver.com/v/31535964</id>
+        <link href="https://tv.naver.com/v/31535964"/>
+        <updated>2022-12-12T06:23:42.255Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] CSR – ♡TiCON(첫사랑 - 러브티콘) FanCam | Show! MusicCore | MBC221210방송]]></title>
         <id>https://tv.naver.com/v/31500596</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31499516"/>
         <updated>2022-12-10T08:25:25.627Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀 - 더 원 (DRIPPIN - The One), MBC 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31499439</id>
-        <link href="https://tv.naver.com/v/31499439"/>
-        <updated>2022-12-10T08:25:25.627Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러(Kep1er) X 디케이지(DKZ) in 코노돌🎉 - (빅뱅 - FANTASTIC BABY & 뱅뱅뱅, 전람회 - 취중진담), MBC 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31499362</id>
-        <link href="https://tv.naver.com/v/31499362"/>
-        <updated>2022-12-10T08:25:25.630Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
