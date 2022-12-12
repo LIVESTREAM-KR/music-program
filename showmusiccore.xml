@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-12T08:25:04.263Z</updated>
+    <updated>2022-12-12T09:19:10.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 민주 X 리노(민호), 12월 둘째 주 음악중심 MC 컷 모음!, MBC 221210 방송]]></title>
+        <id>https://tv.naver.com/v/31542849</id>
+        <link href="https://tv.naver.com/v/31542849"/>
+        <updated>2022-12-12T09:18:32.002Z</updated>
+        <content type="html"><![CDATA[09:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최애직캠] MINHO - Chase(민호 - 놓아줘) Close-up Cam | Show! MusicCore | MBC221210방송]]></title>
         <id>https://tv.naver.com/v/31536174</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31499517"/>
         <updated>2022-12-10T08:25:25.627Z</updated>
         <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지 - 체셔 (ITZY - Cheshire), MBC 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31499516</id>
-        <link href="https://tv.naver.com/v/31499516"/>
-        <updated>2022-12-10T08:25:25.627Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
