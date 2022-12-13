@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-13T05:20:33.098Z</updated>
+    <updated>2022-12-13T06:24:28.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet WENDY - Birthday(레드벨벳 웬디 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221210방송]]></title>
+        <id>https://tv.naver.com/v/31568245</id>
+        <link href="https://tv.naver.com/v/31568245"/>
+        <updated>2022-12-13T06:23:53.977Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet IRENE - Birthday(레드벨벳 아이린 - 벌스데이) Close-up Cam | Show! MusicCore | MBC221210방송]]></title>
+        <id>https://tv.naver.com/v/31568244</id>
+        <link href="https://tv.naver.com/v/31568244"/>
+        <updated>2022-12-13T06:23:53.979Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ITZY YUNA - Cheshire(있지 유나 - 체셔) Close-up Cam | Show! MusicCore | MBC221210방송]]></title>
         <id>https://tv.naver.com/v/31567989</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31499832"/>
         <updated>2022-12-10T08:25:25.617Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민호 - 놓아줘 (MINHO - Chase), MBC 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31499609</id>
-        <link href="https://tv.naver.com/v/31499609"/>
-        <updated>2022-12-10T08:25:25.618Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민호(feat. 림 킴) - 워터폴 (MINHO - Waterfall (feat. Lim Kim)), MBC 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31499608</id>
-        <link href="https://tv.naver.com/v/31499608"/>
-        <updated>2022-12-10T08:25:25.627Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
     </entry>
 </feed>
