@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-13T04:26:40.280Z</updated>
+    <updated>2022-12-13T05:20:33.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ITZY YUNA - Cheshire(있지 유나 - 체셔) Close-up Cam | Show! MusicCore | MBC221210방송]]></title>
+        <id>https://tv.naver.com/v/31567989</id>
+        <link href="https://tv.naver.com/v/31567989"/>
+        <updated>2022-12-13T05:19:54.613Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ITZY RYUJIN - Cheshire(있지 류진 - 체셔) Close-up Cam | Show! MusicCore | MBC221210방송]]></title>
+        <id>https://tv.naver.com/v/31567986</id>
+        <link href="https://tv.naver.com/v/31567986"/>
+        <updated>2022-12-13T05:19:54.613Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 민주 X 리노(민호), 12월 둘째 주 음악중심 MC 컷 모음!, MBC 221210 방송]]></title>
         <id>https://tv.naver.com/v/31542849</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31499608"/>
         <updated>2022-12-10T08:25:25.627Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레드벨벳 - 벌스데이 (Red Velvet - Birthday), MBC 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31499595</id>
-        <link href="https://tv.naver.com/v/31499595"/>
-        <updated>2022-12-10T08:25:25.627Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니엘 - 궤도 (NIEL - In your Space), MBC 221210]]></title>
-        <id>https://tv.naver.com/v/31499517</id>
-        <link href="https://tv.naver.com/v/31499517"/>
-        <updated>2022-12-10T08:25:25.627Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
 </feed>
