@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-17T07:15:27.562Z</updated>
+    <updated>2022-12-17T08:25:26.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Birthday - Red Velvet | KBS 221209 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,76 @@
         <content type="html"><![CDATA[03:58]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DREAM CHENLE - Graduation(엔시티 드림 천러 - 그레듀에이션) FanCam | Show! MusicCore | MBC221217방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31685832</id>
+        <link href="https://tv.naver.com/v/31685832"/>
+        <updated>2022-12-17T08:24:44.336Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DREAM JENO - Graduation(엔시티 드림 제노 - 그레듀에이션) FanCam | Show! MusicCore | MBC221217방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31685831</id>
+        <link href="https://tv.naver.com/v/31685831"/>
+        <updated>2022-12-17T08:24:44.336Z</updated>
+        <content type="html"><![CDATA[04:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DREAM – Candy(엔시티 드림 - 캔디) FanCam | Show! MusicCore | MBC221217방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31685696</id>
+        <link href="https://tv.naver.com/v/31685696"/>
+        <updated>2022-12-17T08:24:44.337Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 드림 - 캔디 (NCT DREAM - Candy), MBC 221217 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31685340</id>
+        <link href="https://tv.naver.com/v/31685340"/>
+        <updated>2022-12-17T08:24:44.338Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 드림 - 그레듀에이션 (NCT DREAM - Graduation), MBC 221217 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31685271</id>
+        <link href="https://tv.naver.com/v/31685271"/>
+        <updated>2022-12-17T08:24:44.340Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSG워너비(4FIRE) - 우리의 계절 (WSG WANNABE(4FIRE) - Our Season), MBC 221217 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31685112</id>
+        <link href="https://tv.naver.com/v/31685112"/>
+        <updated>2022-12-17T08:24:44.341Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티오원 - 얼음 땡 (TO1 - Freeze Tag), MBC 221217 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31685053</id>
+        <link href="https://tv.naver.com/v/31685053"/>
+        <updated>2022-12-17T08:24:44.342Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSG워너비(4FIRE) - 보고싶었어 (WSG WANNABE(4FIRE) - I Missed You), MBC 221217 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31685031</id>
+        <link href="https://tv.naver.com/v/31685031"/>
+        <updated>2022-12-17T08:24:44.345Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅톤(VICTON) in 코노돌🎉 - (아이유 - 미리메리 크리스마스(feat. 천둥), 비스트 - 숨), MBC 221217 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31684948</id>
+        <link href="https://tv.naver.com/v/31684948"/>
+        <updated>2022-12-17T08:24:44.346Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장민호 - 풍악을 울려라! (JANG MIN HO - Play the music), MBC 221217 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/31684857</id>
+        <link href="https://tv.naver.com/v/31684857"/>
+        <updated>2022-12-17T08:24:44.347Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[드리핀 - 더 원 (DRIPPIN - The One), MBC 221217 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/31684703</id>
         <link href="https://tv.naver.com/v/31684703"/>
@@ -353,76 +423,6 @@
         <link href="https://tv.naver.com/v/31500579"/>
         <updated>2022-12-10T09:16:45.104Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY RYUJIN  - Cheshire(있지 류진 - 체셔) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500578</id>
-        <link href="https://tv.naver.com/v/31500578"/>
-        <updated>2022-12-10T09:16:45.104Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY CHAERYEONG - Cheshire(있지 채령 - 체셔) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500506</id>
-        <link href="https://tv.naver.com/v/31500506"/>
-        <updated>2022-12-10T09:16:45.104Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY LIA - Cheshire(있지 리아 - 체셔) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500505</id>
-        <link href="https://tv.naver.com/v/31500505"/>
-        <updated>2022-12-10T09:16:45.131Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY YEJI - Cheshire(있지 예지 - 체셔) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500504</id>
-        <link href="https://tv.naver.com/v/31500504"/>
-        <updated>2022-12-10T09:16:45.131Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY – Cheshire(있지 - 체셔) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500503</id>
-        <link href="https://tv.naver.com/v/31500503"/>
-        <updated>2022-12-10T09:16:45.131Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY YUNA  - Cheshire(있지 유나 - 체셔) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500361</id>
-        <link href="https://tv.naver.com/v/31500361"/>
-        <updated>2022-12-10T09:16:45.137Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Red Velvet YERI - Birthday(레드벨벳 예리 - 벌스데이) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500360</id>
-        <link href="https://tv.naver.com/v/31500360"/>
-        <updated>2022-12-10T09:16:45.137Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Red Velvet IRENE - Birthday(레드벨벳 아이린 - 벌스데이) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500339</id>
-        <link href="https://tv.naver.com/v/31500339"/>
-        <updated>2022-12-10T09:16:45.138Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Red Velvet JOY  - Birthday(레드벨벳 조이 - 벌스데이) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500263</id>
-        <link href="https://tv.naver.com/v/31500263"/>
-        <updated>2022-12-10T09:16:45.140Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Red Velvet WENDY  - Birthday(레드벨벳 웬디 - 벌스데이) FanCam | Show! MusicCore | MBC221210방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/31500262</id>
-        <link href="https://tv.naver.com/v/31500262"/>
-        <updated>2022-12-10T09:16:45.147Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송 (인기가요)]]></title>
