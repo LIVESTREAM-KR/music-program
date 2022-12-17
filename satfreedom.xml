@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-12-17T09:16:29.411Z</updated>
+    <updated>2022-12-17T10:17:51.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김조한의 계보를 잇고 있는 R&B 세자(?) 환희, 자신감이 있는 이유? | KBS 221217 방송]]></title>
+        <id>https://tv.naver.com/v/31687453</id>
+        <link href="https://tv.naver.com/v/31687453"/>
+        <updated>2022-12-17T10:17:43.931Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리가 진정한 김조한 키즈다! 천재 뮤지션 UV🤠 오늘의 목표는?! | KBS 221217 방송]]></title>
+        <id>https://tv.naver.com/v/31687435</id>
+        <link href="https://tv.naver.com/v/31687435"/>
+        <updated>2022-12-17T10:17:43.932Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그 시절 우리의 밤을 수놓은 목소리, 김조한 키즈들로 가득한 오늘의 라인업🎙️ | KBS 221217 방송]]></title>
+        <id>https://tv.naver.com/v/31687433</id>
+        <link href="https://tv.naver.com/v/31687433"/>
+        <updated>2022-12-17T10:17:43.935Z</updated>
+        <content type="html"><![CDATA[01:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패티김의 팬클럽 회원! '패티김 포에버'로 활동 중인 16세 소년 팬?💟  | KBS 221210 방송]]></title>
         <id>https://tv.naver.com/v/31503398</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/31501917"/>
         <updated>2022-12-10T10:19:16.590Z</updated>
         <content type="html"><![CDATA[01:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 라인업! 뮤지컬 디바✨ 옥주현 합류! 모두가 십년감수한 이유는?! | KBS 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31501916</id>
-        <link href="https://tv.naver.com/v/31501916"/>
-        <updated>2022-12-10T10:19:16.605Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2부 우승자 황치열, 꽃다발 증정식💐 잊을 수 없었던 최강 반칙! | KBS 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31501915</id>
-        <link href="https://tv.naver.com/v/31501915"/>
-        <updated>2022-12-10T10:19:16.606Z</updated>
-        <content type="html"><![CDATA[02:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후배들에게 감동을 주는 영원한 전설 패티 김! 여운 가득했던 무대💓 | KBS 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31501845</id>
-        <link href="https://tv.naver.com/v/31501845"/>
-        <updated>2022-12-10T10:19:16.609Z</updated>
-        <content type="html"><![CDATA[01:03]]></content>
     </entry>
 </feed>

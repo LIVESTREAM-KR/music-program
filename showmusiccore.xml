@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-17T09:16:29.415Z</updated>
+    <updated>2022-12-17T10:17:51.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DREAM JENO - Candy(엔시티 드림 제노 - 캔디) FanCam | Show! MusicCore | MBC221217방송]]></title>
+        <id>https://tv.naver.com/v/31686662</id>
+        <link href="https://tv.naver.com/v/31686662"/>
+        <updated>2022-12-17T10:17:11.045Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DREAM HAECHAN - Candy(엔시티 드림 해찬 - 캔디) FanCam | Show! MusicCore | MBC221217방송]]></title>
         <id>https://tv.naver.com/v/31686505</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31685031"/>
         <updated>2022-12-17T08:24:44.345Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤(VICTON) in 코노돌🎉 - (아이유 - 미리메리 크리스마스(feat. 천둥), 비스트 - 숨), MBC 221217 방송]]></title>
-        <id>https://tv.naver.com/v/31684948</id>
-        <link href="https://tv.naver.com/v/31684948"/>
-        <updated>2022-12-17T08:24:44.346Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
 </feed>
