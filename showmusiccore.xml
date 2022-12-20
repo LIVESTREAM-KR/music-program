@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-20T02:39:37.321Z</updated>
+    <updated>2022-12-20T03:19:49.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM MARK - Candy(엔시티 드림 마크 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
+        <id>https://tv.naver.com/v/31746131</id>
+        <link href="https://tv.naver.com/v/31746131"/>
+        <updated>2022-12-20T03:19:09.266Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JENO - Candy(엔시티 드림 제노 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
+        <id>https://tv.naver.com/v/31746129</id>
+        <link href="https://tv.naver.com/v/31746129"/>
+        <updated>2022-12-20T03:19:09.266Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN - Candy(엔시티 드림 재민 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
+        <id>https://tv.naver.com/v/31746012</id>
+        <link href="https://tv.naver.com/v/31746012"/>
+        <updated>2022-12-20T03:19:09.277Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM CHENLE - Candy(엔시티 드림 천러 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
+        <id>https://tv.naver.com/v/31745982</id>
+        <link href="https://tv.naver.com/v/31745982"/>
+        <updated>2022-12-20T03:19:09.277Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DREAM HAECHAN - Candy(엔시티 드림 해찬 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
         <id>https://tv.naver.com/v/31745745</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/31685926"/>
         <updated>2022-12-17T09:15:47.188Z</updated>
         <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM CHENLE - Graduation(엔시티 드림 천러 - 그레듀에이션) FanCam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31685832</id>
-        <link href="https://tv.naver.com/v/31685832"/>
-        <updated>2022-12-17T08:24:44.336Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JENO - Graduation(엔시티 드림 제노 - 그레듀에이션) FanCam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31685831</id>
-        <link href="https://tv.naver.com/v/31685831"/>
-        <updated>2022-12-17T08:24:44.336Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM – Candy(엔시티 드림 - 캔디) FanCam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31685696</id>
-        <link href="https://tv.naver.com/v/31685696"/>
-        <updated>2022-12-17T08:24:44.337Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 드림 - 캔디 (NCT DREAM - Candy), MBC 221217 방송]]></title>
-        <id>https://tv.naver.com/v/31685340</id>
-        <link href="https://tv.naver.com/v/31685340"/>
-        <updated>2022-12-17T08:24:44.338Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
     </entry>
 </feed>
