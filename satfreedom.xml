@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2022-12-20T08:26:33.242Z</updated>
+    <updated>2022-12-20T09:18:50.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[티저] 연말 최대의 SHOW🎙 불후의 명곡 2022 왕중왕전 - KING of KINGS | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/31757440</id>
+        <link href="https://tv.naver.com/v/31757440"/>
+        <updated>2022-12-20T09:18:43.215Z</updated>
+        <content type="html"><![CDATA[01:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4K 직캠] 마독스 - 사랑이 늦어서 미안해 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/31688740</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31503395"/>
         <updated>2022-12-10T12:32:37.330Z</updated>
         <content type="html"><![CDATA[00:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 대한민국 R&B 대디 🔥아티스트 김조한🔥 우승을 위한 반칙까지?!  | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/31503318</id>
-        <link href="https://tv.naver.com/v/31503318"/>
-        <updated>2022-12-10T12:32:37.331Z</updated>
-        <content type="html"><![CDATA[01:02]]></content>
     </entry>
 </feed>
