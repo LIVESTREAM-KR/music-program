@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-24T08:21:59.056Z</updated>
+    <updated>2022-12-24T09:16:18.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -146,6 +146,34 @@
         <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] KIM MINJU  - Odd Imagination(김민주 - 엉뚱한 상상) FanCam | Show! MusicCore | MBC221224방송]]></title>
+        <id>https://tv.naver.com/v/31812796</id>
+        <link href="https://tv.naver.com/v/31812796"/>
+        <updated>2022-12-24T09:15:39.047Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] JUNGWOO - Odd Imagination(정우 - 엉뚱한 상상) FanCam | Show! MusicCore | MBC221224방송]]></title>
+        <id>https://tv.naver.com/v/31812252</id>
+        <link href="https://tv.naver.com/v/31812252"/>
+        <updated>2022-12-24T09:15:39.048Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Lee Know - Odd Imagination(리노 - 엉뚱한 상상) FanCam | Show! MusicCore | MBC221224방송]]></title>
+        <id>https://tv.naver.com/v/31808205</id>
+        <link href="https://tv.naver.com/v/31808205"/>
+        <updated>2022-12-24T09:15:39.050Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] JUNGWOO X KIM MINJU X Lee Know–Odd Imagination(우주호–엉뚱한 상상)FanCam|Show! MusicCore|MBC221224방]]></title>
+        <id>https://tv.naver.com/v/31808204</id>
+        <link href="https://tv.naver.com/v/31808204"/>
+        <updated>2022-12-24T09:15:39.051Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DREAM MARK - Candy(엔시티 드림 마크 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
         <id>https://tv.naver.com/v/31746131</id>
         <link href="https://tv.naver.com/v/31746131"/>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/31744996"/>
         <updated>2022-12-20T02:38:56.152Z</updated>
         <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM RENJUN - Candy(엔시티 드림 런쥔 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31744992</id>
-        <link href="https://tv.naver.com/v/31744992"/>
-        <updated>2022-12-20T02:38:56.154Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 리노(민호), 우주호🚀 12월 셋째 주 음악중심 MC 컷 모음!, MBC 221217 방송]]></title>
-        <id>https://tv.naver.com/v/31725122</id>
-        <link href="https://tv.naver.com/v/31725122"/>
-        <updated>2022-12-19T08:22:38.085Z</updated>
-        <content type="html"><![CDATA[12:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JENO - Candy(엔시티 드림 제노 - 캔디) FanCam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31686662</id>
-        <link href="https://tv.naver.com/v/31686662"/>
-        <updated>2022-12-17T10:17:11.045Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM HAECHAN - Candy(엔시티 드림 해찬 - 캔디) FanCam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31686505</id>
-        <link href="https://tv.naver.com/v/31686505"/>
-        <updated>2022-12-17T09:15:47.154Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>
