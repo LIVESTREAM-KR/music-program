@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2022-12-26T08:22:57.533Z</updated>
+    <updated>2022-12-26T09:17:41.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 민주 X 리노(민호), 우주호🚀 12월 넷째 주 음악중심 MC 컷 모음!, MBC 221224 방송]]></title>
+        <id>https://tv.naver.com/v/31899327</id>
+        <link href="https://tv.naver.com/v/31899327"/>
+        <updated>2022-12-26T09:17:02.558Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 클라씨 - 질러스 (CLASS:y - ZEALOUS), MBC 221210 방송]]></title>
         <id>https://tv.naver.com/v/31863816</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31745745"/>
         <updated>2022-12-20T02:38:56.145Z</updated>
         <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JISUNG - Candy(엔시티 드림 지성 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31744996</id>
-        <link href="https://tv.naver.com/v/31744996"/>
-        <updated>2022-12-20T02:38:56.152Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
     </entry>
 </feed>
