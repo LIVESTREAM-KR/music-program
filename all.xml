@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-29T16:24:34.120Z</updated>
+    <updated>2022-12-29T17:17:19.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Birthday - Red Velvet | KBS 221209 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[02:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 마음이 몽글몽글해지는 크리스마스 선물 같은 목소리🎄 TO1 리더 재윤!, MBC 221225 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/31993374</id>
+        <link href="https://tv.naver.com/v/31993374"/>
+        <updated>2022-12-29T17:17:18.579Z</updated>
+        <content type="html"><![CDATA[07:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[미방분 공개] TO1 재윤의 핫🔥 뜨거운 댄스 개인기 공개✨ ＜1세대~3세대 댄스 메들리＞!, MBC 221225 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/31895628</id>
         <link href="https://tv.naver.com/v/31895628"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/31702501"/>
         <updated>2022-12-18T10:18:06.788Z</updated>
         <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성냥팔이 미소년' VS '리치한 산타언니'의 1라운드 무대 - 내 입술... 따뜻한 커피처럼, MBC 221218 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/31702343</id>
-        <link href="https://tv.naver.com/v/31702343"/>
-        <updated>2022-12-18T10:18:06.788Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
