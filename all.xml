@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-29T17:17:19.190Z</updated>
+    <updated>2022-12-29T18:22:16.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Birthday - Red Velvet | KBS 221209 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,27 @@
         <content type="html"><![CDATA[02:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 뜨겁다 못해 짜릿한 무대🔥 레전드 보컬 그룹 먼데이키즈 출신 임한별!, MBC 221225 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/31993664</id>
+        <link href="https://tv.naver.com/v/31993664"/>
+        <updated>2022-12-29T18:22:16.131Z</updated>
+        <content type="html"><![CDATA[11:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 국가대표 선수 안산도 반한 그 목소리...★ 밴드 루시 보컬 최상엽!, MBC 221225 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/31993624</id>
+        <link href="https://tv.naver.com/v/31993624"/>
+        <updated>2022-12-29T18:22:16.133Z</updated>
+        <content type="html"><![CDATA[08:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 멋진 배우가 되어 돌아온 캐롤 ＜러브송＞의 주인공 7공주 막내 이영유!, MBC 221225 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/31993592</id>
+        <link href="https://tv.naver.com/v/31993592"/>
+        <updated>2022-12-29T18:22:16.134Z</updated>
+        <content type="html"><![CDATA[07:55]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 마음이 몽글몽글해지는 크리스마스 선물 같은 목소리🎄 TO1 리더 재윤!, MBC 221225 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/31993374</id>
         <link href="https://tv.naver.com/v/31993374"/>
@@ -1662,26 +1683,5 @@
         <link href="https://tv.naver.com/v/31702975"/>
         <updated>2022-12-18T11:14:25.089Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['리치한 산타언니'의 정체는 브라운 아이드 걸스 래퍼 미료!, MBC 221218 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/31702863</id>
-        <link href="https://tv.naver.com/v/31702863"/>
-        <updated>2022-12-18T11:14:25.091Z</updated>
-        <content type="html"><![CDATA[02:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사투리 랩! 전라도ver! 리치한 산타언니의 개인기!(feat.박우진의 경상도ver 랩!), MBC 221218 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/31702686</id>
-        <link href="https://tv.naver.com/v/31702686"/>
-        <updated>2022-12-18T11:14:25.110Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주짓수 배우기 전과 후 상황극! 성냥팔이 미소년의 개인기!, MBC 221218 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/31702501</id>
-        <link href="https://tv.naver.com/v/31702501"/>
-        <updated>2022-12-18T10:18:06.788Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
     </entry>
 </feed>
