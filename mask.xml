@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-01-01T11:17:19.994Z</updated>
+    <updated>2023-01-01T12:32:07.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['음악대장' 하현우의 무대 - Lazenca, Save Us, MBC 230101 방송]]></title>
+        <id>https://tv.naver.com/v/32039325</id>
+        <link href="https://tv.naver.com/v/32039325"/>
+        <updated>2023-01-01T12:32:06.605Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜대박 기운 물어온 토끼들의 등장?! 레전드 출동한 황금 라인업✨＞, MBC 230108 방송]]></title>
         <id>https://tv.naver.com/v/32038275</id>
@@ -27,11 +34,18 @@
         <content type="html"><![CDATA[04:18]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['토끼라서 행복해요' 송지은의 무대 - 살다가 한 번쯤, MBC 230101 방송]]></title>
+        <title type="html"><![CDATA['토끼라서 행복해요' 송지은의 무대 - 사랑은 창 밖에 빗물 같아요, MBC 230101 방송]]></title>
         <id>https://tv.naver.com/v/32037908</id>
         <link href="https://tv.naver.com/v/32037908"/>
         <updated>2023-01-01T11:17:19.417Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['겨울 아이' 이무진의 무대 - 살다가 한 번쯤, MBC 230101 방송]]></title>
+        <id>https://tv.naver.com/v/32037544</id>
+        <link href="https://tv.naver.com/v/32037544"/>
+        <updated>2023-01-01T12:32:06.614Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['레드 마우스' 선우정아의 무대 - 순정마초, MBC 230101 방송]]></title>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31837773"/>
         <updated>2022-12-23T05:16:42.187Z</updated>
         <content type="html"><![CDATA[10:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 강렬한 카리스마의 힙합 여제! 브라운 아이드 걸스 미료!, MBC 221218 방송]]></title>
-        <id>https://tv.naver.com/v/31837771</id>
-        <link href="https://tv.naver.com/v/31837771"/>
-        <updated>2022-12-23T05:16:42.188Z</updated>
-        <content type="html"><![CDATA[09:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜크리스마스 밤에 웃게 될 사람은?!＞ 복면가왕 385회 예고, MBC 221225 방송]]></title>
-        <id>https://tv.naver.com/v/31703730</id>
-        <link href="https://tv.naver.com/v/31703730"/>
-        <updated>2022-12-18T12:30:48.771Z</updated>
-        <content type="html"><![CDATA[00:41]]></content>
     </entry>
 </feed>
