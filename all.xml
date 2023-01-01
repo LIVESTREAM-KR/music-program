@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-01T09:17:04.468Z</updated>
+    <updated>2023-01-01T10:18:20.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Birthday - Red Velvet | KBS 221209 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,20 @@
         <content type="html"><![CDATA[05:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['레드 마우스' 선우정아의 무대 - 순정마초, MBC 230101 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32037259</id>
+        <link href="https://tv.naver.com/v/32037259"/>
+        <updated>2023-01-01T10:18:20.276Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['여전사 캣츠걸' 차지연의 무대 - 어떻게 사랑이 그래요, MBC 230101 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32037145</id>
+        <link href="https://tv.naver.com/v/32037145"/>
+        <updated>2023-01-01T10:18:20.276Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 뜨겁다 못해 짜릿한 무대🔥 레전드 보컬 그룹 먼데이키즈 출신 임한별!, MBC 221225 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/31993664</id>
         <link href="https://tv.naver.com/v/31993664"/>
@@ -1669,19 +1683,5 @@
         <link href="https://tv.naver.com/v/31703235"/>
         <updated>2022-12-18T11:14:25.087Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장갑의 걸그룹 커버 댄스 개인기 🎶 woo!ah! 나나&우연과 함께하는 르세라핌 ＜ANTIFRAGILE＞, MBC 221218 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/31703212</id>
-        <link href="https://tv.naver.com/v/31703212"/>
-        <updated>2022-12-18T11:14:25.087Z</updated>
-        <content type="html"><![CDATA[01:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장갑' VS '신이 내린 목도리'의 1라운드 무대 - Happy Together, MBC 221218 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/31702975</id>
-        <link href="https://tv.naver.com/v/31702975"/>
-        <updated>2022-12-18T11:14:25.089Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
