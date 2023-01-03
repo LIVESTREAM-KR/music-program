@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-01-03T07:16:21.505Z</updated>
+    <updated>2023-01-03T08:23:31.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서은광&김기태 - 인연 | KBS 221231 방송]]></title>
+        <id>https://tv.naver.com/v/32085935</id>
+        <link href="https://tv.naver.com/v/32085935"/>
+        <updated>2023-01-03T08:23:19.785Z</updated>
+        <content type="html"><![CDATA[05:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 587회 2022 왕중왕전 2부 우승자 ⭐서은광X김기태⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/32025502</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/31866937</id>
         <link href="https://tv.naver.com/v/31866937"/>
         <updated>2022-12-24T12:30:25.208Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[페이스캠] 조민규(포레스텔라)- MAMA(원곡: EXO) ❤ 불후의 명곡 ❤ 왕중왕전 1부 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/31866822</id>
-        <link href="https://tv.naver.com/v/31866822"/>
-        <updated>2023-01-03T07:16:14.807Z</updated>
         <content type="html"><![CDATA[05:08]]></content>
     </entry>
 </feed>
