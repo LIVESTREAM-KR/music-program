@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-01-04T05:17:10.524Z</updated>
+    <updated>2023-01-04T06:23:29.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가요대제전] IVE WONYOUNG  - LOVE DIVE(아이브 장원영 - 러브 다이브) FanCam | MBC Music Festival | MBC221231방송]]></title>
+        <id>https://tv.naver.com/v/32112573</id>
+        <link href="https://tv.naver.com/v/32112573"/>
+        <updated>2023-01-04T06:22:45.130Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] WOOJUHO.zip 📂 WALK(산책)부터 Odd imagination(엉뚱한 상상)까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/31914433</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31746012"/>
         <updated>2022-12-20T03:19:09.277Z</updated>
         <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM CHENLE - Candy(엔시티 드림 천러 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31745982</id>
-        <link href="https://tv.naver.com/v/31745982"/>
-        <updated>2022-12-20T03:19:09.277Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>
