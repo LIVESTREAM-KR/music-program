@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-01-07T06:21:01.665Z</updated>
+    <updated>2023-01-07T07:19:57.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우아! - 롤러코스터 (woo!ah! - Rollercoaster), MBC 220107 방송]]></title>
+        <id>https://tv.naver.com/v/32198634</id>
+        <link href="https://tv.naver.com/v/32198634"/>
+        <updated>2023-01-07T07:19:10.925Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스페로 - 엔드리스 (Espero - Endless), MBC 220107 방송]]></title>
+        <id>https://tv.naver.com/v/32198556</id>
+        <link href="https://tv.naver.com/v/32198556"/>
+        <updated>2023-01-07T07:19:10.926Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범진 - 우린 한 편의 소설로 남겠죠(이별소설) (BUMJIN - We'll remain a novel), MBC 220107 방송]]></title>
+        <id>https://tv.naver.com/v/32198537</id>
+        <link href="https://tv.naver.com/v/32198537"/>
+        <updated>2023-01-07T07:19:10.929Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일리원 - 별꽃동화 (ILY:1 - Twinkle Twinkle), MBC 220107 방송]]></title>
+        <id>https://tv.naver.com/v/32198287</id>
+        <link href="https://tv.naver.com/v/32198287"/>
+        <updated>2023-01-07T07:19:10.929Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위앤유 - 하루하루 (WeNU - Haru Haru), MBC 230107 방송]]></title>
+        <id>https://tv.naver.com/v/32198206</id>
+        <link href="https://tv.naver.com/v/32198206"/>
+        <updated>2023-01-07T07:19:10.929Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이아영 - 조금 더 일찍 이별할 걸 그랬어 (Lee A Young - Our love was a folly), MBC 220107 방송]]></title>
+        <id>https://tv.naver.com/v/32198117</id>
+        <link href="https://tv.naver.com/v/32198117"/>
+        <updated>2023-01-07T07:19:10.964Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] WOOJUHO.zip 📂 WALK(산책)부터 Odd imagination(엉뚱한 상상)까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/31914433</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/31812252"/>
         <updated>2022-12-24T09:15:39.048Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lee Know - Odd Imagination(리노 - 엉뚱한 상상) FanCam | Show! MusicCore | MBC221224방송]]></title>
-        <id>https://tv.naver.com/v/31808205</id>
-        <link href="https://tv.naver.com/v/31808205"/>
-        <updated>2022-12-24T09:15:39.050Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] JUNGWOO X KIM MINJU X Lee Know–Odd Imagination(우주호–엉뚱한 상상)FanCam|Show! MusicCore|MBC221224방]]></title>
-        <id>https://tv.naver.com/v/31808204</id>
-        <link href="https://tv.naver.com/v/31808204"/>
-        <updated>2022-12-24T09:15:39.051Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM MARK - Candy(엔시티 드림 마크 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31746131</id>
-        <link href="https://tv.naver.com/v/31746131"/>
-        <updated>2022-12-20T03:19:09.266Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JENO - Candy(엔시티 드림 제노 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31746129</id>
-        <link href="https://tv.naver.com/v/31746129"/>
-        <updated>2022-12-20T03:19:09.266Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN - Candy(엔시티 드림 재민 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31746012</id>
-        <link href="https://tv.naver.com/v/31746012"/>
-        <updated>2022-12-20T03:19:09.277Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM CHENLE - Candy(엔시티 드림 천러 - 캔디) Close-up Cam | Show! MusicCore | MBC221217방송]]></title>
-        <id>https://tv.naver.com/v/31745982</id>
-        <link href="https://tv.naver.com/v/31745982"/>
-        <updated>2023-01-07T04:20:58.514Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>
