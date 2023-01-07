@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-01-07T09:16:26.259Z</updated>
+    <updated>2023-01-07T10:18:38.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러블리 비주얼 자매💞 홍지윤&홍주현! 리허설 내내 싸운 이야기?! | KBS 230107 방송]]></title>
+        <id>https://tv.naver.com/v/32201577</id>
+        <link href="https://tv.naver.com/v/32201577"/>
+        <updated>2023-01-07T10:18:30.321Z</updated>
+        <content type="html"><![CDATA[01:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 신년특집🐰 오디션 스타 패밀리 총출동! 오늘의 라인업💟 | KBS 230107 방송]]></title>
+        <id>https://tv.naver.com/v/32201554</id>
+        <link href="https://tv.naver.com/v/32201554"/>
+        <updated>2023-01-07T10:18:30.334Z</updated>
+        <content type="html"><![CDATA[02:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서은광&김기태 - 인연 | KBS 221231 방송]]></title>
         <id>https://tv.naver.com/v/32085935</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32024358"/>
         <updated>2022-12-31T11:13:59.970Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜불후의 명곡 2022 왕중왕전＞ 2부 개막! 1부 포레스텔라의 6연속 우승🌟 | KBS 221231 방송]]></title>
-        <id>https://tv.naver.com/v/32024355</id>
-        <link href="https://tv.naver.com/v/32024355"/>
-        <updated>2022-12-31T11:13:59.972Z</updated>
-        <content type="html"><![CDATA[01:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[페이스캠] 고우림(포레스텔라)- MAMA(원곡: EXO) ❤ 불후의 명곡 ❤ 왕중왕전 1부 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/31866937</id>
-        <link href="https://tv.naver.com/v/31866937"/>
-        <updated>2022-12-24T12:30:25.208Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
     </entry>
 </feed>

@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-01-07T09:16:26.251Z</updated>
+    <updated>2023-01-07T10:18:38.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ MINGI - HALAZIA(에이티즈 민기 - 할라지아) FanCam | Show! MusicCore | MBC230107방송]]></title>
+        <id>https://tv.naver.com/v/32201464</id>
+        <link href="https://tv.naver.com/v/32201464"/>
+        <updated>2023-01-07T10:17:54.342Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ YUNHO - HALAZIA(에이티즈 윤호 - 할라지아) FanCam | Show! MusicCore | MBC230107방송]]></title>
+        <id>https://tv.naver.com/v/32201463</id>
+        <link href="https://tv.naver.com/v/32201463"/>
+        <updated>2023-01-07T10:17:54.343Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ JONGHO - HALAZIA(에이티즈 종호 - 할라지아) FanCam | Show! MusicCore | MBC230107방송]]></title>
+        <id>https://tv.naver.com/v/32201318</id>
+        <link href="https://tv.naver.com/v/32201318"/>
+        <updated>2023-01-07T10:17:54.348Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ WOOYOUNG - HALAZIA(에이티즈 우영 - 할라지아) FanCam | Show! MusicCore | MBC230107방송]]></title>
+        <id>https://tv.naver.com/v/32201303</id>
+        <link href="https://tv.naver.com/v/32201303"/>
+        <updated>2023-01-07T10:17:54.365Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ YEOSANG - HALAZIA(에이티즈 여상 - 할라지아) FanCam | Show! MusicCore | MBC230107방송]]></title>
+        <id>https://tv.naver.com/v/32201302</id>
+        <link href="https://tv.naver.com/v/32201302"/>
+        <updated>2023-01-07T10:17:54.365Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ HONGJOONG - HALAZIA(에이티즈 홍중 - 할라지아) FanCam | Show! MusicCore | MBC230107방송]]></title>
+        <id>https://tv.naver.com/v/32201301</id>
+        <link href="https://tv.naver.com/v/32201301"/>
+        <updated>2023-01-07T10:17:54.368Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ SAN - HALAZIA(에이티즈 산 - 할라지아) FanCam | Show! MusicCore | MBC230107방송]]></title>
+        <id>https://tv.naver.com/v/32201223</id>
+        <link href="https://tv.naver.com/v/32201223"/>
+        <updated>2023-01-07T10:17:54.368Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ SEONGHWA - HALAZIA(에이티즈 성화 - 할라지아) FanCam | Show! MusicCore | MBC230107방송]]></title>
+        <id>https://tv.naver.com/v/32201221</id>
+        <link href="https://tv.naver.com/v/32201221"/>
+        <updated>2023-01-07T10:17:54.378Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ – HALAZIA(에이티즈 - 할라지아) FanCam | Show! MusicCore | MBC230107방송]]></title>
+        <id>https://tv.naver.com/v/32201081</id>
+        <link href="https://tv.naver.com/v/32201081"/>
+        <updated>2023-01-07T10:17:54.385Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] WayV KUN - Phantom (English Ver.)(웨이션브이 쿤 - 팬텀) FanCam | Show! MusicCore | MBC230107방송]]></title>
         <id>https://tv.naver.com/v/32199577</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/32198926"/>
         <updated>2023-01-07T08:21:24.253Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티오원 - 트러블메이커 (TO1 - Troublemaker), MBC 220107 방송]]></title>
-        <id>https://tv.naver.com/v/32198863</id>
-        <link href="https://tv.naver.com/v/32198863"/>
-        <updated>2023-01-07T08:21:24.254Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이층버스 - 사랑이 온거라면 좋겠다 (Double Decker - I Wish This Was Love), MBC 220107 방송]]></title>
-        <id>https://tv.naver.com/v/32198744</id>
-        <link href="https://tv.naver.com/v/32198744"/>
-        <updated>2023-01-07T08:21:24.255Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우아! - 롤러코스터 (woo!ah! - Rollercoaster), MBC 220107 방송]]></title>
-        <id>https://tv.naver.com/v/32198634</id>
-        <link href="https://tv.naver.com/v/32198634"/>
-        <updated>2023-01-07T07:19:10.925Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스페로 - 엔드리스 (Espero - Endless), MBC 220107 방송]]></title>
-        <id>https://tv.naver.com/v/32198556</id>
-        <link href="https://tv.naver.com/v/32198556"/>
-        <updated>2023-01-07T07:19:10.926Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범진 - 우린 한 편의 소설로 남겠죠(이별소설) (BUMJIN - We'll remain a novel), MBC 220107 방송]]></title>
-        <id>https://tv.naver.com/v/32198537</id>
-        <link href="https://tv.naver.com/v/32198537"/>
-        <updated>2023-01-07T07:19:10.929Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원 - 별꽃동화 (ILY:1 - Twinkle Twinkle), MBC 220107 방송]]></title>
-        <id>https://tv.naver.com/v/32198287</id>
-        <link href="https://tv.naver.com/v/32198287"/>
-        <updated>2023-01-07T07:19:10.929Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위앤유 - 하루하루 (WeNU - Haru Haru), MBC 230107 방송]]></title>
-        <id>https://tv.naver.com/v/32198206</id>
-        <link href="https://tv.naver.com/v/32198206"/>
-        <updated>2023-01-07T07:19:10.929Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이아영 - 조금 더 일찍 이별할 걸 그랬어 (Lee A Young - Our love was a folly), MBC 220107 방송]]></title>
-        <id>https://tv.naver.com/v/32198117</id>
-        <link href="https://tv.naver.com/v/32198117"/>
-        <updated>2023-01-07T07:19:10.964Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WOOJUHO.zip 📂 WALK(산책)부터 Odd imagination(엉뚱한 상상)까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/31914433</id>
-        <link href="https://tv.naver.com/v/31914433"/>
-        <updated>2022-12-28T08:22:16.215Z</updated>
-        <content type="html"><![CDATA[16:49]]></content>
     </entry>
 </feed>
