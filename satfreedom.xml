@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-01-07T13:21:17.775Z</updated>
+    <updated>2023-01-07T14:15:19.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 588회〈오디션 스타 패밀리 특집＞ 우승자 ⭐박창근X박창광⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32204735</id>
+        <link href="https://tv.naver.com/v/32204735"/>
+        <updated>2023-01-07T14:15:13.581Z</updated>
+        <content type="html"><![CDATA[01:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4K 직캠] 박창근X동생 박창광 - 먼지가 되어 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/32203265</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32201633"/>
         <updated>2023-01-07T11:13:57.892Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러블리 비주얼 자매💞 홍지윤&홍주현! 리허설 내내 싸운 이야기?! | KBS 230107 방송]]></title>
-        <id>https://tv.naver.com/v/32201577</id>
-        <link href="https://tv.naver.com/v/32201577"/>
-        <updated>2023-01-07T13:21:11.649Z</updated>
-        <content type="html"><![CDATA[01:50]]></content>
     </entry>
 </feed>
