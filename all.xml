@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-07T12:30:53.443Z</updated>
+    <updated>2023-01-07T13:21:17.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HALAZIA - ATEEZ(에이티즈) | KBS 230106 방송 (뮤직뱅크)]]></title>
@@ -1272,13 +1272,6 @@
         <content type="html"><![CDATA[05:45]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 588회〈오디션 스타 패밀리 특집＞ 우승자 ⭐박창근X박창광⭐ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/32203110</id>
-        <link href="https://tv.naver.com/v/32203110"/>
-        <updated>2023-01-07T12:30:46.133Z</updated>
-        <content type="html"><![CDATA[01:06]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[4K 직캠] 홍지윤X홍주현 - 바다에 누워 | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/32203107</id>
         <link href="https://tv.naver.com/v/32203107"/>
@@ -1473,6 +1466,13 @@
         <link href="https://tv.naver.com/v/32201633"/>
         <updated>2023-01-07T11:13:57.892Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러블리 비주얼 자매💞 홍지윤&홍주현! 리허설 내내 싸운 이야기?! | KBS 230107 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/32201577</id>
+        <link href="https://tv.naver.com/v/32201577"/>
+        <updated>2023-01-07T13:21:11.649Z</updated>
+        <content type="html"><![CDATA[01:50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['음악대장' 하현우의 무대 - Lazenca, Save Us, MBC 230101 방송 (복면가왕)]]></title>
