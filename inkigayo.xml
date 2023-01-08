@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-01-08T06:21:31.045Z</updated>
+    <updated>2023-01-08T07:16:13.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230108 방송]]></title>
+        <id>https://tv.naver.com/v/32214925</id>
+        <link href="https://tv.naver.com/v/32214925"/>
+        <updated>2023-01-08T07:15:38.999Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230108 방송]]></title>
+        <id>https://tv.naver.com/v/32214825</id>
+        <link href="https://tv.naver.com/v/32214825"/>
+        <updated>2023-01-08T07:15:38.999Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이아영 - 조금 더 일찍 이별할 걸 그랬어 | SBS 230108 방송]]></title>
+        <id>https://tv.naver.com/v/32214660</id>
+        <link href="https://tv.naver.com/v/32214660"/>
+        <updated>2023-01-08T07:15:38.999Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이층버스 - 사랑이 온 거라면 좋겠다 | SBS 230108 방송]]></title>
+        <id>https://tv.naver.com/v/32214635</id>
+        <link href="https://tv.naver.com/v/32214635"/>
+        <updated>2023-01-08T07:15:39.014Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민호 - 놓아줘(Chase) | SBS 221211 방송]]></title>
         <id>https://tv.naver.com/v/31516851</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/31320453"/>
         <updated>2022-12-04T08:23:05.974Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍진영 - Girl ln The Mirror(feat. Frawley) | SBS 221204 방송]]></title>
-        <id>https://tv.naver.com/v/31320336</id>
-        <link href="https://tv.naver.com/v/31320336"/>
-        <updated>2022-12-04T08:23:05.974Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - VAGABOND | SBS 221204 방송]]></title>
-        <id>https://tv.naver.com/v/31320335</id>
-        <link href="https://tv.naver.com/v/31320335"/>
-        <updated>2022-12-04T08:23:05.974Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TO1 - 얼음 땡 | SBS 221204 방송]]></title>
-        <id>https://tv.naver.com/v/31320134</id>
-        <link href="https://tv.naver.com/v/31320134"/>
-        <updated>2022-12-04T08:23:05.981Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장민호 - 풍악을 울려라! | SBS 221204 방송]]></title>
-        <id>https://tv.naver.com/v/31320112</id>
-        <link href="https://tv.naver.com/v/31320112"/>
-        <updated>2022-12-04T08:23:05.981Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
