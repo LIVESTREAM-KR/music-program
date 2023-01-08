@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-01-08T09:16:56.965Z</updated>
+    <updated>2023-01-08T10:18:37.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['가왕감 탄생 금줄'의 정체는 비뇨의학과 전문의 홍성우!, MBC 230108 방송]]></title>
+        <id>https://tv.naver.com/v/32218251</id>
+        <link href="https://tv.naver.com/v/32218251"/>
+        <updated>2023-01-08T10:18:37.397Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배우 진구가 주는 '가왕감 탄생 금줄'의 특급 힌트💥 '생명을 살릴 수 있는 사람...?', MBC 230108 방송]]></title>
+        <id>https://tv.naver.com/v/32218156</id>
+        <link href="https://tv.naver.com/v/32218156"/>
+        <updated>2023-01-08T10:18:37.402Z</updated>
+        <content type="html"><![CDATA[01:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['해피뉴이어 가랜드' VS '가왕감 탄생 금줄'의 1라운드 무대 - 누구없소, MBC 230108 방송]]></title>
+        <id>https://tv.naver.com/v/32218099</id>
+        <link href="https://tv.naver.com/v/32218099"/>
+        <updated>2023-01-08T10:18:37.403Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['레드마우스' 선우정아의 스페셜 무대 - ANTIFRAGILE, MBC 230108 방송]]></title>
+        <id>https://tv.naver.com/v/32218017</id>
+        <link href="https://tv.naver.com/v/32218017"/>
+        <updated>2023-01-08T10:18:37.404Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['음악대장' 하현우의 무대 - Lazenca, Save Us, MBC 230101 방송]]></title>
         <id>https://tv.naver.com/v/32039325</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/31878292"/>
         <updated>2022-12-25T10:21:39.366Z</updated>
         <content type="html"><![CDATA[02:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성냥팔이 미소년' 2라운드 무대 - 흰 눈, MBC 221225 방송]]></title>
-        <id>https://tv.naver.com/v/31878122</id>
-        <link href="https://tv.naver.com/v/31878122"/>
-        <updated>2022-12-25T10:21:39.368Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핫초코' 2라운드 무대 - 하고 싶은 말, MBC 221225 방송]]></title>
-        <id>https://tv.naver.com/v/31878074</id>
-        <link href="https://tv.naver.com/v/31878074"/>
-        <updated>2022-12-25T10:21:39.369Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울 특집! 전 가왕 손진욱의 스페셜 무대 - Into the Unknown (겨울왕국 2 OST), MBC 221225 방송]]></title>
-        <id>https://tv.naver.com/v/31878008</id>
-        <link href="https://tv.naver.com/v/31878008"/>
-        <updated>2022-12-25T10:21:39.370Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 콩트 개그부터 노래까지 완벽!? 개그맨 김원훈!, MBC 221218 방송]]></title>
-        <id>https://tv.naver.com/v/31837773</id>
-        <link href="https://tv.naver.com/v/31837773"/>
-        <updated>2022-12-23T05:16:42.187Z</updated>
-        <content type="html"><![CDATA[10:21]]></content>
     </entry>
 </feed>
