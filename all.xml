@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-08T07:16:13.635Z</updated>
+    <updated>2023-01-08T08:22:24.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HALAZIA - ATEEZ(에이티즈) | KBS 230106 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,83 @@
         <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ATEEZ - HALAZIA | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215750</id>
+        <link href="https://tv.naver.com/v/32215750"/>
+        <updated>2023-01-08T08:21:48.871Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문빈&산하(ASTRO) - Madness | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215650</id>
+        <link href="https://tv.naver.com/v/32215650"/>
+        <updated>2023-01-08T08:21:48.871Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WayV - Phantom | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215571</id>
+        <link href="https://tv.naver.com/v/32215571"/>
+        <updated>2023-01-08T08:21:48.879Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DKZ - 2022(Forever) | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215507</id>
+        <link href="https://tv.naver.com/v/32215507"/>
+        <updated>2023-01-08T08:21:48.879Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TO1 - Troublemaker | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215424</id>
+        <link href="https://tv.naver.com/v/32215424"/>
+        <updated>2023-01-08T08:21:48.880Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MC연준X노정의X서범준 - 아무노래 | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215423</id>
+        <link href="https://tv.naver.com/v/32215423"/>
+        <updated>2023-01-08T08:21:48.881Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정동원 - 진짜 사나이 | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215335</id>
+        <link href="https://tv.naver.com/v/32215335"/>
+        <updated>2023-01-08T08:21:48.881Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일리원(ILY:1) - 별꽃동화(Twinkle Twinkle) | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215244</id>
+        <link href="https://tv.naver.com/v/32215244"/>
+        <updated>2023-01-08T08:21:48.881Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HEEO(히오) - Destiny or Challenge | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215115</id>
+        <link href="https://tv.naver.com/v/32215115"/>
+        <updated>2023-01-08T08:21:48.881Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박현서 - 지나갈거야 | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215112</id>
+        <link href="https://tv.naver.com/v/32215112"/>
+        <updated>2023-01-08T08:21:48.881Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WeNU(위앤유) - 하루하루 | SBS 230108 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32215019</id>
+        <link href="https://tv.naver.com/v/32215019"/>
+        <updated>2023-01-08T08:21:48.892Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230108 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/32214925</id>
         <link href="https://tv.naver.com/v/32214925"/>
@@ -556,83 +633,6 @@
         <link href="https://tv.naver.com/v/31515963"/>
         <updated>2022-12-11T07:19:07.916Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍진영 - Girl ln The Mirror(feat. Frawley) | SBS 221211 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31515913</id>
-        <link href="https://tv.naver.com/v/31515913"/>
-        <updated>2022-12-11T07:19:07.929Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Draw(드로우) | SBS 221211 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31515833</id>
-        <link href="https://tv.naver.com/v/31515833"/>
-        <updated>2022-12-11T07:19:07.930Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Fight Inside | SBS 221211 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31515756</id>
-        <link href="https://tv.naver.com/v/31515756"/>
-        <updated>2022-12-11T07:19:07.930Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KARA - WHEN I MOVE | SBS 221204 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31321021</id>
-        <link href="https://tv.naver.com/v/31321021"/>
-        <updated>2022-12-04T08:23:05.950Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Velvet(레드벨벳) - Birthday | SBS 221204 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31320937</id>
-        <link href="https://tv.naver.com/v/31320937"/>
-        <updated>2022-12-04T08:23:05.956Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY - Cheshire | SBS 221204 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31320838</id>
-        <link href="https://tv.naver.com/v/31320838"/>
-        <updated>2022-12-04T08:23:05.956Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIEL(니엘) - 궤도(In your Space) | SBS 221204 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31320761</id>
-        <link href="https://tv.naver.com/v/31320761"/>
-        <updated>2022-12-04T08:23:05.973Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P1Harmony - Back Down | SBS 221204 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31320658</id>
-        <link href="https://tv.naver.com/v/31320658"/>
-        <updated>2022-12-04T08:23:05.973Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑(CSR) - 러브티콘(♡TiCON) | SBS 221204 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31320657</id>
-        <link href="https://tv.naver.com/v/31320657"/>
-        <updated>2022-12-04T08:23:05.973Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN(드리핀) - The One | SBS 221204 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31320454</id>
-        <link href="https://tv.naver.com/v/31320454"/>
-        <updated>2022-12-04T08:23:05.973Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEMPEST(템페스트) - Dragon | SBS 221204 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/31320453</id>
-        <link href="https://tv.naver.com/v/31320453"/>
-        <updated>2022-12-04T08:23:05.974Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['HOT DEBUT' '민호'의 독보적인 음악 色! '놓아줘 (Chase)' 무대 | Mnet 221229 방송 (엠카운트다운)]]></title>
