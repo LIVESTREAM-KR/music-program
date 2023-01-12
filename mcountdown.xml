@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-01-12T09:20:28.256Z</updated>
+    <updated>2023-01-12T10:22:25.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[촉촉 감성 '범진(BUM JIN)'의 '우린 한 편의 소설로 남겠죠 (이별소설)' 무대 | Mnet 230112 방송]]></title>
+        <id>https://tv.naver.com/v/32331949</id>
+        <link href="https://tv.naver.com/v/32331949"/>
+        <updated>2023-01-12T10:21:58.461Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃의 요정들 '아일리원'의 '별꽃동화' 무대 | Mnet 230112 방송]]></title>
+        <id>https://tv.naver.com/v/32331872</id>
+        <link href="https://tv.naver.com/v/32331872"/>
+        <updated>2023-01-12T10:21:58.463Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감성적 멜로디 '이층버스'의 '사랑이 온거라면 좋겠다' 무대 | Mnet 230112 방송]]></title>
+        <id>https://tv.naver.com/v/32331651</id>
+        <link href="https://tv.naver.com/v/32331651"/>
+        <updated>2023-01-12T10:21:58.464Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MC 윤수&미연이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/32266577</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/30095502"/>
         <updated>2022-10-20T11:23:56.979Z</updated>
         <content type="html"><![CDATA[04:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐티♡카리스마 'Stray Kids'의 'CASE 143' 무대 | Mnet 221020 방송]]></title>
-        <id>https://tv.naver.com/v/30095347</id>
-        <link href="https://tv.naver.com/v/30095347"/>
-        <updated>2022-10-20T11:23:56.991Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' '엔플라잉 (N.Flying)'표 고백송♬ '폭망 (I Like You)' 무대 | Mnet 221020 방송]]></title>
-        <id>https://tv.naver.com/v/30095343</id>
-        <link href="https://tv.naver.com/v/30095343"/>
-        <updated>2022-10-20T11:23:56.992Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 나른 섬세 '원호'의 'On & On (Feat. YUNHWAY)' 무대 | Mnet 221020 방송]]></title>
-        <id>https://tv.naver.com/v/30095337</id>
-        <link href="https://tv.naver.com/v/30095337"/>
-        <updated>2022-10-20T11:23:56.992Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>
