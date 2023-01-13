@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-01-13T04:27:22.895Z</updated>
+    <updated>2023-01-13T12:34:43.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 목소리부터 비주얼까지 ~ 완벽 그 자체! CIX 메인보컬 승훈!, MBC 230108 방송]]></title>
+        <id>https://tv.naver.com/v/32360621</id>
+        <link href="https://tv.naver.com/v/32360621"/>
+        <updated>2023-01-13T12:34:42.514Z</updated>
+        <content type="html"><![CDATA[10:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜2023년을 빛낸 새해 첫 가왕은?＞ 복면가왕 387회 예고, MBC 230115 방송]]></title>
         <id>https://tv.naver.com/v/32219294</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31879331"/>
         <updated>2022-12-25T11:14:22.613Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑의 연탄'의 정체는 먼데이 키즈 출신 임한별!, MBC 221225 방송]]></title>
-        <id>https://tv.naver.com/v/31879247</id>
-        <link href="https://tv.naver.com/v/31879247"/>
-        <updated>2022-12-25T11:14:22.615Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>
