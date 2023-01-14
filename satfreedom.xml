@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-01-14T09:17:37.284Z</updated>
+    <updated>2023-01-14T10:18:45.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어디서나 빛나는 김연자의 인간미💕 라디오에서도 펼쳐진 김연자의 퍼포먼스? | KBS 230114 방송]]></title>
+        <id>https://tv.naver.com/v/32379559</id>
+        <link href="https://tv.naver.com/v/32379559"/>
+        <updated>2023-01-14T10:18:39.285Z</updated>
+        <content type="html"><![CDATA[01:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연자 - 밤 열차 | KBS 230114 방송]]></title>
+        <id>https://tv.naver.com/v/32379447</id>
+        <link href="https://tv.naver.com/v/32379447"/>
+        <updated>2023-01-14T10:18:39.286Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원조 한류 스타! 오늘의 아티스트🌹 올 타임 레전드 트로트 디바 김연자♥ | KBS 230114 방송]]></title>
+        <id>https://tv.naver.com/v/32379445</id>
+        <link href="https://tv.naver.com/v/32379445"/>
+        <updated>2023-01-14T10:18:39.287Z</updated>
+        <content type="html"><![CDATA[01:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 588회〈오디션 스타 패밀리 특집＞ 우승자 ⭐박창근X박창광⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/32204735</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/32202121"/>
         <updated>2023-01-07T11:13:57.892Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진한 감동, 보는 이를 울컥하게 만들었던 김태연 & 김애란의 무대 | KBS 230107 방송]]></title>
-        <id>https://tv.naver.com/v/32202060</id>
-        <link href="https://tv.naver.com/v/32202060"/>
-        <updated>2023-01-07T11:13:57.892Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끼쟁이 붕어빵 부자 신승태&신명선! 사실 2년 전부터 준비를..?! 욕망부자🔥 | KBS 230107 방송]]></title>
-        <id>https://tv.naver.com/v/32201732</id>
-        <link href="https://tv.naver.com/v/32201732"/>
-        <updated>2023-01-07T11:13:57.892Z</updated>
-        <content type="html"><![CDATA[02:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포크송의 神 박창근! 귀가 녹아내리는 부드러운 음색☁️ 포크송 메들리 | KBS 230107 방송]]></title>
-        <id>https://tv.naver.com/v/32201633</id>
-        <link href="https://tv.naver.com/v/32201633"/>
-        <updated>2023-01-07T11:13:57.892Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
