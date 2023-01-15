@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-01-15T06:21:52.723Z</updated>
+    <updated>2023-01-15T07:16:34.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아일리원(ILY:1) - 별꽃동화(Twinkle Twinkle) | SBS 230115 방송]]></title>
+        <id>https://tv.naver.com/v/32393141</id>
+        <link href="https://tv.naver.com/v/32393141"/>
+        <updated>2023-01-15T07:15:59.911Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230115 방송]]></title>
+        <id>https://tv.naver.com/v/32393140</id>
+        <link href="https://tv.naver.com/v/32393140"/>
+        <updated>2023-01-15T07:15:59.911Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프림로즈 - PRIMROSE | SBS 230115 방송]]></title>
+        <id>https://tv.naver.com/v/32393069</id>
+        <link href="https://tv.naver.com/v/32393069"/>
+        <updated>2023-01-15T07:15:59.915Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박현서 - 지나갈거야 | SBS 230115 방송]]></title>
+        <id>https://tv.naver.com/v/32393014</id>
+        <link href="https://tv.naver.com/v/32393014"/>
+        <updated>2023-01-15T07:15:59.917Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATEEZ - HALAZIA | SBS 230108 방송]]></title>
         <id>https://tv.naver.com/v/32215750</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/31516180"/>
         <updated>2022-12-11T08:25:49.285Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TO1 - 얼음 땡 | SBS 221211 방송]]></title>
-        <id>https://tv.naver.com/v/31516122</id>
-        <link href="https://tv.naver.com/v/31516122"/>
-        <updated>2022-12-11T08:25:49.285Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앨리스(ALICE) - DANCE ON | SBS 221211 방송]]></title>
-        <id>https://tv.naver.com/v/31516120</id>
-        <link href="https://tv.naver.com/v/31516120"/>
-        <updated>2022-12-11T08:25:49.285Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원 - 뱃놀이 | SBS 221211 방송]]></title>
-        <id>https://tv.naver.com/v/31516027</id>
-        <link href="https://tv.naver.com/v/31516027"/>
-        <updated>2022-12-11T08:25:49.290Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IRRIS(아이리스) - Stay W!th Me | SBS 221211 방송]]></title>
-        <id>https://tv.naver.com/v/31515963</id>
-        <link href="https://tv.naver.com/v/31515963"/>
-        <updated>2022-12-11T07:19:07.916Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>
