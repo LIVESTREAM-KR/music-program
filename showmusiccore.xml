@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-01-16T09:19:14.952Z</updated>
+    <updated>2023-01-16T10:20:38.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 주헌 X 리노(민호) X 민혁 , 1월 둘째 주 음악중심 MC 컷 모음!, MBC 230114 방송]]></title>
+        <id>https://tv.naver.com/v/32421668</id>
+        <link href="https://tv.naver.com/v/32421668"/>
+        <updated>2023-01-16T10:19:59.077Z</updated>
+        <content type="html"><![CDATA[14:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ATEEZ SAN - HALAZIA(에이티즈 산 - 할라지아) Close-up Cam | Show! MusicCore | MBC230114방송]]></title>
         <id>https://tv.naver.com/v/32410534</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32377701"/>
         <updated>2023-01-14T09:16:56.060Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MONSTA X HYUNGWON – Deny(몬스타엑스 형원 - 디나이) FanCam | Show! MusicCore | MBC230114방송]]></title>
-        <id>https://tv.naver.com/v/32377700</id>
-        <link href="https://tv.naver.com/v/32377700"/>
-        <updated>2023-01-14T09:16:56.065Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
