@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-01-16T02:44:44.620Z</updated>
+    <updated>2023-01-16T03:20:05.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ SEONGHWA - HALAZIA(에이티즈 성화 - 할라지아) FanCam | Show! MusicCore | MBC230114방송]]></title>
+        <id>https://tv.naver.com/v/32410313</id>
+        <link href="https://tv.naver.com/v/32410313"/>
+        <updated>2023-01-16T03:19:24.704Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ WOOYOUNG - HALAZIA(에이티즈 우영 - 할라지아) FanCam | Show! MusicCore | MBC230114방송]]></title>
+        <id>https://tv.naver.com/v/32410166</id>
+        <link href="https://tv.naver.com/v/32410166"/>
+        <updated>2023-01-16T03:19:24.705Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] SF9 - Puzzle(에스에프나인 – 퍼즐) FanCam | Show! MusicCore | MBC230114방송]]></title>
         <id>https://tv.naver.com/v/32378261</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32377629"/>
         <updated>2023-01-14T09:16:56.068Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MONSTA X I.M – Beautiful Liar(몬스타엑스 아이엠 - 뷰티풀 라이어) FanCam | Show! MusicCore | MBC230114방송]]></title>
-        <id>https://tv.naver.com/v/32377627</id>
-        <link href="https://tv.naver.com/v/32377627"/>
-        <updated>2023-01-14T09:16:56.070Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MONSTA X JOOHONEY – Deny(몬스타엑스 주헌 - 디나이) FanCam | Show! MusicCore | MBC230114방송]]></title>
-        <id>https://tv.naver.com/v/32377547</id>
-        <link href="https://tv.naver.com/v/32377547"/>
-        <updated>2023-01-14T08:21:40.168Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
