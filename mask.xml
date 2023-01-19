@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-01-19T08:24:31.979Z</updated>
+    <updated>2023-01-19T09:19:38.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 낭만을 노래하는 라이징 스타, 너드커넥션 서영주!, MBC 230115 방송]]></title>
+        <id>https://tv.naver.com/v/32506698</id>
+        <link href="https://tv.naver.com/v/32506698"/>
+        <updated>2023-01-19T09:19:37.717Z</updated>
+        <content type="html"><![CDATA[10:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 디제잉, 춤, 랩 실력까지! 다재다능 래퍼 퀸 와사비!, MBC 230115 방송]]></title>
+        <id>https://tv.naver.com/v/32506602</id>
+        <link href="https://tv.naver.com/v/32506602"/>
+        <updated>2023-01-19T09:19:37.717Z</updated>
+        <content type="html"><![CDATA[09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜세뱃돈 플렉스하고 싶은 흥폭발 무대! & 음색 천재 10CM 권정열이 준비한 특별 무대＞ 복면가왕 388회 예고, MBC 230122 방송]]></title>
         <id>https://tv.naver.com/v/32398369</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32218251"/>
         <updated>2023-01-08T10:18:37.397Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배우 진구가 주는 '가왕감 탄생 금줄'의 특급 힌트💥 '생명을 살릴 수 있는 사람...?', MBC 230108 방송]]></title>
-        <id>https://tv.naver.com/v/32218156</id>
-        <link href="https://tv.naver.com/v/32218156"/>
-        <updated>2023-01-08T10:18:37.402Z</updated>
-        <content type="html"><![CDATA[01:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피뉴이어 가랜드' VS '가왕감 탄생 금줄'의 1라운드 무대 - 누구없소, MBC 230108 방송]]></title>
-        <id>https://tv.naver.com/v/32218099</id>
-        <link href="https://tv.naver.com/v/32218099"/>
-        <updated>2023-01-08T10:18:37.403Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
