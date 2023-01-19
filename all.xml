@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-19T09:19:38.510Z</updated>
+    <updated>2023-01-19T10:23:45.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Beautiful Liar - MONSTA X | KBS 230113 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,41 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['스페셜 인터뷰' with 다나카 (TANAKA) | Mnet 230119 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/32507773</id>
+        <link href="https://tv.naver.com/v/32507773"/>
+        <updated>2023-01-19T10:23:19.961Z</updated>
+        <content type="html"><![CDATA[05:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프림로즈 - PRIMROSE | Mnet 230119 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/32507678</id>
+        <link href="https://tv.naver.com/v/32507678"/>
+        <updated>2023-01-19T10:23:19.961Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['UP NEXT' GOT the beat (갓 더 비트) | Mnet 230119 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/32507567</id>
+        <link href="https://tv.naver.com/v/32507567"/>
+        <updated>2023-01-19T10:23:19.976Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이층버스 - 사랑이 온거라면 좋겠다 | Mnet 230119 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/32507565</id>
+        <link href="https://tv.naver.com/v/32507565"/>
+        <updated>2023-01-19T10:23:19.983Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Espero (에스페로) - Endless   | Mnet 230119 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/32507563</id>
+        <link href="https://tv.naver.com/v/32507563"/>
+        <updated>2023-01-19T10:23:19.983Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[몬스타엑스가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/32445069</id>
         <link href="https://tv.naver.com/v/32445069"/>
@@ -808,41 +843,6 @@
         <link href="https://tv.naver.com/v/31986780"/>
         <updated>2022-12-29T11:14:45.979Z</updated>
         <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 민호 (MINHO) | Mnet 221229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/31986679</id>
-        <link href="https://tv.naver.com/v/31986679"/>
-        <updated>2022-12-29T11:14:45.987Z</updated>
-        <content type="html"><![CDATA[02:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2022 GIRL POWER' 당당⭐️에너지 'IVE'의 'After Like' 무대 | Mnet 221229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/31986674</id>
-        <link href="https://tv.naver.com/v/31986674"/>
-        <updated>2022-12-29T11:14:45.987Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2022 GIRL POWER' 환상적인⭐️ 'IVE'의 'LOVE DIVE' 무대 | Mnet 221229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/31986567</id>
-        <link href="https://tv.naver.com/v/31986567"/>
-        <updated>2022-12-29T11:14:45.987Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2022 GIRL POWER' 틴프레시 매력 'STAYC(스테이씨)'의 'RUN2U' 무대 | Mnet 221229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/31986479</id>
-        <link href="https://tv.naver.com/v/31986479"/>
-        <updated>2022-12-29T11:14:45.987Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['2022 GIRL POWER' 면프로디테💖👑 '미연 ((여자)아이들)'의 'Drive' 무대 | Mnet 221229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/31986337</id>
-        <link href="https://tv.naver.com/v/31986337"/>
-        <updated>2022-12-29T11:14:45.987Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
