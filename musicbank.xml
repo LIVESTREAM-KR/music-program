@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-01-20T10:23:31.218Z</updated>
+    <updated>2023-01-20T11:16:37.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beautiful Liar - MONSTA X | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532927</id>
+        <link href="https://tv.naver.com/v/32532927"/>
+        <updated>2023-01-20T11:15:54.291Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puzzle - SF9 | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532921</id>
+        <link href="https://tv.naver.com/v/32532921"/>
+        <updated>2023-01-20T11:15:54.307Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OMG - 뉴진스(NewJeans) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532900</id>
+        <link href="https://tv.naver.com/v/32532900"/>
+        <updated>2023-01-20T11:15:54.319Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ditto - 뉴진스(NewJeans) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532896</id>
+        <link href="https://tv.naver.com/v/32532896"/>
+        <updated>2023-01-20T11:15:54.320Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madness - 문빈&산하(ASTRO) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532810</id>
+        <link href="https://tv.naver.com/v/32532810"/>
+        <updated>2023-01-20T11:15:54.321Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chup Chup - 문빈&산하(ASTRO) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532609</id>
+        <link href="https://tv.naver.com/v/32532609"/>
+        <updated>2023-01-20T11:15:54.322Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rollercoaster - woo!ah! (우아!) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532607</id>
+        <link href="https://tv.naver.com/v/32532607"/>
+        <updated>2023-01-20T11:15:54.324Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queen - 이지영 | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532341</id>
+        <link href="https://tv.naver.com/v/32532341"/>
+        <updated>2023-01-20T11:15:54.325Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오로라(AURORA) - cignature(시그니처) | KBS 230120 방송]]></title>
+        <id>https://tv.naver.com/v/32532338</id>
+        <link href="https://tv.naver.com/v/32532338"/>
+        <updated>2023-01-20T11:15:54.326Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑이 온거라면 좋겠다 - 이층버스 | KBS 230120 방송]]></title>
         <id>https://tv.naver.com/v/32532234</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/32359255"/>
         <updated>2023-01-13T12:33:54.802Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HALAZIA - ATEEZ(에이티즈) | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32183333</id>
-        <link href="https://tv.naver.com/v/32183333"/>
-        <updated>2023-01-06T10:19:28.708Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk - ATEEZ(에이티즈) | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32183182</id>
-        <link href="https://tv.naver.com/v/32183182"/>
-        <updated>2023-01-06T10:19:28.715Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madness - 문빈&산하(ASTRO) | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32182944</id>
-        <link href="https://tv.naver.com/v/32182944"/>
-        <updated>2023-01-06T10:19:28.744Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chup Chup - 문빈&산하(ASTRO) | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32182941</id>
-        <link href="https://tv.naver.com/v/32182941"/>
-        <updated>2023-01-06T10:19:28.744Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phantom - WayV | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32182715</id>
-        <link href="https://tv.naver.com/v/32182715"/>
-        <updated>2023-01-06T10:19:28.757Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Troublemaker - TO1 | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32182574</id>
-        <link href="https://tv.naver.com/v/32182574"/>
-        <updated>2023-01-06T10:19:28.757Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rollercoaster - woo!ah! (우아!) | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32182570</id>
-        <link href="https://tv.naver.com/v/32182570"/>
-        <updated>2023-01-06T10:19:28.757Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 (Forever) - DKZ | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32182564</id>
-        <link href="https://tv.naver.com/v/32182564"/>
-        <updated>2023-01-06T10:19:28.761Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지나갈거야 - 박현서 | KBS 230106 방송]]></title>
-        <id>https://tv.naver.com/v/32182442</id>
-        <link href="https://tv.naver.com/v/32182442"/>
-        <updated>2023-01-06T10:19:28.767Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
