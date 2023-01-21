@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-01-21T06:24:31.221Z</updated>
+    <updated>2023-01-21T07:15:56.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 우아! - 롤러코스터 (woo!ah! - Rollercoaster), MBC 230114 방송]]></title>
+        <id>https://tv.naver.com/v/32530009</id>
+        <link href="https://tv.naver.com/v/32530009"/>
+        <updated>2023-01-21T07:15:22.398Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX]🪄  NCT DREAM - Candy(엔시티 드림 - 캔디) | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/32527566</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32377785"/>
         <updated>2023-01-14T09:16:56.057Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ – As I Told You(에이티즈 - 말하자면) FanCam | Show! MusicCore | MBC230114방송]]></title>
-        <id>https://tv.naver.com/v/32377703</id>
-        <link href="https://tv.naver.com/v/32377703"/>
-        <updated>2023-01-14T09:16:56.059Z</updated>
-        <content type="html"><![CDATA[02:10]]></content>
     </entry>
 </feed>
