@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-01-21T09:17:10.546Z</updated>
+    <updated>2023-01-21T10:18:04.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[살벌한 KBS 딸들의 전쟁! 김나희 vs 곽지은🔥 팽팽한 신경전!! | KBS 230121 방송]]></title>
+        <id>https://tv.naver.com/v/32548357</id>
+        <link href="https://tv.naver.com/v/32548357"/>
+        <updated>2023-01-21T10:17:57.784Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설 특집 RE:PLAY 장윤정💛 장윤정의 취미는 방송 기획안 쓰기?!  | KBS 230121 방송]]></title>
+        <id>https://tv.naver.com/v/32548353</id>
+        <link href="https://tv.naver.com/v/32548353"/>
+        <updated>2023-01-21T10:17:57.784Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 스페셜 MC 김희재! 학창 시절부터 레모네이드? 특별한 댄스 신고식🧡 | KBS 230121 방송]]></title>
+        <id>https://tv.naver.com/v/32548352</id>
+        <link href="https://tv.naver.com/v/32548352"/>
+        <updated>2023-01-21T10:17:57.785Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장윤정 - 짠짜라 | KBS 230121 방송]]></title>
+        <id>https://tv.naver.com/v/32548350</id>
+        <link href="https://tv.naver.com/v/32548350"/>
+        <updated>2023-01-21T10:17:57.787Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4K 직캠] 바다 - 아모르 파티 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/32381782</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/32380408"/>
         <updated>2023-01-14T11:14:17.132Z</updated>
         <content type="html"><![CDATA[02:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스 수안 - 블링블링 | KBS 230114 방송]]></title>
-        <id>https://tv.naver.com/v/32380286</id>
-        <link href="https://tv.naver.com/v/32380286"/>
-        <updated>2023-01-14T11:14:17.132Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스 수안💜 직접 전달한 무대 기획서?! 슈퍼루키 쟁탈전❤‍🔥 | KBS 230114 방송]]></title>
-        <id>https://tv.naver.com/v/32380285</id>
-        <link href="https://tv.naver.com/v/32380285"/>
-        <updated>2023-01-14T11:14:17.133Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흥이 가시지 않은 토크 대기실? 우리 것들을 모아 흥을 자아낸 템페스트의 무대😆 | KBS 230114 방송]]></title>
-        <id>https://tv.naver.com/v/32380257</id>
-        <link href="https://tv.naver.com/v/32380257"/>
-        <updated>2023-01-14T11:14:17.135Z</updated>
-        <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEMPEST(템페스트) - 아침의 나라에서 | KBS 230114 방송]]></title>
-        <id>https://tv.naver.com/v/32379925</id>
-        <link href="https://tv.naver.com/v/32379925"/>
-        <updated>2023-01-14T11:14:17.135Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
     </entry>
 </feed>
