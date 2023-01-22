@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-22T09:17:05.137Z</updated>
+    <updated>2023-01-22T10:18:30.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Beautiful Liar - MONSTA X | KBS 230120 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,41 @@
         <content type="html"><![CDATA[06:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['스케이트' VS '아이스링크'의 1라운드 무대 - 너를 위해, MBC 230122 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32558979</id>
+        <link href="https://tv.naver.com/v/32558979"/>
+        <updated>2023-01-22T10:18:29.686Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['만렙'의 정체는 크리에이터 풍자!, MBC 230122 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32558885</id>
+        <link href="https://tv.naver.com/v/32558885"/>
+        <updated>2023-01-22T10:18:29.688Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['넘사벽' & '만렙'의 지인 신기루가 주는 두 사람의 결정적 힌트!💥, MBC 230122 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32558884</id>
+        <link href="https://tv.naver.com/v/32558884"/>
+        <updated>2023-01-22T10:18:29.690Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['넘사벽' VS '만렙'의 1라운드 무대 - 이유같지 않은 이유, MBC 230122 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32558820</id>
+        <link href="https://tv.naver.com/v/32558820"/>
+        <updated>2023-01-22T10:18:29.701Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청개구리 왕자' 10CM 권정열의 스페셜 무대 - 사건의 지평선, MBC 230122 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32558757</id>
+        <link href="https://tv.naver.com/v/32558757"/>
+        <updated>2023-01-22T10:18:29.709Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 낭만을 노래하는 라이징 스타, 너드커넥션 서영주!, MBC 230115 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/32506698</id>
         <link href="https://tv.naver.com/v/32506698"/>
@@ -1648,40 +1683,5 @@
         <link href="https://tv.naver.com/v/32218749"/>
         <updated>2023-01-08T11:15:01.002Z</updated>
         <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얼음땡' VS '동그랑땡'의 1라운드 무대 - 내일이 찾아오면, MBC 230108 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32218596</id>
-        <link href="https://tv.naver.com/v/32218596"/>
-        <updated>2023-01-08T11:15:01.002Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은토끼'의 정체는 CIX 메인 보컬 승훈!, MBC 230108 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32218420</id>
-        <link href="https://tv.naver.com/v/32218420"/>
-        <updated>2023-01-08T11:15:01.004Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈길 사로잡는 춤사위💕 '금토끼' & '은토끼'가 준비한 토끼 춤 합동 개인기!, MBC 230108 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32218419</id>
-        <link href="https://tv.naver.com/v/32218419"/>
-        <updated>2023-01-08T11:15:01.005Z</updated>
-        <content type="html"><![CDATA[02:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금토끼' VS '은토끼'의 1라운드 무대 - 같이 걸을까, MBC 230108 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32218344</id>
-        <link href="https://tv.naver.com/v/32218344"/>
-        <updated>2023-01-08T11:15:01.006Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가왕감 탄생 금줄'의 정체는 비뇨의학과 전문의 홍성우!, MBC 230108 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32218251</id>
-        <link href="https://tv.naver.com/v/32218251"/>
-        <updated>2023-01-08T10:18:37.397Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
