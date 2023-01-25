@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-01-25T04:22:29.476Z</updated>
+    <updated>2023-01-25T05:17:29.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠카 마스코트 미연🐰 이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/32605863</id>
+        <link href="https://tv.naver.com/v/32605863"/>
+        <updated>2023-01-25T05:17:01.250Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' GOT the beat - Stamp On It | Mnet 230119 방송]]></title>
         <id>https://tv.naver.com/v/32508908</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32333301"/>
         <updated>2023-01-12T11:21:25.196Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트롯 왕세자 '정동원'의 '뱃놀이' 무대 | Mnet 230112 방송]]></title>
-        <id>https://tv.naver.com/v/32333069</id>
-        <link href="https://tv.naver.com/v/32333069"/>
-        <updated>2023-01-12T11:21:25.197Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
