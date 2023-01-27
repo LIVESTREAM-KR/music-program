@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-01-27T08:23:23.861Z</updated>
+    <updated>2023-01-27T09:18:05.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꿈의 거처 - 이승윤 | KBS 230127 방송]]></title>
+        <id>https://tv.naver.com/v/32674136</id>
+        <link href="https://tv.naver.com/v/32674136"/>
+        <updated>2023-01-27T09:17:15.646Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오로라(AURORA) - cignature(시그니처) | KBS 230127 방송]]></title>
+        <id>https://tv.naver.com/v/32674110</id>
+        <link href="https://tv.naver.com/v/32674110"/>
+        <updated>2023-01-27T09:17:15.646Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씰룩씰룩(Green Light) - 류지현 (RYU JIHYUN) | KBS 230127 방송]]></title>
+        <id>https://tv.naver.com/v/32674108</id>
+        <link href="https://tv.naver.com/v/32674108"/>
+        <updated>2023-01-27T09:17:15.646Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230127 방송]]></title>
+        <id>https://tv.naver.com/v/32673602</id>
+        <link href="https://tv.naver.com/v/32673602"/>
+        <updated>2023-01-27T09:17:15.646Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fireworks - AIMERS | KBS 230127 방송]]></title>
+        <id>https://tv.naver.com/v/32673562</id>
+        <link href="https://tv.naver.com/v/32673562"/>
+        <updated>2023-01-27T09:17:15.646Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endless - 에스페로 | KBS 230127 방송]]></title>
+        <id>https://tv.naver.com/v/32673357</id>
+        <link href="https://tv.naver.com/v/32673357"/>
+        <updated>2023-01-27T09:17:15.652Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별꽃동화 - 아일리원(ILY:1) | KBS 230127 방송]]></title>
+        <id>https://tv.naver.com/v/32673039</id>
+        <link href="https://tv.naver.com/v/32673039"/>
+        <updated>2023-01-27T09:17:15.676Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHOOTING STAR - XG | KBS 230127 방송]]></title>
+        <id>https://tv.naver.com/v/32672998</id>
+        <link href="https://tv.naver.com/v/32672998"/>
+        <updated>2023-01-27T09:17:15.676Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beautiful Liar - MONSTA X | KBS 230120 방송]]></title>
         <id>https://tv.naver.com/v/32532927</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/32360380"/>
         <updated>2023-01-13T12:33:54.784Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Troublemaker - TO1 | KBS 230113 방송]]></title>
-        <id>https://tv.naver.com/v/32360225</id>
-        <link href="https://tv.naver.com/v/32360225"/>
-        <updated>2023-01-13T12:33:54.784Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230113 방송]]></title>
-        <id>https://tv.naver.com/v/32360071</id>
-        <link href="https://tv.naver.com/v/32360071"/>
-        <updated>2023-01-13T12:33:54.788Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destiny or Challenge - HEEO (히오) | KBS 230113 방송]]></title>
-        <id>https://tv.naver.com/v/32359904</id>
-        <link href="https://tv.naver.com/v/32359904"/>
-        <updated>2023-01-13T12:33:54.788Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endless - 에스페로 | KBS 230113 방송]]></title>
-        <id>https://tv.naver.com/v/32359765</id>
-        <link href="https://tv.naver.com/v/32359765"/>
-        <updated>2023-01-13T12:33:54.788Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지나갈거야 - 박현서 | KBS 230113 방송]]></title>
-        <id>https://tv.naver.com/v/32359750</id>
-        <link href="https://tv.naver.com/v/32359750"/>
-        <updated>2023-01-13T12:33:54.796Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우린 한 편의 소설로 남겠죠 (이별소설) - 범진 | KBS 230113 방송]]></title>
-        <id>https://tv.naver.com/v/32359384</id>
-        <link href="https://tv.naver.com/v/32359384"/>
-        <updated>2023-01-13T12:33:54.802Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별꽃동화 - 아일리원(ILY:1) | KBS 230113 방송]]></title>
-        <id>https://tv.naver.com/v/32359381</id>
-        <link href="https://tv.naver.com/v/32359381"/>
-        <updated>2023-01-13T12:33:54.802Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Left On Read - 최수환 | KBS 230113 방송]]></title>
-        <id>https://tv.naver.com/v/32359255</id>
-        <link href="https://tv.naver.com/v/32359255"/>
-        <updated>2023-01-13T12:33:54.802Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>

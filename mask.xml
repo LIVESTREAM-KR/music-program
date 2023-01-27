@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-01-27T08:23:23.872Z</updated>
+    <updated>2023-01-27T09:18:05.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 친근한 매력의 인간 비타민💛! 만능 크리에이터이자 개그우먼 미자!, MBC 230122 방송]]></title>
+        <id>https://tv.naver.com/v/32673774</id>
+        <link href="https://tv.naver.com/v/32673774"/>
+        <updated>2023-01-27T09:18:04.765Z</updated>
+        <content type="html"><![CDATA[09:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 한도 없는 솔직함😎! 예능 블루칩, 대세 크리에이터 풍자!, MBC 230122 방송]]></title>
+        <id>https://tv.naver.com/v/32673347</id>
+        <link href="https://tv.naver.com/v/32673347"/>
+        <updated>2023-01-27T09:18:04.766Z</updated>
+        <content type="html"><![CDATA[10:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜신이 내린 목소리는 6연승에 성공할 수 있을까?＞ 복면가왕 389회 예고, MBC 230129 방송]]></title>
         <id>https://tv.naver.com/v/32559645</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32396516"/>
         <updated>2023-01-15T10:22:04.504Z</updated>
         <content type="html"><![CDATA[02:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피뉴이어 가랜드'의 치명적인 댄스💞, MBC 230115 방송]]></title>
-        <id>https://tv.naver.com/v/32396323</id>
-        <link href="https://tv.naver.com/v/32396323"/>
-        <updated>2023-01-15T10:22:04.507Z</updated>
-        <content type="html"><![CDATA[01:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금토끼' 2라운드 무대 - 안녕이라고 말하지마, MBC 230115 방송]]></title>
-        <id>https://tv.naver.com/v/32396078</id>
-        <link href="https://tv.naver.com/v/32396078"/>
-        <updated>2023-01-15T10:22:04.508Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
