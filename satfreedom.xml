@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-01-28T09:17:42.357Z</updated>
+    <updated>2023-01-28T10:18:49.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[※선곡 공개※ 탈장(?) 고음, 오열 고음 예열 중! 목숨 건 오늘의 대결!🔥 | KBS 230128 방송]]></title>
+        <id>https://tv.naver.com/v/32695503</id>
+        <link href="https://tv.naver.com/v/32695503"/>
+        <updated>2023-01-28T10:18:42.582Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언니를 위해서.. 최선을 다해야죠! 바다와 신영숙의 티격태격(?) 선후배 토크🤣 | KBS 230128 방송]]></title>
+        <id>https://tv.naver.com/v/32695495</id>
+        <link href="https://tv.naver.com/v/32695495"/>
+        <updated>2023-01-28T10:18:42.583Z</updated>
+        <content type="html"><![CDATA[01:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천상계 고음 종결자 특집! 살 떨리는 오늘의 라인업💖🔥 후끈한 토크 대기실 | KBS 230128 방송]]></title>
+        <id>https://tv.naver.com/v/32695491</id>
+        <link href="https://tv.naver.com/v/32695491"/>
+        <updated>2023-01-28T10:18:42.583Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4K 직캠] 허찬미X황우림 - 스타킹 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/32548932</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/32548995"/>
         <updated>2023-01-21T11:14:29.456Z</updated>
         <content type="html"><![CDATA[04:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장윤정 수제자 대결? 정통 트로트로 겨루게 된 해수 vs 양지은!❤‍🔥 | KBS 230121 방송]]></title>
-        <id>https://tv.naver.com/v/32548785</id>
-        <link href="https://tv.naver.com/v/32548785"/>
-        <updated>2023-01-21T11:14:29.456Z</updated>
-        <content type="html"><![CDATA[02:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김나희 vs 곽지은 - 기억 | KBS 230121 방송]]></title>
-        <id>https://tv.naver.com/v/32548782</id>
-        <link href="https://tv.naver.com/v/32548782"/>
-        <updated>2023-01-21T11:14:29.469Z</updated>
-        <content type="html"><![CDATA[04:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대망의 1절 vs 2절 공 뽑기!🔴 누가 먼저 선창을 하게 될 것인가..! | KBS 230121 방송]]></title>
-        <id>https://tv.naver.com/v/32548781</id>
-        <link href="https://tv.naver.com/v/32548781"/>
-        <updated>2023-01-21T11:14:29.474Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
