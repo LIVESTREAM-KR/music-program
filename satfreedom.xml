@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-01-28T11:18:15.435Z</updated>
+    <updated>2023-01-28T12:31:55.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 🌟2023 오 마이 스타3🌟 더 강력한 라인업! 놓치지 마세요❣️ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32697041</id>
+        <link href="https://tv.naver.com/v/32697041"/>
+        <updated>2023-01-28T12:31:47.088Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이보람 - 나 가거든 | KBS 230128 방송]]></title>
+        <id>https://tv.naver.com/v/32696831</id>
+        <link href="https://tv.naver.com/v/32696831"/>
+        <updated>2023-01-28T12:31:47.089Z</updated>
+        <content type="html"><![CDATA[05:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기립할 수밖에 없는 감동💧 최강의 몰입도를 보여준 이보람의 무대✨ | KBS 230128 방송]]></title>
+        <id>https://tv.naver.com/v/32696724</id>
+        <link href="https://tv.naver.com/v/32696724"/>
+        <updated>2023-01-28T12:31:47.092Z</updated>
+        <content type="html"><![CDATA[01:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 591회〈천상계 고음 종결자 특집＞ 우승자 ⭐윤성⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32696717</id>
+        <link href="https://tv.naver.com/v/32696717"/>
+        <updated>2023-01-28T12:31:47.093Z</updated>
+        <content type="html"><![CDATA[01:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떤 오빠가 와도 고백 거절 불가! 감탄의 5단 고음을✨ 보여준 박민혜의 무대! | KBS 230128 방송]]></title>
+        <id>https://tv.naver.com/v/32696715</id>
+        <link href="https://tv.naver.com/v/32696715"/>
+        <updated>2023-01-28T12:31:47.094Z</updated>
+        <content type="html"><![CDATA[01:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박민혜 - 좋은 날 | KBS 230128 방송]]></title>
         <id>https://tv.naver.com/v/32696601</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/32693980"/>
         <updated>2023-01-28T11:18:07.892Z</updated>
         <content type="html"><![CDATA[05:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 박민혜 - 좋은 날  | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/32693979</id>
-        <link href="https://tv.naver.com/v/32693979"/>
-        <updated>2023-01-28T11:18:07.893Z</updated>
-        <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 윤성 - 천년의 사랑  | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/32693956</id>
-        <link href="https://tv.naver.com/v/32693956"/>
-        <updated>2023-01-28T11:18:07.897Z</updated>
-        <content type="html"><![CDATA[05:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 허찬미X황우림 - 스타킹 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/32548932</id>
-        <link href="https://tv.naver.com/v/32548932"/>
-        <updated>2023-01-22T12:31:25.648Z</updated>
-        <content type="html"><![CDATA[04:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 허찬미X황우림 - 스타킹 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/32548718</id>
-        <link href="https://tv.naver.com/v/32548718"/>
-        <updated>2023-01-22T12:31:25.660Z</updated>
-        <content type="html"><![CDATA[04:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 해수X양지은 - 가슴으로 울었네 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/32548844</id>
-        <link href="https://tv.naver.com/v/32548844"/>
-        <updated>2023-01-22T12:31:25.653Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
     </entry>
 </feed>
