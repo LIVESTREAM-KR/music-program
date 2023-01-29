@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-29T06:21:51.305Z</updated>
+    <updated>2023-01-29T07:18:51.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[OMG - 뉴진스(NewJeans) | KBS 230127 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,48 @@
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230129 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32709132</id>
+        <link href="https://tv.naver.com/v/32709132"/>
+        <updated>2023-01-29T07:18:16.702Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이지영 - Queen | SBS 230129 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32709051</id>
+        <link href="https://tv.naver.com/v/32709051"/>
+        <updated>2023-01-29T07:18:16.702Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230129 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32708949</id>
+        <link href="https://tv.naver.com/v/32708949"/>
+        <updated>2023-01-29T07:18:16.708Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XG - Shooting Star | SBS 230129 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32708947</id>
+        <link href="https://tv.naver.com/v/32708947"/>
+        <updated>2023-01-29T07:18:16.708Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류지현(RYU JIHYUN) - 씰룩씰룩(Green Light) | SBS 230129 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32708777</id>
+        <link href="https://tv.naver.com/v/32708777"/>
+        <updated>2023-01-29T07:18:16.708Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프림로즈 - PRIMROSE | SBS 230129 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/32708759</id>
+        <link href="https://tv.naver.com/v/32708759"/>
+        <updated>2023-01-29T07:18:16.710Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MONSTA X - Beautiful Liar | SBS 230115 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/32394176</id>
         <link href="https://tv.naver.com/v/32394176"/>
@@ -591,48 +633,6 @@
         <link href="https://tv.naver.com/v/32215244"/>
         <updated>2023-01-08T08:21:48.881Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEEO(히오) - Destiny or Challenge | SBS 230108 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32215115</id>
-        <link href="https://tv.naver.com/v/32215115"/>
-        <updated>2023-01-08T08:21:48.881Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박현서 - 지나갈거야 | SBS 230108 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32215112</id>
-        <link href="https://tv.naver.com/v/32215112"/>
-        <updated>2023-01-08T08:21:48.881Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WeNU(위앤유) - 하루하루 | SBS 230108 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32215019</id>
-        <link href="https://tv.naver.com/v/32215019"/>
-        <updated>2023-01-08T08:21:48.892Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230108 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32214925</id>
-        <link href="https://tv.naver.com/v/32214925"/>
-        <updated>2023-01-08T07:15:38.999Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230108 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32214825</id>
-        <link href="https://tv.naver.com/v/32214825"/>
-        <updated>2023-01-08T07:15:38.999Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이아영 - 조금 더 일찍 이별할 걸 그랬어 | SBS 230108 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32214660</id>
-        <link href="https://tv.naver.com/v/32214660"/>
-        <updated>2023-01-08T07:15:38.999Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[2023 토끼의 해 특집] 방탄소년단 (BTS) - Yet To Come (엠카운트다운)]]></title>
