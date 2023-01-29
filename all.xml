@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-29T09:16:45.893Z</updated>
+    <updated>2023-01-29T10:18:06.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[OMG - 뉴진스(NewJeans) | KBS 230127 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,55 @@
         <content type="html"><![CDATA[05:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['콧대 높은 아씨' 2라운드 무대 - 비나리, MBC 230129 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32712012</id>
+        <link href="https://tv.naver.com/v/32712012"/>
+        <updated>2023-01-29T10:18:05.972Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가왕 할 만두' 2라운드 무대 - 꿈에, MBC 230129 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32711991</id>
+        <link href="https://tv.naver.com/v/32711991"/>
+        <updated>2023-01-29T10:18:05.973Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['넘사벽'의 정체는 라붐의 메인 보컬 & WSG워너비 소연!, MBC 230129 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32711800</id>
+        <link href="https://tv.naver.com/v/32711800"/>
+        <updated>2023-01-29T10:18:05.975Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아이스링크'의 여러 가수 성대모사 개인기✨ feat. 찹쌀떡~ 메밀 묵~🎼, MBC 230129 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32711738</id>
+        <link href="https://tv.naver.com/v/32711738"/>
+        <updated>2023-01-29T10:18:05.978Z</updated>
+        <content type="html"><![CDATA[02:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넘사벽 댄스 실력의 보유자⭐ '넘사벽'의 개인기! ＜넘사벽 앞에서 선보이는 넘사벽 댄스＞, MBC 230129 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32711634</id>
+        <link href="https://tv.naver.com/v/32711634"/>
+        <updated>2023-01-29T10:18:05.980Z</updated>
+        <content type="html"><![CDATA[01:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아이스링크' 2라운드 무대 - 거리에서, MBC 230129 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32711526</id>
+        <link href="https://tv.naver.com/v/32711526"/>
+        <updated>2023-01-29T10:18:05.981Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['넘사벽' 2라운드 무대 - Only One, MBC 230129 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32711510</id>
+        <link href="https://tv.naver.com/v/32711510"/>
+        <updated>2023-01-29T10:18:05.983Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 친근한 매력의 인간 비타민💛! 만능 크리에이터이자 개그우먼 미자!, MBC 230122 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/32673774</id>
         <link href="https://tv.naver.com/v/32673774"/>
@@ -1634,54 +1683,5 @@
         <link href="https://tv.naver.com/v/32397419"/>
         <updated>2023-01-15T11:14:44.238Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금토끼' 3라운드 무대 - 세상이 그대를 속일지라도, MBC 230115 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32397418</id>
-        <link href="https://tv.naver.com/v/32397418"/>
-        <updated>2023-01-15T11:14:44.239Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얼음땡'의 정체는 프리 아나운서 이정민!, 복면가왕 230115 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32397417</id>
-        <link href="https://tv.naver.com/v/32397417"/>
-        <updated>2023-01-15T11:14:44.241Z</updated>
-        <content type="html"><![CDATA[02:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모든 힌트를 관통하는 '복권당첨'은 누구일지?, MBC 230115 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32397314</id>
-        <link href="https://tv.naver.com/v/32397314"/>
-        <updated>2023-01-15T11:14:44.246Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['복권당첨' 2라운드 무대 - 기억의 빈자리, MBC 230115 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32396929</id>
-        <link href="https://tv.naver.com/v/32396929"/>
-        <updated>2023-01-15T11:14:44.250Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['얼음땡' 2라운드 무대 - 사랑하게 될 줄 알았어, MBC 230115 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32396788</id>
-        <link href="https://tv.naver.com/v/32396788"/>
-        <updated>2023-01-15T11:14:44.253Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['해피뉴이어 가랜드'의 정체는 래퍼 퀸 와사비!, MBC 230115 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32396703</id>
-        <link href="https://tv.naver.com/v/32396703"/>
-        <updated>2023-01-15T10:22:04.504Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금토끼'의 지인 가수 규현의 영상 힌트✨, MBC 230115 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32396516</id>
-        <link href="https://tv.naver.com/v/32396516"/>
-        <updated>2023-01-15T10:22:04.504Z</updated>
-        <content type="html"><![CDATA[02:06]]></content>
     </entry>
 </feed>
