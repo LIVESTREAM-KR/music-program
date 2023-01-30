@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-01-30T06:23:54.535Z</updated>
+    <updated>2023-01-30T07:17:37.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] 라붐 소연 3R 리허설 무대 영상 - 시간을 거슬러, MBC 230129 방송]]></title>
+        <id>https://tv.naver.com/v/32731268</id>
+        <link href="https://tv.naver.com/v/32731268"/>
+        <updated>2023-01-30T07:17:36.861Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜7연승 앞둔 가왕의 최대 위협＞ 복면가왕 390회 예고, MBC 230205 방송]]></title>
         <id>https://tv.naver.com/v/32713170</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32558884"/>
         <updated>2023-01-22T10:18:29.690Z</updated>
         <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['넘사벽' VS '만렙'의 1라운드 무대 - 이유같지 않은 이유, MBC 230122 방송]]></title>
-        <id>https://tv.naver.com/v/32558820</id>
-        <link href="https://tv.naver.com/v/32558820"/>
-        <updated>2023-01-22T10:18:29.701Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
     </entry>
 </feed>
