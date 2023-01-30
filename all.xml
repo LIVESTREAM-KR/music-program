@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-30T09:18:49.349Z</updated>
+    <updated>2023-01-30T10:20:45.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[OMG - 뉴진스(NewJeans) | KBS 230127 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 민주 X 리노(민호) , 1월 넷째 주 음악중심 MC 컷 모음!, MBC 230128 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32736990</id>
+        <link href="https://tv.naver.com/v/32736990"/>
+        <updated>2023-01-30T10:20:03.780Z</updated>
+        <content type="html"><![CDATA[12:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ILY:1 RONA – Twinkle Twinkle(아일리원 로나 - 별꽃동화) FanCam | Show! MusicCore | MBC230128방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/32694416</id>
         <link href="https://tv.naver.com/v/32694416"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/32692479"/>
         <updated>2023-01-28T08:21:40.515Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스지 - 슈팅 스타 (XG - SHOOTING STAR), MBC 230128 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32692476</id>
-        <link href="https://tv.naver.com/v/32692476"/>
-        <updated>2023-01-28T08:21:40.517Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MONSTA X - Beautiful Liar | SBS 230129 방송 (인기가요)]]></title>
