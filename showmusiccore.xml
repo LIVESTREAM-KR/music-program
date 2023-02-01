@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-01T08:23:54.176Z</updated>
+    <updated>2023-02-01T09:19:01.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[January TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/32794463</id>
+        <link href="https://tv.naver.com/v/32794463"/>
+        <updated>2023-02-01T09:18:19.066Z</updated>
+        <content type="html"><![CDATA[32:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 민주 X 리노(민호) , 1월 넷째 주 음악중심 MC 컷 모음!, MBC 230128 방송]]></title>
         <id>https://tv.naver.com/v/32736990</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32692595"/>
         <updated>2023-01-28T08:21:40.514Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히오 - 데스티니 오어 챌린지 (HEEO - Destiny or Challenge), MBC 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32692479</id>
-        <link href="https://tv.naver.com/v/32692479"/>
-        <updated>2023-01-28T08:21:40.515Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
