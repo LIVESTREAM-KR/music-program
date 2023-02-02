@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-02T10:21:17.345Z</updated>
+    <updated>2023-02-02T11:16:30.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 치명적인 음색으로 심장 저격🔫 슈퍼밴드 출신의 싱어송라이터 홍이삭!  , MBC 230129 방송]]></title>
+        <id>https://tv.naver.com/v/32828168</id>
+        <link href="https://tv.naver.com/v/32828168"/>
+        <updated>2023-02-02T11:16:30.113Z</updated>
+        <content type="html"><![CDATA[09:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 판정단을 매료시킨 시원시원한 가창력🎶 라붐의 메인보컬 소연! , MBC 230129 방송]]></title>
         <id>https://tv.naver.com/v/32828016</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32558979"/>
         <updated>2023-01-22T10:18:29.686Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['만렙'의 정체는 크리에이터 풍자!, MBC 230122 방송]]></title>
-        <id>https://tv.naver.com/v/32558885</id>
-        <link href="https://tv.naver.com/v/32558885"/>
-        <updated>2023-01-22T10:18:29.688Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
