@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-02-02T09:19:15.290Z</updated>
+    <updated>2023-02-02T10:21:17.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이지영 - Queen | Mnet 230202 방송]]></title>
+        <id>https://tv.naver.com/v/32828021</id>
+        <link href="https://tv.naver.com/v/32828021"/>
+        <updated>2023-02-02T10:20:44.843Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HOT DEBUT' 8TURN(에잇턴) - TIC TAC | Mnet 230202 방송]]></title>
+        <id>https://tv.naver.com/v/32828018</id>
+        <link href="https://tv.naver.com/v/32828018"/>
+        <updated>2023-02-02T10:20:44.849Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류지현 (RYU JIHYUN) - 씰룩씰룩 (Green Light) | Mnet 230202 방송]]></title>
+        <id>https://tv.naver.com/v/32827909</id>
+        <link href="https://tv.naver.com/v/32827909"/>
+        <updated>2023-02-02T10:20:44.851Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with 8TURN(에잇턴) | Mnet 230202 방송]]></title>
+        <id>https://tv.naver.com/v/32827908</id>
+        <link href="https://tv.naver.com/v/32827908"/>
+        <updated>2023-02-02T10:20:44.851Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Fireworks | Mnet 230202 방송]]></title>
+        <id>https://tv.naver.com/v/32827534</id>
+        <link href="https://tv.naver.com/v/32827534"/>
+        <updated>2023-02-02T10:20:44.851Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프림로즈 - PRIMROSE | Mnet 230202 방송]]></title>
+        <id>https://tv.naver.com/v/32827531</id>
+        <link href="https://tv.naver.com/v/32827531"/>
+        <updated>2023-02-02T10:20:44.851Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uni(유니) - DIVE | Mnet 230202 방송]]></title>
+        <id>https://tv.naver.com/v/32827196</id>
+        <link href="https://tv.naver.com/v/32827196"/>
+        <updated>2023-02-02T10:20:44.851Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다나카가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/32761800</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/32644327"/>
         <updated>2023-01-26T10:19:41.666Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엠카 마스코트 미연🐰 이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/32605863</id>
-        <link href="https://tv.naver.com/v/32605863"/>
-        <updated>2023-01-25T05:17:01.250Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' GOT the beat - Stamp On It | Mnet 230119 방송]]></title>
-        <id>https://tv.naver.com/v/32508908</id>
-        <link href="https://tv.naver.com/v/32508908"/>
-        <updated>2023-01-19T11:16:02.598Z</updated>
-        <content type="html"><![CDATA[05:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['STORAGE M' VIXX(빅스) (레오, 켄, 혁) - 도원경 (桃源境)+사슬 (Chained Up)+저주인형 | Mnet 230119 방송]]></title>
-        <id>https://tv.naver.com/v/32508907</id>
-        <link href="https://tv.naver.com/v/32508907"/>
-        <updated>2023-01-19T11:16:02.601Z</updated>
-        <content type="html"><![CDATA[07:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['STORAGE M' with VIXX (빅스) | Mnet 230119 방송]]></title>
-        <id>https://tv.naver.com/v/32508575</id>
-        <link href="https://tv.naver.com/v/32508575"/>
-        <updated>2023-01-19T11:16:02.609Z</updated>
-        <content type="html"><![CDATA[02:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬스타엑스 - Beautiful Liar | Mnet 230119 방송]]></title>
-        <id>https://tv.naver.com/v/32508574</id>
-        <link href="https://tv.naver.com/v/32508574"/>
-        <updated>2023-01-19T11:16:02.611Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문빈&산하(ASTRO) - Madness | Mnet 230119 방송]]></title>
-        <id>https://tv.naver.com/v/32508485</id>
-        <link href="https://tv.naver.com/v/32508485"/>
-        <updated>2023-01-19T11:16:02.640Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 - Puzzle | Mnet 230119 방송]]></title>
-        <id>https://tv.naver.com/v/32508484</id>
-        <link href="https://tv.naver.com/v/32508484"/>
-        <updated>2023-01-19T11:16:02.640Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
     </entry>
 </feed>

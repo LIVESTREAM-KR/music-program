@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-02T09:19:15.292Z</updated>
+    <updated>2023-02-02T10:21:17.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 판정단을 매료시킨 시원시원한 가창력🎶 라붐의 메인보컬 소연! , MBC 230129 방송]]></title>
+        <id>https://tv.naver.com/v/32828016</id>
+        <link href="https://tv.naver.com/v/32828016"/>
+        <updated>2023-02-02T10:21:16.648Z</updated>
+        <content type="html"><![CDATA[08:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분 공개] 라붐 소연 3R 리허설 무대 영상 - 시간을 거슬러, MBC 230129 방송]]></title>
         <id>https://tv.naver.com/v/32731268</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32558885"/>
         <updated>2023-01-22T10:18:29.688Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['넘사벽' & '만렙'의 지인 신기루가 주는 두 사람의 결정적 힌트!💥, MBC 230122 방송]]></title>
-        <id>https://tv.naver.com/v/32558884</id>
-        <link href="https://tv.naver.com/v/32558884"/>
-        <updated>2023-01-22T10:18:29.690Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
     </entry>
 </feed>
