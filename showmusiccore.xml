@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-03T07:17:14.593Z</updated>
+    <updated>2023-02-03T08:23:21.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LEE.zip 📂 Show! Music Core Last Lame LEE Special Compilation]]></title>
+        <id>https://tv.naver.com/v/32828756</id>
+        <link href="https://tv.naver.com/v/32828756"/>
+        <updated>2023-02-03T08:22:38.251Z</updated>
+        <content type="html"><![CDATA[55:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[January TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/32794463</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32692669"/>
         <updated>2023-01-28T08:21:40.513Z</updated>
         <content type="html"><![CDATA[05:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시그니처 - 오로라 (cignature - AURORA), MBC 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32692595</id>
-        <link href="https://tv.naver.com/v/32692595"/>
-        <updated>2023-01-28T08:21:40.514Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
