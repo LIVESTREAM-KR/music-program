@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-04T08:21:52.762Z</updated>
+    <updated>2023-02-04T09:17:13.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Sugar Rush Ride - TOMORROW X TOGETHER | KBS 230203 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,132 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] 8TURN – TIC TAC(에잇턴 - 틱 택) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32878325</id>
+        <link href="https://tv.naver.com/v/32878325"/>
+        <updated>2023-02-04T09:16:31.039Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] XG COCONA – SHOOTING STAR(엑스지 코코나 - 슈팅 스타) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32878221</id>
+        <link href="https://tv.naver.com/v/32878221"/>
+        <updated>2023-02-04T09:16:31.039Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] XG HARVEY – SHOOTING STAR(엑스지 하비 - 슈팅 스타) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32878140</id>
+        <link href="https://tv.naver.com/v/32878140"/>
+        <updated>2023-02-04T09:16:31.039Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ILY:1 - Twinkle Twinkle(아일리원 – 별꽃동화) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32878081</id>
+        <link href="https://tv.naver.com/v/32878081"/>
+        <updated>2023-02-04T09:16:31.050Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] AIMERS – Fireworks(에이머스 - 불꽃놀이) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32878080</id>
+        <link href="https://tv.naver.com/v/32878080"/>
+        <updated>2023-02-04T09:16:31.060Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] XG - SHOOTING STAR(엑스지 – 슈팅 스타) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877949</id>
+        <link href="https://tv.naver.com/v/32877949"/>
+        <updated>2023-02-04T09:16:31.061Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 YUTA – Ay-Yo(엔시티 127 유타 - 에이요) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877761</id>
+        <link href="https://tv.naver.com/v/32877761"/>
+        <updated>2023-02-04T09:16:31.061Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEIL – Ay-Yo(엔시티 127 태일 - 에이요) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877758</id>
+        <link href="https://tv.naver.com/v/32877758"/>
+        <updated>2023-02-04T09:16:31.062Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VIVIZ UMJI – PULL UP(비비지 엄지 - 풀업) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877628</id>
+        <link href="https://tv.naver.com/v/32877628"/>
+        <updated>2023-02-04T09:16:31.062Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VIVIZ EUNHA – PULL UP(비비지 은하 - 풀업) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877626</id>
+        <link href="https://tv.naver.com/v/32877626"/>
+        <updated>2023-02-04T09:16:31.062Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 MARK – Ay-Yo(엔시티 127 마크 - 에이요) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877625</id>
+        <link href="https://tv.naver.com/v/32877625"/>
+        <updated>2023-02-04T09:16:31.065Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 JAEHYUN – Ay-Yo(엔시티 127 재현 - 에이요) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877624</id>
+        <link href="https://tv.naver.com/v/32877624"/>
+        <updated>2023-02-04T09:16:31.068Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 JOHNNY – Ay-Yo(엔시티 127 쟈니 - 에이요) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877623</id>
+        <link href="https://tv.naver.com/v/32877623"/>
+        <updated>2023-02-04T09:16:31.069Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VIVIZ - PULL UP(비비지 – 풀업) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877532</id>
+        <link href="https://tv.naver.com/v/32877532"/>
+        <updated>2023-02-04T09:16:31.070Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 JUNGWOO – Ay-Yo(엔시티 127 정우 - 에이요) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877531</id>
+        <link href="https://tv.naver.com/v/32877531"/>
+        <updated>2023-02-04T09:16:31.078Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 DOYOUNG – Ay-Yo(엔시티 127 도영 - 에이요) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877428</id>
+        <link href="https://tv.naver.com/v/32877428"/>
+        <updated>2023-02-04T09:16:31.080Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 - DJ(엔시티 127 – 디제이) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877330</id>
+        <link href="https://tv.naver.com/v/32877330"/>
+        <updated>2023-02-04T09:16:31.082Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN – Ay-Yo(엔시티 127 해찬 - 에이요) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877329</id>
+        <link href="https://tv.naver.com/v/32877329"/>
+        <updated>2023-02-04T09:16:31.084Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] NCT 127 TAEYONG – Ay-Yo(엔시티 127 태용 - 에이요) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/32877228</id>
         <link href="https://tv.naver.com/v/32877228"/>
@@ -297,132 +423,6 @@
         <link href="https://tv.naver.com/v/32875995"/>
         <updated>2023-02-04T07:15:16.233Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원 - 별꽃동화 (ILY:1 - Twinkle Twinkle), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32875973</id>
-        <link href="https://tv.naver.com/v/32875973"/>
-        <updated>2023-02-04T07:15:16.234Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이머스 - 불꽃놀이 (AIMERS - Fireworks), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32875873</id>
-        <link href="https://tv.naver.com/v/32875873"/>
-        <updated>2023-02-04T07:15:16.234Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프림로즈 - PRIMROSE (PRIMROSE - PRIMROSE), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32875752</id>
-        <link href="https://tv.naver.com/v/32875752"/>
-        <updated>2023-02-04T07:15:16.235Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에잇턴 - 틱 택 (8TURN - TIC TAC), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32875653</id>
-        <link href="https://tv.naver.com/v/32875653"/>
-        <updated>2023-02-04T07:15:16.235Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스지 - 슈팅 스타 (XG - SHOOTING STAR), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32875536</id>
-        <link href="https://tv.naver.com/v/32875536"/>
-        <updated>2023-02-04T07:15:16.236Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니 - 다이브 (uni - DIVE), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32875376</id>
-        <link href="https://tv.naver.com/v/32875376"/>
-        <updated>2023-02-04T07:15:16.238Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] ATEEZ – HALAZIA(에이티즈 - 할라지아)  | Show! Music Core (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32849933</id>
-        <link href="https://tv.naver.com/v/32849933"/>
-        <updated>2023-02-03T09:18:05.284Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE.zip 📂 Show! Music Core Last Lame LEE Special Compilation (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32828756</id>
-        <link href="https://tv.naver.com/v/32828756"/>
-        <updated>2023-02-03T08:22:38.251Z</updated>
-        <content type="html"><![CDATA[55:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32794463</id>
-        <link href="https://tv.naver.com/v/32794463"/>
-        <updated>2023-02-01T09:18:19.066Z</updated>
-        <content type="html"><![CDATA[32:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 민주 X 리노(민호) , 1월 넷째 주 음악중심 MC 컷 모음!, MBC 230128 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32736990</id>
-        <link href="https://tv.naver.com/v/32736990"/>
-        <updated>2023-01-30T10:20:03.780Z</updated>
-        <content type="html"><![CDATA[12:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILY:1 RONA – Twinkle Twinkle(아일리원 로나 - 별꽃동화) FanCam | Show! MusicCore | MBC230128방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32694416</id>
-        <link href="https://tv.naver.com/v/32694416"/>
-        <updated>2023-01-28T09:17:00.840Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILY:1 - Twinkle Twinkle(아일리원 – 별꽃동화) FanCam | Show! MusicCore | MBC230128방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32694413</id>
-        <link href="https://tv.naver.com/v/32694413"/>
-        <updated>2023-01-28T09:17:00.840Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILY:1 RIRIKA – Twinkle Twinkle(아일리원 리리카 - 별꽃동화) FanCam | Show! MusicCore | MBC230128방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32694142</id>
-        <link href="https://tv.naver.com/v/32694142"/>
-        <updated>2023-01-28T09:17:00.859Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG MAYA – SHOOTING STAR(엑스지 마야 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32694038</id>
-        <link href="https://tv.naver.com/v/32694038"/>
-        <updated>2023-01-28T09:17:00.859Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG HARVEY – SHOOTING STAR(엑스지 하비 - 슈팅 스타) FanCam | Show! MusicCore | MBC230128방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32693977</id>
-        <link href="https://tv.naver.com/v/32693977"/>
-        <updated>2023-01-28T09:17:00.861Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Espero – Endless(에스페로 - 엔드리스) FanCam | Show! MusicCore | MBC230128방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32693955</id>
-        <link href="https://tv.naver.com/v/32693955"/>
-        <updated>2023-01-28T09:17:00.861Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RYU JIHYUN – Green Light(류지현 - 씰룩씰룩) FanCam | Show! MusicCore | MBC230128방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32693954</id>
-        <link href="https://tv.naver.com/v/32693954"/>
-        <updated>2023-01-28T09:17:00.865Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YESUNG - Small Things(예성 – 스몰 띵스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230128방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32693768</id>
-        <link href="https://tv.naver.com/v/32693768"/>
-        <updated>2023-01-28T09:17:00.873Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MONSTA X - Beautiful Liar | SBS 230129 방송 (인기가요)]]></title>
