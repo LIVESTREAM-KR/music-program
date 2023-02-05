@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-05T11:15:33.236Z</updated>
+    <updated>2023-02-05T12:34:55.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -167,6 +167,13 @@
         <content type="html"><![CDATA[04:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[세로 직캠] 선예X조권 - 바람기억 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32864054</id>
+        <link href="https://tv.naver.com/v/32864054"/>
+        <updated>2023-02-05T12:34:48.120Z</updated>
+        <content type="html"><![CDATA[05:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[바다 - 마리아  | KBS 230128 방송]]></title>
         <id>https://tv.naver.com/v/32731946</id>
         <link href="https://tv.naver.com/v/32731946"/>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32696715"/>
         <updated>2023-02-04T17:15:48.149Z</updated>
         <content type="html"><![CDATA[01:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민혜 - 좋은 날 | KBS 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32696601</id>
-        <link href="https://tv.naver.com/v/32696601"/>
-        <updated>2023-02-04T17:15:48.150Z</updated>
-        <content type="html"><![CDATA[04:34]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-05T11:15:33.252Z</updated>
+    <updated>2023-02-05T12:34:55.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Sugar Rush Ride - TOMORROW X TOGETHER | KBS 230203 방송 (뮤직뱅크)]]></title>
@@ -436,7 +436,7 @@
         <id>https://tv.naver.com/v/32894237</id>
         <link href="https://tv.naver.com/v/32894237"/>
         <updated>2023-02-05T08:21:26.832Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
+        <content type="html"><![CDATA[02:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VIVIZ - PULL UP | SBS 230205 방송 (인기가요)]]></title>
@@ -1426,6 +1426,13 @@
         <content type="html"><![CDATA[04:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[세로 직캠] 선예X조권 - 바람기억 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/32864054</id>
+        <link href="https://tv.naver.com/v/32864054"/>
+        <updated>2023-02-05T12:34:48.120Z</updated>
+        <content type="html"><![CDATA[05:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[바다 - 마리아  | KBS 230128 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/32731946</id>
         <link href="https://tv.naver.com/v/32731946"/>
@@ -1468,11 +1475,18 @@
         <content type="html"><![CDATA[01:50]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박민혜 - 좋은 날 | KBS 230128 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/32696601</id>
-        <link href="https://tv.naver.com/v/32696601"/>
-        <updated>2023-02-04T17:15:48.150Z</updated>
-        <content type="html"><![CDATA[04:34]]></content>
+        <title type="html"><![CDATA[＜신이 내린 목소리는 7연승의 고지를 넘을 수 있을까?＞ 복면가왕 391회 예고, MBC 230212 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32898239</id>
+        <link href="https://tv.naver.com/v/32898239"/>
+        <updated>2023-02-05T12:34:54.765Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['날라리 선도부장'의 정체는 위댐보이즈의 리더 바타!, MBC 230205 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/32898026</id>
+        <link href="https://tv.naver.com/v/32898026"/>
+        <updated>2023-02-05T12:34:54.766Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베리베리 강민X연호와 함께하는 '날아라 전교회장'의 개인기 타임 🌟 ＜흐린 기억 속의 그대＞에 맞춰 추는 댄스!, MBC 230205 방송 (복면가왕)]]></title>
@@ -1669,19 +1683,5 @@
         <link href="https://tv.naver.com/v/32711634"/>
         <updated>2023-01-29T10:18:05.980Z</updated>
         <content type="html"><![CDATA[01:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아이스링크' 2라운드 무대 - 거리에서, MBC 230129 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32711526</id>
-        <link href="https://tv.naver.com/v/32711526"/>
-        <updated>2023-01-29T10:18:05.981Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['넘사벽' 2라운드 무대 - Only One, MBC 230129 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/32711510</id>
-        <link href="https://tv.naver.com/v/32711510"/>
-        <updated>2023-01-29T10:18:05.983Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>

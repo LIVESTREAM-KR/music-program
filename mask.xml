@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-05T11:15:33.245Z</updated>
+    <updated>2023-02-05T12:34:55.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜신이 내린 목소리는 7연승의 고지를 넘을 수 있을까?＞ 복면가왕 391회 예고, MBC 230212 방송]]></title>
+        <id>https://tv.naver.com/v/32898239</id>
+        <link href="https://tv.naver.com/v/32898239"/>
+        <updated>2023-02-05T12:34:54.765Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['날라리 선도부장'의 정체는 위댐보이즈의 리더 바타!, MBC 230205 방송]]></title>
+        <id>https://tv.naver.com/v/32898026</id>
+        <link href="https://tv.naver.com/v/32898026"/>
+        <updated>2023-02-05T12:34:54.766Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[베리베리 강민X연호와 함께하는 '날아라 전교회장'의 개인기 타임 🌟 ＜흐린 기억 속의 그대＞에 맞춰 추는 댄스!, MBC 230205 방송]]></title>
         <id>https://tv.naver.com/v/32897424</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32711634"/>
         <updated>2023-01-29T10:18:05.980Z</updated>
         <content type="html"><![CDATA[01:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아이스링크' 2라운드 무대 - 거리에서, MBC 230129 방송]]></title>
-        <id>https://tv.naver.com/v/32711526</id>
-        <link href="https://tv.naver.com/v/32711526"/>
-        <updated>2023-01-29T10:18:05.981Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['넘사벽' 2라운드 무대 - Only One, MBC 230129 방송]]></title>
-        <id>https://tv.naver.com/v/32711510</id>
-        <link href="https://tv.naver.com/v/32711510"/>
-        <updated>2023-01-29T10:18:05.983Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>

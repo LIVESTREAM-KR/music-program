@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-02-05T11:15:33.227Z</updated>
+    <updated>2023-02-05T12:34:55.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://tv.naver.com/v/32894237</id>
         <link href="https://tv.naver.com/v/32894237"/>
         <updated>2023-02-05T08:21:26.832Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
+        <content type="html"><![CDATA[02:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[VIVIZ - PULL UP | SBS 230205 방송]]></title>
