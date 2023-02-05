@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-05T12:34:55.350Z</updated>
+    <updated>2023-02-05T13:21:25.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 선예X조권 - 바람기억 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32900420</id>
+        <link href="https://tv.naver.com/v/32900420"/>
+        <updated>2023-02-05T13:21:18.521Z</updated>
+        <content type="html"><![CDATA[05:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 이보람X흰 - 바람의 노래 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32900419</id>
+        <link href="https://tv.naver.com/v/32900419"/>
+        <updated>2023-02-05T13:21:18.522Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 선예X조권 - 바람기억 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32900136</id>
+        <link href="https://tv.naver.com/v/32900136"/>
+        <updated>2023-02-05T13:21:18.523Z</updated>
+        <content type="html"><![CDATA[05:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 이보람X흰 - 바람의 노래 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32900045</id>
+        <link href="https://tv.naver.com/v/32900045"/>
+        <updated>2023-02-05T13:21:18.523Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 592회〈2023 오 마이 스타 특집＞ 우승자 ⭐민우혁X정선아⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/32881481</id>
@@ -167,13 +195,6 @@
         <content type="html"><![CDATA[04:35]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[세로 직캠] 선예X조권 - 바람기억 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/32864054</id>
-        <link href="https://tv.naver.com/v/32864054"/>
-        <updated>2023-02-05T12:34:48.120Z</updated>
-        <content type="html"><![CDATA[05:32]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[바다 - 마리아  | KBS 230128 방송]]></title>
         <id>https://tv.naver.com/v/32731946</id>
         <link href="https://tv.naver.com/v/32731946"/>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/32696831"/>
         <updated>2023-01-28T12:31:47.089Z</updated>
         <content type="html"><![CDATA[05:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기립할 수밖에 없는 감동💧 최강의 몰입도를 보여준 이보람의 무대✨ | KBS 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32696724</id>
-        <link href="https://tv.naver.com/v/32696724"/>
-        <updated>2023-02-04T17:15:48.146Z</updated>
-        <content type="html"><![CDATA[01:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 591회〈천상계 고음 종결자 특집＞ 우승자 ⭐윤성⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/32696717</id>
-        <link href="https://tv.naver.com/v/32696717"/>
-        <updated>2023-02-04T17:15:48.147Z</updated>
-        <content type="html"><![CDATA[01:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 오빠가 와도 고백 거절 불가! 감탄의 5단 고음을✨ 보여준 박민혜의 무대! | KBS 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32696715</id>
-        <link href="https://tv.naver.com/v/32696715"/>
-        <updated>2023-02-04T17:15:48.149Z</updated>
-        <content type="html"><![CDATA[01:50]]></content>
     </entry>
 </feed>
