@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-06T01:24:36.851Z</updated>
+    <updated>2023-02-06T02:41:52.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 김조한XUV - End of The Road | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32910097</id>
+        <link href="https://tv.naver.com/v/32910097"/>
+        <updated>2023-02-06T02:41:44.499Z</updated>
+        <content type="html"><![CDATA[05:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 정선아X민우혁 - This is ME | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/32909362</id>
+        <link href="https://tv.naver.com/v/32909362"/>
+        <updated>2023-02-06T02:41:44.503Z</updated>
+        <content type="html"><![CDATA[05:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로 직캠] 김조한XUV - End of The Road | KBS 방송]]></title>
         <id>https://tv.naver.com/v/32909239</id>
@@ -13,25 +27,11 @@
         <content type="html"><![CDATA[05:42]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김조한 & UV - End of The Road | KBS 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32909236</id>
-        <link href="https://tv.naver.com/v/32909236"/>
-        <updated>2023-02-06T01:24:30.232Z</updated>
-        <content type="html"><![CDATA[05:46]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[세로 직캠] 정선아X민우혁 - This is ME | KBS 방송]]></title>
         <id>https://tv.naver.com/v/32909232</id>
         <link href="https://tv.naver.com/v/32909232"/>
         <updated>2023-02-06T01:24:30.232Z</updated>
         <content type="html"><![CDATA[05:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정선아 & 민우혁 - This Is Me | KBS 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32909078</id>
-        <link href="https://tv.naver.com/v/32909078"/>
-        <updated>2023-02-06T01:24:30.233Z</updated>
-        <content type="html"><![CDATA[05:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[4K 직캠] 선예X조권 - 바람기억 | KBS 방송]]></title>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[02:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[정선아 & 민우혁 - This Is Me | KBS 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32909078</id>
+        <link href="https://tv.naver.com/v/32909078"/>
+        <updated>2023-02-06T01:24:30.233Z</updated>
+        <content type="html"><![CDATA[05:20]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[시원한 공기청정기 같은 무대! 목소리만으로 숲을 선사한 이보람&HYNN!🍃🌼 | KBS 230204 방송]]></title>
         <id>https://tv.naver.com/v/32880942</id>
         <link href="https://tv.naver.com/v/32880942"/>
@@ -188,6 +195,13 @@
         <content type="html"><![CDATA[01:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김조한 & UV - End of The Road | KBS 230204 방송]]></title>
+        <id>https://tv.naver.com/v/32909236</id>
+        <link href="https://tv.naver.com/v/32909236"/>
+        <updated>2023-02-06T01:24:30.232Z</updated>
+        <content type="html"><![CDATA[05:46]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UV + 김조한 = 조지피플🕺🕺 어머니를 향한 마음, 세윤의 진심이 담긴 선곡 | KBS 230204 방송]]></title>
         <id>https://tv.naver.com/v/32879813</id>
         <link href="https://tv.naver.com/v/32879813"/>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32879404"/>
         <updated>2023-02-04T10:18:17.236Z</updated>
         <content type="html"><![CDATA[02:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리스펙트 자랑 시간! 선배님들은 의욕 게이지 MAX🔥 화끈하게 붙어보자!  | KBS 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32879396</id>
-        <link href="https://tv.naver.com/v/32879396"/>
-        <updated>2023-02-04T10:18:17.247Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각 장르별 레전드 최강자 총출동! 오늘의 라인업💖✨ 팽팽한 신경전! | KBS 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32879315</id>
-        <link href="https://tv.naver.com/v/32879315"/>
-        <updated>2023-02-04T10:18:17.248Z</updated>
-        <content type="html"><![CDATA[01:50]]></content>
     </entry>
 </feed>
