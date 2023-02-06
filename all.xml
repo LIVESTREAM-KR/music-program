@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-06T05:17:55.448Z</updated>
+    <updated>2023-02-06T06:25:40.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Sugar Rush Ride - TOMORROW X TOGETHER | KBS 230203 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,41 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 DOYOUNG - DJ(엔시티 127 도영 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32917468</id>
+        <link href="https://tv.naver.com/v/32917468"/>
+        <updated>2023-02-06T06:24:57.140Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 JAEHYUN - DJ(엔시티 127 재현 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32917467</id>
+        <link href="https://tv.naver.com/v/32917467"/>
+        <updated>2023-02-06T06:24:57.142Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 JUNGWOO - DJ(엔시티 127 정우 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32917298</id>
+        <link href="https://tv.naver.com/v/32917298"/>
+        <updated>2023-02-06T06:24:57.144Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 쟈니 , 2월 첫째 주 음악중심 MC 컷 모음!, MBC 230204 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32917075</id>
+        <link href="https://tv.naver.com/v/32917075"/>
+        <updated>2023-02-06T06:24:57.148Z</updated>
+        <content type="html"><![CDATA[13:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 JOHNNY - DJ(엔시티 127 쟈니 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32916886</id>
+        <link href="https://tv.naver.com/v/32916886"/>
+        <updated>2023-02-06T06:24:57.149Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] 8TURN – TIC TAC(에잇턴 - 틱 택) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/32878325</id>
         <link href="https://tv.naver.com/v/32878325"/>
@@ -355,74 +390,39 @@
         <content type="html"><![CDATA[04:03]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔시티 127 - 에이요 (NCT 127 - Ay-Yo), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876770</id>
-        <link href="https://tv.naver.com/v/32876770"/>
-        <updated>2023-02-04T08:21:12.081Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 MARK – DJ(엔시티 127 마크 - 디제이) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877136</id>
+        <link href="https://tv.naver.com/v/32877136"/>
+        <updated>2023-02-06T06:24:57.214Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엔시티 127 - 디제이 (NCT 127 - DJ), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876571</id>
-        <link href="https://tv.naver.com/v/32876571"/>
-        <updated>2023-02-04T08:21:12.081Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비지 - 풀 업 (VIVIZ - PULL UP), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876568</id>
-        <link href="https://tv.naver.com/v/32876568"/>
-        <updated>2023-02-04T08:21:12.081Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승윤 - 꿈의 거처 (Lee Seung Yoon - Shelter Of Dreams), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876481</id>
-        <link href="https://tv.naver.com/v/32876481"/>
-        <updated>2023-02-04T08:21:12.086Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시그니처 - 오로라 (cignature - AURORA), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876479</id>
-        <link href="https://tv.naver.com/v/32876479"/>
-        <updated>2023-02-04T08:21:12.086Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종서 - 인 마이 라이프 (Kim Jong Seo - In my life), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876381</id>
-        <link href="https://tv.naver.com/v/32876381"/>
-        <updated>2023-02-04T08:21:12.087Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원(Jeong Dong Won) in 코노돌🎉 - (테이 - Monologue, 싸이 - That That), MBC 230204방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876294</id>
-        <link href="https://tv.naver.com/v/32876294"/>
-        <updated>2023-02-04T08:21:12.087Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지영 - 퀸 (Lee Jiyoung - Queen), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876186</id>
-        <link href="https://tv.naver.com/v/32876186"/>
-        <updated>2023-02-04T08:21:12.091Z</updated>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEIL – DJ(엔시티 127 태일 - 디제이) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877054</id>
+        <link href="https://tv.naver.com/v/32877054"/>
+        <updated>2023-02-06T06:24:57.216Z</updated>
         <content type="html"><![CDATA[02:43]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경서 - 나의 X에게 (KyoungSeo - Dear my X), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876075</id>
-        <link href="https://tv.naver.com/v/32876075"/>
-        <updated>2023-02-04T08:21:12.096Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 YUTA – DJ(엔시티 127 유타 - 디제이) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32877052</id>
+        <link href="https://tv.naver.com/v/32877052"/>
+        <updated>2023-02-06T06:24:57.226Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[류지현 - 씰룩씰룩 (RYU JIHYUN - Green Light), MBC 230204 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32875995</id>
-        <link href="https://tv.naver.com/v/32875995"/>
-        <updated>2023-02-04T07:15:16.233Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN – DJ(엔시티 127 해찬 - 디제이) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32876986</id>
+        <link href="https://tv.naver.com/v/32876986"/>
+        <updated>2023-02-06T06:24:57.226Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEYONG – DJ(엔시티 127 태용 - 디제이) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32876895</id>
+        <link href="https://tv.naver.com/v/32876895"/>
+        <updated>2023-02-06T06:24:57.226Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 - Ay-Yo | SBS 230205 방송 (인기가요)]]></title>
@@ -1272,7 +1272,7 @@
         <content type="html"><![CDATA[05:42]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[4K 직캠] 정선아X민우혁 - This is ME | KBS 방송 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[[4K 직캠] 정선아X민우혁 - This is Me | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/32909362</id>
         <link href="https://tv.naver.com/v/32909362"/>
         <updated>2023-02-06T02:41:44.503Z</updated>
