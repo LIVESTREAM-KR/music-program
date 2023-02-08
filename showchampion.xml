@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-02-08T09:21:11.069Z</updated>
+    <updated>2023-02-08T10:22:53.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BUMJIN - We'll remain a novel (범진 - 우린 한 편의 소설로 남겠죠(이별소설)) l Show Champion l EP.462]]></title>
+        <id>https://tv.naver.com/v/32991890</id>
+        <link href="https://tv.naver.com/v/32991890"/>
+        <updated>2023-02-08T10:22:37.854Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRIMROSE - PRIMROSE (프림로즈 - 프림로즈) l Show Champion l EP.462]]></title>
+        <id>https://tv.naver.com/v/32991731</id>
+        <link href="https://tv.naver.com/v/32991731"/>
+        <updated>2023-02-08T10:22:37.856Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uni - DIVE (유니 - 다이브) l Show Champion l EP.462]]></title>
+        <id>https://tv.naver.com/v/32991177</id>
+        <link href="https://tv.naver.com/v/32991177"/>
+        <updated>2023-02-08T10:22:37.858Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼챔피언을 찾아온 새로운 얼굴들 문수아X나나X츠키 잘 부탁해요♥ l Show Champion l EP.462]]></title>
+        <id>https://tv.naver.com/v/32990959</id>
+        <link href="https://tv.naver.com/v/32990959"/>
+        <updated>2023-02-08T10:22:37.858Z</updated>
+        <content type="html"><![CDATA[01:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOON SUA, NANA, TSUKI - Better  (원곡 : BoA) (문수아, 나나, 츠키 - 베터) l Show Champion l EP.462]]></title>
+        <id>https://tv.naver.com/v/32990956</id>
+        <link href="https://tv.naver.com/v/32990956"/>
+        <updated>2023-02-08T10:22:37.860Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 텐션을 PULL UP할 이번 주 라인업 공개!]]></title>
         <id>https://tv.naver.com/v/32920041</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/31480960"/>
         <updated>2022-12-09T12:36:54.361Z</updated>
         <content type="html"><![CDATA[05:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] P1harmony THEO - Back Down (피원하모니 테오 - 백 다운) | Show Champion | EP.460]]></title>
-        <id>https://tv.naver.com/v/31430183</id>
-        <link href="https://tv.naver.com/v/31430183"/>
-        <updated>2022-12-07T17:17:56.654Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony - Back Down (피원하모니 - 백 다운) l Show Champion l EP.460]]></title>
-        <id>https://tv.naver.com/v/31430095</id>
-        <link href="https://tv.naver.com/v/31430095"/>
-        <updated>2022-12-07T17:17:56.655Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] P1harmony KEEHO - Back Down (피원하모니 기호 - 백 다운) | Show Champion | EP.460]]></title>
-        <id>https://tv.naver.com/v/31430011</id>
-        <link href="https://tv.naver.com/v/31430011"/>
-        <updated>2022-12-07T17:17:56.660Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] P1harmony INTAK - Back Down (피원하모니 인탁 - 백 다운) | Show Champion | EP.460]]></title>
-        <id>https://tv.naver.com/v/31429382</id>
-        <link href="https://tv.naver.com/v/31429382"/>
-        <updated>2022-12-07T16:26:23.337Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] P1harmony JIUNG - Back Down (피원하모니 지웅 - 백 다운) | Show Champion | EP.460]]></title>
-        <id>https://tv.naver.com/v/31429253</id>
-        <link href="https://tv.naver.com/v/31429253"/>
-        <updated>2022-12-07T16:26:23.342Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
