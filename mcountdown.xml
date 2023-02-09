@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-02-09T12:37:33.606Z</updated>
+    <updated>2023-02-09T13:32:57.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' 임창정 - 멍청이 | Mnet 230209 방송]]></title>
+        <id>https://tv.naver.com/v/33015919</id>
+        <link href="https://tv.naver.com/v/33015919"/>
+        <updated>2023-02-09T13:32:29.850Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[비비지(VIVIZ) - PULL UP | Mnet 230209 방송]]></title>
         <id>https://tv.naver.com/v/33015693</id>
         <link href="https://tv.naver.com/v/33015693"/>
@@ -59,7 +66,7 @@
         <id>https://tv.naver.com/v/33015470</id>
         <link href="https://tv.naver.com/v/33015470"/>
         <updated>2023-02-09T11:17:25.790Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
+        <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[XG - SHOOTING STAR | Mnet 230209 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32828416"/>
         <updated>2023-02-02T11:16:01.093Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 비비지(VIVIZ) | Mnet 230202 방송]]></title>
-        <id>https://tv.naver.com/v/32828177</id>
-        <link href="https://tv.naver.com/v/32828177"/>
-        <updated>2023-02-02T11:16:01.095Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
     </entry>
 </feed>
