@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-09T07:18:46.694Z</updated>
+    <updated>2023-02-09T08:24:36.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127.zip 📂 Fire Truck(소방차)부터 Ay-Yo까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/32987257</id>
+        <link href="https://tv.naver.com/v/32987257"/>
+        <updated>2023-02-09T08:23:53.502Z</updated>
+        <content type="html"><![CDATA[01:09:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT 127 DOYOUNG - DJ(엔시티 127 도영 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송]]></title>
         <id>https://tv.naver.com/v/32917468</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32876986"/>
         <updated>2023-02-06T06:24:57.226Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEYONG – DJ(엔시티 127 태용 - 디제이) FanCam | Show! MusicCore | MBC230204방송]]></title>
-        <id>https://tv.naver.com/v/32876895</id>
-        <link href="https://tv.naver.com/v/32876895"/>
-        <updated>2023-02-06T06:24:57.226Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>

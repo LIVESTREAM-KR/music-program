@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-09T07:18:46.720Z</updated>
+    <updated>2023-02-09T08:24:36.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Sugar Rush Ride - TOMORROW X TOGETHER | KBS 230203 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127.zip 📂 Fire Truck(소방차)부터 Ay-Yo까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/32987257</id>
+        <link href="https://tv.naver.com/v/32987257"/>
+        <updated>2023-02-09T08:23:53.502Z</updated>
+        <content type="html"><![CDATA[01:09:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT 127 DOYOUNG - DJ(엔시티 127 도영 - 디제이) Close-up Cam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/32917468</id>
         <link href="https://tv.naver.com/v/32917468"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/32876986"/>
         <updated>2023-02-06T06:24:57.226Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEYONG – DJ(엔시티 127 태용 - 디제이) FanCam | Show! MusicCore | MBC230204방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/32876895</id>
-        <link href="https://tv.naver.com/v/32876895"/>
-        <updated>2023-02-06T06:24:57.226Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 - Ay-Yo | SBS 230205 방송 (인기가요)]]></title>
@@ -1055,6 +1055,20 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ARTBEAT - Aphrodite (Rule The World) (아트비트 - 아프로디테) l Show Champion l EP.462 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33002716</id>
+        <link href="https://tv.naver.com/v/33002716"/>
+        <updated>2023-02-09T08:24:22.136Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] 8TURN - WE (에잇턴 - 위) l Show Champion l EP.462 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33002677</id>
+        <link href="https://tv.naver.com/v/33002677"/>
+        <updated>2023-02-09T08:24:22.136Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ UMJI - PULL UP (비비지 엄지 - 풀 업) | Show Champion | EP.462 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/32994691</id>
         <link href="https://tv.naver.com/v/32994691"/>
@@ -1249,20 +1263,6 @@
         <link href="https://tv.naver.com/v/32992101"/>
         <updated>2023-02-08T11:16:48.023Z</updated>
         <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEEO - Destiny or Challenge (히오 - 데스티니 오어 챌린지) l Show Champion l EP.462 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/32992100</id>
-        <link href="https://tv.naver.com/v/32992100"/>
-        <updated>2023-02-08T11:16:48.024Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HOT DEBUT] 8TURN - TIC TAC (에잇턴 - 틱 택) l Show Champion l EP.462 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/32992098</id>
-        <link href="https://tv.naver.com/v/32992098"/>
-        <updated>2023-02-08T11:16:48.025Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[4K 직캠] 김조한XUV - End of The Road | KBS 방송 (불후의 명곡)]]></title>
