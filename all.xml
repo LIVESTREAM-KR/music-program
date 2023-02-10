@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-10T10:21:55.965Z</updated>
+    <updated>2023-02-10T11:17:11.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230210 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2월 2주 1위 '투모로우바이투게더'의 'Sugar Rush Ride' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33045746</id>
+        <link href="https://tv.naver.com/v/33045746"/>
+        <updated>2023-02-10T11:16:43.307Z</updated>
+        <content type="html"><![CDATA[05:58]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 부석순 (SEVENTEEN) - 파이팅 해야지 (Feat. 이영지) | Mnet 230209 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/33016175</id>
         <link href="https://tv.naver.com/v/33016175"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/32828417"/>
         <updated>2023-02-02T11:16:01.091Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종서 - In my life | Mnet 230202 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/32828416</id>
-        <link href="https://tv.naver.com/v/32828416"/>
-        <updated>2023-02-02T11:16:01.093Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
