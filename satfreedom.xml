@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-10T07:18:05.589Z</updated>
+    <updated>2023-02-10T08:24:23.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이제는 말할 수 있다🔥 갑자기 중요한 이야기를 꺼낸 호중! 대체 무슨 일이😲?! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/33040465</id>
+        <link href="https://tv.naver.com/v/33040465"/>
+        <updated>2023-02-10T08:24:14.933Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🌟2023 오 마이 스타3 2부🌟 불후에서 양보란 없다! 본방사수❤️‍🔥 | KBS 방]]></title>
         <id>https://tv.naver.com/v/32881314</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32879813"/>
         <updated>2023-02-04T11:15:26.649Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리빙 레전드, 신, 박혁거세(?) 선배님을 향한 후배들의 주접 대결🤣 | KBS 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32879404</id>
-        <link href="https://tv.naver.com/v/32879404"/>
-        <updated>2023-02-04T10:18:17.236Z</updated>
-        <content type="html"><![CDATA[02:18]]></content>
     </entry>
 </feed>
