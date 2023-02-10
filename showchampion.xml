@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-02-10T08:24:23.174Z</updated>
+    <updated>2023-02-10T10:21:55.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MC석 코너] 달나츠에게 주문하신 'BLUE CHECK 챌린지 & 체리피스' 나왔습니다🍒 | Show Champion | EP.462]]></title>
+        <id>https://tv.naver.com/v/33040463</id>
+        <link href="https://tv.naver.com/v/33040463"/>
+        <updated>2023-02-10T10:21:41.274Z</updated>
+        <content type="html"><![CDATA[01:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[키워드 인터뷰] 케이팝의 차세대 리더가 될 YOUNG FUTURE! ★8TRUN★  l Show Champion l EP.462]]></title>
+        <id>https://tv.naver.com/v/33040201</id>
+        <link href="https://tv.naver.com/v/33040201"/>
+        <updated>2023-02-10T10:21:41.274Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2월 2주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.462]]></title>
+        <id>https://tv.naver.com/v/33040199</id>
+        <link href="https://tv.naver.com/v/33040199"/>
+        <updated>2023-02-10T10:21:41.278Z</updated>
+        <content type="html"><![CDATA[06:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ARTBEAT - Aphrodite (Rule The World) (아트비트 - 아프로디테) l Show Champion l EP.462]]></title>
         <id>https://tv.naver.com/v/33002716</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/32992236"/>
         <updated>2023-02-08T11:16:48.021Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILY:1 - Twinkle, Twinkle (아일리원 - 별꽃동화) l Show Champion l EP.462]]></title>
-        <id>https://tv.naver.com/v/32992209</id>
-        <link href="https://tv.naver.com/v/32992209"/>
-        <updated>2023-02-08T11:16:48.022Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] 8TURN YUN GYU - TIC TAC (에잇턴 윤규 - 틱 택) | Show Champion | EP.462]]></title>
-        <id>https://tv.naver.com/v/32992102</id>
-        <link href="https://tv.naver.com/v/32992102"/>
-        <updated>2023-02-08T13:25:51.011Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choi Suhwan - LEFT ON READ (최수환 - 레프트 온 리드) l Show Champion l EP.462]]></title>
-        <id>https://tv.naver.com/v/32992101</id>
-        <link href="https://tv.naver.com/v/32992101"/>
-        <updated>2023-02-08T11:16:48.023Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
     </entry>
 </feed>

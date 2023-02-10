@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-10T08:24:23.178Z</updated>
+    <updated>2023-02-10T10:21:55.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 트렌드를 만드는 댄서, 위댐보이즈 바타!, MBC 230205 방송]]></title>
+        <id>https://tv.naver.com/v/33043659</id>
+        <link href="https://tv.naver.com/v/33043659"/>
+        <updated>2023-02-10T10:21:55.148Z</updated>
+        <content type="html"><![CDATA[12:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 유리 구슬처럼 맑은 음색! 체리블렛 지원!, MBC 230205 방송]]></title>
+        <id>https://tv.naver.com/v/33043198</id>
+        <link href="https://tv.naver.com/v/33043198"/>
+        <updated>2023-02-10T10:21:55.148Z</updated>
+        <content type="html"><![CDATA[09:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분 공개] 새삥 안무 창시자✨ 위댐보이즈 리더 바타의 미방분 댄스&개인기 공개!, MBC 230205 방송]]></title>
         <id>https://tv.naver.com/v/33004421</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32711991"/>
         <updated>2023-01-29T10:18:05.973Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['넘사벽'의 정체는 라붐의 메인 보컬 & WSG워너비 소연!, MBC 230129 방송]]></title>
-        <id>https://tv.naver.com/v/32711800</id>
-        <link href="https://tv.naver.com/v/32711800"/>
-        <updated>2023-01-29T10:18:05.975Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아이스링크'의 여러 가수 성대모사 개인기✨ feat. 찹쌀떡~ 메밀 묵~🎼, MBC 230129 방송]]></title>
-        <id>https://tv.naver.com/v/32711738</id>
-        <link href="https://tv.naver.com/v/32711738"/>
-        <updated>2023-01-29T10:18:05.978Z</updated>
-        <content type="html"><![CDATA[02:19]]></content>
     </entry>
 </feed>
