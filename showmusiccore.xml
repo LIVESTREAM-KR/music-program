@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-11T09:17:26.291Z</updated>
+    <updated>2023-02-11T10:19:16.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VIVIZ EUNHA – PULL UP(비비지 은하 - 풀업) FanCam | Show! MusicCore | MBC230211방송]]></title>
+        <id>https://tv.naver.com/v/33060771</id>
+        <link href="https://tv.naver.com/v/33060771"/>
+        <updated>2023-02-11T10:18:31.901Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEIL – Ay-Yo(엔시티 127 태일 - 에이요) FanCam | Show! MusicCore | MBC230211방송]]></title>
+        <id>https://tv.naver.com/v/33060769</id>
+        <link href="https://tv.naver.com/v/33060769"/>
+        <updated>2023-02-11T10:18:31.901Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 - Ay-Yo(엔시티 127 – 에이요) FanCam | Show! MusicCore | MBC230211방송]]></title>
+        <id>https://tv.naver.com/v/33060768</id>
+        <link href="https://tv.naver.com/v/33060768"/>
+        <updated>2023-02-11T10:18:31.907Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 (엔시티 127) – Ay-Yo(에이요) 1위 직캠 FanCam | Show! MusicCore | MBC230211방송]]></title>
+        <id>https://tv.naver.com/v/33060688</id>
+        <link href="https://tv.naver.com/v/33060688"/>
+        <updated>2023-02-11T10:18:31.907Z</updated>
+        <content type="html"><![CDATA[07:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] 8TURN – TIC TAC(에잇턴 - 틱 택) FanCam | Show! MusicCore | MBC230211방송]]></title>
         <id>https://tv.naver.com/v/33060624</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/33059215"/>
         <updated>2023-02-11T08:22:10.464Z</updated>
         <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 127 - 디제이 (NCT 127 - DJ), MBC 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33059140</id>
-        <link href="https://tv.naver.com/v/33059140"/>
-        <updated>2023-02-11T08:22:10.484Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비지 - 풀 업 (VIVIZ - PULL UP), MBC 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33059137</id>
-        <link href="https://tv.naver.com/v/33059137"/>
-        <updated>2023-02-11T08:22:10.485Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 - 오아시스 (KIM JAE HWAN - OASIS), MBC 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33058982</id>
-        <link href="https://tv.naver.com/v/33058982"/>
-        <updated>2023-02-11T08:22:10.485Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스에프나인 (SF9) in 코노돌🎉 - (NewJeans - Ditto, 버즈 - 나에게로 떠나는 여행), MBC 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33058980</id>
-        <link href="https://tv.naver.com/v/33058980"/>
-        <updated>2023-02-11T08:22:10.485Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
 </feed>

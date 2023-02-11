@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-11T09:17:26.311Z</updated>
+    <updated>2023-02-11T10:19:16.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230210 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] VIVIZ EUNHA – PULL UP(비비지 은하 - 풀업) FanCam | Show! MusicCore | MBC230211방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33060771</id>
+        <link href="https://tv.naver.com/v/33060771"/>
+        <updated>2023-02-11T10:18:31.901Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEIL – Ay-Yo(엔시티 127 태일 - 에이요) FanCam | Show! MusicCore | MBC230211방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33060769</id>
+        <link href="https://tv.naver.com/v/33060769"/>
+        <updated>2023-02-11T10:18:31.901Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 - Ay-Yo(엔시티 127 – 에이요) FanCam | Show! MusicCore | MBC230211방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33060768</id>
+        <link href="https://tv.naver.com/v/33060768"/>
+        <updated>2023-02-11T10:18:31.907Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127 (엔시티 127) – Ay-Yo(에이요) 1위 직캠 FanCam | Show! MusicCore | MBC230211방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33060688</id>
+        <link href="https://tv.naver.com/v/33060688"/>
+        <updated>2023-02-11T10:18:31.907Z</updated>
+        <content type="html"><![CDATA[07:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] 8TURN – TIC TAC(에잇턴 - 틱 택) FanCam | Show! MusicCore | MBC230211방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/33060624</id>
         <link href="https://tv.naver.com/v/33060624"/>
@@ -395,34 +423,6 @@
         <link href="https://tv.naver.com/v/33059215"/>
         <updated>2023-02-11T08:22:10.464Z</updated>
         <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 127 - 디제이 (NCT 127 - DJ), MBC 230211 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33059140</id>
-        <link href="https://tv.naver.com/v/33059140"/>
-        <updated>2023-02-11T08:22:10.484Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비지 - 풀 업 (VIVIZ - PULL UP), MBC 230211 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33059137</id>
-        <link href="https://tv.naver.com/v/33059137"/>
-        <updated>2023-02-11T08:22:10.485Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 - 오아시스 (KIM JAE HWAN - OASIS), MBC 230211 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33058982</id>
-        <link href="https://tv.naver.com/v/33058982"/>
-        <updated>2023-02-11T08:22:10.485Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스에프나인 (SF9) in 코노돌🎉 - (NewJeans - Ditto, 버즈 - 나에게로 떠나는 여행), MBC 230211 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33058980</id>
-        <link href="https://tv.naver.com/v/33058980"/>
-        <updated>2023-02-11T08:22:10.485Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 - Ay-Yo | SBS 230205 방송 (인기가요)]]></title>
@@ -1265,6 +1265,27 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[포크 1세대, 2세대 전설들의 만남🎸 윤형주&유리상자 선곡은 과연? | KBS 230211 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/33061545</id>
+        <link href="https://tv.naver.com/v/33061545"/>
+        <updated>2023-02-11T10:19:08.185Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김호중&에스페로가 부르는 ENDLESS💟 김호중과 에스페로의 인연의 계기는?  | KBS 230211 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/33061540</id>
+        <link href="https://tv.naver.com/v/33061540"/>
+        <updated>2023-02-11T10:19:08.205Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1부 우승자 정선아&민우혁!💐 뿔난 토크 대기실?🤣 박완규의 쌩눈(?) 발사! | KBS 230211 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/33061431</id>
+        <link href="https://tv.naver.com/v/33061431"/>
+        <updated>2023-02-11T10:19:08.207Z</updated>
+        <content type="html"><![CDATA[02:14]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] 이제는 말할 수 있다🔥 갑자기 중요한 이야기를 꺼낸 호중! 대체 무슨 일이😲?! | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/33040465</id>
         <link href="https://tv.naver.com/v/33040465"/>
@@ -1452,27 +1473,6 @@
         <link href="https://tv.naver.com/v/32880003"/>
         <updated>2023-02-04T11:15:26.638Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈물의 내레이션💧 감동적인 실력을 보여준 UV&김조한의 무대! | KBS 230204 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/32880000</id>
-        <link href="https://tv.naver.com/v/32880000"/>
-        <updated>2023-02-04T11:15:26.640Z</updated>
-        <content type="html"><![CDATA[01:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김조한 & UV - End of The Road | KBS 230204 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/32909236</id>
-        <link href="https://tv.naver.com/v/32909236"/>
-        <updated>2023-02-06T01:24:30.232Z</updated>
-        <content type="html"><![CDATA[05:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UV + 김조한 = 조지피플🕺🕺 어머니를 향한 마음, 세윤의 진심이 담긴 선곡 | KBS 230204 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/32879813</id>
-        <link href="https://tv.naver.com/v/32879813"/>
-        <updated>2023-02-04T11:15:26.649Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 트렌드를 만드는 댄서, 위댐보이즈 바타!, MBC 230205 방송 (복면가왕)]]></title>

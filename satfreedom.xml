@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-11T09:17:26.296Z</updated>
+    <updated>2023-02-11T10:19:16.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[포크 1세대, 2세대 전설들의 만남🎸 윤형주&유리상자 선곡은 과연? | KBS 230211 방송]]></title>
+        <id>https://tv.naver.com/v/33061545</id>
+        <link href="https://tv.naver.com/v/33061545"/>
+        <updated>2023-02-11T10:19:08.185Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김호중&에스페로가 부르는 ENDLESS💟 김호중과 에스페로의 인연의 계기는?  | KBS 230211 방송]]></title>
+        <id>https://tv.naver.com/v/33061540</id>
+        <link href="https://tv.naver.com/v/33061540"/>
+        <updated>2023-02-11T10:19:08.205Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1부 우승자 정선아&민우혁!💐 뿔난 토크 대기실?🤣 박완규의 쌩눈(?) 발사! | KBS 230211 방송]]></title>
+        <id>https://tv.naver.com/v/33061431</id>
+        <link href="https://tv.naver.com/v/33061431"/>
+        <updated>2023-02-11T10:19:08.207Z</updated>
+        <content type="html"><![CDATA[02:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 이제는 말할 수 있다🔥 갑자기 중요한 이야기를 꺼낸 호중! 대체 무슨 일이😲?! | KBS 방송]]></title>
         <id>https://tv.naver.com/v/33040465</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/32880003"/>
         <updated>2023-02-04T11:15:26.638Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈물의 내레이션💧 감동적인 실력을 보여준 UV&김조한의 무대! | KBS 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32880000</id>
-        <link href="https://tv.naver.com/v/32880000"/>
-        <updated>2023-02-04T11:15:26.640Z</updated>
-        <content type="html"><![CDATA[01:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김조한 & UV - End of The Road | KBS 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32909236</id>
-        <link href="https://tv.naver.com/v/32909236"/>
-        <updated>2023-02-06T01:24:30.232Z</updated>
-        <content type="html"><![CDATA[05:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UV + 김조한 = 조지피플🕺🕺 어머니를 향한 마음, 세윤의 진심이 담긴 선곡 | KBS 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32879813</id>
-        <link href="https://tv.naver.com/v/32879813"/>
-        <updated>2023-02-04T11:15:26.649Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
