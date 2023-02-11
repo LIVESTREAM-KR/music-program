@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-11T06:21:59.957Z</updated>
+    <updated>2023-02-11T07:16:25.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시그니처 - 오로라 (cignature - AURORA), MBC 230211 방송]]></title>
+        <id>https://tv.naver.com/v/33058636</id>
+        <link href="https://tv.naver.com/v/33058636"/>
+        <updated>2023-02-11T07:15:42.097Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이머스 - 불꽃놀이 (AIMERS - Fireworks), MBC 230211 방송]]></title>
+        <id>https://tv.naver.com/v/33058571</id>
+        <link href="https://tv.naver.com/v/33058571"/>
+        <updated>2023-02-11T07:15:42.100Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑스지 - 레프트 라이트 (XG - LEFT RIGHT), MBC 230211 방송]]></title>
+        <id>https://tv.naver.com/v/33058506</id>
+        <link href="https://tv.naver.com/v/33058506"/>
+        <updated>2023-02-11T07:15:42.101Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니 - 다이브 (uni - DIVE), MBC 230211 방송]]></title>
+        <id>https://tv.naver.com/v/33058427</id>
+        <link href="https://tv.naver.com/v/33058427"/>
+        <updated>2023-02-11T07:15:42.101Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT 127.zip 📂 Fire Truck(소방차)부터 Ay-Yo까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/32987257</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/32877226"/>
         <updated>2023-02-04T08:21:12.079Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 MARK – DJ(엔시티 127 마크 - 디제이) FanCam | Show! MusicCore | MBC230204방송]]></title>
-        <id>https://tv.naver.com/v/32877136</id>
-        <link href="https://tv.naver.com/v/32877136"/>
-        <updated>2023-02-06T06:24:57.214Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 TAEIL – DJ(엔시티 127 태일 - 디제이) FanCam | Show! MusicCore | MBC230204방송]]></title>
-        <id>https://tv.naver.com/v/32877054</id>
-        <link href="https://tv.naver.com/v/32877054"/>
-        <updated>2023-02-06T06:24:57.216Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 YUTA – DJ(엔시티 127 유타 - 디제이) FanCam | Show! MusicCore | MBC230204방송]]></title>
-        <id>https://tv.naver.com/v/32877052</id>
-        <link href="https://tv.naver.com/v/32877052"/>
-        <updated>2023-02-06T06:24:57.226Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN – DJ(엔시티 127 해찬 - 디제이) FanCam | Show! MusicCore | MBC230204방송]]></title>
-        <id>https://tv.naver.com/v/32876986</id>
-        <link href="https://tv.naver.com/v/32876986"/>
-        <updated>2023-02-06T06:24:57.226Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
