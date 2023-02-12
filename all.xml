@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-12T06:25:40.141Z</updated>
+    <updated>2023-02-12T07:19:37.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230210 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,48 @@
         <content type="html"><![CDATA[04:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AIMERS - Fireworks | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072531</id>
+        <link href="https://tv.naver.com/v/33072531"/>
+        <updated>2023-02-12T07:19:01.685Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강버터(Kang Butter) - 분명한 건 널 사랑했단 거야 | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072377</id>
+        <link href="https://tv.naver.com/v/33072377"/>
+        <updated>2023-02-12T07:19:01.686Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[uni(유니) - DIVE | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072376</id>
+        <link href="https://tv.naver.com/v/33072376"/>
+        <updated>2023-02-12T07:19:01.687Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - TIC TAC | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072313</id>
+        <link href="https://tv.naver.com/v/33072313"/>
+        <updated>2023-02-12T07:19:01.687Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARTBEAT(아트비트) - 아프로디테 | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072258</id>
+        <link href="https://tv.naver.com/v/33072258"/>
+        <updated>2023-02-12T07:19:01.690Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072172</id>
+        <link href="https://tv.naver.com/v/33072172"/>
+        <updated>2023-02-12T07:19:01.692Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NCT 127 - Ay-Yo | SBS 230205 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/32894438</id>
         <link href="https://tv.naver.com/v/32894438"/>
@@ -591,48 +633,6 @@
         <link href="https://tv.naver.com/v/32709436"/>
         <updated>2023-01-29T08:21:17.071Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원(ILY:1) - 별꽃동화(Twinkle Twinkle) | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709285</id>
-        <link href="https://tv.naver.com/v/32709285"/>
-        <updated>2023-01-29T08:21:17.071Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Fireworks | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709284</id>
-        <link href="https://tv.naver.com/v/32709284"/>
-        <updated>2023-01-29T08:21:17.072Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709132</id>
-        <link href="https://tv.naver.com/v/32709132"/>
-        <updated>2023-01-29T07:18:16.702Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지영 - Queen | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709051</id>
-        <link href="https://tv.naver.com/v/32709051"/>
-        <updated>2023-01-29T07:18:16.702Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32708949</id>
-        <link href="https://tv.naver.com/v/32708949"/>
-        <updated>2023-01-29T07:18:16.708Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XG - Shooting Star | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32708947</id>
-        <link href="https://tv.naver.com/v/32708947"/>
-        <updated>2023-01-29T07:18:16.708Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2월 2주 1위 '투모로우바이투게더'의 'Sugar Rush Ride' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
