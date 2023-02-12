@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-12T07:19:37.961Z</updated>
+    <updated>2023-02-12T08:22:35.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230210 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,83 @@
         <content type="html"><![CDATA[04:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[부석순 - 파이팅 해야지(feat. 이영지) | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33073543</id>
+        <link href="https://tv.naver.com/v/33073543"/>
+        <updated>2023-02-12T08:22:00.950Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부석순 - 7시에 들어줘(feat. Peder Elias) | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33073461</id>
+        <link href="https://tv.naver.com/v/33073461"/>
+        <updated>2023-02-12T08:22:00.951Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 - Ay-Yo | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33073333</id>
+        <link href="https://tv.naver.com/v/33073333"/>
+        <updated>2023-02-12T08:22:00.952Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 - DJ | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33073177</id>
+        <link href="https://tv.naver.com/v/33073177"/>
+        <updated>2023-02-12T08:22:00.953Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOMORROW X TOGETHER - Sugar Rush Ride  | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072886</id>
+        <link href="https://tv.naver.com/v/33072886"/>
+        <updated>2023-02-12T08:22:00.955Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOMORROW X TOGETHER - Devil by the Window | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072884</id>
+        <link href="https://tv.naver.com/v/33072884"/>
+        <updated>2023-02-12T08:22:00.958Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIVIZ - PULL UP | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072819</id>
+        <link href="https://tv.naver.com/v/33072819"/>
+        <updated>2023-02-12T08:22:00.975Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임창정 - 멍청이 | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072755</id>
+        <link href="https://tv.naver.com/v/33072755"/>
+        <updated>2023-02-12T08:22:00.977Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cignature(시그니처) - 오로라(AURORA) | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072684</id>
+        <link href="https://tv.naver.com/v/33072684"/>
+        <updated>2023-02-12T08:22:00.978Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072609</id>
+        <link href="https://tv.naver.com/v/33072609"/>
+        <updated>2023-02-12T08:22:00.980Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XG - SHOOTING STAR | SBS 230212 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33072607</id>
+        <link href="https://tv.naver.com/v/33072607"/>
+        <updated>2023-02-12T08:22:00.987Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AIMERS - Fireworks | SBS 230212 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/33072531</id>
         <link href="https://tv.naver.com/v/33072531"/>
@@ -556,83 +633,6 @@
         <link href="https://tv.naver.com/v/32893460"/>
         <updated>2023-02-05T07:15:52.884Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프림로즈 - PRIMROSE | SBS 230205 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32893400</id>
-        <link href="https://tv.naver.com/v/32893400"/>
-        <updated>2023-02-05T07:15:52.884Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류지현(RYU JIHYUN) - 씰룩씰룩(Green Light) | SBS 230205 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32893280</id>
-        <link href="https://tv.naver.com/v/32893280"/>
-        <updated>2023-02-05T07:15:52.884Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uni(유니) - DIVE | SBS 230205 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32893187</id>
-        <link href="https://tv.naver.com/v/32893187"/>
-        <updated>2023-02-05T07:15:52.887Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MONSTA X - Beautiful Liar | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709863</id>
-        <link href="https://tv.naver.com/v/32709863"/>
-        <updated>2023-01-29T08:21:17.059Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOMORROW X TOGETHER - INTRO + Sugar Rush Ride | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709800</id>
-        <link href="https://tv.naver.com/v/32709800"/>
-        <updated>2023-01-29T08:21:17.061Z</updated>
-        <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOMORROW X TOGETHER - Devil by the Window | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709700</id>
-        <link href="https://tv.naver.com/v/32709700"/>
-        <updated>2023-01-29T08:21:17.064Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예성 - Small Things | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709622</id>
-        <link href="https://tv.naver.com/v/32709622"/>
-        <updated>2023-01-29T08:21:17.065Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스(NewJeans) - OMG | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709552</id>
-        <link href="https://tv.naver.com/v/32709552"/>
-        <updated>2023-01-29T08:21:17.066Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승윤 - 꿈의 거처 | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709438</id>
-        <link href="https://tv.naver.com/v/32709438"/>
-        <updated>2023-01-29T08:21:17.066Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cignature(시그니처) - 오로라(AURORA) | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709437</id>
-        <link href="https://tv.naver.com/v/32709437"/>
-        <updated>2023-01-29T08:21:17.071Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종서 - In my life | SBS 230129 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/32709436</id>
-        <link href="https://tv.naver.com/v/32709436"/>
-        <updated>2023-01-29T08:21:17.071Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2월 2주 1위 '투모로우바이투게더'의 'Sugar Rush Ride' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
