@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-12T11:15:39.380Z</updated>
+    <updated>2023-02-12T12:33:28.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜가왕의 자리를 쟁취할 1인은?＞ 복면가왕 392회 예고, MBC 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33076426</id>
+        <link href="https://tv.naver.com/v/33076426"/>
+        <updated>2023-02-12T12:33:27.974Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['수정구슬'의 정체는 레이디스 코드의 메인 보컬 이소정!, MBC 230212 방송]]></title>
         <id>https://tv.naver.com/v/33075752</id>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['차전놀이'의 정체는 원조 아역 배우 이건주!, MBC 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33075252</id>
-        <link href="https://tv.naver.com/v/33075252"/>
-        <updated>2023-02-12T11:15:38.670Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['수정구슬' 3라운드 무대 - 시계태엽, MBC 230212 방송]]></title>
         <id>https://tv.naver.com/v/33075253</id>
         <link href="https://tv.naver.com/v/33075253"/>
         <updated>2023-02-12T11:15:38.670Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['차전놀이'의 정체는 원조 아역 배우 이건주!, MBC 230212 방송]]></title>
+        <id>https://tv.naver.com/v/33075252</id>
+        <link href="https://tv.naver.com/v/33075252"/>
+        <updated>2023-02-12T11:15:38.670Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싱어송라이터 장필순이 보내온 '날아라 전교회장'의 힌트✨ 젊은 뮤지션들에게 사랑받는 '날아라 전교회장'?, MBC 230212 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32896175"/>
         <updated>2023-02-05T10:18:43.461Z</updated>
         <content type="html"><![CDATA[01:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슬기로운 복가생활' VS '은밀한 이중생활'의 1라운드 무대 - 휘파람, MBC 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32896092</id>
-        <link href="https://tv.naver.com/v/32896092"/>
-        <updated>2023-02-05T10:18:43.461Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
