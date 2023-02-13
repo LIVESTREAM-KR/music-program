@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-13T09:19:53.747Z</updated>
+    <updated>2023-02-13T10:22:47.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230210 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] VIVIZ EUNHA - PULL UP(비비지 은하 - 풀업) Close-up Cam | Show! MusicCore | MBC230211방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33096763</id>
+        <link href="https://tv.naver.com/v/33096763"/>
+        <updated>2023-02-13T10:22:04.962Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT 127 HAECHAN - DJ(엔시티 127 해찬 - 디제이) Close-up Cam | Show! MusicCore | MBC230211방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/33094874</id>
         <link href="https://tv.naver.com/v/33094874"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/33060447"/>
         <updated>2023-02-11T09:16:44.277Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼! 음악중심 미방분] 2월 2주차 1위 앵콜 무대! 엔시티 127 - 에이요 (NCT 127 - Ay-Yo), MBC 230211 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33060387</id>
-        <link href="https://tv.naver.com/v/33060387"/>
-        <updated>2023-02-11T09:16:44.277Z</updated>
-        <content type="html"><![CDATA[05:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부석순 - 파이팅 해야지(feat. 이영지) | SBS 230212 방송 (인기가요)]]></title>
