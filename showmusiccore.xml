@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-13T05:18:52.405Z</updated>
+    <updated>2023-02-13T06:24:50.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 쟈니 , 2월 둘째 주 음악중심 MC 컷 모음!, MBC 230211 방송]]></title>
+        <id>https://tv.naver.com/v/33091127</id>
+        <link href="https://tv.naver.com/v/33091127"/>
+        <updated>2023-02-13T06:24:08.291Z</updated>
+        <content type="html"><![CDATA[08:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 HAECHAN - Ay-Yo(엔시티 127 해찬 - 에이요) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
+        <id>https://tv.naver.com/v/33090810</id>
+        <link href="https://tv.naver.com/v/33090810"/>
+        <updated>2023-02-13T06:24:08.291Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 MARK - Ay-Yo(엔시티 127 마크 - 에이요) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
+        <id>https://tv.naver.com/v/33090478</id>
+        <link href="https://tv.naver.com/v/33090478"/>
+        <updated>2023-02-13T06:24:08.291Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 TAEYONG - Ay-Yo(엔시티 127 태용 - 에이요) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
+        <id>https://tv.naver.com/v/33090297</id>
+        <link href="https://tv.naver.com/v/33090297"/>
+        <updated>2023-02-13T06:24:08.291Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 YUTA - Ay-Yo(엔시티 127 유타 - 에이요) Close-up Cam | Show! MusicCore | MBC230211방송]]></title>
+        <id>https://tv.naver.com/v/33089945</id>
+        <link href="https://tv.naver.com/v/33089945"/>
+        <updated>2023-02-13T06:24:08.293Z</updated>
+        <content type="html"><![CDATA[04:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] VIVIZ EUNHA – PULL UP(비비지 은하 - 풀업) FanCam | Show! MusicCore | MBC230211방송]]></title>
         <id>https://tv.naver.com/v/33060771</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/33060366"/>
         <updated>2023-02-11T09:16:44.279Z</updated>
         <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 JOHNNY – Ay-Yo(엔시티 127 쟈니 - 에이요) FanCam | Show! MusicCore | MBC230211방송]]></title>
-        <id>https://tv.naver.com/v/33060365</id>
-        <link href="https://tv.naver.com/v/33060365"/>
-        <updated>2023-02-11T09:16:44.282Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 이승윤 - 꿈의 거처 (Lee Seung Yoon - Shelter Of Dreams), MBC 230204 방송]]></title>
-        <id>https://tv.naver.com/v/33059603</id>
-        <link href="https://tv.naver.com/v/33059603"/>
-        <updated>2023-02-11T08:22:10.462Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2월 2주차 1위 엔시티 127 - 에이요 (NCT 127 - Ay-Yo), MBC 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33059307</id>
-        <link href="https://tv.naver.com/v/33059307"/>
-        <updated>2023-02-11T08:22:10.463Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 127 - 에이요 (NCT 127 - Ay-Yo), MBC 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33059305</id>
-        <link href="https://tv.naver.com/v/33059305"/>
-        <updated>2023-02-11T08:22:10.463Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 127 - 질주 (NCT 127 - 2 Baddies), MBC 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33059215</id>
-        <link href="https://tv.naver.com/v/33059215"/>
-        <updated>2023-02-11T08:22:10.464Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
     </entry>
 </feed>
