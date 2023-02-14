@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-14T08:25:35.620Z</updated>
+    <updated>2023-02-14T09:20:33.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -102,13 +102,6 @@
         <link href="https://tv.naver.com/v/33062671"/>
         <updated>2023-02-11T12:32:11.371Z</updated>
         <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중&에스페로 - 서쪽 하늘 | KBS 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33062810</id>
-        <link href="https://tv.naver.com/v/33062810"/>
-        <updated>2023-02-11T12:32:11.369Z</updated>
-        <content type="html"><![CDATA[05:41]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에스페로에게 김호중이란? 호중의 욕심이 들어간 선곡! 나의 스타를 위한 헌정 무대 | KBS 23]]></title>
@@ -214,5 +207,12 @@
         <link href="https://tv.naver.com/v/33061540"/>
         <updated>2023-02-11T10:19:08.205Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남도소리와 경기소리의 차이는? 네버엔딩 소리 강의! 양지은&김영임의 아리랑🎵 | KBS 2302]]></title>
+        <id>https://tv.naver.com/v/33061602</id>
+        <link href="https://tv.naver.com/v/33061602"/>
+        <updated>2023-02-14T09:20:25.086Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
