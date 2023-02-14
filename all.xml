@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-14T09:20:33.499Z</updated>
+    <updated>2023-02-14T10:21:56.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230210 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴)이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33123299</id>
+        <link href="https://tv.naver.com/v/33123299"/>
+        <updated>2023-02-14T10:21:31.312Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2월 2주 1위 '투모로우바이투게더'의 'Sugar Rush Ride' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/33045746</id>
         <link href="https://tv.naver.com/v/33045746"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/32828522"/>
         <updated>2023-02-02T11:16:01.090Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' XG - SHOOTING STAR | Mnet 230202 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/32828417</id>
-        <link href="https://tv.naver.com/v/32828417"/>
-        <updated>2023-02-02T11:16:01.091Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
