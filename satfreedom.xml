@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-15T04:24:01.551Z</updated>
+    <updated>2023-02-15T05:19:29.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김호중&에스페로 - 서쪽 하늘 | KBS 230211 방송]]></title>
+        <id>https://tv.naver.com/v/33149631</id>
+        <link href="https://tv.naver.com/v/33149631"/>
+        <updated>2023-02-15T05:19:21.674Z</updated>
+        <content type="html"><![CDATA[05:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 그 시절, 우리의 가슴을 설레게 했던 🌼작사가 故박건호 편🌼 본방사수🌟 | KB]]></title>
         <id>https://tv.naver.com/v/33062821</id>
@@ -102,13 +109,6 @@
         <link href="https://tv.naver.com/v/33062671"/>
         <updated>2023-02-11T12:32:11.371Z</updated>
         <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중&에스페로 - 서쪽 하늘 | KBS 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33062810</id>
-        <link href="https://tv.naver.com/v/33062810"/>
-        <updated>2023-02-14T15:20:29.208Z</updated>
-        <content type="html"><![CDATA[05:41]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에스페로에게 김호중이란? 호중의 욕심이 들어간 선곡! 나의 스타를 위한 헌정 무대 | KBS 23]]></title>
