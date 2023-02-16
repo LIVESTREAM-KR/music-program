@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-02-16T09:19:44.080Z</updated>
+    <updated>2023-02-16T10:21:13.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' 더보이즈 (THE BOYZ) | Mnet 230216 방송]]></title>
+        <id>https://tv.naver.com/v/33198792</id>
+        <link href="https://tv.naver.com/v/33198792"/>
+        <updated>2023-02-16T10:20:44.194Z</updated>
+        <content type="html"><![CDATA[01:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최수환 - LEFT ON READ | Mnet 230216 방송]]></title>
+        <id>https://tv.naver.com/v/33198791</id>
+        <link href="https://tv.naver.com/v/33198791"/>
+        <updated>2023-02-16T10:20:44.213Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with 퍼플키스 (PURPLE KISS) | Mnet 230216 방송]]></title>
+        <id>https://tv.naver.com/v/33198366</id>
+        <link href="https://tv.naver.com/v/33198366"/>
+        <updated>2023-02-16T10:20:44.217Z</updated>
+        <content type="html"><![CDATA[02:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARTBEAT(아트비트) - 아프로디테 | Mnet 230216 방송]]></title>
+        <id>https://tv.naver.com/v/33198365</id>
+        <link href="https://tv.naver.com/v/33198365"/>
+        <updated>2023-02-16T10:20:44.220Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강버터(Kang Butter) - 분명한 건 널 사랑했단 거야 | Mnet 230216 방송]]></title>
+        <id>https://tv.naver.com/v/33198363</id>
+        <link href="https://tv.naver.com/v/33198363"/>
+        <updated>2023-02-16T10:20:44.222Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8TURN(에잇턴)이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/33123299</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/32828764"/>
         <updated>2023-02-02T11:16:01.082Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with NCT 127 (엔시티 127) | Mnet 230202 방송]]></title>
-        <id>https://tv.naver.com/v/32828761</id>
-        <link href="https://tv.naver.com/v/32828761"/>
-        <updated>2023-02-02T11:16:01.082Z</updated>
-        <content type="html"><![CDATA[02:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 비비지(VIVIZ) - PULL UP | Mnet 230202 방송]]></title>
-        <id>https://tv.naver.com/v/32828759</id>
-        <link href="https://tv.naver.com/v/32828759"/>
-        <updated>2023-02-02T11:16:01.085Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 이승윤 - 꿈의 거처 | Mnet 230202 방송]]></title>
-        <id>https://tv.naver.com/v/32828634</id>
-        <link href="https://tv.naver.com/v/32828634"/>
-        <updated>2023-02-02T11:16:01.087Z</updated>
-        <content type="html"><![CDATA[04:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 투모로우바이투게더 (TOMORROW X TOGETHER) | Mnet 230202 방송]]></title>
-        <id>https://tv.naver.com/v/32828632</id>
-        <link href="https://tv.naver.com/v/32828632"/>
-        <updated>2023-02-02T11:16:01.088Z</updated>
-        <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cignature(시그니처) - 오로라(AURORA) | Mnet 230202 방송]]></title>
-        <id>https://tv.naver.com/v/32828522</id>
-        <link href="https://tv.naver.com/v/32828522"/>
-        <updated>2023-02-02T11:16:01.090Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
