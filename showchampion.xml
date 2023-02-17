@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-02-17T01:40:01.787Z</updated>
+    <updated>2023-02-17T02:53:40.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.463]]></title>
+        <id>https://tv.naver.com/v/33213520</id>
+        <link href="https://tv.naver.com/v/33213520"/>
+        <updated>2023-02-17T02:53:26.758Z</updated>
+        <content type="html"><![CDATA[05:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] XG HARVEY - SHOOTING STAR (엑스지 하비 - 슈팅 스타) | Show Champion | EP.463]]></title>
         <id>https://tv.naver.com/v/33166301</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33164046"/>
         <updated>2023-02-15T11:20:34.060Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPECIAL STAGE] woo!ah! - Feel Special (우아! - 필 스페셜) (원곡 : TWICE) l Show Champion l EP.463]]></title>
-        <id>https://tv.naver.com/v/33163388</id>
-        <link href="https://tv.naver.com/v/33163388"/>
-        <updated>2023-02-15T11:20:34.060Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
