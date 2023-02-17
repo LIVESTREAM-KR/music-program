@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-02-17T08:24:41.786Z</updated>
+    <updated>2023-02-17T09:20:26.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I Need U - TNX  | KBS 230217 방송]]></title>
+        <id>https://tv.naver.com/v/33231992</id>
+        <link href="https://tv.naver.com/v/33231992"/>
+        <updated>2023-02-17T09:19:34.123Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230217 방송]]></title>
+        <id>https://tv.naver.com/v/33231990</id>
+        <link href="https://tv.naver.com/v/33231990"/>
+        <updated>2023-02-17T09:19:34.128Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honestly - LIMELIGHT(라임라잇) | KBS 230217 방송]]></title>
+        <id>https://tv.naver.com/v/33231819</id>
+        <link href="https://tv.naver.com/v/33231819"/>
+        <updated>2023-02-17T09:19:34.128Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[분명한 건 널 사랑했단 거야 - 강버터(Kang Butter) | KBS 230217 방송]]></title>
+        <id>https://tv.naver.com/v/33231816</id>
+        <link href="https://tv.naver.com/v/33231816"/>
+        <updated>2023-02-17T09:19:34.131Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drivers License - 남동현 (Nam Dong Hyun) | KBS 230217 방송]]></title>
+        <id>https://tv.naver.com/v/33231789</id>
+        <link href="https://tv.naver.com/v/33231789"/>
+        <updated>2023-02-17T09:19:34.132Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rising - tripleS | KBS 230217 방송]]></title>
+        <id>https://tv.naver.com/v/33231385</id>
+        <link href="https://tv.naver.com/v/33231385"/>
+        <updated>2023-02-17T09:19:34.133Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상의 끝에서 - 임윤성 | KBS 230217 방송]]></title>
+        <id>https://tv.naver.com/v/33231139</id>
+        <link href="https://tv.naver.com/v/33231139"/>
+        <updated>2023-02-17T09:19:34.134Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아프로디테 - ARTBEAT(아트비트) | KBS 230217 방송]]></title>
+        <id>https://tv.naver.com/v/33231134</id>
+        <link href="https://tv.naver.com/v/33231134"/>
+        <updated>2023-02-17T09:19:34.136Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ay-Yo - NCT 127 | KBS 230210 방송]]></title>
         <id>https://tv.naver.com/v/33043913</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/32858610"/>
         <updated>2023-02-03T10:19:20.989Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건물 사이에 피어난 장미 - H1-KEY (하이키) | KBS 230203 방송]]></title>
-        <id>https://tv.naver.com/v/32858374</id>
-        <link href="https://tv.naver.com/v/32858374"/>
-        <updated>2023-02-03T10:19:20.989Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씰룩씰룩(Green Light) - 류지현 (RYU JIHYUN) | KBS 230203 방송]]></title>
-        <id>https://tv.naver.com/v/32858349</id>
-        <link href="https://tv.naver.com/v/32858349"/>
-        <updated>2023-02-03T10:19:20.989Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별꽃동화 - 아일리원(ILY:1) | KBS 230203 방송]]></title>
-        <id>https://tv.naver.com/v/32858226</id>
-        <link href="https://tv.naver.com/v/32858226"/>
-        <updated>2023-02-03T10:19:20.989Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIC TAC - 8TURN(에잇턴) | KBS 230203 방송]]></title>
-        <id>https://tv.naver.com/v/32858088</id>
-        <link href="https://tv.naver.com/v/32858088"/>
-        <updated>2023-02-03T09:17:58.860Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Left On Read - 최수환 | KBS 230203 방송]]></title>
-        <id>https://tv.naver.com/v/32857775</id>
-        <link href="https://tv.naver.com/v/32857775"/>
-        <updated>2023-02-03T09:17:58.860Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fireworks - AIMERS | KBS 230203 방송]]></title>
-        <id>https://tv.naver.com/v/32857772</id>
-        <link href="https://tv.naver.com/v/32857772"/>
-        <updated>2023-02-03T09:17:58.860Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIVE - uni(유니) | KBS 230203 방송]]></title>
-        <id>https://tv.naver.com/v/32857458</id>
-        <link href="https://tv.naver.com/v/32857458"/>
-        <updated>2023-02-03T09:17:58.861Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRIMROSE - 프림로즈 (PRIMROSE) | KBS 230203 방송]]></title>
-        <id>https://tv.naver.com/v/32857226</id>
-        <link href="https://tv.naver.com/v/32857226"/>
-        <updated>2023-02-03T09:17:58.869Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>

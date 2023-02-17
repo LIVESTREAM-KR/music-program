@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-17T08:24:41.807Z</updated>
+    <updated>2023-02-17T09:20:25.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 시원한 가창력과 소울풀한 음색! 레이디스 코드 이소정!, MBC 230212 방송]]></title>
+        <id>https://tv.naver.com/v/33231786</id>
+        <link href="https://tv.naver.com/v/33231786"/>
+        <updated>2023-02-17T09:20:25.194Z</updated>
+        <content type="html"><![CDATA[12:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 구성진 목소리의 판소리계 프린스! 소리꾼 김준수!, MBC 230212 방송]]></title>
+        <id>https://tv.naver.com/v/33230967</id>
+        <link href="https://tv.naver.com/v/33230967"/>
+        <updated>2023-02-17T09:20:25.197Z</updated>
+        <content type="html"><![CDATA[07:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜가왕의 자리를 쟁취할 1인은?＞ 복면가왕 392회 예고, MBC 230219 방송]]></title>
         <id>https://tv.naver.com/v/33076426</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32896345"/>
         <updated>2023-02-05T10:18:43.461Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['슬기로운 복가생활'의 정체는 가수 류필립!, MBC 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32896260</id>
-        <link href="https://tv.naver.com/v/32896260"/>
-        <updated>2023-02-05T10:18:43.461Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[승자를 가릴 수 없는 명승부🔥 '슬기로운 복가생활' VS '은밀한 이중생활'의 무술 대결💥, MBC 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32896175</id>
-        <link href="https://tv.naver.com/v/32896175"/>
-        <updated>2023-02-05T10:18:43.461Z</updated>
-        <content type="html"><![CDATA[01:52]]></content>
     </entry>
 </feed>
