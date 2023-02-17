@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-17T11:16:51.391Z</updated>
+    <updated>2023-02-17T12:35:20.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killer - 키 (KEY) | KBS 230217 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 눈을 뗄 수 없는 태권보이 나태주의 힘 뺀 퍼포먼스👀 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/33235372</id>
+        <link href="https://tv.naver.com/v/33235372"/>
+        <updated>2023-02-17T12:35:13.953Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[김호중&에스페로 - 서쪽 하늘 | KBS 230211 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/33149631</id>
         <link href="https://tv.naver.com/v/33149631"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/33061545"/>
         <updated>2023-02-11T10:19:08.185Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중&에스페로가 부르는 ENDLESS💟 김호중과 에스페로의 인연의 계기는?  | KBS 230211 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/33061540</id>
-        <link href="https://tv.naver.com/v/33061540"/>
-        <updated>2023-02-11T10:19:08.205Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 시원한 가창력과 소울풀한 음색! 레이디스 코드 이소정!, MBC 230212 방송 (복면가왕)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-17T11:16:51.377Z</updated>
+    <updated>2023-02-17T12:35:20.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 눈을 뗄 수 없는 태권보이 나태주의 힘 뺀 퍼포먼스👀 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/33235372</id>
+        <link href="https://tv.naver.com/v/33235372"/>
+        <updated>2023-02-17T12:35:13.953Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호중&에스페로 - 서쪽 하늘 | KBS 230211 방송]]></title>
         <id>https://tv.naver.com/v/33149631</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33061545"/>
         <updated>2023-02-11T10:19:08.185Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중&에스페로가 부르는 ENDLESS💟 김호중과 에스페로의 인연의 계기는?  | KBS 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33061540</id>
-        <link href="https://tv.naver.com/v/33061540"/>
-        <updated>2023-02-11T10:19:08.205Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
