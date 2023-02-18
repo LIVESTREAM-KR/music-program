@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-18T06:22:57.976Z</updated>
+    <updated>2023-02-18T07:16:37.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티엔엑스 - 러브 오어 다이 (TNX -  Love or Die), MBC 230218 방송]]></title>
+        <id>https://tv.naver.com/v/33251554</id>
+        <link href="https://tv.naver.com/v/33251554"/>
+        <updated>2023-02-18T07:15:55.312Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티엔엑스 - 아이 니드 유 (TNX - I Need U), MBC 230218 방송]]></title>
+        <id>https://tv.naver.com/v/33251444</id>
+        <link href="https://tv.naver.com/v/33251444"/>
+        <updated>2023-02-18T07:15:55.312Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강예슬 - 사랑의 포인트 (Kang Ye Seul - The point of love), MBC 230218 방송]]></title>
+        <id>https://tv.naver.com/v/33251329</id>
+        <link href="https://tv.naver.com/v/33251329"/>
+        <updated>2023-02-18T07:15:55.312Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트리플에스 - 라이징 (tripleS - Rising), MBC 230218 방송]]></title>
+        <id>https://tv.naver.com/v/33251223</id>
+        <link href="https://tv.naver.com/v/33251223"/>
+        <updated>2023-02-18T07:15:55.312Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남동현 - 드라이버 라이선스 (Nam Dong Hyun - Drivers License), MBC 230218 방송]]></title>
+        <id>https://tv.naver.com/v/33251069</id>
+        <link href="https://tv.naver.com/v/33251069"/>
+        <updated>2023-02-18T07:15:55.312Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇 - 아네슬리 (LIMELIGHT - Honestly), MBC 230218 방송]]></title>
+        <id>https://tv.naver.com/v/33250972</id>
+        <link href="https://tv.naver.com/v/33250972"/>
+        <updated>2023-02-18T07:15:55.312Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NCT 127 – DJ(엔시티 127 - 디제이)  | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/33156105</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/33060688"/>
         <updated>2023-02-11T10:18:31.907Z</updated>
         <content type="html"><![CDATA[07:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] 8TURN – TIC TAC(에잇턴 - 틱 택) FanCam | Show! MusicCore | MBC230211방송]]></title>
-        <id>https://tv.naver.com/v/33060624</id>
-        <link href="https://tv.naver.com/v/33060624"/>
-        <updated>2023-02-11T09:16:44.239Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG HINATA – LEFT RIGHT(엑스지 히나타 - 레프트 라이트) FanCam | Show! MusicCore | MBC230211방송]]></title>
-        <id>https://tv.naver.com/v/33060623</id>
-        <link href="https://tv.naver.com/v/33060623"/>
-        <updated>2023-02-11T09:16:44.240Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 - 2 Baddies(엔시티 127 – 질주) FanCam | Show! MusicCore | MBC230211방송]]></title>
-        <id>https://tv.naver.com/v/33060622</id>
-        <link href="https://tv.naver.com/v/33060622"/>
-        <updated>2023-02-11T09:16:44.240Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG - LEFT RIGHT(엑스지 – 레프트 라이트) FanCam | Show! MusicCore | MBC230211방송]]></title>
-        <id>https://tv.naver.com/v/33060601</id>
-        <link href="https://tv.naver.com/v/33060601"/>
-        <updated>2023-02-11T09:16:44.242Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KIM JAE HWAN – OASIS(김재환 - 오아이스) FanCam | Show! MusicCore | MBC230211방송]]></title>
-        <id>https://tv.naver.com/v/33060532</id>
-        <link href="https://tv.naver.com/v/33060532"/>
-        <updated>2023-02-11T09:16:44.259Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG COCONA – LEFT RIGHT(엑스지 코코나 - 레프트 라이트) FanCam | Show! MusicCore | MBC230211방송]]></title>
-        <id>https://tv.naver.com/v/33060530</id>
-        <link href="https://tv.naver.com/v/33060530"/>
-        <updated>2023-02-11T09:16:44.260Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
