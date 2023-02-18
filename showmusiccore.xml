@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-18T08:22:49.939Z</updated>
+    <updated>2023-02-18T09:17:44.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TNX – I Need U(티엔엑스 - 아이 니드 유) FanCam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33253502</id>
+        <link href="https://tv.naver.com/v/33253502"/>
+        <updated>2023-02-18T09:17:07.532Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] PURPLE KISS CHAEIN – Sweet Juice(퍼플키스 채인 - 스윗 쥬스) FanCam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33253412</id>
+        <link href="https://tv.naver.com/v/33253412"/>
+        <updated>2023-02-18T09:17:07.534Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TNX – Love or Die(티엔엑스 - 러브 오어 다이) FanCam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33253294</id>
+        <link href="https://tv.naver.com/v/33253294"/>
+        <updated>2023-02-18T09:17:07.536Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] tripleS Kim NaKyoung – Rising(트리플에스 김나경 - 라이징) FanCam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33253293</id>
+        <link href="https://tv.naver.com/v/33253293"/>
+        <updated>2023-02-18T09:17:07.539Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] tripleS Kim YooYeon – Rising(트리플에스 김유연 - 라이징) FanCam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33253292</id>
+        <link href="https://tv.naver.com/v/33253292"/>
+        <updated>2023-02-18T09:17:07.541Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] tripleS - Rising(트리플에스 – 라이징) FanCam | Show! MusicCore | MBC230218방송]]></title>
         <id>https://tv.naver.com/v/33253164</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/33251787"/>
         <updated>2023-02-18T08:22:07.763Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스 - 인트로 : 세이브 미 (PURPLE KISS - Intro : Save Me), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33251783</id>
-        <link href="https://tv.naver.com/v/33251783"/>
-        <updated>2023-02-18T08:22:07.763Z</updated>
-        <content type="html"><![CDATA[01:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티엔엑스 - 러브 오어 다이 (TNX -  Love or Die), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33251554</id>
-        <link href="https://tv.naver.com/v/33251554"/>
-        <updated>2023-02-18T07:15:55.312Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티엔엑스 - 아이 니드 유 (TNX - I Need U), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33251444</id>
-        <link href="https://tv.naver.com/v/33251444"/>
-        <updated>2023-02-18T07:15:55.312Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강예슬 - 사랑의 포인트 (Kang Ye Seul - The point of love), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33251329</id>
-        <link href="https://tv.naver.com/v/33251329"/>
-        <updated>2023-02-18T07:15:55.312Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리플에스 - 라이징 (tripleS - Rising), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33251223</id>
-        <link href="https://tv.naver.com/v/33251223"/>
-        <updated>2023-02-18T07:15:55.312Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
     </entry>
 </feed>
