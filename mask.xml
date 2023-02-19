@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-19T11:15:38.407Z</updated>
+    <updated>2023-02-19T12:33:47.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜가왕에게 들이닥친 8연승 적신호＞ 복면가왕 393회 예고, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33276074</id>
+        <link href="https://tv.naver.com/v/33276074"/>
+        <updated>2023-02-19T12:33:46.960Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['우승 상금'의 정체는 가수 겸 개그맨 영기!, MBC 230219 방송]]></title>
         <id>https://tv.naver.com/v/33275847</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33074708"/>
         <updated>2023-02-12T10:19:10.464Z</updated>
         <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 트렌드를 만드는 댄서, 위댐보이즈 바타!, MBC 230205 방송]]></title>
-        <id>https://tv.naver.com/v/33043659</id>
-        <link href="https://tv.naver.com/v/33043659"/>
-        <updated>2023-02-10T10:21:55.148Z</updated>
-        <content type="html"><![CDATA[12:58]]></content>
     </entry>
 </feed>
