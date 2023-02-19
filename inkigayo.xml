@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-02-19T07:16:57.523Z</updated>
+    <updated>2023-02-19T08:22:44.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[키(KEY) - Killer | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33272176</id>
+        <link href="https://tv.naver.com/v/33272176"/>
+        <updated>2023-02-19T08:22:10.315Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC - Teddy Bear | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33272083</id>
+        <link href="https://tv.naver.com/v/33272083"/>
+        <updated>2023-02-19T08:22:10.325Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271985</id>
+        <link href="https://tv.naver.com/v/33271985"/>
+        <updated>2023-02-19T08:22:10.328Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Intro : Save Me | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271762</id>
+        <link href="https://tv.naver.com/v/33271762"/>
+        <updated>2023-02-19T08:22:10.329Z</updated>
+        <content type="html"><![CDATA[01:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TNX - Love or Die | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271761</id>
+        <link href="https://tv.naver.com/v/33271761"/>
+        <updated>2023-02-19T08:22:10.330Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TNX - I Need U | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271759</id>
+        <link href="https://tv.naver.com/v/33271759"/>
+        <updated>2023-02-19T08:22:10.330Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - Honestly | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271757</id>
+        <link href="https://tv.naver.com/v/33271757"/>
+        <updated>2023-02-19T08:22:10.331Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남동현(Nam Dong Hyun) - Drivers License | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271545</id>
+        <link href="https://tv.naver.com/v/33271545"/>
+        <updated>2023-02-19T08:22:10.331Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271448</id>
+        <link href="https://tv.naver.com/v/33271448"/>
+        <updated>2023-02-19T08:22:10.333Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARTBEAT(아트비트) - 아프로디테 | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271220</id>
+        <link href="https://tv.naver.com/v/33271220"/>
+        <updated>2023-02-19T08:22:10.334Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임윤성 - 세상의 끝에서 | SBS 230219 방송]]></title>
         <id>https://tv.naver.com/v/33271196</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/33072258"/>
         <updated>2023-02-12T07:19:01.690Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espero(에스페로) - Endless | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072172</id>
-        <link href="https://tv.naver.com/v/33072172"/>
-        <updated>2023-02-12T07:19:01.692Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 - Ay-Yo | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32894438</id>
-        <link href="https://tv.naver.com/v/32894438"/>
-        <updated>2023-02-05T08:21:26.830Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 - DJ | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32894237</id>
-        <link href="https://tv.naver.com/v/32894237"/>
-        <updated>2023-02-05T08:21:26.832Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ - PULL UP | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32894234</id>
-        <link href="https://tv.naver.com/v/32894234"/>
-        <updated>2023-02-05T08:21:26.833Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOMORROW X TOGETHER - Sugar Rush Ride | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32894145</id>
-        <link href="https://tv.naver.com/v/32894145"/>
-        <updated>2023-02-05T08:21:26.836Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOMORROW X TOGETHER - Devil by the Window | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32894143</id>
-        <link href="https://tv.naver.com/v/32894143"/>
-        <updated>2023-02-05T08:21:26.838Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승윤 - 꿈의 거처 | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893913</id>
-        <link href="https://tv.naver.com/v/32893913"/>
-        <updated>2023-02-05T08:21:26.840Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893772</id>
-        <link href="https://tv.naver.com/v/32893772"/>
-        <updated>2023-02-05T08:21:26.841Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지영 - Queen | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893771</id>
-        <link href="https://tv.naver.com/v/32893771"/>
-        <updated>2023-02-05T08:21:26.843Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Fireworks | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893769</id>
-        <link href="https://tv.naver.com/v/32893769"/>
-        <updated>2023-02-05T08:21:26.844Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
