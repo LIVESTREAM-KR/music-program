@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-02-19T06:25:55.619Z</updated>
+    <updated>2023-02-19T07:16:57.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임윤성 - 세상의 끝에서 | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271196</id>
+        <link href="https://tv.naver.com/v/33271196"/>
+        <updated>2023-02-19T07:16:18.947Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS - Rising | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33271071</id>
+        <link href="https://tv.naver.com/v/33271071"/>
+        <updated>2023-02-19T07:16:18.948Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강버터(Kang Butter) - 분명한 건 널 사랑했단 거야 | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33270870</id>
+        <link href="https://tv.naver.com/v/33270870"/>
+        <updated>2023-02-19T07:16:18.949Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강예슬 - 사랑의 포인트 | SBS 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33270869</id>
+        <link href="https://tv.naver.com/v/33270869"/>
+        <updated>2023-02-19T07:16:18.950Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부석순 - 파이팅 해야지(feat. 이영지) | SBS 230212 방송]]></title>
         <id>https://tv.naver.com/v/33073543</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/32893769"/>
         <updated>2023-02-05T08:21:26.844Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원(ILY:1) - 별꽃동화 (Twinkle Twinkle) | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893665</id>
-        <link href="https://tv.naver.com/v/32893665"/>
-        <updated>2023-02-05T08:21:26.846Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - TIC TAC | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893569</id>
-        <link href="https://tv.naver.com/v/32893569"/>
-        <updated>2023-02-05T08:21:26.849Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cignature(시그니처) - 오로라(AURORA) | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893473</id>
-        <link href="https://tv.naver.com/v/32893473"/>
-        <updated>2023-02-05T07:15:52.884Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XG - SHOOTING STAR | SBS 230205 방송]]></title>
-        <id>https://tv.naver.com/v/32893460</id>
-        <link href="https://tv.naver.com/v/32893460"/>
-        <updated>2023-02-05T07:15:52.884Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
