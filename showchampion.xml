@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-02-20T09:20:41.143Z</updated>
+    <updated>2023-02-20T10:22:28.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] woo!ah!(우아!)와 함께하는 2월 4주차 쇼챔피언 수강신청 가보자고👊]]></title>
+        <id>https://tv.naver.com/v/33305243</id>
+        <link href="https://tv.naver.com/v/33305243"/>
+        <updated>2023-02-20T10:22:13.420Z</updated>
+        <content type="html"><![CDATA[01:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.463]]></title>
         <id>https://tv.naver.com/v/33213520</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33160376"/>
         <updated>2023-02-15T13:28:33.664Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['첫사랑 & ARTBEAT & woo!ah!' 4세대 걸그룹들의 2023 결심! l Show Champion l EP.463]]></title>
-        <id>https://tv.naver.com/v/33164046</id>
-        <link href="https://tv.naver.com/v/33164046"/>
-        <updated>2023-02-15T11:20:34.060Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
