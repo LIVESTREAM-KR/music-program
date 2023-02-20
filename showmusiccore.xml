@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-20T02:53:35.276Z</updated>
+    <updated>2023-02-20T03:24:52.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 시은 , 2월 셋째 주 음악중심 MC 컷 모음!, MBC 230218 방송]]></title>
+        <id>https://tv.naver.com/v/33290338</id>
+        <link href="https://tv.naver.com/v/33290338"/>
+        <updated>2023-02-20T03:24:07.535Z</updated>
+        <content type="html"><![CDATA[16:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TNX – I Need U(티엔엑스 - 아이 니드 유) FanCam | Show! MusicCore | MBC230218방송]]></title>
         <id>https://tv.naver.com/v/33253502</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33251994"/>
         <updated>2023-02-18T08:22:07.762Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스 - 스윗주스 (PURPLE KISS - Sweet Juice), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33251787</id>
-        <link href="https://tv.naver.com/v/33251787"/>
-        <updated>2023-02-18T08:22:07.763Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
