@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-20T06:24:58.447Z</updated>
+    <updated>2023-02-20T07:18:08.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC YOON - Poppy(스테이씨 윤 - 파피) Close-up Cam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33297848</id>
+        <link href="https://tv.naver.com/v/33297848"/>
+        <updated>2023-02-20T07:17:27.872Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC SEEUN - Poppy(스테이씨 세은 - 파피) Close-up Cam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33297846</id>
+        <link href="https://tv.naver.com/v/33297846"/>
+        <updated>2023-02-20T07:17:27.873Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC SIEUN - Poppy(스테이씨 시은 - 파피) Close-up Cam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33297716</id>
+        <link href="https://tv.naver.com/v/33297716"/>
+        <updated>2023-02-20T07:17:27.873Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC SUMIN - Poppy(스테이씨 수민 - 파피) Close-up Cam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33297715</id>
+        <link href="https://tv.naver.com/v/33297715"/>
+        <updated>2023-02-20T07:17:27.875Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC J - Poppy(스테이씨 재이 - 파피) Close-up Cam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33297480</id>
+        <link href="https://tv.naver.com/v/33297480"/>
+        <updated>2023-02-20T07:17:27.875Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC ISA - Poppy(스테이씨 아이사 - 파피) Close-up Cam | Show! MusicCore | MBC230218방송]]></title>
+        <id>https://tv.naver.com/v/33297479</id>
+        <link href="https://tv.naver.com/v/33297479"/>
+        <updated>2023-02-20T07:17:27.877Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 시은 , 2월 셋째 주 음악중심 MC 컷 모음!, MBC 230218 방송]]></title>
         <id>https://tv.naver.com/v/33290338</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/33252882"/>
         <updated>2023-02-18T08:22:07.752Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키 - 킬러 (KEY - Killer), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33252366</id>
-        <link href="https://tv.naver.com/v/33252366"/>
-        <updated>2023-02-18T08:22:07.753Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 - 테디베어 (STAYC - Teddy Bear), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33252270</id>
-        <link href="https://tv.naver.com/v/33252270"/>
-        <updated>2023-02-18T08:22:07.757Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 - 파피 (STAYC - Poppy), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33252243</id>
-        <link href="https://tv.naver.com/v/33252243"/>
-        <updated>2023-02-18T08:22:07.757Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이브 - 판도라 (MAVE: - PANDORA), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33252114</id>
-        <link href="https://tv.naver.com/v/33252114"/>
-        <updated>2023-02-18T08:22:07.759Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비지 (VIVIZ) in 코노돌🎉 - (다비치 - 사랑과 전쟁 (Narr. 하하)), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33252109</id>
-        <link href="https://tv.naver.com/v/33252109"/>
-        <updated>2023-02-18T08:22:07.759Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비 - 위 아 영 (TRI.BE - WE ARE YOUNG), MBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33251994</id>
-        <link href="https://tv.naver.com/v/33251994"/>
-        <updated>2023-02-18T08:22:07.762Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
