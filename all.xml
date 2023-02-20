@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-20T07:18:08.858Z</updated>
+    <updated>2023-02-20T08:26:38.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killer - 키 (KEY) | KBS 230217 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC SUMIN - Teddy Bear(스테이씨 수민 - 테디베어) Close-up Cam | Show! MusicCore | MBC230218방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33301041</id>
+        <link href="https://tv.naver.com/v/33301041"/>
+        <updated>2023-02-20T08:25:53.179Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC ISA - Teddy Bear(스테이씨 아이사 - 테디베어) Close-up Cam | Show! MusicCore | MBC230218방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33300985</id>
+        <link href="https://tv.naver.com/v/33300985"/>
+        <updated>2023-02-20T08:25:53.183Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC SEEUN - Teddy Bear(스테이씨 세은 - 테디베어) Close-up Cam | Show! MusicCore | MBC230218방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33300982</id>
+        <link href="https://tv.naver.com/v/33300982"/>
+        <updated>2023-02-20T08:25:53.184Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] STAYC YOON - Poppy(스테이씨 윤 - 파피) Close-up Cam | Show! MusicCore | MBC230218방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/33297848</id>
         <link href="https://tv.naver.com/v/33297848"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/33252888"/>
         <updated>2023-02-18T08:22:07.745Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] STAYC - Poppy(스테이씨 – 파피) FanCam | Show! MusicCore | MBC230218방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33252886</id>
-        <link href="https://tv.naver.com/v/33252886"/>
-        <updated>2023-02-18T08:22:07.746Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] STAYC SIEUN – Teddy Bear(스테이씨 시은 - 테디베어) FanCam | Show! MusicCore | MBC230218방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33252885</id>
-        <link href="https://tv.naver.com/v/33252885"/>
-        <updated>2023-02-18T08:22:07.747Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] STAYC - Teddy Bear(스테이씨 – 테디베어) FanCam | Show! MusicCore | MBC230218방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33252882</id>
-        <link href="https://tv.naver.com/v/33252882"/>
-        <updated>2023-02-18T08:22:07.752Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키(KEY) - Killer | SBS 230219 방송 (인기가요)]]></title>
