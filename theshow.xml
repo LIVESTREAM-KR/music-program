@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-02-21T09:19:30.099Z</updated>
+    <updated>2023-02-21T10:21:28.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 끝없는 사랑을 노래하는, 에스페로 'Endless']]></title>
+        <id>https://tv.naver.com/v/33341744</id>
+        <link href="https://tv.naver.com/v/33341744"/>
+        <updated>2023-02-21T10:21:06.930Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 마음을 울리는 천상계 보이스, 에스페로 '백학']]></title>
+        <id>https://tv.naver.com/v/33341609</id>
+        <link href="https://tv.naver.com/v/33341609"/>
+        <updated>2023-02-21T10:21:06.931Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 꿈을 향해 달려가는 소녀들, tripleS, 'Rising']]></title>
+        <id>https://tv.naver.com/v/33341607</id>
+        <link href="https://tv.naver.com/v/33341607"/>
+        <updated>2023-02-21T10:21:06.937Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 유니크한 음악적 아이덴티티, tripleS, 'Beam']]></title>
+        <id>https://tv.naver.com/v/33341474</id>
+        <link href="https://tv.naver.com/v/33341474"/>
+        <updated>2023-02-21T10:21:06.941Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 애절한 보이스, 임윤성 '세상의 끝에서']]></title>
+        <id>https://tv.naver.com/v/33341315</id>
+        <link href="https://tv.naver.com/v/33341315"/>
+        <updated>2023-02-21T10:21:06.946Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몽환적인 퍼포먼스, XG 'SHOOTING STAR']]></title>
+        <id>https://tv.naver.com/v/33341312</id>
+        <link href="https://tv.naver.com/v/33341312"/>
+        <updated>2023-02-21T10:21:06.947Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] MZ세대 거침없음을 표현하는, 8TURN(에잇턴) 'TIC TAC']]></title>
+        <id>https://tv.naver.com/v/33341179</id>
+        <link href="https://tv.naver.com/v/33341179"/>
+        <updated>2023-02-21T10:21:06.948Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러블리한 음색, 강예슬 '사랑의 포인트']]></title>
+        <id>https://tv.naver.com/v/33340545</id>
+        <link href="https://tv.naver.com/v/33340545"/>
+        <updated>2023-02-21T10:21:06.951Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
         <id>https://tv.naver.com/v/30989961</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/30987827"/>
         <updated>2022-11-22T10:22:39.469Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴박한 정글 분위기, TFN 'AMAZON']]></title>
-        <id>https://tv.naver.com/v/30987575</id>
-        <link href="https://tv.naver.com/v/30987575"/>
-        <updated>2022-11-22T10:22:39.469Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑의 끝은, 이아영 '조금 더 일찍 이별할 걸 그랬어']]></title>
-        <id>https://tv.naver.com/v/30987090</id>
-        <link href="https://tv.naver.com/v/30987090"/>
-        <updated>2022-11-22T10:22:39.469Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/30793426</id>
-        <link href="https://tv.naver.com/v/30793426"/>
-        <updated>2022-11-15T11:18:22.346Z</updated>
-        <content type="html"><![CDATA[04:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 감성적이고 감각적인, 하이라이트 'Alone']]></title>
-        <id>https://tv.naver.com/v/30793221</id>
-        <link href="https://tv.naver.com/v/30793221"/>
-        <updated>2022-11-15T11:18:22.363Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 사랑에 빠진 핑크빛 행복, 하이라이트 'S.I.L.Y (Say I Love You)']]></title>
-        <id>https://tv.naver.com/v/30793219</id>
-        <link href="https://tv.naver.com/v/30793219"/>
-        <updated>2022-11-15T11:18:22.364Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 설렘을 갖고 나아갈, 김종현 'Lights']]></title>
-        <id>https://tv.naver.com/v/30793073</id>
-        <link href="https://tv.naver.com/v/30793073"/>
-        <updated>2022-11-15T11:18:22.364Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 더 높이 새롭게, 김종현 'Blaze']]></title>
-        <id>https://tv.naver.com/v/30793072</id>
-        <link href="https://tv.naver.com/v/30793072"/>
-        <updated>2022-11-15T11:18:22.366Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 따뜻한 위로를 전하는, 조유리 'Loveable']]></title>
-        <id>https://tv.naver.com/v/30792827</id>
-        <link href="https://tv.naver.com/v/30792827"/>
-        <updated>2022-11-15T11:18:22.366Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
