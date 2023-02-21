@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-21T10:21:28.330Z</updated>
+    <updated>2023-02-21T11:18:40.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killer - 키 (KEY) | KBS 230217 방송 (뮤직뱅크)]]></title>
@@ -845,6 +845,83 @@
         <content type="html"><![CDATA[04:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33343091</id>
+        <link href="https://tv.naver.com/v/33343091"/>
+        <updated>2023-02-21T11:18:18.458Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 키치한 틴프레시 색으로 돌아온, STAYC (스테이씨) 'Teddy Bear' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342827</id>
+        <link href="https://tv.naver.com/v/33342827"/>
+        <updated>2023-02-21T11:18:18.458Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 밝고 통통 튀는 매력적인 무대, STAYC (스테이씨) 'Poppy (Korean Ver.)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342824</id>
+        <link href="https://tv.naver.com/v/33342824"/>
+        <updated>2023-02-21T11:18:18.462Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 여섯 명의 매혹적인 마녀들, 퍼플키스(PURPLE KISS) 'Sweet Juice' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342709</id>
+        <link href="https://tv.naver.com/v/33342709"/>
+        <updated>2023-02-21T11:18:18.464Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 귓가에 맴도는 멜로디, 퍼플키스(PURPLE KISS) 'Intro : Save Me' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342607</id>
+        <link href="https://tv.naver.com/v/33342607"/>
+        <updated>2023-02-21T11:18:18.465Z</updated>
+        <content type="html"><![CDATA[01:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 떠오르는 글로벌 루키, 트라이비(TRI.BE) 'WE ARE YOUNG' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342602</id>
+        <link href="https://tv.naver.com/v/33342602"/>
+        <updated>2023-02-21T11:18:18.466Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 한 편의 잔혹동화, 트라이비(TRI.BE) 'WITCH' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342486</id>
+        <link href="https://tv.naver.com/v/33342486"/>
+        <updated>2023-02-21T11:18:18.467Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 카리스마 넘치는 칼군무, TNX 'Love or Die' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342485</id>
+        <link href="https://tv.naver.com/v/33342485"/>
+        <updated>2023-02-21T11:18:18.470Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[THE 인생채컷] 퍼플키스(PURPLE KISS) (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342325</id>
+        <link href="https://tv.naver.com/v/33342325"/>
+        <updated>2023-02-21T11:18:18.472Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 다채로운 퍼포먼스, TNX 'I Need U' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342326</id>
+        <link href="https://tv.naver.com/v/33342326"/>
+        <updated>2023-02-21T11:18:18.473Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 순수한 첫사랑의 고백, LIMELIGHT(라임라잇) 'Honestly' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33342184</id>
+        <link href="https://tv.naver.com/v/33342184"/>
+        <updated>2023-02-21T11:18:18.480Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Hot Debut] 끝없는 사랑을 노래하는, 에스페로 'Endless' (더쇼)]]></title>
         <id>https://tv.naver.com/v/33341744</id>
         <link href="https://tv.naver.com/v/33341744"/>
@@ -976,83 +1053,6 @@
         <link href="https://tv.naver.com/v/30989046"/>
         <updated>2022-11-22T11:17:53.447Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초공개] 파워풀한 가창력, HYNN(박혜원) '결승선(RUN)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30988906</id>
-        <link href="https://tv.naver.com/v/30988906"/>
-        <updated>2022-11-22T11:17:53.448Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑에 빠져가는, 네이처(NATURE) 'LIMBO! (넘어와)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30988760</id>
-        <link href="https://tv.naver.com/v/30988760"/>
-        <updated>2022-11-22T11:17:53.448Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[THE 미니웨이] 베리베리(VERIVERY) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30988759</id>
-        <link href="https://tv.naver.com/v/30988759"/>
-        <updated>2022-11-22T11:17:53.460Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] '평등'의 메시지, JUST B 'ME= (나는)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30988593</id>
-        <link href="https://tv.naver.com/v/30988593"/>
-        <updated>2022-11-22T10:22:39.467Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 두근거리는 사랑, woo!ah! (우아!) 'Rollercoaster' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30988591</id>
-        <link href="https://tv.naver.com/v/30988591"/>
-        <updated>2022-11-22T10:22:39.467Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따뜻한 감성의 무대, 장민호 '사랑 너였니' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30988354</id>
-        <link href="https://tv.naver.com/v/30988354"/>
-        <updated>2022-11-22T10:22:39.467Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신나는 뉴트로 리듬, 앨리스(ALICE) 'Dance on' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30988353</id>
-        <link href="https://tv.naver.com/v/30988353"/>
-        <updated>2022-11-22T10:22:39.469Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모두의 엔딩 - 쇼랑해] DRIPPIN (드리핀) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30988199</id>
-        <link href="https://tv.naver.com/v/30988199"/>
-        <updated>2022-11-22T10:22:39.469Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 솔직한 사랑을 보여줄, 첫사랑(CSR) '러브티콘 (♡TiCON)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30988198</id>
-        <link href="https://tv.naver.com/v/30988198"/>
-        <updated>2022-11-22T10:22:39.469Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비로운 사운드, CLASS:y (클라씨) 'Tick Tick Boom' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30987828</id>
-        <link href="https://tv.naver.com/v/30987828"/>
-        <updated>2022-11-22T10:22:39.469Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 달콤한 멜로디, FIFTY FIFTY 'Higher' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/30987827</id>
-        <link href="https://tv.naver.com/v/30987827"/>
-        <updated>2022-11-22T10:22:39.469Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] woo!ah!(우아!)와 함께하는 2월 4주차 쇼챔피언 수강신청 가보자고👊 (쇼챔피언)]]></title>
