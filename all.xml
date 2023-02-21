@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-21T07:17:48.932Z</updated>
+    <updated>2023-02-21T08:24:52.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killer - 키 (KEY) | KBS 230217 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[STAYC(스테이씨)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33336992</id>
+        <link href="https://tv.naver.com/v/33336992"/>
+        <updated>2023-02-21T08:24:23.161Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 키 (KEY) - Killer | Mnet 230216 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/33199701</id>
         <link href="https://tv.naver.com/v/33199701"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/33015691"/>
         <updated>2023-02-09T11:17:25.790Z</updated>
         <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cignature(시그니처) - 오로라(AURORA) | Mnet 230209 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33015582</id>
-        <link href="https://tv.naver.com/v/33015582"/>
-        <updated>2023-02-09T11:17:25.790Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
