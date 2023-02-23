@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-23T10:21:21.757Z</updated>
+    <updated>2023-02-23T11:16:48.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killer - 키 (KEY) | KBS 230217 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,69 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' 더보이즈(THE BOYZ) - ROAR | Mnet 230223 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33410844</id>
+        <link href="https://tv.naver.com/v/33410844"/>
+        <updated>2023-02-23T11:16:20.099Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 더보이즈(THE BOYZ) - Awake | Mnet 230223 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33410704</id>
+        <link href="https://tv.naver.com/v/33410704"/>
+        <updated>2023-02-23T11:16:20.101Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC(스테이씨) - Teddy Bear | Mnet 230223 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33410551</id>
+        <link href="https://tv.naver.com/v/33410551"/>
+        <updated>2023-02-23T11:16:20.110Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['STUDIO M' LUCY - 아니 근데 진짜 | Mnet 230223 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33410550</id>
+        <link href="https://tv.naver.com/v/33410550"/>
+        <updated>2023-02-23T11:16:20.113Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' 주헌 X 미연 - 목요일 밤 | Mnet 230223 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33410397</id>
+        <link href="https://tv.naver.com/v/33410397"/>
+        <updated>2023-02-23T11:16:20.116Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TNX - Love or Die | Mnet 230223 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33410395</id>
+        <link href="https://tv.naver.com/v/33410395"/>
+        <updated>2023-02-23T11:16:20.116Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with 더보이즈(THE BOYZ) | Mnet 230223 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33410228</id>
+        <link href="https://tv.naver.com/v/33410228"/>
+        <updated>2023-02-23T11:16:20.122Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | Mnet 230223 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33410096</id>
+        <link href="https://tv.naver.com/v/33410096"/>
+        <updated>2023-02-23T11:16:20.128Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로드 투 엠카운트다운 STAGE' JUST B - Get Away | Mnet 230223 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33410095</id>
+        <link href="https://tv.naver.com/v/33410095"/>
+        <updated>2023-02-23T11:16:20.131Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | Mnet 230223 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/33409801</id>
         <link href="https://tv.naver.com/v/33409801"/>
@@ -780,69 +843,6 @@
         <link href="https://tv.naver.com/v/33199428"/>
         <updated>2023-02-16T11:16:16.144Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' LIMELIGHT(라임라잇) - Honestly | Mnet 230216 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33199427</id>
-        <link href="https://tv.naver.com/v/33199427"/>
-        <updated>2023-02-16T11:16:16.144Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DEBUT' tripleS - Rising | Mnet 230216 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33199424</id>
-        <link href="https://tv.naver.com/v/33199424"/>
-        <updated>2023-02-16T11:16:16.144Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPOILER M' 더보이즈 (THE BOYZ) | Mnet 230216 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33198792</id>
-        <link href="https://tv.naver.com/v/33198792"/>
-        <updated>2023-02-16T10:20:44.194Z</updated>
-        <content type="html"><![CDATA[01:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최수환 - LEFT ON READ | Mnet 230216 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33198791</id>
-        <link href="https://tv.naver.com/v/33198791"/>
-        <updated>2023-02-16T10:20:44.213Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 퍼플키스 (PURPLE KISS) | Mnet 230216 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33198366</id>
-        <link href="https://tv.naver.com/v/33198366"/>
-        <updated>2023-02-16T10:20:44.217Z</updated>
-        <content type="html"><![CDATA[02:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARTBEAT(아트비트) - 아프로디테 | Mnet 230216 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33198365</id>
-        <link href="https://tv.naver.com/v/33198365"/>
-        <updated>2023-02-16T10:20:44.220Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강버터(Kang Butter) - 분명한 건 널 사랑했단 거야 | Mnet 230216 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33198363</id>
-        <link href="https://tv.naver.com/v/33198363"/>
-        <updated>2023-02-16T10:20:44.222Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴)이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33123299</id>
-        <link href="https://tv.naver.com/v/33123299"/>
-        <updated>2023-02-14T10:21:31.312Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2월 2주 1위 '투모로우바이투게더'의 'Sugar Rush Ride' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33045746</id>
-        <link href="https://tv.naver.com/v/33045746"/>
-        <updated>2023-02-10T11:16:43.307Z</updated>
-        <content type="html"><![CDATA[05:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
