@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-02-23T09:19:40.754Z</updated>
+    <updated>2023-02-23T10:21:21.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] XG - LEFT RIGHT (엑스지 - 레프트 라이트) l Show Champion l EP.464]]></title>
+        <id>https://tv.naver.com/v/33389690</id>
+        <link href="https://tv.naver.com/v/33389690"/>
+        <updated>2023-02-23T10:21:05.775Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS - Colorful (트리플에스 - 컬러풀) l Show Champion l EP.464]]></title>
+        <id>https://tv.naver.com/v/33389586</id>
+        <link href="https://tv.naver.com/v/33389586"/>
+        <updated>2023-02-23T10:21:05.777Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC - Poppy (Korean Ver.) (스테이씨 - 파피) l Show Champion l EP.464]]></title>
+        <id>https://tv.naver.com/v/33389519</id>
+        <link href="https://tv.naver.com/v/33389519"/>
+        <updated>2023-02-23T10:21:05.777Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] PURPLE KISS - Intro : Save Me + Sweet Juice (퍼플키스 - 세이브 미+스윗 쥬스) l Show Champion l EP.464]]></title>
         <id>https://tv.naver.com/v/33377017</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33367194"/>
         <updated>2023-02-22T13:28:02.438Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC SIEUN - Teddy Bear (스테이씨 시은 - 테디 베어) | Show Champion | EP.464]]></title>
-        <id>https://tv.naver.com/v/33367136</id>
-        <link href="https://tv.naver.com/v/33367136"/>
-        <updated>2023-02-22T13:28:02.439Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 1위] 2월 넷째 주 챔피언송 ＜STAYC - Teddy Bear＞ 앵콜 Full ver. l Show Champion l EP.464]]></title>
-        <id>https://tv.naver.com/v/33379771</id>
-        <link href="https://tv.naver.com/v/33379771"/>
-        <updated>2023-02-22T13:28:02.443Z</updated>
-        <content type="html"><![CDATA[05:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC - Teddy Bear (스테이씨 - 테디 베어) l Show Champion l EP.464]]></title>
-        <id>https://tv.naver.com/v/33376343</id>
-        <link href="https://tv.naver.com/v/33376343"/>
-        <updated>2023-02-22T11:17:15.510Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>

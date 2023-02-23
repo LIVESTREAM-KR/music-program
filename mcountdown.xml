@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-02-23T09:19:40.758Z</updated>
+    <updated>2023-02-23T10:21:21.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | Mnet 230223 방송]]></title>
+        <id>https://tv.naver.com/v/33409801</id>
+        <link href="https://tv.naver.com/v/33409801"/>
+        <updated>2023-02-23T10:20:50.549Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - TIC TAC | Mnet 230223 방송]]></title>
+        <id>https://tv.naver.com/v/33409800</id>
+        <link href="https://tv.naver.com/v/33409800"/>
+        <updated>2023-02-23T10:20:50.549Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS - Rising | Mnet 230223 방송]]></title>
+        <id>https://tv.naver.com/v/33409672</id>
+        <link href="https://tv.naver.com/v/33409672"/>
+        <updated>2023-02-23T10:20:50.551Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIMELIGHT(라임라잇) - Honestly | Mnet 230223 방송]]></title>
+        <id>https://tv.naver.com/v/33409397</id>
+        <link href="https://tv.naver.com/v/33409397"/>
+        <updated>2023-02-23T10:20:50.552Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' 황민현 (HWANG MIN HYUN) | Mnet 230223 방송]]></title>
+        <id>https://tv.naver.com/v/33409246</id>
+        <link href="https://tv.naver.com/v/33409246"/>
+        <updated>2023-02-23T10:20:50.552Z</updated>
+        <content type="html"><![CDATA[01:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFTY FIFTY - Cupid | Mnet 230223 방송]]></title>
+        <id>https://tv.naver.com/v/33409103</id>
+        <link href="https://tv.naver.com/v/33409103"/>
+        <updated>2023-02-23T10:20:50.553Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남동현 - Drivers License | Mnet 230223 방송]]></title>
+        <id>https://tv.naver.com/v/33408949</id>
+        <link href="https://tv.naver.com/v/33408949"/>
+        <updated>2023-02-23T10:20:50.556Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STAYC(스테이씨)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/33336992</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/33045746"/>
         <updated>2023-02-10T11:16:43.307Z</updated>
         <content type="html"><![CDATA[05:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 부석순 (SEVENTEEN) - 파이팅 해야지 (Feat. 이영지) | Mnet 230209 방송]]></title>
-        <id>https://tv.naver.com/v/33016175</id>
-        <link href="https://tv.naver.com/v/33016175"/>
-        <updated>2023-02-09T11:17:25.777Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 부석순 (SEVENTEEN) - 7시에 들어줘 (Feat. Peder Elias) | Mnet 230209 방송]]></title>
-        <id>https://tv.naver.com/v/33016013</id>
-        <link href="https://tv.naver.com/v/33016013"/>
-        <updated>2023-02-09T11:17:25.777Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 - Ay-Yo | Mnet 230209 방송]]></title>
-        <id>https://tv.naver.com/v/33016012</id>
-        <link href="https://tv.naver.com/v/33016012"/>
-        <updated>2023-02-09T11:17:25.778Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1위' 투모로우바이투게더 - Sugar Rush Ride | Mnet 230209 방송]]></title>
-        <id>https://tv.naver.com/v/33016011</id>
-        <link href="https://tv.naver.com/v/33016011"/>
-        <updated>2023-02-09T11:17:25.789Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 임창정 - 멍청이 | Mnet 230209 방송]]></title>
-        <id>https://tv.naver.com/v/33015919</id>
-        <link href="https://tv.naver.com/v/33015919"/>
-        <updated>2023-02-09T13:32:29.850Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비지(VIVIZ) - PULL UP | Mnet 230209 방송]]></title>
-        <id>https://tv.naver.com/v/33015693</id>
-        <link href="https://tv.naver.com/v/33015693"/>
-        <updated>2023-02-09T11:17:25.789Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 부석순 (SEVENTEEN) | Mnet 230209 방송]]></title>
-        <id>https://tv.naver.com/v/33015691</id>
-        <link href="https://tv.naver.com/v/33015691"/>
-        <updated>2023-02-09T11:17:25.790Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
     </entry>
 </feed>
