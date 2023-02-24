@@ -2,8 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-24T08:25:25.544Z</updated>
+    <updated>2023-02-24T09:19:15.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Love or Die - TNX | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441304</id>
+        <link href="https://tv.naver.com/v/33441304"/>
+        <updated>2023-02-24T09:18:27.689Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Need U - TNX  | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441302</id>
+        <link href="https://tv.naver.com/v/33441302"/>
+        <updated>2023-02-24T09:18:27.693Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honestly - LIMELIGHT(라임라잇) | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441278</id>
+        <link href="https://tv.naver.com/v/33441278"/>
+        <updated>2023-02-24T09:18:27.693Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Are You - HAWW | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441277</id>
+        <link href="https://tv.naver.com/v/33441277"/>
+        <updated>2023-02-24T09:18:27.693Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cupid - FIFTY FIFTY(피프티 피프티) | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441145</id>
+        <link href="https://tv.naver.com/v/33441145"/>
+        <updated>2023-02-24T09:18:27.693Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rising - tripleS | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441142</id>
+        <link href="https://tv.naver.com/v/33441142"/>
+        <updated>2023-02-24T09:18:27.693Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIC TAC - 8TURN(에잇턴) | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33441141</id>
+        <link href="https://tv.naver.com/v/33441141"/>
+        <updated>2023-02-24T09:18:27.694Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안녕 신촌 - 포스트맨 | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33440555</id>
+        <link href="https://tv.naver.com/v/33440555"/>
+        <updated>2023-02-24T09:18:27.700Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상의 끝에서 - 임윤성 | KBS 230224 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33440250</id>
+        <link href="https://tv.naver.com/v/33440250"/>
+        <updated>2023-02-24T09:18:27.702Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Killer - 키 (KEY) | KBS 230217 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/33232876</id>
@@ -150,69 +213,6 @@
         <link href="https://tv.naver.com/v/33043526"/>
         <updated>2023-02-10T10:21:06.359Z</updated>
         <content type="html"><![CDATA[04:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오로라(AURORA) - cignature(시그니처) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33043194</id>
-        <link href="https://tv.naver.com/v/33043194"/>
-        <updated>2023-02-10T10:21:06.359Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PULL UP - VIVIZ(비비지) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33043084</id>
-        <link href="https://tv.naver.com/v/33043084"/>
-        <updated>2023-02-10T10:21:06.371Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fireworks - AIMERS | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33042852</id>
-        <link href="https://tv.naver.com/v/33042852"/>
-        <updated>2023-02-10T10:21:06.371Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분명한 건 널 사랑했단 거야 - 강버터(Kang Butter) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33042850</id>
-        <link href="https://tv.naver.com/v/33042850"/>
-        <updated>2023-02-10T10:21:06.371Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아프로디테 - ARTBEAT(아트비트) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33042836</id>
-        <link href="https://tv.naver.com/v/33042836"/>
-        <updated>2023-02-10T10:21:06.373Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Left On Read - 최수환 | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33042616</id>
-        <link href="https://tv.naver.com/v/33042616"/>
-        <updated>2023-02-10T10:21:06.374Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRIMROSE - 프림로즈 (PRIMROSE) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33042615</id>
-        <link href="https://tv.naver.com/v/33042615"/>
-        <updated>2023-02-10T10:21:06.375Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIVE - uni(유니) | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33042481</id>
-        <link href="https://tv.naver.com/v/33042481"/>
-        <updated>2023-02-10T10:21:06.377Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연예인 (원곡 : PSY) - 이채민 X 홍은채  | KBS 230210 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33042107</id>
-        <link href="https://tv.naver.com/v/33042107"/>
-        <updated>2023-02-10T10:21:06.379Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] STAYC.zip 📂 SO BAD 부터 Teddy Bear 까지 | Show! MusicCore (쇼! 음악중심)]]></title>
@@ -1475,6 +1475,27 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 전세계의 러브콜을 받는 패션 디자이너 요니 P!, MBC 230219 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/33440985</id>
+        <link href="https://tv.naver.com/v/33440985"/>
+        <updated>2023-02-24T09:19:14.718Z</updated>
+        <content type="html"><![CDATA[10:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영원한 모델계의 레전드, 모델 박영선!, MBC 230219 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/33440841</id>
+        <link href="https://tv.naver.com/v/33440841"/>
+        <updated>2023-02-24T09:19:14.718Z</updated>
+        <content type="html"><![CDATA[11:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 맛깔나는 가창력의 트로트 가수, 가수 겸 개그맨 영기!, MBC 230219 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/33440678</id>
+        <link href="https://tv.naver.com/v/33440678"/>
+        <updated>2023-02-24T09:19:14.718Z</updated>
+        <content type="html"><![CDATA[09:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[＜가왕에게 들이닥친 8연승 적신호＞ 복면가왕 393회 예고, MBC 230226 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/33276074</id>
         <link href="https://tv.naver.com/v/33276074"/>
@@ -1662,26 +1683,5 @@
         <link href="https://tv.naver.com/v/33074893"/>
         <updated>2023-02-12T10:19:10.457Z</updated>
         <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은밀한 이중생활'의 지인! 음악 감독 정재일이 보내온 영상 힌트 찬스⭐, MBC 230212 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/33074781</id>
-        <link href="https://tv.naver.com/v/33074781"/>
-        <updated>2023-02-12T10:19:10.458Z</updated>
-        <content type="html"><![CDATA[01:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수정구슬' 2라운드 무대 - 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지, MBC 230212 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/33074765</id>
-        <link href="https://tv.naver.com/v/33074765"/>
-        <updated>2023-02-12T10:19:10.461Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은밀한 이중생활' 2라운드 무대 - 엄마, MBC 230212 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/33074708</id>
-        <link href="https://tv.naver.com/v/33074708"/>
-        <updated>2023-02-12T10:19:10.464Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>

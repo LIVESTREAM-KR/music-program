@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-24T08:25:25.526Z</updated>
+    <updated>2023-02-24T09:19:15.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 전세계의 러브콜을 받는 패션 디자이너 요니 P!, MBC 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33440985</id>
+        <link href="https://tv.naver.com/v/33440985"/>
+        <updated>2023-02-24T09:19:14.718Z</updated>
+        <content type="html"><![CDATA[10:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영원한 모델계의 레전드, 모델 박영선!, MBC 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33440841</id>
+        <link href="https://tv.naver.com/v/33440841"/>
+        <updated>2023-02-24T09:19:14.718Z</updated>
+        <content type="html"><![CDATA[11:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 맛깔나는 가창력의 트로트 가수, 가수 겸 개그맨 영기!, MBC 230219 방송]]></title>
+        <id>https://tv.naver.com/v/33440678</id>
+        <link href="https://tv.naver.com/v/33440678"/>
+        <updated>2023-02-24T09:19:14.718Z</updated>
+        <content type="html"><![CDATA[09:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜가왕에게 들이닥친 8연승 적신호＞ 복면가왕 393회 예고, MBC 230226 방송]]></title>
         <id>https://tv.naver.com/v/33276074</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33074893"/>
         <updated>2023-02-12T10:19:10.457Z</updated>
         <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은밀한 이중생활'의 지인! 음악 감독 정재일이 보내온 영상 힌트 찬스⭐, MBC 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33074781</id>
-        <link href="https://tv.naver.com/v/33074781"/>
-        <updated>2023-02-12T10:19:10.458Z</updated>
-        <content type="html"><![CDATA[01:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수정구슬' 2라운드 무대 - 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지, MBC 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33074765</id>
-        <link href="https://tv.naver.com/v/33074765"/>
-        <updated>2023-02-12T10:19:10.461Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은밀한 이중생활' 2라운드 무대 - 엄마, MBC 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33074708</id>
-        <link href="https://tv.naver.com/v/33074708"/>
-        <updated>2023-02-12T10:19:10.464Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
