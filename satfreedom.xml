@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-24T10:21:19.169Z</updated>
+    <updated>2023-02-24T11:16:55.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 본 무대를 방물케 하는 선글라스🕶기태의 [Incomplete] | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/33443876</id>
+        <link href="https://tv.naver.com/v/33443876"/>
+        <updated>2023-02-24T11:16:48.240Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4K 직캠] 정다경 - 찰랑찰랑 | KBS 230218 방송]]></title>
         <id>https://tv.naver.com/v/33239146</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33255800"/>
         <updated>2023-02-18T11:16:38.593Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬계 훈남 소방차 이창민&김찬호&서동진! 멈출 수 없는 댄스 본능🤣 | KBS 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33255717</id>
-        <link href="https://tv.naver.com/v/33255717"/>
-        <updated>2023-02-18T10:18:52.520Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
