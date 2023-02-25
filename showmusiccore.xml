@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-25T06:23:24.334Z</updated>
+    <updated>2023-02-25T07:17:13.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티엔엑스 - 러브 오어 다이 (TNX -  Love or Die), MBC 230225 방송]]></title>
+        <id>https://tv.naver.com/v/33461313</id>
+        <link href="https://tv.naver.com/v/33461313"/>
+        <updated>2023-02-25T07:16:31.631Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇 - 아네슬리 (LIMELIGHT - Honestly), MBC 230225 방송]]></title>
+        <id>https://tv.naver.com/v/33461220</id>
+        <link href="https://tv.naver.com/v/33461220"/>
+        <updated>2023-02-25T07:16:31.631Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트리플에스 - 라이징 (tripleS - Rising), MBC 230225 방송]]></title>
+        <id>https://tv.naver.com/v/33461117</id>
+        <link href="https://tv.naver.com/v/33461117"/>
+        <updated>2023-02-25T07:16:31.631Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에잇턴 - 틱 택 (8TURN - TIC TAC), MBC 230225 방송]]></title>
+        <id>https://tv.naver.com/v/33461030</id>
+        <link href="https://tv.naver.com/v/33461030"/>
+        <updated>2023-02-25T07:16:31.631Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강예슬 - 사랑의 포인트 (Kang Ye Seul - The point of love), MBC 230225 방송]]></title>
+        <id>https://tv.naver.com/v/33460933</id>
+        <link href="https://tv.naver.com/v/33460933"/>
+        <updated>2023-02-25T07:16:31.631Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] STAYC.zip 📂 SO BAD 부터 Teddy Bear 까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/33301979</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/33253154"/>
         <updated>2023-02-18T08:22:07.741Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TRIPLES Lee JiWoo – Rising(트리플에스 이지우 - 라이징) FanCam | Show! MusicCore | MBC230218방송]]></title>
-        <id>https://tv.naver.com/v/33253063</id>
-        <link href="https://tv.naver.com/v/33253063"/>
-        <updated>2023-02-18T08:22:07.741Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] PURPLE KISS IREH – Sweet Juice(퍼플키스 이레 - 스윗 쥬스) FanCam | Show! MusicCore | MBC230218방송]]></title>
-        <id>https://tv.naver.com/v/33253062</id>
-        <link href="https://tv.naver.com/v/33253062"/>
-        <updated>2023-02-18T08:22:07.741Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] PURPLE KISS NA GO EUN – Sweet Juice(퍼플키스 나고은 - 스윗 쥬스) FanCam | Show! MusicCore | MBC230218방]]></title>
-        <id>https://tv.naver.com/v/33253061</id>
-        <link href="https://tv.naver.com/v/33253061"/>
-        <updated>2023-02-18T08:22:07.743Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KEY – Killer(키 - 킬러) FanCam | Show! MusicCore | MBC230218방송]]></title>
-        <id>https://tv.naver.com/v/33253029</id>
-        <link href="https://tv.naver.com/v/33253029"/>
-        <updated>2023-02-18T08:22:07.743Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KEY - Killer(키 – 킬러) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230218방송]]></title>
-        <id>https://tv.naver.com/v/33253026</id>
-        <link href="https://tv.naver.com/v/33253026"/>
-        <updated>2023-02-18T08:22:07.745Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
 </feed>
