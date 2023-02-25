@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-02-25T09:18:11.890Z</updated>
+    <updated>2023-02-25T10:19:05.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선글라스 기태의 Incompelete🕺 이창민&김찬호&서동진의 합동 공연! | KBS 230225 방송]]></title>
+        <id>https://tv.naver.com/v/33464955</id>
+        <link href="https://tv.naver.com/v/33464955"/>
+        <updated>2023-02-25T10:18:57.887Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정다경&나태주 2부 시작 텐션 업 댄스 타임🔥 | KBS 230225 방송]]></title>
+        <id>https://tv.naver.com/v/33464760</id>
+        <link href="https://tv.naver.com/v/33464760"/>
+        <updated>2023-02-25T10:18:57.895Z</updated>
+        <content type="html"><![CDATA[02:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1부 우승자 나태주! 표정관리 실패(?) 마음이 훈훈해지는 우승 소감💟 | KBS 230225 방송]]></title>
+        <id>https://tv.naver.com/v/33464626</id>
+        <link href="https://tv.naver.com/v/33464626"/>
+        <updated>2023-02-25T10:18:57.896Z</updated>
+        <content type="html"><![CDATA[01:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 본 무대를 방물케 하는 선글라스🕶기태의 [Incomplete] | KBS 방송]]></title>
         <id>https://tv.naver.com/v/33443876</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33256084"/>
         <updated>2023-02-18T11:16:38.593Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[류승주 - 우린 너무 쉽게 헤어졌어요 | KBS 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33255993</id>
-        <link href="https://tv.naver.com/v/33255993"/>
-        <updated>2023-02-18T11:16:38.593Z</updated>
-        <content type="html"><![CDATA[05:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내공이 느껴지는 뮤지컬 디바 류승주💟 김기태&정동하를 견제하는 이유? | KBS 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33255801</id>
-        <link href="https://tv.naver.com/v/33255801"/>
-        <updated>2023-02-18T11:16:38.593Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정다경 vs 나태주 vs 홍진영 파워풀한 반칙 예열 중?🔥 퍼포먼스 대격돌! | KBS 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33255800</id>
-        <link href="https://tv.naver.com/v/33255800"/>
-        <updated>2023-02-18T11:16:38.593Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
