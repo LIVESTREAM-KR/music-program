@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-26T11:15:39.008Z</updated>
+    <updated>2023-02-26T12:34:27.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[02:41]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['쌍두마차' 2라운드 무대 - 흐린 기억속의 그대, MBC 230226 방송]]></title>
-        <id>https://tv.naver.com/v/33482847</id>
-        <link href="https://tv.naver.com/v/33482847"/>
-        <updated>2023-02-26T10:19:36.669Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['포토카드 꾸미기' 2라운드 무대 - Rush Hour (Feat. j-hope of BTS), MBC 230226 방송]]></title>
         <id>https://tv.naver.com/v/33482848</id>
         <link href="https://tv.naver.com/v/33482848"/>
         <updated>2023-02-26T10:19:36.668Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쌍두마차' 2라운드 무대 - 흐린 기억속의 그대, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33482847</id>
+        <link href="https://tv.naver.com/v/33482847"/>
+        <updated>2023-02-26T10:19:36.669Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 유쾌함 뒤에 숨겨둔 노래 실력! 개그계의 대모, 개그우먼 배연정!, MBC 230219 방송]]></title>
