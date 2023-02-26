@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-26T09:18:31.530Z</updated>
+    <updated>2023-02-26T10:19:37.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['겁 없는 하룻강아지' 2라운드 무대 - Marry Me, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33483300</id>
+        <link href="https://tv.naver.com/v/33483300"/>
+        <updated>2023-02-26T10:19:36.666Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['포토카드 꾸미기'의 정체는 더보이즈 케빈!, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33483150</id>
+        <link href="https://tv.naver.com/v/33483150"/>
+        <updated>2023-02-26T10:19:36.667Z</updated>
+        <content type="html"><![CDATA[02:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['포토카드 꾸미기'의 자기소개 3개 국어!✨ ＂봉쥬르! !@)#@*(#+＂, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33483045</id>
+        <link href="https://tv.naver.com/v/33483045"/>
+        <updated>2023-02-26T10:19:36.668Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['포토카드 꾸미기' 2라운드 무대 - Rush Hour, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33482848</id>
+        <link href="https://tv.naver.com/v/33482848"/>
+        <updated>2023-02-26T10:19:36.668Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쌍두마차' 2라운드 무대 - 흐린 기억속의 그대, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33482847</id>
+        <link href="https://tv.naver.com/v/33482847"/>
+        <updated>2023-02-26T10:19:36.669Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 유쾌함 뒤에 숨겨둔 노래 실력! 개그계의 대모, 개그우먼 배연정!, MBC 230219 방송]]></title>
         <id>https://tv.naver.com/v/33441691</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/33075374"/>
         <updated>2023-02-12T11:15:38.668Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수정구슬' 3라운드 무대 - 시계태엽, MBC 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33075253</id>
-        <link href="https://tv.naver.com/v/33075253"/>
-        <updated>2023-02-12T11:15:38.670Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차전놀이'의 정체는 원조 아역 배우 이건주!, MBC 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33075252</id>
-        <link href="https://tv.naver.com/v/33075252"/>
-        <updated>2023-02-12T11:15:38.670Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어송라이터 장필순이 보내온 '날아라 전교회장'의 힌트✨ 젊은 뮤지션들에게 사랑받는 '날아라 전교회장'?, MBC 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33075199</id>
-        <link href="https://tv.naver.com/v/33075199"/>
-        <updated>2023-02-12T10:19:10.448Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['날아라 전교회장' 2라운드 무대 - 귀로, MBC 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33075063</id>
-        <link href="https://tv.naver.com/v/33075063"/>
-        <updated>2023-02-12T10:19:10.454Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차전놀이' 2라운드 무대 - 날 위한 이별, MBC 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33075058</id>
-        <link href="https://tv.naver.com/v/33075058"/>
-        <updated>2023-02-12T10:19:10.455Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
