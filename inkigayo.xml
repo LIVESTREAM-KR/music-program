@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-02-26T08:23:15.106Z</updated>
+    <updated>2023-02-26T09:18:31.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈(THE BOYZ) - Awake | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33481260</id>
+        <link href="https://tv.naver.com/v/33481260"/>
+        <updated>2023-02-26T09:17:56.333Z</updated>
+        <content type="html"><![CDATA[02:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) - ROAR | SBS 230226 방송]]></title>
         <id>https://tv.naver.com/v/33480600</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33270869"/>
         <updated>2023-02-19T07:16:18.950Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부석순 - 파이팅 해야지(feat. 이영지) | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33073543</id>
-        <link href="https://tv.naver.com/v/33073543"/>
-        <updated>2023-02-12T08:22:00.950Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
