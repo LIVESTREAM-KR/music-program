@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-02-26T06:23:16.879Z</updated>
+    <updated>2023-02-26T07:16:54.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[송민경 - 큰거온다 | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33479554</id>
+        <link href="https://tv.naver.com/v/33479554"/>
+        <updated>2023-02-26T07:16:19.313Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS(트리플에스) - Rising | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33479438</id>
+        <link href="https://tv.naver.com/v/33479438"/>
+        <updated>2023-02-26T07:16:19.316Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAWW(하우) - How Are You | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33479437</id>
+        <link href="https://tv.naver.com/v/33479437"/>
+        <updated>2023-02-26T07:16:19.316Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박로시 - Gossip (feat. 유명한 아이) | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33479334</id>
+        <link href="https://tv.naver.com/v/33479334"/>
+        <updated>2023-02-26T07:16:19.316Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키(KEY) - Killer | SBS 230219 방송]]></title>
         <id>https://tv.naver.com/v/33272176</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/33072531"/>
         <updated>2023-02-12T07:19:01.685Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강버터(Kang Butter) - 분명한 건 널 사랑했단 거야 | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072377</id>
-        <link href="https://tv.naver.com/v/33072377"/>
-        <updated>2023-02-12T07:19:01.686Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uni(유니) - DIVE | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072376</id>
-        <link href="https://tv.naver.com/v/33072376"/>
-        <updated>2023-02-12T07:19:01.687Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - TIC TAC | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072313</id>
-        <link href="https://tv.naver.com/v/33072313"/>
-        <updated>2023-02-12T07:19:01.687Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARTBEAT(아트비트) - 아프로디테 | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072258</id>
-        <link href="https://tv.naver.com/v/33072258"/>
-        <updated>2023-02-12T07:19:01.690Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
