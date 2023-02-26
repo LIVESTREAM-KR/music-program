@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-02-26T07:16:54.083Z</updated>
+    <updated>2023-02-26T08:23:15.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈(THE BOYZ) - ROAR | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33480600</id>
+        <link href="https://tv.naver.com/v/33480600"/>
+        <updated>2023-02-26T08:22:44.006Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC - Teddy Bear | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33480497</id>
+        <link href="https://tv.naver.com/v/33480497"/>
+        <updated>2023-02-26T08:22:44.006Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TNX - Love or Die | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33480380</id>
+        <link href="https://tv.naver.com/v/33480380"/>
+        <updated>2023-02-26T08:22:44.006Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33480261</id>
+        <link href="https://tv.naver.com/v/33480261"/>
+        <updated>2023-02-26T08:22:44.006Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Intro : Save Me | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33480174</id>
+        <link href="https://tv.naver.com/v/33480174"/>
+        <updated>2023-02-26T08:22:44.006Z</updated>
+        <content type="html"><![CDATA[01:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33480147</id>
+        <link href="https://tv.naver.com/v/33480147"/>
+        <updated>2023-02-26T08:22:44.006Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - Honestly | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33480046</id>
+        <link href="https://tv.naver.com/v/33480046"/>
+        <updated>2023-02-26T08:22:44.016Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남동현(Nam Dong Hyun) - Drivers License  | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33479842</id>
+        <link href="https://tv.naver.com/v/33479842"/>
+        <updated>2023-02-26T08:22:44.017Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFTY FIFTY - Cupid | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33479735</id>
+        <link href="https://tv.naver.com/v/33479735"/>
+        <updated>2023-02-26T08:22:44.019Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이찬원 - 풍등 | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33479734</id>
+        <link href="https://tv.naver.com/v/33479734"/>
+        <updated>2023-02-26T08:22:44.019Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - TIC TAC | SBS 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33479648</id>
+        <link href="https://tv.naver.com/v/33479648"/>
+        <updated>2023-02-26T08:22:44.021Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송민경 - 큰거온다 | SBS 230226 방송]]></title>
         <id>https://tv.naver.com/v/33479554</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/33073543"/>
         <updated>2023-02-12T08:22:00.950Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부석순 - 7시에 들어줘(feat. Peder Elias) | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33073461</id>
-        <link href="https://tv.naver.com/v/33073461"/>
-        <updated>2023-02-12T08:22:00.951Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 - Ay-Yo | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33073333</id>
-        <link href="https://tv.naver.com/v/33073333"/>
-        <updated>2023-02-12T08:22:00.952Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 - DJ | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33073177</id>
-        <link href="https://tv.naver.com/v/33073177"/>
-        <updated>2023-02-12T08:22:00.953Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOMORROW X TOGETHER - Sugar Rush Ride  | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072886</id>
-        <link href="https://tv.naver.com/v/33072886"/>
-        <updated>2023-02-12T08:22:00.955Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOMORROW X TOGETHER - Devil by the Window | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072884</id>
-        <link href="https://tv.naver.com/v/33072884"/>
-        <updated>2023-02-12T08:22:00.958Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ - PULL UP | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072819</id>
-        <link href="https://tv.naver.com/v/33072819"/>
-        <updated>2023-02-12T08:22:00.975Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임창정 - 멍청이 | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072755</id>
-        <link href="https://tv.naver.com/v/33072755"/>
-        <updated>2023-02-12T08:22:00.977Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cignature(시그니처) - 오로라(AURORA) | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072684</id>
-        <link href="https://tv.naver.com/v/33072684"/>
-        <updated>2023-02-12T08:22:00.978Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY(하이키) - 건물 사이에 피어난 장미(Rose Blossom) | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072609</id>
-        <link href="https://tv.naver.com/v/33072609"/>
-        <updated>2023-02-12T08:22:00.980Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XG - SHOOTING STAR | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072607</id>
-        <link href="https://tv.naver.com/v/33072607"/>
-        <updated>2023-02-12T08:22:00.987Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Fireworks | SBS 230212 방송]]></title>
-        <id>https://tv.naver.com/v/33072531</id>
-        <link href="https://tv.naver.com/v/33072531"/>
-        <updated>2023-02-12T07:19:01.685Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
