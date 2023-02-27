@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-02-27T07:18:32.676Z</updated>
+    <updated>2023-02-27T08:26:07.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7연승의 여왕 서문탁! 여성 락발라더로서의 고충과 앞으로의 행보, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33508444</id>
+        <link href="https://tv.naver.com/v/33508444"/>
+        <updated>2023-02-27T08:26:07.136Z</updated>
+        <content type="html"><![CDATA[02:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7연승의 여왕 서문탁! 복면가왕 마지막 무대이야기, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33508236</id>
+        <link href="https://tv.naver.com/v/33508236"/>
+        <updated>2023-02-27T08:26:07.138Z</updated>
+        <content type="html"><![CDATA[02:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7연승의 여왕 서문탁! 가장 기억의 남는 판정단의 코멘트는?, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33508098</id>
+        <link href="https://tv.naver.com/v/33508098"/>
+        <updated>2023-02-27T08:26:07.140Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7연승의 여왕 서문탁! 복면가왕 두번째 출연 이야기, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33508096</id>
+        <link href="https://tv.naver.com/v/33508096"/>
+        <updated>2023-02-27T08:26:07.145Z</updated>
+        <content type="html"><![CDATA[01:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7연승의 여왕 서문탁! 가장 짜릿했던 무대는?, MBC 230226 방송]]></title>
+        <id>https://tv.naver.com/v/33508049</id>
+        <link href="https://tv.naver.com/v/33508049"/>
+        <updated>2023-02-27T08:26:07.145Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분 공개] 더보이즈 케빈 3R 리허설 무대 영상 - 한강의 작별, MBC 230226 방송]]></title>
         <id>https://tv.naver.com/v/33506234</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/33275237"/>
         <updated>2023-02-19T11:15:37.778Z</updated>
         <content type="html"><![CDATA[02:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['겁 없는 하룻강아지'의 개인기! ＜흉성·진성·두성·비성으로 노래 부르기🎶＞ (feat. 이정의 도전⚡), MBC 230219 방송]]></title>
-        <id>https://tv.naver.com/v/33275135</id>
-        <link href="https://tv.naver.com/v/33275135"/>
-        <updated>2023-02-19T11:15:37.779Z</updated>
-        <content type="html"><![CDATA[01:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['겁 없는 하룻강아지' VS '생선 굽는 고양이'의 1라운드 무대 - Hey, Hey, Hey, MBC 230219 방송]]></title>
-        <id>https://tv.naver.com/v/33275129</id>
-        <link href="https://tv.naver.com/v/33275129"/>
-        <updated>2023-02-19T11:15:37.780Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다이어리 꾸미기'의 정체는 패션 디자이너 요니 P!, MBC 230219 방송]]></title>
-        <id>https://tv.naver.com/v/33274951</id>
-        <link href="https://tv.naver.com/v/33274951"/>
-        <updated>2023-02-19T10:19:36.082Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['포토카드 꾸미기' VS '다이어리 꾸미기'의 1라운드 무대 - SOLO, MBC 230219 방송]]></title>
-        <id>https://tv.naver.com/v/33274866</id>
-        <link href="https://tv.naver.com/v/33274866"/>
-        <updated>2023-02-19T10:19:36.084Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쌍화차'의 정체는 원조 미녀 코미디언 배연정!, MBC 230219 방송]]></title>
-        <id>https://tv.naver.com/v/33274463</id>
-        <link href="https://tv.naver.com/v/33274463"/>
-        <updated>2023-02-19T10:19:36.085Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
