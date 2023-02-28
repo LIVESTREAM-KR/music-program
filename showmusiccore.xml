@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-02-28T09:21:15.047Z</updated>
+    <updated>2023-02-28T10:22:16.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Feburary TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/33544548</id>
+        <link href="https://tv.naver.com/v/33544548"/>
+        <updated>2023-02-28T10:21:33.763Z</updated>
+        <content type="html"><![CDATA[34:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 현재 X 큐 X 주연 , 2월 넷째 주 음악중심 MC 컷 모음!, MBC 230225 방송]]></title>
         <id>https://tv.naver.com/v/33504862</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33463194"/>
         <updated>2023-02-25T09:17:29.897Z</updated>
         <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] THE BOYZ Q – ROAR(더보이즈 큐 - 로어) FanCam | Show! MusicCore | MBC230225방송]]></title>
-        <id>https://tv.naver.com/v/33463191</id>
-        <link href="https://tv.naver.com/v/33463191"/>
-        <updated>2023-02-25T09:17:29.898Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
     </entry>
 </feed>
