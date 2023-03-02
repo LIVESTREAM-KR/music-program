@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-02T12:37:14.467Z</updated>
+    <updated>2023-03-02T13:33:15.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230224 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[더보이즈(THE BOYZ) - ROAR | Mnet 230302 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33606448</id>
+        <link href="https://tv.naver.com/v/33606448"/>
+        <updated>2023-03-02T13:32:48.809Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 예성 (YESUNG) - Floral Sense | Mnet 230302 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/33602152</id>
         <link href="https://tv.naver.com/v/33602152"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/33409801"/>
         <updated>2023-02-23T10:20:50.549Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - TIC TAC | Mnet 230223 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33409800</id>
-        <link href="https://tv.naver.com/v/33409800"/>
-        <updated>2023-02-23T10:20:50.549Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상큼 에너지 double! 틴프레시, STAYC (스테이씨) 'Teddy Bear' (더쇼)]]></title>
