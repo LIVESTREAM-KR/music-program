@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-03-02T23:20:38.029Z</updated>
+    <updated>2023-03-03T03:25:27.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.465]]></title>
+        <id>https://tv.naver.com/v/33582927</id>
+        <link href="https://tv.naver.com/v/33582927"/>
+        <updated>2023-03-03T03:25:12.881Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] MOON SUA - Me You (문수아 - 미 유) | Show Champion | EP.465]]></title>
         <id>https://tv.naver.com/v/33571112</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33568966"/>
         <updated>2023-03-01T10:21:41.214Z</updated>
         <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PURPLE KISS - Sweet Juice (퍼플키스 - 스윗 쥬스) l Show Champion l EP.465]]></title>
-        <id>https://tv.naver.com/v/33568941</id>
-        <link href="https://tv.naver.com/v/33568941"/>
-        <updated>2023-03-01T10:21:41.216Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
