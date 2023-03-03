@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-03T09:20:01.928Z</updated>
+    <updated>2023-03-03T10:21:26.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33635852</id>
+        <link href="https://tv.naver.com/v/33635852"/>
+        <updated>2023-03-03T10:20:41.805Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teddy Bear - STAYC | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33635745</id>
+        <link href="https://tv.naver.com/v/33635745"/>
+        <updated>2023-03-03T10:20:41.819Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poppy (Korean Ver.) - STAYC | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33635740</id>
+        <link href="https://tv.naver.com/v/33635740"/>
+        <updated>2023-03-03T10:20:41.819Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hidden Side - 황민현 | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33635645</id>
+        <link href="https://tv.naver.com/v/33635645"/>
+        <updated>2023-03-03T10:20:41.819Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honest - 황민현 | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33635506</id>
+        <link href="https://tv.naver.com/v/33635506"/>
+        <updated>2023-03-03T10:20:41.825Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Tier - 박우진(AB6IX) | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33635223</id>
+        <link href="https://tv.naver.com/v/33635223"/>
+        <updated>2023-03-03T10:20:41.825Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[seOul drift - OnlyOneOf(온리원오브) | KBS 230303 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/33635221</id>
+        <link href="https://tv.naver.com/v/33635221"/>
+        <updated>2023-03-03T10:20:41.842Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WE ARE YOUNG - 트라이비(TRI.BE) | KBS 230303 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/33634890</id>
@@ -164,55 +213,6 @@
         <link href="https://tv.naver.com/v/33441141"/>
         <updated>2023-02-24T09:18:27.694Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕 신촌 - 포스트맨 | KBS 230224 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33440555</id>
-        <link href="https://tv.naver.com/v/33440555"/>
-        <updated>2023-02-24T09:18:27.700Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상의 끝에서 - 임윤성 | KBS 230224 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33440250</id>
-        <link href="https://tv.naver.com/v/33440250"/>
-        <updated>2023-02-24T09:18:27.702Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Killer - 키 (KEY) | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33232876</id>
-        <link href="https://tv.naver.com/v/33232876"/>
-        <updated>2023-02-17T10:20:12.176Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teddy Bear - STAYC | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33232866</id>
-        <link href="https://tv.naver.com/v/33232866"/>
-        <updated>2023-02-17T10:20:12.178Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poppy (Korean Ver.) - STAYC | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33232697</id>
-        <link href="https://tv.naver.com/v/33232697"/>
-        <updated>2023-02-17T10:20:12.193Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WE ARE YOUNG - 트라이비(TRI.BE) | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33232562</id>
-        <link href="https://tv.naver.com/v/33232562"/>
-        <updated>2023-02-17T10:20:12.193Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 번호를 지워줘 - 박수진 | KBS 230217 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33232561</id>
-        <link href="https://tv.naver.com/v/33232561"/>
-        <updated>2023-02-17T10:20:12.203Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] THE BOYZ.zip 📂 Boy(소년)부터 ROAR까지 | Show! MusicCore (쇼! 음악중심)]]></title>
