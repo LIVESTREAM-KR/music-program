@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-03-03T08:25:57.994Z</updated>
+    <updated>2023-03-03T09:20:01.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 진짜 KBS의 아들 장민호가 떴다! KBS에 좋은 추억과 더불어 흑역사도 있다는데! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/33634852</id>
+        <link href="https://tv.naver.com/v/33634852"/>
+        <updated>2023-03-03T09:19:53.913Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로 직캠] 잊혀진 계절 - 김기태 | KBS 230225 방송]]></title>
         <id>https://tv.naver.com/v/33463501</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33464955"/>
         <updated>2023-02-25T10:18:57.887Z</updated>
         <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정다경&나태주 2부 시작 텐션 업 댄스 타임🔥 | KBS 230225 방송]]></title>
-        <id>https://tv.naver.com/v/33464760</id>
-        <link href="https://tv.naver.com/v/33464760"/>
-        <updated>2023-02-25T10:18:57.895Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
     </entry>
 </feed>
