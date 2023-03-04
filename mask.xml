@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-03-04T03:20:44.034Z</updated>
+    <updated>2023-03-04T04:23:26.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 진양철 회장이 복면가왕에⁉️ '재벌'의 싱크로율 100% ＜진양철 회장님 성대모사＞ 개인기 🔥, MBC 230305]]></title>
+        <id>https://tv.naver.com/v/33652273</id>
+        <link href="https://tv.naver.com/v/33652273"/>
+        <updated>2023-03-04T04:23:25.802Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7연승의 여왕 서문탁! 여성 락발라더로서의 고충과 앞으로의 행보, MBC 230226 방송]]></title>
         <id>https://tv.naver.com/v/33508444</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33275405"/>
         <updated>2023-02-19T11:15:37.771Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판정단을 사로잡은 개인기💕 신묘한 '생선 굽는 고양이'의 퍼포먼스✨, MBC 230219 방송]]></title>
-        <id>https://tv.naver.com/v/33275237</id>
-        <link href="https://tv.naver.com/v/33275237"/>
-        <updated>2023-02-19T11:15:37.778Z</updated>
-        <content type="html"><![CDATA[02:16]]></content>
     </entry>
 </feed>
