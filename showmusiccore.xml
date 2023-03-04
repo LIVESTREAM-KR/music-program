@@ -2,9 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-04T11:15:24.212Z</updated>
+    <updated>2023-03-04T12:34:28.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] PURPLE KISS - Sweet Juice(퍼플키스 – 스윗 쥬스) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661879</id>
+        <link href="https://tv.naver.com/v/33661879"/>
+        <updated>2023-03-04T12:33:43.797Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC ISA – Teddy Bear(스테이씨 아이사 - 테디베어) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661570</id>
+        <link href="https://tv.naver.com/v/33661570"/>
+        <updated>2023-03-04T12:33:43.797Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC J – Teddy Bear(스테이씨 재이 - 테디베어) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661442</id>
+        <link href="https://tv.naver.com/v/33661442"/>
+        <updated>2023-03-04T12:33:43.831Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC YOON – Teddy Bear(스테이씨 윤 - 테디베어) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661441</id>
+        <link href="https://tv.naver.com/v/33661441"/>
+        <updated>2023-03-04T12:33:43.831Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC SUMIN – Teddy Bear(스테이씨 수민 - 테디베어) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661438</id>
+        <link href="https://tv.naver.com/v/33661438"/>
+        <updated>2023-03-04T12:33:43.832Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Taeseon – Fantasy(소년판타지 태선 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661311</id>
+        <link href="https://tv.naver.com/v/33661311"/>
+        <updated>2023-03-04T12:33:43.832Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Lee Hanbin – Fantasy(소년판타지 이한빈 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661310</id>
+        <link href="https://tv.naver.com/v/33661310"/>
+        <updated>2023-03-04T12:33:43.832Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Yu Junwon – Fantasy(소년판타지 유준원 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661222</id>
+        <link href="https://tv.naver.com/v/33661222"/>
+        <updated>2023-03-04T12:33:43.832Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Kim Wooseok – Fantasy(소년판타지 김우석 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661221</id>
+        <link href="https://tv.naver.com/v/33661221"/>
+        <updated>2023-03-04T12:33:43.835Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Kim Daehui – Fantasy(소년판타지 김대희 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661219</id>
+        <link href="https://tv.naver.com/v/33661219"/>
+        <updated>2023-03-04T12:33:43.835Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Kang Hyunwoo – Fantasy(소년판타지 강현우 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661217</id>
+        <link href="https://tv.naver.com/v/33661217"/>
+        <updated>2023-03-04T12:33:43.835Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC SIEUN – Teddy Bear(스테이씨 시은 - 테디베어) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661224</id>
+        <link href="https://tv.naver.com/v/33661224"/>
+        <updated>2023-03-04T12:33:43.835Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC - Teddy Bear(스테이씨 – 테디베어) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661223</id>
+        <link href="https://tv.naver.com/v/33661223"/>
+        <updated>2023-03-04T12:33:43.835Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Hikari – Fantasy(소년판타지 히카리 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661083</id>
+        <link href="https://tv.naver.com/v/33661083"/>
+        <updated>2023-03-04T12:33:43.835Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Hikaru – Fantasy(소년판타지 히카루 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661081</id>
+        <link href="https://tv.naver.com/v/33661081"/>
+        <updated>2023-03-04T12:33:43.835Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Hong Sungmin – Fantasy(소년판타지 홍성민 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661080</id>
+        <link href="https://tv.naver.com/v/33661080"/>
+        <updated>2023-03-04T12:33:43.836Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Kang Irang – Fantasy(소년판타지 강이랑 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661078</id>
+        <link href="https://tv.naver.com/v/33661078"/>
+        <updated>2023-03-04T12:33:43.839Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC SEEUN – Teddy Bear(스테이씨 세은 - 테디베어) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33661087</id>
+        <link href="https://tv.naver.com/v/33661087"/>
+        <updated>2023-03-04T12:33:43.842Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 3월 1주차 1위 앵콜 무대! 더보이즈 - 로어 (THE BOYZ - ROAR), MBC 230304 방송]]></title>
+        <id>https://tv.naver.com/v/33661086</id>
+        <link href="https://tv.naver.com/v/33661086"/>
+        <updated>2023-03-04T12:33:43.844Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Jeong Deunhaesol – Fantasy(소년판타지 정든해솔 - 판타지) FanCam | Show! MusicCore | MBC230]]></title>
+        <id>https://tv.naver.com/v/33661079</id>
+        <link href="https://tv.naver.com/v/33661079"/>
+        <updated>2023-03-04T12:33:43.845Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Hwang Jaemin – Fantasy(소년판타지 황재민 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
         <id>https://tv.naver.com/v/33660901</id>
@@ -74,145 +214,5 @@
         <link href="https://tv.naver.com/v/33657128"/>
         <updated>2023-03-04T08:22:14.268Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온리원오브 - 서울 드리프트 (OnlyOneOf - seOul drift), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656943</id>
-        <link href="https://tv.naver.com/v/33656943"/>
-        <updated>2023-03-04T08:22:14.270Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리사 - 부탁 (Lisa - All I Ask), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656828</id>
-        <link href="https://tv.naver.com/v/33656828"/>
-        <updated>2023-03-04T08:22:14.271Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스 (PURPLE KISS) in 코노돌🎉 - (이선희 - 인연 (동녘바람), 2NE1 - Come Back Home), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656720</id>
-        <link href="https://tv.naver.com/v/33656720"/>
-        <updated>2023-03-04T08:22:14.273Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티엔엑스 - 러브 오어 다이 (TNX -  Love or Die), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656473</id>
-        <link href="https://tv.naver.com/v/33656473"/>
-        <updated>2023-03-04T08:22:14.288Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프레젠트 - 라 비다 로카 (PRSNT - La Vida Loca), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656472</id>
-        <link href="https://tv.naver.com/v/33656472"/>
-        <updated>2023-03-04T08:22:14.290Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년판타지 - 판타지 (FANTASYBOYS - Fantasy), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656395</id>
-        <link href="https://tv.naver.com/v/33656395"/>
-        <updated>2023-03-04T08:22:14.291Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스 - 스윗주스 (PURPLE KISS - Sweet Juice), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656393</id>
-        <link href="https://tv.naver.com/v/33656393"/>
-        <updated>2023-03-04T08:22:14.293Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비 - 위 아 영 (TRI.BE - WE ARE YOUNG), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656142</id>
-        <link href="https://tv.naver.com/v/33656142"/>
-        <updated>2023-03-04T07:16:33.300Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리플에스 - 라이징 (tripleS - Rising), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656139</id>
-        <link href="https://tv.naver.com/v/33656139"/>
-        <updated>2023-03-04T07:16:33.302Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남동현 - 드라이버 라이센스 (Nam Dong Hyun - Drivers License), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33656030</id>
-        <link href="https://tv.naver.com/v/33656030"/>
-        <updated>2023-03-04T07:16:33.303Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피프티 피프티 - 큐피드 (FIFTY FIFTY - Cupid), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33655903</id>
-        <link href="https://tv.naver.com/v/33655903"/>
-        <updated>2023-03-04T07:16:33.304Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에잇턴 - 위 (8TURN - WE), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33655775</id>
-        <link href="https://tv.naver.com/v/33655775"/>
-        <updated>2023-03-04T07:16:33.304Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유수현 (미니마니) - 척하면 착 (Soohyun Yu (MINIMANI) - Chuk & Chak), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33655774</id>
-        <link href="https://tv.naver.com/v/33655774"/>
-        <updated>2023-03-04T07:16:33.306Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라임라잇 - 아네슬리 (LIMELIGHT - Honestly), MBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33655693</id>
-        <link href="https://tv.naver.com/v/33655693"/>
-        <updated>2023-03-04T07:16:33.306Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] THE BOYZ.zip 📂 Boy(소년)부터 ROAR까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/33603345</id>
-        <link href="https://tv.naver.com/v/33603345"/>
-        <updated>2023-03-03T08:25:14.646Z</updated>
-        <content type="html"><![CDATA[56:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Feburary TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
-        <id>https://tv.naver.com/v/33544548</id>
-        <link href="https://tv.naver.com/v/33544548"/>
-        <updated>2023-02-28T10:21:33.763Z</updated>
-        <content type="html"><![CDATA[34:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 현재 X 큐 X 주연 , 2월 넷째 주 음악중심 MC 컷 모음!, MBC 230225 방송]]></title>
-        <id>https://tv.naver.com/v/33504862</id>
-        <link href="https://tv.naver.com/v/33504862"/>
-        <updated>2023-02-27T06:25:00.202Z</updated>
-        <content type="html"><![CDATA[13:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] THE BOYZ SUNWOO – ROAR(더보이즈 선우 - 로어) FanCam | Show! MusicCore | MBC230225방송]]></title>
-        <id>https://tv.naver.com/v/33463775</id>
-        <link href="https://tv.naver.com/v/33463775"/>
-        <updated>2023-02-25T09:17:29.838Z</updated>
-        <content type="html"><![CDATA[04:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lee Chan Won - Wish Lanterns(이찬원 – 풍등) FanCam (Horizontal Ver.) | Show! MusicCore | MBC2302]]></title>
-        <id>https://tv.naver.com/v/33463694</id>
-        <link href="https://tv.naver.com/v/33463694"/>
-        <updated>2023-02-25T09:17:29.839Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] tripleS Kim YooYeon – Rising(트리플에스 김유연 - 라이징) FanCam | Show! MusicCore | MBC230225방송]]></title>
-        <id>https://tv.naver.com/v/33463693</id>
-        <link href="https://tv.naver.com/v/33463693"/>
-        <updated>2023-02-25T09:17:29.839Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
     </entry>
 </feed>
