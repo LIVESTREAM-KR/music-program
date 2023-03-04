@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-04T10:19:24.890Z</updated>
+    <updated>2023-03-04T11:15:24.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Hwang Jaemin – Fantasy(소년판타지 황재민 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33660901</id>
+        <link href="https://tv.naver.com/v/33660901"/>
+        <updated>2023-03-04T11:14:43.607Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS K-soul – Fantasy(소년판타지 소울 - 판타지) FanCam | Show! MusicCore | MBC230304방송]]></title>
+        <id>https://tv.naver.com/v/33660900</id>
+        <link href="https://tv.naver.com/v/33660900"/>
+        <updated>2023-03-04T11:14:43.609Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS Kang Daehyeon – Fantasy(소년판타지 강대현 - 판타지) FanCam | Show! MusicCore | MBC230304방]]></title>
+        <id>https://tv.naver.com/v/33660887</id>
+        <link href="https://tv.naver.com/v/33660887"/>
+        <updated>2023-03-04T11:14:43.609Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] PARK WOO JIN – Top Tier(박우진 - 탑티어) FanCam | Show! MusicCore | MBC230304방송]]></title>
         <id>https://tv.naver.com/v/33659681</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33463693"/>
         <updated>2023-02-25T09:17:29.839Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] THE BOYZ YOUNGHOON – ROAR(더보이즈 영훈 - 로어) FanCam | Show! MusicCore | MBC230225방송]]></title>
-        <id>https://tv.naver.com/v/33463692</id>
-        <link href="https://tv.naver.com/v/33463692"/>
-        <updated>2023-02-25T09:17:29.841Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] STAYC - Poppy(스테이씨 – 파피) FanCam | Show! MusicCore | MBC230225방송]]></title>
-        <id>https://tv.naver.com/v/33463616</id>
-        <link href="https://tv.naver.com/v/33463616"/>
-        <updated>2023-02-25T09:17:29.844Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TNX – Love or Die(티엔엑스 - 러브 오어 다이) FanCam | Show! MusicCore | MBC230225방송]]></title>
-        <id>https://tv.naver.com/v/33463615</id>
-        <link href="https://tv.naver.com/v/33463615"/>
-        <updated>2023-02-25T09:17:29.845Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
