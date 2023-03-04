@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-04T12:34:28.448Z</updated>
+    <updated>2023-03-04T13:23:02.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] FIFTY FIFTY - Cupid(피프티 피프티 – 큐피드) FanCam | Show! MusicCore | MBC230304방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33663776</id>
+        <link href="https://tv.naver.com/v/33663776"/>
+        <updated>2023-03-04T13:22:19.436Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] tripleS - Rising(트리플에스 – 라이징) FanCam | Show! MusicCore | MBC230304방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33663774</id>
+        <link href="https://tv.naver.com/v/33663774"/>
+        <updated>2023-03-04T13:22:19.437Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TRI.BE - WE ARE YOUNG(트라이비 – 위아영) FanCam | Show! MusicCore | MBC230304방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33663512</id>
+        <link href="https://tv.naver.com/v/33663512"/>
+        <updated>2023-03-04T13:22:19.445Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] PURPLE KISS - Sweet Juice(퍼플키스 – 스윗 쥬스) FanCam | Show! MusicCore | MBC230304방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/33661879</id>
         <link href="https://tv.naver.com/v/33661879"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/33657658"/>
         <updated>2023-03-04T08:22:14.263Z</updated>
         <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈 - 로어 (THE BOYZ - ROAR), MBC 230304 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33657451</id>
-        <link href="https://tv.naver.com/v/33657451"/>
-        <updated>2023-03-04T08:22:14.265Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박우진 (에이비식스) - 탑 티어 (PARK WOO JIN (AB6IX) - Top Tier), MBC 230304 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33657130</id>
-        <link href="https://tv.naver.com/v/33657130"/>
-        <updated>2023-03-04T08:22:14.266Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 - 테디베어 (STAYC - Teddy Bear), MBC 230304 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33657128</id>
-        <link href="https://tv.naver.com/v/33657128"/>
-        <updated>2023-03-04T08:22:14.268Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) - Awake | SBS 230226 방송 (인기가요)]]></title>
