@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-05T06:23:06.579Z</updated>
+    <updated>2023-03-05T07:17:08.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,41 @@
         <content type="html"><![CDATA[02:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tripleS(트리플에스) - Rising | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676286</id>
+        <link href="https://tv.naver.com/v/33676286"/>
+        <updated>2023-03-05T07:16:33.174Z</updated>
+        <content type="html"><![CDATA[02:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리사 - 부탁 | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676177</id>
+        <link href="https://tv.naver.com/v/33676177"/>
+        <updated>2023-03-05T07:16:33.174Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이찬원 - 풍등 | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33676018</id>
+        <link href="https://tv.naver.com/v/33676018"/>
+        <updated>2023-03-05T07:16:33.174Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnlyOneOf(온리원오브) - seOul drift | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33675999</id>
+        <link href="https://tv.naver.com/v/33675999"/>
+        <updated>2023-03-05T07:16:33.174Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - Honestly | SBS 230305 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/33675998</id>
+        <link href="https://tv.naver.com/v/33675998"/>
+        <updated>2023-03-05T07:16:33.174Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) - Awake | SBS 230226 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/33481260</id>
         <link href="https://tv.naver.com/v/33481260"/>
@@ -598,41 +633,6 @@
         <link href="https://tv.naver.com/v/33271448"/>
         <updated>2023-02-19T08:22:10.333Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARTBEAT(아트비트) - 아프로디테 | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271220</id>
-        <link href="https://tv.naver.com/v/33271220"/>
-        <updated>2023-02-19T08:22:10.334Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임윤성 - 세상의 끝에서 | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271196</id>
-        <link href="https://tv.naver.com/v/33271196"/>
-        <updated>2023-02-19T07:16:18.947Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS - Rising | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33271071</id>
-        <link href="https://tv.naver.com/v/33271071"/>
-        <updated>2023-02-19T07:16:18.948Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강버터(Kang Butter) - 분명한 건 널 사랑했단 거야 | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33270870</id>
-        <link href="https://tv.naver.com/v/33270870"/>
-        <updated>2023-02-19T07:16:18.949Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강예슬 - 사랑의 포인트 | SBS 230219 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33270869</id>
-        <link href="https://tv.naver.com/v/33270869"/>
-        <updated>2023-02-19T07:16:18.950Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) - ROAR | Mnet 230302 방송 (엠카운트다운)]]></title>
