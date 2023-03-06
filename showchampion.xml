@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-03-06T06:25:41.064Z</updated>
+    <updated>2023-03-06T07:18:37.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 3월에도 앞만 보고 쇼챔피언으로 달려🏎]]></title>
+        <id>https://tv.naver.com/v/33702629</id>
+        <link href="https://tv.naver.com/v/33702629"/>
+        <updated>2023-03-06T07:18:23.301Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.465]]></title>
         <id>https://tv.naver.com/v/33582927</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33569317"/>
         <updated>2023-03-01T11:17:16.532Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] LUCY - Unbelievable (루시 - 아니 근데 진짜) l Show Champion l EP.465]]></title>
-        <id>https://tv.naver.com/v/33568966</id>
-        <link href="https://tv.naver.com/v/33568966"/>
-        <updated>2023-03-01T10:21:41.214Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
     </entry>
 </feed>
