@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-03-07T07:17:57.417Z</updated>
+    <updated>2023-03-07T08:25:19.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[황민현이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/33739464</id>
+        <link href="https://tv.naver.com/v/33739464"/>
+        <updated>2023-03-07T08:24:50.604Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) - ROAR | Mnet 230302 방송]]></title>
         <id>https://tv.naver.com/v/33606448</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33410095"/>
         <updated>2023-02-23T11:16:20.131Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | Mnet 230223 방송]]></title>
-        <id>https://tv.naver.com/v/33409801</id>
-        <link href="https://tv.naver.com/v/33409801"/>
-        <updated>2023-02-23T10:20:50.549Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
