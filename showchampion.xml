@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-03-08T10:21:36.943Z</updated>
+    <updated>2023-03-08T11:17:25.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[STAYC - Teddy Bear (스테이씨 - 테디 베어)]]></title>
+        <id>https://tv.naver.com/v/33782185</id>
+        <link href="https://tv.naver.com/v/33782185"/>
+        <updated>2023-03-08T11:17:10.270Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] TEMPEST 제2장 ＂선택＂ 템페스트의 사계절은 계속된다]]></title>
+        <id>https://tv.naver.com/v/33782184</id>
+        <link href="https://tv.naver.com/v/33782184"/>
+        <updated>2023-03-08T11:17:10.273Z</updated>
+        <content type="html"><![CDATA[08:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] OnlyOneOf - seOul drift (온리원오브 - 서울 드리프트)]]></title>
+        <id>https://tv.naver.com/v/33782046</id>
+        <link href="https://tv.naver.com/v/33782046"/>
+        <updated>2023-03-08T11:17:10.274Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnlyOneOf - chrOme arts (온리원오브 - 크롬 아츠)]]></title>
+        <id>https://tv.naver.com/v/33781926</id>
+        <link href="https://tv.naver.com/v/33781926"/>
+        <updated>2023-03-08T11:17:10.277Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PURPLE KISS - Sweet Juice (퍼플키스 - 스윗 쥬스)]]></title>
+        <id>https://tv.naver.com/v/33781749</id>
+        <link href="https://tv.naver.com/v/33781749"/>
+        <updated>2023-03-08T11:17:10.277Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TNX - Love or Die (티엔엑스 - 러브 오어 다이)]]></title>
         <id>https://tv.naver.com/v/33781501</id>
@@ -45,7 +80,7 @@
         <id>https://tv.naver.com/v/33780974</id>
         <link href="https://tv.naver.com/v/33780974"/>
         <updated>2023-03-08T10:21:22.339Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
+        <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tripleS - Rising (트리플에스 - 라이징)]]></title>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/33569316"/>
         <updated>2023-03-01T13:28:29.027Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Seo DaHyun - Rising (트리플에스 서다현 - 라이징) | Show Champion | EP.465]]></title>
-        <id>https://tv.naver.com/v/33569183</id>
-        <link href="https://tv.naver.com/v/33569183"/>
-        <updated>2023-03-01T13:28:29.040Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUCY SHIN YE CHAN - Fill it up (루시 신예찬 - 채워) | Show Champion | EP.465]]></title>
-        <id>https://tv.naver.com/v/33568965</id>
-        <link href="https://tv.naver.com/v/33568965"/>
-        <updated>2023-03-01T13:28:29.041Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Kim YooYeon - Rising (트리플에스 김유연 - 라이징) | Show Champion | EP.465]]></title>
-        <id>https://tv.naver.com/v/33568845</id>
-        <link href="https://tv.naver.com/v/33568845"/>
-        <updated>2023-03-01T13:28:29.041Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUCY - Fill it up (루시 - 채워) l Show Champion l EP.465]]></title>
-        <id>https://tv.naver.com/v/33568843</id>
-        <link href="https://tv.naver.com/v/33568843"/>
-        <updated>2023-03-01T13:28:29.044Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TNX - Love or Die (티엔엑스 - 러브 오어 다이) | Show Champion | EP.465]]></title>
-        <id>https://tv.naver.com/v/33568691</id>
-        <link href="https://tv.naver.com/v/33568691"/>
-        <updated>2023-03-01T13:28:29.045Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
