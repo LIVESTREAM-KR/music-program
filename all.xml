@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-08T09:21:10.523Z</updated>
+    <updated>2023-03-08T10:21:36.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,97 @@
         <content type="html"><![CDATA[04:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TNX - Love or Die (티엔엑스 - 러브 오어 다이) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33781501</id>
+        <link href="https://tv.naver.com/v/33781501"/>
+        <updated>2023-03-08T10:21:22.327Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] TEMPEST 제 1장 ＂운명＂ 우리는 왜 템페스트가 되었을까? (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33781494</id>
+        <link href="https://tv.naver.com/v/33781494"/>
+        <updated>2023-03-08T10:21:22.328Z</updated>
+        <content type="html"><![CDATA[04:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRI.BE - WE ARE YOUNG (트라이비 - 위 아 영) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33781388</id>
+        <link href="https://tv.naver.com/v/33781388"/>
+        <updated>2023-03-08T10:21:22.333Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최초공개] Kim Tae Yeon - Twelve questions of life (김태연 - 고개타령) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33781126</id>
+        <link href="https://tv.naver.com/v/33781126"/>
+        <updated>2023-03-08T10:21:22.335Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN - WE (에잇턴 - 위) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33780975</id>
+        <link href="https://tv.naver.com/v/33780975"/>
+        <updated>2023-03-08T10:21:22.337Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nam Dong Hyun - Drivers License (남동현 - 드라이버 라이센스) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33780974</id>
+        <link href="https://tv.naver.com/v/33780974"/>
+        <updated>2023-03-08T10:21:22.339Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS - Rising (트리플에스 - 라이징) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33780691</id>
+        <link href="https://tv.naver.com/v/33780691"/>
+        <updated>2023-03-08T10:21:22.340Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POSTMEN - Goodbye Sinchon (포스트맨 - 안녕 신촌) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33780664</id>
+        <link href="https://tv.naver.com/v/33780664"/>
+        <updated>2023-03-08T10:21:22.343Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MC석 코너] 'TNX'에게 주문하신 OO 나왔습니다♥ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33780469</id>
+        <link href="https://tv.naver.com/v/33780469"/>
+        <updated>2023-03-08T10:21:22.346Z</updated>
+        <content type="html"><![CDATA[02:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serri - Spotlight (세리 - 스포트라이트) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33780468</id>
+        <link href="https://tv.naver.com/v/33780468"/>
+        <updated>2023-03-08T10:21:22.347Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAWW - How Are You (하우 - 하우 아 유) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33780466</id>
+        <link href="https://tv.naver.com/v/33780466"/>
+        <updated>2023-03-08T10:21:22.349Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Park Rossi - GOSSIP (feat. Yumewanaii) (박로시 - 가십 (feat. 유명한아이)) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33780128</id>
+        <link href="https://tv.naver.com/v/33780128"/>
+        <updated>2023-03-08T10:21:22.350Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jung Daewang - forever with u (정대왕 - 나 그대를 만나) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/33780093</id>
+        <link href="https://tv.naver.com/v/33780093"/>
+        <updated>2023-03-08T10:21:22.352Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 3월에도 앞만 보고 쇼챔피언으로 달려🏎 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/33702629</id>
         <link href="https://tv.naver.com/v/33702629"/>
@@ -1172,97 +1263,6 @@
         <link href="https://tv.naver.com/v/33568691"/>
         <updated>2023-03-01T13:28:29.045Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Kim ChaeYeon - Rising (트리플에스 김채연 - 라이징) | Show Champion | EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33568572</id>
-        <link href="https://tv.naver.com/v/33568572"/>
-        <updated>2023-03-01T13:28:29.046Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Yoon SeoYeon - Rising (트리플에스 윤서연 - 라이징) | Show Champion | EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33568398</id>
-        <link href="https://tv.naver.com/v/33568398"/>
-        <updated>2023-03-01T13:28:29.047Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS - Rising (트리플에스 - 라이징) | Show Champion | EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33568296</id>
-        <link href="https://tv.naver.com/v/33568296"/>
-        <updated>2023-03-01T13:28:29.048Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC J - Teddy Bear (스테이씨 재이 - 테디 베어) | Show Champion | EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33568294</id>
-        <link href="https://tv.naver.com/v/33568294"/>
-        <updated>2023-03-01T13:28:29.050Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC SUMIN - Teddy Bear (스테이씨 수민 - 테디 베어) | Show Champion | EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33568101</id>
-        <link href="https://tv.naver.com/v/33568101"/>
-        <updated>2023-03-01T13:28:29.051Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC YOON - Teddy Bear (스테이씨 윤 - 테디 베어) | Show Champion | EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33567850</id>
-        <link href="https://tv.naver.com/v/33567850"/>
-        <updated>2023-03-01T13:28:29.052Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC SIEUN - Teddy Bear (스테이씨 시은 - 테디 베어) | Show Champion | EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33567848</id>
-        <link href="https://tv.naver.com/v/33567848"/>
-        <updated>2023-03-01T13:28:29.053Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC SEEUN - Teddy Bear (스테이씨 세은 - 테디 베어) | Show Champion | EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33567607</id>
-        <link href="https://tv.naver.com/v/33567607"/>
-        <updated>2023-03-01T13:28:29.054Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC - Teddy Bear (스테이씨 - 테디 베어) l Show Champion l EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33567353</id>
-        <link href="https://tv.naver.com/v/33567353"/>
-        <updated>2023-03-01T13:28:29.054Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC ISA - Teddy Bear (스테이씨 아이사 - 테디 베어) | Show Champion | EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33567204</id>
-        <link href="https://tv.naver.com/v/33567204"/>
-        <updated>2023-03-01T13:28:29.055Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC - Teddy Bear (스테이씨 - 테디 베어) l Show Champion l EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33569431</id>
-        <link href="https://tv.naver.com/v/33569431"/>
-        <updated>2023-03-01T11:17:16.529Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔딩원샷] 쉽지 않은 짱테이씨의 엔딩 장벽! 엔딩요정 주인공은 과연 누구? (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33569337</id>
-        <link href="https://tv.naver.com/v/33569337"/>
-        <updated>2023-03-01T11:17:16.530Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPECIAL STAGE] San E - Me You (feat. MOON SUA) (산이 - 미 유 (feat. 문수아)) l Show Champion l EP.465 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/33569317</id>
-        <link href="https://tv.naver.com/v/33569317"/>
-        <updated>2023-03-01T11:17:16.532Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🦋아티스트 YB 편🦋 역대급 서프라이즈 참가자? 본방사수! | KBS 방송 (불후의 명곡)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[04:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[미방분 공개] 가수 최유리 3R 리허설 무대 영상 - 노력, MBC 230305 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/33781257</id>
+        <link href="https://tv.naver.com/v/33781257"/>
+        <updated>2023-03-08T10:21:36.284Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[＜신입 가왕 우승 트로피는 가왕석을 지킬 수 있을까?＞ 복면가왕 395회 예고, MBC 230312 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/33680572</id>
         <link href="https://tv.naver.com/v/33680572"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/33483669"/>
         <updated>2023-02-26T11:15:38.274Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우승 트로피' 2라운드 무대 - 아이와 나의 바다, MBC 230226 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/33483644</id>
-        <link href="https://tv.naver.com/v/33483644"/>
-        <updated>2023-02-26T11:15:38.278Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
     </entry>
 </feed>
