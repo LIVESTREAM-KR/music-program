@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-03-09T11:17:36.801Z</updated>
+    <updated>2023-03-09T12:38:29.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 온유(ONEW) - O (Circle) | Mnet 230309 방송]]></title>
+        <id>https://tv.naver.com/v/33824441</id>
+        <link href="https://tv.naver.com/v/33824441"/>
+        <updated>2023-03-09T12:38:03.071Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황민현 - Hidden Side | Mnet 230309 방송]]></title>
+        <id>https://tv.naver.com/v/33824273</id>
+        <link href="https://tv.naver.com/v/33824273"/>
+        <updated>2023-03-09T12:38:03.073Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 유주 - Without U | Mnet 230309 방송]]></title>
+        <id>https://tv.naver.com/v/33823343</id>
+        <link href="https://tv.naver.com/v/33823343"/>
+        <updated>2023-03-09T12:38:03.077Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 유주 - 복숭아꽃 (Feat. sokodomo) | Mnet 230309 방송]]></title>
         <id>https://tv.naver.com/v/33823164</id>
@@ -52,7 +73,7 @@
         <id>https://tv.naver.com/v/33821954</id>
         <link href="https://tv.naver.com/v/33821954"/>
         <updated>2023-03-09T11:17:09.326Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
+        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['STUDIO M' BIG Naughty (서동현) - 사랑이라 믿었던 것들은 (Feat. 이수현) | Mnet 230309 방송]]></title>
@@ -88,6 +109,13 @@
         <link href="https://tv.naver.com/v/33821378"/>
         <updated>2023-03-09T11:17:09.327Z</updated>
         <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - WE | Mnet 230309 방송]]></title>
+        <id>https://tv.naver.com/v/33821376</id>
+        <link href="https://tv.naver.com/v/33821376"/>
+        <updated>2023-03-09T12:38:03.109Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[황민현이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/33600870"/>
         <updated>2023-03-02T10:20:57.558Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - WE | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33600728</id>
-        <link href="https://tv.naver.com/v/33600728"/>
-        <updated>2023-03-02T10:20:57.559Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS - Rising | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33600724</id>
-        <link href="https://tv.naver.com/v/33600724"/>
-        <updated>2023-03-02T10:20:57.560Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFTY FIFTY - Cupid | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33600422</id>
-        <link href="https://tv.naver.com/v/33600422"/>
-        <updated>2023-03-02T10:20:57.561Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 박우진 (AB6IX) | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33600421</id>
-        <link href="https://tv.naver.com/v/33600421"/>
-        <updated>2023-03-02T10:20:57.562Z</updated>
-        <content type="html"><![CDATA[02:04]]></content>
     </entry>
 </feed>
