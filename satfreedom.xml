@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-03-10T09:20:18.435Z</updated>
+    <updated>2023-03-10T10:21:54.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 김씨네 OMG 댄스배틀🌟 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/33857213</id>
+        <link href="https://tv.naver.com/v/33857213"/>
+        <updated>2023-03-10T10:21:46.835Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🦋아티스트 YB 편🦋 역대급 서프라이즈 참가자? 본방사수! | KBS 방송]]></title>
         <id>https://tv.naver.com/v/33662091</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/33463220</id>
         <link href="https://tv.naver.com/v/33463220"/>
         <updated>2023-02-27T01:37:21.404Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 그대 모습은 장미 - 바다 | KBS 230225 방송]]></title>
-        <id>https://tv.naver.com/v/33463896</id>
-        <link href="https://tv.naver.com/v/33463896"/>
-        <updated>2023-02-26T12:34:19.885Z</updated>
         <content type="html"><![CDATA[04:02]]></content>
     </entry>
 </feed>
