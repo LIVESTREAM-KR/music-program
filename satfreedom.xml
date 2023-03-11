@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-03-11T12:32:10.062Z</updated>
+    <updated>2023-03-11T13:21:00.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 🦋아티스트 YB 편 2부🦋 감동과 즐거움 가득💟 특별한 무대들이 찾아옵니다 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/33880989</id>
+        <link href="https://tv.naver.com/v/33880989"/>
+        <updated>2023-03-11T13:20:52.705Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YB - Stay Alive | KBS 230311 방송]]></title>
         <id>https://tv.naver.com/v/33880053</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33661324"/>
         <updated>2023-03-04T12:34:20.090Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃음과 감동을 선사했던 KBS 희극인들, 다섯 번째 키워드 ＜행복을 주는 사람＞ | KBS 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33661094</id>
-        <link href="https://tv.naver.com/v/33661094"/>
-        <updated>2023-03-04T11:15:16.827Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
