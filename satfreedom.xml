@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-03-11T09:16:41.260Z</updated>
+    <updated>2023-03-11T10:18:25.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YB 키즈 총출동🔥 윤도현의 곡을 거절한 유세윤? 김재환&윤도현의 특별한 관계! | KBS 230311 방송]]></title>
+        <id>https://tv.naver.com/v/33878095</id>
+        <link href="https://tv.naver.com/v/33878095"/>
+        <updated>2023-03-11T10:18:17.998Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YB - Stay Alive | KBS 230311 방송]]></title>
+        <id>https://tv.naver.com/v/33878009</id>
+        <link href="https://tv.naver.com/v/33878009"/>
+        <updated>2023-03-11T10:18:17.999Z</updated>
+        <content type="html"><![CDATA[05:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[따뜻한 위로와 거침없는 포효, 국가대표 록밴드 ＜아티스트 YB 편＞ 시작합니다🤘 | KBS 230311 방송]]></title>
+        <id>https://tv.naver.com/v/33877844</id>
+        <link href="https://tv.naver.com/v/33877844"/>
+        <updated>2023-03-11T10:18:18.000Z</updated>
+        <content type="html"><![CDATA[02:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 김씨네 OMG 댄스배틀🌟 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/33857213</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33464009"/>
         <updated>2023-02-26T12:34:19.885Z</updated>
         <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 무정 부르스 - 라포엠 | KBS 230225 방송]]></title>
-        <id>https://tv.naver.com/v/33463524</id>
-        <link href="https://tv.naver.com/v/33463524"/>
-        <updated>2023-02-26T12:34:19.887Z</updated>
-        <content type="html"><![CDATA[04:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 무정 부르스 - 라포엠 | KBS 230225 방송]]></title>
-        <id>https://tv.naver.com/v/33463500</id>
-        <link href="https://tv.naver.com/v/33463500"/>
-        <updated>2023-02-26T12:34:19.890Z</updated>
-        <content type="html"><![CDATA[04:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 그대 모습은 장미 - 바다 | KBS 230225 방송]]></title>
-        <id>https://tv.naver.com/v/33463220</id>
-        <link href="https://tv.naver.com/v/33463220"/>
-        <updated>2023-02-27T01:37:21.404Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-11T09:16:41.255Z</updated>
+    <updated>2023-03-11T10:18:25.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC– Teddy Bear(스테이씨 - 테디베어) 1위 직캠 FanCam | Show! MusicCore | MBC230311방송]]></title>
+        <id>https://tv.naver.com/v/33877242</id>
+        <link href="https://tv.naver.com/v/33877242"/>
+        <updated>2023-03-11T10:17:42.238Z</updated>
+        <content type="html"><![CDATA[06:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분] 3월 2주차 1위 앵콜 무대! 스테이씨 - 테디베어 (STAYC - Teddy Bear), MBC 230311 방송]]></title>
         <id>https://tv.naver.com/v/33876754</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33875174"/>
         <updated>2023-03-11T08:21:45.296Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체리블렛 - 플레이 온 더 월드 (Cherry Bullet - P.O.W! (Play On the World)), MBC 230311 방송]]></title>
-        <id>https://tv.naver.com/v/33875025</id>
-        <link href="https://tv.naver.com/v/33875025"/>
-        <updated>2023-03-11T07:15:17.710Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
