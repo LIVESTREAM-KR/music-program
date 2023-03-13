@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-13T06:24:56.482Z</updated>
+    <updated>2023-03-13T07:17:42.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN - My Satisfaction(아이브 안유진 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MBC2303]]></title>
+        <id>https://tv.naver.com/v/33923716</id>
+        <link href="https://tv.naver.com/v/33923716"/>
+        <updated>2023-03-13T07:16:59.112Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - My Satisfaction(아이브 장원영 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MB]]></title>
+        <id>https://tv.naver.com/v/33923172</id>
+        <link href="https://tv.naver.com/v/33923172"/>
+        <updated>2023-03-13T07:16:59.112Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE REI - My Satisfaction(아이브 레이 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MBC230311방송]]></title>
+        <id>https://tv.naver.com/v/33922966</id>
+        <link href="https://tv.naver.com/v/33922966"/>
+        <updated>2023-03-13T07:16:59.112Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ONEW - Rain On Me(온유 – 우중산책) FanCam | Show! MusicCore | MBC230311방송]]></title>
         <id>https://tv.naver.com/v/33880632</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33879568"/>
         <updated>2023-03-11T12:31:25.363Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] STAYC ISA – DDU-DU DDU-DU(스테이씨 아이사 - 뚜두뚜두) FanCam | Show! MusicCore | MBC230311방송]]></title>
-        <id>https://tv.naver.com/v/33879200</id>
-        <link href="https://tv.naver.com/v/33879200"/>
-        <updated>2023-03-11T12:31:25.371Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] STAYC SIEUN – DDU-DU DDU-DU(스테이씨 시은 - 뚜두뚜두) FanCam | Show! MusicCore | MBC230311방송]]></title>
-        <id>https://tv.naver.com/v/33879199</id>
-        <link href="https://tv.naver.com/v/33879199"/>
-        <updated>2023-03-11T12:31:25.372Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] STAYC YOON – DDU-DU DDU-DU(스테이씨 윤 - 뚜두뚜두) FanCam | Show! MusicCore | MBC230311방송]]></title>
-        <id>https://tv.naver.com/v/33879104</id>
-        <link href="https://tv.naver.com/v/33879104"/>
-        <updated>2023-03-11T12:31:25.374Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
