@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-03-13T04:22:53.074Z</updated>
+    <updated>2023-03-13T05:18:38.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 2023 쇼챔피언 키워드 스포!]]></title>
+        <id>https://tv.naver.com/v/33918245</id>
+        <link href="https://tv.naver.com/v/33918245"/>
+        <updated>2023-03-13T05:18:23.560Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 2주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아 나나, 빌리 문수아&츠키) | Show Champion | EP.466]]></title>
         <id>https://tv.naver.com/v/33818796</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/33779114</id>
         <link href="https://tv.naver.com/v/33779114"/>
         <updated>2023-03-08T13:27:56.566Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC J - Teddy Bear (스테이씨 재이 - 테디 베어) | Show Champion | EP.466]]></title>
-        <id>https://tv.naver.com/v/33778883</id>
-        <link href="https://tv.naver.com/v/33778883"/>
-        <updated>2023-03-08T13:27:56.567Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
