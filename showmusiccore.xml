@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-13T07:17:42.005Z</updated>
+    <updated>2023-03-13T08:25:05.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC SIEUN - DDU-DU DDU-DU(스테이씨 시은 - 뚜두뚜두) Close-up Cam | Show! MusicCore | MBC230311방송]]></title>
+        <id>https://tv.naver.com/v/33924715</id>
+        <link href="https://tv.naver.com/v/33924715"/>
+        <updated>2023-03-13T08:24:21.374Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC ISA - DDU-DU DDU-DU(스테이씨 아이사 - 뚜두뚜두) Close-up Cam | Show! MusicCore | MBC230311방송]]></title>
+        <id>https://tv.naver.com/v/33924530</id>
+        <link href="https://tv.naver.com/v/33924530"/>
+        <updated>2023-03-13T08:24:21.376Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN - My Satisfaction(아이브 안유진 - 마이 새티스팩션) Close-up Cam | Show! MusicCore | MBC2303]]></title>
         <id>https://tv.naver.com/v/33923716</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33879714"/>
         <updated>2023-03-11T12:31:25.360Z</updated>
         <content type="html"><![CDATA[02:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE - My Satisfaction(아이브 – 마이 새티스팩션) FanCam | Show! MusicCore | MBC230311방송]]></title>
-        <id>https://tv.naver.com/v/33879641</id>
-        <link href="https://tv.naver.com/v/33879641"/>
-        <updated>2023-03-11T12:31:25.361Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE GAEUL – My Satisfaction(아이브 가을 - 마이 새티스팩션) FanCam | Show! MusicCore | MBC230311방송]]></title>
-        <id>https://tv.naver.com/v/33879568</id>
-        <link href="https://tv.naver.com/v/33879568"/>
-        <updated>2023-03-11T12:31:25.363Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
