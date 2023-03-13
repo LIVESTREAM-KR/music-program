@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-13T08:25:05.234Z</updated>
+    <updated>2023-03-13T09:19:54.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 정우X미나X찬희 , 3월 둘째 주 음악중심 MC 컷 모음!, MBC 230311 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/33928506</id>
+        <link href="https://tv.naver.com/v/33928506"/>
+        <updated>2023-03-13T09:19:07.732Z</updated>
+        <content type="html"><![CDATA[14:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] STAYC SIEUN - DDU-DU DDU-DU(스테이씨 시은 - 뚜두뚜두) Close-up Cam | Show! MusicCore | MBC230311방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/33924715</id>
         <link href="https://tv.naver.com/v/33924715"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/33879715"/>
         <updated>2023-03-11T12:31:25.358Z</updated>
         <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY ALLEN – Shock(크래비티 앨런 - 쇼크) FanCam | Show! MusicCore | MBC230311방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33879714</id>
-        <link href="https://tv.naver.com/v/33879714"/>
-        <updated>2023-03-11T12:31:25.360Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[황민현 - Hidden Side | SBS 230305 방송 (인기가요)]]></title>
