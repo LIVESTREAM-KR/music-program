@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-14T08:27:16.384Z</updated>
+    <updated>2023-03-14T09:21:31.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[02:43]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CRAVITY가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/33967186</id>
+        <link href="https://tv.naver.com/v/33967186"/>
+        <updated>2023-03-14T09:21:03.278Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 온유(ONEW) - O (Circle) | Mnet 230309 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/33824441</id>
         <link href="https://tv.naver.com/v/33824441"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/33601172"/>
         <updated>2023-03-02T10:20:57.557Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNX - Love or Die | Mnet 230302 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/33600870</id>
-        <link href="https://tv.naver.com/v/33600870"/>
-        <updated>2023-03-02T10:20:57.558Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상큼 에너지 double! 틴프레시, STAYC (스테이씨) 'Teddy Bear' (더쇼)]]></title>

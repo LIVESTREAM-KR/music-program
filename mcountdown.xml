@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-03-14T08:27:16.429Z</updated>
+    <updated>2023-03-14T09:21:31.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/33967186</id>
+        <link href="https://tv.naver.com/v/33967186"/>
+        <updated>2023-03-14T09:21:03.278Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 온유(ONEW) - O (Circle) | Mnet 230309 방송]]></title>
         <id>https://tv.naver.com/v/33824441</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33601172"/>
         <updated>2023-03-02T10:20:57.557Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNX - Love or Die | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33600870</id>
-        <link href="https://tv.naver.com/v/33600870"/>
-        <updated>2023-03-02T10:20:57.558Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
