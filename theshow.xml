@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-03-14T10:23:40.375Z</updated>
+    <updated>2023-03-14T11:18:49.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/33971528</id>
+        <link href="https://tv.naver.com/v/33971528"/>
+        <updated>2023-03-14T11:18:27.213Z</updated>
+        <content type="html"><![CDATA[08:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOOD-BYE 말카롱]]></title>
+        <id>https://tv.naver.com/v/33971374</id>
+        <link href="https://tv.naver.com/v/33971374"/>
+        <updated>2023-03-14T11:18:27.214Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 꿈꿔온 이 순간을 영원히! 절정의 자유로움, CRAVITY 'Groovy']]></title>
+        <id>https://tv.naver.com/v/33971244</id>
+        <link href="https://tv.naver.com/v/33971244"/>
+        <updated>2023-03-14T11:18:27.215Z</updated>
+        <content type="html"><![CDATA[04:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 유주만의 색깔이 돋보이는 짙은 컨셉, 유주 'Without U']]></title>
+        <id>https://tv.naver.com/v/33970726</id>
+        <link href="https://tv.naver.com/v/33970726"/>
+        <updated>2023-03-14T11:18:27.216Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 신비로운 사랑의 속삭임, 니콜(Nicole) 'Mysterious']]></title>
+        <id>https://tv.naver.com/v/33970698</id>
+        <link href="https://tv.naver.com/v/33970698"/>
+        <updated>2023-03-14T11:18:27.216Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] ‘단어의 의미'가 아닌 '모양의 의미'를 담은, 유주 '복숭아꽃 (Feat. sokodomo)']]></title>
+        <id>https://tv.naver.com/v/33970554</id>
+        <link href="https://tv.naver.com/v/33970554"/>
+        <updated>2023-03-14T11:18:27.218Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 세상을 향한 당찬 런웨이, 체리블렛 (Cherry Bullet) 'P.O.W! (Play On the World)']]></title>
+        <id>https://tv.naver.com/v/33970439</id>
+        <link href="https://tv.naver.com/v/33970439"/>
+        <updated>2023-03-14T11:18:27.220Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 성숙한 보컬들의 조화, 체리블렛 (Cherry Bullet) '겨울 별 (A Winter Star)']]></title>
+        <id>https://tv.naver.com/v/33970307</id>
+        <link href="https://tv.naver.com/v/33970307"/>
+        <updated>2023-03-14T11:18:27.221Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 한계 없는 질주의 다크한 무대, OnlyOneOf 'seOul drift']]></title>
+        <id>https://tv.naver.com/v/33970305</id>
+        <link href="https://tv.naver.com/v/33970305"/>
+        <updated>2023-03-14T11:18:27.222Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 화려함 속에 감춰진 이면을 노래하는, OnlyOneOf 'chrOme arts']]></title>
+        <id>https://tv.naver.com/v/33970095</id>
+        <link href="https://tv.naver.com/v/33970095"/>
+        <updated>2023-03-14T11:18:27.223Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[THE 인생채컷] CRAVITY]]></title>
         <id>https://tv.naver.com/v/33969829</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/33545166"/>
         <updated>2023-02-28T10:21:54.720Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지나간 기억을 아련하게 회상하게 만드는, 범진 '우린 한 편의 소설로 남겠죠 (이별소설)']]></title>
-        <id>https://tv.naver.com/v/33544851</id>
-        <link href="https://tv.naver.com/v/33544851"/>
-        <updated>2023-02-28T10:21:54.723Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback]레트로 감성과 매력적인 보컬로 아우러진, FIFTY FIFTY(피프티 피프티) 'Cupid']]></title>
-        <id>https://tv.naver.com/v/33544757</id>
-        <link href="https://tv.naver.com/v/33544757"/>
-        <updated>2023-02-28T10:21:54.725Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끝없는 가능성을 무한대로 펼치는, tripleS(트리플에스) 'Rising']]></title>
-        <id>https://tv.naver.com/v/33544756</id>
-        <link href="https://tv.naver.com/v/33544756"/>
-        <updated>2023-02-28T10:21:54.726Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원앤온리 퍼포먼스 여덟소년, 8TURN(에잇턴) 'TIC TAC']]></title>
-        <id>https://tv.naver.com/v/33544660</id>
-        <link href="https://tv.naver.com/v/33544660"/>
-        <updated>2023-02-28T10:21:54.728Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부드럽고 따뜻한 목소리로 리스너들을 사로잡을, 강버터(Kang Butter) '분명한 건 널 사랑했단 거야']]></title>
-        <id>https://tv.naver.com/v/33544551</id>
-        <link href="https://tv.naver.com/v/33544551"/>
-        <updated>2023-02-28T10:21:54.729Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불꽃놀이를 연상케하는 감성자극 멜로디, AIMERS(에이머스) 'Fireworks']]></title>
-        <id>https://tv.naver.com/v/33544421</id>
-        <link href="https://tv.naver.com/v/33544421"/>
-        <updated>2023-02-28T10:21:54.732Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설레는 분위기를 극대화시키는 무대, HAWW(하우) 'How Are You']]></title>
-        <id>https://tv.naver.com/v/33544418</id>
-        <link href="https://tv.naver.com/v/33544418"/>
-        <updated>2023-02-28T10:21:54.734Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상에 뛰어들겠다는 당찬 포부를 담은 무대, uni (유니) 'DIVE']]></title>
-        <id>https://tv.naver.com/v/33544056</id>
-        <link href="https://tv.naver.com/v/33544056"/>
-        <updated>2023-02-28T10:21:54.735Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/33343091</id>
-        <link href="https://tv.naver.com/v/33343091"/>
-        <updated>2023-02-21T11:18:18.458Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 키치한 틴프레시 색으로 돌아온, STAYC (스테이씨) 'Teddy Bear']]></title>
-        <id>https://tv.naver.com/v/33342827</id>
-        <link href="https://tv.naver.com/v/33342827"/>
-        <updated>2023-02-21T11:18:18.458Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
