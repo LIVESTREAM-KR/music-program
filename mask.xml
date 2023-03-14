@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-03-14T09:21:31.267Z</updated>
+    <updated>2023-03-14T10:23:40.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 깊고 부드러운 음색🎶으로 마음을 전하는 배우 조복래! , MBC 230312 방송]]></title>
+        <id>https://tv.naver.com/v/33969670</id>
+        <link href="https://tv.naver.com/v/33969670"/>
+        <updated>2023-03-14T10:23:39.726Z</updated>
+        <content type="html"><![CDATA[10:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 아이돌, 배우, 프로듀서까지! 진정한 만능 엔터테이너, 프로듀서 조이현!, MBC 230312 방송]]></title>
         <id>https://tv.naver.com/v/33965057</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33679239"/>
         <updated>2023-03-05T10:19:47.408Z</updated>
         <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새벽 감성 충만한 '내 별자리는 가왕자리'의 노래 개인기! ＂나랑 별 보러 가지 않을래~⭐＂, MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/33679163</id>
-        <link href="https://tv.naver.com/v/33679163"/>
-        <updated>2023-03-05T10:19:47.411Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
     </entry>
 </feed>

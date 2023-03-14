@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-14T09:21:31.272Z</updated>
+    <updated>2023-03-14T10:23:40.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송 (뮤직뱅크)]]></title>
@@ -845,6 +845,76 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[THE 인생채컷] CRAVITY (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33969829</id>
+        <link href="https://tv.naver.com/v/33969829"/>
+        <updated>2023-03-14T10:23:19.226Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시네마틱한 전개의 퍼포먼스, PIXY(픽시) 'KARMA' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33969799</id>
+        <link href="https://tv.naver.com/v/33969799"/>
+        <updated>2023-03-14T10:23:19.227Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여섯 메신저의 테크노팝, 트라이비(TRI.BE) 'WE ARE YOUNG' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33969680</id>
+        <link href="https://tv.naver.com/v/33969680"/>
+        <updated>2023-03-14T10:23:19.227Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독보적인 발라드 장인, 포스트맨 '안녕 신촌' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33969671</id>
+        <link href="https://tv.naver.com/v/33969671"/>
+        <updated>2023-03-14T10:23:19.231Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웅장한 사운드와 탄탄한 보컬, 울랄라세션 (ULALA SESSION) 'ON MY WAY' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33969557</id>
+        <link href="https://tv.naver.com/v/33969557"/>
+        <updated>2023-03-14T10:23:19.232Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 애절한 강렬 퍼포먼스, TAN 'Fix YOU' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33969443</id>
+        <link href="https://tv.naver.com/v/33969443"/>
+        <updated>2023-03-14T10:23:19.233Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리드미컬한 몽환적 멜로디, 세리 (Serri) 'Spotlight' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33969302</id>
+        <link href="https://tv.naver.com/v/33969302"/>
+        <updated>2023-03-14T10:23:19.235Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소년들의 거침없는 패기, 8TURN(에잇턴) 'WE' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33969166</id>
+        <link href="https://tv.naver.com/v/33969166"/>
+        <updated>2023-03-14T10:23:19.239Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가슴 절절한 감성 보이스, 임사랑 '너랑 친구도 하기 싫어' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33969165</id>
+        <link href="https://tv.naver.com/v/33969165"/>
+        <updated>2023-03-14T10:23:19.240Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상을 치유하는 일곱 소년, HAWW(하우) 'How Are You' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/33968541</id>
+        <link href="https://tv.naver.com/v/33968541"/>
+        <updated>2023-03-14T10:23:19.241Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[상큼 에너지 double! 틴프레시, STAYC (스테이씨) 'Teddy Bear' (더쇼)]]></title>
         <id>https://tv.naver.com/v/33545989</id>
         <link href="https://tv.naver.com/v/33545989"/>
@@ -983,76 +1053,6 @@
         <link href="https://tv.naver.com/v/33342827"/>
         <updated>2023-02-21T11:18:18.458Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 밝고 통통 튀는 매력적인 무대, STAYC (스테이씨) 'Poppy (Korean Ver.)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33342824</id>
-        <link href="https://tv.naver.com/v/33342824"/>
-        <updated>2023-02-21T11:18:18.462Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 여섯 명의 매혹적인 마녀들, 퍼플키스(PURPLE KISS) 'Sweet Juice' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33342709</id>
-        <link href="https://tv.naver.com/v/33342709"/>
-        <updated>2023-02-21T11:18:18.464Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 귓가에 맴도는 멜로디, 퍼플키스(PURPLE KISS) 'Intro : Save Me' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33342607</id>
-        <link href="https://tv.naver.com/v/33342607"/>
-        <updated>2023-02-21T11:18:18.465Z</updated>
-        <content type="html"><![CDATA[01:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 떠오르는 글로벌 루키, 트라이비(TRI.BE) 'WE ARE YOUNG' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33342602</id>
-        <link href="https://tv.naver.com/v/33342602"/>
-        <updated>2023-02-21T11:18:18.466Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 한 편의 잔혹동화, 트라이비(TRI.BE) 'WITCH' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33342486</id>
-        <link href="https://tv.naver.com/v/33342486"/>
-        <updated>2023-02-21T11:18:18.467Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 카리스마 넘치는 칼군무, TNX 'Love or Die' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33342485</id>
-        <link href="https://tv.naver.com/v/33342485"/>
-        <updated>2023-02-21T11:18:18.470Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 다채로운 퍼포먼스, TNX 'I Need U' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33342326</id>
-        <link href="https://tv.naver.com/v/33342326"/>
-        <updated>2023-02-21T11:18:18.473Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[THE 인생채컷] 퍼플키스(PURPLE KISS) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33342325</id>
-        <link href="https://tv.naver.com/v/33342325"/>
-        <updated>2023-02-21T11:18:18.472Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 순수한 첫사랑의 고백, LIMELIGHT(라임라잇) 'Honestly' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33342184</id>
-        <link href="https://tv.naver.com/v/33342184"/>
-        <updated>2023-02-21T11:18:18.480Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 끝없는 사랑을 노래하는, 에스페로 'Endless' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33341744</id>
-        <link href="https://tv.naver.com/v/33341744"/>
-        <updated>2023-02-21T10:21:06.930Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2023 쇼챔피언 키워드 스포! (쇼챔피언)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 깊고 부드러운 음색🎶으로 마음을 전하는 배우 조복래! , MBC 230312 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/33969670</id>
+        <link href="https://tv.naver.com/v/33969670"/>
+        <updated>2023-03-14T10:23:39.726Z</updated>
+        <content type="html"><![CDATA[10:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 아이돌, 배우, 프로듀서까지! 진정한 만능 엔터테이너, 프로듀서 조이현!, MBC 230312 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/33965057</id>
         <link href="https://tv.naver.com/v/33965057"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/33679239"/>
         <updated>2023-03-05T10:19:47.408Z</updated>
         <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새벽 감성 충만한 '내 별자리는 가왕자리'의 노래 개인기! ＂나랑 별 보러 가지 않을래~⭐＂, MBC 230305 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/33679163</id>
-        <link href="https://tv.naver.com/v/33679163"/>
-        <updated>2023-03-05T10:19:47.411Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
     </entry>
 </feed>
