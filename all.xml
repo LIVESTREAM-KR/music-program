@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-14T07:19:11.428Z</updated>
+    <updated>2023-03-14T08:27:16.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 아이돌, 배우, 프로듀서까지! 진정한 만능 엔터테이너, 프로듀서 조이현!, MBC 230312 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/33965057</id>
+        <link href="https://tv.naver.com/v/33965057"/>
+        <updated>2023-03-14T08:27:15.738Z</updated>
+        <content type="html"><![CDATA[10:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[＜우승 트로피는 무사히 도망칠 수 있을까?＞ 복면가왕 396회 예고, MBC 230319 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/33898402</id>
         <link href="https://tv.naver.com/v/33898402"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/33679163"/>
         <updated>2023-03-05T10:19:47.411Z</updated>
         <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내 별자리는 가왕자리' VS '내 탄생석은 가왕석'의 1라운드 무대 - 좋은 사람 (Feat. 김형중), MBC 230305 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/33679160</id>
-        <link href="https://tv.naver.com/v/33679160"/>
-        <updated>2023-03-05T10:19:47.416Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
