@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-15T06:23:45.749Z</updated>
+    <updated>2023-03-15T07:17:38.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] STAYC – Poppy(스테이씨 - 파피) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/33964229</id>
+        <link href="https://tv.naver.com/v/33964229"/>
+        <updated>2023-03-15T07:16:55.872Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 정우X미나X찬희 , 3월 둘째 주 음악중심 MC 컷 모음!, MBC 230311 방송]]></title>
         <id>https://tv.naver.com/v/33928506</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33879785"/>
         <updated>2023-03-11T12:31:25.357Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TRIPLES Kim ChaeYeon – Rising(트리플에스 김채연 - 라이징) FanCam | Show! MusicCore | MBC230311방송]]></title>
-        <id>https://tv.naver.com/v/33879715</id>
-        <link href="https://tv.naver.com/v/33879715"/>
-        <updated>2023-03-11T12:31:25.358Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
     </entry>
 </feed>
