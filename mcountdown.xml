@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-03-16T09:19:57.156Z</updated>
+    <updated>2023-03-16T10:21:28.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' TAN - Fix YOU | Mnet 230316 방송]]></title>
+        <id>https://tv.naver.com/v/34045256</id>
+        <link href="https://tv.naver.com/v/34045256"/>
+        <updated>2023-03-16T10:21:00.042Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' TRENDZ(트렌드지) - NEW DAYZ | Mnet 230316 방송]]></title>
+        <id>https://tv.naver.com/v/34045112</id>
+        <link href="https://tv.naver.com/v/34045112"/>
+        <updated>2023-03-16T10:21:00.042Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PIXY (픽시) - KARMA | Mnet 230316 방송]]></title>
+        <id>https://tv.naver.com/v/34044671</id>
+        <link href="https://tv.naver.com/v/34044671"/>
+        <updated>2023-03-16T10:21:00.042Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['UP NEXT' TWICE(트와이스) | Mnet 230316 방송]]></title>
+        <id>https://tv.naver.com/v/34044517</id>
+        <link href="https://tv.naver.com/v/34044517"/>
+        <updated>2023-03-16T10:21:00.042Z</updated>
+        <content type="html"><![CDATA[00:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAWW (하우) - How Are You | Mnet 230316 방송]]></title>
+        <id>https://tv.naver.com/v/34044404</id>
+        <link href="https://tv.naver.com/v/34044404"/>
+        <updated>2023-03-16T10:21:00.042Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임사랑 - 너랑 친구도 하기 싫어 | Mnet 230316 방송]]></title>
+        <id>https://tv.naver.com/v/34044268</id>
+        <link href="https://tv.naver.com/v/34044268"/>
+        <updated>2023-03-16T10:21:00.043Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRAVITY가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/33967186</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/33601881"/>
         <updated>2023-03-02T11:16:36.852Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' BOYS PLANET 〈Back Door＞ K팀 - Back Door | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33601745</id>
-        <link href="https://tv.naver.com/v/33601745"/>
-        <updated>2023-03-02T11:16:36.853Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 황민현 (HWANG MIN HYUN) | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33601740</id>
-        <link href="https://tv.naver.com/v/33601740"/>
-        <updated>2023-03-02T11:16:36.854Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33601494</id>
-        <link href="https://tv.naver.com/v/33601494"/>
-        <updated>2023-03-02T11:16:36.855Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33601337</id>
-        <link href="https://tv.naver.com/v/33601337"/>
-        <updated>2023-03-02T10:20:57.554Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HISTORY M' 8TURN(에잇턴)과 함께하는 2월의 엠카 핵심 요약.zip! | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33601180</id>
-        <link href="https://tv.naver.com/v/33601180"/>
-        <updated>2023-03-02T10:20:57.554Z</updated>
-        <content type="html"><![CDATA[05:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnlyOneOf (온리원오브) - seOul drift | Mnet 230302 방송]]></title>
-        <id>https://tv.naver.com/v/33601172</id>
-        <link href="https://tv.naver.com/v/33601172"/>
-        <updated>2023-03-02T10:20:57.557Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>

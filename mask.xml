@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-03-16T09:19:57.147Z</updated>
+    <updated>2023-03-16T10:21:28.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 고ㅊ어크돔에서 콘서트 하고 싶어쏘...😎 드디어 복면가왕에게도 지명 받은 다나카상🌹, MBC 230305 방송]]></title>
+        <id>https://tv.naver.com/v/34045139</id>
+        <link href="https://tv.naver.com/v/34045139"/>
+        <updated>2023-03-16T10:21:27.371Z</updated>
+        <content type="html"><![CDATA[13:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 우월한 유전자의 음악 천재! 가수 최정철, MBC 230312 방송]]></title>
+        <id>https://tv.naver.com/v/34044667</id>
+        <link href="https://tv.naver.com/v/34044667"/>
+        <updated>2023-03-16T10:21:27.374Z</updated>
+        <content type="html"><![CDATA[11:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 깊고 부드러운 음색🎶으로 마음을 전하는 배우 조복래! , MBC 230312 방송]]></title>
         <id>https://tv.naver.com/v/33969670</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33679328"/>
         <updated>2023-03-05T10:19:47.403Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내 별자리는 가왕자리'의 정체는 싱어송라이터 최유리, MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/33679257</id>
-        <link href="https://tv.naver.com/v/33679257"/>
-        <updated>2023-03-05T10:19:47.407Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['내 탄생석은 가왕석'의 보석처럼 귀한 지인 황치열과의 전화 연결✨ 'K-POP의 미래를 책임질 능력자?!', MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/33679239</id>
-        <link href="https://tv.naver.com/v/33679239"/>
-        <updated>2023-03-05T10:19:47.408Z</updated>
-        <content type="html"><![CDATA[01:25]]></content>
     </entry>
 </feed>
