@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-17T06:22:26.307Z</updated>
+    <updated>2023-03-17T07:17:44.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] THE BOYZ – ROAR(더보이즈 - 로어)  | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/33962313</id>
+        <link href="https://tv.naver.com/v/33962313"/>
+        <updated>2023-03-17T07:16:58.371Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] STAYC – Poppy(스테이씨 - 파피) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/33964229</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33879786"/>
         <updated>2023-03-11T12:31:25.341Z</updated>
         <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LIZ – My Satisfaction(아이브 리즈 - 마이 새티스팩션) FanCam | Show! MusicCore | MBC230311방송]]></title>
-        <id>https://tv.naver.com/v/33879785</id>
-        <link href="https://tv.naver.com/v/33879785"/>
-        <updated>2023-03-11T12:31:25.357Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
