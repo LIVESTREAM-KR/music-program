@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-03-17T09:19:10.175Z</updated>
+    <updated>2023-03-17T10:21:18.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 내가 사랑한 YB의 명곡들을 짚어보다! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/34078158</id>
+        <link href="https://tv.naver.com/v/34078158"/>
+        <updated>2023-03-17T10:21:09.793Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🦋아티스트 YB 편 2부🦋 감동과 즐거움 가득💟 특별한 무대들이 찾아옵니다 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/33880989</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33661574"/>
         <updated>2023-03-04T12:34:20.087Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심형래 - Guitar Man + Your Cheatin Heart | KBS 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33661324</id>
-        <link href="https://tv.naver.com/v/33661324"/>
-        <updated>2023-03-04T12:34:20.090Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>

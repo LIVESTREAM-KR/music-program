@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-03-17T09:19:10.177Z</updated>
+    <updated>2023-03-17T10:21:18.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 유려한 플로우와 독보적인 톤! 숨겨진 예능 보석 래퍼 지조!, MBC 230305 방송]]></title>
+        <id>https://tv.naver.com/v/34079274</id>
+        <link href="https://tv.naver.com/v/34079274"/>
+        <updated>2023-03-17T10:21:17.103Z</updated>
+        <content type="html"><![CDATA[13:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 초저음 랩, 감성 보컬, 퍼포먼스까지! 반전 매력 원어스 이도!, MBC 230305 방송]]></title>
+        <id>https://tv.naver.com/v/34078701</id>
+        <link href="https://tv.naver.com/v/34078701"/>
+        <updated>2023-03-17T10:21:17.103Z</updated>
+        <content type="html"><![CDATA[09:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 따듯한 위로를 건네는 싱어송라이터! 가수 최유리!, MBC 230305 방송]]></title>
+        <id>https://tv.naver.com/v/34078699</id>
+        <link href="https://tv.naver.com/v/34078699"/>
+        <updated>2023-03-17T10:21:17.104Z</updated>
+        <content type="html"><![CDATA[09:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 고ㅊ어크돔에서 콘서트 하고 싶어쏘...😎 드디어 복면가왕에게도 지명 받은 다나카상🌹, MBC 230305 방송]]></title>
         <id>https://tv.naver.com/v/34045139</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33679718"/>
         <updated>2023-03-05T11:15:18.389Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꿀벌'의 정체는 원어스의 메인 래퍼 이도!, MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/33679512</id>
-        <link href="https://tv.naver.com/v/33679512"/>
-        <updated>2023-03-05T10:19:47.400Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꿀벌' X 이재원의 당도 100% ＜Candy＞ 컬래버 댄스🍬, MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/33679500</id>
-        <link href="https://tv.naver.com/v/33679500"/>
-        <updated>2023-03-05T10:19:47.401Z</updated>
-        <content type="html"><![CDATA[02:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꿀벌' VS '재벌'의 1라운드 무대 - 담배가게 아가씨, MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/33679328</id>
-        <link href="https://tv.naver.com/v/33679328"/>
-        <updated>2023-03-05T10:19:47.403Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
