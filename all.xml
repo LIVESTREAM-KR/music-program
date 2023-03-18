@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-18T06:22:19.562Z</updated>
+    <updated>2023-03-18T07:16:23.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SET ME FREE - TWICE(트와이스) | KBS 230317 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,55 @@
         <content type="html"><![CDATA[02:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[온리원오브 - 서울 드리프트 (OnlyOneOf - seOul drift), MBC 230318 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34097374</id>
+        <link href="https://tv.naver.com/v/34097374"/>
+        <updated>2023-03-18T07:15:41.374Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSG워너비(가야G) - 결국엔 너에게 닿아서 (WSG WANNABE (GAYA-G) - To You), MBC 230318 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34097270</id>
+        <link href="https://tv.naver.com/v/34097270"/>
+        <updated>2023-03-18T07:15:41.374Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플레이브 - 기다릴게 (PLAVE - Wait for you), MBC 230318 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34097268</id>
+        <link href="https://tv.naver.com/v/34097268"/>
+        <updated>2023-03-18T07:15:41.377Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소유미 - 평생직장 (SOYUMI - Lifetime workplace), MBC 230318 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34097267</id>
+        <link href="https://tv.naver.com/v/34097267"/>
+        <updated>2023-03-18T07:15:41.381Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트렌드지 - 뉴 데이즈 (TRENDZ - NEW DAYZ), MBC 230318 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34097042</id>
+        <link href="https://tv.naver.com/v/34097042"/>
+        <updated>2023-03-18T07:15:41.381Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포스트맨 - 안녕 신촌 (Postmen - Goodbye Sinchon), MBC 230318 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34096826</id>
+        <link href="https://tv.naver.com/v/34096826"/>
+        <updated>2023-03-18T07:15:41.382Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하우 - 하우 아 유 (HAWW - How Are You), MBC 230318 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34096805</id>
+        <link href="https://tv.naver.com/v/34096805"/>
+        <updated>2023-03-18T07:15:41.384Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] CRAVITY.zip 📂 Break all the Rules부터 Groovy까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/33928746</id>
         <link href="https://tv.naver.com/v/33928746"/>
@@ -374,55 +423,6 @@
         <link href="https://tv.naver.com/v/33879950"/>
         <updated>2023-03-11T12:31:25.339Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY WONJIN – Perfect Man(크래비티 원진 - 퍼펙트 맨) FanCam | Show! MusicCore | MBC230311방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33879949</id>
-        <link href="https://tv.naver.com/v/33879949"/>
-        <updated>2023-03-11T12:31:25.341Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY SERIM – Perfect Man(크래비티 세림 - 퍼펙트 맨) FanCam | Show! MusicCore | MBC230311방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33879877</id>
-        <link href="https://tv.naver.com/v/33879877"/>
-        <updated>2023-03-11T12:31:25.341Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE REI – My Satisfaction(아이브 레이 - 마이 새티스팩션) FanCam | Show! MusicCore | MBC230311방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33879876</id>
-        <link href="https://tv.naver.com/v/33879876"/>
-        <updated>2023-03-11T12:31:25.341Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY SEONGMIN – Shock(크래비티 성민 - 쇼크) FanCam | Show! MusicCore | MBC230311방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33879812</id>
-        <link href="https://tv.naver.com/v/33879812"/>
-        <updated>2023-03-11T12:31:25.341Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE JANG WONYOUNG – My Satisfaction(아이브 장원영 - 마이 새티스팩션) FanCam | Show! MusicCore | MBC23031 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33879811</id>
-        <link href="https://tv.naver.com/v/33879811"/>
-        <updated>2023-03-11T12:31:25.341Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO – My Satisfaction(아이브 이서 - 마이 새티스팩션) FanCam | Show! MusicCore | MBC230311방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33879810</id>
-        <link href="https://tv.naver.com/v/33879810"/>
-        <updated>2023-03-11T12:31:25.341Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE AN YUJIN – My Satisfaction(아이브 안유진 - 마이 새티스팩션) FanCam | Show! MusicCore | MBC230311방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/33879809</id>
-        <link href="https://tv.naver.com/v/33879809"/>
-        <updated>2023-03-11T12:31:25.341Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[황민현 - Hidden Side | SBS 230305 방송 (인기가요)]]></title>
