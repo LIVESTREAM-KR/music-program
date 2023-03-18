@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-03-18T09:17:17.822Z</updated>
+    <updated>2023-03-18T10:19:08.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2부의 포문을 여는 세인트 김진호👼 선곡은 과연?  | KBS 230318 방송]]></title>
+        <id>https://tv.naver.com/v/34100695</id>
+        <link href="https://tv.naver.com/v/34100695"/>
+        <updated>2023-03-18T10:19:00.722Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4600만 조회수의 불후의 전설❤️‍🔥 김진호!  YB와의 첫 만남 스토리 | KBS 230318 방송]]></title>
+        <id>https://tv.naver.com/v/34100630</id>
+        <link href="https://tv.naver.com/v/34100630"/>
+        <updated>2023-03-18T10:19:00.723Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1부 우승자 김재환🥳💐 우승 후 눈물을 흘리던 이유! 윤도현의 반응은? | KBS 230318 방송]]></title>
+        <id>https://tv.naver.com/v/34100275</id>
+        <link href="https://tv.naver.com/v/34100275"/>
+        <updated>2023-03-18T10:19:00.731Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 내가 사랑한 YB의 명곡들을 짚어보다! | KBS 방송]]></title>
         <id>https://tv.naver.com/v/34078158</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/33661887"/>
         <updated>2023-03-04T12:34:20.080Z</updated>
         <content type="html"><![CDATA[06:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민을 하나로 뭉치게 해준 명곡들, 여섯 번째 키워드 ＜손에 손잡고＞ | KBS 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33661601</id>
-        <link href="https://tv.naver.com/v/33661601"/>
-        <updated>2023-03-04T12:34:20.083Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김원효X김태원X임재백X김원훈X조진세 - 행복을 주는 사람 | KBS 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33661600</id>
-        <link href="https://tv.naver.com/v/33661600"/>
-        <updated>2023-03-04T12:34:20.085Z</updated>
-        <content type="html"><![CDATA[07:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그때의 감동을 함께할 특별한 손님! 코리아나 이애숙이 들려주는 그날의 분위기 | KBS 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33661574</id>
-        <link href="https://tv.naver.com/v/33661574"/>
-        <updated>2023-03-04T12:34:20.087Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
