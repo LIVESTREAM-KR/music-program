@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-03-19T07:16:21.964Z</updated>
+    <updated>2023-03-19T08:21:50.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온유(ONEW) - O(Circle) | SBS 230319 방송]]></title>
+        <id>https://tv.naver.com/v/34118071</id>
+        <link href="https://tv.naver.com/v/34118071"/>
+        <updated>2023-03-19T08:21:15.326Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온유(ONEW) - 우중산책(Rain On Me) | SBS 230319 방송]]></title>
+        <id>https://tv.naver.com/v/34117980</id>
+        <link href="https://tv.naver.com/v/34117980"/>
+        <updated>2023-03-19T08:21:15.332Z</updated>
+        <content type="html"><![CDATA[02:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KAI(카이) - Rover | SBS 230319 방송]]></title>
+        <id>https://tv.naver.com/v/34117874</id>
+        <link href="https://tv.naver.com/v/34117874"/>
+        <updated>2023-03-19T08:21:15.333Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWICE(트와이스) - SET ME FREE | SBS 230319 방송]]></title>
+        <id>https://tv.naver.com/v/34117873</id>
+        <link href="https://tv.naver.com/v/34117873"/>
+        <updated>2023-03-19T08:21:15.334Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니콜 - Mysterious | SBS 230319 방송]]></title>
+        <id>https://tv.naver.com/v/34117657</id>
+        <link href="https://tv.naver.com/v/34117657"/>
+        <updated>2023-03-19T08:21:15.345Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSG워너비(가야G) - 결국엔 너에게 닿아서 | SBS 230319 방송]]></title>
+        <id>https://tv.naver.com/v/34117653</id>
+        <link href="https://tv.naver.com/v/34117653"/>
+        <updated>2023-03-19T08:21:15.345Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y(골든차일드) - 바람이라면 | SBS 230319 방송]]></title>
+        <id>https://tv.naver.com/v/34117544</id>
+        <link href="https://tv.naver.com/v/34117544"/>
+        <updated>2023-03-19T08:21:15.352Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유주 - Without U | SBS 230319 방송]]></title>
+        <id>https://tv.naver.com/v/34117330</id>
+        <link href="https://tv.naver.com/v/34117330"/>
+        <updated>2023-03-19T08:21:15.353Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[체리블렛(Cherry Bullet) - P.O.W!(Play On the World) | SBS 230319 방송]]></title>
+        <id>https://tv.naver.com/v/34117240</id>
+        <link href="https://tv.naver.com/v/34117240"/>
+        <updated>2023-03-19T08:21:15.354Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRAVITY - Groovy | SBS 230319 방송]]></title>
         <id>https://tv.naver.com/v/34117170</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/33676018"/>
         <updated>2023-03-05T07:16:33.174Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnlyOneOf(온리원오브) - seOul drift | SBS 230305 방송]]></title>
-        <id>https://tv.naver.com/v/33675999</id>
-        <link href="https://tv.naver.com/v/33675999"/>
-        <updated>2023-03-05T07:16:33.174Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - Honestly | SBS 230305 방송]]></title>
-        <id>https://tv.naver.com/v/33675998</id>
-        <link href="https://tv.naver.com/v/33675998"/>
-        <updated>2023-03-05T07:16:33.174Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) - Awake | SBS 230226 방송]]></title>
-        <id>https://tv.naver.com/v/33481260</id>
-        <link href="https://tv.naver.com/v/33481260"/>
-        <updated>2023-02-26T09:17:56.333Z</updated>
-        <content type="html"><![CDATA[02:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) - ROAR | SBS 230226 방송]]></title>
-        <id>https://tv.naver.com/v/33480600</id>
-        <link href="https://tv.naver.com/v/33480600"/>
-        <updated>2023-02-26T08:22:44.006Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC - Teddy Bear | SBS 230226 방송]]></title>
-        <id>https://tv.naver.com/v/33480497</id>
-        <link href="https://tv.naver.com/v/33480497"/>
-        <updated>2023-02-26T08:22:44.006Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNX - Love or Die | SBS 230226 방송]]></title>
-        <id>https://tv.naver.com/v/33480380</id>
-        <link href="https://tv.naver.com/v/33480380"/>
-        <updated>2023-02-26T08:22:44.006Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | SBS 230226 방송]]></title>
-        <id>https://tv.naver.com/v/33480261</id>
-        <link href="https://tv.naver.com/v/33480261"/>
-        <updated>2023-02-26T08:22:44.006Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Intro : Save Me | SBS 230226 방송]]></title>
-        <id>https://tv.naver.com/v/33480174</id>
-        <link href="https://tv.naver.com/v/33480174"/>
-        <updated>2023-02-26T08:22:44.006Z</updated>
-        <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비(TRI.BE) - WE ARE YOUNG | SBS 230226 방송]]></title>
-        <id>https://tv.naver.com/v/33480147</id>
-        <link href="https://tv.naver.com/v/33480147"/>
-        <updated>2023-02-26T08:22:44.006Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
