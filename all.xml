@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-19T06:23:58.677Z</updated>
+    <updated>2023-03-19T07:16:21.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SET ME FREE - TWICE(트와이스) | KBS 230317 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,55 @@
         <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CRAVITY - Groovy | SBS 230319 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34117170</id>
+        <link href="https://tv.naver.com/v/34117170"/>
+        <updated>2023-03-19T07:15:47.747Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[울랄라세션 - ON MY WAY | SBS 230319 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34117140</id>
+        <link href="https://tv.naver.com/v/34117140"/>
+        <updated>2023-03-19T07:15:47.747Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAN - Fix YOU | SBS 230319 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34117006</id>
+        <link href="https://tv.naver.com/v/34117006"/>
+        <updated>2023-03-19T07:15:47.783Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OnlyOneOf(온리원오브) - seOul drift | SBS 230319 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34116840</id>
+        <link href="https://tv.naver.com/v/34116840"/>
+        <updated>2023-03-19T07:15:47.792Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | SBS 230319 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34116677</id>
+        <link href="https://tv.naver.com/v/34116677"/>
+        <updated>2023-03-19T07:15:47.792Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAWW(하우) - How Are You | SBS 230319 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34116524</id>
+        <link href="https://tv.naver.com/v/34116524"/>
+        <updated>2023-03-19T07:15:47.792Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강소리 - 꽃다워 | SBS 230319 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34116523</id>
+        <link href="https://tv.naver.com/v/34116523"/>
+        <updated>2023-03-19T07:15:47.792Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[황민현 - Hidden Side | SBS 230305 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/33677204</id>
         <link href="https://tv.naver.com/v/33677204"/>
@@ -584,55 +633,6 @@
         <link href="https://tv.naver.com/v/33480147"/>
         <updated>2023-02-26T08:22:44.006Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - Honestly | SBS 230226 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33480046</id>
-        <link href="https://tv.naver.com/v/33480046"/>
-        <updated>2023-02-26T08:22:44.016Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남동현(Nam Dong Hyun) - Drivers License  | SBS 230226 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33479842</id>
-        <link href="https://tv.naver.com/v/33479842"/>
-        <updated>2023-02-26T08:22:44.017Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFTY FIFTY - Cupid | SBS 230226 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33479735</id>
-        <link href="https://tv.naver.com/v/33479735"/>
-        <updated>2023-02-26T08:22:44.019Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원 - 풍등 | SBS 230226 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33479734</id>
-        <link href="https://tv.naver.com/v/33479734"/>
-        <updated>2023-02-26T08:22:44.019Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - TIC TAC | SBS 230226 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33479648</id>
-        <link href="https://tv.naver.com/v/33479648"/>
-        <updated>2023-02-26T08:22:44.021Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송민경 - 큰거온다 | SBS 230226 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33479554</id>
-        <link href="https://tv.naver.com/v/33479554"/>
-        <updated>2023-02-26T07:16:19.313Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS(트리플에스) - Rising | SBS 230226 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33479438</id>
-        <link href="https://tv.naver.com/v/33479438"/>
-        <updated>2023-02-26T07:16:19.316Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CRAVITY - Groovy | Mnet 230316 방송 (엠카운트다운)]]></title>
