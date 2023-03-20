@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-20T02:44:53.921Z</updated>
+    <updated>2023-03-20T03:19:32.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SET ME FREE - TWICE(트와이스) | KBS 230317 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[02:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWICE TZUYU - SET ME FREE(트와이스 쯔위 - 셋 미 프리) Close-up Cam | Show! MusicCore | MBC230318방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34137145</id>
+        <link href="https://tv.naver.com/v/34137145"/>
+        <updated>2023-03-20T03:18:49.898Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWICE NAYEON - SET ME FREE(트와이스 나연 - 셋 미 프리) Close-up Cam | Show! MusicCore | MBC230318방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34137144</id>
+        <link href="https://tv.naver.com/v/34137144"/>
+        <updated>2023-03-20T03:18:49.898Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] TWICE JEONGYEON – SET ME FREE(트와이스 정연 - 셋 미 프리) FanCam | Show! MusicCore | MBC230318방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34099624</id>
         <link href="https://tv.naver.com/v/34099624"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/34099126"/>
         <updated>2023-03-18T09:16:35.193Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WSG WANNABE (가야G) HYNN – To You(WSG워너비 흰 - 결국엔 너에게 닿아서) FanCam | Show! MusicCore|MBC230318방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34099124</id>
-        <link href="https://tv.naver.com/v/34099124"/>
-        <updated>2023-03-18T09:16:35.195Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WSG WANNABE (GAYA-G) - To You(WSG워너비 (가야G) – 결국엔 너에게 닿아서) FanCam|Show! MusicCore|MBC230318방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34099123</id>
-        <link href="https://tv.naver.com/v/34099123"/>
-        <updated>2023-03-18T09:16:35.196Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온유(ONEW) - O(Circle) | SBS 230319 방송 (인기가요)]]></title>
