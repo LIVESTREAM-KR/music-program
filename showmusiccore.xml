@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-20T06:24:15.022Z</updated>
+    <updated>2023-03-20T07:18:51.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VIVIZ SINB – PULL UP(비비지 신비 - 풀업) FanCam | Show! MusicCore | MBC230204방송]]></title>
+        <id>https://tv.naver.com/v/34147610</id>
+        <link href="https://tv.naver.com/v/34147610"/>
+        <updated>2023-03-20T07:18:09.493Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] KAI - Rover(카이 - 로버) Close-up Cam | Show! MusicCore | MBC230318방송]]></title>
+        <id>https://tv.naver.com/v/34145994</id>
+        <link href="https://tv.naver.com/v/34145994"/>
+        <updated>2023-03-20T07:18:09.502Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TWICE TZUYU - SET ME FREE(트와이스 쯔위 - 셋 미 프리) Close-up Cam | Show! MusicCore | MBC230318방송]]></title>
         <id>https://tv.naver.com/v/34137145</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34099128"/>
         <updated>2023-03-18T09:16:35.189Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WSG WANNABE (가야G) Lee BoRam–To You(WSG워너비 이보람-결국엔 너에게 닿아서)FanCam|Show! MusicCore|MBC230318방]]></title>
-        <id>https://tv.naver.com/v/34099127</id>
-        <link href="https://tv.naver.com/v/34099127"/>
-        <updated>2023-03-18T09:16:35.192Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WSG WANNABE (가야G) Soyeon – To You(WSG워너비 소연 - 결국엔 너에게 닿아서)FanCam|Show! MusicCore|MBC230318방]]></title>
-        <id>https://tv.naver.com/v/34099126</id>
-        <link href="https://tv.naver.com/v/34099126"/>
-        <updated>2023-03-18T09:16:35.193Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
