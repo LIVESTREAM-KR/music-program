@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-03-21T10:19:38.663Z</updated>
+    <updated>2023-03-21T11:14:55.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MINHO, Chase (민호, 놓아줘) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34194656</id>
+        <link href="https://tv.naver.com/v/34194656"/>
+        <updated>2023-03-21T11:14:35.815Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MINHO, Runaway (민호, Runaway) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34194531</id>
+        <link href="https://tv.naver.com/v/34194531"/>
+        <updated>2023-03-21T11:14:35.816Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MINHO, Heartbreak (민호, Heartbreak) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34194341</id>
+        <link href="https://tv.naver.com/v/34194341"/>
+        <updated>2023-03-21T11:14:35.817Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM, Hot Sauce (엔시티드림, 맛) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34194334</id>
+        <link href="https://tv.naver.com/v/34194334"/>
+        <updated>2023-03-21T11:14:35.818Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM, Glitch Mode (엔시티드림, 버퍼링) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34194091</id>
+        <link href="https://tv.naver.com/v/34194091"/>
+        <updated>2023-03-21T11:14:35.832Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM, Beatbox (엔시티드림, Beatbox) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34194055</id>
+        <link href="https://tv.naver.com/v/34194055"/>
+        <updated>2023-03-21T11:14:35.832Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM, Candy (엔시티드림, Candy) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34193933</id>
+        <link href="https://tv.naver.com/v/34193933"/>
+        <updated>2023-03-21T11:14:35.832Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iKON, BLING BLING (아이콘, BLING BLING) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34193724</id>
+        <link href="https://tv.naver.com/v/34193724"/>
+        <updated>2023-03-21T11:14:35.833Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iKON, RHYTHM TA (아이콘, 리듬 타) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34193689</id>
+        <link href="https://tv.naver.com/v/34193689"/>
+        <updated>2023-03-21T11:14:35.833Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iKON, LOVE SCENARIO (아이콘, 사랑을 했다) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34193553</id>
+        <link href="https://tv.naver.com/v/34193553"/>
+        <updated>2023-03-21T11:14:35.834Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VIVIZ, BOP BOP! (비비지, BOP BOP!) [THE SHOW 230321]]]></title>
         <id>https://tv.naver.com/v/34193437</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/33970439"/>
         <updated>2023-03-14T11:18:27.220Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 성숙한 보컬들의 조화, 체리블렛 (Cherry Bullet) '겨울 별 (A Winter Star)']]></title>
-        <id>https://tv.naver.com/v/33970307</id>
-        <link href="https://tv.naver.com/v/33970307"/>
-        <updated>2023-03-14T11:18:27.221Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 한계 없는 질주의 다크한 무대, OnlyOneOf 'seOul drift']]></title>
-        <id>https://tv.naver.com/v/33970305</id>
-        <link href="https://tv.naver.com/v/33970305"/>
-        <updated>2023-03-14T11:18:27.222Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 화려함 속에 감춰진 이면을 노래하는, OnlyOneOf 'chrOme arts']]></title>
-        <id>https://tv.naver.com/v/33970095</id>
-        <link href="https://tv.naver.com/v/33970095"/>
-        <updated>2023-03-14T11:18:27.223Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[THE 인생채컷] CRAVITY]]></title>
-        <id>https://tv.naver.com/v/33969829</id>
-        <link href="https://tv.naver.com/v/33969829"/>
-        <updated>2023-03-14T10:23:19.226Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시네마틱한 전개의 퍼포먼스, PIXY(픽시) 'KARMA']]></title>
-        <id>https://tv.naver.com/v/33969799</id>
-        <link href="https://tv.naver.com/v/33969799"/>
-        <updated>2023-03-14T10:23:19.227Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여섯 메신저의 테크노팝, 트라이비(TRI.BE) 'WE ARE YOUNG']]></title>
-        <id>https://tv.naver.com/v/33969680</id>
-        <link href="https://tv.naver.com/v/33969680"/>
-        <updated>2023-03-14T10:23:19.227Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독보적인 발라드 장인, 포스트맨 '안녕 신촌']]></title>
-        <id>https://tv.naver.com/v/33969671</id>
-        <link href="https://tv.naver.com/v/33969671"/>
-        <updated>2023-03-14T10:23:19.231Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웅장한 사운드와 탄탄한 보컬, 울랄라세션 (ULALA SESSION) 'ON MY WAY']]></title>
-        <id>https://tv.naver.com/v/33969557</id>
-        <link href="https://tv.naver.com/v/33969557"/>
-        <updated>2023-03-14T10:23:19.232Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 애절한 강렬 퍼포먼스, TAN 'Fix YOU']]></title>
-        <id>https://tv.naver.com/v/33969443</id>
-        <link href="https://tv.naver.com/v/33969443"/>
-        <updated>2023-03-14T10:23:19.233Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리드미컬한 몽환적 멜로디, 세리 (Serri) 'Spotlight']]></title>
-        <id>https://tv.naver.com/v/33969302</id>
-        <link href="https://tv.naver.com/v/33969302"/>
-        <updated>2023-03-14T10:23:19.235Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
