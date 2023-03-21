@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-21T08:23:24.046Z</updated>
+    <updated>2023-03-21T09:18:40.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SET ME FREE - TWICE(트와이스) | KBS 230317 방송 (뮤직뱅크)]]></title>
@@ -845,6 +845,13 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LIMELIGHT, Honestly (라임라잇, Honestly) [THE SHOW 230321] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/34191288</id>
+        <link href="https://tv.naver.com/v/34191288"/>
+        <updated>2023-03-21T09:18:21.680Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
         <id>https://tv.naver.com/v/33971528</id>
         <link href="https://tv.naver.com/v/33971528"/>
@@ -1046,13 +1053,6 @@
         <link href="https://tv.naver.com/v/33545169"/>
         <updated>2023-02-28T10:21:54.718Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐치한 멜로디와 싱잉랩의 강한 중독성, XG 'left right' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33545166</id>
-        <link href="https://tv.naver.com/v/33545166"/>
-        <updated>2023-02-28T10:21:54.720Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 거센 바람을 불러일으킬 쇼챔 라인업🏴‍☠🌪 (쇼챔피언)]]></title>
