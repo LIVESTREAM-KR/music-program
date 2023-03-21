@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-03-21T09:18:40.364Z</updated>
+    <updated>2023-03-21T10:19:38.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VIVIZ, BOP BOP! (비비지, BOP BOP!) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34193437</id>
+        <link href="https://tv.naver.com/v/34193437"/>
+        <updated>2023-03-21T10:19:16.730Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIVIZ, LOVEADE (비비지, LOVEADE) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34193318</id>
+        <link href="https://tv.naver.com/v/34193318"/>
+        <updated>2023-03-21T10:19:16.731Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIVIZ, PULL UP (비비지, PULL UP) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34193188</id>
+        <link href="https://tv.naver.com/v/34193188"/>
+        <updated>2023-03-21T10:19:16.731Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB6IX, Complicated (에이비식스, Complicated) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34192937</id>
+        <link href="https://tv.naver.com/v/34192937"/>
+        <updated>2023-03-21T10:19:16.739Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB6IX, Sugarcoat (에이비식스, Sugarcoat) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34192916</id>
+        <link href="https://tv.naver.com/v/34192916"/>
+        <updated>2023-03-21T10:19:16.740Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KWON EUN BI, Blue Eyes (권은비, Blue Eyes) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34192760</id>
+        <link href="https://tv.naver.com/v/34192760"/>
+        <updated>2023-03-21T10:19:16.740Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KWON EUN BI, Door (권은비, Door) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34192585</id>
+        <link href="https://tv.naver.com/v/34192585"/>
+        <updated>2023-03-21T10:19:16.741Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KWON EUN BI, Underwater (권은비, Underwater) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34192441</id>
+        <link href="https://tv.naver.com/v/34192441"/>
+        <updated>2023-03-21T10:19:16.742Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVERGLOW, DUN DUN (에버글로우, DUN DUN) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34192301</id>
+        <link href="https://tv.naver.com/v/34192301"/>
+        <updated>2023-03-21T10:19:16.745Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVERGLOW, LA DI DA (에버글로우, LA DI DA) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34192103</id>
+        <link href="https://tv.naver.com/v/34192103"/>
+        <updated>2023-03-21T10:19:16.746Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVERGLOW, Pirate (에버글로우, Pirate) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34191945</id>
+        <link href="https://tv.naver.com/v/34191945"/>
+        <updated>2023-03-21T10:19:16.747Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIPPIN, The One (드리핀, The One) [THE SHOW 230321]]]></title>
+        <id>https://tv.naver.com/v/34191698</id>
+        <link href="https://tv.naver.com/v/34191698"/>
+        <updated>2023-03-21T10:19:16.750Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LIMELIGHT, Honestly (라임라잇, Honestly) [THE SHOW 230321]]]></title>
         <id>https://tv.naver.com/v/34191288</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/33969302"/>
         <updated>2023-03-14T10:23:19.235Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년들의 거침없는 패기, 8TURN(에잇턴) 'WE']]></title>
-        <id>https://tv.naver.com/v/33969166</id>
-        <link href="https://tv.naver.com/v/33969166"/>
-        <updated>2023-03-14T10:23:19.239Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가슴 절절한 감성 보이스, 임사랑 '너랑 친구도 하기 싫어']]></title>
-        <id>https://tv.naver.com/v/33969165</id>
-        <link href="https://tv.naver.com/v/33969165"/>
-        <updated>2023-03-14T10:23:19.240Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상을 치유하는 일곱 소년, HAWW(하우) 'How Are You']]></title>
-        <id>https://tv.naver.com/v/33968541</id>
-        <link href="https://tv.naver.com/v/33968541"/>
-        <updated>2023-03-14T10:23:19.241Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상큼 에너지 double! 틴프레시, STAYC (스테이씨) 'Teddy Bear']]></title>
-        <id>https://tv.naver.com/v/33545989</id>
-        <link href="https://tv.naver.com/v/33545989"/>
-        <updated>2023-02-28T11:16:40.917Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/33545987</id>
-        <link href="https://tv.naver.com/v/33545987"/>
-        <updated>2023-02-28T11:16:40.917Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback]성숙한 감정과 섬세한 강세를 표현한 이야기, 이찬원 '풍등']]></title>
-        <id>https://tv.naver.com/v/33545852</id>
-        <link href="https://tv.naver.com/v/33545852"/>
-        <updated>2023-02-28T11:16:40.917Z</updated>
-        <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽환마녀 퍼포먼스 장인 , 퍼플키스(PURPLE KISS) 'Sweet Juice']]></title>
-        <id>https://tv.naver.com/v/33545526</id>
-        <link href="https://tv.naver.com/v/33545526"/>
-        <updated>2023-02-28T11:16:40.920Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔직   발칙한 매력을 담은, 트라이비(TRI.BE) 'WE ARE YOUNG']]></title>
-        <id>https://tv.naver.com/v/33545403</id>
-        <link href="https://tv.naver.com/v/33545403"/>
-        <updated>2023-02-28T11:16:40.922Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨겁고 아픈 사랑의 10대 청춘 감성, TNX 'Love or Die']]></title>
-        <id>https://tv.naver.com/v/33545323</id>
-        <link href="https://tv.naver.com/v/33545323"/>
-        <updated>2023-02-28T11:16:40.923Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천연색이 퍼지듯 스트레이트한 댄스 팝 tripleS 'Colorful']]></title>
-        <id>https://tv.naver.com/v/33545298</id>
-        <link href="https://tv.naver.com/v/33545298"/>
-        <updated>2023-02-28T11:16:40.925Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[THE 미니웨이] tripleS]]></title>
-        <id>https://tv.naver.com/v/33545170</id>
-        <link href="https://tv.naver.com/v/33545170"/>
-        <updated>2023-02-28T10:21:54.717Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이틴 그 자체! 소녀들의 사랑고백, LIMELIGHT(라임라잇) 'Honestly']]></title>
-        <id>https://tv.naver.com/v/33545169</id>
-        <link href="https://tv.naver.com/v/33545169"/>
-        <updated>2023-02-28T10:21:54.718Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
