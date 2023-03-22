@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-03-22T10:18:57.818Z</updated>
+    <updated>2023-03-22T11:15:07.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] Nicole - Mysterious (니콜 - 미스테리어스)]]></title>
+        <id>https://tv.naver.com/v/34231609</id>
+        <link href="https://tv.naver.com/v/34231609"/>
+        <updated>2023-03-22T11:14:54.221Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] YUJU - Without U (유주 - 위드아웃 유)]]></title>
+        <id>https://tv.naver.com/v/34231604</id>
+        <link href="https://tv.naver.com/v/34231604"/>
+        <updated>2023-03-22T11:14:54.230Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] TEMPEST - Young & Wild (템페스트 - 영 앤 와일드)]]></title>
+        <id>https://tv.naver.com/v/34231304</id>
+        <link href="https://tv.naver.com/v/34231304"/>
+        <updated>2023-03-22T11:14:54.232Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YUJU - Peach Blossom (Feat.sokodomo) (유주 - 복숭아꽃 (Feat.sokodomo))]]></title>
+        <id>https://tv.naver.com/v/34231278</id>
+        <link href="https://tv.naver.com/v/34231278"/>
+        <updated>2023-03-22T11:14:54.234Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] TEMPEST 제 3장 ＂희망＂ 함께 해 이끝엔 더 높은 곳을 밝게 비출게]]></title>
+        <id>https://tv.naver.com/v/34231093</id>
+        <link href="https://tv.naver.com/v/34231093"/>
+        <updated>2023-03-22T11:14:54.234Z</updated>
+        <content type="html"><![CDATA[05:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] Cherry Bullet - P.O.W! (Play On the World) (체리블렛 - 파우)]]></title>
         <id>https://tv.naver.com/v/34230939</id>
@@ -24,7 +59,7 @@
         <id>https://tv.naver.com/v/34230429</id>
         <link href="https://tv.naver.com/v/34230429"/>
         <updated>2023-03-22T10:18:43.226Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
+        <content type="html"><![CDATA[03:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OnlyOneOf - seOul drift (온리원오브 - 서울 드리프트)]]></title>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/34006069"/>
         <updated>2023-03-15T10:20:23.539Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ②행복] ASTRO - Baby (아스트로 - 베이비)]]></title>
-        <id>https://tv.naver.com/v/34005835</id>
-        <link href="https://tv.naver.com/v/34005835"/>
-        <updated>2023-03-15T10:20:23.540Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ②행복] Billlie - GingaMingaYo (the strange world) (빌리 - 긴가민가요)]]></title>
-        <id>https://tv.naver.com/v/34005831</id>
-        <link href="https://tv.naver.com/v/34005831"/>
-        <updated>2023-03-15T10:20:23.540Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ②행복] Red Velvet - Rookie (레드벨벳 - 루키) l Show Champion l EP.467]]></title>
-        <id>https://tv.naver.com/v/34005801</id>
-        <link href="https://tv.naver.com/v/34005801"/>
-        <updated>2023-03-15T10:20:23.542Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ①공감] ENHYPEN - Go Big or Go Home (엔하이픈 - 모 아니면 도)]]></title>
-        <id>https://tv.naver.com/v/34005797</id>
-        <link href="https://tv.naver.com/v/34005797"/>
-        <updated>2023-03-15T10:20:23.542Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ①공감]  STAYC - STEREOTYPE (스테이씨 - 색안경)]]></title>
-        <id>https://tv.naver.com/v/34005520</id>
-        <link href="https://tv.naver.com/v/34005520"/>
-        <updated>2023-03-15T10:20:23.543Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
