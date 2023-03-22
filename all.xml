@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-22T06:22:32.138Z</updated>
+    <updated>2023-03-22T07:16:45.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SET ME FREE - TWICE(트와이스) | KBS 230317 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] STAYC – Teddy Bear(스테이씨 - 테디베어)  | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34147585</id>
+        <link href="https://tv.naver.com/v/34147585"/>
+        <updated>2023-03-22T07:15:59.849Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 리노(민호) , 3월 셋째 주 음악중심 MC 컷 모음!, MBC 230318 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34151704</id>
         <link href="https://tv.naver.com/v/34151704"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/34099130"/>
         <updated>2023-03-18T09:16:35.186Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY SEONGMIN – Groovy(크래비티 성민 - 그루비) FanCam | Show! MusicCore | MBC230318방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34099129</id>
-        <link href="https://tv.naver.com/v/34099129"/>
-        <updated>2023-03-18T09:16:35.188Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온유(ONEW) - O(Circle) | SBS 230319 방송 (인기가요)]]></title>
