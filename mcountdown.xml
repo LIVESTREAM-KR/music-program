@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-03-23T11:15:27.849Z</updated>
+    <updated>2023-03-23T12:35:44.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | Mnet 230323 방송]]></title>
+        <id>https://tv.naver.com/v/34273923</id>
+        <link href="https://tv.naver.com/v/34273923"/>
+        <updated>2023-03-23T12:35:19.531Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAI(카이) - Rover | Mnet 230323 방송]]></title>
         <id>https://tv.naver.com/v/34270980</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34045612"/>
         <updated>2023-03-16T11:16:10.604Z</updated>
         <content type="html"><![CDATA[01:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울랄라세션(ULALA SESSION) - ON MY WAY | Mnet 230316 방송]]></title>
-        <id>https://tv.naver.com/v/34045442</id>
-        <link href="https://tv.naver.com/v/34045442"/>
-        <updated>2023-03-16T11:16:10.605Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
