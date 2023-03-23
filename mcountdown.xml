@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-03-23T12:35:44.155Z</updated>
+    <updated>2023-03-23T13:28:03.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | Mnet 230323 방송]]></title>
-        <id>https://tv.naver.com/v/34273923</id>
-        <link href="https://tv.naver.com/v/34273923"/>
-        <updated>2023-03-23T12:35:19.531Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[KAI(카이) - Rover | Mnet 230323 방송]]></title>
         <id>https://tv.naver.com/v/34270980</id>
@@ -116,6 +109,13 @@
         <link href="https://tv.naver.com/v/34268983"/>
         <updated>2023-03-23T10:19:40.209Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | Mnet 230323 방송]]></title>
+        <id>https://tv.naver.com/v/34273923</id>
+        <link href="https://tv.naver.com/v/34273923"/>
+        <updated>2023-03-23T12:35:19.531Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['SPOILER M' 마마무+ (MAMAMOO+) | Mnet 230323 방송]]></title>
