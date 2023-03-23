@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-03-23T09:18:16.216Z</updated>
+    <updated>2023-03-23T10:20:07.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] Nicole - Mysterious (니콜 - 미스테리어스) | Show Champion | EP.468]]></title>
+        <id>https://tv.naver.com/v/34251414</id>
+        <link href="https://tv.naver.com/v/34251414"/>
+        <updated>2023-03-23T10:19:53.616Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] YUJU - Peach Blossom (Feat. sokodomo) (유주-복숭아꽃 (Feat. sokodomo)) | Show Champion | EP.468]]></title>
+        <id>https://tv.naver.com/v/34251244</id>
+        <link href="https://tv.naver.com/v/34251244"/>
+        <updated>2023-03-23T10:19:53.618Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Cherry Bullet YUJU - P.O.W! (Play On the World) (체리블렛 유주 - 파우) | Show Champion | EP.468]]></title>
         <id>https://tv.naver.com/v/34229297</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34230598"/>
         <updated>2023-03-22T10:18:43.224Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK DIARY] 3월 29일 쇼챔에서 최.초.공.개💖 Billlie의 스포가 궁금하다면?]]></title>
-        <id>https://tv.naver.com/v/34230429</id>
-        <link href="https://tv.naver.com/v/34230429"/>
-        <updated>2023-03-22T10:18:43.226Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnlyOneOf - seOul drift (온리원오브 - 서울 드리프트)]]></title>
-        <id>https://tv.naver.com/v/34230295</id>
-        <link href="https://tv.naver.com/v/34230295"/>
-        <updated>2023-03-22T10:18:43.227Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>

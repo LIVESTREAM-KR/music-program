@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-03-23T09:18:16.210Z</updated>
+    <updated>2023-03-23T10:20:07.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' KINGDOM (킹덤) - 혼 (魂; Dystopia) | Mnet 230323 방송]]></title>
+        <id>https://tv.naver.com/v/34269337</id>
+        <link href="https://tv.naver.com/v/34269337"/>
+        <updated>2023-03-23T10:19:40.198Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로드 투 엠카운트다운 STAGE' Lapillus - GRATATA | Mnet 230323 방송]]></title>
+        <id>https://tv.naver.com/v/34269150</id>
+        <link href="https://tv.naver.com/v/34269150"/>
+        <updated>2023-03-23T10:19:40.207Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with NMIXX (엔믹스) | Mnet 230323 방송]]></title>
+        <id>https://tv.naver.com/v/34268983</id>
+        <link href="https://tv.naver.com/v/34268983"/>
+        <updated>2023-03-23T10:19:40.209Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' 마마무+ (MAMAMOO+) | Mnet 230323 방송]]></title>
+        <id>https://tv.naver.com/v/34268814</id>
+        <link href="https://tv.naver.com/v/34268814"/>
+        <updated>2023-03-23T10:19:40.210Z</updated>
+        <content type="html"><![CDATA[01:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN'(아이칠린) - Alarm | Mnet 230323 방송]]></title>
+        <id>https://tv.naver.com/v/34268809</id>
+        <link href="https://tv.naver.com/v/34268809"/>
+        <updated>2023-03-23T10:19:40.213Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAXY (크랙시) - NUGUDOM | Mnet 230323 방송]]></title>
+        <id>https://tv.naver.com/v/34268483</id>
+        <link href="https://tv.naver.com/v/34268483"/>
+        <updated>2023-03-23T10:19:40.214Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TWICE(트와이스)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/34192306</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/33823343"/>
         <updated>2023-03-09T12:38:03.077Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 유주 - 복숭아꽃 (Feat. sokodomo) | Mnet 230309 방송]]></title>
-        <id>https://tv.naver.com/v/33823164</id>
-        <link href="https://tv.naver.com/v/33823164"/>
-        <updated>2023-03-09T11:17:09.323Z</updated>
-        <content type="html"><![CDATA[02:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' CRAVITY - Groovy | Mnet 230309 방송]]></title>
-        <id>https://tv.naver.com/v/33822865</id>
-        <link href="https://tv.naver.com/v/33822865"/>
-        <updated>2023-03-09T11:17:09.324Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 니콜 - Mysterious | Mnet 230309 방송]]></title>
-        <id>https://tv.naver.com/v/33822858</id>
-        <link href="https://tv.naver.com/v/33822858"/>
-        <updated>2023-03-09T11:17:09.324Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘COMEBACK' 체리블렛 (Cherry Bullet) - P.O.W! (Play On the World) | Mnet 230309 방송]]></title>
-        <id>https://tv.naver.com/v/33822486</id>
-        <link href="https://tv.naver.com/v/33822486"/>
-        <updated>2023-03-09T11:17:09.325Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC(스테이씨) - Teddy Bear | Mnet 230309 방송]]></title>
-        <id>https://tv.naver.com/v/33822483</id>
-        <link href="https://tv.naver.com/v/33822483"/>
-        <updated>2023-03-09T11:17:09.325Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' TO1 - Hug | Mnet 230309 방송]]></title>
-        <id>https://tv.naver.com/v/33821956</id>
-        <link href="https://tv.naver.com/v/33821956"/>
-        <updated>2023-03-09T11:17:09.325Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
     </entry>
 </feed>
