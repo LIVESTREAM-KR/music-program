@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-24T10:19:40.254Z</updated>
+    <updated>2023-03-24T11:15:25.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Rover - KAI | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -73,13 +73,6 @@
         <link href="https://tv.naver.com/v/34304101"/>
         <updated>2023-03-24T09:17:42.061Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drowning (Feat. 가은 of 라임라잇) - BOBBY | KBS 230324 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34304100</id>
-        <link href="https://tv.naver.com/v/34304100"/>
-        <updated>2023-03-24T09:17:42.061Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NEW DAYZ - TRENDZ(트렌드지) | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -213,6 +206,13 @@
         <link href="https://tv.naver.com/v/34076866"/>
         <updated>2023-03-17T09:18:18.554Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너랑 친구도 하기 싫어 - 임사랑 | KBS 230317 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34076876</id>
+        <link href="https://tv.naver.com/v/34076876"/>
+        <updated>2023-03-24T11:14:43.639Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TWICE.zip 📂 Like OOH-AHH(OOH-AHH하게)부터 SET ME FREE까지 | Show! MusicCore (쇼! 음악중심)]]></title>
@@ -1055,6 +1055,83 @@
         <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] YUJU - Peach Blossom (Feat. sokodomo) (유주-복숭아꽃 (Feat. sokodomo)) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34303549</id>
+        <link href="https://tv.naver.com/v/34303549"/>
+        <updated>2023-03-24T11:15:13.453Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HANBIN - Young & Wild (템페스트 한빈 - 영 앤 와일드) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34303548</id>
+        <link href="https://tv.naver.com/v/34303548"/>
+        <updated>2023-03-24T11:15:13.454Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HWARANG - Young & Wild (템페스트 화랑 - 영 앤 와일드) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34303039</id>
+        <link href="https://tv.naver.com/v/34303039"/>
+        <updated>2023-03-24T11:15:13.455Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - Young & Wild (템페스트 형섭 - 영 앤 와일드) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34302452</id>
+        <link href="https://tv.naver.com/v/34302452"/>
+        <updated>2023-03-24T11:15:13.458Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST LEW - Young & Wild (템페스트 루 - 영 앤 와일드) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34301886</id>
+        <link href="https://tv.naver.com/v/34301886"/>
+        <updated>2023-03-24T11:15:13.460Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST - Young & Wild (템페스트 - 영 앤 와일드) l Show Champion l EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34301688</id>
+        <link href="https://tv.naver.com/v/34301688"/>
+        <updated>2023-03-24T11:15:13.461Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST TAERAE - Young & Wild (템페스트 태래 - 영 앤 와일드) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34301520</id>
+        <link href="https://tv.naver.com/v/34301520"/>
+        <updated>2023-03-24T11:15:13.462Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST EUNCHAN - Young & Wild (템페스트 은찬 - 영 앤 와일드) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34301061</id>
+        <link href="https://tv.naver.com/v/34301061"/>
+        <updated>2023-03-24T11:15:13.463Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HYUK - Young & Wild (템페스트 혁 - 영 앤 와일드) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34300894</id>
+        <link href="https://tv.naver.com/v/34300894"/>
+        <updated>2023-03-24T11:15:13.464Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] YUJU - Without U (유주 - 위드아웃 유) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34299320</id>
+        <link href="https://tv.naver.com/v/34299320"/>
+        <updated>2023-03-24T11:15:13.465Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] YUJU - Without U (유주 - 위드아웃 유) | Show Champion | EP.468 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34299317</id>
+        <link href="https://tv.naver.com/v/34299317"/>
+        <updated>2023-03-24T11:15:13.466Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3월 4주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아! 나나, 빌리 문수아&츠키) | Show Champion | EP.468 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/34249590</id>
         <link href="https://tv.naver.com/v/34249590"/>
@@ -1186,83 +1263,6 @@
         <link href="https://tv.naver.com/v/34228910"/>
         <updated>2023-03-24T07:15:39.876Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 거센 바람을 불러일으킬 쇼챔 라인업🏴‍☠🌪 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34145522</id>
-        <link href="https://tv.naver.com/v/34145522"/>
-        <updated>2023-03-24T07:15:39.877Z</updated>
-        <content type="html"><![CDATA[00:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ④성장] IVE - LOVE DIVE (아이브 - 러브 다이브) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34007179</id>
-        <link href="https://tv.naver.com/v/34007179"/>
-        <updated>2023-03-24T07:15:39.879Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ④성장] TWICE - Feel Special (트와이스 - 필 스페셜) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34007023</id>
-        <link href="https://tv.naver.com/v/34007023"/>
-        <updated>2023-03-24T07:15:39.880Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ④성장] BTS - DOPE (방탄소년단 - 쩔어) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34007021</id>
-        <link href="https://tv.naver.com/v/34007021"/>
-        <updated>2023-03-24T07:15:39.882Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ④성장] SEVENTEEN - Mansae (세븐틴 - 만세) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34007019</id>
-        <link href="https://tv.naver.com/v/34007019"/>
-        <updated>2023-03-24T07:15:39.890Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ④성장] (G)I-DLE - TOMBOY ((여자)아이들 - 톰보이) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34006706</id>
-        <link href="https://tv.naver.com/v/34006706"/>
-        <updated>2023-03-24T07:15:39.891Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ③에너지] ONF - Beautiful Beautiful (온앤오프 - 뷰티풀 뷰티풀) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34006537</id>
-        <link href="https://tv.naver.com/v/34006537"/>
-        <updated>2023-03-24T07:15:39.891Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ③에너지] MONSTA X - FANTASIA (몬스타엑스 - 판타지아) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34006536</id>
-        <link href="https://tv.naver.com/v/34006536"/>
-        <updated>2023-03-24T07:15:39.891Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ③에너지] LE SSERAFIM - ANTIFRAGILE (르세라핌 - 안티프래자일) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34006530</id>
-        <link href="https://tv.naver.com/v/34006530"/>
-        <updated>2023-03-24T07:15:39.891Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ③에너지] woo!ah! - Danger (우아! - 단거) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34006257</id>
-        <link href="https://tv.naver.com/v/34006257"/>
-        <updated>2023-03-24T07:15:39.891Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 쇼챔 키워드 ③에너지] Stray Kids - Back Door (스트레이키즈 - 백 도어) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34006082</id>
-        <link href="https://tv.naver.com/v/34006082"/>
-        <updated>2023-03-24T07:15:39.891Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 김유하의 금쪽 상담소 OPEN❤️ 찬원오빠 & 유진언니의 고민을 시원하게 해결😉 | KBS 방송 (불후의 명곡)]]></title>
