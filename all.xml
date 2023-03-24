@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-24T09:18:28.568Z</updated>
+    <updated>2023-03-24T10:19:40.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Rover - KAI | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34305419</id>
+        <link href="https://tv.naver.com/v/34305419"/>
+        <updated>2023-03-24T10:18:47.076Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄바람 - 김재환 | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304972</id>
+        <link href="https://tv.naver.com/v/34304972"/>
+        <updated>2023-03-24T10:18:47.076Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P.O.W! (Play On the World) - 체리블렛 (Cherry Bullet) | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304970</id>
+        <link href="https://tv.naver.com/v/34304970"/>
+        <updated>2023-03-24T10:18:47.076Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groovy - CRAVITY | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304967</id>
+        <link href="https://tv.naver.com/v/34304967"/>
+        <updated>2023-03-24T10:18:47.080Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FEEL IT - 장우혁 | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304648</id>
+        <link href="https://tv.naver.com/v/34304648"/>
+        <updated>2023-03-24T10:18:47.081Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Me Like This - NMIXX(엔믹스) | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304645</id>
+        <link href="https://tv.naver.com/v/34304645"/>
+        <updated>2023-03-24T10:18:47.081Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young, Dumb, Stupid - NMIXX(엔믹스) | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304442</id>
+        <link href="https://tv.naver.com/v/34304442"/>
+        <updated>2023-03-24T10:18:47.081Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mysterious - 니콜 | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304440</id>
+        <link href="https://tv.naver.com/v/34304440"/>
+        <updated>2023-03-24T10:18:47.081Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alarm - ICHILLIN’(아이칠린) | KBS 230324 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/34304106</id>
@@ -38,13 +94,6 @@
         <link href="https://tv.naver.com/v/34303374"/>
         <updated>2023-03-24T09:17:42.062Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34303370</id>
-        <link href="https://tv.naver.com/v/34303370"/>
-        <updated>2023-03-24T09:17:42.062Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wanna Be Love - HAWW | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -164,55 +213,6 @@
         <link href="https://tv.naver.com/v/34076866"/>
         <updated>2023-03-17T09:18:18.554Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너랑 친구도 하기 싫어 - 임사랑 | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34076876</id>
-        <link href="https://tv.naver.com/v/34076876"/>
-        <updated>2023-03-17T09:18:18.554Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROAR - 더보이즈(THE BOYZ) | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33635852</id>
-        <link href="https://tv.naver.com/v/33635852"/>
-        <updated>2023-03-03T10:20:41.805Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teddy Bear - STAYC | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33635745</id>
-        <link href="https://tv.naver.com/v/33635745"/>
-        <updated>2023-03-03T10:20:41.819Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poppy (Korean Ver.) - STAYC | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33635740</id>
-        <link href="https://tv.naver.com/v/33635740"/>
-        <updated>2023-03-03T10:20:41.819Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hidden Side - 황민현 | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33635645</id>
-        <link href="https://tv.naver.com/v/33635645"/>
-        <updated>2023-03-03T10:20:41.819Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honest - 황민현 | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33635506</id>
-        <link href="https://tv.naver.com/v/33635506"/>
-        <updated>2023-03-03T10:20:41.825Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Tier - 박우진(AB6IX) | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33635223</id>
-        <link href="https://tv.naver.com/v/33635223"/>
-        <updated>2023-03-03T10:20:41.825Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TWICE.zip 📂 Like OOH-AHH(OOH-AHH하게)부터 SET ME FREE까지 | Show! MusicCore (쇼! 음악중심)]]></title>
