@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-24T08:21:26.546Z</updated>
+    <updated>2023-03-24T09:18:28.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Alarm - ICHILLIN’(아이칠린) | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304106</id>
+        <link href="https://tv.naver.com/v/34304106"/>
+        <updated>2023-03-24T09:17:42.061Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NUGUDOM - CRAXY (크랙시) | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304101</id>
+        <link href="https://tv.naver.com/v/34304101"/>
+        <updated>2023-03-24T09:17:42.061Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drowning (Feat. 가은 of 라임라잇) - BOBBY | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304100</id>
+        <link href="https://tv.naver.com/v/34304100"/>
+        <updated>2023-03-24T09:17:42.061Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW DAYZ - TRENDZ(트렌드지) | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34304098</id>
+        <link href="https://tv.naver.com/v/34304098"/>
+        <updated>2023-03-24T09:17:42.062Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix YOU - TAN | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34303374</id>
+        <link href="https://tv.naver.com/v/34303374"/>
+        <updated>2023-03-24T09:17:42.062Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34303370</id>
+        <link href="https://tv.naver.com/v/34303370"/>
+        <updated>2023-03-24T09:17:42.062Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wanna Be Love - HAWW | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34302822</id>
+        <link href="https://tv.naver.com/v/34302822"/>
+        <updated>2023-03-24T09:17:42.083Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ON MY WAY - 울랄라세션(ULALA SESSION) | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34302812</id>
+        <link href="https://tv.naver.com/v/34302812"/>
+        <updated>2023-03-24T09:17:42.085Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SET ME FREE - TWICE(트와이스) | KBS 230317 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/34078872</id>
@@ -159,66 +215,10 @@
         <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[seOul drift - OnlyOneOf(온리원오브) | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33635221</id>
-        <link href="https://tv.naver.com/v/33635221"/>
-        <updated>2023-03-03T10:20:41.842Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WE ARE YOUNG - 트라이비(TRI.BE) | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33634890</id>
-        <link href="https://tv.naver.com/v/33634890"/>
-        <updated>2023-03-03T09:19:13.359Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet Juice - 퍼플키스(PURPLE KISS) | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33634887</id>
-        <link href="https://tv.naver.com/v/33634887"/>
-        <updated>2023-03-03T09:19:13.367Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cupid - FIFTY FIFTY(피프티 피프티) | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33634722</id>
-        <link href="https://tv.naver.com/v/33634722"/>
-        <updated>2023-03-03T09:19:13.367Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love or Die - TNX | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33634713</id>
-        <link href="https://tv.naver.com/v/33634713"/>
-        <updated>2023-03-03T09:19:13.367Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honestly - LIMELIGHT(라임라잇) | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33634710</id>
-        <link href="https://tv.naver.com/v/33634710"/>
-        <updated>2023-03-03T09:19:13.367Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WE - 8TURN(에잇턴) | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33634432</id>
-        <link href="https://tv.naver.com/v/33634432"/>
-        <updated>2023-03-03T09:19:13.367Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rising - tripleS | KBS 230303 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/33634293</id>
-        <link href="https://tv.naver.com/v/33634293"/>
-        <updated>2023-03-03T09:19:13.367Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] TWICE.zip 📂 Like OOH-AHH(OOH-AHH하게)부터 SET ME FREE까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34221435</id>
         <link href="https://tv.naver.com/v/34221435"/>
-        <updated>2023-03-24T08:20:43.248Z</updated>
+        <updated>2023-03-24T09:17:48.613Z</updated>
         <content type="html"><![CDATA[01:09:20]]></content>
     </entry>
     <entry>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 김유하의 금쪽 상담소 OPEN❤️ 찬원오빠 & 유진언니의 고민을 시원하게 해결😉 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34303598</id>
+        <link href="https://tv.naver.com/v/34303598"/>
+        <updated>2023-03-24T09:18:21.394Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 598회 〈아티스트 YB 2편〉 우승자 ⭐강승윤⭐ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/34102325</id>
         <link href="https://tv.naver.com/v/34102325"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/33879642"/>
         <updated>2023-03-11T12:32:02.159Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 597회 〈아티스트 YB 1편〉 우승자 ⭐김재환⭐ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/33879551</id>
-        <link href="https://tv.naver.com/v/33879551"/>
-        <updated>2023-03-11T12:32:02.166Z</updated>
-        <content type="html"><![CDATA[01:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[＜모두의 마음을 훔칠 최고의 사랑꾼은?＞ 복면가왕 397회 예고, MBC 230326 방송 (복면가왕)]]></title>

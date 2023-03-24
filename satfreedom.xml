@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-03-24T08:21:26.523Z</updated>
+    <updated>2023-03-24T09:18:28.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 김유하의 금쪽 상담소 OPEN❤️ 찬원오빠 & 유진언니의 고민을 시원하게 해결😉 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/34303598</id>
+        <link href="https://tv.naver.com/v/34303598"/>
+        <updated>2023-03-24T09:18:21.394Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 598회 〈아티스트 YB 2편〉 우승자 ⭐강승윤⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/34102325</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33879642"/>
         <updated>2023-03-11T12:32:02.159Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 597회 〈아티스트 YB 1편〉 우승자 ⭐김재환⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/33879551</id>
-        <link href="https://tv.naver.com/v/33879551"/>
-        <updated>2023-03-11T12:32:02.166Z</updated>
-        <content type="html"><![CDATA[01:14]]></content>
     </entry>
 </feed>
