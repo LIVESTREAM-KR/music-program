@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-24T16:24:38.672Z</updated>
+    <updated>2023-03-24T17:16:52.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34315348</id>
+        <link href="https://tv.naver.com/v/34315348"/>
+        <updated>2023-03-24T17:16:09.164Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drowning (Feat. 가은 of 라임라잇) - BOBBY | KBS 230324 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/34315308</id>
+        <link href="https://tv.naver.com/v/34315308"/>
+        <updated>2023-03-24T17:16:09.164Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rover - KAI | KBS 230324 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/34305419</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/34076868"/>
         <updated>2023-03-17T09:18:18.554Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KARMA - PIXY (픽시) | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34076866</id>
-        <link href="https://tv.naver.com/v/34076866"/>
-        <updated>2023-03-17T09:18:18.554Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너랑 친구도 하기 싫어 - 임사랑 | KBS 230317 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/34076876</id>
-        <link href="https://tv.naver.com/v/34076876"/>
-        <updated>2023-03-24T11:14:43.639Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TWICE.zip 📂 Like OOH-AHH(OOH-AHH하게)부터 SET ME FREE까지 | Show! MusicCore (쇼! 음악중심)]]></title>
