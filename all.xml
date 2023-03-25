@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-25T06:21:17.849Z</updated>
+    <updated>2023-03-25T07:15:39.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아이칠린 - 알람 (ICHILLIN' - Alarm), MBC 230325 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34322857</id>
+        <link href="https://tv.naver.com/v/34322857"/>
+        <updated>2023-03-25T07:14:58.756Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티에이엔 - 픽스 유 (TAN - Fix YOU), MBC 230325 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34322856</id>
+        <link href="https://tv.naver.com/v/34322856"/>
+        <updated>2023-03-25T07:14:58.757Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킹덤 - 혼 (KINGDOM - 魂; Dystopia), MBC 230325 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34322666</id>
+        <link href="https://tv.naver.com/v/34322666"/>
+        <updated>2023-03-25T07:14:58.759Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] TWICE.zip 📂 Like OOH-AHH(OOH-AHH하게)부터 SET ME FREE까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34221435</id>
         <link href="https://tv.naver.com/v/34221435"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/34099288"/>
         <updated>2023-03-18T09:16:35.177Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY JUNGMO – Groovy(크래비티 정모 - 그루비) FanCam | Show! MusicCore | MBC230318방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34099212</id>
-        <link href="https://tv.naver.com/v/34099212"/>
-        <updated>2023-03-18T09:16:35.179Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KAI - Rover(카이 – 로버) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230318방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34099210</id>
-        <link href="https://tv.naver.com/v/34099210"/>
-        <updated>2023-03-18T09:16:35.180Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY HYEONGJUN – Groovy(크래비티 형준 - 그루비) FanCam | Show! MusicCore | MBC230318방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34099136</id>
-        <link href="https://tv.naver.com/v/34099136"/>
-        <updated>2023-03-18T09:16:35.182Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온유(ONEW) - O(Circle) | SBS 230319 방송 (인기가요)]]></title>
