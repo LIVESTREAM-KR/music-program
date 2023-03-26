@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-26T07:15:43.863Z</updated>
+    <updated>2023-03-26T08:20:24.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,83 @@
         <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KAI(카이) - Rover | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34343668</id>
+        <link href="https://tv.naver.com/v/34343668"/>
+        <updated>2023-03-26T08:19:49.840Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - Love Me Like This | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34343570</id>
+        <link href="https://tv.naver.com/v/34343570"/>
+        <updated>2023-03-26T08:19:49.841Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - Young, Dumb, Stupid | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34343378</id>
+        <link href="https://tv.naver.com/v/34343378"/>
+        <updated>2023-03-26T08:19:49.844Z</updated>
+        <content type="html"><![CDATA[02:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장우혁 - FEEL IT | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34343352</id>
+        <link href="https://tv.naver.com/v/34343352"/>
+        <updated>2023-03-26T08:19:49.846Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니콜 - Mysterious | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34343350</id>
+        <link href="https://tv.naver.com/v/34343350"/>
+        <updated>2023-03-26T08:19:49.846Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOBBY - Drowning(feat. 가은of라임라잇) | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34343235</id>
+        <link href="https://tv.naver.com/v/34343235"/>
+        <updated>2023-03-26T08:19:49.848Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재환 - 봄바람 | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34343125</id>
+        <link href="https://tv.naver.com/v/34343125"/>
+        <updated>2023-03-26T08:19:49.849Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[체리블렛(Cherry Bullet) - P.O.W!(Play On the World) | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34342997</id>
+        <link href="https://tv.naver.com/v/34342997"/>
+        <updated>2023-03-26T08:19:49.850Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAXY(크랙시) - NUGUDOM | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34342883</id>
+        <link href="https://tv.naver.com/v/34342883"/>
+        <updated>2023-03-26T08:19:49.852Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - Groovy | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34342882</id>
+        <link href="https://tv.naver.com/v/34342882"/>
+        <updated>2023-03-26T08:19:49.853Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | SBS 230326 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/34342772</id>
+        <link href="https://tv.naver.com/v/34342772"/>
+        <updated>2023-03-26T08:19:49.854Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 230326 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/34342643</id>
         <link href="https://tv.naver.com/v/34342643"/>
@@ -556,83 +633,6 @@
         <link href="https://tv.naver.com/v/34116840"/>
         <updated>2023-03-19T07:15:47.792Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | SBS 230319 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34116677</id>
-        <link href="https://tv.naver.com/v/34116677"/>
-        <updated>2023-03-19T07:15:47.792Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HAWW(하우) - How Are You | SBS 230319 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34116524</id>
-        <link href="https://tv.naver.com/v/34116524"/>
-        <updated>2023-03-19T07:15:47.792Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강소리 - 꽃다워 | SBS 230319 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34116523</id>
-        <link href="https://tv.naver.com/v/34116523"/>
-        <updated>2023-03-19T07:15:47.792Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황민현 - Hidden Side | SBS 230305 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33677204</id>
-        <link href="https://tv.naver.com/v/33677204"/>
-        <updated>2023-03-05T08:22:04.615Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황민현 - Honest | SBS 230305 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33677203</id>
-        <link href="https://tv.naver.com/v/33677203"/>
-        <updated>2023-03-05T08:22:04.616Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예성 - Floral Sense | SBS 230305 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33677014</id>
-        <link href="https://tv.naver.com/v/33677014"/>
-        <updated>2023-03-05T08:22:04.617Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) - ROAR | SBS 230305 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33676921</id>
-        <link href="https://tv.naver.com/v/33676921"/>
-        <updated>2023-03-05T08:22:04.619Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박우진(AB6IX) - Top Tier | SBS 230305 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33676920</id>
-        <link href="https://tv.naver.com/v/33676920"/>
-        <updated>2023-03-05T08:22:04.620Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC - Teddy Bear | SBS 230305 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33676817</id>
-        <link href="https://tv.naver.com/v/33676817"/>
-        <updated>2023-03-05T08:22:04.623Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TNX - Love or Die | SBS 230305 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33676605</id>
-        <link href="https://tv.naver.com/v/33676605"/>
-        <updated>2023-03-05T08:22:04.624Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Sweet Juice | SBS 230305 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/33676579</id>
-        <link href="https://tv.naver.com/v/33676579"/>
-        <updated>2023-03-05T08:22:04.625Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAI(카이) - Rover | Mnet 230323 방송 (엠카운트다운)]]></title>
