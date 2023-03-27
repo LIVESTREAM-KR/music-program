@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-03-27T05:17:20.293Z</updated>
+    <updated>2023-03-27T06:23:35.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 3월 마지막 주에도 쇼챔피언 본.방.사.수!]]></title>
+        <id>https://tv.naver.com/v/34367190</id>
+        <link href="https://tv.naver.com/v/34367190"/>
+        <updated>2023-03-27T06:23:21.435Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Cherry Bullet JIWON - P.O.W! (Play On the World) (체리블렛 지원 - 파우) | Show Champion | EP.468]]></title>
         <id>https://tv.naver.com/v/34304955</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34231278"/>
         <updated>2023-03-22T11:14:54.234Z</updated>
         <content type="html"><![CDATA[02:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 에세이] TEMPEST 제 3장 ＂희망＂ 함께 해 이끝엔 더 높은 곳을 밝게 비출게]]></title>
-        <id>https://tv.naver.com/v/34231093</id>
-        <link href="https://tv.naver.com/v/34231093"/>
-        <updated>2023-03-22T11:14:54.234Z</updated>
-        <content type="html"><![CDATA[05:29]]></content>
     </entry>
 </feed>
