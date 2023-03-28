@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-28T09:19:56.639Z</updated>
+    <updated>2023-03-28T10:21:47.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NMIXX가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34415694</id>
+        <link href="https://tv.naver.com/v/34415694"/>
+        <updated>2023-03-28T10:21:18.492Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KAI(카이) - Rover | Mnet 230323 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/34270980</id>
         <link href="https://tv.naver.com/v/34270980"/>
@@ -838,11 +845,60 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['SPOILER M' NMIXX (엔믹스) | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34045612</id>
-        <link href="https://tv.naver.com/v/34045612"/>
-        <updated>2023-03-16T11:16:10.604Z</updated>
-        <content type="html"><![CDATA[01:27]]></content>
+        <title type="html"><![CDATA[[Comeback] 플래시게임을 모티브로 묘사한, ICHILLIN’(아이칠린) 'Alarm' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/34416956</id>
+        <link href="https://tv.naver.com/v/34416956"/>
+        <updated>2023-03-28T10:21:25.465Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세 남자가 들려주는 묵직한 다짐, 울랄라세션 (ULALA SESSION) 'ON MY WAY' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/34416474</id>
+        <link href="https://tv.naver.com/v/34416474"/>
+        <updated>2023-03-28T10:21:25.465Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청량한 신스베이스 사운드, 세리 (Serri) 'Spotlight' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/34416471</id>
+        <link href="https://tv.naver.com/v/34416471"/>
+        <updated>2023-03-28T10:21:25.466Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 혼돈의 소용돌이를 삼켜버리는, KINGDOM (킹덤) '혼 (魂; Dystopia)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/34416470</id>
+        <link href="https://tv.naver.com/v/34416470"/>
+        <updated>2023-03-28T10:21:25.469Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 꿈의 공간에서의 탈출 스토리, TRENDZ(트렌드지) 'NEW DAYZ' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/34416468</id>
+        <link href="https://tv.naver.com/v/34416468"/>
+        <updated>2023-03-28T10:21:25.470Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파워풀한 퍼포먼스, TAN 'Fix YOU' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/34416156</id>
+        <link href="https://tv.naver.com/v/34416156"/>
+        <updated>2023-03-28T10:21:25.473Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상반된 분위기의 하이브리드 리믹스곡, PIXY (픽시) 'KARMA' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/34416048</id>
+        <link href="https://tv.naver.com/v/34416048"/>
+        <updated>2023-03-28T10:21:25.474Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중독 넘치는 경쾌한 사운드, 아리 'Eyes On Me' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/34416018</id>
+        <link href="https://tv.naver.com/v/34416018"/>
+        <updated>2023-03-28T10:21:25.475Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[INTRO] MC NAEggUZ (더쇼)]]></title>
@@ -997,62 +1053,6 @@
         <link href="https://tv.naver.com/v/34191945"/>
         <updated>2023-03-21T10:19:16.747Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN, The One (드리핀, The One) [THE SHOW 230321] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/34191698</id>
-        <link href="https://tv.naver.com/v/34191698"/>
-        <updated>2023-03-21T10:19:16.750Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIMELIGHT, Honestly (라임라잇, Honestly) [THE SHOW 230321] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/34191288</id>
-        <link href="https://tv.naver.com/v/34191288"/>
-        <updated>2023-03-21T09:18:21.680Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33971528</id>
-        <link href="https://tv.naver.com/v/33971528"/>
-        <updated>2023-03-14T11:18:27.213Z</updated>
-        <content type="html"><![CDATA[08:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOOD-BYE 말카롱 (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33971374</id>
-        <link href="https://tv.naver.com/v/33971374"/>
-        <updated>2023-03-14T11:18:27.214Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 꿈꿔온 이 순간을 영원히! 절정의 자유로움, CRAVITY 'Groovy' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33971244</id>
-        <link href="https://tv.naver.com/v/33971244"/>
-        <updated>2023-03-14T11:18:27.215Z</updated>
-        <content type="html"><![CDATA[04:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 유주만의 색깔이 돋보이는 짙은 컨셉, 유주 'Without U' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33970726</id>
-        <link href="https://tv.naver.com/v/33970726"/>
-        <updated>2023-03-14T11:18:27.216Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 신비로운 사랑의 속삭임, 니콜(Nicole) 'Mysterious' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33970698</id>
-        <link href="https://tv.naver.com/v/33970698"/>
-        <updated>2023-03-14T11:18:27.216Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] ‘단어의 의미'가 아닌 '모양의 의미'를 담은, 유주 '복숭아꽃 (Feat. sokodomo)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/33970554</id>
-        <link href="https://tv.naver.com/v/33970554"/>
-        <updated>2023-03-14T11:18:27.218Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 3월 마지막 주에도 쇼챔피언 본.방.사.수! (쇼챔피언)]]></title>
