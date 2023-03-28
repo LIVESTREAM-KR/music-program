@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-03-28T08:26:06.591Z</updated>
+    <updated>2023-03-28T09:19:56.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[INTRO] MC NAEggUZ]]></title>
+        <id>https://tv.naver.com/v/34415244</id>
+        <link href="https://tv.naver.com/v/34415244"/>
+        <updated>2023-03-28T09:19:35.684Z</updated>
+        <content type="html"><![CDATA[01:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINHO, Chase (민호, 놓아줘) [THE SHOW 230321]]]></title>
         <id>https://tv.naver.com/v/34194656</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33970554"/>
         <updated>2023-03-14T11:18:27.218Z</updated>
         <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 세상을 향한 당찬 런웨이, 체리블렛 (Cherry Bullet) 'P.O.W! (Play On the World)']]></title>
-        <id>https://tv.naver.com/v/33970439</id>
-        <link href="https://tv.naver.com/v/33970439"/>
-        <updated>2023-03-14T11:18:27.220Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
