@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-28T02:37:00.166Z</updated>
+    <updated>2023-03-28T03:19:37.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 , 3월 넷째 주 음악중심 MC 컷 모음!, MBC 230325 방송]]></title>
+        <id>https://tv.naver.com/v/34400097</id>
+        <link href="https://tv.naver.com/v/34400097"/>
+        <updated>2023-03-28T03:18:50.511Z</updated>
+        <content type="html"><![CDATA[12:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON-Love Me Like This(엔믹스 설윤-러브 미 라이크 디스) Close-upCam|Show! MusicCore|MBC230325방]]></title>
         <id>https://tv.naver.com/v/34373722</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34325075"/>
         <updated>2023-03-25T09:15:46.922Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX LILY – Love Me Like This(엔믹스 릴리 - 러브 미 라이크 디스) FanCam | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34324935</id>
-        <link href="https://tv.naver.com/v/34324935"/>
-        <updated>2023-03-25T09:15:46.924Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>

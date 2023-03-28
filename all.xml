@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-28T02:37:00.185Z</updated>
+    <updated>2023-03-28T03:19:37.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 , 3월 넷째 주 음악중심 MC 컷 모음!, MBC 230325 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34400097</id>
+        <link href="https://tv.naver.com/v/34400097"/>
+        <updated>2023-03-28T03:18:50.511Z</updated>
+        <content type="html"><![CDATA[12:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON-Love Me Like This(엔믹스 설윤-러브 미 라이크 디스) Close-upCam|Show! MusicCore|MBC230325방 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34373722</id>
         <link href="https://tv.naver.com/v/34373722"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/34325075"/>
         <updated>2023-03-25T09:15:46.922Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX LILY – Love Me Like This(엔믹스 릴리 - 러브 미 라이크 디스) FanCam | Show! MusicCore | MBC230325방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34324935</id>
-        <link href="https://tv.naver.com/v/34324935"/>
-        <updated>2023-03-25T09:15:46.924Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAI(카이) - Rover | SBS 230326 방송 (인기가요)]]></title>
@@ -1475,6 +1475,20 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[미방분 공개] 성우 쓰복만 3R 리허설 무대 영상 - 널 너무 모르고, MBC 230326 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/34400714</id>
+        <link href="https://tv.naver.com/v/34400714"/>
+        <updated>2023-03-28T03:19:36.427Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] 뉴이스트 출신 렌 3R 리허설 무대 영상 - SMILE BOY, MBC 230326 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/34400711</id>
+        <link href="https://tv.naver.com/v/34400711"/>
+        <updated>2023-03-28T03:19:36.428Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[＜과연 복면가왕을 대표할 전교회장은?＞ 복면가왕 398회 예고, MBC 230402 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/34347494</id>
         <link href="https://tv.naver.com/v/34347494"/>
@@ -1669,19 +1683,5 @@
         <link href="https://tv.naver.com/v/34078701"/>
         <updated>2023-03-17T10:21:17.103Z</updated>
         <content type="html"><![CDATA[09:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 따듯한 위로를 건네는 싱어송라이터! 가수 최유리!, MBC 230305 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/34078699</id>
-        <link href="https://tv.naver.com/v/34078699"/>
-        <updated>2023-03-17T10:21:17.104Z</updated>
-        <content type="html"><![CDATA[09:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 고ㅊ어크돔에서 콘서트 하고 싶어쏘...😎 드디어 복면가왕에게도 지명 받은 다나카상🌹, MBC 230305 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/34045139</id>
-        <link href="https://tv.naver.com/v/34045139"/>
-        <updated>2023-03-16T10:21:27.371Z</updated>
-        <content type="html"><![CDATA[13:08]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-03-28T02:37:00.173Z</updated>
+    <updated>2023-03-28T03:19:37.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] 성우 쓰복만 3R 리허설 무대 영상 - 널 너무 모르고, MBC 230326 방송]]></title>
+        <id>https://tv.naver.com/v/34400714</id>
+        <link href="https://tv.naver.com/v/34400714"/>
+        <updated>2023-03-28T03:19:36.427Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] 뉴이스트 출신 렌 3R 리허설 무대 영상 - SMILE BOY, MBC 230326 방송]]></title>
+        <id>https://tv.naver.com/v/34400711</id>
+        <link href="https://tv.naver.com/v/34400711"/>
+        <updated>2023-03-28T03:19:36.428Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜과연 복면가왕을 대표할 전교회장은?＞ 복면가왕 398회 예고, MBC 230402 방송]]></title>
         <id>https://tv.naver.com/v/34347494</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34078701"/>
         <updated>2023-03-17T10:21:17.103Z</updated>
         <content type="html"><![CDATA[09:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 따듯한 위로를 건네는 싱어송라이터! 가수 최유리!, MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/34078699</id>
-        <link href="https://tv.naver.com/v/34078699"/>
-        <updated>2023-03-17T10:21:17.104Z</updated>
-        <content type="html"><![CDATA[09:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 고ㅊ어크돔에서 콘서트 하고 싶어쏘...😎 드디어 복면가왕에게도 지명 받은 다나카상🌹, MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/34045139</id>
-        <link href="https://tv.naver.com/v/34045139"/>
-        <updated>2023-03-16T10:21:27.371Z</updated>
-        <content type="html"><![CDATA[13:08]]></content>
     </entry>
 </feed>
