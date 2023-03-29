@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-03-29T10:20:34.332Z</updated>
+    <updated>2023-03-29T11:15:48.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 성대모사로 너튜브를 평정한 인간 복사기👥 다채로운 매력을 보여주는 성우 쓰복만!, MBC 230326 방송]]></title>
+        <id>https://tv.naver.com/v/34449855</id>
+        <link href="https://tv.naver.com/v/34449855"/>
+        <updated>2023-03-29T11:15:47.388Z</updated>
+        <content type="html"><![CDATA[08:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 원조 꿀 보이스 등장🍯🎶 앞으로가 더욱 궁금해지는 가수 레이나!, MBC 230326 방송]]></title>
+        <id>https://tv.naver.com/v/34449854</id>
+        <link href="https://tv.naver.com/v/34449854"/>
+        <updated>2023-03-29T11:15:47.389Z</updated>
+        <content type="html"><![CDATA[09:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 넘치는 끼와 재능으로 뮤지컬계를 종횡무진😎 뉴이스트에서 솔로 가수로 돌아온 렌!, MBC 230326 방송]]></title>
+        <id>https://tv.naver.com/v/34449467</id>
+        <link href="https://tv.naver.com/v/34449467"/>
+        <updated>2023-03-29T11:15:47.391Z</updated>
+        <content type="html"><![CDATA[07:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분 공개] 성우 쓰복만 3R 리허설 무대 영상 - 널 너무 모르고, MBC 230326 방송]]></title>
         <id>https://tv.naver.com/v/34400714</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/34120109"/>
         <updated>2023-03-19T10:18:35.014Z</updated>
         <content type="html"><![CDATA[01:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디스코 팡팡' VS '번지점프'의 1라운드 무대 - 거꾸로 강을 거슬러 오르는 저 힘찬 연어들처럼, MBC 230319 방송]]></title>
-        <id>https://tv.naver.com/v/34119894</id>
-        <link href="https://tv.naver.com/v/34119894"/>
-        <updated>2023-03-19T10:18:35.014Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 유려한 플로우와 독보적인 톤! 숨겨진 예능 보석 래퍼 지조!, MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/34079274</id>
-        <link href="https://tv.naver.com/v/34079274"/>
-        <updated>2023-03-17T10:21:17.103Z</updated>
-        <content type="html"><![CDATA[13:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 초저음 랩, 감성 보컬, 퍼포먼스까지! 반전 매력 원어스 이도!, MBC 230305 방송]]></title>
-        <id>https://tv.naver.com/v/34078701</id>
-        <link href="https://tv.naver.com/v/34078701"/>
-        <updated>2023-03-17T10:21:17.103Z</updated>
-        <content type="html"><![CDATA[09:52]]></content>
     </entry>
 </feed>
