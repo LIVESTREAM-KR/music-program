@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-03-29T11:15:48.047Z</updated>
+    <updated>2023-03-29T12:37:45.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 3월 다섯째 주 챔피언송 ＜NMIXX - Love Me Like This＞ 앵콜 Full ver. l Show Champion l EP.469]]></title>
+        <id>https://tv.naver.com/v/34452459</id>
+        <link href="https://tv.naver.com/v/34452459"/>
+        <updated>2023-03-29T12:37:31.190Z</updated>
+        <content type="html"><![CDATA[05:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 에세이] TEMPEST - Full Of Happiness (템페스트 - 행복 (원곡 : H.O.T.))]]></title>
         <id>https://tv.naver.com/v/34449718</id>
@@ -24,7 +31,7 @@
         <id>https://tv.naver.com/v/34449470</id>
         <link href="https://tv.naver.com/v/34449470"/>
         <updated>2023-03-29T11:15:33.524Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
+        <content type="html"><![CDATA[04:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[최초공개] Billlie - EUNOIA (빌리 - 유노이아)]]></title>
@@ -38,7 +45,7 @@
         <id>https://tv.naver.com/v/34449212</id>
         <link href="https://tv.naver.com/v/34449212"/>
         <updated>2023-03-29T11:15:33.524Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
+        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Billlie - enchanted night~白夜 (빌리 - 인챈티드 나잇~백야) l Show Champion l EP.469]]></title>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/34303039</id>
         <link href="https://tv.naver.com/v/34303039"/>
         <updated>2023-03-24T11:15:13.455Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - Young & Wild (템페스트 형섭 - 영 앤 와일드) | Show Champion | EP.468]]></title>
-        <id>https://tv.naver.com/v/34302452</id>
-        <link href="https://tv.naver.com/v/34302452"/>
-        <updated>2023-03-24T11:15:13.458Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>
