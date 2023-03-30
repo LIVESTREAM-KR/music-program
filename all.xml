@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-30T09:19:35.864Z</updated>
+    <updated>2023-03-30T10:20:23.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,76 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with 마마무+ (MAMAMOO+) | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34487463</id>
+        <link href="https://tv.naver.com/v/34487463"/>
+        <updated>2023-03-30T10:19:50.247Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KINGDOM (킹덤) - 혼 (魂; Dystopia) | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34487318</id>
+        <link href="https://tv.naver.com/v/34487318"/>
+        <updated>2023-03-30T10:19:50.249Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34487146</id>
+        <link href="https://tv.naver.com/v/34487146"/>
+        <updated>2023-03-30T10:19:50.249Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 첫사랑(CSR) - 빛을 따라서 (Shining Bright) | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34486983</id>
+        <link href="https://tv.naver.com/v/34486983"/>
+        <updated>2023-03-30T10:19:50.250Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HOT DEBUT' xikers(싸이커스) - 도깨비집 (TRICKY HOUSE) | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34486839</id>
+        <link href="https://tv.naver.com/v/34486839"/>
+        <updated>2023-03-30T10:19:50.250Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HOT DEBUT' xikers(싸이커스) - XIKEY | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34486836</id>
+        <link href="https://tv.naver.com/v/34486836"/>
+        <updated>2023-03-30T10:19:50.250Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HOT DEBUT' 주주 시크릿 - 밤이 무서워요 (Lonely Night) | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34486652</id>
+        <link href="https://tv.naver.com/v/34486652"/>
+        <updated>2023-03-30T10:19:50.251Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with xikers(싸이커스) | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34486472</id>
+        <link href="https://tv.naver.com/v/34486472"/>
+        <updated>2023-03-30T10:19:50.252Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAWW (하우) - Wanna Be Love | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34486467</id>
+        <link href="https://tv.naver.com/v/34486467"/>
+        <updated>2023-03-30T10:19:50.252Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아리 - Eyes On Me | Mnet 230330 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34486153</id>
+        <link href="https://tv.naver.com/v/34486153"/>
+        <updated>2023-03-30T10:19:50.252Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NMIXX가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/34415694</id>
         <link href="https://tv.naver.com/v/34415694"/>
@@ -773,76 +843,6 @@
         <link href="https://tv.naver.com/v/34268483"/>
         <updated>2023-03-23T10:19:40.214Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWICE(트와이스)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34192306</id>
-        <link href="https://tv.naver.com/v/34192306"/>
-        <updated>2023-03-21T10:19:09.744Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Groovy | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34048502</id>
-        <link href="https://tv.naver.com/v/34048502"/>
-        <updated>2023-03-16T12:35:42.558Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' KAI(카이) - Rover | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34046748</id>
-        <link href="https://tv.naver.com/v/34046748"/>
-        <updated>2023-03-16T11:16:10.580Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' TWICE(트와이스) - SET ME FREE | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34046745</id>
-        <link href="https://tv.naver.com/v/34046745"/>
-        <updated>2023-03-16T11:16:10.581Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with KAI(카이) | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34046744</id>
-        <link href="https://tv.naver.com/v/34046744"/>
-        <updated>2023-03-16T11:16:10.591Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유주 - Without U | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34046742</id>
-        <link href="https://tv.naver.com/v/34046742"/>
-        <updated>2023-03-16T11:16:10.597Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' Y (골든차일드) - 바람이라면 | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34046586</id>
-        <link href="https://tv.naver.com/v/34046586"/>
-        <updated>2023-03-16T11:16:10.597Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with TWICE(트와이스) | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34046583</id>
-        <link href="https://tv.naver.com/v/34046583"/>
-        <updated>2023-03-16T11:16:10.600Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니콜 - Mysterious | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34045770</id>
-        <link href="https://tv.naver.com/v/34045770"/>
-        <updated>2023-03-16T11:16:10.600Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체리블렛 (Cherry Bullet) - P.O.W! (Play On the World) | Mnet 230316 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34045765</id>
-        <link href="https://tv.naver.com/v/34045765"/>
-        <updated>2023-03-16T11:16:10.604Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
