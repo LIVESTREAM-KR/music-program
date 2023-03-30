@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-30T07:17:38.336Z</updated>
+    <updated>2023-03-30T08:24:09.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Spring.zip 📂 Show! Music Core Spring Special Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34467348</id>
+        <link href="https://tv.naver.com/v/34467348"/>
+        <updated>2023-03-30T08:23:27.466Z</updated>
+        <content type="html"><![CDATA[42:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] FANTASYBOYS Producer.zip 📂 Show! Music Core FANTASYBOYS Producer Special Compilation (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/33958331</id>
         <link href="https://tv.naver.com/v/33958331"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/34325078"/>
         <updated>2023-03-25T09:15:46.918Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON – Love Me Like This(엔믹스 설윤 - 러브 미 라이크 디스) FanCam |Show! MusicCore|MBC230325방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34325076</id>
-        <link href="https://tv.naver.com/v/34325076"/>
-        <updated>2023-03-25T09:15:46.919Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAI(카이) - Rover | SBS 230326 방송 (인기가요)]]></title>
