@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-03-31T01:23:26.917Z</updated>
+    <updated>2023-03-31T02:37:43.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 5주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아! 나나, 빌리 문수아&츠키) | Show Champion | EP.469]]></title>
+        <id>https://tv.naver.com/v/34468097</id>
+        <link href="https://tv.naver.com/v/34468097"/>
+        <updated>2023-03-31T02:37:29.060Z</updated>
+        <content type="html"><![CDATA[04:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'Billlie' 나!왔어✋🏻]]></title>
         <id>https://tv.naver.com/v/34465632</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/34446588</id>
         <link href="https://tv.naver.com/v/34446588"/>
         <updated>2023-03-29T13:26:10.258Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HANBIN - 행복 (원곡 : H.O.T.) (템페스트 한빈 - 행복) | Show Champion | EP.469]]></title>
-        <id>https://tv.naver.com/v/34446009</id>
-        <link href="https://tv.naver.com/v/34446009"/>
-        <updated>2023-03-29T13:26:10.262Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
     </entry>
 </feed>
