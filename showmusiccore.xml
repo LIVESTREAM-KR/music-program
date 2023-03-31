@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-03-31T06:22:55.512Z</updated>
+    <updated>2023-03-31T07:16:37.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] KAI – Rover(카이 - 로버) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/34485186</id>
+        <link href="https://tv.naver.com/v/34485186"/>
+        <updated>2023-03-31T07:15:56.428Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Spring.zip 📂 Show! Music Core Spring Special Compilation]]></title>
         <id>https://tv.naver.com/v/34467348</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34325079"/>
         <updated>2023-03-25T09:15:46.916Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX KYUJIN – Young, Dumb, Stupid(엔믹스 규진 - 영, 덤, 스투피드) FanCam | Show! MusicCore|MBC230325방]]></title>
-        <id>https://tv.naver.com/v/34325078</id>
-        <link href="https://tv.naver.com/v/34325078"/>
-        <updated>2023-03-25T09:15:46.918Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
