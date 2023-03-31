@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-31T07:16:37.066Z</updated>
+    <updated>2023-03-31T08:23:32.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[혼 (魂 Dystopia) - KINGDOM(킹덤) | KBS 230324 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] NMIXX.zip 📂 O.O부터 Love Me Like This까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34475646</id>
+        <link href="https://tv.naver.com/v/34475646"/>
+        <updated>2023-03-31T08:22:47.005Z</updated>
+        <content type="html"><![CDATA[15:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] KAI – Rover(카이 - 로버) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34485186</id>
         <link href="https://tv.naver.com/v/34485186"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/34325080"/>
         <updated>2023-03-25T09:15:46.915Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX LILY – Young, Dumb, Stupid(엔믹스 릴리 - 영, 덤, 스투피드) FanCam | Show! MusicCore | MBC230325방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34325079</id>
-        <link href="https://tv.naver.com/v/34325079"/>
-        <updated>2023-03-25T09:15:46.916Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KAI(카이) - Rover | SBS 230326 방송 (인기가요)]]></title>
