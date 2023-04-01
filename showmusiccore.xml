@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-01T08:20:35.644Z</updated>
+    <updated>2023-04-01T09:16:03.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 크래비티 - 그루비 (CRAVITY - Groovy), MBC 230325 방송]]></title>
+        <id>https://tv.naver.com/v/34539728</id>
+        <link href="https://tv.naver.com/v/34539728"/>
+        <updated>2023-04-01T09:15:20.495Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 유주 - 위드아웃 유 (YUJU - Without U), MBC 230318 방송]]></title>
+        <id>https://tv.naver.com/v/34539726</id>
+        <link href="https://tv.naver.com/v/34539726"/>
+        <updated>2023-04-01T09:15:20.495Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 카이 - 로버 (KAI - Rover), MBC 230325 방송]]></title>
+        <id>https://tv.naver.com/v/34539723</id>
+        <link href="https://tv.naver.com/v/34539723"/>
+        <updated>2023-04-01T09:15:20.499Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 니콜 - 미스테리어스 (Nicole - Mysterious), MBC 230325 방송]]></title>
+        <id>https://tv.naver.com/v/34539722</id>
+        <link href="https://tv.naver.com/v/34539722"/>
+        <updated>2023-04-01T09:15:20.500Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] March TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/34474960</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/34325196"/>
         <updated>2023-03-25T09:15:46.909Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Nicole - Mysterious(니콜 – 미스테리어스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34325086</id>
-        <link href="https://tv.naver.com/v/34325086"/>
-        <updated>2023-03-25T09:15:46.910Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Navi - Fallin’ in love(나비 – 빨주노초파란 너) FanCam | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34325085</id>
-        <link href="https://tv.naver.com/v/34325085"/>
-        <updated>2023-03-25T09:15:46.912Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY - Groovy(크래비티 – 그루비) FanCam | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34325083</id>
-        <link href="https://tv.naver.com/v/34325083"/>
-        <updated>2023-03-25T09:15:46.912Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON – Young, Dumb, Stupid(엔믹스 해원 - 영, 덤, 스투피드) FanCam | Show! MusicCore|MBC230325방]]></title>
-        <id>https://tv.naver.com/v/34325081</id>
-        <link href="https://tv.naver.com/v/34325081"/>
-        <updated>2023-03-25T09:15:46.914Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
