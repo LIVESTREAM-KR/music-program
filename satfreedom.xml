@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-04-01T09:16:03.295Z</updated>
+    <updated>2023-04-01T10:17:14.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불후의 명곡 600회 특집💕 빠질 수 없는 불후의 홍반장! 알리의 첫 우승 썰? | KBS 230401 방송]]></title>
+        <id>https://tv.naver.com/v/34540663</id>
+        <link href="https://tv.naver.com/v/34540663"/>
+        <updated>2023-04-01T10:17:06.882Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심수봉 - 사랑밖에 난 몰라 | KBS 230401 방송]]></title>
+        <id>https://tv.naver.com/v/34540462</id>
+        <link href="https://tv.naver.com/v/34540462"/>
+        <updated>2023-04-01T10:17:06.883Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 가요계 올 타임 레전드 ✨아티스트 심수봉 편✨ 장르별 스타들 총출동❣️ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/34328948</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34101960"/>
         <updated>2023-03-18T12:32:07.209Z</updated>
         <content type="html"><![CDATA[01:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강승윤 안에 남아있는 록 DNA🤘 YB 음악 습작 노트까지?! | KBS 230318 방송]]></title>
-        <id>https://tv.naver.com/v/34101883</id>
-        <link href="https://tv.naver.com/v/34101883"/>
-        <updated>2023-03-18T12:32:07.211Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식과 발라드의 완벽한 하모니❣️ 고막 힐링을 제대로 보여준 에스페로의 무대 | KBS 230318 방송]]></title>
-        <id>https://tv.naver.com/v/34101875</id>
-        <link href="https://tv.naver.com/v/34101875"/>
-        <updated>2023-03-18T12:32:07.213Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>

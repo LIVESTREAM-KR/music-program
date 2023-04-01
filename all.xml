@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-01T09:16:03.312Z</updated>
+    <updated>2023-04-01T10:17:14.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Like Crazy - 지민 | KBS 230331 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,20 @@
         <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[불후의 명곡 600회 특집💕 빠질 수 없는 불후의 홍반장! 알리의 첫 우승 썰? | KBS 230401 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34540663</id>
+        <link href="https://tv.naver.com/v/34540663"/>
+        <updated>2023-04-01T10:17:06.882Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심수봉 - 사랑밖에 난 몰라 | KBS 230401 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34540462</id>
+        <link href="https://tv.naver.com/v/34540462"/>
+        <updated>2023-04-01T10:17:06.883Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 가요계 올 타임 레전드 ✨아티스트 심수봉 편✨ 장르별 스타들 총출동❣️ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/34328948</id>
         <link href="https://tv.naver.com/v/34328948"/>
@@ -1459,20 +1473,6 @@
         <link href="https://tv.naver.com/v/34101960"/>
         <updated>2023-03-18T12:32:07.209Z</updated>
         <content type="html"><![CDATA[01:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강승윤 안에 남아있는 록 DNA🤘 YB 음악 습작 노트까지?! | KBS 230318 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34101883</id>
-        <link href="https://tv.naver.com/v/34101883"/>
-        <updated>2023-03-18T12:32:07.211Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식과 발라드의 완벽한 하모니❣️ 고막 힐링을 제대로 보여준 에스페로의 무대 | KBS 230318 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34101875</id>
-        <link href="https://tv.naver.com/v/34101875"/>
-        <updated>2023-03-18T12:32:07.213Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 성대모사로 너튜브를 평정한 인간 복사기👥 다채로운 매력을 보여주는 성우 쓰복만!, MBC 230326 방송 (복면가왕)]]></title>
