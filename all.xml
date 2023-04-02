@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-02T11:13:40.703Z</updated>
+    <updated>2023-04-02T12:30:06.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Like Crazy - 지민(BTS Jimin) | KBS 230331 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[00:56]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[＜과연 가왕의 길로 들어설 단 한 명은?＞ 복면가왕 399회 예고, MBC 230409 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/34559391</id>
+        <link href="https://tv.naver.com/v/34559391"/>
+        <updated>2023-04-02T12:30:05.649Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['오히려 좋아'의 정체는 훅의 리더 안무가 아이키!, MBC 230402 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/34558323</id>
         <link href="https://tv.naver.com/v/34558323"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/34345887"/>
         <updated>2023-03-26T10:17:35.925Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디스코 팡팡' 2라운드 무대 - 가시, MBC 230326 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/34345666</id>
-        <link href="https://tv.naver.com/v/34345666"/>
-        <updated>2023-03-26T10:17:35.926Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
