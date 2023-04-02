@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-04-02T06:20:58.362Z</updated>
+    <updated>2023-04-02T07:14:53.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230402 방송]]></title>
+        <id>https://tv.naver.com/v/34554038</id>
+        <link href="https://tv.naver.com/v/34554038"/>
+        <updated>2023-04-02T07:14:18.441Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | SBS 230402 방송]]></title>
+        <id>https://tv.naver.com/v/34554036</id>
+        <link href="https://tv.naver.com/v/34554036"/>
+        <updated>2023-04-02T07:14:18.443Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세리(달샤벳) - Spotlight | SBS 230402 방송]]></title>
+        <id>https://tv.naver.com/v/34553935</id>
+        <link href="https://tv.naver.com/v/34553935"/>
+        <updated>2023-04-02T07:14:18.445Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers - 도깨비집(TRICKY HOUSE) | SBS 230402 방송]]></title>
+        <id>https://tv.naver.com/v/34553787</id>
+        <link href="https://tv.naver.com/v/34553787"/>
+        <updated>2023-04-02T07:14:18.452Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이솔로몬 - 시인 | SBS 230402 방송]]></title>
+        <id>https://tv.naver.com/v/34553769</id>
+        <link href="https://tv.naver.com/v/34553769"/>
+        <updated>2023-04-02T07:14:18.461Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남승민 - 세글자 | SBS 230402 방송]]></title>
+        <id>https://tv.naver.com/v/34553676</id>
+        <link href="https://tv.naver.com/v/34553676"/>
+        <updated>2023-04-02T07:14:18.463Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAI(카이) - Rover | SBS 230326 방송]]></title>
         <id>https://tv.naver.com/v/34343668</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/34117544"/>
         <updated>2023-03-19T08:21:15.352Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유주 - Without U | SBS 230319 방송]]></title>
-        <id>https://tv.naver.com/v/34117330</id>
-        <link href="https://tv.naver.com/v/34117330"/>
-        <updated>2023-03-19T08:21:15.353Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체리블렛(Cherry Bullet) - P.O.W!(Play On the World) | SBS 230319 방송]]></title>
-        <id>https://tv.naver.com/v/34117240</id>
-        <link href="https://tv.naver.com/v/34117240"/>
-        <updated>2023-03-19T08:21:15.354Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Groovy | SBS 230319 방송]]></title>
-        <id>https://tv.naver.com/v/34117170</id>
-        <link href="https://tv.naver.com/v/34117170"/>
-        <updated>2023-03-19T07:15:47.747Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울랄라세션 - ON MY WAY | SBS 230319 방송]]></title>
-        <id>https://tv.naver.com/v/34117140</id>
-        <link href="https://tv.naver.com/v/34117140"/>
-        <updated>2023-03-19T07:15:47.747Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAN - Fix YOU | SBS 230319 방송]]></title>
-        <id>https://tv.naver.com/v/34117006</id>
-        <link href="https://tv.naver.com/v/34117006"/>
-        <updated>2023-03-19T07:15:47.783Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnlyOneOf(온리원오브) - seOul drift | SBS 230319 방송]]></title>
-        <id>https://tv.naver.com/v/34116840</id>
-        <link href="https://tv.naver.com/v/34116840"/>
-        <updated>2023-03-19T07:15:47.792Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
