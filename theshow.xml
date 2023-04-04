@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-04-04T11:14:43.234Z</updated>
+    <updated>2023-04-04T12:33:04.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달콤한 어쿠스틱 멜로디, 예빈나다 '산책하러 갈래']]></title>
+        <id>https://tv.naver.com/v/34624467</id>
+        <link href="https://tv.naver.com/v/34624467"/>
+        <updated>2023-04-04T12:32:41.935Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 섭깅 & xikers(싸이커스)]]></title>
+        <id>https://tv.naver.com/v/34624466</id>
+        <link href="https://tv.naver.com/v/34624466"/>
+        <updated>2023-04-04T12:32:41.939Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구원을 위한 부서지는 퍼포먼스, KINGDOM (킹덤) '혼 (魂; Dystopia)']]></title>
+        <id>https://tv.naver.com/v/34624459</id>
+        <link href="https://tv.naver.com/v/34624459"/>
+        <updated>2023-04-04T12:32:41.944Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 짜릿함을 선사하는 다이나믹한 무대, xikers(싸이커스) 'XIKEY']]></title>
+        <id>https://tv.naver.com/v/34624181</id>
+        <link href="https://tv.naver.com/v/34624181"/>
+        <updated>2023-04-04T12:32:41.944Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 신비하고 드라마틱한 퍼포먼스, xikers(싸이커스) '도깨비 집 (TRICKY HOUSE)']]></title>
+        <id>https://tv.naver.com/v/34624045</id>
+        <link href="https://tv.naver.com/v/34624045"/>
+        <updated>2023-04-04T12:32:41.946Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 영원히 기억될 우리의 페이지, (CSR) '빛을 따라서 (Shining Bright)']]></title>
+        <id>https://tv.naver.com/v/34623941</id>
+        <link href="https://tv.naver.com/v/34623941"/>
+        <updated>2023-04-04T12:32:41.947Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 따뜻한 위로의 멜로디, 첫사랑(CSR) '열여덟 (Signal)']]></title>
+        <id>https://tv.naver.com/v/34623851</id>
+        <link href="https://tv.naver.com/v/34623851"/>
+        <updated>2023-04-04T12:32:41.947Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 빌리만이 표현할 수 있는 독특한 세계관, Billlie 'enchanted night ~ 白夜']]></title>
+        <id>https://tv.naver.com/v/34623813</id>
+        <link href="https://tv.naver.com/v/34623813"/>
+        <updated>2023-04-04T12:32:41.948Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음을 울리는 싱그러운 보이스, 예은(YEEUN) 'Strange Way To Love']]></title>
+        <id>https://tv.naver.com/v/34623705</id>
+        <link href="https://tv.naver.com/v/34623705"/>
+        <updated>2023-04-04T12:32:41.960Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 진정한 자신이 되기 위한 메세지, Billlie 'EUNOIA']]></title>
+        <id>https://tv.naver.com/v/34623704</id>
+        <link href="https://tv.naver.com/v/34623704"/>
+        <updated>2023-04-04T12:32:41.961Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/34623703</id>
+        <link href="https://tv.naver.com/v/34623703"/>
+        <updated>2023-04-04T12:32:41.961Z</updated>
+        <content type="html"><![CDATA[04:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머릿속 Alarm을 울리는 다채로운 매력, ICHILLIN’(아이칠린) 'Alarm']]></title>
         <id>https://tv.naver.com/v/34622622</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/34416471"/>
         <updated>2023-03-28T10:21:25.466Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 혼돈의 소용돌이를 삼켜버리는, KINGDOM (킹덤) '혼 (魂; Dystopia)']]></title>
-        <id>https://tv.naver.com/v/34416470</id>
-        <link href="https://tv.naver.com/v/34416470"/>
-        <updated>2023-03-28T10:21:25.469Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 꿈의 공간에서의 탈출 스토리, TRENDZ(트렌드지) 'NEW DAYZ']]></title>
-        <id>https://tv.naver.com/v/34416468</id>
-        <link href="https://tv.naver.com/v/34416468"/>
-        <updated>2023-03-28T10:21:25.470Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파워풀한 퍼포먼스, TAN 'Fix YOU']]></title>
-        <id>https://tv.naver.com/v/34416156</id>
-        <link href="https://tv.naver.com/v/34416156"/>
-        <updated>2023-03-28T10:21:25.473Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상반된 분위기의 하이브리드 리믹스곡, PIXY (픽시) 'KARMA']]></title>
-        <id>https://tv.naver.com/v/34416048</id>
-        <link href="https://tv.naver.com/v/34416048"/>
-        <updated>2023-03-28T10:21:25.474Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중독 넘치는 경쾌한 사운드, 아리 'Eyes On Me']]></title>
-        <id>https://tv.naver.com/v/34416018</id>
-        <link href="https://tv.naver.com/v/34416018"/>
-        <updated>2023-03-28T10:21:25.475Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[INTRO] MC NAEggUZ]]></title>
-        <id>https://tv.naver.com/v/34415244</id>
-        <link href="https://tv.naver.com/v/34415244"/>
-        <updated>2023-03-28T09:19:35.684Z</updated>
-        <content type="html"><![CDATA[01:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINHO, Chase (민호, 놓아줘) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34194656</id>
-        <link href="https://tv.naver.com/v/34194656"/>
-        <updated>2023-03-21T11:14:35.815Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINHO, Runaway (민호, Runaway) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34194531</id>
-        <link href="https://tv.naver.com/v/34194531"/>
-        <updated>2023-03-21T11:14:35.816Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MINHO, Heartbreak (민호, Heartbreak) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34194341</id>
-        <link href="https://tv.naver.com/v/34194341"/>
-        <updated>2023-03-21T11:14:35.817Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM, Hot Sauce (엔시티드림, 맛) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34194334</id>
-        <link href="https://tv.naver.com/v/34194334"/>
-        <updated>2023-03-21T11:14:35.818Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM, Glitch Mode (엔시티드림, 버퍼링) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34194091</id>
-        <link href="https://tv.naver.com/v/34194091"/>
-        <updated>2023-03-21T11:14:35.832Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
