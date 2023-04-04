@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-04-04T10:18:38.972Z</updated>
+    <updated>2023-04-04T11:14:43.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[머릿속 Alarm을 울리는 다채로운 매력, ICHILLIN’(아이칠린) 'Alarm']]></title>
+        <id>https://tv.naver.com/v/34622622</id>
+        <link href="https://tv.naver.com/v/34622622"/>
+        <updated>2023-04-04T11:14:21.779Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[모두의 엔딩 : 반모하SHOW (반만 모두의 엔딩하SHOW)] 첫사랑(CSR)]]></title>
+        <id>https://tv.naver.com/v/34622470</id>
+        <link href="https://tv.naver.com/v/34622470"/>
+        <updated>2023-04-04T11:14:21.779Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강력한 포부를 담은 K팝 선두주자, CRAXY (크랙시) 'NUGUDOM']]></title>
+        <id>https://tv.naver.com/v/34622274</id>
+        <link href="https://tv.naver.com/v/34622274"/>
+        <updated>2023-04-04T11:14:21.792Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 짙은 감성의 소유자, 남승민 '세글자]]></title>
+        <id>https://tv.naver.com/v/34622099</id>
+        <link href="https://tv.naver.com/v/34622099"/>
+        <updated>2023-04-04T11:14:21.793Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑스러운 에너지 뿜뿜!, 아리 'Eyes On Me']]></title>
         <id>https://tv.naver.com/v/34621606</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/34194091"/>
         <updated>2023-03-21T11:14:35.832Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM, Beatbox (엔시티드림, Beatbox) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34194055</id>
-        <link href="https://tv.naver.com/v/34194055"/>
-        <updated>2023-03-21T11:14:35.832Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM, Candy (엔시티드림, Candy) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34193933</id>
-        <link href="https://tv.naver.com/v/34193933"/>
-        <updated>2023-03-21T11:14:35.832Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iKON, BLING BLING (아이콘, BLING BLING) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34193724</id>
-        <link href="https://tv.naver.com/v/34193724"/>
-        <updated>2023-03-21T11:14:35.833Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iKON, RHYTHM TA (아이콘, 리듬 타) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34193689</id>
-        <link href="https://tv.naver.com/v/34193689"/>
-        <updated>2023-03-21T11:14:35.833Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>

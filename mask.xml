@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-04-04T10:18:38.971Z</updated>
+    <updated>2023-04-04T11:14:43.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 시원한 해물 뚝배기🍤 보이스! 남녀노소 사로잡는 트로트 계의 신예 고정우!, MBC 230402 방송]]></title>
+        <id>https://tv.naver.com/v/34623042</id>
+        <link href="https://tv.naver.com/v/34623042"/>
+        <updated>2023-04-04T11:14:42.590Z</updated>
+        <content type="html"><![CDATA[12:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 숨길 수 없는 매력 폭발!🎉 언제나 춤생춤사 훅의 리더😎 댄서 아이키!, MBC 230402 방송]]></title>
+        <id>https://tv.naver.com/v/34622887</id>
+        <link href="https://tv.naver.com/v/34622887"/>
+        <updated>2023-04-04T11:14:42.594Z</updated>
+        <content type="html"><![CDATA[11:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 EXO부터 오마이걸, 러블리즈까지 아이돌✨명곡 제조기! 명품 작사가 서지음!, MBC 230402 방송]]></title>
+        <id>https://tv.naver.com/v/34622132</id>
+        <link href="https://tv.naver.com/v/34622132"/>
+        <updated>2023-04-04T11:14:42.594Z</updated>
+        <content type="html"><![CDATA[10:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜과연 가왕의 길로 들어설 단 한 명은?＞ 복면가왕 399회 예고, MBC 230409 방송]]></title>
         <id>https://tv.naver.com/v/34559391</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/34346261"/>
         <updated>2023-03-26T10:17:35.923Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디스코 팡팡'의 정체는 뉴이스트 출신 렌!, MBC 230326 방송]]></title>
-        <id>https://tv.naver.com/v/34346117</id>
-        <link href="https://tv.naver.com/v/34346117"/>
-        <updated>2023-03-26T10:17:35.923Z</updated>
-        <content type="html"><![CDATA[01:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['디스코 팡팡' X '꽃마차' X 신봉선 X 은혁의 노래로 알아보는 연령대 테스트❣️, MBC 230326 방송]]></title>
-        <id>https://tv.naver.com/v/34345912</id>
-        <link href="https://tv.naver.com/v/34345912"/>
-        <updated>2023-03-26T10:17:35.923Z</updated>
-        <content type="html"><![CDATA[01:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃마차' 2라운드 무대 - 내가 너의 곁에 잠시 살았다는 걸, MBC 230326 방송]]></title>
-        <id>https://tv.naver.com/v/34345887</id>
-        <link href="https://tv.naver.com/v/34345887"/>
-        <updated>2023-03-26T10:17:35.925Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
