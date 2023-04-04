@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-04-04T09:17:41.428Z</updated>
+    <updated>2023-04-04T10:18:38.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑스러운 에너지 뿜뿜!, 아리 'Eyes On Me']]></title>
+        <id>https://tv.naver.com/v/34621606</id>
+        <link href="https://tv.naver.com/v/34621606"/>
+        <updated>2023-04-04T10:18:17.803Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4세대 대표 퍼포먼스돌, TRENDZ(트렌드지) 'NEW DAYZ']]></title>
+        <id>https://tv.naver.com/v/34621175</id>
+        <link href="https://tv.naver.com/v/34621175"/>
+        <updated>2023-04-04T10:18:17.805Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밝은 희망과 애잔함을 동시에 느낄 수 있는, HAWW (하우) 'Wanna Be Love']]></title>
+        <id>https://tv.naver.com/v/34621024</id>
+        <link href="https://tv.naver.com/v/34621024"/>
+        <updated>2023-04-04T10:18:17.806Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
         <id>https://tv.naver.com/v/34417740</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/34193689"/>
         <updated>2023-03-21T11:14:35.833Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iKON, LOVE SCENARIO (아이콘, 사랑을 했다) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34193553</id>
-        <link href="https://tv.naver.com/v/34193553"/>
-        <updated>2023-03-21T11:14:35.834Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ, BOP BOP! (비비지, BOP BOP!) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34193437</id>
-        <link href="https://tv.naver.com/v/34193437"/>
-        <updated>2023-03-21T10:19:16.730Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ, LOVEADE (비비지, LOVEADE) [THE SHOW 230321]]]></title>
-        <id>https://tv.naver.com/v/34193318</id>
-        <link href="https://tv.naver.com/v/34193318"/>
-        <updated>2023-03-21T10:19:16.731Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
