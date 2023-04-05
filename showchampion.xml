@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-04-05T10:21:23.812Z</updated>
+    <updated>2023-04-05T11:16:44.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔피언 마음 심기 ④열정 심기] Stray Kids - MIROH (스트레이 키즈 - 미로)]]></title>
+        <id>https://tv.naver.com/v/34659426</id>
+        <link href="https://tv.naver.com/v/34659426"/>
+        <updated>2023-04-05T11:16:29.516Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔피언 마음 심기 ④열정 심기] ENHYPEN - FEVER (엔하이픈 - 피버)]]></title>
+        <id>https://tv.naver.com/v/34659238</id>
+        <link href="https://tv.naver.com/v/34659238"/>
+        <updated>2023-04-05T11:16:29.525Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔피언 마음 심기 ④열정 심기] Kep1er - WADADA (케플러 - 와다다)]]></title>
+        <id>https://tv.naver.com/v/34659233</id>
+        <link href="https://tv.naver.com/v/34659233"/>
+        <updated>2023-04-05T11:16:29.527Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔피언 마음 심기 ④열정 심기] BSS(SEVENTEEN) - Just do it (부석순(SEVENTEEN) - 거침없이)]]></title>
+        <id>https://tv.naver.com/v/34659039</id>
+        <link href="https://tv.naver.com/v/34659039"/>
+        <updated>2023-04-05T11:16:29.530Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔피언 마음 심기 ④열정 심기] Dreamcatcher - VISION (드림캐쳐 - 비전)]]></title>
         <id>https://tv.naver.com/v/34658697</id>
@@ -185,34 +213,6 @@
         <id>https://tv.naver.com/v/34451228</id>
         <link href="https://tv.naver.com/v/34451228"/>
         <updated>2023-03-29T13:26:10.237Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie HARUNA - enchanted night ~ 白夜 (빌리 하루나 - 인챈티드 나잇~백야) | Show Champion | EP.469]]></title>
-        <id>https://tv.naver.com/v/34451031</id>
-        <link href="https://tv.naver.com/v/34451031"/>
-        <updated>2023-03-29T13:26:10.237Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie MOON SUA - enchanted night ~ 白夜 (빌리 문수아 - 인챈티드 나잇~백야) | Show Champion | EP.469]]></title>
-        <id>https://tv.naver.com/v/34450868</id>
-        <link href="https://tv.naver.com/v/34450868"/>
-        <updated>2023-03-29T13:26:10.238Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie SHEON - enchanted night ~ 白夜 (빌리 션 - 인챈티드 나잇~백야) | Show Champion | EP.469]]></title>
-        <id>https://tv.naver.com/v/34450672</id>
-        <link href="https://tv.naver.com/v/34450672"/>
-        <updated>2023-03-29T13:26:10.238Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie HARAM - enchanted night ~ 白夜 (빌리 하람 - 인챈티드 나잇~백야) | Show Champion | EP.469]]></title>
-        <id>https://tv.naver.com/v/34450311</id>
-        <link href="https://tv.naver.com/v/34450311"/>
-        <updated>2023-03-29T13:26:10.238Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
