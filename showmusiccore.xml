@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-07T06:22:39.196Z</updated>
+    <updated>2023-04-07T07:16:07.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] CRAVITY – Groovy(크래비티 - 그루비) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/34655029</id>
+        <link href="https://tv.naver.com/v/34655029"/>
+        <updated>2023-04-07T07:15:24.932Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 크래비티 - 그루비 (CRAVITY - Groovy), MBC 230325 방송]]></title>
         <id>https://tv.naver.com/v/34539728</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/34325197</id>
         <link href="https://tv.naver.com/v/34325197"/>
         <updated>2023-03-25T09:15:46.907Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON – Love Me Like This(엔믹스 해원 - 러브 미 라이크 디스) FanCam | Show! MusicCore |MBC230325방]]></title>
-        <id>https://tv.naver.com/v/34325196</id>
-        <link href="https://tv.naver.com/v/34325196"/>
-        <updated>2023-03-25T09:15:46.909Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
