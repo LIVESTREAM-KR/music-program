@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-04-07T08:21:45.711Z</updated>
+    <updated>2023-04-07T09:16:28.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 불후를 빛내는 슈퍼 루키들의 치열한 대전⚡️ 코인 노래방의 우승자는🎤?! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/34735241</id>
+        <link href="https://tv.naver.com/v/34735241"/>
+        <updated>2023-04-07T09:16:21.494Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 600회 〈아티스트 심수봉 편〉 우승자 ⭐소향X프라임킹즈⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/34542316</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34328948"/>
         <updated>2023-03-25T12:31:24.590Z</updated>
         <content type="html"><![CDATA[00:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 599회〈어리다고 얕보지 마 특집〉⭐전유진 & 김다현⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/34328949</id>
-        <link href="https://tv.naver.com/v/34328949"/>
-        <updated>2023-03-25T12:31:24.597Z</updated>
-        <content type="html"><![CDATA[00:56]]></content>
     </entry>
 </feed>
