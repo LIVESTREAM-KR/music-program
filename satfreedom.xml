@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-04-08T09:15:49.673Z</updated>
+    <updated>2023-04-08T10:16:48.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1부 우승자🥳 소향 X 프라임킹즈! 소향이 직접 설명해 주는 우승의 의미 | KBS 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34759603</id>
+        <link href="https://tv.naver.com/v/34759603"/>
+        <updated>2023-04-08T10:16:40.735Z</updated>
+        <content type="html"><![CDATA[01:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심수봉 - 부부행진곡 | KBS 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34759412</id>
+        <link href="https://tv.naver.com/v/34759412"/>
+        <updated>2023-04-08T10:16:40.737Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 불후를 빛내는 슈퍼 루키들의 치열한 대전⚡️ 코인 노래방의 우승자는🎤?! | KBS 방송]]></title>
         <id>https://tv.naver.com/v/34735241</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34519434"/>
         <updated>2023-04-01T12:29:37.361Z</updated>
         <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] NMIXX(엔믹스) - 미워요 | KBS 230401 방송]]></title>
-        <id>https://tv.naver.com/v/34519266</id>
-        <link href="https://tv.naver.com/v/34519266"/>
-        <updated>2023-04-01T12:29:37.362Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 가요계 올 타임 레전드 ✨아티스트 심수봉 편✨ 장르별 스타들 총출동❣️ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/34328948</id>
-        <link href="https://tv.naver.com/v/34328948"/>
-        <updated>2023-03-25T12:31:24.590Z</updated>
-        <content type="html"><![CDATA[00:51]]></content>
     </entry>
 </feed>
