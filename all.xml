@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-08T11:13:44.080Z</updated>
+    <updated>2023-04-08T12:29:19.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[D N D - 에이핑크 | KBS 230407 방송 (뮤직뱅크)]]></title>
@@ -215,27 +215,6 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] Apink KIM NAM JOO – D N D(에이핑크 김남주 - 디 앤 디) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34757777</id>
-        <link href="https://tv.naver.com/v/34757777"/>
-        <updated>2023-04-08T09:15:06.256Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Apink PARK CHO RONG – D N D(에이핑크 박초롱 - 디 앤 디) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34757776</id>
-        <link href="https://tv.naver.com/v/34757776"/>
-        <updated>2023-04-08T09:15:06.263Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Apink YOON BO MI – D N D(에이핑크 윤보미 - 디 앤 디) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34757775</id>
-        <link href="https://tv.naver.com/v/34757775"/>
-        <updated>2023-04-08T09:15:06.270Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] CSR - Shining Bright(첫사랑 – 빛을 따라서) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34757785</id>
         <link href="https://tv.naver.com/v/34757785"/>
@@ -271,6 +250,27 @@
         <content type="html"><![CDATA[04:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Apink KIM NAM JOO – D N D(에이핑크 김남주 - 디 앤 디) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34757777</id>
+        <link href="https://tv.naver.com/v/34757777"/>
+        <updated>2023-04-08T09:15:06.256Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Apink PARK CHO RONG – D N D(에이핑크 박초롱 - 디 앤 디) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34757776</id>
+        <link href="https://tv.naver.com/v/34757776"/>
+        <updated>2023-04-08T09:15:06.263Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Apink YOON BO MI – D N D(에이핑크 윤보미 - 디 앤 디) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34757775</id>
+        <link href="https://tv.naver.com/v/34757775"/>
+        <updated>2023-04-08T09:15:06.270Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] Apink JEONG EUN JI – D N D(에이핑크 정은지 - 디 앤 디) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34757678</id>
         <link href="https://tv.naver.com/v/34757678"/>
@@ -283,13 +283,6 @@
         <link href="https://tv.naver.com/v/34757677"/>
         <updated>2023-04-08T09:15:06.274Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ICHILLIN’ - Alarm(아이칠린 – 알람) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34757588</id>
-        <link href="https://tv.naver.com/v/34757588"/>
-        <updated>2023-04-08T09:15:06.275Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] X:IN E.SHA – KEEPING THE FIRE(엑신 이샤 - 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
@@ -311,6 +304,13 @@
         <link href="https://tv.naver.com/v/34757581"/>
         <updated>2023-04-08T09:15:06.289Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ICHILLIN’ - Alarm(아이칠린 – 알람) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34757588</id>
+        <link href="https://tv.naver.com/v/34757588"/>
+        <updated>2023-04-08T09:15:06.275Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] BamBam – Sour & Sweet(뱀뱀 - 사워 앤드 스윗) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
@@ -339,13 +339,6 @@
         <link href="https://tv.naver.com/v/34757467"/>
         <updated>2023-04-08T09:15:06.298Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Apink OH HA YOUNG – D N D(에이핑크 오하영 - 디 앤 디) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34757459</id>
-        <link href="https://tv.naver.com/v/34757459"/>
-        <updated>2023-04-08T09:15:06.299Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Billlie HARUNA – EUNOIA(빌리 하루나 - 유노이아) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
@@ -390,11 +383,11 @@
         <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] BamBam - Sour & Sweet(뱀뱀 – 사워 앤드 스윗) FanCam(Horizontal Ver.)|Show! MusicCore |MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34757377</id>
-        <link href="https://tv.naver.com/v/34757377"/>
-        <updated>2023-04-08T09:15:06.303Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
+        <title type="html"><![CDATA[[예능연구소] Apink OH HA YOUNG – D N D(에이핑크 오하영 - 디 앤 디) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34757459</id>
+        <link href="https://tv.naver.com/v/34757459"/>
+        <updated>2023-04-08T09:15:06.299Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Billlie TSUKI – EUNOIA(빌리 츠키 - 유노이아) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
@@ -402,6 +395,13 @@
         <link href="https://tv.naver.com/v/34757379"/>
         <updated>2023-04-08T09:15:06.303Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BamBam - Sour & Sweet(뱀뱀 – 사워 앤드 스윗) FanCam(Horizontal Ver.)|Show! MusicCore |MBC230408방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34757377</id>
+        <link href="https://tv.naver.com/v/34757377"/>
+        <updated>2023-04-08T09:15:06.303Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] xikers - XIKEY(싸이커스 – 싸이키) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
@@ -1265,6 +1265,76 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 601회 〈아티스트 심수봉 2편〉 우승자 ⭐송가인⭐ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34761574</id>
+        <link href="https://tv.naver.com/v/34761574"/>
+        <updated>2023-04-08T12:29:11.968Z</updated>
+        <content type="html"><![CDATA[00:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] 🌸2023 봄날, 김연자의 봄꽃열차🌸 특별한 무대들 예열 중! 본방사수 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34761214</id>
+        <link href="https://tv.naver.com/v/34761214"/>
+        <updated>2023-04-08T12:29:11.969Z</updated>
+        <content type="html"><![CDATA[00:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※결과 확인※ 송가인 vs 알리 명곡판정단의 마지막 선택! 결과는 과연?! | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34761111</id>
+        <link href="https://tv.naver.com/v/34761111"/>
+        <updated>2023-04-08T12:29:11.969Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예측불가 승부! 모두를 사랑에 빠지게 만들었던💕 알리의 무대 | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34761019</id>
+        <link href="https://tv.naver.com/v/34761019"/>
+        <updated>2023-04-08T12:29:11.970Z</updated>
+        <content type="html"><![CDATA[02:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송가인 - 비나리 | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34760914</id>
+        <link href="https://tv.naver.com/v/34760914"/>
+        <updated>2023-04-08T12:29:11.971Z</updated>
+        <content type="html"><![CDATA[05:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빠져들 수밖에 없는 호소력, 마음을 녹이는 짙은 음색을 보여준 송가인의 무대! | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34760909</id>
+        <link href="https://tv.naver.com/v/34760909"/>
+        <updated>2023-04-08T12:29:11.982Z</updated>
+        <content type="html"><![CDATA[01:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알리 - 여자이니까 | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34760902</id>
+        <link href="https://tv.naver.com/v/34760902"/>
+        <updated>2023-04-08T12:29:11.982Z</updated>
+        <content type="html"><![CDATA[05:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[❤‍🔥진(眞)들의 대결❤‍🔥 양지은 VS 송가인  승자는 과연?! | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34760896</id>
+        <link href="https://tv.naver.com/v/34760896"/>
+        <updated>2023-04-08T12:29:11.983Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양지은 vs 송가인 미스트롯 진들의 빅매치 성사🎉 3사 최초 眞들의 대결?! | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34760735</id>
+        <link href="https://tv.naver.com/v/34760735"/>
+        <updated>2023-04-08T12:29:11.983Z</updated>
+        <content type="html"><![CDATA[02:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심수봉의 어려운 시기를 이겨내게한 드럼 & 심수봉이 본 몽니의 ＜젊은 태양＞은? | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34760727</id>
+        <link href="https://tv.naver.com/v/34760727"/>
+        <updated>2023-04-08T12:29:11.984Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[무대에서는 180도 변신! 밴드 음악의 힘을 보여준 강철 성대🎙️ 몽니의 무대 | KBS 230408 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/34760641</id>
         <link href="https://tv.naver.com/v/34760641"/>
@@ -1349,6 +1419,48 @@
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[4K 직캠] 알리 - 여자이니까 | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34739846</id>
+        <link href="https://tv.naver.com/v/34739846"/>
+        <updated>2023-04-08T12:29:11.995Z</updated>
+        <content type="html"><![CDATA[05:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] TAN(티에이엔) - 남자는 배 여자는 항구 | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34739648</id>
+        <link href="https://tv.naver.com/v/34739648"/>
+        <updated>2023-04-08T12:29:11.996Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 몽니 - 젊은 태양 | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34739512</id>
+        <link href="https://tv.naver.com/v/34739512"/>
+        <updated>2023-04-08T12:29:11.997Z</updated>
+        <content type="html"><![CDATA[05:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 송가인 - 비나리 | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34739417</id>
+        <link href="https://tv.naver.com/v/34739417"/>
+        <updated>2023-04-08T12:29:11.998Z</updated>
+        <content type="html"><![CDATA[05:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 심수봉 - 부부행진곡 | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34739388</id>
+        <link href="https://tv.naver.com/v/34739388"/>
+        <updated>2023-04-08T12:29:12.000Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 양지은 - 올 가을엔 사랑할거야 | KBS 230408 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34739269</id>
+        <link href="https://tv.naver.com/v/34739269"/>
+        <updated>2023-04-08T12:29:12.001Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] 불후를 빛내는 슈퍼 루키들의 치열한 대전⚡️ 코인 노래방의 우승자는🎤?! | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/34735241</id>
         <link href="https://tv.naver.com/v/34735241"/>
@@ -1361,118 +1473,6 @@
         <link href="https://tv.naver.com/v/34542316"/>
         <updated>2023-04-01T12:29:37.328Z</updated>
         <content type="html"><![CDATA[00:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] ✨아티스트 심수봉 편 2부✨ 양보할 수 없는 대결! 놓치지 마세요💟 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34542219</id>
-        <link href="https://tv.naver.com/v/34542219"/>
-        <updated>2023-04-01T12:29:37.330Z</updated>
-        <content type="html"><![CDATA[00:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고음이 경이롭다..✨ 큰 태풍이 휘몰아친 듯했던 소향&프라임킹즈의 무대! | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34542126</id>
-        <link href="https://tv.naver.com/v/34542126"/>
-        <updated>2023-04-01T12:29:37.331Z</updated>
-        <content type="html"><![CDATA[01:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※결과 확인※ 에일리 vs 소향 명곡판정단의 마지막 선택! 결과는 과연?! | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34542125</id>
-        <link href="https://tv.naver.com/v/34542125"/>
-        <updated>2023-04-01T12:29:37.333Z</updated>
-        <content type="html"><![CDATA[01:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소향 - 백만 송이 장미 | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34542120</id>
-        <link href="https://tv.naver.com/v/34542120"/>
-        <updated>2023-04-01T12:29:37.334Z</updated>
-        <content type="html"><![CDATA[05:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보컬 퀸들의 빅매치 성사🔥 소향의 존경심이 담긴 오늘의 선곡! | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34542043</id>
-        <link href="https://tv.naver.com/v/34542043"/>
-        <updated>2023-04-01T12:29:37.335Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빠져나올 수 없는 멜로디! 몸이 저절로 움직이게🕺 만든 홍경민의 무대 | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34542020</id>
-        <link href="https://tv.naver.com/v/34542020"/>
-        <updated>2023-04-01T12:29:37.335Z</updated>
-        <content type="html"><![CDATA[01:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍경민 - 로맨스 그레이 | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541926</id>
-        <link href="https://tv.naver.com/v/34541926"/>
-        <updated>2023-04-01T12:29:37.336Z</updated>
-        <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨길 수 없었던 마독스의 표정🤣 심장을 뛰게 만들었던 에일리의 무대💕 | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541916</id>
-        <link href="https://tv.naver.com/v/34541916"/>
-        <updated>2023-04-01T12:29:37.337Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불후의 홍반장🔥 한국의 리키마틴 홍경민! 퀸 VS 반장 가족 대결 과연 승자는? | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541809</id>
-        <link href="https://tv.naver.com/v/34541809"/>
-        <updated>2023-04-01T12:29:37.338Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에일리 - 사랑밖엔 난 몰라 | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541807</id>
-        <link href="https://tv.naver.com/v/34541807"/>
-        <updated>2023-04-01T12:29:37.339Z</updated>
-        <content type="html"><![CDATA[04:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불후와 함께 성장한 에일리🌱💞 어른스러운 모습을 보여줄 오늘의 선곡?! | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541499</id>
-        <link href="https://tv.naver.com/v/34541499"/>
-        <updated>2023-04-01T11:13:38.980Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여심을 흔드는 목소리! 독보적인 미성을 보여준 마독스의 무대💓 | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541498</id>
-        <link href="https://tv.naver.com/v/34541498"/>
-        <updated>2023-04-01T11:13:38.981Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마독스 - 그때 그 사람 | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541405</id>
-        <link href="https://tv.naver.com/v/34541405"/>
-        <updated>2023-04-01T11:13:38.983Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독보적인 음색 마독스💘 색다른 편곡이 돋보이는 오늘의 선곡은? | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541268</id>
-        <link href="https://tv.naver.com/v/34541268"/>
-        <updated>2023-04-01T11:13:38.990Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실력파 퍼포먼스&라이브✨ 확실히 자신을 각인시킨 NMIXX(엔믹스)의 무대! | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541107</id>
-        <link href="https://tv.naver.com/v/34541107"/>
-        <updated>2023-04-01T11:13:38.991Z</updated>
-        <content type="html"><![CDATA[01:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX(엔믹스) - 미워요 | KBS 230401 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34541089</id>
-        <link href="https://tv.naver.com/v/34541089"/>
-        <updated>2023-04-01T11:13:38.992Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 시원한 해물 뚝배기🍤 보이스! 남녀노소 사로잡는 트로트 계의 신예 고정우!, MBC 230402 방송 (복면가왕)]]></title>
