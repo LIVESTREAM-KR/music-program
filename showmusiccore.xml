@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-08T06:20:36.262Z</updated>
+    <updated>2023-04-08T07:14:45.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남승민 - 세글자 (NAMSEUNGMIN - Three Letters), MBC 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34756098</id>
+        <link href="https://tv.naver.com/v/34756098"/>
+        <updated>2023-04-08T07:14:02.888Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑 - 빛을 따라서 (CSR - Shining Bright), MBC 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34755993</id>
+        <link href="https://tv.naver.com/v/34755993"/>
+        <updated>2023-04-08T07:14:02.889Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸이커스 - 도깨비집 (xikers - TRICKY HOUSE), MBC 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34755879</id>
+        <link href="https://tv.naver.com/v/34755879"/>
+        <updated>2023-04-08T07:14:02.891Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸이커스 - 싸이키 (xikers - XIKEY), MBC 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34755777</id>
+        <link href="https://tv.naver.com/v/34755777"/>
+        <updated>2023-04-08T07:14:02.892Z</updated>
+        <content type="html"><![CDATA[01:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑신 - 키핑 더 파이어 (X:IN - KEEPING THE FIRE), MBC 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34755764</id>
+        <link href="https://tv.naver.com/v/34755764"/>
+        <updated>2023-04-08T07:14:02.892Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크랙시 - 누구덤 (CRAXY - NUGUDOM), MBC 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34755766</id>
+        <link href="https://tv.naver.com/v/34755766"/>
+        <updated>2023-04-08T07:14:02.893Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킹덤 - 혼 (KINGDOM - 魂; Dystopia), MBC 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34755668</id>
+        <link href="https://tv.naver.com/v/34755668"/>
+        <updated>2023-04-08T07:14:02.894Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아리 - 아이즈 온 미 (Ahri - Eyes On Me), MBC 230408 방송]]></title>
+        <id>https://tv.naver.com/v/34755577</id>
+        <link href="https://tv.naver.com/v/34755577"/>
+        <updated>2023-04-08T07:14:02.896Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] CRAVITY – Groovy(크래비티 - 그루비) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/34655029</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/34325243"/>
         <updated>2023-03-25T09:15:46.887Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX JIWOO – Love Me Like This(엔믹스 지우 - 러브 미 라이크 디스) FanCam | Show! MusicCore | MBC230325방]]></title>
-        <id>https://tv.naver.com/v/34325242</id>
-        <link href="https://tv.naver.com/v/34325242"/>
-        <updated>2023-03-25T09:15:46.887Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] KAI - Rover(카이 - 로버) Close-up Cam | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34325209</id>
-        <link href="https://tv.naver.com/v/34325209"/>
-        <updated>2023-03-25T09:15:46.888Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YEEUN - Strange Way To Love(예은 – 스트레인지 웨이 투 러브) FanCam | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34325208</id>
-        <link href="https://tv.naver.com/v/34325208"/>
-        <updated>2023-03-25T09:15:46.888Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ICHILLIN’ - Alarm(아이칠린 – 알람) FanCam | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34325207</id>
-        <link href="https://tv.naver.com/v/34325207"/>
-        <updated>2023-03-25T09:15:46.895Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KIM JAE HWAN - Spring Breeze(김재환 – 봄바람) FanCam(Horizontal Ver.)|Show! MusicCore |MBC230325방]]></title>
-        <id>https://tv.naver.com/v/34325203</id>
-        <link href="https://tv.naver.com/v/34325203"/>
-        <updated>2023-03-25T09:15:46.896Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BOBBY - Drowning(바비 – 드라우닝) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34325201</id>
-        <link href="https://tv.naver.com/v/34325201"/>
-        <updated>2023-03-25T09:15:46.906Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX BAE – Young, Dumb, Stupid(엔믹스 배이 - 영, 덤, 스투피드) FanCam | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34325199</id>
-        <link href="https://tv.naver.com/v/34325199"/>
-        <updated>2023-03-25T09:15:46.907Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX - Young, Dumb, Stupid(엔믹스 – 영, 덤, 스투피드) FanCam | Show! MusicCore | MBC230325방송]]></title>
-        <id>https://tv.naver.com/v/34325197</id>
-        <link href="https://tv.naver.com/v/34325197"/>
-        <updated>2023-03-25T09:15:46.907Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
