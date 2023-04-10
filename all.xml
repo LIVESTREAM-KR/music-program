@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-10T05:16:41.860Z</updated>
+    <updated>2023-04-10T06:22:30.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[D N D - 에이핑크 | KBS 230407 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 쟈니 , 4월 둘째 주 음악중심 MC 컷 모음!, MBC 230408 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34802236</id>
+        <link href="https://tv.naver.com/v/34802236"/>
+        <updated>2023-04-10T06:21:48.583Z</updated>
+        <content type="html"><![CDATA[14:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] xikers YECHAN – TRICKY HOUSE(싸이커스 예찬 - 도깨비집) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34794872</id>
         <link href="https://tv.naver.com/v/34794872"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/34757463"/>
         <updated>2023-04-08T09:15:06.298Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Billlie SUHYEON – EUNOIA(빌리 수현 - 유노이아) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34757461</id>
-        <link href="https://tv.naver.com/v/34757461"/>
-        <updated>2023-04-08T09:15:06.298Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230409 방송 (인기가요)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 지금부터 보여줄게 놀라운 쇼챔 라인업😈 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34801514</id>
+        <link href="https://tv.naver.com/v/34801514"/>
+        <updated>2023-04-10T06:22:16.513Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔피언 마음 심기 ④열정 심기] Stray Kids - MIROH (스트레이 키즈 - 미로) (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/34659426</id>
         <link href="https://tv.naver.com/v/34659426"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/34451400"/>
         <updated>2023-03-29T13:26:10.237Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie SUHYEON - enchanted night ~ 白夜 (빌리 수현 - 인챈티드 나잇~백야) | Show Champion | EP.469 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34451228</id>
-        <link href="https://tv.naver.com/v/34451228"/>
-        <updated>2023-03-29T13:26:10.237Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 601회 〈아티스트 심수봉 2편〉 우승자 ⭐송가인⭐ | KBS 방송 (불후의 명곡)]]></title>
