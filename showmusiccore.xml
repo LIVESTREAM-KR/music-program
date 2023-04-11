@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-11T02:33:22.345Z</updated>
+    <updated>2023-04-11T03:18:34.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] ICHILLIN’ - Alarm(아이칠린 – 알람) FanCam | Show! MusicCore | MBC230408방송]]></title>
+        <id>https://tv.naver.com/v/34757588</id>
+        <link href="https://tv.naver.com/v/34757588"/>
+        <updated>2023-04-08T09:15:06.275Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] X:IN E.SHA – KEEPING THE FIRE(엑신 이샤 - 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송]]></title>
         <id>https://tv.naver.com/v/34757586</id>
         <link href="https://tv.naver.com/v/34757586"/>
@@ -165,13 +172,6 @@
         <link href="https://tv.naver.com/v/34757581"/>
         <updated>2023-04-08T09:15:06.289Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ICHILLIN’ - Alarm(아이칠린 – 알람) FanCam | Show! MusicCore | MBC230408방송]]></title>
-        <id>https://tv.naver.com/v/34757588</id>
-        <link href="https://tv.naver.com/v/34757588"/>
-        <updated>2023-04-08T09:15:06.275Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] BamBam – Sour & Sweet(뱀뱀 - 사워 앤드 스윗) FanCam | Show! MusicCore | MBC230408방송]]></title>
