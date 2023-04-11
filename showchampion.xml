@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-04-11T05:16:51.279Z</updated>
+    <updated>2023-04-11T06:23:09.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최초공개] Billlie - INTRO + EUNOIA (빌리 - 인트로 + 유노이아)]]></title>
+        <id>https://tv.naver.com/v/34837656</id>
+        <link href="https://tv.naver.com/v/34837656"/>
+        <updated>2023-04-11T06:22:55.387Z</updated>
+        <content type="html"><![CDATA[04:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 지금부터 보여줄게 놀라운 쇼챔 라인업😈]]></title>
         <id>https://tv.naver.com/v/34801514</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34451732"/>
         <updated>2023-03-29T13:26:10.237Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX KYUJIN - Love Me Like This (엔믹스 규진 - 러브 미 라이크 디스) | Show Champion | EP.469]]></title>
-        <id>https://tv.naver.com/v/34451400</id>
-        <link href="https://tv.naver.com/v/34451400"/>
-        <updated>2023-03-29T13:26:10.237Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
