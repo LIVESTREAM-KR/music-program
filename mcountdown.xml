@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-04-13T11:15:07.496Z</updated>
+    <updated>2023-04-13T12:35:08.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' IVE - I AM | Mnet 230413 방송]]></title>
+        <id>https://tv.naver.com/v/34928138</id>
+        <link href="https://tv.naver.com/v/34928138"/>
+        <updated>2023-04-13T12:34:35.230Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' IVE - Kitsch | Mnet 230413 방송]]></title>
+        <id>https://tv.naver.com/v/34927982</id>
+        <link href="https://tv.naver.com/v/34927982"/>
+        <updated>2023-04-13T12:34:35.236Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 박지훈 - Blank Effect (무표정) | Mnet 230413 방송]]></title>
+        <id>https://tv.naver.com/v/34927828</id>
+        <link href="https://tv.naver.com/v/34927828"/>
+        <updated>2023-04-13T12:34:35.237Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 케플러 (Kep1er) - Giddy | Mnet 230413 방송]]></title>
+        <id>https://tv.naver.com/v/34927827</id>
+        <link href="https://tv.naver.com/v/34927827"/>
+        <updated>2023-04-13T12:34:35.237Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 케플러 (Kep1er) - Back to the City | Mnet 230413 방송]]></title>
+        <id>https://tv.naver.com/v/34927656</id>
+        <link href="https://tv.naver.com/v/34927656"/>
+        <updated>2023-04-13T12:34:35.241Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백 인터뷰' with IVE (아이브) | Mnet 230413 방송]]></title>
         <id>https://tv.naver.com/v/34927496</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/34488210"/>
         <updated>2023-03-30T11:15:01.369Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 뱀뱀 (BamBam) | Mnet 230330 방송]]></title>
-        <id>https://tv.naver.com/v/34488209</id>
-        <link href="https://tv.naver.com/v/34488209"/>
-        <updated>2023-03-30T11:15:01.379Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' JO1 - Tiger | Mnet 230330 방송]]></title>
-        <id>https://tv.naver.com/v/34487899</id>
-        <link href="https://tv.naver.com/v/34487899"/>
-        <updated>2023-03-30T11:15:01.401Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' Billlie - EUNOIA | Mnet 230330 방송]]></title>
-        <id>https://tv.naver.com/v/34487759</id>
-        <link href="https://tv.naver.com/v/34487759"/>
-        <updated>2023-03-30T11:15:01.402Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['UP NEXT' 지민 (Jimin) | Mnet 230330 방송]]></title>
-        <id>https://tv.naver.com/v/34487757</id>
-        <link href="https://tv.naver.com/v/34487757"/>
-        <updated>2023-03-30T11:15:01.402Z</updated>
-        <content type="html"><![CDATA[00:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAN - Fix YOU | Mnet 230330 방송]]></title>
-        <id>https://tv.naver.com/v/34487602</id>
-        <link href="https://tv.naver.com/v/34487602"/>
-        <updated>2023-03-30T11:15:01.403Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
