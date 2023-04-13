@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-13T01:17:27.147Z</updated>
+    <updated>2023-04-13T02:32:50.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[D N D - 에이핑크 | KBS 230407 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie HARUNA(빌리 하루나) - various and precious(moment of inertia) | Show Champion | EP.471 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/34905363</id>
+        <link href="https://tv.naver.com/v/34905363"/>
+        <updated>2023-04-13T02:32:36.673Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX SULLYOON - Love Me Like This (엔믹스 설윤 - 러브 미 라이크 디스) | Show Champion | EP.471 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/34892198</id>
         <link href="https://tv.naver.com/v/34892198"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/34880514"/>
         <updated>2023-04-12T13:21:28.223Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔딩원샷] Billlie -EUNOIA (빌리 - 유노이아) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/34888422</id>
-        <link href="https://tv.naver.com/v/34888422"/>
-        <updated>2023-04-12T11:15:19.769Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 601회 〈아티스트 심수봉 2편〉 우승자 ⭐송가인⭐ | KBS 방송 (불후의 명곡)]]></title>
