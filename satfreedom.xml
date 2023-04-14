@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-04-14T08:21:04.964Z</updated>
+    <updated>2023-04-14T09:17:32.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 안율X황민호X황민우 - 보약 같은 친구 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/34959589</id>
+        <link href="https://tv.naver.com/v/34959589"/>
+        <updated>2023-04-14T09:17:24.799Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 김연자 - 진정인가요 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/34959538</id>
+        <link href="https://tv.naver.com/v/34959538"/>
+        <updated>2023-04-14T09:17:24.806Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 601회 〈아티스트 심수봉 2편〉 우승자 ⭐송가인⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/34761574</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34739269"/>
         <updated>2023-04-08T12:29:12.001Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 불후를 빛내는 슈퍼 루키들의 치열한 대전⚡️ 코인 노래방의 우승자는🎤?! | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/34735241</id>
-        <link href="https://tv.naver.com/v/34735241"/>
-        <updated>2023-04-07T09:16:21.494Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 600회 〈아티스트 심수봉 편〉 우승자 ⭐소향X프라임킹즈⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/34542316</id>
-        <link href="https://tv.naver.com/v/34542316"/>
-        <updated>2023-04-01T12:29:37.328Z</updated>
-        <content type="html"><![CDATA[00:58]]></content>
     </entry>
 </feed>
