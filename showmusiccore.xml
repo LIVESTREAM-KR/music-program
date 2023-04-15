@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-15T15:16:44.934Z</updated>
+    <updated>2023-04-15T16:21:30.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON – Love Me Like This(엔믹스 해원 - 러브 미 라이크 디스) FanCam | Show! MusicCore |MBC230415방]]></title>
+        <id>https://tv.naver.com/v/34990341</id>
+        <link href="https://tv.naver.com/v/34990341"/>
+        <updated>2023-04-15T16:20:48.041Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] xikers - TRICKY HOUSE(싸이커스 – 도깨비집) FanCam | Show! MusicCore | MBC230415방송]]></title>
+        <id>https://tv.naver.com/v/34990251</id>
+        <link href="https://tv.naver.com/v/34990251"/>
+        <updated>2023-04-15T16:20:48.042Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NMIXX - Love Me Like This(엔믹스 – 러브 미 라이크 디스) FanCam | Show! MusicCore | MBC230415방송]]></title>
+        <id>https://tv.naver.com/v/34989957</id>
+        <link href="https://tv.naver.com/v/34989957"/>
+        <updated>2023-04-15T16:20:48.042Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] xikers HUNTER – TRICKY HOUSE(싸이커스 헌터 - 도깨비집) FanCam | Show! MusicCore | MBC230415방송]]></title>
+        <id>https://tv.naver.com/v/34989883</id>
+        <link href="https://tv.naver.com/v/34989883"/>
+        <updated>2023-04-15T16:20:48.043Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON – Love Me Like This(엔믹스 설윤 - 러브 미 라이크 디스) FanCam |Show! MusicCore|MBC230415방]]></title>
         <id>https://tv.naver.com/v/34989088</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/34982960"/>
         <updated>2023-04-15T10:16:43.514Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LIZ – Kitsch(아이브 리즈 - 키치) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34982853</id>
-        <link href="https://tv.naver.com/v/34982853"/>
-        <updated>2023-04-15T10:16:43.518Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE JANG WONYOUNG – I AM(아이브 장원영 - 아이엠) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34982759</id>
-        <link href="https://tv.naver.com/v/34982759"/>
-        <updated>2023-04-15T10:16:43.519Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO – I AM(아이브 이서 - 아이엠) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34982638</id>
-        <link href="https://tv.naver.com/v/34982638"/>
-        <updated>2023-04-15T09:15:42.344Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE GAEUL – I AM(아이브 가을 - 아이엠) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34982516</id>
-        <link href="https://tv.naver.com/v/34982516"/>
-        <updated>2023-04-15T09:15:42.345Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
