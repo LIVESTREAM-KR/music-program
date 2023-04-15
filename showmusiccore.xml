@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-15T06:20:51.154Z</updated>
+    <updated>2023-04-15T07:15:04.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케플러 - 백 투 더 시티 (Kep1er - Back to the City), MBC 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34980189</id>
+        <link href="https://tv.naver.com/v/34980189"/>
+        <updated>2023-04-15T07:14:23.862Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[체리블렛 (Cherry Bullet) in 코노돌🎉 - (다비치 - 안녕이라고 말하지마), MBC 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34980095</id>
+        <link href="https://tv.naver.com/v/34980095"/>
+        <updated>2023-04-15T07:14:23.862Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리 - 유노이아 (Billlie - EUNOIA), MBC 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34980094</id>
+        <link href="https://tv.naver.com/v/34980094"/>
+        <updated>2023-04-15T07:14:23.862Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 알람 (ICHILLIN' - Alarm), MBC 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34979890</id>
+        <link href="https://tv.naver.com/v/34979890"/>
+        <updated>2023-04-15T07:14:23.862Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸이커스 - 도깨비집 (xikers - TRICKY HOUSE), MBC 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34979793</id>
+        <link href="https://tv.naver.com/v/34979793"/>
+        <updated>2023-04-15T07:14:23.862Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑 - 빛을 따라서 (CSR - Shining Bright), MBC 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34979681</id>
+        <link href="https://tv.naver.com/v/34979681"/>
+        <updated>2023-04-15T07:14:23.862Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설윤 - 미스터 츄 (원곡 : 에이핑크(Apink)) (SULLYOON - Mr. Chu), MBC 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34979563</id>
+        <link href="https://tv.naver.com/v/34979563"/>
+        <updated>2023-04-15T07:14:23.862Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] APink.zip 📂 I don't Know (몰라요)부터 D N D까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/34831492</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/34757586"/>
         <updated>2023-04-08T09:15:06.284Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] X:IN ROA – KEEPING THE FIRE(엑신 로아 - 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송]]></title>
-        <id>https://tv.naver.com/v/34757582</id>
-        <link href="https://tv.naver.com/v/34757582"/>
-        <updated>2023-04-08T09:15:06.287Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] X:IN CHI.U – KEEPING THE FIRE(엑신 치유 - 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송]]></title>
-        <id>https://tv.naver.com/v/34757581</id>
-        <link href="https://tv.naver.com/v/34757581"/>
-        <updated>2023-04-08T09:15:06.289Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BamBam – Sour & Sweet(뱀뱀 - 사워 앤드 스윗) FanCam | Show! MusicCore | MBC230408방송]]></title>
-        <id>https://tv.naver.com/v/34757579</id>
-        <link href="https://tv.naver.com/v/34757579"/>
-        <updated>2023-04-08T09:15:06.289Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] X:IN - KEEPING THE FIRE(엑신 – 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송]]></title>
-        <id>https://tv.naver.com/v/34757546</id>
-        <link href="https://tv.naver.com/v/34757546"/>
-        <updated>2023-04-08T09:15:06.290Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] X:IN NOVA – KEEPING THE FIRE(엑신 노바 - 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송]]></title>
-        <id>https://tv.naver.com/v/34757468</id>
-        <link href="https://tv.naver.com/v/34757468"/>
-        <updated>2023-04-08T09:15:06.290Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] X:IN ARIA – KEEPING THE FIRE(엑신 아리아 - 키핑 더 파이어) FanCam | Show! MusicCore | MBC230408방송]]></title>
-        <id>https://tv.naver.com/v/34757467</id>
-        <link href="https://tv.naver.com/v/34757467"/>
-        <updated>2023-04-08T09:15:06.298Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Billlie HARUNA – EUNOIA(빌리 하루나 - 유노이아) FanCam | Show! MusicCore | MBC230408방송]]></title>
-        <id>https://tv.naver.com/v/34757466</id>
-        <link href="https://tv.naver.com/v/34757466"/>
-        <updated>2023-04-08T09:15:06.298Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
