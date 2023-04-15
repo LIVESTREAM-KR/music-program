@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-15T14:14:45.025Z</updated>
+    <updated>2023-04-15T15:16:44.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON – Love Me Like This(엔믹스 설윤 - 러브 미 라이크 디스) FanCam |Show! MusicCore|MBC230415방]]></title>
+        <id>https://tv.naver.com/v/34989088</id>
+        <link href="https://tv.naver.com/v/34989088"/>
+        <updated>2023-04-15T15:16:08.109Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Kep1er YUJIN – Giddy(케플러 최유진 - 기디) FanCam | Show! MusicCore | MBC230415방송]]></title>
         <id>https://tv.naver.com/v/34988393</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34982516"/>
         <updated>2023-04-15T09:15:42.345Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE AN YUJIN – I AM(아이브 안유진 - 아이엠) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34982322</id>
-        <link href="https://tv.naver.com/v/34982322"/>
-        <updated>2023-04-15T09:15:42.353Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
