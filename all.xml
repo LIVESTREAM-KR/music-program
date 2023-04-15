@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-15T08:20:34.260Z</updated>
+    <updated>2023-04-15T09:16:30.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Kitsch - IVE | KBS 230414 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,55 @@
         <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE LEESEO – I AM(아이브 이서 - 아이엠) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34982638</id>
+        <link href="https://tv.naver.com/v/34982638"/>
+        <updated>2023-04-15T09:15:42.344Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE GAEUL – I AM(아이브 가을 - 아이엠) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34982516</id>
+        <link href="https://tv.naver.com/v/34982516"/>
+        <updated>2023-04-15T09:15:42.345Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE AN YUJIN – I AM(아이브 안유진 - 아이엠) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34982322</id>
+        <link href="https://tv.naver.com/v/34982322"/>
+        <updated>2023-04-15T09:15:42.353Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE LIZ – I AM(아이브 리즈 - 아이엠) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34982206</id>
+        <link href="https://tv.naver.com/v/34982206"/>
+        <updated>2023-04-15T09:15:42.354Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE - I AM(아이브 – 아이엠) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34982091</id>
+        <link href="https://tv.naver.com/v/34982091"/>
+        <updated>2023-04-15T09:15:42.358Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SULLYOON - Mr. Chu(설윤 – 미스터 츄) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34981974</id>
+        <link href="https://tv.naver.com/v/34981974"/>
+        <updated>2023-04-15T09:15:42.359Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SULLYOON – Mr. Chu(설윤 - 미스터 츄) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34981863</id>
+        <link href="https://tv.naver.com/v/34981863"/>
+        <updated>2023-04-15T09:15:42.360Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜X교차》 킹덤 - 혼 (KINGDOM - 魂; Dystopia), MBC 230408 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34981283</id>
         <link href="https://tv.naver.com/v/34981283"/>
@@ -374,55 +423,6 @@
         <link href="https://tv.naver.com/v/34794872"/>
         <updated>2023-04-10T03:17:21.543Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers JINSIK – TRICKY HOUSE(싸이커스 진식 - 도깨비집) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34794723</id>
-        <link href="https://tv.naver.com/v/34794723"/>
-        <updated>2023-04-10T03:17:21.544Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] xikers MINJAE - TRICKY HOUSE(싸이커스 민재 - 도깨비집) Close-up Cam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34794500</id>
-        <link href="https://tv.naver.com/v/34794500"/>
-        <updated>2023-04-10T03:17:21.545Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] xikers YUJUN - TRICKY HOUSE(싸이커스 유준 - 도깨비집) Close-up Cam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34794498</id>
-        <link href="https://tv.naver.com/v/34794498"/>
-        <updated>2023-04-10T03:17:21.546Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers SUMIN – TRICKY HOUSE(싸이커스 수민 - 도깨비집) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34794495</id>
-        <link href="https://tv.naver.com/v/34794495"/>
-        <updated>2023-04-10T03:17:21.554Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers HUNTER – TRICKY HOUSE(싸이커스 헌터 - 도깨비집) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34794494</id>
-        <link href="https://tv.naver.com/v/34794494"/>
-        <updated>2023-04-10T03:17:21.556Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers HYUNWOO – TRICKY HOUSE(싸이커스 현우 - 도깨비집) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34794490</id>
-        <link href="https://tv.naver.com/v/34794490"/>
-        <updated>2023-04-10T03:17:21.556Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CSR - Shining Bright(첫사랑 – 빛을 따라서) FanCam | Show! MusicCore | MBC230408방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34757785</id>
-        <link href="https://tv.naver.com/v/34757785"/>
-        <updated>2023-04-08T09:15:06.249Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230409 방송 (인기가요)]]></title>
