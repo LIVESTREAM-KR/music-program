@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-15T10:17:25.224Z</updated>
+    <updated>2023-04-15T11:13:58.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Kitsch - IVE | KBS 230414 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,83 @@
         <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Billlie - EUNOIA(빌리 – 유노이아) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34984735</id>
+        <link href="https://tv.naver.com/v/34984735"/>
+        <updated>2023-04-15T11:13:15.751Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LEE CHAEYEON - KNOCK(이채연 – 노크) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34984734</id>
+        <link href="https://tv.naver.com/v/34984734"/>
+        <updated>2023-04-15T11:13:15.763Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LEE CHAEYEON – KNOCK(이채연 - 노크) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34984638</id>
+        <link href="https://tv.naver.com/v/34984638"/>
+        <updated>2023-04-15T11:13:15.764Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er - Back to the City(케플러 – 백 투 더 시티) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34984637</id>
+        <link href="https://tv.naver.com/v/34984637"/>
+        <updated>2023-04-15T11:13:15.766Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er HUENING BAHIYYIH – Back to the City(케플러 휴닝바히에-백투더시티)FanCam|Show!MusicCore|MBC230415방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34984558</id>
+        <link href="https://tv.naver.com/v/34984558"/>
+        <updated>2023-04-15T11:13:15.767Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er HIKARU – Back to the City(케플러 히카루 - 백 투 더 시티) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34984319</id>
+        <link href="https://tv.naver.com/v/34984319"/>
+        <updated>2023-04-15T11:13:15.768Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er HIKARU – Giddy(케플러 히카루 - 기디) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34984229</id>
+        <link href="https://tv.naver.com/v/34984229"/>
+        <updated>2023-04-15T11:13:15.772Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er DAYEON – Giddy(케플러 김다연 - 기디) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34984079</id>
+        <link href="https://tv.naver.com/v/34984079"/>
+        <updated>2023-04-15T11:13:15.773Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er HUENING BAHIYYIH – Giddy(케플러 휴닝바히에 - 기디) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34983949</id>
+        <link href="https://tv.naver.com/v/34983949"/>
+        <updated>2023-04-15T11:13:15.775Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er CHAEHYUN – Giddy(케플러 김채현 - 기디) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34983947</id>
+        <link href="https://tv.naver.com/v/34983947"/>
+        <updated>2023-04-15T11:13:15.776Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er YOUNGEUN – Giddy(케플러 서영은 - 기디) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/34983862</id>
+        <link href="https://tv.naver.com/v/34983862"/>
+        <updated>2023-04-15T11:13:15.779Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] Kep1er YESEO – Giddy(케플러 강예서 - 기디) FanCam | Show! MusicCore | MBC230415방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/34983661</id>
         <link href="https://tv.naver.com/v/34983661"/>
@@ -346,83 +423,6 @@
         <link href="https://tv.naver.com/v/34981283"/>
         <updated>2023-04-15T08:19:56.884Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 트렌드지 - 뉴 데이즈 (TRENDZ - NEW DAYZ), MBC 230408 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34981281</id>
-        <link href="https://tv.naver.com/v/34981281"/>
-        <updated>2023-04-15T08:19:56.886Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 - 아이 엠 (IVE - I AM), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34981004</id>
-        <link href="https://tv.naver.com/v/34981004"/>
-        <updated>2023-04-15T08:19:56.886Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 - 키치 (IVE - Kitsch), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34981002</id>
-        <link href="https://tv.naver.com/v/34981002"/>
-        <updated>2023-04-15T08:19:56.886Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우석 - 던 (KIM WOO SEOK - Dawn), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34980798</id>
-        <link href="https://tv.naver.com/v/34980798"/>
-        <updated>2023-04-15T08:19:56.894Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예은 - 체리 코크 (YEEUN - Cherry Coke), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34980797</id>
-        <link href="https://tv.naver.com/v/34980797"/>
-        <updated>2023-04-15T08:19:56.896Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예은 - 스트레인지 웨이 투 러브 (YEEUN - Strange Way To Love), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34980691</id>
-        <link href="https://tv.naver.com/v/34980691"/>
-        <updated>2023-04-15T08:19:56.896Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈 - 무표정 (PARK JIHOON - Blank Effect), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34980611</id>
-        <link href="https://tv.naver.com/v/34980611"/>
-        <updated>2023-04-15T08:19:56.915Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - 러브 미 라이크 디스 (NMIXX - Love Me Like This), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34980540</id>
-        <link href="https://tv.naver.com/v/34980540"/>
-        <updated>2023-04-15T08:19:56.916Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채연 - 노크 (LEE CHAE YEON - KNOCK), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34980408</id>
-        <link href="https://tv.naver.com/v/34980408"/>
-        <updated>2023-04-15T08:19:56.916Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 - 기디 (Kep1er - Giddy), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34980300</id>
-        <link href="https://tv.naver.com/v/34980300"/>
-        <updated>2023-04-15T08:19:56.916Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 - 백 투 더 시티 (Kep1er - Back to the City), MBC 230415 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/34980189</id>
-        <link href="https://tv.naver.com/v/34980189"/>
-        <updated>2023-04-15T07:14:23.862Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230409 방송 (인기가요)]]></title>
@@ -1265,6 +1265,90 @@
         <content type="html"><![CDATA[03:52]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[황민호 - 진또배기 | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34984758</id>
+        <link href="https://tv.naver.com/v/34984758"/>
+        <updated>2023-04-15T11:13:50.312Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황민우 - 블링블링 | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34984757</id>
+        <link href="https://tv.naver.com/v/34984757"/>
+        <updated>2023-04-15T11:13:50.313Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정미애 - 걱정 붙들어 매 + 씨름의 노래(천하장사) | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34984755</id>
+        <link href="https://tv.naver.com/v/34984755"/>
+        <updated>2023-04-15T11:13:50.316Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안율 - 사랑이 이런건가요 | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34984643</id>
+        <link href="https://tv.naver.com/v/34984643"/>
+        <updated>2023-04-15T11:13:50.317Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연자 - 수은등 | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34984642</id>
+        <link href="https://tv.naver.com/v/34984642"/>
+        <updated>2023-04-15T11:13:50.318Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[깊은 울림의 애절한 무대를 보여준 정미애, 눈빛만으로 북받치는 감정💧 | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34984456</id>
+        <link href="https://tv.naver.com/v/34984456"/>
+        <updated>2023-04-15T11:13:50.319Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정미애 - 님이여 | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34984321</id>
+        <link href="https://tv.naver.com/v/34984321"/>
+        <updated>2023-04-15T11:13:50.320Z</updated>
+        <content type="html"><![CDATA[04:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가시지 않는 여운을 남긴 김연자의 무대😭 & ＜대구＞역의 주인공, 정미애! | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34984320</id>
+        <link href="https://tv.naver.com/v/34984320"/>
+        <updated>2023-04-15T11:13:50.321Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연자 - 어매 | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34984235</id>
+        <link href="https://tv.naver.com/v/34984235"/>
+        <updated>2023-04-15T11:13:50.322Z</updated>
+        <content type="html"><![CDATA[04:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연자X양지은 - 봄날은 간다 | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34983954</id>
+        <link href="https://tv.naver.com/v/34983954"/>
+        <updated>2023-04-15T11:13:50.322Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연자와 남다른 인연이 있는 강예슬! 양지은&김연자가 함께 준비한 다음 행선지는? | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34983953</id>
+        <link href="https://tv.naver.com/v/34983953"/>
+        <updated>2023-04-15T11:13:50.323Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양지은 - 감수광 + 나도 한 잔 | KBS 230415 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/34983951</id>
+        <link href="https://tv.naver.com/v/34983951"/>
+        <updated>2023-04-15T11:13:50.324Z</updated>
+        <content type="html"><![CDATA[06:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[강예슬 - 짝사랑 + 오라버니 | KBS 230415 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/34983675</id>
         <link href="https://tv.naver.com/v/34983675"/>
@@ -1389,90 +1473,6 @@
         <link href="https://tv.naver.com/v/34760621"/>
         <updated>2023-04-08T11:13:36.422Z</updated>
         <content type="html"><![CDATA[05:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멈추지 않는 욕망전차🔥 몽니의 신곡 한 소절 맛보기! 오늘의 선곡은 과연? | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34760440</id>
-        <link href="https://tv.naver.com/v/34760440"/>
-        <updated>2023-04-08T11:13:36.427Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최강 퍼포먼스 총출동! 강렬한 퍼포먼스 속 안정된 음정을 보여준 TAN의 무대 | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34760166</id>
-        <link href="https://tv.naver.com/v/34760166"/>
-        <updated>2023-04-08T11:13:36.429Z</updated>
-        <content type="html"><![CDATA[01:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAN(티에이엔) - 남자는 배 여자는 항구 | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34760165</id>
-        <link href="https://tv.naver.com/v/34760165"/>
-        <updated>2023-04-08T11:13:36.430Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울컥하게 만드는 감성💧 목소리로 아픈 기억을 보듬어 준 양지은의 무대 | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34759966</id>
-        <link href="https://tv.naver.com/v/34759966"/>
-        <updated>2023-04-08T11:13:36.431Z</updated>
-        <content type="html"><![CDATA[02:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양지은 - 올가을엔 사랑할거야 | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34759962</id>
-        <link href="https://tv.naver.com/v/34759962"/>
-        <updated>2023-04-08T11:13:36.432Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 번째 순서 제주댁 양지은! 송가인과 🔥진 vs 진 맞대결🔥 성사될까? | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34759908</id>
-        <link href="https://tv.naver.com/v/34759908"/>
-        <updated>2023-04-08T11:13:36.432Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 챔피언 트릭스의 모자 트릭! 지지 않는 홍반장과 웃수저 김신의🤣 | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34759891</id>
-        <link href="https://tv.naver.com/v/34759891"/>
-        <updated>2023-04-08T11:13:36.433Z</updated>
-        <content type="html"><![CDATA[01:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAN(티에이엔)의 기선제압 퍼포먼스!🕺 세계 챔피언에게 댄스 배틀을?! | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34759808</id>
-        <link href="https://tv.naver.com/v/34759808"/>
-        <updated>2023-04-08T11:13:36.434Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1부 우승자🥳 소향 X 프라임킹즈! 소향이 직접 설명해 주는 우승의 의미 | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34759603</id>
-        <link href="https://tv.naver.com/v/34759603"/>
-        <updated>2023-04-08T10:16:40.735Z</updated>
-        <content type="html"><![CDATA[01:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심수봉 - 부부행진곡 | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34759412</id>
-        <link href="https://tv.naver.com/v/34759412"/>
-        <updated>2023-04-08T10:16:40.737Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 알리 - 여자이니까 | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34739846</id>
-        <link href="https://tv.naver.com/v/34739846"/>
-        <updated>2023-04-08T12:29:11.995Z</updated>
-        <content type="html"><![CDATA[05:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] TAN(티에이엔) - 남자는 배 여자는 항구 | KBS 230408 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/34739648</id>
-        <link href="https://tv.naver.com/v/34739648"/>
-        <updated>2023-04-08T12:29:11.996Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[미방분 공개] 댄서 백구영 3R 리허설 무대 영상 - 우리집, MBC 230409 방송 (복면가왕)]]></title>
