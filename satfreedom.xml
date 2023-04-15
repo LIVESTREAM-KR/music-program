@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-04-15T09:16:30.252Z</updated>
+    <updated>2023-04-15T10:17:25.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강예슬 - 짝사랑 + 오라버니 | KBS 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34983675</id>
+        <link href="https://tv.naver.com/v/34983675"/>
+        <updated>2023-04-15T10:17:17.658Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연자의 봄꽃 열차🌸 첫 번째 역 ＜광주＞! 다음 행선지는 과연? | KBS 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34983533</id>
+        <link href="https://tv.naver.com/v/34983533"/>
+        <updated>2023-04-15T10:17:17.660Z</updated>
+        <content type="html"><![CDATA[02:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연자 - 10분내로 + 제비처럼 + 밤 열차 | KBS 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34983512</id>
+        <link href="https://tv.naver.com/v/34983512"/>
+        <updated>2023-04-15T10:17:17.662Z</updated>
+        <content type="html"><![CDATA[04:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아름다운 봄날이 될 오늘! 2023 봄날 김연자의 봄꽃열차🌸 지금 출발합니다💕 | KBS 230415 방송]]></title>
+        <id>https://tv.naver.com/v/34983242</id>
+        <link href="https://tv.naver.com/v/34983242"/>
+        <updated>2023-04-15T10:17:17.667Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 안율X황민호X황민우 - 보약 같은 친구 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/34959589</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/34739648"/>
         <updated>2023-04-08T12:29:11.996Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 몽니 - 젊은 태양 | KBS 230408 방송]]></title>
-        <id>https://tv.naver.com/v/34739512</id>
-        <link href="https://tv.naver.com/v/34739512"/>
-        <updated>2023-04-08T12:29:11.997Z</updated>
-        <content type="html"><![CDATA[05:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 송가인 - 비나리 | KBS 230408 방송]]></title>
-        <id>https://tv.naver.com/v/34739417</id>
-        <link href="https://tv.naver.com/v/34739417"/>
-        <updated>2023-04-08T12:29:11.998Z</updated>
-        <content type="html"><![CDATA[05:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 심수봉 - 부부행진곡 | KBS 230408 방송]]></title>
-        <id>https://tv.naver.com/v/34739388</id>
-        <link href="https://tv.naver.com/v/34739388"/>
-        <updated>2023-04-08T12:29:12.000Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 양지은 - 올 가을엔 사랑할거야 | KBS 230408 방송]]></title>
-        <id>https://tv.naver.com/v/34739269</id>
-        <link href="https://tv.naver.com/v/34739269"/>
-        <updated>2023-04-08T12:29:12.001Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
     </entry>
 </feed>
