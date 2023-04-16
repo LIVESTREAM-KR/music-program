@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-04-16T06:20:48.577Z</updated>
+    <updated>2023-04-16T07:15:17.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 23016 방송]]></title>
+        <id>https://tv.naver.com/v/34999284</id>
+        <link href="https://tv.naver.com/v/34999284"/>
+        <updated>2023-04-16T07:14:41.590Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAXY(크랙시) - NUGUDOM | SBS 23016 방송]]></title>
+        <id>https://tv.naver.com/v/34999283</id>
+        <link href="https://tv.naver.com/v/34999283"/>
+        <updated>2023-04-16T07:14:41.590Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers - 도깨비집(TRICKY HOUSE) | SBS 23016 방송]]></title>
+        <id>https://tv.naver.com/v/34999154</id>
+        <link href="https://tv.naver.com/v/34999154"/>
+        <updated>2023-04-16T07:14:41.593Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이아영 - 마지막이란 걸 알면서도 | SBS 23016 방송]]></title>
+        <id>https://tv.naver.com/v/34999026</id>
+        <link href="https://tv.naver.com/v/34999026"/>
+        <updated>2023-04-16T07:14:41.593Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림노트(DreamNote) - Lemonade | SBS 23016 방송]]></title>
+        <id>https://tv.naver.com/v/34998916</id>
+        <link href="https://tv.naver.com/v/34998916"/>
+        <updated>2023-04-16T07:14:41.593Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230409 방송]]></title>
         <id>https://tv.naver.com/v/34776593</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/34554206"/>
         <updated>2023-04-02T08:19:40.541Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KINGDOM(킹덤) - 혼(魂; Dystopia) | SBS 230402 방송]]></title>
-        <id>https://tv.naver.com/v/34554202</id>
-        <link href="https://tv.naver.com/v/34554202"/>
-        <updated>2023-04-02T08:19:40.542Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 230402 방송]]></title>
-        <id>https://tv.naver.com/v/34554115</id>
-        <link href="https://tv.naver.com/v/34554115"/>
-        <updated>2023-04-02T08:19:40.542Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230402 방송]]></title>
-        <id>https://tv.naver.com/v/34554038</id>
-        <link href="https://tv.naver.com/v/34554038"/>
-        <updated>2023-04-02T07:14:18.441Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | SBS 230402 방송]]></title>
-        <id>https://tv.naver.com/v/34554036</id>
-        <link href="https://tv.naver.com/v/34554036"/>
-        <updated>2023-04-02T07:14:18.443Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세리(달샤벳) - Spotlight | SBS 230402 방송]]></title>
-        <id>https://tv.naver.com/v/34553935</id>
-        <link href="https://tv.naver.com/v/34553935"/>
-        <updated>2023-04-02T07:14:18.445Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
