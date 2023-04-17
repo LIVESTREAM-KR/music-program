@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-17T09:18:25.681Z</updated>
+    <updated>2023-04-17T10:19:05.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - I AM(아이브 장원영 - 아이엠) Close-up Cam | Show! MusicCore | MBC230415방송]]></title>
+        <id>https://tv.naver.com/v/35038912</id>
+        <link href="https://tv.naver.com/v/35038912"/>
+        <updated>2023-04-17T10:18:23.350Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE LEESEO - I AM(아이브 이서 - 아이엠) Close-up Cam | Show! MusicCore | MBC230415방송]]></title>
+        <id>https://tv.naver.com/v/35038581</id>
+        <link href="https://tv.naver.com/v/35038581"/>
+        <updated>2023-04-17T10:18:23.350Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE LIZ - I AM(아이브 리즈 - 아이엠) Close-up Cam | Show! MusicCore | MBC230415방송]]></title>
+        <id>https://tv.naver.com/v/35038580</id>
+        <link href="https://tv.naver.com/v/35038580"/>
+        <updated>2023-04-17T10:18:23.352Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE GAEUL - I AM(아이브 가을 - 아이엠) Close-up Cam | Show! MusicCore | MBC230415방송]]></title>
+        <id>https://tv.naver.com/v/35038341</id>
+        <link href="https://tv.naver.com/v/35038341"/>
+        <updated>2023-04-17T10:18:23.352Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE YUJIN - I AM(아이브 안유진 - 아이엠) Close-up Cam | Show! MusicCore | MBC230415방송]]></title>
+        <id>https://tv.naver.com/v/35038337</id>
+        <link href="https://tv.naver.com/v/35038337"/>
+        <updated>2023-04-17T10:18:23.352Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최애직캠] SULLYOON - Mr. Chu(설윤 – 미스터 츄) Close-up Cam | Show! MusicCore | MBC230415방송]]></title>
         <id>https://tv.naver.com/v/35033631</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/34983660"/>
         <updated>2023-04-15T10:16:43.495Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er XIAOTING – Giddy(케플러 샤오팅 - 기디) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34983530</id>
-        <link href="https://tv.naver.com/v/34983530"/>
-        <updated>2023-04-15T10:16:43.499Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er - Giddy(케플러 – 기디) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34983507</id>
-        <link href="https://tv.naver.com/v/34983507"/>
-        <updated>2023-04-15T10:16:43.500Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE AN YUJIN – Kitsch(아이브 안유진 - 키치) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34983407</id>
-        <link href="https://tv.naver.com/v/34983407"/>
-        <updated>2023-04-15T10:16:43.500Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE JANG WONYOUNG – Kitsch(아이브 장원영 - 키치) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34983237</id>
-        <link href="https://tv.naver.com/v/34983237"/>
-        <updated>2023-04-15T10:16:43.505Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE - Kitsch(아이브 – 키치) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34983234</id>
-        <link href="https://tv.naver.com/v/34983234"/>
-        <updated>2023-04-15T10:16:43.514Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
 </feed>
