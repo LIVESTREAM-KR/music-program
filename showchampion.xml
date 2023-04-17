@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-04-17T05:17:00.323Z</updated>
+    <updated>2023-04-17T06:23:07.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Billlie랑 같이 드라이브 할 사람?🙋[예고]]]></title>
+        <id>https://tv.naver.com/v/35028497</id>
+        <link href="https://tv.naver.com/v/35028497"/>
+        <updated>2023-04-17T06:22:50.459Z</updated>
+        <content type="html"><![CDATA[01:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월 2주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (우아! 나나, 빌리 문수아&츠키) | Show Champion | EP.471]]></title>
         <id>https://tv.naver.com/v/34906300</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/34884179</id>
         <link href="https://tv.naver.com/v/34884179"/>
         <updated>2023-04-12T13:21:28.209Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie SHEON - EUNOIA (빌리 션 - 유노이아) | Show Champion | EP.471]]></title>
-        <id>https://tv.naver.com/v/34883906</id>
-        <link href="https://tv.naver.com/v/34883906"/>
-        <updated>2023-04-12T13:21:28.210Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
     </entry>
 </feed>
