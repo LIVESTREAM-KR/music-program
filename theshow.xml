@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-04-18T10:18:43.388Z</updated>
+    <updated>2023-04-18T11:15:23.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/35080239</id>
+        <link href="https://tv.naver.com/v/35080239"/>
+        <updated>2023-04-18T11:15:01.405Z</updated>
+        <content type="html"><![CDATA[04:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 가장 높은 곳에서 빛이 나는 화려한 존재감, IVE 'I AM']]></title>
+        <id>https://tv.naver.com/v/35079901</id>
+        <link href="https://tv.naver.com/v/35079901"/>
+        <updated>2023-04-18T11:15:01.405Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 대체불가 완성형 아이콘, IVE 'Kitsch']]></title>
+        <id>https://tv.naver.com/v/35079898</id>
+        <link href="https://tv.naver.com/v/35079898"/>
+        <updated>2023-04-18T11:15:01.414Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Solo Debut] 귓가를 맴도는 짜릿한 목소리, 예은(YEEUN) 'Cherry Coke']]></title>
+        <id>https://tv.naver.com/v/35079746</id>
+        <link href="https://tv.naver.com/v/35079746"/>
+        <updated>2023-04-18T11:15:01.414Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 빠져들게 되는 덫처럼 치명적인 섹시, 박지훈 'Blank Effect (무표정)']]></title>
+        <id>https://tv.naver.com/v/35079581</id>
+        <link href="https://tv.naver.com/v/35079581"/>
+        <updated>2023-04-18T11:15:01.419Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 강렬해진 매력의 독보적 '퍼포먼스 퀸', 이채연 'KNOCK']]></title>
+        <id>https://tv.naver.com/v/35079577</id>
+        <link href="https://tv.naver.com/v/35079577"/>
+        <updated>2023-04-18T11:15:01.419Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 눈을 뗄 수 없는 파워풀한 매력, 이채연 'I Don’t Wanna Know']]></title>
+        <id>https://tv.naver.com/v/35079250</id>
+        <link href="https://tv.naver.com/v/35079250"/>
+        <updated>2023-04-18T11:15:01.419Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Comeback] '걸스 히어로'에서 사랑을 갈구하는 '케냥이'로 변신!, 케플러(Kep1er) 'Giddy']]></title>
         <id>https://tv.naver.com/v/35079092</id>
@@ -13,18 +62,18 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Comeback] 시원한 파란물결이 있는 곳으로 데려다주는, 드림노트(DreamNote) 'Lemonade']]></title>
-        <id>https://tv.naver.com/v/35078942</id>
-        <link href="https://tv.naver.com/v/35078942"/>
-        <updated>2023-04-18T10:18:21.901Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[청량과 몽환을 동시에 보여주는 다채로움, Billlie 'EUNOIA']]></title>
         <id>https://tv.naver.com/v/35078943</id>
         <link href="https://tv.naver.com/v/35078943"/>
         <updated>2023-04-18T10:18:21.907Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 시원한 파란물결이 있는 곳으로 데려다주는, 드림노트(DreamNote) 'Lemonade']]></title>
+        <id>https://tv.naver.com/v/35078942</id>
+        <link href="https://tv.naver.com/v/35078942"/>
+        <updated>2023-04-18T10:18:21.901Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[내꾸하짤] MC 여상 & IVE]]></title>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/34622470"/>
         <updated>2023-04-04T11:14:21.779Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강력한 포부를 담은 K팝 선두주자, CRAXY (크랙시) 'NUGUDOM']]></title>
-        <id>https://tv.naver.com/v/34622274</id>
-        <link href="https://tv.naver.com/v/34622274"/>
-        <updated>2023-04-04T11:14:21.792Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 짙은 감성의 소유자, 남승민 '세글자]]></title>
-        <id>https://tv.naver.com/v/34622099</id>
-        <link href="https://tv.naver.com/v/34622099"/>
-        <updated>2023-04-04T11:14:21.793Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스러운 에너지 뿜뿜!, 아리 'Eyes On Me']]></title>
-        <id>https://tv.naver.com/v/34621606</id>
-        <link href="https://tv.naver.com/v/34621606"/>
-        <updated>2023-04-04T10:18:17.803Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4세대 대표 퍼포먼스돌, TRENDZ(트렌드지) 'NEW DAYZ']]></title>
-        <id>https://tv.naver.com/v/34621175</id>
-        <link href="https://tv.naver.com/v/34621175"/>
-        <updated>2023-04-04T10:18:17.805Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밝은 희망과 애잔함을 동시에 느낄 수 있는, HAWW (하우) 'Wanna Be Love']]></title>
-        <id>https://tv.naver.com/v/34621024</id>
-        <link href="https://tv.naver.com/v/34621024"/>
-        <updated>2023-04-04T10:18:17.806Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/34417740</id>
-        <link href="https://tv.naver.com/v/34417740"/>
-        <updated>2023-03-28T11:16:05.693Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Special Stage] 화요일을 책임질 세 남자의 신고식, MC NAEggUZ '花요일 (Blooming Day) (원곡: EXO-CBX (첸백시))']]></title>
-        <id>https://tv.naver.com/v/34417551</id>
-        <link href="https://tv.naver.com/v/34417551"/>
-        <updated>2023-03-28T11:16:05.695Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>

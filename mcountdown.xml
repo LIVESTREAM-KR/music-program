@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-04-18T10:18:43.373Z</updated>
+    <updated>2023-04-18T11:15:23.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케플러(Kep1er)가 알려주는 이번 주 엠카우트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/35080566</id>
+        <link href="https://tv.naver.com/v/35080566"/>
+        <updated>2023-04-18T11:14:54.076Z</updated>
+        <content type="html"><![CDATA[01:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' IVE - I AM | Mnet 230413 방송]]></title>
         <id>https://tv.naver.com/v/34928138</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34488333"/>
         <updated>2023-03-30T11:15:01.369Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Groovy | Mnet 230330 방송]]></title>
-        <id>https://tv.naver.com/v/34488210</id>
-        <link href="https://tv.naver.com/v/34488210"/>
-        <updated>2023-03-30T11:15:01.369Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
