@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-18T08:22:27.422Z</updated>
+    <updated>2023-04-18T09:18:16.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Kep1er XIAOTING - Giddy(케플러 샤오팅 - 기디) Close-up Cam | Show! MusicCore | MBC230415방송]]></title>
+        <id>https://tv.naver.com/v/35076702</id>
+        <link href="https://tv.naver.com/v/35076702"/>
+        <updated>2023-04-18T09:17:34.448Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Kep1er HUENING BAHIYYIH - Giddy(케플러 휴닝바히에 - 기디) Close-up Cam | Show! MusicCore | MBC230415방]]></title>
+        <id>https://tv.naver.com/v/35076540</id>
+        <link href="https://tv.naver.com/v/35076540"/>
+        <updated>2023-04-18T09:17:34.448Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - I AM(아이브 장원영 - 아이엠) Close-up Cam | Show! MusicCore | MBC230415방송]]></title>
         <id>https://tv.naver.com/v/35038912</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34984079"/>
         <updated>2023-04-15T11:13:15.773Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er HUENING BAHIYYIH – Giddy(케플러 휴닝바히에 - 기디) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34983949</id>
-        <link href="https://tv.naver.com/v/34983949"/>
-        <updated>2023-04-15T11:13:15.775Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er CHAEHYUN – Giddy(케플러 김채현 - 기디) FanCam | Show! MusicCore | MBC230415방송]]></title>
-        <id>https://tv.naver.com/v/34983947</id>
-        <link href="https://tv.naver.com/v/34983947"/>
-        <updated>2023-04-15T11:13:15.776Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
