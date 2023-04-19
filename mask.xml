@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-04-19T03:31:24.282Z</updated>
+    <updated>2023-04-19T08:28:37.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[클린버전 공개] 김구라&김성주 스페셜 무대 영상 - 가려진 시간 사이로, MBC 230416 방송]]></title>
+        <id>https://tv.naver.com/v/35103248</id>
+        <link href="https://tv.naver.com/v/35103248"/>
+        <updated>2023-04-19T08:28:36.483Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜계속되는 8주년 특집 🥳 8주년 가왕의 주인공은?＞ 복면가왕 401회 예고, MBC 230423 방송]]></title>
         <id>https://tv.naver.com/v/35004427</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34558323"/>
         <updated>2023-04-02T11:13:39.994Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['오히려 좋아' VS '가보자고'의 1라운드 무대 - 모든 날, 모든 순간, MBC 230402 방송]]></title>
-        <id>https://tv.naver.com/v/34557994</id>
-        <link href="https://tv.naver.com/v/34557994"/>
-        <updated>2023-04-02T11:13:39.995Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
