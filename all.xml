@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-20T11:15:17.822Z</updated>
+    <updated>2023-04-20T12:32:40.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Kitsch - IVE | KBS 230414 방송 (뮤직뱅크)]]></title>
@@ -649,7 +649,7 @@
         <content type="html"><![CDATA[02:21]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IVE - I AM | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <title type="html"><![CDATA['1위' IVE - I AM | Mnet 230420 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/35160895</id>
         <link href="https://tv.naver.com/v/35160895"/>
         <updated>2023-04-20T11:14:49.666Z</updated>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' TEMPEST(템페스트) - 난장(Dangerous) | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35163816</id>
+        <link href="https://tv.naver.com/v/35163816"/>
+        <updated>2023-04-20T12:32:11.747Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' TEMPEST(템페스트) - Freak Show | Mnet 230420 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/35159374</id>
         <link href="https://tv.naver.com/v/35159374"/>
@@ -731,6 +738,13 @@
         <link href="https://tv.naver.com/v/35158779"/>
         <updated>2023-04-20T10:18:56.434Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' 태양 (TAEYANG) | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35161912</id>
+        <link href="https://tv.naver.com/v/35161912"/>
+        <updated>2023-04-20T12:32:11.763Z</updated>
+        <content type="html"><![CDATA[00:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서 (Shining Bright) | Mnet 230420 방송 (엠카운트다운)]]></title>
@@ -829,20 +843,6 @@
         <link href="https://tv.naver.com/v/34926861"/>
         <updated>2023-04-13T11:14:37.025Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - Love Me Like This | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34926743</id>
-        <link href="https://tv.naver.com/v/34926743"/>
-        <updated>2023-04-13T11:14:37.025Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라포엠(LA POEM) - The Fire | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34926738</id>
-        <link href="https://tv.naver.com/v/34926738"/>
-        <updated>2023-04-13T11:14:37.027Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
