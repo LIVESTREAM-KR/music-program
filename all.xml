@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-20T10:19:27.549Z</updated>
+    <updated>2023-04-20T11:15:17.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Kitsch - IVE | KBS 230414 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,76 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' 이기광 - Predator | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35161261</id>
+        <link href="https://tv.naver.com/v/35161261"/>
+        <updated>2023-04-20T11:14:49.664Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 이기광 - Favorite | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35161083</id>
+        <link href="https://tv.naver.com/v/35161083"/>
+        <updated>2023-04-20T11:14:49.666Z</updated>
+        <content type="html"><![CDATA[02:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IVE - I AM | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35160895</id>
+        <link href="https://tv.naver.com/v/35160895"/>
+        <updated>2023-04-20T11:14:49.666Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박지훈 - Blank Effect (무표정) | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35160708</id>
+        <link href="https://tv.naver.com/v/35160708"/>
+        <updated>2023-04-20T11:14:49.666Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러(Kep1er) - Giddy | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35160705</id>
+        <link href="https://tv.naver.com/v/35160705"/>
+        <updated>2023-04-20T11:14:49.667Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김우석 - Dawn | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35160539</id>
+        <link href="https://tv.naver.com/v/35160539"/>
+        <updated>2023-04-20T11:14:49.667Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이채연 - KNOCK | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35160341</id>
+        <link href="https://tv.naver.com/v/35160341"/>
+        <updated>2023-04-20T11:14:49.667Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예은 - Cherry Coke | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35160182</id>
+        <link href="https://tv.naver.com/v/35160182"/>
+        <updated>2023-04-20T11:14:49.667Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' DRIPPIN - SEVEN SINS | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35159968</id>
+        <link href="https://tv.naver.com/v/35159968"/>
+        <updated>2023-04-20T11:14:49.667Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HISTORY M' xikers(싸이커스) - BOOMERANG (부메랑) (원곡：Wanna One (워너원)) | Mnet 230420 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35159812</id>
+        <link href="https://tv.naver.com/v/35159812"/>
+        <updated>2023-04-20T11:14:49.669Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' TEMPEST(템페스트) - Freak Show | Mnet 230420 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/35159374</id>
         <link href="https://tv.naver.com/v/35159374"/>
@@ -773,76 +843,6 @@
         <link href="https://tv.naver.com/v/34926738"/>
         <updated>2023-04-13T11:14:37.027Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' 〈BOYS PLANET〉 Overdose - Over Me | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34926622</id>
-        <link href="https://tv.naver.com/v/34926622"/>
-        <updated>2023-04-13T11:14:37.030Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - 도깨비집 (TRICKY HOUSE) | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34926478</id>
-        <link href="https://tv.naver.com/v/34926478"/>
-        <updated>2023-04-13T11:14:37.031Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 드림노트(DreamNote) - Lemonade | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34926042</id>
-        <link href="https://tv.naver.com/v/34926042"/>
-        <updated>2023-04-13T10:17:58.686Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 케플러 (Kep1er) | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34926041</id>
-        <link href="https://tv.naver.com/v/34926041"/>
-        <updated>2023-04-13T10:17:58.687Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서 (Shining Bright) | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34925771</id>
-        <link href="https://tv.naver.com/v/34925771"/>
-        <updated>2023-04-13T10:17:58.688Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SOPILER M' NCT DOJAEJUNG (NCT 도재정) | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34925769</id>
-        <link href="https://tv.naver.com/v/34925769"/>
-        <updated>2023-04-13T10:17:58.691Z</updated>
-        <content type="html"><![CDATA[01:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAXY (크랙시) - NUGUDOM | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34925451</id>
-        <link href="https://tv.naver.com/v/34925451"/>
-        <updated>2023-04-13T10:17:58.693Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN' (아이칠린) - Alarm | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34925112</id>
-        <link href="https://tv.naver.com/v/34925112"/>
-        <updated>2023-04-13T10:17:58.694Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뱀뱀(BamBam)이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34848683</id>
-        <link href="https://tv.naver.com/v/34848683"/>
-        <updated>2023-04-11T10:19:08.184Z</updated>
-        <content type="html"><![CDATA[00:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1위' 지민 (Jimin) - Like Crazy | Mnet 230330 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34490982</id>
-        <link href="https://tv.naver.com/v/34490982"/>
-        <updated>2023-03-30T12:35:01.169Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
