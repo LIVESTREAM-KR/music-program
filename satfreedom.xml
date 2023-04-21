@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-04-21T11:15:00.316Z</updated>
+    <updated>2023-04-21T12:32:02.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 아모르파티 - 김연자&전 출연자 | KBS 230415 방송]]></title>
+        <id>https://tv.naver.com/v/35200068</id>
+        <link href="https://tv.naver.com/v/35200068"/>
+        <updated>2023-04-21T12:31:54.393Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 걱정 붙들어 매&천하장사 - 정미애 | KBS 230415 방송]]></title>
+        <id>https://tv.naver.com/v/35199903</id>
+        <link href="https://tv.naver.com/v/35199903"/>
+        <updated>2023-04-21T12:31:54.394Z</updated>
+        <content type="html"><![CDATA[04:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 풍등 - 이찬원 | KBS 230415 방송]]></title>
+        <id>https://tv.naver.com/v/35199482</id>
+        <link href="https://tv.naver.com/v/35199482"/>
+        <updated>2023-04-21T12:31:54.395Z</updated>
+        <content type="html"><![CDATA[04:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 봄날은 간다 - 김연자&양지은 | KBS 230415 방송]]></title>
+        <id>https://tv.naver.com/v/35199480</id>
+        <link href="https://tv.naver.com/v/35199480"/>
+        <updated>2023-04-21T12:31:54.396Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 10분 내로&제비처럼&밤열차 - 김연자 | KBS 230415 방송]]></title>
+        <id>https://tv.naver.com/v/35199477</id>
+        <link href="https://tv.naver.com/v/35199477"/>
+        <updated>2023-04-21T12:31:54.397Z</updated>
+        <content type="html"><![CDATA[05:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] TAN이 야심껏 준비한 남자 아이돌 댄스 메들리✨️ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/35183732</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/34983242"/>
         <updated>2023-04-15T10:17:17.667Z</updated>
         <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 블링블링 - 황민우 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34964634</id>
-        <link href="https://tv.naver.com/v/34964634"/>
-        <updated>2023-04-15T12:30:07.818Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 단장의 미아리 고개 - 김연자 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34964393</id>
-        <link href="https://tv.naver.com/v/34964393"/>
-        <updated>2023-04-15T12:30:07.820Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 감수광&나도 한 잔 - 양지은 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34964391</id>
-        <link href="https://tv.naver.com/v/34964391"/>
-        <updated>2023-04-15T12:30:07.821Z</updated>
-        <content type="html"><![CDATA[06:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 진또배기 - 황민호 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34964359</id>
-        <link href="https://tv.naver.com/v/34964359"/>
-        <updated>2023-04-15T12:30:07.822Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 영동 부르스 - 이찬원 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34964201</id>
-        <link href="https://tv.naver.com/v/34964201"/>
-        <updated>2023-04-15T12:30:07.823Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
