@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-04-21T09:17:54.075Z</updated>
+    <updated>2023-04-21T10:18:04.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I AM - IVE | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195987</id>
+        <link href="https://tv.naver.com/v/35195987"/>
+        <updated>2023-04-21T10:17:15.972Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predator - 이기광 | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195820</id>
+        <link href="https://tv.naver.com/v/35195820"/>
+        <updated>2023-04-21T10:17:15.972Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHOW DOWN - 앨리스(ALICE) | KBS 230421 방송]]></title>
+        <id>https://tv.naver.com/v/35195815</id>
+        <link href="https://tv.naver.com/v/35195815"/>
+        <updated>2023-04-21T10:17:15.972Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blank Effect (무표정) - 박지훈 | KBS 230421 방송]]></title>
         <id>https://tv.naver.com/v/35195442</id>
@@ -41,7 +62,7 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cherry Tok - 예은(YEEUN) | KBS 230421 방송]]></title>
+        <title type="html"><![CDATA[Cherry Coke - 예은(YEEUN) | KBS 230421 방송]]></title>
         <id>https://tv.naver.com/v/35194826</id>
         <link href="https://tv.naver.com/v/35194826"/>
         <updated>2023-04-21T09:17:06.158Z</updated>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/34959919"/>
         <updated>2023-04-14T09:16:43.890Z</updated>
         <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOT ME (Feat.DJ 세마) - 피스트범프(FISTBUMP) | KBS 230414 방송]]></title>
-        <id>https://tv.naver.com/v/34959540</id>
-        <link href="https://tv.naver.com/v/34959540"/>
-        <updated>2023-04-14T09:16:43.896Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D N D - 에이핑크 | KBS 230407 방송]]></title>
-        <id>https://tv.naver.com/v/34736637</id>
-        <link href="https://tv.naver.com/v/34736637"/>
-        <updated>2023-04-07T10:17:20.764Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Me, Myself & I - 에이핑크 | KBS 230407 방송]]></title>
-        <id>https://tv.naver.com/v/34736633</id>
-        <link href="https://tv.naver.com/v/34736633"/>
-        <updated>2023-04-07T10:17:20.765Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
