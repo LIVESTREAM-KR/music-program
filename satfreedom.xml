@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-04-21T04:20:55.313Z</updated>
+    <updated>2023-04-21T05:16:27.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] TAN이 야심껏 준비한 남자 아이돌 댄스 메들리✨️ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/35183732</id>
+        <link href="https://tv.naver.com/v/35183732"/>
+        <updated>2023-04-21T05:16:20.088Z</updated>
+        <content type="html"><![CDATA[01:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양지은 - 나도 한 잔 | KBS 230415 방송]]></title>
         <id>https://tv.naver.com/v/35000604</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34964201"/>
         <updated>2023-04-15T12:30:07.823Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 사랑이 이런 건가요 - 안율 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34964091</id>
-        <link href="https://tv.naver.com/v/34964091"/>
-        <updated>2023-04-15T12:30:07.825Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
