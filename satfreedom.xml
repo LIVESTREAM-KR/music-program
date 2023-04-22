@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-04-22T09:16:09.324Z</updated>
+    <updated>2023-04-22T10:17:28.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TAN의 무기는 젊음✨ 이미 늦어버린 수습? 우승 욕심 가득한 포부! | KBS 230422 방송]]></title>
+        <id>https://tv.naver.com/v/35220118</id>
+        <link href="https://tv.naver.com/v/35220118"/>
+        <updated>2023-04-22T10:17:21.594Z</updated>
+        <content type="html"><![CDATA[02:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라포엠&이지훈&몽니의 3옥타브 미 대결🤣 우승에 목마른 자들! 오늘의 라인업💟 | KBS 230422 방송]]></title>
+        <id>https://tv.naver.com/v/35220045</id>
+        <link href="https://tv.naver.com/v/35220045"/>
+        <updated>2023-04-22T10:17:21.595Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영원한 발라드 귀공자 이지훈🤴 새로운 결의 반칙 등장! 오늘의 선곡은? | KBS 230422 방송]]></title>
+        <id>https://tv.naver.com/v/35219855</id>
+        <link href="https://tv.naver.com/v/35219855"/>
+        <updated>2023-04-22T10:17:21.596Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최정원 & 뮤지컬＜맘마미아!＞ 팀 - Dancing Queen + Waterloo | KBS 230422 방송]]></title>
+        <id>https://tv.naver.com/v/35219772</id>
+        <link href="https://tv.naver.com/v/35219772"/>
+        <updated>2023-04-22T10:17:21.598Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4K 직캠] 아모르파티 - 김연자&전 출연자 | KBS 230415 방송]]></title>
         <id>https://tv.naver.com/v/35200068</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/34983951"/>
         <updated>2023-04-15T11:13:50.324Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강예슬 - 짝사랑 + 오라버니 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34983675</id>
-        <link href="https://tv.naver.com/v/34983675"/>
-        <updated>2023-04-15T10:17:17.658Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김연자의 봄꽃 열차🌸 첫 번째 역 ＜광주＞! 다음 행선지는 과연? | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34983533</id>
-        <link href="https://tv.naver.com/v/34983533"/>
-        <updated>2023-04-15T10:17:17.660Z</updated>
-        <content type="html"><![CDATA[02:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김연자 - 10분내로 + 제비처럼 + 밤 열차 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34983512</id>
-        <link href="https://tv.naver.com/v/34983512"/>
-        <updated>2023-04-15T10:17:17.662Z</updated>
-        <content type="html"><![CDATA[04:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아름다운 봄날이 될 오늘! 2023 봄날 김연자의 봄꽃열차🌸 지금 출발합니다💕 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34983242</id>
-        <link href="https://tv.naver.com/v/34983242"/>
-        <updated>2023-04-15T10:17:17.667Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
     </entry>
 </feed>
