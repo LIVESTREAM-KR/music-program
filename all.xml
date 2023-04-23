@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-23T06:22:06.189Z</updated>
+    <updated>2023-04-23T07:15:45.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I AM - IVE | KBS 230421 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,55 @@
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230423 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35235852</id>
+        <link href="https://tv.naver.com/v/35235852"/>
+        <updated>2023-04-23T07:15:08.629Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST(템페스트) - 난장(Dangerous)  | SBS 230423 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35235826</id>
+        <link href="https://tv.naver.com/v/35235826"/>
+        <updated>2023-04-23T07:15:08.635Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박현서 - 나의 봄이 되어줘(Be my spring) | SBS 230423 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35235698</id>
+        <link href="https://tv.naver.com/v/35235698"/>
+        <updated>2023-04-23T07:15:08.637Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림노트(DreamNote) - Lemonade | SBS 230423 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35235697</id>
+        <link href="https://tv.naver.com/v/35235697"/>
+        <updated>2023-04-23T07:15:08.643Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황우림 - 아빠 딸 | SBS 230423 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35235590</id>
+        <link href="https://tv.naver.com/v/35235590"/>
+        <updated>2023-04-23T07:15:08.648Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예빈나다 - 봄의 고백 | SBS 230423 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35235342</id>
+        <link href="https://tv.naver.com/v/35235342"/>
+        <updated>2023-04-23T07:15:08.652Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앨리스(ALICE) - SHOW DOWN | SBS 230423 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35235345</id>
+        <link href="https://tv.naver.com/v/35235345"/>
+        <updated>2023-04-23T07:15:08.657Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지수(JISOO) - 꽃(FLOWER) | SBS 230416 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/35000467</id>
         <link href="https://tv.naver.com/v/35000467"/>
@@ -584,55 +633,6 @@
         <link href="https://tv.naver.com/v/34776230"/>
         <updated>2023-04-09T08:19:22.738Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billlie - EUNOIA | SBS 230409 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34776107</id>
-        <link href="https://tv.naver.com/v/34776107"/>
-        <updated>2023-04-09T08:19:22.739Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KINGDOM(킹덤) - 혼(魂; Dystopia) | SBS 230409 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34776105</id>
-        <link href="https://tv.naver.com/v/34776105"/>
-        <updated>2023-04-09T08:19:22.739Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - NEW DAYZ | SBS 230409 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34776008</id>
-        <link href="https://tv.naver.com/v/34776008"/>
-        <updated>2023-04-09T08:19:22.740Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서 (Shining Bright) | SBS 230409 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34775896</id>
-        <link href="https://tv.naver.com/v/34775896"/>
-        <updated>2023-04-09T08:19:22.741Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers - INTRO+도깨비집(TRICKY HOUSE) | SBS 230409 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34775694</id>
-        <link href="https://tv.naver.com/v/34775694"/>
-        <updated>2023-04-09T07:14:52.264Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아리(Ahri) - Eyes On Me | SBS 230409 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34775561</id>
-        <link href="https://tv.naver.com/v/34775561"/>
-        <updated>2023-04-09T07:14:52.264Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MC김지은×형원 - 봄 사랑 벚꽃 말고 | SBS 230409 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34775461</id>
-        <link href="https://tv.naver.com/v/34775461"/>
-        <updated>2023-04-09T07:14:52.265Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 이기광 - Predator | Mnet 230420 방송 (엠카운트다운)]]></title>
