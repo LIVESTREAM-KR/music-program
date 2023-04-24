@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-24T07:16:48.317Z</updated>
+    <updated>2023-04-24T08:22:28.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I AM - IVE | KBS 230421 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[02:43]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE.zip 📂 ELEVEN부터 I AM까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35264720</id>
+        <link href="https://tv.naver.com/v/35264720"/>
+        <updated>2023-04-24T08:21:46.347Z</updated>
+        <content type="html"><![CDATA[21:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - I AM(아이브 장원영 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35266707</id>
+        <link href="https://tv.naver.com/v/35266707"/>
+        <updated>2023-04-24T08:21:46.347Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE YUJIN - I AM(아이브 안유진 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35266479</id>
+        <link href="https://tv.naver.com/v/35266479"/>
+        <updated>2023-04-24T08:21:46.347Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE GAEUL - I AM(아이브 가을 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35266218</id>
+        <link href="https://tv.naver.com/v/35266218"/>
+        <updated>2023-04-24T08:21:46.347Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] IVE LEESEO - I AM(아이브 이서 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35266031</id>
         <link href="https://tv.naver.com/v/35266031"/>
@@ -395,34 +423,6 @@
         <link href="https://tv.naver.com/v/35220605"/>
         <updated>2023-04-22T11:14:16.423Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST LEW – Dangerous(템페스트 루 - 난장) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35220511</id>
-        <link href="https://tv.naver.com/v/35220511"/>
-        <updated>2023-04-22T11:14:16.427Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO – I AM(아이브 이서 - 아이엠) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35220426</id>
-        <link href="https://tv.naver.com/v/35220426"/>
-        <updated>2023-04-22T11:14:16.429Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE AN YUJIN – I AM(아이브 안유진 - 아이엠) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35220320</id>
-        <link href="https://tv.naver.com/v/35220320"/>
-        <updated>2023-04-22T11:14:16.431Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE JANG WONYOUNG – I AM(아이브 장원영 - 아이엠) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35220219</id>
-        <link href="https://tv.naver.com/v/35220219"/>
-        <updated>2023-04-22T11:14:16.432Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이기광 - Predator | SBS 230423 방송 (인기가요)]]></title>
@@ -1055,6 +1055,27 @@
         <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] CSR - Shining Bright (첫사랑 - 빛을 따라서) | Show Champion | EP.472 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/35146581</id>
+        <link href="https://tv.naver.com/v/35146581"/>
+        <updated>2023-04-24T08:22:13.890Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] YEEUN - Strange Way To Love (예은 - 스트레인지 웨이 투 러브) | Show Champion | EP.472 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/35146353</id>
+        <link href="https://tv.naver.com/v/35146353"/>
+        <updated>2023-04-24T08:22:13.890Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] LEE CHAEYEON - I Don't Wanna Know (이채연 - 아이돈 워너 노우) | Show Champion | EP.472 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/35145915</id>
+        <link href="https://tv.naver.com/v/35145915"/>
+        <updated>2023-04-24T08:22:13.890Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie SHEON - EUNOIA (빌리 션 - 유노이아) | Show Champion | EP.472 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/35125373</id>
         <link href="https://tv.naver.com/v/35125373"/>
@@ -1242,27 +1263,6 @@
         <link href="https://tv.naver.com/v/35119686"/>
         <updated>2023-04-19T11:14:56.384Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] Kep1er - Giddy (케플러 - 기디) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/35119685</id>
-        <link href="https://tv.naver.com/v/35119685"/>
-        <updated>2023-04-19T11:14:56.391Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billlie -EUNOIA (빌리 - 유노이아) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/35119286</id>
-        <link href="https://tv.naver.com/v/35119286"/>
-        <updated>2023-04-19T10:19:05.976Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Park Hyeon Seo - Be my spring (박현서 - 나의 봄이 되어줘) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/35118934</id>
-        <link href="https://tv.naver.com/v/35118934"/>
-        <updated>2023-04-19T10:19:05.978Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 603회〈아티스트 최정원 편〉 우승자 ⭐라포엠⭐ | KBS 방송 (불후의 명곡)]]></title>
