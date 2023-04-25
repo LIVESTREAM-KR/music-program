@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-04-25T11:14:41.834Z</updated>
+    <updated>2023-04-25T12:32:57.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 맑고 시원한 고음으로 트로트까지 접수!🎉다재다능한 보컬로 사랑받는💕가수 은가은, MBC 230423 방송]]></title>
+        <id>https://tv.naver.com/v/35316245</id>
+        <link href="https://tv.naver.com/v/35316245"/>
+        <updated>2023-04-25T12:32:56.288Z</updated>
+        <content type="html"><![CDATA[14:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 국민의 선택💘을 받은 감성 발라더! 양요섭도 감탄한👍발라드 가수 조연호, MBC 230423 방송]]></title>
+        <id>https://tv.naver.com/v/35315497</id>
+        <link href="https://tv.naver.com/v/35315497"/>
+        <updated>2023-04-25T12:32:56.289Z</updated>
+        <content type="html"><![CDATA[10:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 칼군무 걸그룹의 레전드🔥 8년 차 경력직 신입돌✨VIVIZ(비비지) 엄지, MBC 230423 방송]]></title>
+        <id>https://tv.naver.com/v/35315133</id>
+        <link href="https://tv.naver.com/v/35315133"/>
+        <updated>2023-04-25T12:32:56.290Z</updated>
+        <content type="html"><![CDATA[08:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜제1회 복가 대학교 엠티＞ 복면가왕 402회 예고, MBC 230430 방송]]></title>
         <id>https://tv.naver.com/v/35240745</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/35002355"/>
         <updated>2023-04-16T10:17:14.619Z</updated>
         <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미방분 공개] 댄서 백구영 3R 리허설 무대 영상 - 우리집, MBC 230409 방송]]></title>
-        <id>https://tv.naver.com/v/34793715</id>
-        <link href="https://tv.naver.com/v/34793715"/>
-        <updated>2023-04-10T02:31:29.281Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜여덟 돌을 맞이한 복면가왕 🎉 8주년 특집 🎉 다들 보러 오실 거죠?＞ 복면가왕 400회 예고, MBC 230416 방송]]></title>
-        <id>https://tv.naver.com/v/34780771</id>
-        <link href="https://tv.naver.com/v/34780771"/>
-        <updated>2023-04-09T12:29:50.717Z</updated>
-        <content type="html"><![CDATA[00:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우승 트로피'의 가왕 방어전 무대 - 오르트구름, MBC 230409 방송]]></title>
-        <id>https://tv.naver.com/v/34780403</id>
-        <link href="https://tv.naver.com/v/34780403"/>
-        <updated>2023-04-09T11:13:21.912Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
     </entry>
 </feed>
