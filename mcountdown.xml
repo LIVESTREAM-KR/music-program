@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-04-25T08:21:50.767Z</updated>
+    <updated>2023-04-25T09:18:08.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IVE가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/35310009</id>
+        <link href="https://tv.naver.com/v/35310009"/>
+        <updated>2023-04-25T09:17:36.711Z</updated>
+        <content type="html"><![CDATA[01:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 이기광 - Predator | Mnet 230420 방송]]></title>
         <id>https://tv.naver.com/v/35161261</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34927015"/>
         <updated>2023-04-13T11:14:37.023Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 예은 - Cherry Coke | Mnet 230413 방송]]></title>
-        <id>https://tv.naver.com/v/34926861</id>
-        <link href="https://tv.naver.com/v/34926861"/>
-        <updated>2023-04-13T11:14:37.025Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>

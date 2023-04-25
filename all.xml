@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-25T08:21:50.780Z</updated>
+    <updated>2023-04-25T09:18:08.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I AM - IVE | KBS 230421 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IVE가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35310009</id>
+        <link href="https://tv.naver.com/v/35310009"/>
+        <updated>2023-04-25T09:17:36.711Z</updated>
+        <content type="html"><![CDATA[01:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 이기광 - Predator | Mnet 230420 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/35161261</id>
         <link href="https://tv.naver.com/v/35161261"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/34927015"/>
         <updated>2023-04-13T11:14:37.023Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 예은 - Cherry Coke | Mnet 230413 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34926861</id>
-        <link href="https://tv.naver.com/v/34926861"/>
-        <updated>2023-04-13T11:14:37.025Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
