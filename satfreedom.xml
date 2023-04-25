@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-04-25T05:17:11.831Z</updated>
+    <updated>2023-04-25T06:22:05.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 김연지 - Memory | KBS 230422 방송]]></title>
+        <id>https://tv.naver.com/v/35301315</id>
+        <link href="https://tv.naver.com/v/35301315"/>
+        <updated>2023-04-25T06:21:58.084Z</updated>
+        <content type="html"><![CDATA[05:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[4K 직캠] 이지훈 - 대성당들의 시대 | KBS 230422 방송]]></title>
         <id>https://tv.naver.com/v/35277575</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35200068"/>
         <updated>2023-04-21T12:31:54.393Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 걱정 붙들어 매&천하장사 - 정미애 | KBS 230415 방송]]></title>
-        <id>https://tv.naver.com/v/35199903</id>
-        <link href="https://tv.naver.com/v/35199903"/>
-        <updated>2023-04-21T12:31:54.394Z</updated>
-        <content type="html"><![CDATA[04:30]]></content>
     </entry>
 </feed>
