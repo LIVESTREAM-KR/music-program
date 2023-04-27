@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-27T12:31:44.888Z</updated>
+    <updated>2023-04-27T13:21:38.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I AM - IVE | KBS 230421 방송 (뮤직뱅크)]]></title>
@@ -740,6 +740,13 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TEMPEST(템페스트) - 난장(Dangerous) | Mnet 230427 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35388968</id>
+        <link href="https://tv.naver.com/v/35388968"/>
+        <updated>2023-04-27T13:21:06.645Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[xikers(싸이커스) - ROCKSTAR | Mnet 230427 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/35388854</id>
         <link href="https://tv.naver.com/v/35388854"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/35160705"/>
         <updated>2023-04-20T11:14:49.667Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김우석 - Dawn | Mnet 230420 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35160539</id>
-        <link href="https://tv.naver.com/v/35160539"/>
-        <updated>2023-04-20T11:14:49.667Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Comeback] 벗어날 수 없는 중독적인 사랑, 이기광 'Predator' (더쇼)]]></title>
