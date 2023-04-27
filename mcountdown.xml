@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-04-27T09:17:05.782Z</updated>
+    <updated>2023-04-27T10:19:22.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - ROCKSTAR | Mnet 230427 방송]]></title>
+        <id>https://tv.naver.com/v/35388854</id>
+        <link href="https://tv.naver.com/v/35388854"/>
+        <updated>2023-04-27T10:18:53.177Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' LE SSERAFIM (르세라핌) | Mnet 230427 방송]]></title>
+        <id>https://tv.naver.com/v/35388704</id>
+        <link href="https://tv.naver.com/v/35388704"/>
+        <updated>2023-04-27T10:18:53.179Z</updated>
+        <content type="html"><![CDATA[01:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 블리처스 - 마카레나(Macarena) | Mnet 230427 방송]]></title>
+        <id>https://tv.naver.com/v/35388594</id>
+        <link href="https://tv.naver.com/v/35388594"/>
+        <updated>2023-04-27T10:18:53.185Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with NCT DOJAEJUNG (엔시티 도재정) | Mnet 230427 방송]]></title>
+        <id>https://tv.naver.com/v/35388479</id>
+        <link href="https://tv.naver.com/v/35388479"/>
+        <updated>2023-04-27T10:18:53.189Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' 주은 - Easy Breezy | Mnet 230427 방송]]></title>
+        <id>https://tv.naver.com/v/35388339</id>
+        <link href="https://tv.naver.com/v/35388339"/>
+        <updated>2023-04-27T10:18:53.192Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['UP NEXT' 세븐틴(SEVENTEEN) | Mnet 230427 방송]]></title>
+        <id>https://tv.naver.com/v/35388188</id>
+        <link href="https://tv.naver.com/v/35388188"/>
+        <updated>2023-04-27T10:18:53.194Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' XODIAC (소디엑) - THROW A DICE | Mnet 230427 방송]]></title>
+        <id>https://tv.naver.com/v/35388025</id>
+        <link href="https://tv.naver.com/v/35388025"/>
+        <updated>2023-04-27T10:18:53.198Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예빈나다 - 봄의 고백 | Mnet 230427 방송]]></title>
+        <id>https://tv.naver.com/v/35387863</id>
+        <link href="https://tv.naver.com/v/35387863"/>
+        <updated>2023-04-27T10:18:53.222Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IVE가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/35310009</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/34927982"/>
         <updated>2023-04-13T12:34:35.236Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 박지훈 - Blank Effect (무표정) | Mnet 230413 방송]]></title>
-        <id>https://tv.naver.com/v/34927828</id>
-        <link href="https://tv.naver.com/v/34927828"/>
-        <updated>2023-04-13T12:34:35.237Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 케플러 (Kep1er) - Giddy | Mnet 230413 방송]]></title>
-        <id>https://tv.naver.com/v/34927827</id>
-        <link href="https://tv.naver.com/v/34927827"/>
-        <updated>2023-04-13T12:34:35.237Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 케플러 (Kep1er) - Back to the City | Mnet 230413 방송]]></title>
-        <id>https://tv.naver.com/v/34927656</id>
-        <link href="https://tv.naver.com/v/34927656"/>
-        <updated>2023-04-13T12:34:35.241Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with IVE (아이브) | Mnet 230413 방송]]></title>
-        <id>https://tv.naver.com/v/34927496</id>
-        <link href="https://tv.naver.com/v/34927496"/>
-        <updated>2023-04-13T11:14:37.010Z</updated>
-        <content type="html"><![CDATA[01:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 김우석 - Dawn | Mnet 230413 방송]]></title>
-        <id>https://tv.naver.com/v/34927489</id>
-        <link href="https://tv.naver.com/v/34927489"/>
-        <updated>2023-04-13T11:14:37.020Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 이채연 - KNOCK | Mnet 230413 방송]]></title>
-        <id>https://tv.naver.com/v/34927321</id>
-        <link href="https://tv.naver.com/v/34927321"/>
-        <updated>2023-04-13T11:14:37.023Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billlie - EUNOIA | Mnet 230413 방송]]></title>
-        <id>https://tv.naver.com/v/34927163</id>
-        <link href="https://tv.naver.com/v/34927163"/>
-        <updated>2023-04-13T11:14:37.023Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HISTORY M' xikers(싸이커스)와 함께하는 3월의 엠카 핵심 요약.zip! | Mnet 230413 방송]]></title>
-        <id>https://tv.naver.com/v/34927015</id>
-        <link href="https://tv.naver.com/v/34927015"/>
-        <updated>2023-04-13T11:14:37.023Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
