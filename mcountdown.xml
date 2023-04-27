@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-04-27T11:14:33.545Z</updated>
+    <updated>2023-04-27T12:31:44.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 태양 - 나의 마음에 (Seed) | Mnet 230427 방송]]></title>
+        <id>https://tv.naver.com/v/35390669</id>
+        <link href="https://tv.naver.com/v/35390669"/>
+        <updated>2023-04-27T12:31:17.319Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 세븐틴 (SEVENTEEN) - 손오공 | Mnet 230427 방송]]></title>
         <id>https://tv.naver.com/v/35389971</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35160539"/>
         <updated>2023-04-20T11:14:49.667Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채연 - KNOCK | Mnet 230420 방송]]></title>
-        <id>https://tv.naver.com/v/35160341</id>
-        <link href="https://tv.naver.com/v/35160341"/>
-        <updated>2023-04-20T11:14:49.667Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
