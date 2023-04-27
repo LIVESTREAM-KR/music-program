@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-04-27T10:19:22.638Z</updated>
+    <updated>2023-04-27T11:14:33.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] LEE GI KWANG - Favorite (이기광 - 페이보릿) | Show Champion | EP.473]]></title>
+        <id>https://tv.naver.com/v/35381280</id>
+        <link href="https://tv.naver.com/v/35381280"/>
+        <updated>2023-04-27T11:14:20.939Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] DRIPPIN - STEREO (드리핀 - 스테레오) l Show Champion l EP.473]]></title>
+        <id>https://tv.naver.com/v/35353004</id>
+        <link href="https://tv.naver.com/v/35353004"/>
+        <updated>2023-04-27T11:14:20.939Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] LEE GI KWANG - Predator (이기광 - 프레데터) | Show Champion | EP.473]]></title>
         <id>https://tv.naver.com/v/35348872</id>
@@ -199,20 +213,6 @@
         <id>https://tv.naver.com/v/35334400</id>
         <link href="https://tv.naver.com/v/35334400"/>
         <updated>2023-04-26T13:21:34.660Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST - Dangerous (템페스트 - 난장) l Show Champion l EP.473]]></title>
-        <id>https://tv.naver.com/v/35334127</id>
-        <link href="https://tv.naver.com/v/35334127"/>
-        <updated>2023-04-26T13:21:34.661Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST EUNCHAN - Dangerous (템페스트 은찬 - 난장) | Show Champion | EP.473]]></title>
-        <id>https://tv.naver.com/v/35333959</id>
-        <link href="https://tv.naver.com/v/35333959"/>
-        <updated>2023-04-26T13:21:34.663Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
