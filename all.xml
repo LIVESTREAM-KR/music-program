@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-28T06:22:25.557Z</updated>
+    <updated>2023-04-28T07:16:58.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I AM - IVE | KBS 230421 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:43]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX – Love Me Like This(엔믹스 - 러브 미 라이크 디스) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35377575</id>
+        <link href="https://tv.naver.com/v/35377575"/>
+        <updated>2023-04-28T07:16:17.069Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] IVE.zip 📂 ELEVEN부터 I AM까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35264720</id>
         <link href="https://tv.naver.com/v/35264720"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/35220679"/>
         <updated>2023-04-22T11:14:16.422Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST HYEONGSEOP – Dangerous(템페스트 형섭 - 난장) FanCam | Show! MusicCore | MBC230422방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35220605</id>
-        <link href="https://tv.naver.com/v/35220605"/>
-        <updated>2023-04-22T11:14:16.423Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이기광 - Predator | SBS 230423 방송 (인기가요)]]></title>

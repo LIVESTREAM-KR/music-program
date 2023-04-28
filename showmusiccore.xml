@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-28T06:22:25.537Z</updated>
+    <updated>2023-04-28T07:16:58.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX – Love Me Like This(엔믹스 - 러브 미 라이크 디스) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/35377575</id>
+        <link href="https://tv.naver.com/v/35377575"/>
+        <updated>2023-04-28T07:16:17.069Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] IVE.zip 📂 ELEVEN부터 I AM까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/35264720</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35220679"/>
         <updated>2023-04-22T11:14:16.422Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST HYEONGSEOP – Dangerous(템페스트 형섭 - 난장) FanCam | Show! MusicCore | MBC230422방송]]></title>
-        <id>https://tv.naver.com/v/35220605</id>
-        <link href="https://tv.naver.com/v/35220605"/>
-        <updated>2023-04-22T11:14:16.423Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
