@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-29T11:13:38.032Z</updated>
+    <updated>2023-04-29T12:29:58.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Perfume - NCT DOJAEJUNG | KBS 230428 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] WOODZ - Journey(우즈 – 저니) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35450495</id>
+        <link href="https://tv.naver.com/v/35450495"/>
+        <updated>2023-04-29T12:29:14.345Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] Xdinary Heroes – Freakin’ Bad(엑스디너리 히어로즈 - 프리킹 배드) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35450324</id>
         <link href="https://tv.naver.com/v/35450324"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/35447381"/>
         <updated>2023-04-29T09:15:02.270Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Perfume(NCT 도재정 재현 - 퍼퓸) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35447282</id>
-        <link href="https://tv.naver.com/v/35447282"/>
-        <updated>2023-04-29T09:15:02.270Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이기광 - Predator | SBS 230423 방송 (인기가요)]]></title>
@@ -1265,6 +1265,62 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 🎵아티스트 송창식 편 2부🎵 모두가 욕심내는 오늘의 트로피! 놓치지 마세요❣️ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35451131</id>
+        <link href="https://tv.naver.com/v/35451131"/>
+        <updated>2023-04-29T12:29:50.471Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 604회〈아티스트 송창식 (1)편〉 우승자 ⭐이무진⭐ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35451028</id>
+        <link href="https://tv.naver.com/v/35451028"/>
+        <updated>2023-04-29T12:29:50.472Z</updated>
+        <content type="html"><![CDATA[01:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※결과 확인※ 엑스디너리 히어로즈 vs 이무진 명곡판정단의 마지막 선택! 결과는? | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35451027</id>
+        <link href="https://tv.naver.com/v/35451027"/>
+        <updated>2023-04-29T12:29:50.481Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시작부터 끝까지 미소 장착💕 상큼 발랄한 사랑스러움이 가득했던 이무진의 무대! | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35450852</id>
+        <link href="https://tv.naver.com/v/35450852"/>
+        <updated>2023-04-29T12:29:50.482Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이무진 - 맨 처음 고백 | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35450828</id>
+        <link href="https://tv.naver.com/v/35450828"/>
+        <updated>2023-04-29T12:29:50.484Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※환희 vs 엑스디너리 히어로즈※ 명곡판정단의 선택은? & ＜왜 불러＞ 비하인드! | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35450717</id>
+        <link href="https://tv.naver.com/v/35450717"/>
+        <updated>2023-04-29T12:29:50.485Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes(엑스디너리 히어로즈) - 왜 불러 | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35450715</id>
+        <link href="https://tv.naver.com/v/35450715"/>
+        <updated>2023-04-29T12:29:50.486Z</updated>
+        <content type="html"><![CDATA[05:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것이 차세대 슈퍼밴드! 록 에너지 대폭발을🔥 보여준 엑스디너리 히어로즈의 무대 | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35450505</id>
+        <link href="https://tv.naver.com/v/35450505"/>
+        <updated>2023-04-29T12:29:50.488Z</updated>
+        <content type="html"><![CDATA[01:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[결의에 가득 찬 Xdinary Heroes⭐️ 이를 갈고 준비한 선곡은? | KBS 230429 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/35450353</id>
         <link href="https://tv.naver.com/v/35450353"/>
@@ -1363,6 +1419,48 @@
         <content type="html"><![CDATA[02:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[4K 직캠] 이무진 – 맨 처음 고백 | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35423836</id>
+        <link href="https://tv.naver.com/v/35423836"/>
+        <updated>2023-04-29T12:29:50.505Z</updated>
+        <content type="html"><![CDATA[04:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 양동근 – 담배 가게 아가씨 | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35423835</id>
+        <link href="https://tv.naver.com/v/35423835"/>
+        <updated>2023-04-29T12:29:50.507Z</updated>
+        <content type="html"><![CDATA[05:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] Xdinary Heroes – 왜 불러 | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35423326</id>
+        <link href="https://tv.naver.com/v/35423326"/>
+        <updated>2023-04-29T12:29:50.508Z</updated>
+        <content type="html"><![CDATA[06:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 환희 – 사랑이야 | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35423321</id>
+        <link href="https://tv.naver.com/v/35423321"/>
+        <updated>2023-04-29T12:29:50.508Z</updated>
+        <content type="html"><![CDATA[05:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 조명섭 – 피리 부는 사나이 | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35423171</id>
+        <link href="https://tv.naver.com/v/35423171"/>
+        <updated>2023-04-29T12:29:50.509Z</updated>
+        <content type="html"><![CDATA[04:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[4K 직캠] 송창식X함춘호 – 한 번쯤 | KBS 230429 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35423134</id>
+        <link href="https://tv.naver.com/v/35423134"/>
+        <updated>2023-04-29T12:29:50.510Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[4K 직캠] 김연지 - Memory | KBS 230422 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/35301315</id>
         <link href="https://tv.naver.com/v/35301315"/>
@@ -1375,104 +1473,6 @@
         <link href="https://tv.naver.com/v/35277575"/>
         <updated>2023-04-24T12:33:26.406Z</updated>
         <content type="html"><![CDATA[05:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 최정원 - Dancing Queen + Waterloo | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35277163</id>
-        <link href="https://tv.naver.com/v/35277163"/>
-        <updated>2023-04-24T12:33:26.408Z</updated>
-        <content type="html"><![CDATA[04:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] TAN - Summer Nights | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35276988</id>
-        <link href="https://tv.naver.com/v/35276988"/>
-        <updated>2023-04-24T12:33:26.408Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 김준수 – 장부가 | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35276778</id>
-        <link href="https://tv.naver.com/v/35276778"/>
-        <updated>2023-04-24T12:33:26.410Z</updated>
-        <content type="html"><![CDATA[05:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 603회〈아티스트 최정원 편〉 우승자 ⭐라포엠⭐ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35221830</id>
-        <link href="https://tv.naver.com/v/35221830"/>
-        <updated>2023-04-22T12:30:05.829Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 영원한 포크계의 거장 🎵아티스트 송창식 편🎵 명곡들의 향연! 본방사수💗 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35221713</id>
-        <link href="https://tv.naver.com/v/35221713"/>
-        <updated>2023-04-22T12:30:05.830Z</updated>
-        <content type="html"><![CDATA[00:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※결과 확인※ 라포엠 vs 김준수 명곡판정단의 마지막 선택! 결과는 과연?! | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35221654</id>
-        <link href="https://tv.naver.com/v/35221654"/>
-        <updated>2023-04-22T12:30:05.831Z</updated>
-        <content type="html"><![CDATA[01:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국악 발성의 힘을 보여준 김준수의 무대! & 뮤지컬 디바 최정원 오늘의 소감💝 | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35221650</id>
-        <link href="https://tv.naver.com/v/35221650"/>
-        <updated>2023-04-22T12:30:05.831Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김준수 - 장부가 | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35221647</id>
-        <link href="https://tv.naver.com/v/35221647"/>
-        <updated>2023-04-22T12:30:05.831Z</updated>
-        <content type="html"><![CDATA[05:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※이지훈&몽니 vs 라포엠※ 라포엠의 깊은 여운! 이지훈 최악의 생일?🤣 | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35221448</id>
-        <link href="https://tv.naver.com/v/35221448"/>
-        <updated>2023-04-22T12:30:05.832Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토크 대기실의 호흡을 가져간 라포엠의 무대! 모두를 놀라게 한 최성훈의 존재감🔥 | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35221335</id>
-        <link href="https://tv.naver.com/v/35221335"/>
-        <updated>2023-04-22T12:30:05.833Z</updated>
-        <content type="html"><![CDATA[01:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라포엠 - The Phantom of the Opera | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35221231</id>
-        <link href="https://tv.naver.com/v/35221231"/>
-        <updated>2023-04-22T11:14:55.549Z</updated>
-        <content type="html"><![CDATA[05:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성악 어벤저스 라포엠🌟 오늘의 관전 포인트! 이지훈&몽니 vs 라포엠 승자는?! | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35221227</id>
-        <link href="https://tv.naver.com/v/35221227"/>
-        <updated>2023-04-22T11:14:55.549Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김연지 - Memory | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35220866</id>
-        <link href="https://tv.naver.com/v/35220866"/>
-        <updated>2023-04-22T11:14:55.550Z</updated>
-        <content type="html"><![CDATA[05:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※몽니vs이지훈※ 공동 우승?! 3옥타브 형제들의 합체! 허전한 토크 대기실💦 | KBS 230422 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35220685</id>
-        <link href="https://tv.naver.com/v/35220685"/>
-        <updated>2023-04-22T11:14:55.551Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 맑고 시원한 고음으로 트로트까지 접수!🎉다재다능한 보컬로 사랑받는💕가수 은가은, MBC 230423 방송 (복면가왕)]]></title>
