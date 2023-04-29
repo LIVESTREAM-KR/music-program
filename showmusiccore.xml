@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-29T09:15:42.994Z</updated>
+    <updated>2023-04-29T10:17:00.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – Fantasy(소년판타지 오현태 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35449140</id>
+        <link href="https://tv.naver.com/v/35449140"/>
+        <updated>2023-04-29T10:16:19.133Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LING QI – Fantasy(소년판타지 링치 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35449110</id>
+        <link href="https://tv.naver.com/v/35449110"/>
+        <updated>2023-04-29T10:16:19.133Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS MOON HYUNBIN – Fantasy(소년판타지 문현빈 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35449007</id>
+        <link href="https://tv.naver.com/v/35449007"/>
+        <updated>2023-04-29T10:16:19.137Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS K-SOUL – Fantasy(소년판타지 소울 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35448813</id>
+        <link href="https://tv.naver.com/v/35448813"/>
+        <updated>2023-04-29T10:16:19.138Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM GYURAE – Fantasy(소년판타지 김규래 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35448725</id>
+        <link href="https://tv.naver.com/v/35448725"/>
+        <updated>2023-04-29T10:16:19.140Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG HYUNWOO – Fantasy(소년판타지 강현우 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35448649</id>
+        <link href="https://tv.naver.com/v/35448649"/>
+        <updated>2023-04-29T10:16:19.140Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG DAEHYEON – Fantasy(소년판타지 강대현 - 판타지) FanCam | Show! MusicCore | MBC230429방]]></title>
+        <id>https://tv.naver.com/v/35448572</id>
+        <link href="https://tv.naver.com/v/35448572"/>
+        <updated>2023-04-29T10:16:19.141Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – Fantasy(소년판타지 김우석 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35448400</id>
+        <link href="https://tv.naver.com/v/35448400"/>
+        <updated>2023-04-29T10:16:19.142Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Fantasy(소년판타지 – 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35448317</id>
+        <link href="https://tv.naver.com/v/35448317"/>
+        <updated>2023-04-29T10:16:19.144Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JUNGWOO – Kiss(NCT 도재정 정우 - 키스) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35448303</id>
+        <link href="https://tv.naver.com/v/35448303"/>
+        <updated>2023-04-29T10:16:19.146Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG DOYOUNG – Kiss(NCT 도재정 도영 - 키스) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35448073</id>
+        <link href="https://tv.naver.com/v/35448073"/>
+        <updated>2023-04-29T10:16:19.147Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG - Kiss(NCT 도재정 – 키스) FanCam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35447970</id>
+        <link href="https://tv.naver.com/v/35447970"/>
+        <updated>2023-04-29T10:16:19.148Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Kiss(NCT 도재정 재현 - 키스) FanCam | Show! MusicCore | MBC230429방송]]></title>
         <id>https://tv.naver.com/v/35447818</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/35445994"/>
         <updated>2023-04-29T08:18:52.843Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주은 - 이지 브리지 (JUEUN - Easy Breezy), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35445993</id>
-        <link href="https://tv.naver.com/v/35445993"/>
-        <updated>2023-04-29T08:18:52.844Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스디너리 히어로즈 - 프리킹 배드 (Xdinary Heroes - Freakin’ Bad), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35445763</id>
-        <link href="https://tv.naver.com/v/35445763"/>
-        <updated>2023-04-29T08:18:52.844Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀 - 세븐 신스 (DRIPPIN - SEVEN SINS), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35445538</id>
-        <link href="https://tv.naver.com/v/35445538"/>
-        <updated>2023-04-29T08:18:52.844Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년판타지 - 판타지 (FANTASY BOYS - Fantasy), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35445395</id>
-        <link href="https://tv.naver.com/v/35445395"/>
-        <updated>2023-04-29T08:18:52.844Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 - 기디 (Kep1er - Giddy), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35445293</id>
-        <link href="https://tv.naver.com/v/35445293"/>
-        <updated>2023-04-29T07:16:49.062Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스 - 마카레나 (BLITZERS - Macarena), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35445292</id>
-        <link href="https://tv.naver.com/v/35445292"/>
-        <updated>2023-04-29T07:16:49.064Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 (NMIXX) in 코노돌🎉 - (방탄소년단 - Danger, 엑소 - Monster), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35444997</id>
-        <link href="https://tv.naver.com/v/35444997"/>
-        <updated>2023-04-29T07:16:49.065Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소디엑 - 쓰로우 어 다이스 (XODIAC - THROW A DICE), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35444750</id>
-        <link href="https://tv.naver.com/v/35444750"/>
-        <updated>2023-04-29T07:16:49.067Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박구윤 - 재충전 (Park Ku yoon - Refresh), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35444481</id>
-        <link href="https://tv.naver.com/v/35444481"/>
-        <updated>2023-04-29T07:16:49.069Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX – Love Me Like This(엔믹스 - 러브 미 라이크 디스) | Show! Music Core]]></title>
-        <id>https://tv.naver.com/v/35377575</id>
-        <link href="https://tv.naver.com/v/35377575"/>
-        <updated>2023-04-28T07:16:17.069Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE.zip 📂 ELEVEN부터 I AM까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/35264720</id>
-        <link href="https://tv.naver.com/v/35264720"/>
-        <updated>2023-04-24T08:21:46.347Z</updated>
-        <content type="html"><![CDATA[21:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - I AM(아이브 장원영 - 아이엠) Close-up Cam | Show! MusicCore | MBC230422방송]]></title>
-        <id>https://tv.naver.com/v/35266707</id>
-        <link href="https://tv.naver.com/v/35266707"/>
-        <updated>2023-04-24T08:21:46.347Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
