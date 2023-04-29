@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-04-29T06:20:29.161Z</updated>
+    <updated>2023-04-29T07:17:35.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케플러 - 기디 (Kep1er - Giddy), MBC 230429 방송]]></title>
+        <id>https://tv.naver.com/v/35445293</id>
+        <link href="https://tv.naver.com/v/35445293"/>
+        <updated>2023-04-29T07:16:49.062Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블리처스 - 마카레나 (BLITZERS - Macarena), MBC 230429 방송]]></title>
+        <id>https://tv.naver.com/v/35445292</id>
+        <link href="https://tv.naver.com/v/35445292"/>
+        <updated>2023-04-29T07:16:49.064Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 (NMIXX) in 코노돌🎉 - (방탄소년단 - Danger, 엑소 - Monster), MBC 230429 방송]]></title>
+        <id>https://tv.naver.com/v/35444997</id>
+        <link href="https://tv.naver.com/v/35444997"/>
+        <updated>2023-04-29T07:16:49.065Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소디엑 - 쓰로우 어 다이스 (XODIAC - THROW A DICE), MBC 230429 방송]]></title>
+        <id>https://tv.naver.com/v/35444750</id>
+        <link href="https://tv.naver.com/v/35444750"/>
+        <updated>2023-04-29T07:16:49.067Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박구윤 - 재충전 (Park Ku yoon - Refresh), MBC 230429 방송]]></title>
+        <id>https://tv.naver.com/v/35444481</id>
+        <link href="https://tv.naver.com/v/35444481"/>
+        <updated>2023-04-29T07:16:49.069Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX – Love Me Like This(엔믹스 - 러브 미 라이크 디스) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/35377575</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/35221185"/>
         <updated>2023-04-22T11:14:16.406Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST TAERAE – Dangerous(템페스트 태래 - 난장) FanCam | Show! MusicCore | MBC230422방송]]></title>
-        <id>https://tv.naver.com/v/35221074</id>
-        <link href="https://tv.naver.com/v/35221074"/>
-        <updated>2023-04-22T11:14:16.411Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST - Dangerous(템페스트 – 난장) FanCam | Show! MusicCore | MBC230422방송]]></title>
-        <id>https://tv.naver.com/v/35220974</id>
-        <link href="https://tv.naver.com/v/35220974"/>
-        <updated>2023-04-22T11:14:16.412Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] PARK JIHOON – Blank Effect(박지훈 - 무표정) FanCam | Show! MusicCore | MBC230422방송]]></title>
-        <id>https://tv.naver.com/v/35220865</id>
-        <link href="https://tv.naver.com/v/35220865"/>
-        <updated>2023-04-22T11:14:16.416Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST EUNCHAN – Dangerous(템페스트 은찬 - 난장) FanCam | Show! MusicCore | MBC230422방송]]></title>
-        <id>https://tv.naver.com/v/35220864</id>
-        <link href="https://tv.naver.com/v/35220864"/>
-        <updated>2023-04-22T11:14:16.420Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEMPEST HWARANG – Dangerous(템페스트 화랑 - 난장) FanCam | Show! MusicCore | MBC230422방송]]></title>
-        <id>https://tv.naver.com/v/35220679</id>
-        <link href="https://tv.naver.com/v/35220679"/>
-        <updated>2023-04-22T11:14:16.422Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
