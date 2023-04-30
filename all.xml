@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-30T06:20:49.619Z</updated>
+    <updated>2023-04-30T07:14:46.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Perfume - NCT DOJAEJUNG | KBS 230428 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,34 @@
         <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena) | SBS 230430 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35465410</id>
+        <link href="https://tv.naver.com/v/35465410"/>
+        <updated>2023-04-30T07:14:11.475Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XODIAC - THROW A DICE | SBS 230430 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35465297</id>
+        <link href="https://tv.naver.com/v/35465297"/>
+        <updated>2023-04-30T07:14:11.475Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers - ROCKSTAR | SBS 230430 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35465296</id>
+        <link href="https://tv.naver.com/v/35465296"/>
+        <updated>2023-04-30T07:14:11.475Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주은 - Easy Breezy | SBS 230430 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35465076</id>
+        <link href="https://tv.naver.com/v/35465076"/>
+        <updated>2023-04-30T07:14:11.475Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이기광 - Predator | SBS 230423 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/35236789</id>
         <link href="https://tv.naver.com/v/35236789"/>
@@ -605,34 +633,6 @@
         <link href="https://tv.naver.com/v/34999508"/>
         <updated>2023-04-16T08:19:42.899Z</updated>
         <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230416 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34999395</id>
-        <link href="https://tv.naver.com/v/34999395"/>
-        <updated>2023-04-16T08:19:42.900Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Alarm | SBS 230416 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34999284</id>
-        <link href="https://tv.naver.com/v/34999284"/>
-        <updated>2023-04-16T07:14:41.590Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAXY(크랙시) - NUGUDOM | SBS 230416 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34999283</id>
-        <link href="https://tv.naver.com/v/34999283"/>
-        <updated>2023-04-16T07:14:41.590Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers - 도깨비집(TRICKY HOUSE) | SBS 230416 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/34999154</id>
-        <link href="https://tv.naver.com/v/34999154"/>
-        <updated>2023-04-16T07:14:41.593Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 태양 - 나의 마음에 (Seed) | Mnet 230427 방송 (엠카운트다운)]]></title>
