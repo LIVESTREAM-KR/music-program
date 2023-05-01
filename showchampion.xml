@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-05-01T07:17:14.265Z</updated>
+    <updated>2023-05-01T08:21:50.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윙경위의 수상한(?) 쇼챔피언 용의자 추적! 🐰🚓 [예고]]]></title>
+        <id>https://tv.naver.com/v/35492024</id>
+        <link href="https://tv.naver.com/v/35492024"/>
+        <updated>2023-05-01T08:21:36.208Z</updated>
+        <content type="html"><![CDATA[01:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] LEE GI KWANG - Favorite (이기광 - 페이보릿) | Show Champion | EP.473]]></title>
         <id>https://tv.naver.com/v/35381280</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/35334401</id>
         <link href="https://tv.naver.com/v/35334401"/>
         <updated>2023-04-26T13:21:34.659Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - Dangerous (템페스트 형섭 - 난장) | Show Champion | EP.473]]></title>
-        <id>https://tv.naver.com/v/35334400</id>
-        <link href="https://tv.naver.com/v/35334400"/>
-        <updated>2023-04-26T13:21:34.660Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>

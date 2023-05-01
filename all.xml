@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-01T07:17:14.280Z</updated>
+    <updated>2023-05-01T08:21:50.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Perfume - NCT DOJAEJUNG | KBS 230428 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[윙경위의 수상한(?) 쇼챔피언 용의자 추적! 🐰🚓 [예고] (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/35492024</id>
+        <link href="https://tv.naver.com/v/35492024"/>
+        <updated>2023-05-01T08:21:36.208Z</updated>
+        <content type="html"><![CDATA[01:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] LEE GI KWANG - Favorite (이기광 - 페이보릿) | Show Champion | EP.473 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/35381280</id>
         <link href="https://tv.naver.com/v/35381280"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/35334401</id>
         <link href="https://tv.naver.com/v/35334401"/>
         <updated>2023-04-26T13:21:34.659Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HYEONGSEOP - Dangerous (템페스트 형섭 - 난장) | Show Champion | EP.473 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/35334400</id>
-        <link href="https://tv.naver.com/v/35334400"/>
-        <updated>2023-04-26T13:21:34.660Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
