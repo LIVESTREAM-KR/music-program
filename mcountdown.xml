@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-01T06:21:56.487Z</updated>
+    <updated>2023-05-01T07:17:14.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월 마지막 주 1위 'IVE'의 'I AM' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/35489944</id>
+        <link href="https://tv.naver.com/v/35489944"/>
+        <updated>2023-05-01T07:16:40.085Z</updated>
+        <content type="html"><![CDATA[05:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 태양 - 나의 마음에 (Seed) | Mnet 230427 방송]]></title>
         <id>https://tv.naver.com/v/35390669</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35160708"/>
         <updated>2023-04-20T11:14:49.666Z</updated>
         <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러(Kep1er) - Giddy | Mnet 230420 방송]]></title>
-        <id>https://tv.naver.com/v/35160705</id>
-        <link href="https://tv.naver.com/v/35160705"/>
-        <updated>2023-04-20T11:14:49.667Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
