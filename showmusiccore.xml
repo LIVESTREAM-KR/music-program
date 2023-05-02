@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-02T08:20:55.741Z</updated>
+    <updated>2023-05-02T09:18:41.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE YUJIN - I AM(아이브 안유진 - 아이엠) Close-up Cam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35527818</id>
+        <link href="https://tv.naver.com/v/35527818"/>
+        <updated>2023-05-02T09:17:58.156Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] IVE GAEUL – I AM(아이브 가을 - 아이엠) FanCam | Show! MusicCore | MBC230429방송]]></title>
         <id>https://tv.naver.com/v/35527623</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35448572"/>
         <updated>2023-04-29T10:16:19.141Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – Fantasy(소년판타지 김우석 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
-        <id>https://tv.naver.com/v/35448400</id>
-        <link href="https://tv.naver.com/v/35448400"/>
-        <updated>2023-04-29T10:16:19.142Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-02T08:20:55.749Z</updated>
+    <updated>2023-05-02T09:18:41.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Perfume - NCT DOJAEJUNG | KBS 230428 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE YUJIN - I AM(아이브 안유진 - 아이엠) Close-up Cam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35527818</id>
+        <link href="https://tv.naver.com/v/35527818"/>
+        <updated>2023-05-02T09:17:58.156Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] IVE GAEUL – I AM(아이브 가을 - 아이엠) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35527623</id>
         <link href="https://tv.naver.com/v/35527623"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/35448572"/>
         <updated>2023-04-29T10:16:19.141Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – Fantasy(소년판타지 김우석 - 판타지) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35448400</id>
-        <link href="https://tv.naver.com/v/35448400"/>
-        <updated>2023-04-29T10:16:19.142Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태양 - 나의 마음에 (Seed) | SBS 230430 방송 (인기가요)]]></title>
