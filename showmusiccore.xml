@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-02T09:18:41.290Z</updated>
+    <updated>2023-05-02T10:19:00.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] April TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/35531344</id>
+        <link href="https://tv.naver.com/v/35531344"/>
+        <updated>2023-05-02T10:18:14.886Z</updated>
+        <content type="html"><![CDATA[31:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] IVE YUJIN - I AM(아이브 안유진 - 아이엠) Close-up Cam | Show! MusicCore | MBC230429방송]]></title>
         <id>https://tv.naver.com/v/35527818</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35448649"/>
         <updated>2023-04-29T10:16:19.140Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG DAEHYEON – Fantasy(소년판타지 강대현 - 판타지) FanCam | Show! MusicCore | MBC230429방]]></title>
-        <id>https://tv.naver.com/v/35448572</id>
-        <link href="https://tv.naver.com/v/35448572"/>
-        <updated>2023-04-29T10:16:19.141Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
 </feed>
