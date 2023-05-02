@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-02T07:16:09.882Z</updated>
+    <updated>2023-05-02T08:20:55.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT DOJAEJUNG이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/35527039</id>
+        <link href="https://tv.naver.com/v/35527039"/>
+        <updated>2023-05-02T08:20:28.083Z</updated>
+        <content type="html"><![CDATA[01:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월 마지막 주 1위 'IVE'의 'I AM' 앵콜 무대! (Full ver.)]]></title>
         <id>https://tv.naver.com/v/35489944</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35160895"/>
         <updated>2023-04-20T11:14:49.666Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈 - Blank Effect (무표정) | Mnet 230420 방송]]></title>
-        <id>https://tv.naver.com/v/35160708</id>
-        <link href="https://tv.naver.com/v/35160708"/>
-        <updated>2023-04-20T11:14:49.666Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
 </feed>
