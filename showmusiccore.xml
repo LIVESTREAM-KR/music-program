@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-03T06:21:13.341Z</updated>
+    <updated>2023-05-03T07:16:58.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[최애직캠] WOODZ - Journey(우즈 – 저니) Close-up Cam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35562929</id>
+        <link href="https://tv.naver.com/v/35562929"/>
+        <updated>2023-05-03T07:16:16.649Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Kiss(NCT 도재정 정우 - 키스) Close-up Cam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35562720</id>
+        <link href="https://tv.naver.com/v/35562720"/>
+        <updated>2023-05-03T07:16:16.650Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Kiss(NCT 도재정 재현 - 키스) Close-up Cam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35562525</id>
+        <link href="https://tv.naver.com/v/35562525"/>
+        <updated>2023-05-03T07:16:16.650Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Kiss(NCT 도재정 도영 - 키스) Close-up Cam | Show! MusicCore | MBC230429방송]]></title>
+        <id>https://tv.naver.com/v/35562145</id>
+        <link href="https://tv.naver.com/v/35562145"/>
+        <updated>2023-05-03T07:16:16.653Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] April TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/35531344</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/35449110"/>
         <updated>2023-04-29T10:16:19.133Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS MOON HYUNBIN – Fantasy(소년판타지 문현빈 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
-        <id>https://tv.naver.com/v/35449007</id>
-        <link href="https://tv.naver.com/v/35449007"/>
-        <updated>2023-04-29T10:16:19.137Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS K-SOUL – Fantasy(소년판타지 소울 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
-        <id>https://tv.naver.com/v/35448813</id>
-        <link href="https://tv.naver.com/v/35448813"/>
-        <updated>2023-04-29T10:16:19.138Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM GYURAE – Fantasy(소년판타지 김규래 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
-        <id>https://tv.naver.com/v/35448725</id>
-        <link href="https://tv.naver.com/v/35448725"/>
-        <updated>2023-04-29T10:16:19.140Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG HYUNWOO – Fantasy(소년판타지 강현우 - 판타지) FanCam | Show! MusicCore | MBC230429방송]]></title>
-        <id>https://tv.naver.com/v/35448649</id>
-        <link href="https://tv.naver.com/v/35448649"/>
-        <updated>2023-04-29T10:16:19.140Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
     </entry>
 </feed>
