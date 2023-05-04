@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-05-04T05:17:07.000Z</updated>
+    <updated>2023-05-04T06:22:02.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX - Goodbye, My First Love (이펙스 - 안녕, 나의 첫사랑) l Show Champion l EP.474]]></title>
+        <id>https://tv.naver.com/v/35589574</id>
+        <link href="https://tv.naver.com/v/35589574"/>
+        <updated>2023-05-04T06:21:47.219Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] xikers HUNTER - ROCKSTAR (싸이커스 헌터 - 락스타) | Show Champion | EP.474]]></title>
         <id>https://tv.naver.com/v/35572437</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/35554087</id>
         <link href="https://tv.naver.com/v/35554087"/>
         <updated>2023-05-03T13:20:14.569Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX - Sunshower (이펙스 - 여우가 시집가는 날) l Show Champion l EP.474]]></title>
-        <id>https://tv.naver.com/v/35553742</id>
-        <link href="https://tv.naver.com/v/35553742"/>
-        <updated>2023-05-03T13:20:14.570Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
