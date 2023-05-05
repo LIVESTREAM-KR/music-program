@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-05-05T10:18:51.264Z</updated>
+    <updated>2023-05-05T11:15:35.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 송창식 편 2부 미리보기, 포크계의 아이돌 박창근 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/35636802</id>
+        <link href="https://tv.naver.com/v/35636802"/>
+        <updated>2023-05-05T11:15:27.742Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🎵아티스트 송창식 편 2부🎵 모두가 욕심내는 오늘의 트로피! 놓치지 마세요❣️ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/35451131</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35301315"/>
         <updated>2023-04-25T06:21:58.084Z</updated>
         <content type="html"><![CDATA[05:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 이지훈 - 대성당들의 시대 | KBS 230422 방송]]></title>
-        <id>https://tv.naver.com/v/35277575</id>
-        <link href="https://tv.naver.com/v/35277575"/>
-        <updated>2023-04-24T12:33:26.406Z</updated>
-        <content type="html"><![CDATA[05:07]]></content>
     </entry>
 </feed>
