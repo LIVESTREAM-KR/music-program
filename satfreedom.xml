@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-05-06T16:20:38.481Z</updated>
+    <updated>2023-05-06T17:14:50.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[※결과 확인※ 박창근 vs 박정현 명곡판정단의 마지막 선택! 결과는 과연?! | KBS 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35661773</id>
-        <link href="https://tv.naver.com/v/35661773"/>
-        <updated>2023-05-06T12:29:28.354Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 👼천상계 고음 종결자 II👼 선후배 간 팽팽한 기싸움🔥 남자 고음 끝판왕은? | KBS 방송]]></title>
         <id>https://tv.naver.com/v/35661772</id>
         <link href="https://tv.naver.com/v/35661772"/>
         <updated>2023-05-06T12:29:28.354Z</updated>
         <content type="html"><![CDATA[00:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※결과 확인※ 박창근 vs 박정현 명곡판정단의 마지막 선택! 결과는 과연?! | KBS 230506 방송]]></title>
+        <id>https://tv.naver.com/v/35661773</id>
+        <link href="https://tv.naver.com/v/35661773"/>
+        <updated>2023-05-06T12:29:28.354Z</updated>
+        <content type="html"><![CDATA[02:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2주간 함께했던 ＜아티스트 송창식 특집＞💓 송창식의 소감은? | KBS 230506 방송]]></title>
