@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-06T10:17:02.762Z</updated>
+    <updated>2023-05-06T11:14:34.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE  – REALLY REALLY(소년판타지 오현태 -릴리릴리)FanCam|Show! MusicCore|MBC230506방]]></title>
+        <id>https://tv.naver.com/v/35660963</id>
+        <link href="https://tv.naver.com/v/35660963"/>
+        <updated>2023-05-06T11:13:53.314Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARU – REALLY REALLY(소년판타지 히카루 - 릴리릴리) FanCam | Show! MusicCore | MBC230506방]]></title>
+        <id>https://tv.naver.com/v/35660876</id>
+        <link href="https://tv.naver.com/v/35660876"/>
+        <updated>2023-05-06T11:13:53.314Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Monster(소년판타지 – 몬스터) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35660696</id>
+        <link href="https://tv.naver.com/v/35660696"/>
+        <updated>2023-05-06T11:13:53.315Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM BEOMJUN – REALLY REALLY(소년판타지 김범준 - 릴리릴리)FanCam|Show! MusicCore|MBC230506방]]></title>
+        <id>https://tv.naver.com/v/35660695</id>
+        <link href="https://tv.naver.com/v/35660695"/>
+        <updated>2023-05-06T11:13:53.322Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JUNGWOO – Perfume(NCT 도재정 정우 - 퍼퓸) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35660456</id>
+        <link href="https://tv.naver.com/v/35660456"/>
+        <updated>2023-05-06T11:13:53.322Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG - Perfume(NCT 도재정 – 퍼퓸) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35660455</id>
+        <link href="https://tv.naver.com/v/35660455"/>
+        <updated>2023-05-06T11:13:53.333Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Dive(NCT 도재정 재현 - 다이브) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35660375</id>
+        <link href="https://tv.naver.com/v/35660375"/>
+        <updated>2023-05-06T11:13:53.333Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Perfume(NCT 도재정 재현 - 퍼퓸) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35660297</id>
+        <link href="https://tv.naver.com/v/35660297"/>
+        <updated>2023-05-06T11:13:53.333Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG - Dive(NCT 도재정 – 다이브) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35660219</id>
+        <link href="https://tv.naver.com/v/35660219"/>
+        <updated>2023-05-06T11:13:53.333Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG DOYOUNG – Dive(NCT 도재정 도영 - 다이브) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35660129</id>
+        <link href="https://tv.naver.com/v/35660129"/>
+        <updated>2023-05-06T11:13:53.334Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Kiss(NCT 도재정 재현 - 키스) FanCam | Show! MusicCore | MBC230506방송]]></title>
         <id>https://tv.naver.com/v/35659961</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/35657980"/>
         <updated>2023-05-06T09:14:55.513Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 케플러 - 기디 (Kep1er - Giddy), MBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35657877</id>
-        <link href="https://tv.naver.com/v/35657877"/>
-        <updated>2023-05-06T09:14:55.515Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 - 나의 바람 (BTOB - Wind And Wish), MBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35657552</id>
-        <link href="https://tv.naver.com/v/35657552"/>
-        <updated>2023-05-06T08:18:54.384Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 도재정 - 퍼퓸 (NCT DOJAEJUNG - Perfume), MBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35657550</id>
-        <link href="https://tv.naver.com/v/35657550"/>
-        <updated>2023-05-06T08:18:54.386Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 도재정 - 다이브 (NCT DOJAEJUNG - DIVE), MBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35657340</id>
-        <link href="https://tv.naver.com/v/35657340"/>
-        <updated>2023-05-06T08:18:54.386Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 도재정 - 키스 (NCT DOJAEJUNG - Kiss), MBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35657199</id>
-        <link href="https://tv.naver.com/v/35657199"/>
-        <updated>2023-05-06T08:18:54.392Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빌리 (Billlie) in 코노돌🎉 - (엔믹스 - Love Me Like This), MBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35657196</id>
-        <link href="https://tv.naver.com/v/35657196"/>
-        <updated>2023-05-06T08:18:54.392Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀 - 세븐 신스 (DRIPPIN - SEVEN SINS), MBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35657078</id>
-        <link href="https://tv.naver.com/v/35657078"/>
-        <updated>2023-05-06T08:18:54.393Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년판타지 (팔방몬스터's) - 몬스터 (원곡: EXO) (FANTASY BOYS (8 Perfect Monster) - Monster), MBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35656740</id>
-        <link href="https://tv.naver.com/v/35656740"/>
-        <updated>2023-05-06T08:18:54.394Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년판타지 (리얼즈) - 릴리릴리 (원곡: WINNER) (FANTASY BOYS (REALZ) - REALLY REALLY), MBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35656665</id>
-        <link href="https://tv.naver.com/v/35656665"/>
-        <updated>2023-05-06T08:18:54.394Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스디너리 히어로즈 - 프리킹 배드 (Xdinary Heroes - Freakin’ Bad), MBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35656546</id>
-        <link href="https://tv.naver.com/v/35656546"/>
-        <updated>2023-05-06T08:18:54.401Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
