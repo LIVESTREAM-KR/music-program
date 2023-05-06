@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-05-06T09:15:37.962Z</updated>
+    <updated>2023-05-06T10:17:02.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[발라드 세손 정승환! MV 촬영 비하인드&선곡으로 말해보는 선생님을 향한 존경심✨ | KBS 230506 방송]]></title>
+        <id>https://tv.naver.com/v/35660070</id>
+        <link href="https://tv.naver.com/v/35660070"/>
+        <updated>2023-05-06T10:16:56.167Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포크계 아이돌 박창근! 승률 100%를 깨고 출연한 계기&이세준과 달콤한 듀엣💕 | KBS 230506 방송]]></title>
+        <id>https://tv.naver.com/v/35660048</id>
+        <link href="https://tv.naver.com/v/35660048"/>
+        <updated>2023-05-06T10:16:56.167Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유리상자 이세준과 정세근이 함께 부르는 ＜너였다면＞♬ | KBS 230506 방송]]></title>
+        <id>https://tv.naver.com/v/35659968</id>
+        <link href="https://tv.naver.com/v/35659968"/>
+        <updated>2023-05-06T10:16:56.168Z</updated>
+        <content type="html"><![CDATA[01:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송창식X함춘호 - 창밖에는 비 오고요 | KBS 230506 방송]]></title>
+        <id>https://tv.naver.com/v/35659676</id>
+        <link href="https://tv.naver.com/v/35659676"/>
+        <updated>2023-05-06T10:16:56.170Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 송창식 편 2부 미리보기, 포크계의 아이돌 박창근 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/35636802</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/35423326"/>
         <updated>2023-04-29T12:29:50.508Z</updated>
         <content type="html"><![CDATA[06:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 환희 – 사랑이야 | KBS 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35423321</id>
-        <link href="https://tv.naver.com/v/35423321"/>
-        <updated>2023-04-29T12:29:50.508Z</updated>
-        <content type="html"><![CDATA[05:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 조명섭 – 피리 부는 사나이 | KBS 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35423171</id>
-        <link href="https://tv.naver.com/v/35423171"/>
-        <updated>2023-04-29T12:29:50.509Z</updated>
-        <content type="html"><![CDATA[04:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 송창식X함춘호 – 한 번쯤 | KBS 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35423134</id>
-        <link href="https://tv.naver.com/v/35423134"/>
-        <updated>2023-04-29T12:29:50.510Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 김연지 - Memory | KBS 230422 방송]]></title>
-        <id>https://tv.naver.com/v/35301315</id>
-        <link href="https://tv.naver.com/v/35301315"/>
-        <updated>2023-04-25T06:21:58.084Z</updated>
-        <content type="html"><![CDATA[05:21]]></content>
     </entry>
 </feed>
