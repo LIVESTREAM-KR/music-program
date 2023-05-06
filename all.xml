@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-06T06:20:08.008Z</updated>
+    <updated>2023-05-06T07:15:55.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[My Life - 세븐틴 (SEVENTEEN) | KBS 230505 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,48 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[싸이커스 - 락스타 (xikers - ROCKSTAR), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35656196</id>
+        <link href="https://tv.naver.com/v/35656196"/>
+        <updated>2023-05-06T07:15:17.730Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조정민 - 타이밍 (Jo Jung Min - Timing), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35656190</id>
+        <link href="https://tv.naver.com/v/35656190"/>
+        <updated>2023-05-06T07:15:17.731Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림노트 - 레모네이드 (DreamNote - Lemonade), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35656189</id>
+        <link href="https://tv.naver.com/v/35656189"/>
+        <updated>2023-05-06T07:15:17.732Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이펙스 - 여우가 시집가는 날 (EPEX - Sunshower), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35655960</id>
+        <link href="https://tv.naver.com/v/35655960"/>
+        <updated>2023-05-06T07:15:17.733Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소디엑 - 쓰로우 어 다이스 (XODIAC - THROW A DICE), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35655730</id>
+        <link href="https://tv.naver.com/v/35655730"/>
+        <updated>2023-05-06T07:15:17.734Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앨리스 - 쇼 다운 (ALICE - SHOW DOWN), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35655584</id>
+        <link href="https://tv.naver.com/v/35655584"/>
+        <updated>2023-05-06T07:15:17.735Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] xikers – TRICKY HOUSE(싸이커스 - 도깨비집) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35614939</id>
         <link href="https://tv.naver.com/v/35614939"/>
@@ -381,48 +423,6 @@
         <link href="https://tv.naver.com/v/35449899"/>
         <updated>2023-04-29T11:12:56.256Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE GIKWANG - Predator(이기광 – 프레데터) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35449800</id>
-        <link href="https://tv.naver.com/v/35449800"/>
-        <updated>2023-04-29T11:12:56.256Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS TAESEON – Fantasy(소년판타지 태선 - 판타지) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35449681</id>
-        <link href="https://tv.naver.com/v/35449681"/>
-        <updated>2023-04-29T11:12:56.257Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS YU JUNWON – Fantasy(소년판타지 유준원 - 판타지) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35449599</id>
-        <link href="https://tv.naver.com/v/35449599"/>
-        <updated>2023-04-29T11:12:56.258Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – Fantasy(소년판타지 히카리 - 판타지) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35449486</id>
-        <link href="https://tv.naver.com/v/35449486"/>
-        <updated>2023-04-29T11:12:56.258Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN – Fantasy(소년판타지 홍성민 - 판타지) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35449347</id>
-        <link href="https://tv.naver.com/v/35449347"/>
-        <updated>2023-04-29T11:12:56.258Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – Fantasy(소년판타지 오현태 - 판타지) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35449140</id>
-        <link href="https://tv.naver.com/v/35449140"/>
-        <updated>2023-04-29T10:16:19.133Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태양 - 나의 마음에 (Seed) | SBS 230430 방송 (인기가요)]]></title>
