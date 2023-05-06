@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-06T07:15:55.050Z</updated>
+    <updated>2023-05-06T08:19:36.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[My Life - 세븐틴 (SEVENTEEN) | KBS 230505 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,76 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[비투비 - 나의 바람 (BTOB - Wind And Wish), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35657552</id>
+        <link href="https://tv.naver.com/v/35657552"/>
+        <updated>2023-05-06T08:18:54.384Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 도재정 - 퍼퓸 (NCT DOJAEJUNG - Perfume), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35657550</id>
+        <link href="https://tv.naver.com/v/35657550"/>
+        <updated>2023-05-06T08:18:54.386Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 도재정 - 다이브 (NCT DOJAEJUNG - DIVE), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35657340</id>
+        <link href="https://tv.naver.com/v/35657340"/>
+        <updated>2023-05-06T08:18:54.386Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 도재정 - 키스 (NCT DOJAEJUNG - Kiss), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35657199</id>
+        <link href="https://tv.naver.com/v/35657199"/>
+        <updated>2023-05-06T08:18:54.392Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리 (Billlie) in 코노돌🎉 - (엔믹스 - Love Me Like This), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35657196</id>
+        <link href="https://tv.naver.com/v/35657196"/>
+        <updated>2023-05-06T08:18:54.392Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드리핀 - 세븐 신스 (DRIPPIN - SEVEN SINS), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35657078</id>
+        <link href="https://tv.naver.com/v/35657078"/>
+        <updated>2023-05-06T08:18:54.393Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소년판타지 (팔방몬스터's) - 몬스터 (원곡: EXO) (FANTASY BOYS (8 Perfect Monster) - Monster), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35656740</id>
+        <link href="https://tv.naver.com/v/35656740"/>
+        <updated>2023-05-06T08:18:54.394Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소년판타지 (리얼즈) - 릴리릴리 (원곡: WINNER) (FANTASY BOYS (REALZ) - REALLY REALLY), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35656665</id>
+        <link href="https://tv.naver.com/v/35656665"/>
+        <updated>2023-05-06T08:18:54.394Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑스디너리 히어로즈 - 프리킹 배드 (Xdinary Heroes - Freakin’ Bad), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35656546</id>
+        <link href="https://tv.naver.com/v/35656546"/>
+        <updated>2023-05-06T08:18:54.401Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[템페스트 - 난장 (TEMPEST - Dangerous), MBC 230422 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35656437</id>
+        <link href="https://tv.naver.com/v/35656437"/>
+        <updated>2023-05-06T08:18:54.401Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[싸이커스 - 락스타 (xikers - ROCKSTAR), MBC 230506 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35656196</id>
         <link href="https://tv.naver.com/v/35656196"/>
@@ -353,76 +423,6 @@
         <link href="https://tv.naver.com/v/35526284"/>
         <updated>2023-05-02T08:20:14.272Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Perfume(NCT 도재정 정우 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230429방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35526051</id>
-        <link href="https://tv.naver.com/v/35526051"/>
-        <updated>2023-05-02T08:20:14.273Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최애직캠] TAEYANG - Seed(태양 – 나의 마음에) Close-up Cam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35521268</id>
-        <link href="https://tv.naver.com/v/35521268"/>
-        <updated>2023-05-02T06:21:37.980Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 4월 다섯째 주 음악중심 MC 컷 모음!, MBC 230429 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35521093</id>
-        <link href="https://tv.naver.com/v/35521093"/>
-        <updated>2023-05-02T06:21:37.981Z</updated>
-        <content type="html"><![CDATA[18:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WOODZ - Journey(우즈 – 저니) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35450495</id>
-        <link href="https://tv.naver.com/v/35450495"/>
-        <updated>2023-04-29T12:29:14.345Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes – Freakin’ Bad(엑스디너리 히어로즈 - 프리킹 배드) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35450324</id>
-        <link href="https://tv.naver.com/v/35450324"/>
-        <updated>2023-04-29T11:12:56.244Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DRIPPIN - SEVEN SINS(드리핀 – 세븐 신스) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35450323</id>
-        <link href="https://tv.naver.com/v/35450323"/>
-        <updated>2023-04-29T11:12:56.251Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er - Giddy(케플러 – 기디) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35450135</id>
-        <link href="https://tv.naver.com/v/35450135"/>
-        <updated>2023-04-29T11:12:56.251Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XODIAC - THROW A DICE(소디엑 – 쓰로우 어 다이스) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35450115</id>
-        <link href="https://tv.naver.com/v/35450115"/>
-        <updated>2023-04-29T11:12:56.253Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WOODZ – Journey(우즈 - 저니) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35450002</id>
-        <link href="https://tv.naver.com/v/35450002"/>
-        <updated>2023-04-29T11:12:56.254Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE GIKWANG – Predator(이기광 - 프레데터) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35449899</id>
-        <link href="https://tv.naver.com/v/35449899"/>
-        <updated>2023-04-29T11:12:56.256Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태양 - 나의 마음에 (Seed) | SBS 230430 방송 (인기가요)]]></title>
