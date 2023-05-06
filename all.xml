@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-06T08:19:36.177Z</updated>
+    <updated>2023-05-06T09:15:37.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[My Life - 세븐틴 (SEVENTEEN) | KBS 230505 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,69 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] BTOB LEE MIN HYUK – Wind And Wish(비투비 이민혁 - 나의 바람) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35658832</id>
+        <link href="https://tv.naver.com/v/35658832"/>
+        <updated>2023-05-06T09:14:55.499Z</updated>
+        <content type="html"><![CDATA[04:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BTOB YOOK SUNG JAE – Wind And Wish(비투비 육성재 - 나의 바람) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35658628</id>
+        <link href="https://tv.naver.com/v/35658628"/>
+        <updated>2023-05-06T09:14:55.500Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BTOB LEE CHANG SUB – Wind And Wish(비투비 이창섭 - 나의 바람) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35658488</id>
+        <link href="https://tv.naver.com/v/35658488"/>
+        <updated>2023-05-06T09:14:55.501Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BTOB - Wind And Wish(비투비 – 나의 바람) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35658396</id>
+        <link href="https://tv.naver.com/v/35658396"/>
+        <updated>2023-05-06T09:14:55.503Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes – Freakin’ Bad(엑스디너리 히어로즈 - 프리킹 배드) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35658296</id>
+        <link href="https://tv.naver.com/v/35658296"/>
+        <updated>2023-05-06T09:14:55.508Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BTOB SEO EUN KWANG – Wind And Wish(비투비 서은광 - 나의 바람) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35658174</id>
+        <link href="https://tv.naver.com/v/35658174"/>
+        <updated>2023-05-06T09:14:55.510Z</updated>
+        <content type="html"><![CDATA[04:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 이기광 - 프레데터 (LEE GI KWANG - Predator), MBC 230429 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35657981</id>
+        <link href="https://tv.naver.com/v/35657981"/>
+        <updated>2023-05-06T09:14:55.511Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 아이브 - 아이 엠 (IVE - I AM), MBC 230429 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35657980</id>
+        <link href="https://tv.naver.com/v/35657980"/>
+        <updated>2023-05-06T09:14:55.513Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 케플러 - 기디 (Kep1er - Giddy), MBC 230429 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35657877</id>
+        <link href="https://tv.naver.com/v/35657877"/>
+        <updated>2023-05-06T09:14:55.515Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[비투비 - 나의 바람 (BTOB - Wind And Wish), MBC 230506 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35657552</id>
         <link href="https://tv.naver.com/v/35657552"/>
@@ -360,69 +423,6 @@
         <link href="https://tv.naver.com/v/35562145"/>
         <updated>2023-05-03T07:16:16.653Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] April TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35531344</id>
-        <link href="https://tv.naver.com/v/35531344"/>
-        <updated>2023-05-02T10:18:14.886Z</updated>
-        <content type="html"><![CDATA[31:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE YUJIN - I AM(아이브 안유진 - 아이엠) Close-up Cam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35527818</id>
-        <link href="https://tv.naver.com/v/35527818"/>
-        <updated>2023-05-02T09:17:58.156Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE GAEUL – I AM(아이브 가을 - 아이엠) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35527623</id>
-        <link href="https://tv.naver.com/v/35527623"/>
-        <updated>2023-05-02T08:20:14.263Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE - I AM(아이브 – 아이엠) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35527434</id>
-        <link href="https://tv.naver.com/v/35527434"/>
-        <updated>2023-05-02T08:20:14.265Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - I AM(아이브 장원영 - 아이엠) Close-up Cam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35527246</id>
-        <link href="https://tv.naver.com/v/35527246"/>
-        <updated>2023-05-02T08:20:14.266Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO – I AM(아이브 이서 - 아이엠) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35527031</id>
-        <link href="https://tv.naver.com/v/35527031"/>
-        <updated>2023-05-02T08:20:14.268Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LIZ – I AM(아이브 리즈 - 아이엠) FanCam | Show! MusicCore | MBC230429방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35526850</id>
-        <link href="https://tv.naver.com/v/35526850"/>
-        <updated>2023-05-02T08:20:14.268Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Perfume(NCT 도재정 재현 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230429방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35526473</id>
-        <link href="https://tv.naver.com/v/35526473"/>
-        <updated>2023-05-02T08:20:14.270Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Perfume(NCT 도재정 도영 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230429방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35526284</id>
-        <link href="https://tv.naver.com/v/35526284"/>
-        <updated>2023-05-02T08:20:14.272Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태양 - 나의 마음에 (Seed) | SBS 230430 방송 (인기가요)]]></title>
