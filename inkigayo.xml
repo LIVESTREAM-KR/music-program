@@ -2,9 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-05-07T06:20:48.514Z</updated>
+    <updated>2023-05-07T07:14:49.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴(SEVENTEEN) - My Life | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675616</id>
+        <link href="https://tv.naver.com/v/35675616"/>
+        <updated>2023-05-07T07:14:18.304Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비투비 - 나의 바람(Wind And Wish) | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675590</id>
+        <link href="https://tv.naver.com/v/35675590"/>
+        <updated>2023-05-07T07:14:18.304Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT 도재정 - Perfume | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675495</id>
+        <link href="https://tv.naver.com/v/35675495"/>
+        <updated>2023-05-07T07:14:18.304Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LE SSERAFIM - INTRO+UNFORGIVEN(feat. Nile Rodgers) | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675401</id>
+        <link href="https://tv.naver.com/v/35675401"/>
+        <updated>2023-05-07T07:14:18.305Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT 도재정 - Kiss | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675324</id>
+        <link href="https://tv.naver.com/v/35675324"/>
+        <updated>2023-05-07T07:14:18.305Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LE SSERAFIM - No-Return(Into the unknown) | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675303</id>
+        <link href="https://tv.naver.com/v/35675303"/>
+        <updated>2023-05-07T07:14:18.306Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIPPIN - SEVEN SINS | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675302</id>
+        <link href="https://tv.naver.com/v/35675302"/>
+        <updated>2023-05-07T07:14:18.307Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675208</id>
+        <link href="https://tv.naver.com/v/35675208"/>
+        <updated>2023-05-07T07:14:18.307Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앨리스(ALICE) - SHOW DOWN | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675005</id>
+        <link href="https://tv.naver.com/v/35675005"/>
+        <updated>2023-05-07T07:14:18.313Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST(템페스트) - 난장(Dangerous) | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35675001</id>
+        <link href="https://tv.naver.com/v/35675001"/>
+        <updated>2023-05-07T07:14:18.313Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes - Freakin’ Bad | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35674982</id>
+        <link href="https://tv.naver.com/v/35674982"/>
+        <updated>2023-05-07T07:14:18.314Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena) | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35674887</id>
+        <link href="https://tv.naver.com/v/35674887"/>
+        <updated>2023-05-07T07:14:18.315Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림노트(DreamNote) - Lemonade  | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35674782</id>
+        <link href="https://tv.naver.com/v/35674782"/>
+        <updated>2023-05-07T07:14:18.315Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XODIAC - THROW A DICE | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35674781</id>
+        <link href="https://tv.naver.com/v/35674781"/>
+        <updated>2023-05-07T07:14:18.316Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers - ROCKSTAR | SBS 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35674673</id>
+        <link href="https://tv.naver.com/v/35674673"/>
+        <updated>2023-05-07T07:14:18.317Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[황우림 - 아빠 딸 | SBS 230507 방송]]></title>
         <id>https://tv.naver.com/v/35674561</id>
@@ -109,110 +214,5 @@
         <link href="https://tv.naver.com/v/35465537"/>
         <updated>2023-04-30T08:19:39.759Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena) | SBS 230430 방송]]></title>
-        <id>https://tv.naver.com/v/35465410</id>
-        <link href="https://tv.naver.com/v/35465410"/>
-        <updated>2023-04-30T07:14:11.475Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XODIAC - THROW A DICE | SBS 230430 방송]]></title>
-        <id>https://tv.naver.com/v/35465297</id>
-        <link href="https://tv.naver.com/v/35465297"/>
-        <updated>2023-04-30T07:14:11.475Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers - ROCKSTAR | SBS 230430 방송]]></title>
-        <id>https://tv.naver.com/v/35465296</id>
-        <link href="https://tv.naver.com/v/35465296"/>
-        <updated>2023-04-30T07:14:11.475Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주은 - Easy Breezy | SBS 230430 방송]]></title>
-        <id>https://tv.naver.com/v/35465076</id>
-        <link href="https://tv.naver.com/v/35465076"/>
-        <updated>2023-04-30T07:14:11.475Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이기광 - Predator | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35236789</id>
-        <link href="https://tv.naver.com/v/35236789"/>
-        <updated>2023-04-23T08:19:53.280Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IVE - I AM | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35236599</id>
-        <link href="https://tv.naver.com/v/35236599"/>
-        <updated>2023-04-23T08:19:53.280Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IVE - Kitsch | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35236471</id>
-        <link href="https://tv.naver.com/v/35236471"/>
-        <updated>2023-04-23T08:19:53.280Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지훈 - Blank Effect(무표정) | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35236470</id>
-        <link href="https://tv.naver.com/v/35236470"/>
-        <updated>2023-04-23T08:19:53.280Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채연 - KNOCK  | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35236469</id>
-        <link href="https://tv.naver.com/v/35236469"/>
-        <updated>2023-04-23T08:19:53.280Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기욱(ONEWE) - 제0호선 시간역행(TIME MACHINE)(2100) | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35236370</id>
-        <link href="https://tv.naver.com/v/35236370"/>
-        <updated>2023-04-23T08:19:53.281Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - SEVEN SINS | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35236241</id>
-        <link href="https://tv.naver.com/v/35236241"/>
-        <updated>2023-04-23T08:19:53.281Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예은(YEEUN) - Cherry Coke | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35236119</id>
-        <link href="https://tv.naver.com/v/35236119"/>
-        <updated>2023-04-23T08:19:53.283Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러(Kep1er) - Giddy | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35236118</id>
-        <link href="https://tv.naver.com/v/35236118"/>
-        <updated>2023-04-23T08:19:53.284Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서(Shining Bright) | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35235852</id>
-        <link href="https://tv.naver.com/v/35235852"/>
-        <updated>2023-04-23T07:15:08.629Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEMPEST(템페스트) - 난장(Dangerous)  | SBS 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35235826</id>
-        <link href="https://tv.naver.com/v/35235826"/>
-        <updated>2023-04-23T07:15:08.635Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
