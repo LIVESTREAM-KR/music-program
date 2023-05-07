@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-07T05:16:16.888Z</updated>
+    <updated>2023-05-07T06:20:48.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[My Life - 세븐틴 (SEVENTEEN) | KBS 230505 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,20 @@
         <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[황우림 - 아빠 딸 | SBS 230507 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35674561</id>
+        <link href="https://tv.naver.com/v/35674561"/>
+        <updated>2023-05-07T06:20:14.116Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별사랑 - 퐁당퐁당 | SBS 230507 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35674560</id>
+        <link href="https://tv.naver.com/v/35674560"/>
+        <updated>2023-05-07T06:20:14.117Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[태양 - 나의 마음에 (Seed) | SBS 230430 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/35466534</id>
         <link href="https://tv.naver.com/v/35466534"/>
@@ -619,20 +633,6 @@
         <link href="https://tv.naver.com/v/35235826"/>
         <updated>2023-04-23T07:15:08.635Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박현서 - 나의 봄이 되어줘(Be my spring) | SBS 230423 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/35235698</id>
-        <link href="https://tv.naver.com/v/35235698"/>
-        <updated>2023-04-23T07:15:08.637Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림노트(DreamNote) - Lemonade | SBS 230423 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/35235697</id>
-        <link href="https://tv.naver.com/v/35235697"/>
-        <updated>2023-04-23T07:15:08.643Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TEMPEST(템페스트) - 난장(Dangerous) | Mnet 230504 방송 (엠카운트다운)]]></title>
