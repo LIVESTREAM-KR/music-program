@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-05-07T11:13:54.145Z</updated>
+    <updated>2023-05-07T12:29:28.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜지금까지 이런 가창력은 없었다! 재야의 고수들까지?＞ 복면가왕 404회 예고, MBC 230514 방송]]></title>
+        <id>https://tv.naver.com/v/35681471</id>
+        <link href="https://tv.naver.com/v/35681471"/>
+        <updated>2023-05-07T12:29:28.149Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['백조의 호수'의 정체는 뮤지컬 배우 겸 가수 배다해!, MBC 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35681313</id>
+        <link href="https://tv.naver.com/v/35681313"/>
+        <updated>2023-05-07T12:29:28.151Z</updated>
+        <content type="html"><![CDATA[02:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['팔색조'의 가왕 방어전 무대 - 이름에게, MBC 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35681106</id>
+        <link href="https://tv.naver.com/v/35681106"/>
+        <updated>2023-05-07T12:29:28.152Z</updated>
+        <content type="html"><![CDATA[04:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['록스타'의 정체는 가수 성민!, MBC 230507 방송]]></title>
+        <id>https://tv.naver.com/v/35681004</id>
+        <link href="https://tv.naver.com/v/35681004"/>
+        <updated>2023-05-07T12:29:28.153Z</updated>
+        <content type="html"><![CDATA[01:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['백조의 호수' 3라운드 무대 - If I Leave (나 가거든), MBC 230507 방송]]></title>
         <id>https://tv.naver.com/v/35680818</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/35316245"/>
         <updated>2023-04-25T12:32:56.288Z</updated>
         <content type="html"><![CDATA[14:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 국민의 선택💘을 받은 감성 발라더! 양요섭도 감탄한👍발라드 가수 조연호, MBC 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35315497</id>
-        <link href="https://tv.naver.com/v/35315497"/>
-        <updated>2023-04-25T12:32:56.289Z</updated>
-        <content type="html"><![CDATA[10:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 칼군무 걸그룹의 레전드🔥 8년 차 경력직 신입돌✨VIVIZ(비비지) 엄지, MBC 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35315133</id>
-        <link href="https://tv.naver.com/v/35315133"/>
-        <updated>2023-04-25T12:32:56.290Z</updated>
-        <content type="html"><![CDATA[08:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜제1회 복가 대학교 엠티＞ 복면가왕 402회 예고, MBC 230430 방송]]></title>
-        <id>https://tv.naver.com/v/35240745</id>
-        <link href="https://tv.naver.com/v/35240745"/>
-        <updated>2023-04-23T11:13:57.274Z</updated>
-        <content type="html"><![CDATA[00:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우승 트로피'의 정체는 엔플라잉 유회승!, MBC 230423 방송]]></title>
-        <id>https://tv.naver.com/v/35240457</id>
-        <link href="https://tv.naver.com/v/35240457"/>
-        <updated>2023-04-23T11:13:57.276Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
