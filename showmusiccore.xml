@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-08T03:18:41.934Z</updated>
+    <updated>2023-05-08T04:20:45.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] xikers YECHAN – ROCKSTAR(싸이커스 예찬 - 락스타) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35698738</id>
+        <link href="https://tv.naver.com/v/35698738"/>
+        <updated>2023-05-08T04:20:04.367Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] xikers YUJUN – ROCKSTAR(싸이커스 유준 - 락스타) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35698472</id>
+        <link href="https://tv.naver.com/v/35698472"/>
+        <updated>2023-05-08T04:20:04.369Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] xikers SEEUN – ROCKSTAR(싸이커스 세은 - 락스타) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35698276</id>
+        <link href="https://tv.naver.com/v/35698276"/>
+        <updated>2023-05-08T04:20:04.371Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] EPEX BAEKSEUNG – Sunshower(이펙스 백승 - 여우가 시집가는 날) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35698274</id>
+        <link href="https://tv.naver.com/v/35698274"/>
+        <updated>2023-05-08T04:20:04.382Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] EPEX KEUM – Sunshower(이펙스 금동현 - 여우가 시집가는 날) FanCam | Show! MusicCore | MBC230506방송]]></title>
         <id>https://tv.naver.com/v/35697996</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/35660219"/>
         <updated>2023-05-06T11:13:53.333Z</updated>
         <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG DOYOUNG – Dive(NCT 도재정 도영 - 다이브) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35660129</id>
-        <link href="https://tv.naver.com/v/35660129"/>
-        <updated>2023-05-06T11:13:53.334Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Kiss(NCT 도재정 재현 - 키스) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35659961</id>
-        <link href="https://tv.naver.com/v/35659961"/>
-        <updated>2023-05-06T10:16:25.701Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JUNGWOO – Kiss(NCT 도재정 정우 - 키스) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35659861</id>
-        <link href="https://tv.naver.com/v/35659861"/>
-        <updated>2023-05-06T10:16:25.705Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG DOYOUNG – Kiss(NCT 도재정 도영 - 키스) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35659767</id>
-        <link href="https://tv.naver.com/v/35659767"/>
-        <updated>2023-05-06T10:16:25.705Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
