@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-08T04:20:45.892Z</updated>
+    <updated>2023-05-08T05:16:44.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 리노(민호) , 5월 첫째 주 음악중심 MC 컷 모음!, MBC 230506 방송]]></title>
+        <id>https://tv.naver.com/v/35701518</id>
+        <link href="https://tv.naver.com/v/35701518"/>
+        <updated>2023-05-08T05:16:03.542Z</updated>
+        <content type="html"><![CDATA[13:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] xikers YECHAN – ROCKSTAR(싸이커스 예찬 - 락스타) FanCam | Show! MusicCore | MBC230506방송]]></title>
         <id>https://tv.naver.com/v/35698738</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35660297"/>
         <updated>2023-05-06T11:13:53.333Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG - Dive(NCT 도재정 – 다이브) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35660219</id>
-        <link href="https://tv.naver.com/v/35660219"/>
-        <updated>2023-05-06T11:13:53.333Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
     </entry>
 </feed>
