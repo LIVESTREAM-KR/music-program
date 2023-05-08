@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-08T07:16:23.150Z</updated>
+    <updated>2023-05-08T08:21:41.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Dive(NCT 도재정 재현 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35710164</id>
+        <link href="https://tv.naver.com/v/35710164"/>
+        <updated>2023-05-08T08:20:59.935Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Dive(NCT 도재정 도영 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35709963</id>
+        <link href="https://tv.naver.com/v/35709963"/>
+        <updated>2023-05-08T08:20:59.937Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Dive(NCT 도재정 정우 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35709699</id>
+        <link href="https://tv.naver.com/v/35709699"/>
+        <updated>2023-05-08T08:20:59.937Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 리노(민호) , 5월 첫째 주 음악중심 MC 컷 모음!, MBC 230506 방송]]></title>
         <id>https://tv.naver.com/v/35701518</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/35660456"/>
         <updated>2023-05-06T11:13:53.322Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG - Perfume(NCT 도재정 – 퍼퓸) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35660455</id>
-        <link href="https://tv.naver.com/v/35660455"/>
-        <updated>2023-05-06T11:13:53.333Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Dive(NCT 도재정 재현 - 다이브) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35660375</id>
-        <link href="https://tv.naver.com/v/35660375"/>
-        <updated>2023-05-06T11:13:53.333Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Perfume(NCT 도재정 재현 - 퍼퓸) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35660297</id>
-        <link href="https://tv.naver.com/v/35660297"/>
-        <updated>2023-05-06T11:13:53.333Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-08T07:16:23.167Z</updated>
+    <updated>2023-05-08T08:21:41.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[My Life - 세븐틴 (SEVENTEEN) | KBS 230505 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Dive(NCT 도재정 재현 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35710164</id>
+        <link href="https://tv.naver.com/v/35710164"/>
+        <updated>2023-05-08T08:20:59.935Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Dive(NCT 도재정 도영 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35709963</id>
+        <link href="https://tv.naver.com/v/35709963"/>
+        <updated>2023-05-08T08:20:59.937Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Dive(NCT 도재정 정우 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35709699</id>
+        <link href="https://tv.naver.com/v/35709699"/>
+        <updated>2023-05-08T08:20:59.937Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 리노(민호) , 5월 첫째 주 음악중심 MC 컷 모음!, MBC 230506 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35701518</id>
         <link href="https://tv.naver.com/v/35701518"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/35660456"/>
         <updated>2023-05-06T11:13:53.322Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG - Perfume(NCT 도재정 – 퍼퓸) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35660455</id>
-        <link href="https://tv.naver.com/v/35660455"/>
-        <updated>2023-05-06T11:13:53.333Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Dive(NCT 도재정 재현 - 다이브) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35660375</id>
-        <link href="https://tv.naver.com/v/35660375"/>
-        <updated>2023-05-06T11:13:53.333Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JAEHYUN – Perfume(NCT 도재정 재현 - 퍼퓸) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35660297</id>
-        <link href="https://tv.naver.com/v/35660297"/>
-        <updated>2023-05-06T11:13:53.333Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - My Life | SBS 230507 방송 (인기가요)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[쇼챔피언이랑 이번주도 함께 가자❣ [예고] (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/35709271</id>
+        <link href="https://tv.naver.com/v/35709271"/>
+        <updated>2023-05-08T08:21:27.315Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5월 1주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.474 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/35574235</id>
         <link href="https://tv.naver.com/v/35574235"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/35554852</id>
         <link href="https://tv.naver.com/v/35554852"/>
         <updated>2023-05-03T13:20:14.567Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX MU - Sunshower (이펙스 뮤 - 여우가 시집가는 날) | Show Champion | EP.474 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/35554693</id>
-        <link href="https://tv.naver.com/v/35554693"/>
-        <updated>2023-05-03T13:20:14.568Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
