@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-08T02:35:17.920Z</updated>
+    <updated>2023-05-08T03:18:41.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] EPEX KEUM – Sunshower(이펙스 금동현 - 여우가 시집가는 날) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35697996</id>
+        <link href="https://tv.naver.com/v/35697996"/>
+        <updated>2023-05-08T03:18:00.859Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] EPEX AMIN – Sunshower(이펙스 아민 - 여우가 시집가는 날) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35697956</id>
+        <link href="https://tv.naver.com/v/35697956"/>
+        <updated>2023-05-08T03:18:00.859Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] XODIAC SING – THROW A DICE(소디엑 씽 - 쓰로우 어 다이스) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35697470</id>
+        <link href="https://tv.naver.com/v/35697470"/>
+        <updated>2023-05-08T03:18:00.859Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] XODIAC ZAYYAN – THROW A DICE(소디엑 자얀 - 쓰로우 어 다이스) FanCam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35697288</id>
+        <link href="https://tv.naver.com/v/35697288"/>
+        <updated>2023-05-08T03:18:00.859Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LING QI – Monster(소년판타지 링치 - 몬스터) FanCam | Show! MusicCore | MBC230506방송]]></title>
         <id>https://tv.naver.com/v/35662527</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/35659767"/>
         <updated>2023-05-06T10:16:25.705Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JUNGWOO – Dive(NCT 도재정 정우 - 다이브) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35659673</id>
-        <link href="https://tv.naver.com/v/35659673"/>
-        <updated>2023-05-06T10:16:25.708Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG DOYOUNG – Perfume(NCT 도재정 도영 - 퍼퓸) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35659530</id>
-        <link href="https://tv.naver.com/v/35659530"/>
-        <updated>2023-05-06T10:16:25.709Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG - Kiss(NCT 도재정 – 키스) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35659507</id>
-        <link href="https://tv.naver.com/v/35659507"/>
-        <updated>2023-05-06T10:16:25.709Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XODIAC - THROW A DICE(소디엑 – 쓰로우 어 다이스) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35659296</id>
-        <link href="https://tv.naver.com/v/35659296"/>
-        <updated>2023-05-06T10:16:25.709Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
