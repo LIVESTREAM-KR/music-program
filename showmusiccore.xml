@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-09T05:16:17.858Z</updated>
+    <updated>2023-05-09T06:21:58.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Kiss(NCT 도재정 정우 - 키스) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35713952</id>
+        <link href="https://tv.naver.com/v/35713952"/>
+        <updated>2023-05-09T06:21:18.209Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Kiss(NCT 도재정 재현 - 키스) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35709445</id>
+        <link href="https://tv.naver.com/v/35709445"/>
+        <updated>2023-05-09T06:21:18.219Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Kiss(NCT 도재정 도영 - 키스) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35709210</id>
+        <link href="https://tv.naver.com/v/35709210"/>
+        <updated>2023-05-09T06:21:18.220Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Perfume(NCT 도재정 정우 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230506방]]></title>
         <id>https://tv.naver.com/v/35713309</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/35661202"/>
         <updated>2023-05-06T12:28:53.577Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN – REALLY REALLY(소년판타지 이한빈 - 릴리릴리)FanCam|Show! MusicCore|MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35661082</id>
-        <link href="https://tv.naver.com/v/35661082"/>
-        <updated>2023-05-06T12:28:53.579Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE  – REALLY REALLY(소년판타지 오현태 -릴리릴리)FanCam|Show! MusicCore|MBC230506방]]></title>
-        <id>https://tv.naver.com/v/35660963</id>
-        <link href="https://tv.naver.com/v/35660963"/>
-        <updated>2023-05-06T11:13:53.314Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARU – REALLY REALLY(소년판타지 히카루 - 릴리릴리) FanCam | Show! MusicCore | MBC230506방]]></title>
-        <id>https://tv.naver.com/v/35660876</id>
-        <link href="https://tv.naver.com/v/35660876"/>
-        <updated>2023-05-06T11:13:53.314Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>
