@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-09T02:35:06.735Z</updated>
+    <updated>2023-05-09T03:18:44.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Perfume(NCT 도재정 정우 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230506방]]></title>
+        <id>https://tv.naver.com/v/35713309</id>
+        <link href="https://tv.naver.com/v/35713309"/>
+        <updated>2023-05-09T03:18:06.287Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Dive(NCT 도재정 재현 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
+        <id>https://tv.naver.com/v/35712588</id>
+        <link href="https://tv.naver.com/v/35712588"/>
+        <updated>2023-05-09T03:18:06.289Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Perfume(NCT 도재정 도영 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230506방]]></title>
+        <id>https://tv.naver.com/v/35712293</id>
+        <link href="https://tv.naver.com/v/35712293"/>
+        <updated>2023-05-09T03:18:06.291Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Dive(NCT 도재정 재현 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
         <id>https://tv.naver.com/v/35710164</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/35660876"/>
         <updated>2023-05-06T11:13:53.314Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Monster(소년판타지 – 몬스터) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35660696</id>
-        <link href="https://tv.naver.com/v/35660696"/>
-        <updated>2023-05-06T11:13:53.315Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM BEOMJUN – REALLY REALLY(소년판타지 김범준 - 릴리릴리)FanCam|Show! MusicCore|MBC230506방]]></title>
-        <id>https://tv.naver.com/v/35660695</id>
-        <link href="https://tv.naver.com/v/35660695"/>
-        <updated>2023-05-06T11:13:53.322Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DOJAEJUNG JUNGWOO – Perfume(NCT 도재정 정우 - 퍼퓸) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35660456</id>
-        <link href="https://tv.naver.com/v/35660456"/>
-        <updated>2023-05-06T11:13:53.322Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
