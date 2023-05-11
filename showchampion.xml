@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-05-11T05:15:37.345Z</updated>
+    <updated>2023-05-11T06:23:01.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX - My Darling (이펙스 - 사랑하는 내 님아) l Show Champion l EP.475]]></title>
+        <id>https://tv.naver.com/v/35795620</id>
+        <link href="https://tv.naver.com/v/35795620"/>
+        <updated>2023-05-11T06:22:46.758Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Xdinary Heroes JOOYEON - Freakin’ Bad (엑스디너리 히어로즈 주연 - 프리킹 배드) | Show Champion | EP.475]]></title>
         <id>https://tv.naver.com/v/35793315</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35793524"/>
         <updated>2023-05-10T10:18:37.052Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔딩원샷] Dangerous한 맹수로 변신🦁🐯 TEMPEST 엔딩요정 주인공은 과연 누구?]]></title>
-        <id>https://tv.naver.com/v/35793321</id>
-        <link href="https://tv.naver.com/v/35793321"/>
-        <updated>2023-05-10T10:18:37.052Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
