@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-11T09:17:11.923Z</updated>
+    <updated>2023-05-11T10:18:49.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['SOPILER M' (여자)아이들 ((G)I-DLE) | Mnet 230511 방송]]></title>
+        <id>https://tv.naver.com/v/35832144</id>
+        <link href="https://tv.naver.com/v/35832144"/>
+        <updated>2023-05-11T10:18:19.890Z</updated>
+        <content type="html"><![CDATA[01:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN' - Siren | Mnet 230511 방송]]></title>
+        <id>https://tv.naver.com/v/35831847</id>
+        <link href="https://tv.naver.com/v/35831847"/>
+        <updated>2023-05-11T10:18:19.894Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한음 - 첫사랑 | Mnet 230511 방송]]></title>
+        <id>https://tv.naver.com/v/35831155</id>
+        <link href="https://tv.naver.com/v/35831155"/>
+        <updated>2023-05-11T10:18:19.894Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LE SSERAFIM이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/35753081</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/35389970"/>
         <updated>2023-04-27T11:14:08.951Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이기광 - Predator | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389858</id>
-        <link href="https://tv.naver.com/v/35389858"/>
-        <updated>2023-04-27T11:14:08.952Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 태양 (TAEYANG) | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389736</id>
-        <link href="https://tv.naver.com/v/35389736"/>
-        <updated>2023-04-27T11:14:08.953Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1위' IVE - I AM | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389731</id>
-        <link href="https://tv.naver.com/v/35389731"/>
-        <updated>2023-04-27T11:14:08.955Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
