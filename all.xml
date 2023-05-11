@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-11T11:14:17.484Z</updated>
+    <updated>2023-05-11T12:32:46.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[My Life - 세븐틴 (SEVENTEEN) | KBS 230505 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,34 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BTOB (비투비) - 나의 바람 (Wind And Wish) | Mnet 230511 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35834812</id>
+        <link href="https://tv.naver.com/v/35834812"/>
+        <updated>2023-05-11T12:32:18.559Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' aespa - Spicy | Mnet 230511 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35834655</id>
+        <link href="https://tv.naver.com/v/35834655"/>
+        <updated>2023-05-11T12:32:18.560Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' aespa - Salty & Sweet | Mnet 230511 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35834651</id>
+        <link href="https://tv.naver.com/v/35834651"/>
+        <updated>2023-05-11T12:32:18.561Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) | Mnet 230511 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35834499</id>
+        <link href="https://tv.naver.com/v/35834499"/>
+        <updated>2023-05-11T12:32:18.567Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 원어스 (ONEUS) - ERASE ME | Mnet 230511 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/35834348</id>
         <link href="https://tv.naver.com/v/35834348"/>
@@ -688,7 +716,7 @@
         <id>https://tv.naver.com/v/35833656</id>
         <link href="https://tv.naver.com/v/35833656"/>
         <updated>2023-05-11T11:13:49.522Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
+        <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BAE173 - GT (Prod. KENZIE) | Mnet 230511 방송 (엠카운트다운)]]></title>
@@ -702,7 +730,7 @@
         <id>https://tv.naver.com/v/35833474</id>
         <link href="https://tv.naver.com/v/35833474"/>
         <updated>2023-05-11T11:13:49.525Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
+        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['HOT DEBUT' ADYA (에이디야) - Per | Mnet 230511 방송 (엠카운트다운)]]></title>
@@ -815,34 +843,6 @@
         <link href="https://tv.naver.com/v/35610699"/>
         <updated>2023-05-04T11:14:41.103Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - No-Return (Into the unknown) | Mnet 230504 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35610548</id>
-        <link href="https://tv.naver.com/v/35610548"/>
-        <updated>2023-05-04T11:14:41.104Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | Mnet 230504 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35610547</id>
-        <link href="https://tv.naver.com/v/35610547"/>
-        <updated>2023-05-04T11:14:41.104Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - Freakin' Bad | Mnet 230504 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35610404</id>
-        <link href="https://tv.naver.com/v/35610404"/>
-        <updated>2023-05-04T11:14:41.104Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HISTROY M' FIFTY FIFTY와 함께하는 4월의 엠카 핵심 요약.zip! | Mnet 230504 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35610299</id>
-        <link href="https://tv.naver.com/v/35610299"/>
-        <updated>2023-05-04T11:14:41.105Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
