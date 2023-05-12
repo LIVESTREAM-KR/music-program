@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-12T11:14:00.203Z</updated>
+    <updated>2023-05-12T12:30:53.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM | KBS 230512 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 닭갈빗집 숯불 총각에서 이제는 국민가수 김동현 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35874385</id>
+        <link href="https://tv.naver.com/v/35874385"/>
+        <updated>2023-05-12T12:30:46.281Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 👼천상계 고음 종결자 II👼 선후배 간 팽팽한 기싸움🔥 남자 고음 끝판왕은? | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/35661772</id>
         <link href="https://tv.naver.com/v/35661772"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/35636802"/>
         <updated>2023-05-05T11:15:27.742Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 🎵아티스트 송창식 편 2부🎵 모두가 욕심내는 오늘의 트로피! 놓치지 마세요❣️ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35451131</id>
-        <link href="https://tv.naver.com/v/35451131"/>
-        <updated>2023-04-29T12:29:50.471Z</updated>
-        <content type="html"><![CDATA[00:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 복면가왕 레전드👑무대를 썼던 천상의 보컬리스트!😎가수 겸 뮤지컬 배우 배다해!, MBC 230507 방송 (복면가왕)]]></title>
