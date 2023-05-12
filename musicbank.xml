@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-05-12T08:20:14.364Z</updated>
+    <updated>2023-05-12T09:17:03.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여우가 시집가는 날 - EPEX (이펙스) | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35869655</id>
+        <link href="https://tv.naver.com/v/35869655"/>
+        <updated>2023-05-12T09:16:13.959Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siren - ICHILLIN’ (아이칠린) | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35869485</id>
+        <link href="https://tv.naver.com/v/35869485"/>
+        <updated>2023-05-12T09:16:13.959Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freakin’ Bad - Xdinary Heroes | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35868982</id>
+        <link href="https://tv.naver.com/v/35868982"/>
+        <updated>2023-05-12T09:16:13.963Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble - AIMERS | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35868780</id>
+        <link href="https://tv.naver.com/v/35868780"/>
+        <updated>2023-05-12T09:16:13.963Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Per - ADYA  | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35868775</id>
+        <link href="https://tv.naver.com/v/35868775"/>
+        <updated>2023-05-12T09:16:13.965Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄의 고백 - 예빈나다 | KBS 230512 방송]]></title>
+        <id>https://tv.naver.com/v/35868557</id>
+        <link href="https://tv.naver.com/v/35868557"/>
+        <updated>2023-05-12T09:16:13.965Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Life - 세븐틴 (SEVENTEEN) | KBS 230505 방송]]></title>
         <id>https://tv.naver.com/v/35635567</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/35423984"/>
         <updated>2023-04-28T10:17:30.835Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journey - WOODZ | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423841</id>
-        <link href="https://tv.naver.com/v/35423841"/>
-        <updated>2023-04-28T10:17:30.848Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giddy - 케플러(Kep1er) | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423701</id>
-        <link href="https://tv.naver.com/v/35423701"/>
-        <updated>2023-04-28T09:16:07.526Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucid Dream - CRAXY (크랙시) | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423694</id>
-        <link href="https://tv.naver.com/v/35423694"/>
-        <updated>2023-04-28T09:16:07.530Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마카레나(Macarena) - 블리처스 | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423506</id>
-        <link href="https://tv.naver.com/v/35423506"/>
-        <updated>2023-04-28T09:16:07.533Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freakin’ Bad - Xdinary Heroes | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423328</id>
-        <link href="https://tv.naver.com/v/35423328"/>
-        <updated>2023-04-28T09:16:07.536Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여우가 시집가는 날 - EPEX(이펙스) | KBS 230428 방송]]></title>
-        <id>https://tv.naver.com/v/35423147</id>
-        <link href="https://tv.naver.com/v/35423147"/>
-        <updated>2023-04-28T09:16:07.538Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
