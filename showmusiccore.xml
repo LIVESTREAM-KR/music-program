@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-13T06:20:23.831Z</updated>
+    <updated>2023-05-13T07:15:31.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비에이이173 - 지티 (BAE173 - GT), MBC 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35889933</id>
+        <link href="https://tv.naver.com/v/35889933"/>
+        <updated>2023-05-13T07:14:44.544Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이펙스 - 여우가 시집가는 날 (EPEX - Sunshower), MBC 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35889825</id>
+        <link href="https://tv.naver.com/v/35889825"/>
+        <updated>2023-05-13T07:14:44.545Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 사이렌 (ICHILLIN' - Siren), MBC 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35889721</id>
+        <link href="https://tv.naver.com/v/35889721"/>
+        <updated>2023-05-13T07:14:44.547Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이디야 - 펄 (ADYA - Per), MBC 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35889601</id>
+        <link href="https://tv.naver.com/v/35889601"/>
+        <updated>2023-05-13T07:14:44.548Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정다경 - 그 이름 엄마 (Jung Dakyung - That name, mom), MBC 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35889496</id>
+        <link href="https://tv.naver.com/v/35889496"/>
+        <updated>2023-05-13T07:14:44.552Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Kiss(NCT 도재정 정우 - 키스) Close-up Cam | Show! MusicCore | MBC230506방송]]></title>
         <id>https://tv.naver.com/v/35713952</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/35661840"/>
         <updated>2023-05-06T12:28:53.546Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG HYUNWOO – Monster(소년판타지 강현우 - 몬스터) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35661738</id>
-        <link href="https://tv.naver.com/v/35661738"/>
-        <updated>2023-05-06T12:28:53.548Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - REALLY REALLY(소년판타지 – 릴리릴리) FanCam | Show! MusicCore | MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35661657</id>
-        <link href="https://tv.naver.com/v/35661657"/>
-        <updated>2023-05-06T12:28:53.556Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – REALLY REALLY(소년판타지 히카리 - 릴리릴리) FanCam | Show! MusicCore | MBC230506방]]></title>
-        <id>https://tv.naver.com/v/35661554</id>
-        <link href="https://tv.naver.com/v/35661554"/>
-        <updated>2023-05-06T12:28:53.571Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN – REALLY REALLY(소년판타지 홍성민-릴리릴리)FanCam|Show! MusicCore|MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35661437</id>
-        <link href="https://tv.naver.com/v/35661437"/>
-        <updated>2023-05-06T12:28:53.572Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM GYURAE – REALLY REALLY(소년판타지 김규래 - 릴리릴리)FanCam|Show! MusicCore|MBC230506방송]]></title>
-        <id>https://tv.naver.com/v/35661202</id>
-        <link href="https://tv.naver.com/v/35661202"/>
-        <updated>2023-05-06T12:28:53.577Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
     </entry>
 </feed>
