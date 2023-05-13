@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-13T10:16:55.654Z</updated>
+    <updated>2023-05-13T11:13:51.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM | KBS 230512 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,83 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] ADYA - Per(에이디야 – 펄) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894637</id>
+        <link href="https://tv.naver.com/v/35894637"/>
+        <updated>2023-05-13T11:13:08.468Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ICHILLIN’ - Siren(아이칠린 – 사이렌) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894542</id>
+        <link href="https://tv.naver.com/v/35894542"/>
+        <updated>2023-05-13T11:13:08.468Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes – Freakin’ Bad(엑스디너리 히어로즈 - 프리킹 배드) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894465</id>
+        <link href="https://tv.naver.com/v/35894465"/>
+        <updated>2023-05-13T11:13:08.473Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] EPEX - Sunshower(이펙스 – 여우가 시집가는 날) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894464</id>
+        <link href="https://tv.naver.com/v/35894464"/>
+        <updated>2023-05-13T11:13:08.473Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BAE173 J-MIN – GT(비에이이173 제이민 - 지티) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894329</id>
+        <link href="https://tv.naver.com/v/35894329"/>
+        <updated>2023-05-13T11:13:08.473Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BAE173 HANGYUL – GT(비에이이173 한결 - 지티) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894227</id>
+        <link href="https://tv.naver.com/v/35894227"/>
+        <updated>2023-05-13T11:13:08.473Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BAE173 - GT(비에이이173 – 지티) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894226</id>
+        <link href="https://tv.naver.com/v/35894226"/>
+        <updated>2023-05-13T11:13:08.473Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Lee Mu-jin – Ordinary Confession(이무진 – 잠깐 시간 될까) FanCam (Horizontal Ver.) | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894097</id>
+        <link href="https://tv.naver.com/v/35894097"/>
+        <updated>2023-05-13T11:13:08.478Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Lee Mu-jin – Ordinary Confession(이무진 - 잠깐 시간 될까) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35894002</id>
+        <link href="https://tv.naver.com/v/35894002"/>
+        <updated>2023-05-13T11:13:08.480Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BTOB LEE CHANG SUB – Wind And Wish(비투비 이창섭 - 나의 바람) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35893910</id>
+        <link href="https://tv.naver.com/v/35893910"/>
+        <updated>2023-05-13T11:13:08.481Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BTOB - Wind And Wish(비투비 – 나의 바람) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35893845</id>
+        <link href="https://tv.naver.com/v/35893845"/>
+        <updated>2023-05-13T11:13:08.481Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] BTOB LIM HYUN SIK – Wind And Wish(비투비 임현식 - 나의 바람) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35893751</id>
         <link href="https://tv.naver.com/v/35893751"/>
@@ -346,83 +423,6 @@
         <link href="https://tv.naver.com/v/35891802"/>
         <updated>2023-05-13T09:14:24.111Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엔시티 도재정 - 퍼퓸 (NCT DOJAEJUNG - Perfume), MBC 230506 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35891801</id>
-        <link href="https://tv.naver.com/v/35891801"/>
-        <updated>2023-05-13T09:14:24.113Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엔시티 도재정 - 키스 (NCT DOJAEJUNG - Kiss), MBC 230506 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35891776</id>
-        <link href="https://tv.naver.com/v/35891776"/>
-        <updated>2023-05-13T09:14:24.113Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비투비 - 나의 바람 (BTOB - Wind And Wish), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35891173</id>
-        <link href="https://tv.naver.com/v/35891173"/>
-        <updated>2023-05-13T08:19:04.642Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 - 스파이시 (aespa - Spicy), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35891073</id>
-        <link href="https://tv.naver.com/v/35891073"/>
-        <updated>2023-05-13T08:19:04.642Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 - 솔티 & 스위트 (aespa - Salty & Sweet), MBC 230513 방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890955</id>
-        <link href="https://tv.naver.com/v/35890955"/>
-        <updated>2023-05-13T08:19:04.645Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성민 - 사랑이 따끔 (SUNGMIN - Lovesick), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890855</id>
-        <link href="https://tv.naver.com/v/35890855"/>
-        <updated>2023-05-13T08:19:04.645Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이무진 - 잠깐 시간 될까 (LEE MU JIN - Ordinary Confession), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890654</id>
-        <link href="https://tv.naver.com/v/35890654"/>
-        <updated>2023-05-13T08:19:04.652Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀 - 세븐 신스 (DRIPPIN - SEVEN SINS), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890583</id>
-        <link href="https://tv.naver.com/v/35890583"/>
-        <updated>2023-05-13T08:19:04.652Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이핑크 (Apink) in 코노돌🎉 - (노라조 - 카레, 아웃사이더 - 외톨이), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890557</id>
-        <link href="https://tv.naver.com/v/35890557"/>
-        <updated>2023-05-13T08:19:04.652Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스 - 이레이즈 미 (ONEUS - ERASE ME), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890446</id>
-        <link href="https://tv.naver.com/v/35890446"/>
-        <updated>2023-05-13T08:19:04.665Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스디너리 히어로즈 - 프리킹 배드 (Xdinary Heroes - Freakin’ Bad), MBC 230513 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35890283</id>
-        <link href="https://tv.naver.com/v/35890283"/>
-        <updated>2023-05-13T08:19:04.665Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - My Life | SBS 230507 방송 (인기가요)]]></title>
@@ -1265,6 +1265,97 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[어머니가 본 자랑스러운 아들의 무대😭 김동현 vs 김경호 명곡판정단의 선택은? | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894851</id>
+        <link href="https://tv.naver.com/v/35894851"/>
+        <updated>2023-05-13T11:13:43.900Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고음의 신이 찾아왔다👼 고음계 슈퍼루키 김동현을 제대로 각인시킨 무대! | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894838</id>
+        <link href="https://tv.naver.com/v/35894838"/>
+        <updated>2023-05-13T11:13:43.903Z</updated>
+        <content type="html"><![CDATA[01:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김동현 - 끝사랑 | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894746</id>
+        <link href="https://tv.naver.com/v/35894746"/>
+        <updated>2023-05-13T11:13:43.904Z</updated>
+        <content type="html"><![CDATA[05:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종호(ATEEZ) - 그래서 그대는 | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894737</id>
+        <link href="https://tv.naver.com/v/35894737"/>
+        <updated>2023-05-13T11:13:43.904Z</updated>
+        <content type="html"><![CDATA[05:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가요계 삼촌들의 부러움을 받은 활어성대! 섬세한 비브라토를 보여준 종호의 무대 | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894556</id>
+        <link href="https://tv.naver.com/v/35894556"/>
+        <updated>2023-05-13T11:13:43.904Z</updated>
+        <content type="html"><![CDATA[01:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ 종호 0.05%의 우승 욕심?!🤣 종호&동현의 Hype Boy 챌린지 | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894555</id>
+        <link href="https://tv.naver.com/v/35894555"/>
+        <updated>2023-05-13T11:13:43.905Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세명이 부른 듯한 다이내믹함💥 짜릿하게 만드는 열창을 보여준 고유진의 무대 | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894387</id>
+        <link href="https://tv.naver.com/v/35894387"/>
+        <updated>2023-05-13T11:13:43.905Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고유진 - 말리꽃 | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894330</id>
+        <link href="https://tv.naver.com/v/35894330"/>
+        <updated>2023-05-13T11:13:43.906Z</updated>
+        <content type="html"><![CDATA[05:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※빅매치 성사※ 오늘을 위해 고유진이 준비한 비장의 승부수?🔥 | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894316</id>
+        <link href="https://tv.naver.com/v/35894316"/>
+        <updated>2023-05-13T11:13:43.906Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김경호 - 보여줄게 | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894228</id>
+        <link href="https://tv.naver.com/v/35894228"/>
+        <updated>2023-05-13T11:13:43.907Z</updated>
+        <content type="html"><![CDATA[04:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외쳐 갓경호✨ 전율이 차오르는 마이크 퍼포먼스! 명불허전을 증명한 김경호의 무대 | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894152</id>
+        <link href="https://tv.naver.com/v/35894152"/>
+        <updated>2023-05-13T11:13:43.908Z</updated>
+        <content type="html"><![CDATA[02:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현재 진행형 레전드 로커 김경호🤘 모두가 기대하는 오늘의 선곡? | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894098</id>
+        <link href="https://tv.naver.com/v/35894098"/>
+        <updated>2023-05-13T11:13:43.909Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시원한 고음으로 깔끔하게 혈행 개선 완료😆 단단한 샤우팅을 보여준 DK의 무대! | KBS 230513 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/35894011</id>
+        <link href="https://tv.naver.com/v/35894011"/>
+        <updated>2023-05-13T11:13:43.909Z</updated>
+        <content type="html"><![CDATA[01:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DK - Endless | KBS 230513 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/35893913</id>
         <link href="https://tv.naver.com/v/35893913"/>
@@ -1279,7 +1370,7 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘은 김경호 특집? 모두가 경계하는 이유! 록 계보에 한 획을 그은 김경호✨  | KBS 230513 방송 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[오늘은 김경호 특집? 모두가 경계하는 이유! 록 계보에 한 획을 그은 김경호🎤 | KBS 230513 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/35893599</id>
         <link href="https://tv.naver.com/v/35893599"/>
         <updated>2023-05-13T10:16:48.171Z</updated>
@@ -1382,97 +1473,6 @@
         <link href="https://tv.naver.com/v/35661084"/>
         <updated>2023-05-06T11:14:27.415Z</updated>
         <content type="html"><![CDATA[02:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심장을 저격할 실력파 신인 에이머스🔥노래와 한복을 결합한 무대 예열 중! | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35660877</id>
-        <link href="https://tv.naver.com/v/35660877"/>
-        <updated>2023-05-06T11:14:27.416Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통기타 가수 인생을 끝맺기로 마음먹은 곡 ＜밤눈＞&송창식이 가장 빨리 만든 곡은? | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35660806</id>
-        <link href="https://tv.naver.com/v/35660806"/>
-        <updated>2023-05-06T11:14:27.420Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유리상자 - 우리는 | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35660609</id>
-        <link href="https://tv.naver.com/v/35660609"/>
-        <updated>2023-05-06T11:14:27.421Z</updated>
-        <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친숙한 감정을 웅장함으로 마무리! 지나온 애틋한 시간들이 보였던 유리상자의 무대  | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35660546</id>
-        <link href="https://tv.naver.com/v/35660546"/>
-        <updated>2023-05-06T11:14:27.422Z</updated>
-        <content type="html"><![CDATA[01:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가대표 포크듀오 유리상자⭐️ 이혼 결심도 되돌린 이야기&유리상자에게 송창식이란? | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35660459</id>
-        <link href="https://tv.naver.com/v/35660459"/>
-        <updated>2023-05-06T11:14:27.423Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정승환 - 밤눈 | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35660227</id>
-        <link href="https://tv.naver.com/v/35660227"/>
-        <updated>2023-05-06T11:14:27.424Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발라드 세손 정승환! MV 촬영 비하인드&선곡으로 말해보는 선생님을 향한 존경심✨ | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35660070</id>
-        <link href="https://tv.naver.com/v/35660070"/>
-        <updated>2023-05-06T10:16:56.167Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포크계 아이돌 박창근! 승률 100%를 깨고 출연한 계기&이세준과 달콤한 듀엣💕 | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35660048</id>
-        <link href="https://tv.naver.com/v/35660048"/>
-        <updated>2023-05-06T10:16:56.167Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유리상자 이세준과 정승환이 함께 부르는 ＜너였다면＞♬ | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35659968</id>
-        <link href="https://tv.naver.com/v/35659968"/>
-        <updated>2023-05-06T10:16:56.168Z</updated>
-        <content type="html"><![CDATA[01:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송창식X함춘호 - 창밖에는 비 오고요 | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35659676</id>
-        <link href="https://tv.naver.com/v/35659676"/>
-        <updated>2023-05-06T10:16:56.170Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 유리상자 – 우리는 | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35637751</id>
-        <link href="https://tv.naver.com/v/35637751"/>
-        <updated>2023-05-06T12:29:28.388Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] AIMERS(에이머스) – 고래사냥 | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35637748</id>
-        <link href="https://tv.naver.com/v/35637748"/>
-        <updated>2023-05-06T12:29:28.389Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 정승환 – 밤눈 | KBS 230506 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/35637333</id>
-        <link href="https://tv.naver.com/v/35637333"/>
-        <updated>2023-05-06T12:29:28.391Z</updated>
-        <content type="html"><![CDATA[05:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 복면가왕 레전드👑무대를 썼던 천상의 보컬리스트!😎가수 겸 뮤지컬 배우 배다해!, MBC 230507 방송 (복면가왕)]]></title>
