@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-05-13T09:15:04.516Z</updated>
+    <updated>2023-05-13T10:16:55.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DK - Endless | KBS 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35893913</id>
+        <link href="https://tv.naver.com/v/35893913"/>
+        <updated>2023-05-13T10:16:48.169Z</updated>
+        <content type="html"><![CDATA[04:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국가대표 고음 사냥꾼 DK🔥 오늘의 선곡=고유진과의 정면 승부? | KBS 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35893846</id>
+        <link href="https://tv.naver.com/v/35893846"/>
+        <updated>2023-05-13T10:16:48.170Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘은 김경호 특집? 모두가 경계하는 이유! 록 계보에 한 획을 그은 김경호✨  | KBS 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35893599</id>
+        <link href="https://tv.naver.com/v/35893599"/>
+        <updated>2023-05-13T10:16:48.171Z</updated>
+        <content type="html"><![CDATA[02:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천상계 고음 종결자 특집 II👼 끝까지 쫄리게(?) 만드는 오늘의 라인업❣️ | KBS 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35893536</id>
+        <link href="https://tv.naver.com/v/35893536"/>
+        <updated>2023-05-13T10:16:48.173Z</updated>
+        <content type="html"><![CDATA[02:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 닭갈빗집 숯불 총각에서 이제는 국민가수 김동현 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/35874385</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/35637333"/>
         <updated>2023-05-06T12:29:28.391Z</updated>
         <content type="html"><![CDATA[05:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 박정현 – 푸르른 날 | KBS 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35637331</id>
-        <link href="https://tv.naver.com/v/35637331"/>
-        <updated>2023-05-06T12:29:28.393Z</updated>
-        <content type="html"><![CDATA[05:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 박창근 – 나의 기타 이야기 | KBS 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35637329</id>
-        <link href="https://tv.naver.com/v/35637329"/>
-        <updated>2023-05-06T12:29:28.394Z</updated>
-        <content type="html"><![CDATA[06:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[4K 직캠] 송창식X함춘호 – 창밖에는 비 오고요 | KBS 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35637233</id>
-        <link href="https://tv.naver.com/v/35637233"/>
-        <updated>2023-05-06T12:29:28.398Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 송창식 편 2부 미리보기, 포크계의 아이돌 박창근 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/35636802</id>
-        <link href="https://tv.naver.com/v/35636802"/>
-        <updated>2023-05-05T11:15:27.742Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
