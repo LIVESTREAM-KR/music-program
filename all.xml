@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-13T08:19:46.346Z</updated>
+    <updated>2023-05-13T09:15:04.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM | KBS 230512 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,76 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa - Salty & Sweet(에스파 – 솔티 앤 스위트) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35892594</id>
+        <link href="https://tv.naver.com/v/35892594"/>
+        <updated>2023-05-13T09:14:24.105Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa GISELLE – Salty & Sweet(에스파 지젤 - 솔티 앤 스위트) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35892480</id>
+        <link href="https://tv.naver.com/v/35892480"/>
+        <updated>2023-05-13T09:14:24.108Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa WINTER – Spicy(에스파 윈터 - 스파이시) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35892275</id>
+        <link href="https://tv.naver.com/v/35892275"/>
+        <updated>2023-05-13T09:14:24.108Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa GISELLE – Spicy(에스파 지젤 - 스파이시) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35892274</id>
+        <link href="https://tv.naver.com/v/35892274"/>
+        <updated>2023-05-13T09:14:24.108Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa NINGNING – Spicy(에스파 닝닝 - 스파이시) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35892097</id>
+        <link href="https://tv.naver.com/v/35892097"/>
+        <updated>2023-05-13T09:14:24.108Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa KARINA – Spicy(에스파 카리나 - 스파이시) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35891997</id>
+        <link href="https://tv.naver.com/v/35891997"/>
+        <updated>2023-05-13T09:14:24.109Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa - Spicy(에스파 – 스파이시) FanCam | Show! MusicCore | MBC230513방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35891995</id>
+        <link href="https://tv.naver.com/v/35891995"/>
+        <updated>2023-05-13T09:14:24.109Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 앨리스 - 쇼 다운 (ALICE - SHOW DOWN), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35891802</id>
+        <link href="https://tv.naver.com/v/35891802"/>
+        <updated>2023-05-13T09:14:24.111Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엔시티 도재정 - 퍼퓸 (NCT DOJAEJUNG - Perfume), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35891801</id>
+        <link href="https://tv.naver.com/v/35891801"/>
+        <updated>2023-05-13T09:14:24.113Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엔시티 도재정 - 키스 (NCT DOJAEJUNG - Kiss), MBC 230506 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/35891776</id>
+        <link href="https://tv.naver.com/v/35891776"/>
+        <updated>2023-05-13T09:14:24.113Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[비투비 - 나의 바람 (BTOB - Wind And Wish), MBC 230513 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/35891173</id>
         <link href="https://tv.naver.com/v/35891173"/>
@@ -353,76 +423,6 @@
         <link href="https://tv.naver.com/v/35712588"/>
         <updated>2023-05-09T03:18:06.289Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Perfume(NCT 도재정 도영 - 퍼퓸) Close-up Cam | Show! MusicCore |MBC230506방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35712293</id>
-        <link href="https://tv.naver.com/v/35712293"/>
-        <updated>2023-05-09T03:18:06.291Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JAEHYUN - Dive(NCT 도재정 재현 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35710164</id>
-        <link href="https://tv.naver.com/v/35710164"/>
-        <updated>2023-05-08T08:20:59.935Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG DOYOUNG - Dive(NCT 도재정 도영 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35709963</id>
-        <link href="https://tv.naver.com/v/35709963"/>
-        <updated>2023-05-08T08:20:59.937Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DOJAEJUNG JUNGWOO - Dive(NCT 도재정 정우 - 다이브) Close-up Cam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35709699</id>
-        <link href="https://tv.naver.com/v/35709699"/>
-        <updated>2023-05-08T08:20:59.937Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 리노(민호) , 5월 첫째 주 음악중심 MC 컷 모음!, MBC 230506 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35701518</id>
-        <link href="https://tv.naver.com/v/35701518"/>
-        <updated>2023-05-08T05:16:03.542Z</updated>
-        <content type="html"><![CDATA[13:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers YECHAN – ROCKSTAR(싸이커스 예찬 - 락스타) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35698738</id>
-        <link href="https://tv.naver.com/v/35698738"/>
-        <updated>2023-05-08T04:20:04.367Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers YUJUN – ROCKSTAR(싸이커스 유준 - 락스타) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35698472</id>
-        <link href="https://tv.naver.com/v/35698472"/>
-        <updated>2023-05-08T04:20:04.369Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers SEEUN – ROCKSTAR(싸이커스 세은 - 락스타) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35698276</id>
-        <link href="https://tv.naver.com/v/35698276"/>
-        <updated>2023-05-08T04:20:04.371Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EPEX BAEKSEUNG – Sunshower(이펙스 백승 - 여우가 시집가는 날) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35698274</id>
-        <link href="https://tv.naver.com/v/35698274"/>
-        <updated>2023-05-08T04:20:04.382Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EPEX KEUM – Sunshower(이펙스 금동현 - 여우가 시집가는 날) FanCam | Show! MusicCore | MBC230506방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/35697996</id>
-        <link href="https://tv.naver.com/v/35697996"/>
-        <updated>2023-05-08T03:18:00.859Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - My Life | SBS 230507 방송 (인기가요)]]></title>
