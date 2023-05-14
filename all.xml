@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-14T06:21:34.872Z</updated>
+    <updated>2023-05-14T07:16:41.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM | KBS 230512 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,41 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230514 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35909103</id>
+        <link href="https://tv.naver.com/v/35909103"/>
+        <updated>2023-05-14T07:16:03.283Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민민(MinMin) - Take Me | SBS 230514 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35908999</id>
+        <link href="https://tv.naver.com/v/35908999"/>
+        <updated>2023-05-14T07:16:03.283Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Bubble | SBS 230514 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35908997</id>
+        <link href="https://tv.naver.com/v/35908997"/>
+        <updated>2023-05-14T07:16:03.284Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADYA - Per | SBS 230514 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35908817</id>
+        <link href="https://tv.naver.com/v/35908817"/>
+        <updated>2023-05-14T07:16:03.287Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장혜리 - 사랑 그게 뭔데 | SBS 230514 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/35908708</id>
+        <link href="https://tv.naver.com/v/35908708"/>
+        <updated>2023-05-14T07:16:03.287Z</updated>
+        <content type="html"><![CDATA[02:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - My Life | SBS 230507 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/35675616</id>
         <link href="https://tv.naver.com/v/35675616"/>
@@ -598,41 +633,6 @@
         <link href="https://tv.naver.com/v/35465979"/>
         <updated>2023-04-30T08:19:39.749Z</updated>
         <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - Freakin’ Bad | SBS 230430 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/35465978</id>
-        <link href="https://tv.naver.com/v/35465978"/>
-        <updated>2023-04-30T08:19:39.752Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - SEVEN SINS | SBS 230430 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/35465856</id>
-        <link href="https://tv.naver.com/v/35465856"/>
-        <updated>2023-04-30T08:19:39.752Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230430 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/35465658</id>
-        <link href="https://tv.naver.com/v/35465658"/>
-        <updated>2023-04-30T08:19:39.756Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러(Kep1er) - Giddy | SBS 230430 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/35465654</id>
-        <link href="https://tv.naver.com/v/35465654"/>
-        <updated>2023-04-30T08:19:39.757Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEMPEST(템페스트) - 난장(Dangerous) | SBS 230430 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/35465537</id>
-        <link href="https://tv.naver.com/v/35465537"/>
-        <updated>2023-04-30T08:19:39.759Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTOB (비투비) - 나의 바람 (Wind And Wish) | Mnet 230511 방송 (엠카운트다운)]]></title>
