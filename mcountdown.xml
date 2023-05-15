@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-15T06:23:48.668Z</updated>
+    <updated>2023-05-15T07:18:07.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 2주 1위 'LE SSERAFIM'의 'UNFORGIVEN (feat. Nile Rodgers)' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/35937448</id>
+        <link href="https://tv.naver.com/v/35937448"/>
+        <updated>2023-05-15T07:17:38.361Z</updated>
+        <content type="html"><![CDATA[05:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BTOB (비투비) - 나의 바람 (Wind And Wish) | Mnet 230511 방송]]></title>
         <id>https://tv.naver.com/v/35834812</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35610856"/>
         <updated>2023-05-04T11:14:41.103Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) | Mnet 230504 방송]]></title>
-        <id>https://tv.naver.com/v/35610699</id>
-        <link href="https://tv.naver.com/v/35610699"/>
-        <updated>2023-05-04T11:14:41.103Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>
