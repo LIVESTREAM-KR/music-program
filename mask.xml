@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-05-15T10:18:57.244Z</updated>
+    <updated>2023-05-15T11:14:37.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 지상파 간판 아나운서에서 프리하게🔥돌아온 아나테이너 지망생! 반전 매력의 아나운서 최기환, MBC 230514 방송]]></title>
+        <id>https://tv.naver.com/v/35948081</id>
+        <link href="https://tv.naver.com/v/35948081"/>
+        <updated>2023-05-15T11:14:37.225Z</updated>
+        <content type="html"><![CDATA[10:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ＂멜로망스는 2명입니다..🤣＂ 선물같은🎁 그룹 멜로망스의 존재감 뿜뿜✨보이스 정동환!, MBC 230514 방송]]></title>
+        <id>https://tv.naver.com/v/35948076</id>
+        <link href="https://tv.naver.com/v/35948076"/>
+        <updated>2023-05-15T11:14:37.226Z</updated>
+        <content type="html"><![CDATA[09:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 붕어빵이 낳은 최고의 아웃풋😎 정지웅! 음악부터 연애까지🥰놓지지 않을 예정인 욕심쟁이!🎉, MBC 230514 방송]]></title>
+        <id>https://tv.naver.com/v/35947794</id>
+        <link href="https://tv.naver.com/v/35947794"/>
+        <updated>2023-05-15T11:14:37.227Z</updated>
+        <content type="html"><![CDATA[10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜과연 '팔색조'는 영광의 200대 가왕이 될 수 있을까?＞ 복면가왕 405회 예고, MBC 230521 방송]]></title>
         <id>https://tv.naver.com/v/35913681</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/35680298"/>
         <updated>2023-05-07T11:13:53.403Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피크닉'의 정체는 하이키 휘서!, MBC 230507 방송]]></title>
-        <id>https://tv.naver.com/v/35680282</id>
-        <link href="https://tv.naver.com/v/35680282"/>
-        <updated>2023-05-07T11:13:53.404Z</updated>
-        <content type="html"><![CDATA[02:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['록스타' 2라운드 무대 - 사랑했지만, MBC 230507 방송]]></title>
-        <id>https://tv.naver.com/v/35680015</id>
-        <link href="https://tv.naver.com/v/35680015"/>
-        <updated>2023-05-07T10:17:29.312Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['피크닉' 2라운드 무대 - 다시 만난 세계, MBC 230507 방송]]></title>
-        <id>https://tv.naver.com/v/35679906</id>
-        <link href="https://tv.naver.com/v/35679906"/>
-        <updated>2023-05-07T10:17:29.322Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-15T10:18:57.232Z</updated>
+    <updated>2023-05-15T11:14:37.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONEUS LEEDO - ERASE ME(원어스 이도 - 이레이즈 미) Close-up Cam | Show! MusicCore | MBC230513방송]]></title>
+        <id>https://tv.naver.com/v/35950005</id>
+        <link href="https://tv.naver.com/v/35950005"/>
+        <updated>2023-05-15T11:13:56.980Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa GISELLE - Salty & Sweet(에스파 지젤 - 솔티 앤 스위트) Close-up Cam | Show! MusicCore | MBC230513]]></title>
+        <id>https://tv.naver.com/v/35949753</id>
+        <link href="https://tv.naver.com/v/35949753"/>
+        <updated>2023-05-15T11:13:56.989Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 카리나 X 이민혁 , 5월 둘째 주 음악중심 MC 컷 모음!, MBC 230513 방송]]></title>
         <id>https://tv.naver.com/v/35937441</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/35892097"/>
         <updated>2023-05-13T09:14:24.108Z</updated>
         <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa KARINA – Spicy(에스파 카리나 - 스파이시) FanCam | Show! MusicCore | MBC230513방송]]></title>
-        <id>https://tv.naver.com/v/35891997</id>
-        <link href="https://tv.naver.com/v/35891997"/>
-        <updated>2023-05-13T09:14:24.109Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa - Spicy(에스파 – 스파이시) FanCam | Show! MusicCore | MBC230513방송]]></title>
-        <id>https://tv.naver.com/v/35891995</id>
-        <link href="https://tv.naver.com/v/35891995"/>
-        <updated>2023-05-13T09:14:24.109Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
     </entry>
 </feed>
