@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-15T11:14:37.847Z</updated>
+    <updated>2023-05-15T12:35:55.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa WINTER - Salty & Sweet(에스파 윈터 - 솔티 앤 스위트) Close-up Cam | Show! MusicCore | MBC230513방]]></title>
+        <id>https://tv.naver.com/v/35950816</id>
+        <link href="https://tv.naver.com/v/35950816"/>
+        <updated>2023-05-15T12:35:14.353Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa KARINA - Salty & Sweet(에스파 카리나 - 솔티 앤 스위트) Close-up Cam | Show! MusicCore | MBC230513]]></title>
+        <id>https://tv.naver.com/v/35950365</id>
+        <link href="https://tv.naver.com/v/35950365"/>
+        <updated>2023-05-15T12:35:14.354Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING - Salty & Sweet(에스파 닝닝 - 솔티 앤 스위트) Close-up Cam | Show! MusicCore | MBC23051]]></title>
+        <id>https://tv.naver.com/v/35950161</id>
+        <link href="https://tv.naver.com/v/35950161"/>
+        <updated>2023-05-15T12:35:14.354Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ONEUS LEEDO - ERASE ME(원어스 이도 - 이레이즈 미) Close-up Cam | Show! MusicCore | MBC230513방송]]></title>
         <id>https://tv.naver.com/v/35950005</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/35892480"/>
         <updated>2023-05-13T09:14:24.108Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa WINTER – Spicy(에스파 윈터 - 스파이시) FanCam | Show! MusicCore | MBC230513방송]]></title>
-        <id>https://tv.naver.com/v/35892275</id>
-        <link href="https://tv.naver.com/v/35892275"/>
-        <updated>2023-05-13T09:14:24.108Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa GISELLE – Spicy(에스파 지젤 - 스파이시) FanCam | Show! MusicCore | MBC230513방송]]></title>
-        <id>https://tv.naver.com/v/35892274</id>
-        <link href="https://tv.naver.com/v/35892274"/>
-        <updated>2023-05-13T09:14:24.108Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa NINGNING – Spicy(에스파 닝닝 - 스파이시) FanCam | Show! MusicCore | MBC230513방송]]></title>
-        <id>https://tv.naver.com/v/35892097</id>
-        <link href="https://tv.naver.com/v/35892097"/>
-        <updated>2023-05-13T09:14:24.108Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
 </feed>
