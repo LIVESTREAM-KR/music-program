@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-16T10:19:11.449Z</updated>
+    <updated>2023-05-16T11:15:16.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM | KBS 230512 방송 (뮤직뱅크)]]></title>
@@ -845,6 +845,76 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35989205</id>
+        <link href="https://tv.naver.com/v/35989205"/>
+        <updated>2023-05-16T11:14:53.434Z</updated>
+        <content type="html"><![CDATA[05:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 역주행 기록을 남기는 퍼포먼스 퀸, 이채연 'KNOCK' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35988895</id>
+        <link href="https://tv.naver.com/v/35988895"/>
+        <updated>2023-05-16T11:14:53.435Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 한 층 더 깊어진 감정선, 원어스(ONEUS) 'ERASE ME' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35988894</id>
+        <link href="https://tv.naver.com/v/35988894"/>
+        <updated>2023-05-16T11:14:53.437Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 아련한 영화 속 주인공 같은 스토리, 원어스(ONEUS) '잇다 있다 잊었다 (Unforgettable)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35988743</id>
+        <link href="https://tv.naver.com/v/35988743"/>
+        <updated>2023-05-16T11:14:53.439Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강렬한 매력 담은 퍼포먼스, DRIPPIN 'SEVEN SINS' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35988604</id>
+        <link href="https://tv.naver.com/v/35988604"/>
+        <updated>2023-05-16T11:14:53.440Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올곧은 사랑을 노래하는 음색 요정, 류수정 'Love or Hate' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35988600</id>
+        <link href="https://tv.naver.com/v/35988600"/>
+        <updated>2023-05-16T11:14:53.442Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[굉음 속을 달리는 폭발적인 에너지, BAE173 'GT (Prod. KENZIE)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35988470</id>
+        <link href="https://tv.naver.com/v/35988470"/>
+        <updated>2023-05-16T11:14:53.446Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이펙스 표 청량 퍼포먼스, EPEX (이펙스) '여우가 시집가는 날' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35988462</id>
+        <link href="https://tv.naver.com/v/35988462"/>
+        <updated>2023-05-16T11:14:53.448Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀여운 매력 가득한 여덟 소년들, EPEX (이펙스) '사랑하는 내 님아' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35988311</id>
+        <link href="https://tv.naver.com/v/35988311"/>
+        <updated>2023-05-16T11:14:53.450Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 형섭 & 원어스(ONEUS) (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35988017</id>
+        <link href="https://tv.naver.com/v/35988017"/>
+        <updated>2023-05-16T11:14:53.451Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Special Stage] 상큼한 에너지 넘치는 커버 무대, 트라이비(TRI.BE) 'LOVE ME RIGHT (원곡: EXO)' (더쇼)]]></title>
         <id>https://tv.naver.com/v/35987871</id>
         <link href="https://tv.naver.com/v/35987871"/>
@@ -983,76 +1053,6 @@
         <link href="https://tv.naver.com/v/35752869"/>
         <updated>2023-05-09T10:18:58.331Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔 & TEMPEST(템페스트) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35752867</id>
-        <link href="https://tv.naver.com/v/35752867"/>
-        <updated>2023-05-09T10:18:58.337Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파워풀한 보컬과 몽환적인 사운드의 조합, CRAXY (크랙시) 'LUCID DREAM' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35752864</id>
-        <link href="https://tv.naver.com/v/35752864"/>
-        <updated>2023-05-09T10:18:58.339Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감미로운 보컬의 솔로 아이돌, 한음 '첫사랑' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35752222</id>
-        <link href="https://tv.naver.com/v/35752222"/>
-        <updated>2023-05-09T10:18:58.341Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[희망과 용기를 북돋아주는 메시지, MUSTB (머스트비) 'ROYALTY' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35752061</id>
-        <link href="https://tv.naver.com/v/35752061"/>
-        <updated>2023-05-09T10:18:58.343Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 벗어날 수 없는 중독적인 사랑, 이기광 'Predator' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35312996</id>
-        <link href="https://tv.naver.com/v/35312996"/>
-        <updated>2023-04-25T11:14:19.474Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 꿈결 같은 몽환적인 사운드, 이기광 'Favorite' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35312843</id>
-        <link href="https://tv.naver.com/v/35312843"/>
-        <updated>2023-04-25T11:14:19.475Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체리콕처럼 톡 쏘는 매력, 예은(YEEUN) 'Cherry Coke' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35312525</id>
-        <link href="https://tv.naver.com/v/35312525"/>
-        <updated>2023-04-25T11:14:19.483Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Special Stage] 글로벌 리스너들 매료시킬 컬래버레이션, New Hope Club, P1Harmony 'Super Chic' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35312522</id>
-        <link href="https://tv.naver.com/v/35312522"/>
-        <updated>2023-04-25T11:14:19.484Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬들의 심장을 두드리는 강렬한 매력, 이채연 'KNOCK' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35312221</id>
-        <link href="https://tv.naver.com/v/35312221"/>
-        <updated>2023-04-25T11:14:19.484Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 한층 업그레이드된 성숙미, DRIPPIN 'SEVEN SINS' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35312219</id>
-        <link href="https://tv.naver.com/v/35312219"/>
-        <updated>2023-04-25T11:14:19.485Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5월 2주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.475 (쇼챔피언)]]></title>
