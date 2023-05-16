@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-16T09:16:58.752Z</updated>
+    <updated>2023-05-16T10:19:11.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM | KBS 230512 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[aespa가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/35987448</id>
+        <link href="https://tv.naver.com/v/35987448"/>
+        <updated>2023-05-16T10:18:42.702Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5월 2주 1위 'LE SSERAFIM'의 'UNFORGIVEN (feat. Nile Rodgers)' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/35937448</id>
         <link href="https://tv.naver.com/v/35937448"/>
@@ -838,11 +845,60 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with BTOB (비투비) | Mnet 230504 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35610856</id>
-        <link href="https://tv.naver.com/v/35610856"/>
-        <updated>2023-05-04T11:14:41.103Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
+        <title type="html"><![CDATA[[Special Stage] 상큼한 에너지 넘치는 커버 무대, 트라이비(TRI.BE) 'LOVE ME RIGHT (원곡: EXO)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35987871</id>
+        <link href="https://tv.naver.com/v/35987871"/>
+        <updated>2023-05-16T10:18:49.631Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[윌 유 내꾸 미?] DRIPPIN (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35987575</id>
+        <link href="https://tv.naver.com/v/35987575"/>
+        <updated>2023-05-16T10:18:49.631Z</updated>
+        <content type="html"><![CDATA[04:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진정성 가득한 목소리, 정다경 '그 이름 엄마' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35987572</id>
+        <link href="https://tv.naver.com/v/35987572"/>
+        <updated>2023-05-16T10:18:49.631Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 시선을 끄는 강렬한 사운드, ICHILLIN’(아이칠린) 'Siren' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35987444</id>
+        <link href="https://tv.naver.com/v/35987444"/>
+        <updated>2023-05-16T10:18:49.632Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 새로운 도전에 내딛는 첫 발, ADYA (에이디야) 'Per' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35987328</id>
+        <link href="https://tv.naver.com/v/35987328"/>
+        <updated>2023-05-16T10:18:49.634Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감미로운 사랑고백, 한음 '첫사랑' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35986842</id>
+        <link href="https://tv.naver.com/v/35986842"/>
+        <updated>2023-05-16T10:18:49.634Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재치 넘치는 퍼포먼스, 블리처스 '마카레나(Macarena)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35986683</id>
+        <link href="https://tv.naver.com/v/35986683"/>
+        <updated>2023-05-16T10:18:49.637Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑의 설렘을 시원하게 담아낸, 민민 (MinMin) 'TAKE ME' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/35986437</id>
+        <link href="https://tv.naver.com/v/35986437"/>
+        <updated>2023-05-16T10:18:49.638Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
@@ -997,62 +1053,6 @@
         <link href="https://tv.naver.com/v/35312219"/>
         <updated>2023-04-25T11:14:19.485Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 드리핀만의 미니멀한 사운드, DRIPPIN 'STEREO' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35312072</id>
-        <link href="https://tv.naver.com/v/35312072"/>
-        <updated>2023-04-25T11:14:19.495Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑에 치인 아홉 소녀의 운명적 불시착, 케플러(Kep1er) 'Giddy' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35311800</id>
-        <link href="https://tv.naver.com/v/35311800"/>
-        <updated>2023-04-25T10:18:35.858Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 하룻밤의 일탈을 선물하듯 펑키한 멜로디, TEMPEST (템페스트)  'Freak Show' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35311799</id>
-        <link href="https://tv.naver.com/v/35311799"/>
-        <updated>2023-04-25T10:18:35.859Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 이유 있는 자신감으로 씬을 뒤집을, TEMPEST (템페스트) '난장(Dangerous)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35311774</id>
-        <link href="https://tv.naver.com/v/35311774"/>
-        <updated>2023-04-25T10:18:35.860Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초공개] 솔직하고 담백한 감정, 류수정 'Grabby Girl' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35311771</id>
-        <link href="https://tv.naver.com/v/35311771"/>
-        <updated>2023-04-25T10:18:35.862Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Solo Debut] 음악적 역량을 보여줄 자작곡, 기욱 (ONEWE) '제0호선 시간역행(TIME MACHINE) (2100)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35311769</id>
-        <link href="https://tv.naver.com/v/35311769"/>
-        <updated>2023-04-25T10:18:35.863Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족에 대한 소중함을 이야기하는, 황우림 '아빠 딸' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35311342</id>
-        <link href="https://tv.naver.com/v/35311342"/>
-        <updated>2023-04-25T10:18:35.864Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 넘치는 에너지를 전파하는, 블리처스 '마카레나(Macarena)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35311192</id>
-        <link href="https://tv.naver.com/v/35311192"/>
-        <updated>2023-04-25T10:18:35.865Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5월 2주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.475 (쇼챔피언)]]></title>

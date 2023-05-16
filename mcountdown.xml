@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-16T09:16:58.728Z</updated>
+    <updated>2023-05-16T10:19:11.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[aespa가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/35987448</id>
+        <link href="https://tv.naver.com/v/35987448"/>
+        <updated>2023-05-16T10:18:42.702Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5월 2주 1위 'LE SSERAFIM'의 'UNFORGIVEN (feat. Nile Rodgers)' 앵콜 무대! (Full ver.)]]></title>
         <id>https://tv.naver.com/v/35937448</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35611034"/>
         <updated>2023-05-04T11:14:41.097Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with BTOB (비투비) | Mnet 230504 방송]]></title>
-        <id>https://tv.naver.com/v/35610856</id>
-        <link href="https://tv.naver.com/v/35610856"/>
-        <updated>2023-05-04T11:14:41.103Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
