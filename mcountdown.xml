@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-18T11:14:41.337Z</updated>
+    <updated>2023-05-18T12:33:22.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/36068404"/>
         <updated>2023-05-18T11:14:11.104Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' (여자)아이들 - Allergy | Mnet 230518 방송]]></title>
+        <id>https://tv.naver.com/v/36068162</id>
+        <link href="https://tv.naver.com/v/36068162"/>
+        <updated>2023-05-18T12:32:50.709Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Spicy | Mnet 230518 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35834170"/>
         <updated>2023-05-11T11:13:49.511Z</updated>
         <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | Mnet 230511 방송]]></title>
-        <id>https://tv.naver.com/v/35834164</id>
-        <link href="https://tv.naver.com/v/35834164"/>
-        <updated>2023-05-11T11:13:49.515Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
