@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-05-19T08:20:30.076Z</updated>
+    <updated>2023-05-19T09:16:25.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[티저] 불후의 명곡 ROCK FESTIVAL in ULSAN ✨  | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/36105416</id>
+        <link href="https://tv.naver.com/v/36105416"/>
+        <updated>2023-05-19T09:16:18.256Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분] 고음 강자들의 노래방 대결! | KBS 230513 방송]]></title>
         <id>https://tv.naver.com/v/35895729</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35869478"/>
         <updated>2023-05-13T12:29:06.780Z</updated>
         <content type="html"><![CDATA[05:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 고유진 - 말리꽃 | KBS 230513 방송]]></title>
-        <id>https://tv.naver.com/v/35869190</id>
-        <link href="https://tv.naver.com/v/35869190"/>
-        <updated>2023-05-13T12:29:06.780Z</updated>
-        <content type="html"><![CDATA[06:07]]></content>
     </entry>
 </feed>
