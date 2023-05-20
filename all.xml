@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-20T13:18:11.707Z</updated>
+    <updated>2023-05-20T14:15:10.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] ATBO - Next to Me(에이티비오 – 넥스트 투 미) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36136099</id>
+        <link href="https://tv.naver.com/v/36136099"/>
+        <updated>2023-05-20T14:14:29.485Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] The Wind - ISLAND(더윈드 – 아일랜드) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36135983</id>
         <link href="https://tv.naver.com/v/36135983"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/36132930"/>
         <updated>2023-05-20T11:13:17.757Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG IRANG – RUN(소년판타지 강이랑 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36132840</id>
-        <link href="https://tv.naver.com/v/36132840"/>
-        <updated>2023-05-20T11:13:17.757Z</updated>
-        <content type="html"><![CDATA[04:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비투비 - 나의 바람(Wind And Wish) | SBS 230514 방송 (인기가요)]]></title>
@@ -1311,7 +1311,7 @@
         <id>https://tv.naver.com/v/36133383</id>
         <link href="https://tv.naver.com/v/36133383"/>
         <updated>2023-05-20T11:13:56.927Z</updated>
-        <content type="html"><![CDATA[04:59]]></content>
+        <content type="html"><![CDATA[05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정다경 - 사랑아 | KBS 230520 방송 (불후의 명곡)]]></title>
