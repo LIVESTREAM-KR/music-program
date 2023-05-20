@@ -2,23 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-05-20T12:29:16.281Z</updated>
+    <updated>2023-05-20T13:18:11.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[＂천하의 은금실이가!!＂ 김혜옥이 준 종이를 구겨버리는 강부자! | KBS 230520 방송]]></title>
-        <id>https://tv.naver.com/v/36134396</id>
-        <link href="https://tv.naver.com/v/36134396"/>
-        <updated>2023-05-20T12:29:08.569Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백진희보다 류진에게 먼저 고백받는 안재현🤣 류진의 조언은..?＂끝까지 속여＂  | KBS 230520 방송]]></title>
-        <id>https://tv.naver.com/v/36134097</id>
-        <link href="https://tv.naver.com/v/36134097"/>
-        <updated>2023-05-20T12:29:08.570Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[박해미 - 여러분 | KBS 230520 방송]]></title>
         <id>https://tv.naver.com/v/36134016</id>
@@ -66,7 +52,7 @@
         <id>https://tv.naver.com/v/36133383</id>
         <link href="https://tv.naver.com/v/36133383"/>
         <updated>2023-05-20T11:13:56.927Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
+        <content type="html"><![CDATA[04:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정다경 - 사랑아 | KBS 230520 방송]]></title>
@@ -214,5 +200,19 @@
         <link href="https://tv.naver.com/v/36110736"/>
         <updated>2023-05-20T12:29:08.604Z</updated>
         <content type="html"><![CDATA[04:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[티저] 불후의 명곡 ROCK FESTIVAL in ULSAN ✨  | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/36105416</id>
+        <link href="https://tv.naver.com/v/36105416"/>
+        <updated>2023-05-20T13:18:05.049Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 고음 강자들의 노래방 대결! | KBS 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35895729</id>
+        <link href="https://tv.naver.com/v/35895729"/>
+        <updated>2023-05-20T13:18:05.050Z</updated>
+        <content type="html"><![CDATA[07:54]]></content>
     </entry>
 </feed>
