@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-05-22T04:20:11.135Z</updated>
+    <updated>2023-05-22T05:17:11.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] 가수 수란 3R 리허설 무대 영상 - Fine, MBC 230521 방송]]></title>
+        <id>https://tv.naver.com/v/36174989</id>
+        <link href="https://tv.naver.com/v/36174989"/>
+        <updated>2023-05-22T05:17:10.237Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜'팔색조'를 위협할 보컬 타짜들의 정체는?＞ 복면가왕 406회 예고, MBC 230528 방송]]></title>
         <id>https://tv.naver.com/v/36154999</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35912583"/>
         <updated>2023-05-14T10:16:36.610Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['제자'의 정체는 멜로망스의 멤버 작곡가 겸 피아니스트 정동환!, MBC 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35912400</id>
-        <link href="https://tv.naver.com/v/35912400"/>
-        <updated>2023-05-14T10:16:36.613Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>

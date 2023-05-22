@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-05-22T04:20:11.133Z</updated>
+    <updated>2023-05-22T05:17:11.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세 번째 키워드 ‘나와의 소통’✨ 그 누구보다 사이가 좋아져야 할 나 자신 | KBS 230520 방송]]></title>
+        <id>https://tv.naver.com/v/36176166</id>
+        <link href="https://tv.naver.com/v/36176166"/>
+        <updated>2023-05-22T05:17:03.335Z</updated>
+        <content type="html"><![CDATA[05:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박해미 - 여러분 | KBS 230520 방송]]></title>
         <id>https://tv.naver.com/v/36134016</id>
@@ -46,13 +53,6 @@
         <link href="https://tv.naver.com/v/36133387"/>
         <updated>2023-05-20T11:13:56.927Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세 번째 키워드 ‘나와의 소통’✨ 그 누구보다 사이가 좋아져야 할 나 자신 | KBS 230520 방송]]></title>
-        <id>https://tv.naver.com/v/36133383</id>
-        <link href="https://tv.naver.com/v/36133383"/>
-        <updated>2023-05-20T11:13:56.927Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정다경 - 사랑아 | KBS 230520 방송]]></title>

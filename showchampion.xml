@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-05-22T04:20:11.151Z</updated>
+    <updated>2023-05-22T05:17:11.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼챔피언에 온 걸 축하해 Every Day~💛🫶[예고]]]></title>
+        <id>https://tv.naver.com/v/36174766</id>
+        <link href="https://tv.naver.com/v/36174766"/>
+        <updated>2023-05-22T05:16:56.502Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5월 2주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.475]]></title>
         <id>https://tv.naver.com/v/35828870</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35793683"/>
         <updated>2023-05-10T10:18:37.052Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스디너리 히어로즈(Xdinary Heroes) - Freakin’ Bad]]></title>
-        <id>https://tv.naver.com/v/35793679</id>
-        <link href="https://tv.naver.com/v/35793679"/>
-        <updated>2023-05-10T10:18:37.052Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
