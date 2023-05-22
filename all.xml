@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-22T07:16:46.761Z</updated>
+    <updated>2023-05-22T08:21:54.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] MIJOO - Movie Star(미주 - 무비 스타) Close-up Cam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36182271</id>
+        <link href="https://tv.naver.com/v/36182271"/>
+        <updated>2023-05-22T08:21:10.918Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] (G)I-DLE SOYEON - Queencard((여자)아이들 소연 - 퀸카) Close-up Cam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36177495</id>
         <link href="https://tv.naver.com/v/36177495"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/36133701"/>
         <updated>2023-05-20T12:28:32.847Z</updated>
         <content type="html"><![CDATA[04:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - RUN(소년판타지 – 뛰어) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36133597</id>
-        <link href="https://tv.naver.com/v/36133597"/>
-        <updated>2023-05-20T12:28:32.849Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (인기가요)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5월 3주 1위 'aespa'의 'Spicy' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36183695</id>
+        <link href="https://tv.naver.com/v/36183695"/>
+        <updated>2023-05-22T08:21:25.400Z</updated>
+        <content type="html"><![CDATA[05:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' (여자)아이들 - 퀸카 (Queencard) | Mnet 230518 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/36068404</id>
         <link href="https://tv.naver.com/v/36068404"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/35834347"/>
         <updated>2023-05-11T11:13:49.510Z</updated>
         <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컴백 인터뷰 with aespa (에스파) | Mnet 230511 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35834170</id>
-        <link href="https://tv.naver.com/v/35834170"/>
-        <updated>2023-05-11T11:13:49.511Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
