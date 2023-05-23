@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-23T06:21:53.827Z</updated>
+    <updated>2023-05-23T07:17:43.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa WINTER - Spicy(에스파 윈터 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36224170</id>
+        <link href="https://tv.naver.com/v/36224170"/>
+        <updated>2023-05-23T07:16:56.967Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING - Spicy(에스파 닝닝 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36224099</id>
+        <link href="https://tv.naver.com/v/36224099"/>
+        <updated>2023-05-23T07:16:56.967Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa GISELLE - Spicy(에스파 지젤 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36223759</id>
+        <link href="https://tv.naver.com/v/36223759"/>
+        <updated>2023-05-23T07:16:56.967Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] MIJOO - Movie Star(미주 - 무비 스타) Close-up Cam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36182271</id>
         <link href="https://tv.naver.com/v/36182271"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/36134093"/>
         <updated>2023-05-20T12:28:32.843Z</updated>
         <content type="html"><![CDATA[04:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG HYUNWOO – RUN(소년판타지 강현우 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36133988</id>
-        <link href="https://tv.naver.com/v/36133988"/>
-        <updated>2023-05-20T12:28:32.844Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – RUN(소년판타지 오현태 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36133893</id>
-        <link href="https://tv.naver.com/v/36133893"/>
-        <updated>2023-05-20T12:28:32.845Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KEUM JINHO – RUN(소년판타지 금진호 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36133701</id>
-        <link href="https://tv.naver.com/v/36133701"/>
-        <updated>2023-05-20T12:28:32.847Z</updated>
-        <content type="html"><![CDATA[04:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (인기가요)]]></title>
