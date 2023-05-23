@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-05-23T10:19:14.884Z</updated>
+    <updated>2023-05-23T11:15:53.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/36233435</id>
+        <link href="https://tv.naver.com/v/36233435"/>
+        <updated>2023-05-23T11:15:27.569Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 화려한 퀸카들의 독보적 존재감, (여자)아이들 '퀸카 (Queencard)']]></title>
+        <id>https://tv.naver.com/v/36233261</id>
+        <link href="https://tv.naver.com/v/36233261"/>
+        <updated>2023-05-23T11:15:27.570Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시선 강탈 카리스마, 원어스(ONEUS) 'ERASE ME']]></title>
+        <id>https://tv.naver.com/v/36233257</id>
+        <link href="https://tv.naver.com/v/36233257"/>
+        <updated>2023-05-23T11:15:27.570Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 꿈을 향해 달려가는, 베리베리(VERIVERY) 'Crazy Like That']]></title>
+        <id>https://tv.naver.com/v/36233115</id>
+        <link href="https://tv.naver.com/v/36233115"/>
+        <updated>2023-05-23T11:15:27.570Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 청춘의 순수한 감성, YOUNITE 'WATERFALL']]></title>
+        <id>https://tv.naver.com/v/36232949</id>
+        <link href="https://tv.naver.com/v/36232949"/>
+        <updated>2023-05-23T11:15:27.570Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반모하SHOW] YOUNITE]]></title>
+        <id>https://tv.naver.com/v/36232824</id>
+        <link href="https://tv.naver.com/v/36232824"/>
+        <updated>2023-05-23T11:15:27.570Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 비상을 향한 싱그러운 무대, ATBO (에이티비오) 'Next to Me']]></title>
+        <id>https://tv.naver.com/v/36232819</id>
+        <link href="https://tv.naver.com/v/36232819"/>
+        <updated>2023-05-23T11:15:27.570Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 자부심이 느껴지는 멋, ATBO (에이티비오) 'BOUNCE']]></title>
+        <id>https://tv.naver.com/v/36232695</id>
+        <link href="https://tv.naver.com/v/36232695"/>
+        <updated>2023-05-23T11:15:27.570Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Special Stage] 추억이 담긴 비밀의 공간, 퍼플키스(PURPLE KISS) '아지트 (agit)']]></title>
+        <id>https://tv.naver.com/v/36232383</id>
+        <link href="https://tv.naver.com/v/36232383"/>
+        <updated>2023-05-23T11:15:27.572Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 싱그러운 소년들과 함께 가는 그곳, 더윈드 (The Wind) 'ISLAND']]></title>
+        <id>https://tv.naver.com/v/36232378</id>
+        <link href="https://tv.naver.com/v/36232378"/>
+        <updated>2023-05-23T11:15:27.575Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 무한 긍정한 희망의 메시지, 더윈드 (The Wind) '할 수 있어']]></title>
+        <id>https://tv.naver.com/v/36232376</id>
+        <link href="https://tv.naver.com/v/36232376"/>
+        <updated>2023-05-23T11:15:27.576Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[긴장감 넘치는 분위기, ICHLLIN’(아이칠린) 'Siren']]></title>
         <id>https://tv.naver.com/v/36232240</id>
@@ -136,83 +213,6 @@
         <id>https://tv.naver.com/v/35988017</id>
         <link href="https://tv.naver.com/v/35988017"/>
         <updated>2023-05-16T11:14:53.451Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Special Stage] 상큼한 에너지 넘치는 커버 무대, 트라이비(TRI.BE) 'LOVE ME RIGHT (원곡: EXO)']]></title>
-        <id>https://tv.naver.com/v/35987871</id>
-        <link href="https://tv.naver.com/v/35987871"/>
-        <updated>2023-05-16T10:18:49.631Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윌 유 내꾸 미?] DRIPPIN]]></title>
-        <id>https://tv.naver.com/v/35987575</id>
-        <link href="https://tv.naver.com/v/35987575"/>
-        <updated>2023-05-16T10:18:49.631Z</updated>
-        <content type="html"><![CDATA[04:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진정성 가득한 목소리, 정다경 '그 이름 엄마']]></title>
-        <id>https://tv.naver.com/v/35987572</id>
-        <link href="https://tv.naver.com/v/35987572"/>
-        <updated>2023-05-16T10:18:49.631Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 시선을 끄는 강렬한 사운드, ICHILLIN’(아이칠린) 'Siren']]></title>
-        <id>https://tv.naver.com/v/35987444</id>
-        <link href="https://tv.naver.com/v/35987444"/>
-        <updated>2023-05-16T10:18:49.632Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 새로운 도전에 내딛는 첫 발, ADYA (에이디야) 'Per']]></title>
-        <id>https://tv.naver.com/v/35987328</id>
-        <link href="https://tv.naver.com/v/35987328"/>
-        <updated>2023-05-16T10:18:49.634Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감미로운 사랑고백, 한음 '첫사랑']]></title>
-        <id>https://tv.naver.com/v/35986842</id>
-        <link href="https://tv.naver.com/v/35986842"/>
-        <updated>2023-05-16T10:18:49.634Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재치 넘치는 퍼포먼스, 블리처스 '마카레나(Macarena)']]></title>
-        <id>https://tv.naver.com/v/35986683</id>
-        <link href="https://tv.naver.com/v/35986683"/>
-        <updated>2023-05-16T10:18:49.637Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑의 설렘을 시원하게 담아낸, 민민 (MinMin) 'TAKE ME']]></title>
-        <id>https://tv.naver.com/v/35986437</id>
-        <link href="https://tv.naver.com/v/35986437"/>
-        <updated>2023-05-16T10:18:49.638Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/35754338</id>
-        <link href="https://tv.naver.com/v/35754338"/>
-        <updated>2023-05-09T11:14:07.538Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 새 시대로 기억될 개척을 이끄는, LE SSERAFIM 'UNFORGIVEN (feat. Nile Rodgers)']]></title>
-        <id>https://tv.naver.com/v/35754221</id>
-        <link href="https://tv.naver.com/v/35754221"/>
-        <updated>2023-05-09T11:14:07.540Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에너지 가득한 청량 파워 퍼포먼스, TEMPEST(템페스트) '난장(Dangerous)']]></title>
-        <id>https://tv.naver.com/v/35754215</id>
-        <link href="https://tv.naver.com/v/35754215"/>
-        <updated>2023-05-09T11:14:07.541Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
