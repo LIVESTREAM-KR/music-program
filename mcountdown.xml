@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-23T08:22:05.725Z</updated>
+    <updated>2023-05-23T09:17:31.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/36229299</id>
+        <link href="https://tv.naver.com/v/36229299"/>
+        <updated>2023-05-23T09:17:02.980Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5월 3주 1위 'aespa'의 'Spicy' 앵콜 무대! (Full ver.)]]></title>
         <id>https://tv.naver.com/v/36183695</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35834348"/>
         <updated>2023-05-11T11:13:49.510Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 이무진 - 잠깐 시간 될까 | Mnet 230511 방송]]></title>
-        <id>https://tv.naver.com/v/35834347</id>
-        <link href="https://tv.naver.com/v/35834347"/>
-        <updated>2023-05-11T11:13:49.510Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
 </feed>
