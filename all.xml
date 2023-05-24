@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-24T07:16:21.221Z</updated>
+    <updated>2023-05-24T08:21:50.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(G)I-DLE.zip 📂 LATATA부터 Queencard(퀸카)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36224675</id>
+        <link href="https://tv.naver.com/v/36224675"/>
+        <updated>2023-05-24T08:21:02.030Z</updated>
+        <content type="html"><![CDATA[36:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NCT DOJAEJUNG – Kiss(NCT 도재정 - 키스) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36211783</id>
         <link href="https://tv.naver.com/v/36211783"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/36134391"/>
         <updated>2023-05-20T12:28:32.838Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARU – RUN(소년판타지 히카루 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36134297</id>
-        <link href="https://tv.naver.com/v/36134297"/>
-        <updated>2023-05-20T12:28:32.840Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (인기가요)]]></title>
