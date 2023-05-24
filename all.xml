@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-24T06:21:19.560Z</updated>
+    <updated>2023-05-24T07:16:21.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NCT DOJAEJUNG – Kiss(NCT 도재정 - 키스) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36211783</id>
+        <link href="https://tv.naver.com/v/36211783"/>
+        <updated>2023-05-24T07:15:35.137Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] aespa KARINA - Spicy(에스파 카리나 - 스파이시) Close-up Cam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36224677</id>
         <link href="https://tv.naver.com/v/36224677"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/36134297</id>
         <link href="https://tv.naver.com/v/36134297"/>
         <updated>2023-05-20T12:28:32.840Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM DAEHUI – RUN(소년판타지 김대희 - 뛰어) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36134199</id>
-        <link href="https://tv.naver.com/v/36134199"/>
-        <updated>2023-05-20T12:28:32.841Z</updated>
         <content type="html"><![CDATA[04:22]]></content>
     </entry>
     <entry>
