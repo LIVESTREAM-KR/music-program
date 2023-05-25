@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-25T11:14:29.811Z</updated>
+    <updated>2023-05-25T12:33:42.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,20 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' 주헌 (몬스타엑스) - FREEDOM | Mnet 230525 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36317118</id>
+        <link href="https://tv.naver.com/v/36317118"/>
+        <updated>2023-05-25T12:33:15.243Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 주헌 (몬스타엑스) - 진화 (Evolution) | Mnet 230525 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36317116</id>
+        <link href="https://tv.naver.com/v/36317116"/>
+        <updated>2023-05-25T12:33:15.243Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['1위' (여자)아이들 - 퀸카 (Queencard) | Mnet 230525 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/36316849</id>
         <link href="https://tv.naver.com/v/36316849"/>
@@ -829,20 +843,6 @@
         <link href="https://tv.naver.com/v/36067620"/>
         <updated>2023-05-18T11:14:11.115Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 베리베리(VERIVERY) - Crazy Like That | Mnet 230518 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36067618</id>
-        <link href="https://tv.naver.com/v/36067618"/>
-        <updated>2023-05-18T11:14:11.117Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' YOUNITE - WATERFALL | Mnet 230518 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36067425</id>
-        <link href="https://tv.naver.com/v/36067425"/>
-        <updated>2023-05-18T11:14:11.119Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
