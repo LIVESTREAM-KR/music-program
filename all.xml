@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-25T09:17:51.573Z</updated>
+    <updated>2023-05-25T10:18:06.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,55 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ADYA (에이디야) - Per | Mnet 230525 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36314946</id>
+        <link href="https://tv.naver.com/v/36314946"/>
+        <updated>2023-05-25T10:17:38.972Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['UP NEXT' 주헌 (몬스타엑스) | Mnet 230525 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36314589</id>
+        <link href="https://tv.naver.com/v/36314589"/>
+        <updated>2023-05-25T10:17:38.973Z</updated>
+        <content type="html"><![CDATA[01:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 (The Wind) - ISLAND | Mnet 230525 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36314583</id>
+        <link href="https://tv.naver.com/v/36314583"/>
+        <updated>2023-05-25T10:17:38.976Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with ENHYPEN(엔하이픈) | Mnet 230525 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36314402</id>
+        <link href="https://tv.naver.com/v/36314402"/>
+        <updated>2023-05-25T10:17:38.978Z</updated>
+        <content type="html"><![CDATA[04:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김도아 (KIMDOAH) - 꿈의태엽 | Mnet 230525 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36314247</id>
+        <link href="https://tv.naver.com/v/36314247"/>
+        <updated>2023-05-25T10:17:38.978Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙스완 - Karma | Mnet 230525 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36314075</id>
+        <link href="https://tv.naver.com/v/36314075"/>
+        <updated>2023-05-25T10:17:38.980Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경서 - 첫 키스에 내 심장은 120BPM | Mnet 230525 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36313883</id>
+        <link href="https://tv.naver.com/v/36313883"/>
+        <updated>2023-05-25T10:17:38.981Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(여자)아이들이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/36229299</id>
         <link href="https://tv.naver.com/v/36229299"/>
@@ -794,55 +843,6 @@
         <link href="https://tv.naver.com/v/36065082"/>
         <updated>2023-05-18T10:16:58.757Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aespa가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35987448</id>
-        <link href="https://tv.naver.com/v/35987448"/>
-        <updated>2023-05-16T10:18:42.702Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 2주 1위 'LE SSERAFIM'의 'UNFORGIVEN (feat. Nile Rodgers)' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35937448</id>
-        <link href="https://tv.naver.com/v/35937448"/>
-        <updated>2023-05-15T07:17:38.361Z</updated>
-        <content type="html"><![CDATA[05:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTOB (비투비) - 나의 바람 (Wind And Wish) | Mnet 230511 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35834812</id>
-        <link href="https://tv.naver.com/v/35834812"/>
-        <updated>2023-05-11T12:32:18.559Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' aespa - Spicy | Mnet 230511 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35834655</id>
-        <link href="https://tv.naver.com/v/35834655"/>
-        <updated>2023-05-11T12:32:18.560Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' aespa - Salty & Sweet | Mnet 230511 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35834651</id>
-        <link href="https://tv.naver.com/v/35834651"/>
-        <updated>2023-05-11T12:32:18.561Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) | Mnet 230511 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35834499</id>
-        <link href="https://tv.naver.com/v/35834499"/>
-        <updated>2023-05-11T12:32:18.567Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 원어스 (ONEUS) - ERASE ME | Mnet 230511 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/35834348</id>
-        <link href="https://tv.naver.com/v/35834348"/>
-        <updated>2023-05-11T11:13:49.510Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
