@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-05-26T08:21:22.308Z</updated>
+    <updated>2023-05-26T09:17:15.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마카레나(Macarena) - 블리처스]]></title>
+        <id>https://tv.naver.com/v/36352689</id>
+        <link href="https://tv.naver.com/v/36352689"/>
+        <updated>2023-05-26T09:16:24.123Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WATERFALL - YOUNITE]]></title>
+        <id>https://tv.naver.com/v/36352666</id>
+        <link href="https://tv.naver.com/v/36352666"/>
+        <updated>2023-05-26T09:16:24.123Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next to Me - ATBO]]></title>
+        <id>https://tv.naver.com/v/36352492</id>
+        <link href="https://tv.naver.com/v/36352492"/>
+        <updated>2023-05-26T09:16:24.123Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 키스에 내 심장은 120BPM - 경서]]></title>
+        <id>https://tv.naver.com/v/36352493</id>
+        <link href="https://tv.naver.com/v/36352493"/>
+        <updated>2023-05-26T09:16:24.123Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Per - ADYA]]></title>
+        <id>https://tv.naver.com/v/36351895</id>
+        <link href="https://tv.naver.com/v/36351895"/>
+        <updated>2023-05-26T09:16:24.124Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISLAND - 더윈드 (The Wind)]]></title>
+        <id>https://tv.naver.com/v/36351739</id>
+        <link href="https://tv.naver.com/v/36351739"/>
+        <updated>2023-05-26T09:16:24.125Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble - AIMERS]]></title>
+        <id>https://tv.naver.com/v/36351472</id>
+        <link href="https://tv.naver.com/v/36351472"/>
+        <updated>2023-05-26T09:16:24.125Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spicy - aespa | KBS 230519 방송]]></title>
         <id>https://tv.naver.com/v/36107145</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/35869792"/>
         <updated>2023-05-12T10:16:57.443Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GT (Prod. KENZIE) - BAE173 | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35869785</id>
-        <link href="https://tv.naver.com/v/35869785"/>
-        <updated>2023-05-12T10:16:57.443Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여우가 시집가는 날 - EPEX (이펙스) | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35869655</id>
-        <link href="https://tv.naver.com/v/35869655"/>
-        <updated>2023-05-12T09:16:13.959Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siren - ICHILLIN’ (아이칠린) | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35869485</id>
-        <link href="https://tv.naver.com/v/35869485"/>
-        <updated>2023-05-12T09:16:13.959Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freakin’ Bad - Xdinary Heroes | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35868982</id>
-        <link href="https://tv.naver.com/v/35868982"/>
-        <updated>2023-05-12T09:16:13.963Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble - AIMERS | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35868780</id>
-        <link href="https://tv.naver.com/v/35868780"/>
-        <updated>2023-05-12T09:16:13.963Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Per - ADYA  | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35868775</id>
-        <link href="https://tv.naver.com/v/35868775"/>
-        <updated>2023-05-12T09:16:13.965Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄의 고백 - 예빈나다 | KBS 230512 방송]]></title>
-        <id>https://tv.naver.com/v/35868557</id>
-        <link href="https://tv.naver.com/v/35868557"/>
-        <updated>2023-05-12T09:16:13.965Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
