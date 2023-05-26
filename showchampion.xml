@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-05-26T01:21:18.471Z</updated>
+    <updated>2023-05-26T02:34:46.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 4주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.476]]></title>
+        <id>https://tv.naver.com/v/36302037</id>
+        <link href="https://tv.naver.com/v/36302037"/>
+        <updated>2023-05-26T02:34:32.169Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS - Unforgettable (원어스 - 잇다 있다 잊었다) l Show Champion l EP.476]]></title>
         <id>https://tv.naver.com/v/36291395</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36262474"/>
         <updated>2023-05-24T11:14:46.903Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] (G)I-DLE MIYEON - Queencard ((여자)아이들 미연 - 퀸카) | Show Champion | EP.476]]></title>
-        <id>https://tv.naver.com/v/36261732</id>
-        <link href="https://tv.naver.com/v/36261732"/>
-        <updated>2023-05-24T11:14:46.905Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
