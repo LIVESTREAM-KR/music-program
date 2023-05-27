@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-27T06:20:51.849Z</updated>
+    <updated>2023-05-27T07:14:53.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소년판타지 (슈가 팝) - 스낵스 (FANTASY BOYS (Sugar Pop) - Snacks), MBC 230527 방송]]></title>
+        <id>https://tv.naver.com/v/36375238</id>
+        <link href="https://tv.naver.com/v/36375238"/>
+        <updated>2023-05-27T07:14:08.031Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소년판타지 (주마등) - 꽉 잡아 (FANTASY BOYS (Flash) - Hold tight), MBC 230527 방송]]></title>
+        <id>https://tv.naver.com/v/36375212</id>
+        <link href="https://tv.naver.com/v/36375212"/>
+        <updated>2023-05-27T07:14:08.031Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나이트 - 워터폴 (YOUNITE - WATERFALL), MBC 230527 방송]]></title>
+        <id>https://tv.naver.com/v/36375095</id>
+        <link href="https://tv.naver.com/v/36375095"/>
+        <updated>2023-05-27T07:14:08.034Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블리처스 - 마카레나 (BLITZERS - Macarena), MBC 230527 방송]]></title>
+        <id>https://tv.naver.com/v/36374986</id>
+        <link href="https://tv.naver.com/v/36374986"/>
+        <updated>2023-05-27T07:14:08.034Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 - 아일랜드 (The Wind - ISLAND), MBC 230527 방송]]></title>
+        <id>https://tv.naver.com/v/36374793</id>
+        <link href="https://tv.naver.com/v/36374793"/>
+        <updated>2023-05-27T07:14:08.045Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이디야 - 퍼 (ADYA - Per), MBC 230527 방송]]></title>
+        <id>https://tv.naver.com/v/36374673</id>
+        <link href="https://tv.naver.com/v/36374673"/>
+        <updated>2023-05-27T07:14:08.045Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙스완 - 카르마 (BLACKSWAN - Karma), MBC 230527 방송]]></title>
+        <id>https://tv.naver.com/v/36374533</id>
+        <link href="https://tv.naver.com/v/36374533"/>
+        <updated>2023-05-27T07:14:08.048Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NCT DOJAEJUNG – Perfume(NCT 도재정 - 퍼퓸) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/36212036</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/36135284"/>
         <updated>2023-05-20T13:17:34.287Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa WINTER – Spicy(에스파 윈터 - 스파이시) FanCam | Show! MusicCore | MBC230520방송]]></title>
-        <id>https://tv.naver.com/v/36135167</id>
-        <link href="https://tv.naver.com/v/36135167"/>
-        <updated>2023-05-20T13:17:34.288Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa NINGNING – Spicy(에스파 닝닝 - 스파이시) FanCam | Show! MusicCore | MBC230520방송]]></title>
-        <id>https://tv.naver.com/v/36134966</id>
-        <link href="https://tv.naver.com/v/36134966"/>
-        <updated>2023-05-20T13:17:34.290Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MIJOO - Movie Star(미주 – 무비 스타) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230520방송]]></title>
-        <id>https://tv.naver.com/v/36134937</id>
-        <link href="https://tv.naver.com/v/36134937"/>
-        <updated>2023-05-20T12:28:32.827Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHAEYEON – KNOCK(이채연 - 노크) FanCam | Show! MusicCore | MBC230520방송]]></title>
-        <id>https://tv.naver.com/v/36134799</id>
-        <link href="https://tv.naver.com/v/36134799"/>
-        <updated>2023-05-20T12:28:32.829Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa GISELLE – Spicy(에스파 지젤 - 스파이시) FanCam | Show! MusicCore | MBC230520방송]]></title>
-        <id>https://tv.naver.com/v/36134690</id>
-        <link href="https://tv.naver.com/v/36134690"/>
-        <updated>2023-05-20T12:28:32.832Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa KARINA – Spicy(에스파 카리나 - 스파이시) FanCam | Show! MusicCore | MBC230520방송]]></title>
-        <id>https://tv.naver.com/v/36134580</id>
-        <link href="https://tv.naver.com/v/36134580"/>
-        <updated>2023-05-20T12:28:32.835Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MIJOO – Movie Star(미주 - 무비 스타) FanCam | Show! MusicCore | MBC230520방송]]></title>
-        <id>https://tv.naver.com/v/36134478</id>
-        <link href="https://tv.naver.com/v/36134478"/>
-        <updated>2023-05-20T12:28:32.837Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
