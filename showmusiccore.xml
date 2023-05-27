@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-27T10:16:38.836Z</updated>
+    <updated>2023-05-27T11:13:35.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATBO - Next to Me(에이티비오 – 넥스트 투 미) FanCam | Show! MusicCore | MBC230527방송]]></title>
+        <id>https://tv.naver.com/v/36380099</id>
+        <link href="https://tv.naver.com/v/36380099"/>
+        <updated>2023-05-27T11:12:51.996Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] KARD - ICKY(카드 – 이끼) FanCam | Show! MusicCore | MBC230527방송]]></title>
+        <id>https://tv.naver.com/v/36380020</id>
+        <link href="https://tv.naver.com/v/36380020"/>
+        <updated>2023-05-27T11:12:51.996Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VERIVERY - Crazy Like That(베리베리 – 크레이지 라이크 댓) FanCam | Show! MusicCore | MBC230527방송]]></title>
+        <id>https://tv.naver.com/v/36379382</id>
+        <link href="https://tv.naver.com/v/36379382"/>
+        <updated>2023-05-27T11:12:51.997Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Dreamcatcher - BONVOYAGE(드림캐쳐 – 본보야지) FanCam | Show! MusicCore | MBC230527방송]]></title>
+        <id>https://tv.naver.com/v/36379380</id>
+        <link href="https://tv.naver.com/v/36379380"/>
+        <updated>2023-05-27T11:12:51.997Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] The Wind - ISLAND(더윈드 – 아일랜드) FanCam | Show! MusicCore | MBC230527방송]]></title>
+        <id>https://tv.naver.com/v/36379061</id>
+        <link href="https://tv.naver.com/v/36379061"/>
+        <updated>2023-05-27T11:12:52.000Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] BLACKSWAN - Karma(블랙스완 – 카르마) FanCam | Show! MusicCore | MBC230527방송]]></title>
         <id>https://tv.naver.com/v/36378979</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/36375418"/>
         <updated>2023-05-27T08:18:34.650Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카드 - 이끼 (KARD - ICKY), MBC 230527 방송]]></title>
-        <id>https://tv.naver.com/v/36375318</id>
-        <link href="https://tv.naver.com/v/36375318"/>
-        <updated>2023-05-27T08:18:34.650Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년판타지 (슈가 팝) - 스낵스 (FANTASY BOYS (Sugar Pop) - Snacks), MBC 230527 방송]]></title>
-        <id>https://tv.naver.com/v/36375238</id>
-        <link href="https://tv.naver.com/v/36375238"/>
-        <updated>2023-05-27T07:14:08.031Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년판타지 (주마등) - 꽉 잡아 (FANTASY BOYS (Flash) - Hold tight), MBC 230527 방송]]></title>
-        <id>https://tv.naver.com/v/36375212</id>
-        <link href="https://tv.naver.com/v/36375212"/>
-        <updated>2023-05-27T07:14:08.031Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나이트 - 워터폴 (YOUNITE - WATERFALL), MBC 230527 방송]]></title>
-        <id>https://tv.naver.com/v/36375095</id>
-        <link href="https://tv.naver.com/v/36375095"/>
-        <updated>2023-05-27T07:14:08.034Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스 - 마카레나 (BLITZERS - Macarena), MBC 230527 방송]]></title>
-        <id>https://tv.naver.com/v/36374986</id>
-        <link href="https://tv.naver.com/v/36374986"/>
-        <updated>2023-05-27T07:14:08.034Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>

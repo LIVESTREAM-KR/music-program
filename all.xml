@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-27T10:16:38.852Z</updated>
+    <updated>2023-05-27T11:13:35.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 (뮤직뱅크)]]></title>
@@ -215,6 +215,41 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] ATBO - Next to Me(에이티비오 – 넥스트 투 미) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36380099</id>
+        <link href="https://tv.naver.com/v/36380099"/>
+        <updated>2023-05-27T11:12:51.996Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] KARD - ICKY(카드 – 이끼) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36380020</id>
+        <link href="https://tv.naver.com/v/36380020"/>
+        <updated>2023-05-27T11:12:51.996Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VERIVERY - Crazy Like That(베리베리 – 크레이지 라이크 댓) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36379382</id>
+        <link href="https://tv.naver.com/v/36379382"/>
+        <updated>2023-05-27T11:12:51.997Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Dreamcatcher - BONVOYAGE(드림캐쳐 – 본보야지) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36379380</id>
+        <link href="https://tv.naver.com/v/36379380"/>
+        <updated>2023-05-27T11:12:51.997Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] The Wind - ISLAND(더윈드 – 아일랜드) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36379061</id>
+        <link href="https://tv.naver.com/v/36379061"/>
+        <updated>2023-05-27T11:12:52.000Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] BLACKSWAN - Karma(블랙스완 – 카르마) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36378979</id>
         <link href="https://tv.naver.com/v/36378979"/>
@@ -388,41 +423,6 @@
         <link href="https://tv.naver.com/v/36375418"/>
         <updated>2023-05-27T08:18:34.650Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카드 - 이끼 (KARD - ICKY), MBC 230527 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36375318</id>
-        <link href="https://tv.naver.com/v/36375318"/>
-        <updated>2023-05-27T08:18:34.650Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년판타지 (슈가 팝) - 스낵스 (FANTASY BOYS (Sugar Pop) - Snacks), MBC 230527 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36375238</id>
-        <link href="https://tv.naver.com/v/36375238"/>
-        <updated>2023-05-27T07:14:08.031Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년판타지 (주마등) - 꽉 잡아 (FANTASY BOYS (Flash) - Hold tight), MBC 230527 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36375212</id>
-        <link href="https://tv.naver.com/v/36375212"/>
-        <updated>2023-05-27T07:14:08.031Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나이트 - 워터폴 (YOUNITE - WATERFALL), MBC 230527 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36375095</id>
-        <link href="https://tv.naver.com/v/36375095"/>
-        <updated>2023-05-27T07:14:08.034Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스 - 마카레나 (BLITZERS - Macarena), MBC 230527 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36374986</id>
-        <link href="https://tv.naver.com/v/36374986"/>
-        <updated>2023-05-27T07:14:08.034Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (인기가요)]]></title>
@@ -1265,6 +1265,62 @@
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[네 번째 가족 고민 사연, 내게 찾아온 불청객 갱년기! 괜찮을까요? (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/36380022</id>
+        <link href="https://tv.naver.com/v/36380022"/>
+        <updated>2023-05-27T11:13:27.420Z</updated>
+        <content type="html"><![CDATA[02:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[참을 수 없었던 눈물, 정은숙&정다경 모녀와 박해미&황성재 모자의 무대 소감💟 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/36379929</id>
+        <link href="https://tv.naver.com/v/36379929"/>
+        <updated>2023-05-27T11:13:27.425Z</updated>
+        <content type="html"><![CDATA[01:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박해미&황성재 - 가족사진 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/36379826</id>
+        <link href="https://tv.naver.com/v/36379826"/>
+        <updated>2023-05-27T11:13:27.426Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정다경 모녀 - 엄마가 딸에게 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/36379589</id>
+        <link href="https://tv.naver.com/v/36379589"/>
+        <updated>2023-05-27T11:13:27.441Z</updated>
+        <content type="html"><![CDATA[05:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서로의 진심을 이해하고 전달할 수 있는, 부모와 자식👪 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/36379384</id>
+        <link href="https://tv.naver.com/v/36379384"/>
+        <updated>2023-05-27T11:13:27.449Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세 번째 가족 고민 사연! 반대했던 결혼, 자녀의 이혼 결심 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/36379383</id>
+        <link href="https://tv.naver.com/v/36379383"/>
+        <updated>2023-05-27T11:13:27.450Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍서범 - 나는 당신께 사랑을 원하지 않았어요 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/36379161</id>
+        <link href="https://tv.naver.com/v/36379161"/>
+        <updated>2023-05-27T11:13:27.452Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두 번째 가족 고민 사연! 취미 부자 남편의 고민, 모임이 6개?! (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/36379159</id>
+        <link href="https://tv.naver.com/v/36379159"/>
+        <updated>2023-05-27T11:13:27.453Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[무대에서 보인 눈물의 의미! 10년 만에 심쿵💓 했던 김소현? (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36378984</id>
         <link href="https://tv.naver.com/v/36378984"/>
@@ -1417,62 +1473,6 @@
         <link href="https://tv.naver.com/v/36132202"/>
         <updated>2023-05-20T10:16:56.955Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 번째 키워드 ‘부부’ 우리는 왜 서로를 미워하게 되었나💔 | KBS 230520 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36132105</id>
-        <link href="https://tv.naver.com/v/36132105"/>
-        <updated>2023-05-20T10:16:56.957Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 주제는? 5월 가정의 달 맞이💓 토크 콘서트 1부 주제 소통! | KBS 230520 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36131907</id>
-        <link href="https://tv.naver.com/v/36131907"/>
-        <updated>2023-05-20T10:16:56.959Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불후의 명곡 최초의 토크 콘서트💕 오늘의 전설 ✨소통전문가 김창옥✨ | KBS 230520 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36131820</id>
-        <link href="https://tv.naver.com/v/36131820"/>
-        <updated>2023-05-20T10:16:56.961Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 김호영 - 끌어올려 | KBS 230520 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36111338</id>
-        <link href="https://tv.naver.com/v/36111338"/>
-        <updated>2023-05-20T12:29:08.598Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 박해미 - 여러분 | KBS 230520 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36111142</id>
-        <link href="https://tv.naver.com/v/36111142"/>
-        <updated>2023-05-20T12:29:08.599Z</updated>
-        <content type="html"><![CDATA[06:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 정다경 - 사랑아 | KBS 230520 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36110982</id>
-        <link href="https://tv.naver.com/v/36110982"/>
-        <updated>2023-05-20T12:29:08.600Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 홍서범&조갑경 - 내 사랑 투유 | KBS 230520 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36110981</id>
-        <link href="https://tv.naver.com/v/36110981"/>
-        <updated>2023-05-20T12:29:08.601Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 홍경민 - 희망사항 | KBS 230520 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36110847</id>
-        <link href="https://tv.naver.com/v/36110847"/>
-        <updated>2023-05-20T12:29:08.602Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 소찬휘도 극찬한 시원시원한 고음의 소유자!✨오디션 프로에서 우승을 거머쥔 보이스 퀸👑 정수연!, MBC 230521 방송 (복면가왕)]]></title>
