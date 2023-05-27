@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-27T07:14:53.835Z</updated>
+    <updated>2023-05-27T08:19:15.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 (뮤직뱅크)]]></title>
@@ -215,6 +215,90 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 원어스 - 이레이즈 미 (ONEUS - ERASE ME), MBC 230520 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36376452</id>
+        <link href="https://tv.naver.com/v/36376452"/>
+        <updated>2023-05-27T08:18:34.623Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 에스파 - 스파이시 (aespa - Spicy), MBC 230520 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36376420</id>
+        <link href="https://tv.naver.com/v/36376420"/>
+        <updated>2023-05-27T08:18:34.638Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5월 4주차 1위 (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36376205</id>
+        <link href="https://tv.naver.com/v/36376205"/>
+        <updated>2023-05-27T08:18:34.638Z</updated>
+        <content type="html"><![CDATA[01:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주헌 (몬스타엑스) - 프리덤 (JOOHONEY (MONSTA X) - FREEDOM), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36375999</id>
+        <link href="https://tv.naver.com/v/36375999"/>
+        <updated>2023-05-27T08:18:34.640Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36375997</id>
+        <link href="https://tv.naver.com/v/36375997"/>
+        <updated>2023-05-27T08:18:34.644Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[십센치 - 부동의 첫사랑 (10CM - My Ultimate First Love), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36375825</id>
+        <link href="https://tv.naver.com/v/36375825"/>
+        <updated>2023-05-27T08:18:34.644Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리 - 크레이지 라이크 댓 (VERIVERY - Crazy Like That), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36375823</id>
+        <link href="https://tv.naver.com/v/36375823"/>
+        <updated>2023-05-27T08:18:34.645Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비투비 (BTOB) in 코노돌🎉 - (김현식 - 비처럼 음악처럼, YB (윤도현 밴드) - 애국가), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36375821</id>
+        <link href="https://tv.naver.com/v/36375821"/>
+        <updated>2023-05-27T08:18:34.647Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림캐쳐 - 본보야지 (Dreamcatcher - BONVOYAGE), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36375706</id>
+        <link href="https://tv.naver.com/v/36375706"/>
+        <updated>2023-05-27T08:18:34.647Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경서 - 첫 키스에 내 심장은 120BPM (KyoungSeo - 120BPM), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36375608</id>
+        <link href="https://tv.naver.com/v/36375608"/>
+        <updated>2023-05-27T08:18:34.649Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티비오 - 넥스트 투 미 (ATBO - Next to Me), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36375418</id>
+        <link href="https://tv.naver.com/v/36375418"/>
+        <updated>2023-05-27T08:18:34.650Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카드 - 이끼 (KARD - ICKY), MBC 230527 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36375318</id>
+        <link href="https://tv.naver.com/v/36375318"/>
+        <updated>2023-05-27T08:18:34.650Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[소년판타지 (슈가 팝) - 스낵스 (FANTASY BOYS (Sugar Pop) - Snacks), MBC 230527 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36375238</id>
         <link href="https://tv.naver.com/v/36375238"/>
@@ -339,90 +423,6 @@
         <link href="https://tv.naver.com/v/36177206"/>
         <updated>2023-05-22T06:21:44.738Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE YUQI - Queencard((여자)아이들 우기 - 퀸카) Close-up Cam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36176985</id>
-        <link href="https://tv.naver.com/v/36176985"/>
-        <updated>2023-05-22T06:21:44.753Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE MINNIE - Queencard((여자)아이들 민니 - 퀸카) Close-up Cam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36176819</id>
-        <link href="https://tv.naver.com/v/36176819"/>
-        <updated>2023-05-22T06:21:44.754Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 5월 셋째 주 음악중심 MC 컷 모음!, MBC 230520 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36176160</id>
-        <link href="https://tv.naver.com/v/36176160"/>
-        <updated>2023-05-22T05:16:25.743Z</updated>
-        <content type="html"><![CDATA[11:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATBO - Next to Me(에이티비오 – 넥스트 투 미) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36136099</id>
-        <link href="https://tv.naver.com/v/36136099"/>
-        <updated>2023-05-20T14:14:29.485Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] The Wind - ISLAND(더윈드 – 아일랜드) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36135983</id>
-        <link href="https://tv.naver.com/v/36135983"/>
-        <updated>2023-05-20T13:17:34.274Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YOUNITE - WATERFALL(유나이트 – 워터폴) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36135835</id>
-        <link href="https://tv.naver.com/v/36135835"/>
-        <updated>2023-05-20T13:17:34.276Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes - DEAR H.(엑스디너리 히어로즈 – 디어 에이치) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36135715</id>
-        <link href="https://tv.naver.com/v/36135715"/>
-        <updated>2023-05-20T13:17:34.278Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BAE173 - GT(비에이이173 – 지티) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36135630</id>
-        <link href="https://tv.naver.com/v/36135630"/>
-        <updated>2023-05-20T13:17:34.282Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONEUS - ERASE ME(원어스 – 이레이즈 미) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36135605</id>
-        <link href="https://tv.naver.com/v/36135605"/>
-        <updated>2023-05-20T13:17:34.283Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY KANGMIN – Crazy Like That(베리베리 강민 - 크레이지 라이크 댓) FanCam | Show! MusicCore | MBC2305 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36135521</id>
-        <link href="https://tv.naver.com/v/36135521"/>
-        <updated>2023-05-20T13:17:34.285Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY - Crazy Like That(베리베리 – 크레이지 라이크 댓) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36135308</id>
-        <link href="https://tv.naver.com/v/36135308"/>
-        <updated>2023-05-20T13:17:34.285Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa - Spicy(에스파 – 스파이시) FanCam | Show! MusicCore | MBC230520방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36135284</id>
-        <link href="https://tv.naver.com/v/36135284"/>
-        <updated>2023-05-20T13:17:34.287Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (인기가요)]]></title>
