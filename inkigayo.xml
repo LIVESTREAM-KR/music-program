@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-05-28T06:21:06.896Z</updated>
+    <updated>2023-05-28T07:14:42.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남동현 - Blind(feat. 김농밀) | SBS 230528 방송]]></title>
+        <id>https://tv.naver.com/v/36396232</id>
+        <link href="https://tv.naver.com/v/36396232"/>
+        <updated>2023-05-28T07:14:06.159Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATBO - Next to Me | SBS 230528 방송]]></title>
+        <id>https://tv.naver.com/v/36396213</id>
+        <link href="https://tv.naver.com/v/36396213"/>
+        <updated>2023-05-28T07:14:06.159Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드(The Wind) - ISLAND  | SBS 230528 방송]]></title>
+        <id>https://tv.naver.com/v/36396103</id>
+        <link href="https://tv.naver.com/v/36396103"/>
+        <updated>2023-05-28T07:14:06.165Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena)- | SBS 230528 방송]]></title>
+        <id>https://tv.naver.com/v/36396014</id>
+        <link href="https://tv.naver.com/v/36396014"/>
+        <updated>2023-05-28T07:14:06.174Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECRET NUMBER(시크릿넘버) - 독사(DOXA) | SBS 230528 방송]]></title>
+        <id>https://tv.naver.com/v/36395920</id>
+        <link href="https://tv.naver.com/v/36395920"/>
+        <updated>2023-05-28T07:14:06.174Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙스완 - Karma | SBS 230528 방송]]></title>
+        <id>https://tv.naver.com/v/36395799</id>
+        <link href="https://tv.naver.com/v/36395799"/>
+        <updated>2023-05-28T07:14:06.174Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADYA - Per | SBS 230528 방송]]></title>
+        <id>https://tv.naver.com/v/36395798</id>
+        <link href="https://tv.naver.com/v/36395798"/>
+        <updated>2023-05-28T07:14:06.174Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송]]></title>
         <id>https://tv.naver.com/v/36148833</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/35909637"/>
         <updated>2023-05-14T08:19:04.210Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스(ONEUS) - ERASE ME | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35909556</id>
-        <link href="https://tv.naver.com/v/35909556"/>
-        <updated>2023-05-14T08:19:04.210Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAE173 - GT(Prod. KENZIE) | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35909456</id>
-        <link href="https://tv.naver.com/v/35909456"/>
-        <updated>2023-05-14T08:19:04.210Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성민 - 사랑이 따끔(Lovesick) | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35909398</id>
-        <link href="https://tv.naver.com/v/35909398"/>
-        <updated>2023-05-14T08:19:04.213Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - Freakin’ Bad | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35909379</id>
-        <link href="https://tv.naver.com/v/35909379"/>
-        <updated>2023-05-14T08:19:04.216Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Siren | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35909286</id>
-        <link href="https://tv.naver.com/v/35909286"/>
-        <updated>2023-05-14T08:19:04.216Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena) | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35909185</id>
-        <link href="https://tv.naver.com/v/35909185"/>
-        <updated>2023-05-14T08:19:04.217Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230514 방송]]></title>
-        <id>https://tv.naver.com/v/35909103</id>
-        <link href="https://tv.naver.com/v/35909103"/>
-        <updated>2023-05-14T07:16:03.283Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
