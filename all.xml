@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-29T08:22:03.264Z</updated>
+    <updated>2023-05-29T09:16:55.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[02:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5월 마지막 주 1위 '(여자)아이들'의 '퀸카(Queencard)' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36425827</id>
+        <link href="https://tv.naver.com/v/36425827"/>
+        <updated>2023-05-29T09:16:29.949Z</updated>
+        <content type="html"><![CDATA[04:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 주헌 (몬스타엑스) - FREEDOM | Mnet 230525 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/36317118</id>
         <link href="https://tv.naver.com/v/36317118"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/36067765"/>
         <updated>2023-05-18T11:14:11.114Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 미주 (MIJOO) - Movie Star | Mnet 230518 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36067620</id>
-        <link href="https://tv.naver.com/v/36067620"/>
-        <updated>2023-05-18T11:14:11.115Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
