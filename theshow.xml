@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-05-30T10:18:30.655Z</updated>
+    <updated>2023-05-30T11:14:06.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청춘의 스토리텔링, YOUNITE 'WATERFALL']]></title>
+        <id>https://tv.naver.com/v/36467450</id>
+        <link href="https://tv.naver.com/v/36467450"/>
+        <updated>2023-05-30T11:13:45.550Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빈틈없이 멋짐 가득한 매력, 베리베리(VERIVERY) 'Crazy Like That']]></title>
+        <id>https://tv.naver.com/v/36467408</id>
+        <link href="https://tv.naver.com/v/36467408"/>
+        <updated>2023-05-30T11:13:45.551Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 유니크한 색깔의 자신감, KARD 'ICKY']]></title>
+        <id>https://tv.naver.com/v/36467226</id>
+        <link href="https://tv.naver.com/v/36467226"/>
+        <updated>2023-05-30T11:13:45.552Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 운명적 만남의 메시지, 드림캐쳐 'BONVOYAGE’]]></title>
+        <id>https://tv.naver.com/v/36467223</id>
+        <link href="https://tv.naver.com/v/36467223"/>
+        <updated>2023-05-30T11:13:45.552Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/36467221</id>
+        <link href="https://tv.naver.com/v/36467221"/>
+        <updated>2023-05-30T11:13:45.553Z</updated>
+        <content type="html"><![CDATA[06:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
         <id>https://tv.naver.com/v/36233435</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/35988604"/>
         <updated>2023-05-16T11:14:53.440Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올곧은 사랑을 노래하는 음색 요정, 류수정 'Love or Hate']]></title>
-        <id>https://tv.naver.com/v/35988600</id>
-        <link href="https://tv.naver.com/v/35988600"/>
-        <updated>2023-05-16T11:14:53.442Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굉음 속을 달리는 폭발적인 에너지, BAE173 'GT (Prod. KENZIE)']]></title>
-        <id>https://tv.naver.com/v/35988470</id>
-        <link href="https://tv.naver.com/v/35988470"/>
-        <updated>2023-05-16T11:14:53.446Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스 표 청량 퍼포먼스, EPEX (이펙스) '여우가 시집가는 날']]></title>
-        <id>https://tv.naver.com/v/35988462</id>
-        <link href="https://tv.naver.com/v/35988462"/>
-        <updated>2023-05-16T11:14:53.448Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀여운 매력 가득한 여덟 소년들, EPEX (이펙스) '사랑하는 내 님아']]></title>
-        <id>https://tv.naver.com/v/35988311</id>
-        <link href="https://tv.naver.com/v/35988311"/>
-        <updated>2023-05-16T11:14:53.450Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 형섭 & 원어스(ONEUS)]]></title>
-        <id>https://tv.naver.com/v/35988017</id>
-        <link href="https://tv.naver.com/v/35988017"/>
-        <updated>2023-05-16T11:14:53.451Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
