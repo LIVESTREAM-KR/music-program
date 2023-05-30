@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-30T11:14:06.210Z</updated>
+    <updated>2023-05-30T12:35:37.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230526 방송 (뮤직뱅크)]]></title>
@@ -845,6 +845,97 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[활기 넘치는 자유분방함, ATBO (에이티비오) 'Next to Me' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36469494</id>
+        <link href="https://tv.naver.com/v/36469494"/>
+        <updated>2023-05-30T12:35:16.251Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설렘 가득 부푸는 무대, AIMERS (에이머스) 'Bubble' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36469130</id>
+        <link href="https://tv.naver.com/v/36469130"/>
+        <updated>2023-05-30T12:35:16.252Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개성이 돋보이는 팀워크, ADYA (에이디야) 'Per' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36469128</id>
+        <link href="https://tv.naver.com/v/36469128"/>
+        <updated>2023-05-30T12:35:16.254Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈과 귀를 정화시키는 매력, 김도아 '꿈의 태엽' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36468956</id>
+        <link href="https://tv.naver.com/v/36468956"/>
+        <updated>2023-05-30T12:35:16.255Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[윌 유 내꾸 미] 베리베리(VERIVERY) (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36468955</id>
+        <link href="https://tv.naver.com/v/36468955"/>
+        <updated>2023-05-30T12:35:16.255Z</updated>
+        <content type="html"><![CDATA[04:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청량미 넘치는 소년들, 더윈드 (The Wind) 'ISLAND' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36468772</id>
+        <link href="https://tv.naver.com/v/36468772"/>
+        <updated>2023-05-30T12:35:16.259Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신나고 유쾌한 멜로디, 영기 '떴다 떴어' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36468763</id>
+        <link href="https://tv.naver.com/v/36468763"/>
+        <updated>2023-05-30T12:35:16.260Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에너지 넘치는 악동 콘셉트, 소년판타지 Sugar Pop 'Snacks' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36468490</id>
+        <link href="https://tv.naver.com/v/36468490"/>
+        <updated>2023-05-30T12:35:16.260Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한층 더 몰입시키는 아련한 감성, 소년판타지 주마등 '꽉 잡아' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36468455</id>
+        <link href="https://tv.naver.com/v/36468455"/>
+        <updated>2023-05-30T12:35:16.260Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매혹적인 멜로디와 강렬한 래핑, BLACKSWAN 'Karma' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36468263</id>
+        <link href="https://tv.naver.com/v/36468263"/>
+        <updated>2023-05-30T12:35:16.260Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 팬들을 향한 애정을 가득 담은, SECRET NUMBER (시크릿 넘버) 'Beautiful One' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36468261</id>
+        <link href="https://tv.naver.com/v/36468261"/>
+        <updated>2023-05-30T12:35:16.261Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 치명적인 변신으로 매료시키는, SECRET NUMBER (시크릿 넘버) '독사 (DOXA)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36468256</id>
+        <link href="https://tv.naver.com/v/36468256"/>
+        <updated>2023-05-30T12:35:16.263Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 형섭 & KARD (더쇼)]]></title>
+        <id>https://tv.naver.com/v/36467741</id>
+        <link href="https://tv.naver.com/v/36467741"/>
+        <updated>2023-05-30T12:35:16.263Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[청춘의 스토리텔링, YOUNITE 'WATERFALL' (더쇼)]]></title>
         <id>https://tv.naver.com/v/36467450</id>
         <link href="https://tv.naver.com/v/36467450"/>
@@ -962,97 +1053,6 @@
         <link href="https://tv.naver.com/v/36232240"/>
         <updated>2023-05-23T10:18:51.174Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 여상 & 베리베리(VERIVERY) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/36232119</id>
-        <link href="https://tv.naver.com/v/36232119"/>
-        <updated>2023-05-23T10:18:51.175Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멈출 수 없는 본능적 이끌림, BLACKSWAN 'Karma' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/36232080</id>
-        <link href="https://tv.naver.com/v/36232080"/>
-        <updated>2023-05-23T10:18:51.196Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔망스러운 청량함으로 입덕 위기, 소년판타지 ＠IN_어스 'SPACEMAN' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/36231907</id>
-        <link href="https://tv.naver.com/v/36231907"/>
-        <updated>2023-05-23T10:18:51.197Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자유분방한 에너지로 시선 집중, 소년판타지 러너즈 '뛰어(RUN)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/36231906</id>
-        <link href="https://tv.naver.com/v/36231906"/>
-        <updated>2023-05-23T10:18:51.197Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Solo Debut] 청춘영화 주인공 그 자체, 김도아 '꿈의 태엽' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/36231469</id>
-        <link href="https://tv.naver.com/v/36231469"/>
-        <updated>2023-05-23T10:18:51.197Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트렌디하고 다채로운 매력, ADYA (에이디야) 'Per' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/36231321</id>
-        <link href="https://tv.naver.com/v/36231321"/>
-        <updated>2023-05-23T10:18:51.197Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고막을 압도하는 강렬한 비트, 블리처스 '마카레나(Macarena)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/36231150</id>
-        <link href="https://tv.naver.com/v/36231150"/>
-        <updated>2023-05-23T10:18:51.197Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탄산음료만큼 시원한 무대, AIMERS (에이머스) 'Bubble' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/36230677</id>
-        <link href="https://tv.naver.com/v/36230677"/>
-        <updated>2023-05-23T10:18:51.200Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35989205</id>
-        <link href="https://tv.naver.com/v/35989205"/>
-        <updated>2023-05-16T11:14:53.434Z</updated>
-        <content type="html"><![CDATA[05:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 역주행 기록을 남기는 퍼포먼스 퀸, 이채연 'KNOCK' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35988895</id>
-        <link href="https://tv.naver.com/v/35988895"/>
-        <updated>2023-05-16T11:14:53.435Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 한 층 더 깊어진 감정선, 원어스(ONEUS) 'ERASE ME' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35988894</id>
-        <link href="https://tv.naver.com/v/35988894"/>
-        <updated>2023-05-16T11:14:53.437Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 아련한 영화 속 주인공 같은 스토리, 원어스(ONEUS) '잇다 있다 잊었다 (Unforgettable)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35988743</id>
-        <link href="https://tv.naver.com/v/35988743"/>
-        <updated>2023-05-16T11:14:53.439Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강렬한 매력 담은 퍼포먼스, DRIPPIN 'SEVEN SINS' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/35988604</id>
-        <link href="https://tv.naver.com/v/35988604"/>
-        <updated>2023-05-16T11:14:53.440Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5월 마지막 날에도 떠나려해 우리 같이 쇼챔피언으로! [예고] (쇼챔피언)]]></title>
