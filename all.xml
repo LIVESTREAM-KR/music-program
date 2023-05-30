@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-30T08:21:29.597Z</updated>
+    <updated>2023-05-30T09:17:01.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 (뮤직뱅크)]]></title>
@@ -110,7 +110,7 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bubble - AIMERS (뮤직뱅크)]]></title>
+        <title type="html"><![CDATA[Bubble - AIMERS | KBS 230526 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/36351472</id>
         <link href="https://tv.naver.com/v/36351472"/>
         <updated>2023-05-26T09:16:24.125Z</updated>
@@ -213,6 +213,27 @@
         <link href="https://tv.naver.com/v/36104824"/>
         <updated>2023-05-19T09:15:35.976Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE MIYEON - Queencard((여자)아이들 미연 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36463083</id>
+        <link href="https://tv.naver.com/v/36463083"/>
+        <updated>2023-05-30T09:16:19.867Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE SHUHUA - Queencard((여자)아이들 슈화 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36462623</id>
+        <link href="https://tv.naver.com/v/36462623"/>
+        <updated>2023-05-30T09:16:19.867Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE YUQI - Queencard((여자)아이들 우기 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36462621</id>
+        <link href="https://tv.naver.com/v/36462621"/>
+        <updated>2023-05-30T09:16:19.868Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 설윤 X 리노(민호) , 5월 넷째 주 음악중심 MC 컷 모음!, MBC 230527 방송 (쇼! 음악중심)]]></title>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/36378616"/>
         <updated>2023-05-27T10:15:56.389Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] (G)I-DLE SOYEON – Queencard((여자)아이들 소연 - 퀸카) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36378536</id>
-        <link href="https://tv.naver.com/v/36378536"/>
-        <updated>2023-05-27T10:15:56.418Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36378535</id>
-        <link href="https://tv.naver.com/v/36378535"/>
-        <updated>2023-05-27T10:15:56.419Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] (G)I-DLE MIYEON – Queencard((여자)아이들 미연 - 퀸카) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36378442</id>
-        <link href="https://tv.naver.com/v/36378442"/>
-        <updated>2023-05-27T10:15:56.419Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230528 방송 (인기가요)]]></title>
@@ -1265,147 +1265,147 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김다현 - 아버지 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[김다현 - 아버지 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380838</id>
         <link href="https://tv.naver.com/v/36380838"/>
         <updated>2023-05-27T12:29:52.245Z</updated>
         <content type="html"><![CDATA[04:16]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예고] 💙아티스트 진성 편💙 한 치의 양보 없는 오늘의 경쟁! 진성의 원픽은?! (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[[예고] 💙아티스트 진성 편💙 한 치의 양보 없는 오늘의 경쟁! 진성의 원픽은?! | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380782</id>
         <link href="https://tv.naver.com/v/36380782"/>
         <updated>2023-05-27T12:29:52.246Z</updated>
         <content type="html"><![CDATA[00:59]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김창옥이 마음의 숙제를 풀었던 순간? 함께 시간을 공유한다는 것 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[김창옥이 마음의 숙제를 풀었던 순간? 함께 시간을 공유한다는 것 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380779</id>
         <link href="https://tv.naver.com/v/36380779"/>
         <updated>2023-05-27T12:29:52.247Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김창옥의 생애 첫 아버지와의 통화, 꼭 전하고 싶은 이야기 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[김창옥의 생애 첫 아버지와의 통화, 꼭 전하고 싶은 이야기 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380699</id>
         <link href="https://tv.naver.com/v/36380699"/>
         <updated>2023-05-27T12:29:52.250Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍경민 - 오늘이 젊은 날 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[홍경민 - 오늘이 젊은 날 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380697</id>
         <link href="https://tv.naver.com/v/36380697"/>
         <updated>2023-05-27T12:29:52.252Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김호영 - 뮤지컬 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[김호영 - 뮤지컬 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380691</id>
         <link href="https://tv.naver.com/v/36380691"/>
         <updated>2023-05-27T12:29:52.252Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갱년기가 왔다는 것, 당신이 열심히 살았다는 증거 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[갱년기가 왔다는 것, 당신이 열심히 살았다는 증거 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380515</id>
         <link href="https://tv.naver.com/v/36380515"/>
         <updated>2023-05-27T12:29:52.253Z</updated>
         <content type="html"><![CDATA[01:31]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갱년기 극복을 위한 김창옥의 솔루션✨ 마음의 공간을 채워줄 내 영혼의 취향 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[갱년기 극복을 위한 김창옥의 솔루션✨ 마음의 공간을 채워줄 내 영혼의 취향 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380511</id>
         <link href="https://tv.naver.com/v/36380511"/>
         <updated>2023-05-27T12:29:52.254Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족을 위해 억눌렀던 당신의 숨통, 물건으로 채우려는 마음의 공허함 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[가족을 위해 억눌렀던 당신의 숨통, 물건으로 채우려는 마음의 공허함 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380314</id>
         <link href="https://tv.naver.com/v/36380314"/>
         <updated>2023-05-27T12:29:52.256Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네 번째 가족 고민 사연, 내게 찾아온 불청객 갱년기! 괜찮을까요? (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[네 번째 가족 고민 사연, 내게 찾아온 불청객 갱년기! 괜찮을까요? | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36380022</id>
         <link href="https://tv.naver.com/v/36380022"/>
         <updated>2023-05-27T11:13:27.420Z</updated>
         <content type="html"><![CDATA[02:21]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[참을 수 없었던 눈물, 정은숙&정다경 모녀와 박해미&황성재 모자의 무대 소감💟 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[참을 수 없었던 눈물, 정은숙&정다경 모녀와 박해미&황성재 모자의 무대 소감💟 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36379929</id>
         <link href="https://tv.naver.com/v/36379929"/>
         <updated>2023-05-27T11:13:27.425Z</updated>
         <content type="html"><![CDATA[01:46]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박해미&황성재 - 가족사진 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[박해미&황성재 - 가족사진 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36379826</id>
         <link href="https://tv.naver.com/v/36379826"/>
         <updated>2023-05-27T11:13:27.426Z</updated>
         <content type="html"><![CDATA[04:22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정다경 모녀 - 엄마가 딸에게 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[정다경 모녀 - 엄마가 딸에게 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36379589</id>
         <link href="https://tv.naver.com/v/36379589"/>
         <updated>2023-05-27T11:13:27.441Z</updated>
         <content type="html"><![CDATA[05:40]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서로의 진심을 이해하고 전달할 수 있는, 부모와 자식👪 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[서로의 진심을 이해하고 전달할 수 있는, 부모와 자식👪 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36379384</id>
         <link href="https://tv.naver.com/v/36379384"/>
         <updated>2023-05-27T11:13:27.449Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세 번째 가족 고민 사연! 반대했던 결혼, 자녀의 이혼 결심 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[세 번째 가족 고민 사연! 반대했던 결혼, 자녀의 이혼 결심 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36379383</id>
         <link href="https://tv.naver.com/v/36379383"/>
         <updated>2023-05-27T11:13:27.450Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍서범 - 나는 당신께 사랑을 원하지 않았어요 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[홍서범 - 나는 당신께 사랑을 원하지 않았어요 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36379161</id>
         <link href="https://tv.naver.com/v/36379161"/>
         <updated>2023-05-27T11:13:27.452Z</updated>
         <content type="html"><![CDATA[04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[두 번째 가족 고민 사연! 취미 부자 남편의 고민, 모임이 6개?! (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[두 번째 가족 고민 사연! 취미 부자 남편의 고민, 모임이 6개?! | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36379159</id>
         <link href="https://tv.naver.com/v/36379159"/>
         <updated>2023-05-27T11:13:27.453Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무대에서 보인 눈물의 의미! 10년 만에 심쿵💓 했던 김소현? (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[무대에서 보인 눈물의 의미! 10년 만에 심쿵💓 했던 김소현? | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36378984</id>
         <link href="https://tv.naver.com/v/36378984"/>
         <updated>2023-05-27T10:16:31.329Z</updated>
         <content type="html"><![CDATA[01:13]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김소현&손준호 - 사랑의 찬가 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[김소현&손준호 - 사랑의 찬가 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36378980</id>
         <link href="https://tv.naver.com/v/36378980"/>
         <updated>2023-05-27T10:16:31.329Z</updated>
         <content type="html"><![CDATA[04:33]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫 번째 가족 고민 사연, 가족의 험담은 어떻게 처리해야 할까? (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[첫 번째 가족 고민 사연, 가족의 험담은 어떻게 처리해야 할까? | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36378701</id>
         <link href="https://tv.naver.com/v/36378701"/>
         <updated>2023-05-27T10:16:31.331Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소통전문가 김창옥의✨ 가족 고민 사연 솔루션! 지금 시작합니다💟 (불후의 명곡)]]></title>
+        <title type="html"><![CDATA[소통전문가 김창옥의✨ 가족 고민 사연 솔루션! 지금 시작합니다💟 | KBS 230527 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/36378619</id>
         <link href="https://tv.naver.com/v/36378619"/>
         <updated>2023-05-27T10:16:31.332Z</updated>

@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-05-30T08:21:29.584Z</updated>
+    <updated>2023-05-30T09:17:01.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE MIYEON - Queencard((여자)아이들 미연 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송]]></title>
+        <id>https://tv.naver.com/v/36463083</id>
+        <link href="https://tv.naver.com/v/36463083"/>
+        <updated>2023-05-30T09:16:19.867Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE SHUHUA - Queencard((여자)아이들 슈화 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송]]></title>
+        <id>https://tv.naver.com/v/36462623</id>
+        <link href="https://tv.naver.com/v/36462623"/>
+        <updated>2023-05-30T09:16:19.867Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE YUQI - Queencard((여자)아이들 우기 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송]]></title>
+        <id>https://tv.naver.com/v/36462621</id>
+        <link href="https://tv.naver.com/v/36462621"/>
+        <updated>2023-05-30T09:16:19.868Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 설윤 X 리노(민호) , 5월 넷째 주 음악중심 MC 컷 모음!, MBC 230527 방송]]></title>
         <id>https://tv.naver.com/v/36458070</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/36378616"/>
         <updated>2023-05-27T10:15:56.389Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] (G)I-DLE SOYEON – Queencard((여자)아이들 소연 - 퀸카) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36378536</id>
-        <link href="https://tv.naver.com/v/36378536"/>
-        <updated>2023-05-27T10:15:56.418Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] (G)I-DLE - Queencard((여자)아이들 – 퀸카) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36378535</id>
-        <link href="https://tv.naver.com/v/36378535"/>
-        <updated>2023-05-27T10:15:56.419Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] (G)I-DLE MIYEON – Queencard((여자)아이들 미연 - 퀸카) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36378442</id>
-        <link href="https://tv.naver.com/v/36378442"/>
-        <updated>2023-05-27T10:15:56.419Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
