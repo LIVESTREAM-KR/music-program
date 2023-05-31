@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-31T06:24:06.239Z</updated>
+    <updated>2023-05-31T07:20:35.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230526 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] BTOB – Wind And Wish(비투비 - 나의 바람) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36457844</id>
+        <link href="https://tv.naver.com/v/36457844"/>
+        <updated>2023-05-31T07:19:52.515Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] (G)I-DLE MIYEON - Queencard((여자)아이들 미연 - 퀸카) Close-up Cam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36463083</id>
         <link href="https://tv.naver.com/v/36463083"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/36378716</id>
         <link href="https://tv.naver.com/v/36378716"/>
         <updated>2023-05-27T10:15:56.388Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BLACKSWAN GABI – Karma(블랙스완 가비 - 카르마) FanCam | Show! MusicCore | MBC230527방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36378616</id>
-        <link href="https://tv.naver.com/v/36378616"/>
-        <updated>2023-05-27T10:15:56.389Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
