@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-31T10:19:58.589Z</updated>
+    <updated>2023-05-31T11:15:31.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230526 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,41 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 5월 5주 챔피언송 ＜Dreamcatcher - BONVOYAGE＞ 앵콜 Full ver. l Show Champion l EP.477 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36510161</id>
+        <link href="https://tv.naver.com/v/36510161"/>
+        <updated>2023-05-31T11:15:17.405Z</updated>
+        <content type="html"><![CDATA[05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 퍼플키스(PURPLE KISS) - 거부 (원곡 : 빅마마) (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36508959</id>
+        <link href="https://tv.naver.com/v/36508959"/>
+        <updated>2023-05-31T11:15:17.406Z</updated>
+        <content type="html"><![CDATA[09:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 드림캐쳐(Dreamcatcher) - BONVOYAGE (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36508759</id>
+        <link href="https://tv.naver.com/v/36508759"/>
+        <updated>2023-05-31T11:15:17.407Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 카드(KARD) - ICKY (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36508380</id>
+        <link href="https://tv.naver.com/v/36508380"/>
+        <updated>2023-05-31T11:15:17.408Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리(VERIVERY) - Crazy Like That (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36508378</id>
+        <link href="https://tv.naver.com/v/36508378"/>
+        <updated>2023-05-31T11:15:17.411Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 시크릿넘버(SECRET NUMBER) - DOXA(독사) (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/36507664</id>
         <link href="https://tv.naver.com/v/36507664"/>
@@ -1228,41 +1263,6 @@
         <link href="https://tv.naver.com/v/36269916"/>
         <updated>2023-05-24T13:21:12.815Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS - ERASE ME (원어스 - 이레이즈 미) l Show Champion l EP.476 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36269633</id>
-        <link href="https://tv.naver.com/v/36269633"/>
-        <updated>2023-05-24T13:21:12.817Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS KEONHEE - ERASE ME (원어스 건희 - 이레이즈 미) | Show Champion | EP.476 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36269201</id>
-        <link href="https://tv.naver.com/v/36269201"/>
-        <updated>2023-05-24T13:21:12.818Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ATBO OH JUNSEOK - Next to Me (에이티비오 오준석 - 넥스트 투 미) | Show Champion | EP.476 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36263191</id>
-        <link href="https://tv.naver.com/v/36263191"/>
-        <updated>2023-05-24T13:21:12.819Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ATBO JEONG SEUNGHWAN - Next to Me (에이티비오 정승환 - 넥스트 투 미) | Show Champion | EP.476 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36262969</id>
-        <link href="https://tv.naver.com/v/36262969"/>
-        <updated>2023-05-24T13:21:12.820Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ATBO - Next to Me (에이티비오 - 넥스트 투 미) l Show Champion l EP.476 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36262524</id>
-        <link href="https://tv.naver.com/v/36262524"/>
-        <updated>2023-05-24T13:21:12.821Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김다현 - 아버지 | KBS 230527 방송 (불후의 명곡)]]></title>
