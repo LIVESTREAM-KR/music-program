@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-06-01T07:16:17.884Z</updated>
+    <updated>2023-06-01T08:21:04.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] VERIVERY - CRAZY LIKE THAT (베리베리 - 크레이지 라이크 댓) l Show Champion l EP.477]]></title>
+        <id>https://tv.naver.com/v/36541922</id>
+        <link href="https://tv.naver.com/v/36541922"/>
+        <updated>2023-06-01T08:20:49.928Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] BLACKSWAN - Karma (블랙스완 - 카르마) l Show Champion l EP.477]]></title>
+        <id>https://tv.naver.com/v/36541632</id>
+        <link href="https://tv.naver.com/v/36541632"/>
+        <updated>2023-06-01T08:20:49.929Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] KARD J.Seph - ICKY (카드 제이셉 - 이끼) | Show Champion | EP.477]]></title>
         <id>https://tv.naver.com/v/36509192</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/36495581"/>
         <updated>2023-05-31T13:21:49.444Z</updated>
         <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남동현(Nam Dong Hyun) - Blind (feat.김농밀)]]></title>
-        <id>https://tv.naver.com/v/36511168</id>
-        <link href="https://tv.naver.com/v/36511168"/>
-        <updated>2023-05-31T12:35:45.307Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 1위] 5월 5주 챔피언송 ＜Dreamcatcher - BONVOYAGE＞ 앵콜 Full ver. l Show Champion l EP.477]]></title>
-        <id>https://tv.naver.com/v/36510161</id>
-        <link href="https://tv.naver.com/v/36510161"/>
-        <updated>2023-05-31T11:15:17.405Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
     </entry>
 </feed>
