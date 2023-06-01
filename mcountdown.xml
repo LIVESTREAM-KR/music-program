@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-06-01T11:14:28.476Z</updated>
+    <updated>2023-06-01T12:33:38.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' 엠카운트다운 800회 (MCD 800TH) | Mnet 230601 방송]]></title>
+        <id>https://tv.naver.com/v/36551627</id>
+        <link href="https://tv.naver.com/v/36551627"/>
+        <updated>2023-06-01T12:33:13.824Z</updated>
+        <content type="html"><![CDATA[01:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주헌 (몬스타엑스) - FREEDOM | Mnet 230601 방송]]></title>
+        <id>https://tv.naver.com/v/36551629</id>
+        <link href="https://tv.naver.com/v/36551629"/>
+        <updated>2023-06-01T12:33:13.824Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 퀸카 (Queencard) | Mnet 230601 방송]]></title>
+        <id>https://tv.naver.com/v/36551626</id>
+        <link href="https://tv.naver.com/v/36551626"/>
+        <updated>2023-06-01T12:33:13.825Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Bite Me | Mnet 230601 방송]]></title>
+        <id>https://tv.naver.com/v/36551476</id>
+        <link href="https://tv.naver.com/v/36551476"/>
+        <updated>2023-06-01T12:33:13.831Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 조미 - Mañana (Our Drama) (Feat. 은혁) | Mnet 230601 방송]]></title>
+        <id>https://tv.naver.com/v/36551475</id>
+        <link href="https://tv.naver.com/v/36551475"/>
+        <updated>2023-06-01T12:33:13.832Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' AB6IX (에이비식스) - LOSER | Mnet 230601 방송]]></title>
+        <id>https://tv.naver.com/v/36551466</id>
+        <link href="https://tv.naver.com/v/36551466"/>
+        <updated>2023-06-01T12:33:13.832Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KARD - ICKY | Mnet 230601 방송]]></title>
+        <id>https://tv.naver.com/v/36551463</id>
+        <link href="https://tv.naver.com/v/36551463"/>
+        <updated>2023-06-01T12:33:13.833Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['컴백 인터뷰' with AB6IX (에이비식스) | Mnet 230601 방송]]></title>
         <id>https://tv.naver.com/v/36550656</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/36316849"/>
         <updated>2023-05-25T11:14:00.818Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ENHYPEN(엔하이픈) - Bite Me | Mnet 230525 방송]]></title>
-        <id>https://tv.naver.com/v/36316848</id>
-        <link href="https://tv.naver.com/v/36316848"/>
-        <updated>2023-05-25T11:14:00.825Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ENHYPEN(엔하이픈) - Bills | Mnet 230525 방송]]></title>
-        <id>https://tv.naver.com/v/36316844</id>
-        <link href="https://tv.naver.com/v/36316844"/>
-        <updated>2023-05-25T11:14:00.827Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['STUDIO M' 10CM - 부동의 첫사랑 | Mnet 230525 방송]]></title>
-        <id>https://tv.naver.com/v/36316384</id>
-        <link href="https://tv.naver.com/v/36316384"/>
-        <updated>2023-05-25T11:14:00.832Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - 이브, 프시케 그리고 푸른 수염의 아내 | Mnet 230525 방송]]></title>
-        <id>https://tv.naver.com/v/36316381</id>
-        <link href="https://tv.naver.com/v/36316381"/>
-        <updated>2023-05-25T11:14:00.842Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' KARD - ICKY | Mnet 230525 방송]]></title>
-        <id>https://tv.naver.com/v/36316189</id>
-        <link href="https://tv.naver.com/v/36316189"/>
-        <updated>2023-05-25T11:14:00.849Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 주헌 (몬스타엑스) | Mnet 230525 방송]]></title>
-        <id>https://tv.naver.com/v/36316187</id>
-        <link href="https://tv.naver.com/v/36316187"/>
-        <updated>2023-05-25T11:14:00.853Z</updated>
-        <content type="html"><![CDATA[05:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베리베리(VERIVERY) - Crazy Like That | Mnet 230525 방송]]></title>
-        <id>https://tv.naver.com/v/36315824</id>
-        <link href="https://tv.naver.com/v/36315824"/>
-        <updated>2023-05-25T11:14:00.855Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
