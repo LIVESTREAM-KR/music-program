@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-02T01:44:04.625Z</updated>
+    <updated>2023-06-02T02:50:53.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230526 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5월 5주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.477 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36526486</id>
+        <link href="https://tv.naver.com/v/36526486"/>
+        <updated>2023-06-02T02:50:37.850Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] VERIVERY - CRAZY LIKE THAT (베리베리 - 크레이지 라이크 댓) l Show Champion l EP.477 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/36541922</id>
         <link href="https://tv.naver.com/v/36541922"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/36495786"/>
         <updated>2023-05-31T13:21:49.443Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Dreamcatcher GAHYEON - BONVOYAGE (드림캐쳐 가현 - 본보야지) | Show Champion | EP.477 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36495581</id>
-        <link href="https://tv.naver.com/v/36495581"/>
-        <updated>2023-05-31T13:21:49.444Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김다현 - 아버지 | KBS 230527 방송 (불후의 명곡)]]></title>
