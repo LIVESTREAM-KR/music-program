@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-02T06:21:44.782Z</updated>
+    <updated>2023-06-02T07:15:28.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] aespa – Spicy(에스파 - 스파이시) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/36545358</id>
+        <link href="https://tv.naver.com/v/36545358"/>
+        <updated>2023-06-02T07:14:46.600Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] May TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/36498874</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36378979"/>
         <updated>2023-05-27T10:15:56.379Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] 10CM - My Ultimate First Love(십센치 – 부동의 첫사랑) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36378875</id>
-        <link href="https://tv.naver.com/v/36378875"/>
-        <updated>2023-05-27T10:15:56.386Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
