@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-06-02T09:17:28.004Z</updated>
+    <updated>2023-06-02T10:18:29.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[티저]불후 록페 in 울산🤟 잔나비가 소개하는 초호화 라인업🔥 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/36588891</id>
+        <link href="https://tv.naver.com/v/36588891"/>
+        <updated>2023-06-02T10:18:21.713Z</updated>
+        <content type="html"><![CDATA[01:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김다현 - 아버지 | KBS 230527 방송]]></title>
         <id>https://tv.naver.com/v/36380838</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36176166"/>
         <updated>2023-05-22T05:17:03.335Z</updated>
         <content type="html"><![CDATA[05:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박해미 - 여러분 | KBS 230520 방송]]></title>
-        <id>https://tv.naver.com/v/36134016</id>
-        <link href="https://tv.naver.com/v/36134016"/>
-        <updated>2023-05-20T12:29:08.570Z</updated>
-        <content type="html"><![CDATA[06:13]]></content>
     </entry>
 </feed>
