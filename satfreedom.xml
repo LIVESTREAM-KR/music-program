@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-06-03T12:30:52.258Z</updated>
+    <updated>2023-06-03T13:18:43.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -160,6 +160,27 @@
         <content type="html"><![CDATA[05:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[가로 직캠] 양지은 - 가지 마 | KBS 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36593344</id>
+        <link href="https://tv.naver.com/v/36593344"/>
+        <updated>2023-06-03T13:18:36.312Z</updated>
+        <content type="html"><![CDATA[06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로 직캠] 이찬원 - 울 엄마 | KBS 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36592651</id>
+        <link href="https://tv.naver.com/v/36592651"/>
+        <updated>2023-06-03T13:18:36.313Z</updated>
+        <content type="html"><![CDATA[06:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로 직캠] 정미애 - 보릿고개 | KBS 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36592474</id>
+        <link href="https://tv.naver.com/v/36592474"/>
+        <updated>2023-06-03T13:18:36.314Z</updated>
+        <content type="html"><![CDATA[05:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[세로 직캠] 김수찬 - 동전 인생 | KBS 230603 방송]]></title>
         <id>https://tv.naver.com/v/36592031</id>
         <link href="https://tv.naver.com/v/36592031"/>
@@ -174,6 +195,13 @@
         <content type="html"><![CDATA[04:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[세로 직캠] 전유진 - 안동역에서 | KBS 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36591984</id>
+        <link href="https://tv.naver.com/v/36591984"/>
+        <updated>2023-06-03T13:18:36.318Z</updated>
+        <content type="html"><![CDATA[05:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[세로 직캠] 진성 - 못난 놈+태클을 걸지 마 | KBS 230603 방송]]></title>
         <id>https://tv.naver.com/v/36589460</id>
         <link href="https://tv.naver.com/v/36589460"/>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/36588891"/>
         <updated>2023-06-02T10:18:21.713Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김다현 - 아버지 | KBS 230527 방송]]></title>
-        <id>https://tv.naver.com/v/36380838</id>
-        <link href="https://tv.naver.com/v/36380838"/>
-        <updated>2023-05-27T12:29:52.245Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 💙아티스트 진성 편💙 한 치의 양보 없는 오늘의 경쟁! 진성의 원픽은?! | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/36380782</id>
-        <link href="https://tv.naver.com/v/36380782"/>
-        <updated>2023-05-27T12:29:52.246Z</updated>
-        <content type="html"><![CDATA[00:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥이 마음의 숙제를 풀었던 순간? 함께 시간을 공유한다는 것 | KBS 230527 방송]]></title>
-        <id>https://tv.naver.com/v/36380779</id>
-        <link href="https://tv.naver.com/v/36380779"/>
-        <updated>2023-05-27T12:29:52.247Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창옥의 생애 첫 아버지와의 통화, 꼭 전하고 싶은 이야기 | KBS 230527 방송]]></title>
-        <id>https://tv.naver.com/v/36380699</id>
-        <link href="https://tv.naver.com/v/36380699"/>
-        <updated>2023-05-27T12:29:52.250Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
