@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-03T06:20:22.633Z</updated>
+    <updated>2023-06-03T07:15:29.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유나이트 - 워터폴 (YOUNITE - WATERFALL), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36610985</id>
+        <link href="https://tv.naver.com/v/36610985"/>
+        <updated>2023-06-03T07:14:48.900Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 - 아일랜드 (The Wind - ISLAND), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36610799</id>
+        <link href="https://tv.naver.com/v/36610799"/>
+        <updated>2023-06-03T07:14:48.906Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플레이브 - 왜요 왜요 왜? (PLAVE - Why?), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36610691</id>
+        <link href="https://tv.naver.com/v/36610691"/>
+        <updated>2023-06-03T07:14:48.914Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙스완 - 카르마 (BLACKSWAN - Karma), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36610574</id>
+        <link href="https://tv.naver.com/v/36610574"/>
+        <updated>2023-06-03T07:14:48.935Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영기 - 떴다 떴어 (YOUNGKI - TA-DAH!), MBC 230603 방송]]></title>
+        <id>https://tv.naver.com/v/36610449</id>
+        <link href="https://tv.naver.com/v/36610449"/>
+        <updated>2023-06-03T07:14:48.935Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] aespa – Spicy(에스파 - 스파이시) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/36545358</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/36380099"/>
         <updated>2023-05-27T11:12:51.996Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KARD - ICKY(카드 – 이끼) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36380020</id>
-        <link href="https://tv.naver.com/v/36380020"/>
-        <updated>2023-05-27T11:12:51.996Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VERIVERY - Crazy Like That(베리베리 – 크레이지 라이크 댓) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36379382</id>
-        <link href="https://tv.naver.com/v/36379382"/>
-        <updated>2023-05-27T11:12:51.997Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Dreamcatcher - BONVOYAGE(드림캐쳐 – 본보야지) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36379380</id>
-        <link href="https://tv.naver.com/v/36379380"/>
-        <updated>2023-05-27T11:12:51.997Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] The Wind - ISLAND(더윈드 – 아일랜드) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36379061</id>
-        <link href="https://tv.naver.com/v/36379061"/>
-        <updated>2023-05-27T11:12:52.000Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BLACKSWAN - Karma(블랙스완 – 카르마) FanCam | Show! MusicCore | MBC230527방송]]></title>
-        <id>https://tv.naver.com/v/36378979</id>
-        <link href="https://tv.naver.com/v/36378979"/>
-        <updated>2023-05-27T10:15:56.379Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
