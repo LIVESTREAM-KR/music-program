@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-04T07:15:40.987Z</updated>
+    <updated>2023-06-04T08:19:16.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230602 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,90 @@
         <content type="html"><![CDATA[04:34]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632485</id>
+        <link href="https://tv.naver.com/v/36632485"/>
+        <updated>2023-06-04T08:18:43.649Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주헌 - FREEDOM | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632462</id>
+        <link href="https://tv.naver.com/v/36632462"/>
+        <updated>2023-06-04T08:18:43.649Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB6IX(에이비식스) - LOSER | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632338</id>
+        <link href="https://tv.naver.com/v/36632338"/>
+        <updated>2023-06-04T08:18:43.649Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KARD - ICKY | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632121</id>
+        <link href="https://tv.naver.com/v/36632121"/>
+        <updated>2023-06-04T08:18:43.649Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림캐쳐 - BONVOYAGE | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36632096</id>
+        <link href="https://tv.naver.com/v/36632096"/>
+        <updated>2023-06-04T08:18:43.649Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NINE to SIX - Don’t Call Me | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36631899</id>
+        <link href="https://tv.naver.com/v/36631899"/>
+        <updated>2023-06-04T08:18:43.653Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR - One and Only | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36631775</id>
+        <link href="https://tv.naver.com/v/36631775"/>
+        <updated>2023-06-04T08:18:43.653Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR - 돌아버리겠다 | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36631550</id>
+        <link href="https://tv.naver.com/v/36631550"/>
+        <updated>2023-06-04T08:18:43.653Z</updated>
+        <content type="html"><![CDATA[02:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIX(씨아이엑스) - Save me, Kill me | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36631547</id>
+        <link href="https://tv.naver.com/v/36631547"/>
+        <updated>2023-06-04T08:18:43.653Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[베리베리(VERIVERY) - Crazy Like That | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36631448</id>
+        <link href="https://tv.naver.com/v/36631448"/>
+        <updated>2023-06-04T08:18:43.653Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SECRET NUMBER(시크릿넘버) - 독사(DOXA) | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36631359</id>
+        <link href="https://tv.naver.com/v/36631359"/>
+        <updated>2023-06-04T08:18:43.655Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다크비(DKB) - Turning Point (Prod. 주헌(몬스타엑스)) | SBS 230604 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/36631174</id>
+        <link href="https://tv.naver.com/v/36631174"/>
+        <updated>2023-06-04T08:18:43.656Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[YOUNITE - WATERFALL | SBS 230604 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/36631153</id>
         <link href="https://tv.naver.com/v/36631153"/>
@@ -549,90 +633,6 @@
         <link href="https://tv.naver.com/v/36395799"/>
         <updated>2023-05-28T07:14:06.174Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADYA - Per | SBS 230528 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36395798</id>
-        <link href="https://tv.naver.com/v/36395798"/>
-        <updated>2023-05-28T07:14:06.174Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148833</id>
-        <link href="https://tv.naver.com/v/36148833"/>
-        <updated>2023-05-21T07:14:49.632Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aespa - Spicy | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148698</id>
-        <link href="https://tv.naver.com/v/36148698"/>
-        <updated>2023-05-21T07:14:49.636Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - UNFORGIVEN(feat. Nile Rodgers) | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148694</id>
-        <link href="https://tv.naver.com/v/36148694"/>
-        <updated>2023-05-21T07:14:49.636Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미주(MIJOO) - Movie Star | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148544</id>
-        <link href="https://tv.naver.com/v/36148544"/>
-        <updated>2023-05-21T07:14:49.636Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스(ONEUS) - ERASE ME | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148424</id>
-        <link href="https://tv.naver.com/v/36148424"/>
-        <updated>2023-05-21T07:14:49.636Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베리베리(VERIVERY) - Crazy Like That | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148423</id>
-        <link href="https://tv.naver.com/v/36148423"/>
-        <updated>2023-05-21T07:14:49.637Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAE173 - GT(Prod. KENZIE) | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148070</id>
-        <link href="https://tv.naver.com/v/36148070"/>
-        <updated>2023-05-21T07:14:49.637Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATBO - Next to Me | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148044</id>
-        <link href="https://tv.naver.com/v/36148044"/>
-        <updated>2023-05-21T07:14:49.637Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - Siren | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36148042</id>
-        <link href="https://tv.naver.com/v/36148042"/>
-        <updated>2023-05-21T07:14:49.637Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE - WATERFALL | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36147910</id>
-        <link href="https://tv.naver.com/v/36147910"/>
-        <updated>2023-05-21T07:14:49.646Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - Dear H. | SBS 230521 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/36147730</id>
-        <link href="https://tv.naver.com/v/36147730"/>
-        <updated>2023-05-21T07:14:49.654Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['SPOILER M' 엠카운트다운 800회 (MCD 800TH) | Mnet 230601 방송 (엠카운트다운)]]></title>
