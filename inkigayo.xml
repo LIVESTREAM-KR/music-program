@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-06-04T08:19:16.816Z</updated>
+    <updated>2023-06-04T09:16:30.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids - 특 | SBS 230604 방송]]></title>
+        <id>https://tv.naver.com/v/36632922</id>
+        <link href="https://tv.naver.com/v/36632922"/>
+        <updated>2023-06-04T09:15:54.782Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 퀸카(Queencard) | SBS 230604 방송]]></title>
+        <id>https://tv.naver.com/v/36632914</id>
+        <link href="https://tv.naver.com/v/36632914"/>
+        <updated>2023-06-04T09:15:54.782Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조미 - Mañana(Our Drama)(feat. 은혁)  | SBS 230604 방송]]></title>
+        <id>https://tv.naver.com/v/36632661</id>
+        <link href="https://tv.naver.com/v/36632661"/>
+        <updated>2023-06-04T09:15:54.782Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230604 방송]]></title>
         <id>https://tv.naver.com/v/36632485</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/36396103"/>
         <updated>2023-05-28T07:14:06.165Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스(BLITZERS) - 마카레나(Macarena)- | SBS 230528 방송]]></title>
-        <id>https://tv.naver.com/v/36396014</id>
-        <link href="https://tv.naver.com/v/36396014"/>
-        <updated>2023-05-28T07:14:06.174Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECRET NUMBER(시크릿넘버) - 독사(DOXA) | SBS 230528 방송]]></title>
-        <id>https://tv.naver.com/v/36395920</id>
-        <link href="https://tv.naver.com/v/36395920"/>
-        <updated>2023-05-28T07:14:06.174Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙스완 - Karma | SBS 230528 방송]]></title>
-        <id>https://tv.naver.com/v/36395799</id>
-        <link href="https://tv.naver.com/v/36395799"/>
-        <updated>2023-05-28T07:14:06.174Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
