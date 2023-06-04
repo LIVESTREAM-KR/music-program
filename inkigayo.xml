@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-06-04T06:20:07.465Z</updated>
+    <updated>2023-06-04T07:15:40.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE - WATERFALL | SBS 230604 방송]]></title>
+        <id>https://tv.naver.com/v/36631153</id>
+        <link href="https://tv.naver.com/v/36631153"/>
+        <updated>2023-06-04T07:15:05.868Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Bubble | SBS 230604 방송]]></title>
+        <id>https://tv.naver.com/v/36630828</id>
+        <link href="https://tv.naver.com/v/36630828"/>
+        <updated>2023-06-04T07:15:05.868Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230528 방송]]></title>
         <id>https://tv.naver.com/v/36397086</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/36147730"/>
         <updated>2023-05-21T07:14:49.654Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | SBS 230521 방송]]></title>
-        <id>https://tv.naver.com/v/36147726</id>
-        <link href="https://tv.naver.com/v/36147726"/>
-        <updated>2023-05-21T07:14:49.654Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - SEVEN SINS | SBS 230521 방송]]></title>
-        <id>https://tv.naver.com/v/36147577</id>
-        <link href="https://tv.naver.com/v/36147577"/>
-        <updated>2023-05-21T07:14:49.654Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
     </entry>
 </feed>
