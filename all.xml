@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-05T02:52:47.430Z</updated>
+    <updated>2023-06-05T03:20:05.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230602 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] (G)I-DLE YUQI – Queencard((여자)아이들 우기 - 퀸카) FanCam | Show! MusicCore | MBC230603방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36652806</id>
+        <link href="https://tv.naver.com/v/36652806"/>
+        <updated>2023-06-05T03:19:21.968Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] (G)I-DLE SOYEON – Queencard((여자)아이들 소연 - 퀸카) FanCam | Show! MusicCore | MBC230603방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36652593</id>
+        <link href="https://tv.naver.com/v/36652593"/>
+        <updated>2023-06-05T03:19:21.968Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] FANTASY BOYS MOON HYUNBIN – Gesture(소년판타지 문현빈 - 제스처) FanCam | Show! MusicCore | MBC230603방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36617059</id>
         <link href="https://tv.naver.com/v/36617059"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/36614466"/>
         <updated>2023-06-03T10:16:09.125Z</updated>
         <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids CHANGBIN – S-Class(스트레이 키즈 창빈 - 특) FanCam | Show! MusicCore | MBC230603방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36614379</id>
-        <link href="https://tv.naver.com/v/36614379"/>
-        <updated>2023-06-03T10:16:09.125Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids FELIX – S-Class(스트레이 키즈 필릭스 - 특) FanCam | Show! MusicCore | MBC230603방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36614234</id>
-        <link href="https://tv.naver.com/v/36614234"/>
-        <updated>2023-06-03T10:16:09.125Z</updated>
-        <content type="html"><![CDATA[04:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids - 특 | SBS 230604 방송 (인기가요)]]></title>
