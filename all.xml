@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-05T06:22:42.676Z</updated>
+    <updated>2023-06-05T07:16:14.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230602 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 6월 첫째 주 음악중심 MC 컷 모음!, MBC 230603 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36662017</id>
+        <link href="https://tv.naver.com/v/36662017"/>
+        <updated>2023-06-05T07:15:32.737Z</updated>
+        <content type="html"><![CDATA[13:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] CIX BAE JINYOUNG – Save me, Kill me(씨아이엑스 배진영 - 세이브 미, 킬 미)FanCam|Show!MusicCore|MBC230603방 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36658564</id>
         <link href="https://tv.naver.com/v/36658564"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/36615401"/>
         <updated>2023-06-03T11:13:30.326Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HA SEOKHEE – Shut Off(소년판타지 하석희 - 셧 오프) FanCam | Show! MusicCore | MBC230603방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36615329</id>
-        <link href="https://tv.naver.com/v/36615329"/>
-        <updated>2023-06-03T11:13:30.331Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids - 특 | SBS 230604 방송 (인기가요)]]></title>
