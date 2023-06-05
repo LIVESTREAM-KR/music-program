@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-05T05:16:14.786Z</updated>
+    <updated>2023-06-05T06:22:42.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230602 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] CIX BAE JINYOUNG – Save me, Kill me(씨아이엑스 배진영 - 세이브 미, 킬 미)FanCam|Show!MusicCore|MBC230603방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36658564</id>
+        <link href="https://tv.naver.com/v/36658564"/>
+        <updated>2023-06-05T06:21:58.734Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] CIX BX – Save me, Kill me(씨아이엑스 BX - 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230603방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36658315</id>
+        <link href="https://tv.naver.com/v/36658315"/>
+        <updated>2023-06-05T06:21:58.736Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] CIX HYUNSUK – Save me, Kill me(씨아이엑스 현석 - 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230603방 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36657937</id>
         <link href="https://tv.naver.com/v/36657937"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/36615329"/>
         <updated>2023-06-03T11:13:30.331Z</updated>
         <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – Gesture(소년판타지 히카리 - 제스처) FanCam | Show! MusicCore | MBC230603방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36615253</id>
-        <link href="https://tv.naver.com/v/36615253"/>
-        <updated>2023-06-03T11:13:30.332Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HWANG JAEMIN – Gesture(소년판타지 황재민 - 제스처) FanCam | Show! MusicCore | MBC230603방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36615175</id>
-        <link href="https://tv.naver.com/v/36615175"/>
-        <updated>2023-06-03T11:13:30.332Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids - 특 | SBS 230604 방송 (인기가요)]]></title>
