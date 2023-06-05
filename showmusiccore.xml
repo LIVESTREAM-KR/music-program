@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-05T03:20:05.463Z</updated>
+    <updated>2023-06-05T04:20:32.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] (G)I-DLE MINNIE – Queencard((여자)아이들 민니 - 퀸카) FanCam | Show! MusicCore | MBC230603방송]]></title>
+        <id>https://tv.naver.com/v/36653364</id>
+        <link href="https://tv.naver.com/v/36653364"/>
+        <updated>2023-06-05T04:19:49.357Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] (G)I-DLE SHUHUA – Queencard((여자)아이들 슈화 - 퀸카) FanCam | Show! MusicCore | MBC230603방송]]></title>
+        <id>https://tv.naver.com/v/36653144</id>
+        <link href="https://tv.naver.com/v/36653144"/>
+        <updated>2023-06-05T04:19:49.358Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] (G)I-DLE MIYEON – Queencard((여자)아이들 미연 - 퀸카) FanCam | Show! MusicCore | MBC230603방송]]></title>
+        <id>https://tv.naver.com/v/36653143</id>
+        <link href="https://tv.naver.com/v/36653143"/>
+        <updated>2023-06-05T04:19:49.359Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] (G)I-DLE YUQI – Queencard((여자)아이들 우기 - 퀸카) FanCam | Show! MusicCore | MBC230603방송]]></title>
         <id>https://tv.naver.com/v/36652806</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/36614745"/>
         <updated>2023-06-03T10:16:09.109Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS K-SOUL – Shut Off(소년판타지 소울 - 셧 오프) FanCam | Show! MusicCore | MBC230603방송]]></title>
-        <id>https://tv.naver.com/v/36614617</id>
-        <link href="https://tv.naver.com/v/36614617"/>
-        <updated>2023-06-03T10:16:09.110Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Gesture(소년판타지 – 제스처) FanCam | Show! MusicCore | MBC230603방송]]></title>
-        <id>https://tv.naver.com/v/36614537</id>
-        <link href="https://tv.naver.com/v/36614537"/>
-        <updated>2023-06-03T10:16:09.125Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LINGQI – Shut Off(소년판타지 링치 - 셧 오프) FanCam | Show! MusicCore | MBC230603방송]]></title>
-        <id>https://tv.naver.com/v/36614466</id>
-        <link href="https://tv.naver.com/v/36614466"/>
-        <updated>2023-06-03T10:16:09.125Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
 </feed>
