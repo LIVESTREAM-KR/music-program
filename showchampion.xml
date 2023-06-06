@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-06-06T04:19:35.217Z</updated>
+    <updated>2023-06-06T05:16:40.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ASTRO MOON BIN (아스트로 문빈) - 밤하늘의 별처럼 | Show Champion | EP.435]]></title>
+        <id>https://tv.naver.com/v/36687710</id>
+        <link href="https://tv.naver.com/v/36687710"/>
+        <updated>2023-06-06T05:16:26.412Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번 주도 쇼챔피언 보는 거 잊지 말기🤙 [예고]]]></title>
         <id>https://tv.naver.com/v/36656095</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/36496696</id>
         <link href="https://tv.naver.com/v/36496696"/>
         <updated>2023-05-31T13:21:49.442Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Dreamcatcher DAMI - BONVOYAGE (드림캐쳐 다미 - 본보야지) | Show Champion | EP.477]]></title>
-        <id>https://tv.naver.com/v/36496261</id>
-        <link href="https://tv.naver.com/v/36496261"/>
-        <updated>2023-05-31T13:21:49.443Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
     </entry>
 </feed>
