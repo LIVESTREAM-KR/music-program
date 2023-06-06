@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-06T07:16:14.322Z</updated>
+    <updated>2023-06-06T08:21:08.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230602 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🎉엠카 800회🥳 피식대학에게 이번 주 엠카운트다운 라인업을 묻다 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36699207</id>
+        <link href="https://tv.naver.com/v/36699207"/>
+        <updated>2023-06-06T08:20:40.390Z</updated>
+        <content type="html"><![CDATA[01:43]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[6월 1주 1위 'ENHYPEN(엔하이픈)'의 'Bite Me' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/36664990</id>
         <link href="https://tv.naver.com/v/36664990"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/36317118"/>
         <updated>2023-05-25T12:33:15.243Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 주헌 (몬스타엑스) - 진화 (Evolution) | Mnet 230525 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36317116</id>
-        <link href="https://tv.naver.com/v/36317116"/>
-        <updated>2023-05-25T12:33:15.243Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[활기 넘치는 자유분방함, ATBO (에이티비오) 'Next to Me' (더쇼)]]></title>
