@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-06-07T10:18:32.465Z</updated>
+    <updated>2023-06-07T11:16:12.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 퍼플키스(PURPLE KISS) - Love Is Dead]]></title>
+        <id>https://tv.naver.com/v/36745042</id>
+        <link href="https://tv.naver.com/v/36745042"/>
+        <updated>2023-06-07T11:15:58.140Z</updated>
+        <content type="html"><![CDATA[07:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 씨아이엑스(CIX) - Save me, Kill me]]></title>
+        <id>https://tv.naver.com/v/36744851</id>
+        <link href="https://tv.naver.com/v/36744851"/>
+        <updated>2023-06-07T11:15:58.144Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스(CIX) - Curtain Call]]></title>
+        <id>https://tv.naver.com/v/36744516</id>
+        <link href="https://tv.naver.com/v/36744516"/>
+        <updated>2023-06-07T11:15:58.146Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카드(KARD) - ICKY]]></title>
         <id>https://tv.naver.com/v/36743485</id>
@@ -192,27 +213,6 @@
         <id>https://tv.naver.com/v/36505186</id>
         <link href="https://tv.naver.com/v/36505186"/>
         <updated>2023-05-31T13:21:49.424Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] SECRET NUMBER MINJI - DOXA (시크릿넘버 민지 - 독사) | Show Champion | EP.477]]></title>
-        <id>https://tv.naver.com/v/36504747</id>
-        <link href="https://tv.naver.com/v/36504747"/>
-        <updated>2023-05-31T13:21:49.425Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] SECRET NUMBER SOODAM - DOXA (시크릿넘버 수담 - 독사) | Show Champion | EP.477]]></title>
-        <id>https://tv.naver.com/v/36503992</id>
-        <link href="https://tv.naver.com/v/36503992"/>
-        <updated>2023-05-31T13:21:49.425Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] SECRET NUMBER LÉA - DOXA (시크릿넘버 레아 - 독사) | Show Champion | EP.477]]></title>
-        <id>https://tv.naver.com/v/36503939</id>
-        <link href="https://tv.naver.com/v/36503939"/>
-        <updated>2023-05-31T13:21:49.426Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
