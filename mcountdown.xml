@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-06-07T05:16:11.164Z</updated>
+    <updated>2023-06-07T06:21:31.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엠카 보컬 챌린지' You're my No.1✨ 엠카 보컬 챌린지 COMING SOON ❣️]]></title>
+        <id>https://tv.naver.com/v/36730994</id>
+        <link href="https://tv.naver.com/v/36730994"/>
+        <updated>2023-06-07T06:21:02.129Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎉엠카 800회🥳 피식대학에게 이번 주 엠카운트다운 라인업을 묻다]]></title>
         <id>https://tv.naver.com/v/36699207</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36425827"/>
         <updated>2023-05-29T09:16:29.949Z</updated>
         <content type="html"><![CDATA[04:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 주헌 (몬스타엑스) - FREEDOM | Mnet 230525 방송]]></title>
-        <id>https://tv.naver.com/v/36317118</id>
-        <link href="https://tv.naver.com/v/36317118"/>
-        <updated>2023-05-25T12:33:15.243Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
