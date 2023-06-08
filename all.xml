@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-08T10:18:49.250Z</updated>
+    <updated>2023-06-08T11:15:04.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230602 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,55 @@
         <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['HISTORY M' 더윈드 (The Wind) - 아낀다 (원곡：세븐틴 (SEVENTEEN)) | Mnet 230608 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36787576</id>
+        <link href="https://tv.naver.com/v/36787576"/>
+        <updated>2023-06-08T11:14:37.683Z</updated>
+        <content type="html"><![CDATA[02:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HISTORY M' ADYA (에이디야) - LATATA (원곡：(여자)아이들) | Mnet 230608 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36787551</id>
+        <link href="https://tv.naver.com/v/36787551"/>
+        <updated>2023-06-08T11:14:37.684Z</updated>
+        <content type="html"><![CDATA[02:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with THE NEW SIX (TNX) (더뉴식스) | Mnet 230608 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36787369</id>
+        <link href="https://tv.naver.com/v/36787369"/>
+        <updated>2023-06-08T11:14:37.686Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR - One and Only | Mnet 230608 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36787192</id>
+        <link href="https://tv.naver.com/v/36787192"/>
+        <updated>2023-06-08T11:14:37.688Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[800회 축하메시지 with 세븐틴(SEVENTEEN), TWICE(트와이스), 황민현, IVE, NCT DOJAEJUNG | Mnet 230608 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36787062</id>
+        <link href="https://tv.naver.com/v/36787062"/>
+        <updated>2023-06-08T11:14:37.691Z</updated>
+        <content type="html"><![CDATA[01:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키코 X 디핵 - DDU DDU LOVE♡ (With. HolyBang) | Mnet 230608 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36787059</id>
+        <link href="https://tv.naver.com/v/36787059"/>
+        <updated>2023-06-08T11:14:37.692Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 (The Wind) - ISLAND | Mnet 230608 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36786719</id>
+        <link href="https://tv.naver.com/v/36786719"/>
+        <updated>2023-06-08T11:14:37.694Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[💗800회 축하 메시지💗 with 지민, 태양, 에이핑크(Apink), BTOB (비투비), KAI(카이), 유재석 | Mnet 230608 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/36785469</id>
         <link href="https://tv.naver.com/v/36785469"/>
@@ -794,55 +843,6 @@
         <link href="https://tv.naver.com/v/36548892"/>
         <updated>2023-06-01T10:20:50.249Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with BOYNEXTDOOR (보이넥스트도어) | Mnet 230601 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36548712</id>
-        <link href="https://tv.naver.com/v/36548712"/>
-        <updated>2023-06-01T10:20:50.250Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SECRET NUMBER (시크릿넘버) - 독사 (DOXA) | Mnet 230601 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36548529</id>
-        <link href="https://tv.naver.com/v/36548529"/>
-        <updated>2023-06-01T10:20:50.251Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NINE to SIX - Don't Call Me | Mnet 230601 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36548358</id>
-        <link href="https://tv.naver.com/v/36548358"/>
-        <updated>2023-06-01T10:20:50.252Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChoCo1&2 - Fruity Loops (515 version) | Mnet 230601 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36548022</id>
-        <link href="https://tv.naver.com/v/36548022"/>
-        <updated>2023-06-01T10:20:50.254Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비(DKB) - Turning Point (Prod. 주헌 (몬스타엑스)) | Mnet 230601 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36547847</id>
-        <link href="https://tv.naver.com/v/36547847"/>
-        <updated>2023-06-01T10:20:50.254Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💗엠카운트다운 800회 축하 메시지💗 with 지민 (방탄소년단), 세븐틴 (SEVENTEEN), TWICE (트와이스), 황민현 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36466409</id>
-        <link href="https://tv.naver.com/v/36466409"/>
-        <updated>2023-05-30T11:13:38.804Z</updated>
-        <content type="html"><![CDATA[00:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💗엠카운트다운 800회 축하 메시지💗 with 유재석, 김우빈, 태양 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36466399</id>
-        <link href="https://tv.naver.com/v/36466399"/>
-        <updated>2023-05-30T11:13:38.804Z</updated>
-        <content type="html"><![CDATA[00:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
