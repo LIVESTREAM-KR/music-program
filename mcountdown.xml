@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-06-08T13:22:06.450Z</updated>
+    <updated>2023-06-08T14:15:58.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[03:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with 태용 (TAEYONG) | Mnet 230608 방송]]></title>
+        <id>https://tv.naver.com/v/36788071</id>
+        <link href="https://tv.naver.com/v/36788071"/>
+        <updated>2023-06-08T14:15:27.939Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' THE NEW SIX (TNX) - Kick It 4 Now | Mnet 230608 방송]]></title>
         <id>https://tv.naver.com/v/36787900</id>
         <link href="https://tv.naver.com/v/36787900"/>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36664990"/>
         <updated>2023-06-05T08:21:15.728Z</updated>
         <content type="html"><![CDATA[05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPOILER M' 엠카운트다운 800회 (MCD 800TH) | Mnet 230601 방송]]></title>
-        <id>https://tv.naver.com/v/36551627</id>
-        <link href="https://tv.naver.com/v/36551627"/>
-        <updated>2023-06-01T12:33:13.824Z</updated>
-        <content type="html"><![CDATA[01:28]]></content>
     </entry>
 </feed>
