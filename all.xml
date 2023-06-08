@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-08T07:16:19.462Z</updated>
+    <updated>2023-06-08T08:21:10.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[퀸카 (Queencard) - (여자)아이들 | KBS 230602 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,48 @@
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC - SPECIAL LOVE (소디엑 - 스페셜 러브) l Show Champion l EP.478 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36747635</id>
+        <link href="https://tv.naver.com/v/36747635"/>
+        <updated>2023-06-08T08:20:53.884Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NINE to SIX - Don't Call Me (나인투식스 - 돈콜미) l Show Champion l EP.478 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36747421</id>
+        <link href="https://tv.naver.com/v/36747421"/>
+        <updated>2023-06-08T08:20:53.886Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] SECRET NUMBER - DOXA (시크릿넘버 - 독사) l Show Champion l EP.478 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36747235</id>
+        <link href="https://tv.naver.com/v/36747235"/>
+        <updated>2023-06-08T08:20:53.889Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KARD - ICKY (카드 - 이끼) l Show Champion l EP.478 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36746883</id>
+        <link href="https://tv.naver.com/v/36746883"/>
+        <updated>2023-06-08T08:20:53.891Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] BLACKSWAN - Karma (블랙스완 - 카르마) l Show Champion l EP.478 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36746722</id>
+        <link href="https://tv.naver.com/v/36746722"/>
+        <updated>2023-06-08T08:20:53.894Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] CIX - Curtain Call (씨아이엑스 - 커튼콜) l Show Champion l EP.478 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36746718</id>
+        <link href="https://tv.naver.com/v/36746718"/>
+        <updated>2023-06-08T08:20:53.897Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] PURPLE KISS - Love Is Dead (퍼플키스 - 러브 이즈 데드) l Show Champion l EP.478 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/36742609</id>
         <link href="https://tv.naver.com/v/36742609"/>
@@ -1221,48 +1263,6 @@
         <link href="https://tv.naver.com/v/36743162"/>
         <updated>2023-06-07T10:18:15.617Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔티엑스(NTX) - CIRCUIT (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36743000</id>
-        <link href="https://tv.naver.com/v/36743000"/>
-        <updated>2023-06-07T10:18:15.654Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'CIX' 나!왔어✋🏻 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36742994</id>
-        <link href="https://tv.naver.com/v/36742994"/>
-        <updated>2023-06-07T10:18:15.656Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티비오(ATBO) - Next to Me (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36742805</id>
-        <link href="https://tv.naver.com/v/36742805"/>
-        <updated>2023-06-07T10:18:15.656Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나인투식스(NINE to SIX) - Don't Call Me (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36742653</id>
-        <link href="https://tv.naver.com/v/36742653"/>
-        <updated>2023-06-07T10:18:15.663Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남동현(Nam Dong Hyun) - Blind (feat.김농밀) (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36742610</id>
-        <link href="https://tv.naver.com/v/36742610"/>
-        <updated>2023-06-07T10:18:15.663Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - ISLAND (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36742430</id>
-        <link href="https://tv.naver.com/v/36742430"/>
-        <updated>2023-06-07T10:18:15.663Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 609회 〈아티스트 진성 편〉 우승자 ⭐이찬원⭐ | KBS 방송 (불후의 명곡)]]></title>
