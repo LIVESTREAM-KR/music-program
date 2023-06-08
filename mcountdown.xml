@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-06-08T12:32:19.352Z</updated>
+    <updated>2023-06-08T13:22:06.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 태용 (TAEYONG) - 샤랄라 (SHALALA) | Mnet 230608 방송]]></title>
+        <id>https://tv.naver.com/v/36790884</id>
+        <link href="https://tv.naver.com/v/36790884"/>
+        <updated>2023-06-08T13:21:39.084Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 태용 (TAEYONG) - 관둬 (GWANDO) | Mnet 230608 방송]]></title>
+        <id>https://tv.naver.com/v/36790696</id>
+        <link href="https://tv.naver.com/v/36790696"/>
+        <updated>2023-06-08T13:21:39.084Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' Stray Kids - 특 | Mnet 230608 방송]]></title>
+        <id>https://tv.naver.com/v/36790508</id>
+        <link href="https://tv.naver.com/v/36790508"/>
+        <updated>2023-06-08T13:21:39.084Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' fromis_9 (프로미스나인) - #menow | Mnet 230608 방송]]></title>
+        <id>https://tv.naver.com/v/36790308</id>
+        <link href="https://tv.naver.com/v/36790308"/>
+        <updated>2023-06-08T13:21:39.087Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' fromis_9 (프로미스나인) - Attitude | Mnet 230608 방송]]></title>
         <id>https://tv.naver.com/v/36790115</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/36551627"/>
         <updated>2023-06-01T12:33:13.824Z</updated>
         <content type="html"><![CDATA[01:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주헌 (몬스타엑스) - FREEDOM | Mnet 230601 방송]]></title>
-        <id>https://tv.naver.com/v/36551629</id>
-        <link href="https://tv.naver.com/v/36551629"/>
-        <updated>2023-06-01T12:33:13.824Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - 퀸카 (Queencard) | Mnet 230601 방송]]></title>
-        <id>https://tv.naver.com/v/36551626</id>
-        <link href="https://tv.naver.com/v/36551626"/>
-        <updated>2023-06-01T12:33:13.825Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Bite Me | Mnet 230601 방송]]></title>
-        <id>https://tv.naver.com/v/36551476</id>
-        <link href="https://tv.naver.com/v/36551476"/>
-        <updated>2023-06-01T12:33:13.831Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 조미 - Mañana (Our Drama) (Feat. 은혁) | Mnet 230601 방송]]></title>
-        <id>https://tv.naver.com/v/36551475</id>
-        <link href="https://tv.naver.com/v/36551475"/>
-        <updated>2023-06-01T12:33:13.832Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
