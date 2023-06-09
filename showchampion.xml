@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-06-09T01:44:01.886Z</updated>
+    <updated>2023-06-09T02:57:42.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6월 1주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (우아! 나나, 빌리 츠키) | Show Champion | EP.478]]></title>
+        <id>https://tv.naver.com/v/36745270</id>
+        <link href="https://tv.naver.com/v/36745270"/>
+        <updated>2023-06-09T02:57:28.300Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC - SPECIAL LOVE (소디엑 - 스페셜 러브) l Show Champion l EP.478]]></title>
         <id>https://tv.naver.com/v/36747635</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36743194"/>
         <updated>2023-06-07T10:18:15.615Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시크릿넘버(SECRET NUMBER) - DOXA(독사)]]></title>
-        <id>https://tv.naver.com/v/36743162</id>
-        <link href="https://tv.naver.com/v/36743162"/>
-        <updated>2023-06-07T10:18:15.617Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
