@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-06-10T09:16:18.328Z</updated>
+    <updated>2023-06-10T10:17:32.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선배팀vs후배팀🔥 계급장 떼고 벌어지는 진흙탕 싸움? 아나운서 대항전 특집! | KBS 230610 방송]]></title>
+        <id>https://tv.naver.com/v/36851857</id>
+        <link href="https://tv.naver.com/v/36851857"/>
+        <updated>2023-06-10T10:17:23.810Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 609회 〈아티스트 진성 편〉 우승자 ⭐이찬원⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/36616976</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36589460"/>
         <updated>2023-06-03T12:30:45.665Z</updated>
         <content type="html"><![CDATA[05:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[티저]불후 록페 in 울산🤟 잔나비가 소개하는 초호화 라인업🔥 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/36588891</id>
-        <link href="https://tv.naver.com/v/36588891"/>
-        <updated>2023-06-02T10:18:21.713Z</updated>
-        <content type="html"><![CDATA[01:04]]></content>
     </entry>
 </feed>
