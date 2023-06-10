@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-06-10T12:28:56.351Z</updated>
+    <updated>2023-06-10T13:18:38.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] ❤️2023 힘내라 제복의 영웅들❤️ 영웅들의 마음을 훔칠 트로피의 주인은? | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/36855014</id>
+        <link href="https://tv.naver.com/v/36855014"/>
+        <updated>2023-06-10T13:18:30.641Z</updated>
+        <content type="html"><![CDATA[00:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※결과 확인※ 선배팀 vs 후배팀 명곡판정단의 마지막 선택! 결과는 과연?! | KBS 230610 방송]]></title>
+        <id>https://tv.naver.com/v/36854784</id>
+        <link href="https://tv.naver.com/v/36854784"/>
+        <updated>2023-06-10T13:18:30.642Z</updated>
+        <content type="html"><![CDATA[01:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이규봉&이영호&이광용 - 가리워진 길  | KBS 230610 방송]]></title>
         <id>https://tv.naver.com/v/36854138</id>
@@ -25,6 +39,13 @@
         <link href="https://tv.naver.com/v/36854063"/>
         <updated>2023-06-10T12:28:48.845Z</updated>
         <content type="html"><![CDATA[01:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 610회〈2023 KBS 아나운서 선후배 대항전〉⭐아나운서 선배팀⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/36853783</id>
+        <link href="https://tv.naver.com/v/36853783"/>
+        <updated>2023-06-10T13:18:30.645Z</updated>
+        <content type="html"><![CDATA[00:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[임지웅&김진현 -사랑했지만 | KBS 230610 방송]]></title>
@@ -67,6 +88,13 @@
         <link href="https://tv.naver.com/v/36853390"/>
         <updated>2023-06-10T12:28:48.859Z</updated>
         <content type="html"><![CDATA[05:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후배팀의 선전포고! 46기 김진웅&이윤정&이광엽의 강렬한 도발🔥 오늘의 선곡은? | KBS 230610 방송]]></title>
+        <id>https://tv.naver.com/v/36853367</id>
+        <link href="https://tv.naver.com/v/36853367"/>
+        <updated>2023-06-10T13:18:30.649Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포레스텔라 아닌 아나스텔라⭐️ 각자 포지션은? & 이광용 아나운서의 어미 올리기 | KBS 230610 방송]]></title>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/36616037"/>
         <updated>2023-06-03T12:30:45.634Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 📺️아나운서 특집📺️ 선후배 간 계급장 떼고 벌이는 대결! 놓치지 마세요❤‍🔥 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/36616019</id>
-        <link href="https://tv.naver.com/v/36616019"/>
-        <updated>2023-06-03T12:30:45.634Z</updated>
-        <content type="html"><![CDATA[00:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양지은 - 가지마 | KBS 230603 방송]]></title>
-        <id>https://tv.naver.com/v/36616014</id>
-        <link href="https://tv.naver.com/v/36616014"/>
-        <updated>2023-06-03T12:30:45.634Z</updated>
-        <content type="html"><![CDATA[05:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양지은의 숨겨놓은 끼 대방출! 소름을 부르는 우승 의지가🔥 느껴졌던 무대  | KBS 230603 방송]]></title>
-        <id>https://tv.naver.com/v/36615939</id>
-        <link href="https://tv.naver.com/v/36615939"/>
-        <updated>2023-06-03T12:30:45.634Z</updated>
-        <content type="html"><![CDATA[01:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※토크대기실 기립분개🤣※ 가창력&퍼포먼스&감동 삼위일체를 보여준 이찬원의 무대 | KBS 230603 방송]]></title>
-        <id>https://tv.naver.com/v/36615838</id>
-        <link href="https://tv.naver.com/v/36615838"/>
-        <updated>2023-06-03T12:30:45.634Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
     </entry>
 </feed>
