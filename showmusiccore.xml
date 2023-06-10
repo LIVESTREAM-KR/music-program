@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-10T10:17:32.572Z</updated>
+    <updated>2023-06-10T11:14:39.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] CIX - Save me, Kill me(씨아이엑스 – 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230610방송]]></title>
+        <id>https://tv.naver.com/v/36852411</id>
+        <link href="https://tv.naver.com/v/36852411"/>
+        <updated>2023-06-10T11:13:57.536Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NINE to SIX - Don’t Call Me(나인투식스 – 돈 콜 미) FanCam | Show! MusicCore | MBC230610방송]]></title>
+        <id>https://tv.naver.com/v/36852391</id>
+        <link href="https://tv.naver.com/v/36852391"/>
+        <updated>2023-06-10T11:13:57.536Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] P1Harmony - More Than Words(피원하모니 – 모어 댄 워즈) FanCam | Show! MusicCore | MBC230610방송]]></title>
+        <id>https://tv.naver.com/v/36852283</id>
+        <link href="https://tv.naver.com/v/36852283"/>
+        <updated>2023-06-10T11:13:57.536Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] AB6IX - LOSER(에이비식스 – 루저) FanCam | Show! MusicCore | MBC230610방송]]></title>
+        <id>https://tv.naver.com/v/36852200</id>
+        <link href="https://tv.naver.com/v/36852200"/>
+        <updated>2023-06-10T11:13:57.544Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATBO - BOUNCE(에이티비오 – 바운스) FanCam | Show! MusicCore | MBC230610방송]]></title>
+        <id>https://tv.naver.com/v/36852084</id>
+        <link href="https://tv.naver.com/v/36852084"/>
+        <updated>2023-06-10T11:13:57.544Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] AB6IX LEE DAE HWI – LOSER(에이비식스 이대휘 - 루저) FanCam | Show! MusicCore | MBC230610방송]]></title>
+        <id>https://tv.naver.com/v/36851957</id>
+        <link href="https://tv.naver.com/v/36851957"/>
+        <updated>2023-06-10T11:13:57.545Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] AB6IX PARK WOO JIN – LOSER(에이비식스 박우진 - 루저) FanCam | Show! MusicCore | MBC230610방송]]></title>
         <id>https://tv.naver.com/v/36851762</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/36848504"/>
         <updated>2023-06-10T08:19:08.322Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이비식스 - 루저 (AB6IX - LOSER), MBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/36848147</id>
-        <link href="https://tv.naver.com/v/36848147"/>
-        <updated>2023-06-10T08:19:08.323Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이비식스 - 블레이즈 (AB6IX - BLAZE), MBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/36848130</id>
-        <link href="https://tv.naver.com/v/36848130"/>
-        <updated>2023-06-10T08:19:08.325Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피원하모니 - 점프 (P1Harmony - JUMP), MBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/36848129</id>
-        <link href="https://tv.naver.com/v/36848129"/>
-        <updated>2023-06-10T08:19:08.325Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피원하모니 - 모어 댄 워즈 (P1Harmony - More Than Words), MBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/36848029</id>
-        <link href="https://tv.naver.com/v/36848029"/>
-        <updated>2023-06-10T08:19:08.326Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티비오 - 바운스 (ATBO - BOUNCE), MBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/36847822</id>
-        <link href="https://tv.naver.com/v/36847822"/>
-        <updated>2023-06-10T07:13:53.284Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티비오 - 넥스트 투 미 (ATBO - Next to Me), MBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/36847690</id>
-        <link href="https://tv.naver.com/v/36847690"/>
-        <updated>2023-06-10T07:13:53.288Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
