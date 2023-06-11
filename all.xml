@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-11T11:13:33.817Z</updated>
+    <updated>2023-06-11T12:30:26.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[특 - Stray Kids (스트레이 키즈) | KBS 230609 방송 (뮤직뱅크)]]></title>
@@ -1482,18 +1482,18 @@
         <content type="html"><![CDATA[00:31]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['대게 친절한 사장님'의 정체는 크리에이터 밥굽남!, MBC 230611 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/36875503</id>
-        <link href="https://tv.naver.com/v/36875503"/>
-        <updated>2023-06-11T11:13:33.112Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[(여자)아이들의 '퀸카' 춤을 선보이는 '레게 잘하는 누나' 알쏭달쏭 한 춤사위?!, MBC 230611 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/36875502</id>
         <link href="https://tv.naver.com/v/36875502"/>
         <updated>2023-06-11T11:13:33.115Z</updated>
         <content type="html"><![CDATA[01:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대게 친절한 사장님'의 정체는 크리에이터 밥굽남!, MBC 230611 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/36875503</id>
+        <link href="https://tv.naver.com/v/36875503"/>
+        <updated>2023-06-11T11:13:33.112Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['대게 친절한 사장님'의 지인 영상 힌트 😊 영상에 등장한 박세리?! ＂공통점이 되게 많아요＂, MBC 230611 방송 (복면가왕)]]></title>
