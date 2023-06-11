@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-06-11T07:15:03.731Z</updated>
+    <updated>2023-06-11T08:20:12.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송]]></title>
+        <id>https://tv.naver.com/v/36870708</id>
+        <link href="https://tv.naver.com/v/36870708"/>
+        <updated>2023-06-11T08:19:37.270Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태용 - 관둬(GWANDO) | SBS 230611 방송]]></title>
+        <id>https://tv.naver.com/v/36870565</id>
+        <link href="https://tv.naver.com/v/36870565"/>
+        <updated>2023-06-11T08:19:37.303Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로미스나인(fromis_9) - #menow | SBS 230611 방송]]></title>
+        <id>https://tv.naver.com/v/36870295</id>
+        <link href="https://tv.naver.com/v/36870295"/>
+        <updated>2023-06-11T08:19:37.305Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids - 특 | SBS 230611 방송]]></title>
+        <id>https://tv.naver.com/v/36870192</id>
+        <link href="https://tv.naver.com/v/36870192"/>
+        <updated>2023-06-11T08:19:37.313Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX(에이비식스) - LOSER | SBS 230611 방송]]></title>
         <id>https://tv.naver.com/v/36870004</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/36631359"/>
         <updated>2023-06-04T08:18:43.655Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비(DKB) - Turning Point (Prod. 주헌(몬스타엑스)) | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36631174</id>
-        <link href="https://tv.naver.com/v/36631174"/>
-        <updated>2023-06-04T08:18:43.656Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE - WATERFALL | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36631153</id>
-        <link href="https://tv.naver.com/v/36631153"/>
-        <updated>2023-06-04T07:15:05.868Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Bubble | SBS 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36630828</id>
-        <link href="https://tv.naver.com/v/36630828"/>
-        <updated>2023-06-04T07:15:05.868Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Bite Me | SBS 230528 방송]]></title>
-        <id>https://tv.naver.com/v/36397086</id>
-        <link href="https://tv.naver.com/v/36397086"/>
-        <updated>2023-05-28T08:19:10.596Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
 </feed>
