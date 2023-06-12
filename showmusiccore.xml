@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-12T01:43:28.181Z</updated>
+    <updated>2023-06-12T02:56:16.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TAEYONG - SHALALA(태용 – 샤랄라) Close-up Cam | Show! MusicCore | MBC230610방송]]></title>
+        <id>https://tv.naver.com/v/36889629</id>
+        <link href="https://tv.naver.com/v/36889629"/>
+        <updated>2023-06-12T02:55:33.432Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] CIX - Save me, Kill me(씨아이엑스 – 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230610방송]]></title>
         <id>https://tv.naver.com/v/36852411</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36848543"/>
         <updated>2023-06-10T08:19:08.322Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨아이엑스 - 세이브 미, 킬 미 (CIX - Save me, Kill me), MBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/36848504</id>
-        <link href="https://tv.naver.com/v/36848504"/>
-        <updated>2023-06-10T08:19:08.322Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
