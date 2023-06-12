@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-12T05:16:52.225Z</updated>
+    <updated>2023-06-12T06:23:13.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[특 - Stray Kids (스트레이 키즈) | KBS 230609 방송 (뮤직뱅크)]]></title>
@@ -26,7 +26,7 @@
         <content type="html"><![CDATA[03:50]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[menow - fromis_9 (프로미스나인) | KBS 230609 방송 (뮤직뱅크)]]></title>
+        <title type="html"><![CDATA[＃menow - fromis_9 (프로미스나인) | KBS 230609 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/36825699</id>
         <link href="https://tv.naver.com/v/36825699"/>
         <updated>2023-06-09T10:17:20.401Z</updated>
@@ -213,6 +213,20 @@
         <link href="https://tv.naver.com/v/36587106"/>
         <updated>2023-06-02T09:16:28.516Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TAEYONG - GWANDO(태용 – 관둬) Close-up Cam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36898880</id>
+        <link href="https://tv.naver.com/v/36898880"/>
+        <updated>2023-06-12T06:22:25.255Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 6월 둘째 주 음악중심 MC 컷 모음!, MBC 230610 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36898579</id>
+        <link href="https://tv.naver.com/v/36898579"/>
+        <updated>2023-06-12T06:22:25.256Z</updated>
+        <content type="html"><![CDATA[14:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TAEYONG - SHALALA(태용 – 샤랄라) Close-up Cam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/36849035"/>
         <updated>2023-06-10T08:19:08.321Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태용 - 샤랄라 (TAEYONG - SHALALA), MBC 230610 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36848653</id>
-        <link href="https://tv.naver.com/v/36848653"/>
-        <updated>2023-06-10T08:19:08.321Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태용 - 관둬 (TAEYONG - GWANDO), MBC 230610 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36848543</id>
-        <link href="https://tv.naver.com/v/36848543"/>
-        <updated>2023-06-10T08:19:08.322Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송 (인기가요)]]></title>
