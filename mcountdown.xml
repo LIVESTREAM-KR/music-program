@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-06-12T09:17:59.309Z</updated>
+    <updated>2023-06-12T10:19:25.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6월 2주 1위 'Stray Kids'의 '특' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/36907969</id>
+        <link href="https://tv.naver.com/v/36907969"/>
+        <updated>2023-06-12T10:18:57.127Z</updated>
+        <content type="html"><![CDATA[07:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 태용 (TAEYONG) - 샤랄라 (SHALALA) | Mnet 230608 방송]]></title>
         <id>https://tv.naver.com/v/36790884</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36699207"/>
         <updated>2023-06-06T08:20:40.390Z</updated>
         <content type="html"><![CDATA[01:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 1주 1위 'ENHYPEN(엔하이픈)'의 'Bite Me' 앵콜 무대! (Full ver.)]]></title>
-        <id>https://tv.naver.com/v/36664990</id>
-        <link href="https://tv.naver.com/v/36664990"/>
-        <updated>2023-06-05T08:21:15.728Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
     </entry>
 </feed>

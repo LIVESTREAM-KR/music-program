@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-12T09:17:59.287Z</updated>
+    <updated>2023-06-12T10:19:25.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[특 - Stray Kids (스트레이 키즈) | KBS 230609 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] CIX HYUNSUK - Save me, Kill me(현석 – 세이브 미, 킬 미) Close-up Cam | Show! MusicCore | MBC230610방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36906792</id>
+        <link href="https://tv.naver.com/v/36906792"/>
+        <updated>2023-06-12T10:18:42.289Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] Stray Kids I.N - S-Class(스트레이 키즈 아이엔 - 특) Close-up Cam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36906642</id>
         <link href="https://tv.naver.com/v/36906642"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/36850377"/>
         <updated>2023-06-10T09:15:34.079Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] P1Harmony - JUMP(피원하모니 – 점프) FanCam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36850281</id>
-        <link href="https://tv.naver.com/v/36850281"/>
-        <updated>2023-06-10T09:15:34.079Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송 (인기가요)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[6월 2주 1위 'Stray Kids'의 '특' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/36907969</id>
+        <link href="https://tv.naver.com/v/36907969"/>
+        <updated>2023-06-12T10:18:57.127Z</updated>
+        <content type="html"><![CDATA[07:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 태용 (TAEYONG) - 샤랄라 (SHALALA) | Mnet 230608 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/36790884</id>
         <link href="https://tv.naver.com/v/36790884"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/36699207"/>
         <updated>2023-06-06T08:20:40.390Z</updated>
         <content type="html"><![CDATA[01:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 1주 1위 'ENHYPEN(엔하이픈)'의 'Bite Me' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36664990</id>
-        <link href="https://tv.naver.com/v/36664990"/>
-        <updated>2023-06-05T08:21:15.728Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>

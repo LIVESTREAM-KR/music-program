@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-12T09:17:59.270Z</updated>
+    <updated>2023-06-12T10:19:25.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] CIX HYUNSUK - Save me, Kill me(현석 – 세이브 미, 킬 미) Close-up Cam | Show! MusicCore | MBC230610방]]></title>
+        <id>https://tv.naver.com/v/36906792</id>
+        <link href="https://tv.naver.com/v/36906792"/>
+        <updated>2023-06-12T10:18:42.289Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Stray Kids I.N - S-Class(스트레이 키즈 아이엔 - 특) Close-up Cam | Show! MusicCore | MBC230610방송]]></title>
         <id>https://tv.naver.com/v/36906642</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36850377"/>
         <updated>2023-06-10T09:15:34.079Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] P1Harmony - JUMP(피원하모니 – 점프) FanCam | Show! MusicCore | MBC230610방송]]></title>
-        <id>https://tv.naver.com/v/36850281</id>
-        <link href="https://tv.naver.com/v/36850281"/>
-        <updated>2023-06-10T09:15:34.079Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
