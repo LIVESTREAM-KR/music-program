@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-06-14T10:18:02.906Z</updated>
+    <updated>2023-06-14T11:14:18.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프로미스나인(fromis_9) - Attitude]]></title>
+        <id>https://tv.naver.com/v/36992433</id>
+        <link href="https://tv.naver.com/v/36992433"/>
+        <updated>2023-06-14T11:14:03.757Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엔딩원샷] 씨아이엑스(CIX) - Save me, Kill me]]></title>
+        <id>https://tv.naver.com/v/36992432</id>
+        <link href="https://tv.naver.com/v/36992432"/>
+        <updated>2023-06-14T11:14:03.769Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 프로미스나인(fromis_9) - #menow]]></title>
+        <id>https://tv.naver.com/v/36992256</id>
+        <link href="https://tv.naver.com/v/36992256"/>
+        <updated>2023-06-14T11:14:03.770Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엔딩원샷] 러블리 큐피트로 변신💘 CIX 엔딩요정 주인공은 과연 누구?]]></title>
         <id>https://tv.naver.com/v/36991416</id>
@@ -192,27 +213,6 @@
         <id>https://tv.naver.com/v/36741833</id>
         <link href="https://tv.naver.com/v/36741833"/>
         <updated>2023-06-07T13:22:15.722Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] PURPLE KISS CHAEIN - Love Is Dead (퍼플키스 채인 - 러브 이즈 데드) | Show Champion | EP.478]]></title>
-        <id>https://tv.naver.com/v/36741623</id>
-        <link href="https://tv.naver.com/v/36741623"/>
-        <updated>2023-06-07T13:22:15.723Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] PURPLE KISS DOSIE - Love Is Dead (퍼플키스 도시 - 러브 이즈 데드) | Show Champion | EP.478]]></title>
-        <id>https://tv.naver.com/v/36741480</id>
-        <link href="https://tv.naver.com/v/36741480"/>
-        <updated>2023-06-07T13:22:15.726Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] PURPLE KISS IREH - Love Is Dead (퍼플키스 이레 - 러브 이즈 데드) | Show Champion | EP.478]]></title>
-        <id>https://tv.naver.com/v/36740846</id>
-        <link href="https://tv.naver.com/v/36740846"/>
-        <updated>2023-06-07T13:22:15.727Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
