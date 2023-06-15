@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-15T07:16:23.968Z</updated>
+    <updated>2023-06-15T08:20:48.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[특 - Stray Kids (스트레이 키즈) | KBS 230609 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids.zip 📂 District 9부터 S-Class(특)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/36992056</id>
+        <link href="https://tv.naver.com/v/36992056"/>
+        <updated>2023-06-15T08:20:04.462Z</updated>
+        <content type="html"><![CDATA[01:17:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] CIX HYUNSUK - Save me, Kill me(현석 – 세이브 미, 킬 미) Close-up Cam | Show! MusicCore | MBC230610방 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/36906792</id>
         <link href="https://tv.naver.com/v/36906792"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/36850591"/>
         <updated>2023-06-10T09:15:34.079Z</updated>
         <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] P1Harmony THEO – JUMP(피원하모니 테오 - 점프) FanCam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36850377</id>
-        <link href="https://tv.naver.com/v/36850377"/>
-        <updated>2023-06-10T09:15:34.079Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송 (인기가요)]]></title>
@@ -1055,6 +1055,41 @@
         <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] VAV - Designer (브이에이브이 - 디자이너) l Show Champion l EP.479 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36995021</id>
+        <link href="https://tv.naver.com/v/36995021"/>
+        <updated>2023-06-15T08:20:33.740Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] SECRET NUMBER - DOXA (시크릿넘버 - 독사) l Show Champion l EP.479 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36995020</id>
+        <link href="https://tv.naver.com/v/36995020"/>
+        <updated>2023-06-15T08:20:33.745Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NINE to SIX - Don't Call Me (나인투식스 - 돈콜미) l Show Champion l EP.479 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36995016</id>
+        <link href="https://tv.naver.com/v/36995016"/>
+        <updated>2023-06-15T08:20:33.745Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] fromis_9 - Attitude (프로미스나인 - 에티튜드) l Show Champion l EP.479 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36994668</id>
+        <link href="https://tv.naver.com/v/36994668"/>
+        <updated>2023-06-15T08:20:33.745Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] DALsooobin - TANAKA SAN (달수빈 - 다나카상) l Show Champion l EP.479 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/36994469</id>
+        <link href="https://tv.naver.com/v/36994469"/>
+        <updated>2023-06-15T08:20:33.746Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony INTAK - JUMP (피원하모니 인탁 - 점프) | Show Champion | EP.479 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/36994239</id>
         <link href="https://tv.naver.com/v/36994239"/>
@@ -1228,41 +1263,6 @@
         <link href="https://tv.naver.com/v/36986450"/>
         <updated>2023-06-14T13:20:37.829Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] THE NEW SIX (TNX) HWI - Kick It 4 Now (더 뉴 식스 은휘 - 킥 잇 포 나우) | Show Champion | EP.479 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36986385</id>
-        <link href="https://tv.naver.com/v/36986385"/>
-        <updated>2023-06-14T13:20:37.830Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] THE NEW SIX (TNX) TAE HUN - Kick It 4 Now (더 뉴 식스 최태훈 - 킥 잇 포 나우) | Show Champion | EP.47 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36985662</id>
-        <link href="https://tv.naver.com/v/36985662"/>
-        <updated>2023-06-14T13:20:37.832Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] THE NEW SIX (TNX) SUNG JUN - Kick It 4 Now (더 뉴 식스 오성준 - 킥 잇 포 나우) | Show Champion EP.479 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36985402</id>
-        <link href="https://tv.naver.com/v/36985402"/>
-        <updated>2023-06-14T13:20:37.834Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] THE NEW SIX (TNX) - Kick It 4 Now (더 뉴 식스 - 킥 잇 포 나우) | Show Champion | EP.479 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36977619</id>
-        <link href="https://tv.naver.com/v/36977619"/>
-        <updated>2023-06-14T13:20:37.836Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로미스나인(fromis_9) - Attitude (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/36992433</id>
-        <link href="https://tv.naver.com/v/36992433"/>
-        <updated>2023-06-14T11:14:03.757Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] ❤️2023 힘내라 제복의 영웅들❤️ 영웅들의 마음을 훔칠 트로피의 주인은? | KBS 방송 (불후의 명곡)]]></title>
