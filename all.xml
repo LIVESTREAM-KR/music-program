@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-16T08:21:27.077Z</updated>
+    <updated>2023-06-16T09:16:27.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Kick It 4 Now - THE NEW SIX (TNX) | KBS 230616 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37070748</id>
+        <link href="https://tv.naver.com/v/37070748"/>
+        <updated>2023-06-16T09:15:39.349Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One and Only - BOYNEXTDOOR | KBS 230616 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37070597</id>
+        <link href="https://tv.naver.com/v/37070597"/>
+        <updated>2023-06-16T09:15:39.351Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wild Heart - LUN8(루네이트) | KBS 230616 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37070579</id>
+        <link href="https://tv.naver.com/v/37070579"/>
+        <updated>2023-06-16T09:15:39.352Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비행구름 - 백예빈 | KBS 230616 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37070577</id>
+        <link href="https://tv.naver.com/v/37070577"/>
+        <updated>2023-06-16T09:15:39.369Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don‘t Call Me - NINE to SIX | KBS 230616 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37070181</id>
+        <link href="https://tv.naver.com/v/37070181"/>
+        <updated>2023-06-16T09:15:39.369Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karma - BLACKSWAN | KBS 230616 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37069653</id>
+        <link href="https://tv.naver.com/v/37069653"/>
+        <updated>2023-06-16T09:15:39.369Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luv Myself - 박로시 | KBS 230616 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/37069415</id>
+        <link href="https://tv.naver.com/v/37069415"/>
+        <updated>2023-06-16T09:15:39.371Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[특 - Stray Kids (스트레이 키즈) | KBS 230609 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/36826087</id>
@@ -164,55 +213,6 @@
         <link href="https://tv.naver.com/v/36588485"/>
         <updated>2023-06-02T10:17:41.229Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICKY - KARD | KBS 230602 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36588118</id>
-        <link href="https://tv.naver.com/v/36588118"/>
-        <updated>2023-06-02T10:17:41.229Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crazy Like That - VERIVERY | KBS 230602 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36588115</id>
-        <link href="https://tv.naver.com/v/36588115"/>
-        <updated>2023-06-02T10:17:41.229Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save me, Kill me - CIX(씨아이엑스) | KBS 230602 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36587781</id>
-        <link href="https://tv.naver.com/v/36587781"/>
-        <updated>2023-06-02T09:16:28.515Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One and Only - BOYNEXTDOOR | KBS 230602 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36587564</id>
-        <link href="https://tv.naver.com/v/36587564"/>
-        <updated>2023-06-02T09:16:28.516Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌아버리겠다 - BOYNEXTDOOR | KBS 230602 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36587327</id>
-        <link href="https://tv.naver.com/v/36587327"/>
-        <updated>2023-06-02T09:16:28.516Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning Point (Prod. 주헌 (몬스타엑스)) - 다크비(DKB) | KBS 230602 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36587153</id>
-        <link href="https://tv.naver.com/v/36587153"/>
-        <updated>2023-06-02T09:16:28.516Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WATERFALL - YOUNITE | KBS 230602 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/36587106</id>
-        <link href="https://tv.naver.com/v/36587106"/>
-        <updated>2023-06-02T09:16:28.516Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] (G)I-DLE – Queencard((여자)아이들 - 퀸카) | Show! Music Core (쇼! 음악중심)]]></title>
