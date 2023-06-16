@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-16T07:15:57.102Z</updated>
+    <updated>2023-06-16T08:21:27.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] (G)I-DLE – Queencard((여자)아이들 - 퀸카) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/37066021</id>
+        <link href="https://tv.naver.com/v/37066021"/>
+        <updated>2023-06-16T08:20:42.259Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Stray Kids.zip 📂 District 9부터 S-Class(특)까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/36992056</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36850611"/>
         <updated>2023-06-10T09:15:34.079Z</updated>
         <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids - S-Class(스트레이 키즈 – 특) FanCam | Show! MusicCore | MBC230610방송]]></title>
-        <id>https://tv.naver.com/v/36850591</id>
-        <link href="https://tv.naver.com/v/36850591"/>
-        <updated>2023-06-10T09:15:34.079Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
     </entry>
 </feed>
