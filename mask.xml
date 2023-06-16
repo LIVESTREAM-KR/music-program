@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-06-16T09:16:27.702Z</updated>
+    <updated>2023-06-16T10:18:53.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 한도 없는 매력 부자! 미래소년 손동표!, MBC 230611 방송]]></title>
+        <id>https://tv.naver.com/v/37071250</id>
+        <link href="https://tv.naver.com/v/37071250"/>
+        <updated>2023-06-16T10:18:53.132Z</updated>
+        <content type="html"><![CDATA[12:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 향수를 자극하는 목소리! 둘리 OST의 주인공, 가수 오승원!, MBC 230611 방송]]></title>
+        <id>https://tv.naver.com/v/37071220</id>
+        <link href="https://tv.naver.com/v/37071220"/>
+        <updated>2023-06-16T10:18:53.135Z</updated>
+        <content type="html"><![CDATA[12:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜과연 가왕의 자리로 올라올 단 한 명은?＞ 복면가왕 409회 예고, MBC 230618 방송]]></title>
         <id>https://tv.naver.com/v/36875855</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/36634681"/>
         <updated>2023-06-04T10:17:05.427Z</updated>
         <content type="html"><![CDATA[01:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어머! 이건 사야 해!😍 '노래 달인'의 ＜홈쇼핑 광고 성우 성대모사＞ 개인기🌟, MBC 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36634598</id>
-        <link href="https://tv.naver.com/v/36634598"/>
-        <updated>2023-06-04T10:17:05.428Z</updated>
-        <content type="html"><![CDATA[02:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노래 달인' 2라운드 무대 - 365일, MBC 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36634396</id>
-        <link href="https://tv.naver.com/v/36634396"/>
-        <updated>2023-06-04T10:17:05.429Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
