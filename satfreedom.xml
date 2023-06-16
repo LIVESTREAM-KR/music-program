@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-06-16T11:14:14.103Z</updated>
+    <updated>2023-06-16T12:33:12.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넘치는 패기의 신인 The New Six의 올타임 레전드 K팝 메들리 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/37075333</id>
+        <link href="https://tv.naver.com/v/37075333"/>
+        <updated>2023-06-16T12:33:03.975Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불후에 로이킴 강림! 한순간에 토크대기실을 드라마 현장으로 만들어버린 민우혁 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/37075296</id>
+        <link href="https://tv.naver.com/v/37075296"/>
+        <updated>2023-06-16T12:33:03.980Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] ❤️2023 힘내라 제복의 영웅들❤️ 영웅들의 마음을 훔칠 트로피의 주인은? | KBS 방송]]></title>
         <id>https://tv.naver.com/v/36855014</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/36825695"/>
         <updated>2023-06-10T12:28:48.881Z</updated>
         <content type="html"><![CDATA[04:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 609회 〈아티스트 진성 편〉 우승자 ⭐이찬원⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/36616976</id>
-        <link href="https://tv.naver.com/v/36616976"/>
-        <updated>2023-06-03T12:30:45.632Z</updated>
-        <content type="html"><![CDATA[01:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※결과 확인※ 이찬원 vs 양지은 명곡판정단의 마지막 선택! 결과는 과연?! | KBS 230603 방송]]></title>
-        <id>https://tv.naver.com/v/36616037</id>
-        <link href="https://tv.naver.com/v/36616037"/>
-        <updated>2023-06-03T12:30:45.634Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
 </feed>
