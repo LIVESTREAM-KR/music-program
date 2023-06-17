@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-17T11:14:36.426Z</updated>
+    <updated>2023-06-17T12:29:35.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[샤랄라 (SHALALA) - 태용 (TAEYONG) | KBS 230616 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,41 @@
         <content type="html"><![CDATA[02:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Blackswan - Karma(블랙스완 – 카르마) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37098182</id>
+        <link href="https://tv.naver.com/v/37098182"/>
+        <updated>2023-06-17T12:28:58.266Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SECRET NUMBER - DOXA(시크릿 넘버 – 독사) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37098074</id>
+        <link href="https://tv.naver.com/v/37098074"/>
+        <updated>2023-06-17T12:28:58.266Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SECRET NUMBER DITA – DOXA(시크릿 넘버 디타 - 독사) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37097979</id>
+        <link href="https://tv.naver.com/v/37097979"/>
+        <updated>2023-06-17T12:28:58.266Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Blackswan GABI – Karma(블랙스완 가비 - 카르마) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37097961</id>
+        <link href="https://tv.naver.com/v/37097961"/>
+        <updated>2023-06-17T12:28:58.266Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Gesture(판타지 보이즈 – 제스처) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37097842</id>
+        <link href="https://tv.naver.com/v/37097842"/>
+        <updated>2023-06-17T12:28:58.268Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] DKB - I Need Love(다크비 – 아이 니드 러브) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37097643</id>
         <link href="https://tv.naver.com/v/37097643"/>
@@ -388,41 +423,6 @@
         <link href="https://tv.naver.com/v/37095554"/>
         <updated>2023-06-17T10:16:09.337Z</updated>
         <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEYONG – SHALALA(태용 - 샤랄라) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37095370</id>
-        <link href="https://tv.naver.com/v/37095370"/>
-        <updated>2023-06-17T10:16:09.338Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ WOOYOUNG - BOUNCY(에이티즈 우영 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37095369</id>
-        <link href="https://tv.naver.com/v/37095369"/>
-        <updated>2023-06-17T10:16:09.338Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ JONGHO - BOUNCY(에이티즈 종호 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37095095</id>
-        <link href="https://tv.naver.com/v/37095095"/>
-        <updated>2023-06-17T09:14:55.214Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ YUNHO - BOUNCY(에이티즈 윤호 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37094953</id>
-        <link href="https://tv.naver.com/v/37094953"/>
-        <updated>2023-06-17T09:14:55.216Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ YEOSANG - BOUNCY(에이티즈 여상 - 바운시) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37094843</id>
-        <link href="https://tv.naver.com/v/37094843"/>
-        <updated>2023-06-17T09:14:55.217Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송 (인기가요)]]></title>
@@ -1265,6 +1265,55 @@
         <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 611회 〈2023 힘내라 제복의 영웅들!〉 우승자 ⭐에이티즈⭐ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/37098836</id>
+        <link href="https://tv.naver.com/v/37098836"/>
+        <updated>2023-06-17T12:29:28.721Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※결과 확인※ 에이티즈 vs THE NEW SIX 명곡판정단의 마지막 선택은? | KBS 230617 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/37098327</id>
+        <link href="https://tv.naver.com/v/37098327"/>
+        <updated>2023-06-17T12:29:28.721Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] 당신에게 마지막 무대가 주어진다면? 🎙️불후의 명곡 The Last Song 🎙️ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/37098325</id>
+        <link href="https://tv.naver.com/v/37098325"/>
+        <updated>2023-06-17T12:29:28.721Z</updated>
+        <content type="html"><![CDATA[00:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[믿기지 않는 실력🎇 에너지를 불태웠던 THE NEW SIX(TNX)의 무대! | KBS 230617 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/37098209</id>
+        <link href="https://tv.naver.com/v/37098209"/>
+        <updated>2023-06-17T12:29:28.721Z</updated>
+        <content type="html"><![CDATA[01:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE NEW SIX(TNX) - 붉은 노을 | KBS 230617 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/37098183</id>
+        <link href="https://tv.naver.com/v/37098183"/>
+        <updated>2023-06-17T12:29:28.722Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감동의 물결🌊 저절로 기립하게 만들었던 민우혁의 무대! | KBS 230617 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/37098088</id>
+        <link href="https://tv.naver.com/v/37098088"/>
+        <updated>2023-06-17T12:29:28.724Z</updated>
+        <content type="html"><![CDATA[01:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민우혁 - 별빛 같은 나의 사랑아 | KBS 230617 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/37098075</id>
+        <link href="https://tv.naver.com/v/37098075"/>
+        <updated>2023-06-17T12:29:28.725Z</updated>
+        <content type="html"><![CDATA[05:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지금은 에이티즈 시대✨ 퍼포먼스로 영웅의 기세를 보여줬던 에이티즈의 무대! | KBS 230617 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/37097963</id>
         <link href="https://tv.naver.com/v/37097963"/>
@@ -1424,55 +1473,6 @@
         <link href="https://tv.naver.com/v/36853783"/>
         <updated>2023-06-10T13:18:30.645Z</updated>
         <content type="html"><![CDATA[00:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임지웅&김진현 -사랑했지만 | KBS 230610 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36853618</id>
-        <link href="https://tv.naver.com/v/36853618"/>
-        <updated>2023-06-10T12:28:48.846Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이승연&김보민 - 나팔바지 | KBS 230610 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36853601</id>
-        <link href="https://tv.naver.com/v/36853601"/>
-        <updated>2023-06-10T12:28:48.849Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※자동기립※ 노래 한 곡을 위해 견딘 이규봉&이영호&이광용의 아나운서 생활🤣 | KBS 230610 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36853535</id>
-        <link href="https://tv.naver.com/v/36853535"/>
-        <updated>2023-06-10T12:28:48.850Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댄스를 글로 배우다(?)💃💃 이승연&김보민 흥이 넘치는 무대 예열 중! | KBS 230610 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36853520</id>
-        <link href="https://tv.naver.com/v/36853520"/>
-        <updated>2023-06-10T12:28:48.851Z</updated>
-        <content type="html"><![CDATA[01:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울대 성악과의 가창력! 노래에 대한 애정이 전해진 김진웅&이윤정&이광엽의 무대 | KBS 230610 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36853441</id>
-        <link href="https://tv.naver.com/v/36853441"/>
-        <updated>2023-06-10T12:28:48.852Z</updated>
-        <content type="html"><![CDATA[01:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김진웅&이윤정&이광엽 - My Way | KBS 230610 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36853390</id>
-        <link href="https://tv.naver.com/v/36853390"/>
-        <updated>2023-06-10T12:28:48.859Z</updated>
-        <content type="html"><![CDATA[05:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후배팀의 선전포고! 46기 김진웅&이윤정&이광엽의 강렬한 도발🔥 오늘의 선곡은? | KBS 230610 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/36853367</id>
-        <link href="https://tv.naver.com/v/36853367"/>
-        <updated>2023-06-10T13:18:30.649Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 한도 없는 매력 부자! 미래소년 손동표!, MBC 230611 방송 (복면가왕)]]></title>

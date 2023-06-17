@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-17T11:14:36.418Z</updated>
+    <updated>2023-06-17T12:29:35.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Blackswan - Karma(블랙스완 – 카르마) FanCam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37098182</id>
+        <link href="https://tv.naver.com/v/37098182"/>
+        <updated>2023-06-17T12:28:58.266Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SECRET NUMBER - DOXA(시크릿 넘버 – 독사) FanCam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37098074</id>
+        <link href="https://tv.naver.com/v/37098074"/>
+        <updated>2023-06-17T12:28:58.266Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SECRET NUMBER DITA – DOXA(시크릿 넘버 디타 - 독사) FanCam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37097979</id>
+        <link href="https://tv.naver.com/v/37097979"/>
+        <updated>2023-06-17T12:28:58.266Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Blackswan GABI – Karma(블랙스완 가비 - 카르마) FanCam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37097961</id>
+        <link href="https://tv.naver.com/v/37097961"/>
+        <updated>2023-06-17T12:28:58.266Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Gesture(판타지 보이즈 – 제스처) FanCam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37097842</id>
+        <link href="https://tv.naver.com/v/37097842"/>
+        <updated>2023-06-17T12:28:58.268Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] DKB - I Need Love(다크비 – 아이 니드 러브) FanCam | Show! MusicCore | MBC230617방송]]></title>
         <id>https://tv.naver.com/v/37097643</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/37095554"/>
         <updated>2023-06-17T10:16:09.337Z</updated>
         <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEYONG – SHALALA(태용 - 샤랄라) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37095370</id>
-        <link href="https://tv.naver.com/v/37095370"/>
-        <updated>2023-06-17T10:16:09.338Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ WOOYOUNG - BOUNCY(에이티즈 우영 - 바운시) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37095369</id>
-        <link href="https://tv.naver.com/v/37095369"/>
-        <updated>2023-06-17T10:16:09.338Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ JONGHO - BOUNCY(에이티즈 종호 - 바운시) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37095095</id>
-        <link href="https://tv.naver.com/v/37095095"/>
-        <updated>2023-06-17T09:14:55.214Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ YUNHO - BOUNCY(에이티즈 윤호 - 바운시) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37094953</id>
-        <link href="https://tv.naver.com/v/37094953"/>
-        <updated>2023-06-17T09:14:55.216Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ YEOSANG - BOUNCY(에이티즈 여상 - 바운시) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37094843</id>
-        <link href="https://tv.naver.com/v/37094843"/>
-        <updated>2023-06-17T09:14:55.217Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
