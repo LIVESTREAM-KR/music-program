@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-17T06:21:14.353Z</updated>
+    <updated>2023-06-17T07:15:08.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[샤랄라 (SHALALA) - 태용 (TAEYONG) | KBS 230616 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,55 @@
         <content type="html"><![CDATA[02:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[루네이트 - 와일드 하트 (LUN8 - Wild Heart), MBC 230617 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37091996</id>
+        <link href="https://tv.naver.com/v/37091996"/>
+        <updated>2023-06-17T07:14:26.606Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나인투식스 - 돈 콜 미 (NINE to SIX - Don't Call Me), MBC 230617 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37091889</id>
+        <link href="https://tv.naver.com/v/37091889"/>
+        <updated>2023-06-17T07:14:26.606Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더뉴식스 (TNX) - 킥 잇 포 나우 (THE NEW SIX (TNX) - Kick It 4 Now), MBC 230617 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37091888</id>
+        <link href="https://tv.naver.com/v/37091888"/>
+        <updated>2023-06-17T07:14:26.606Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시크릿넘버 - 독사 (SECRET NUMBER - DOXA), MBC 230617 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37091796</id>
+        <link href="https://tv.naver.com/v/37091796"/>
+        <updated>2023-06-17T07:14:26.606Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브이에이브이 - 디자이너 (VAV - Designer), MBC 230617 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37091665</id>
+        <link href="https://tv.naver.com/v/37091665"/>
+        <updated>2023-06-17T07:14:26.606Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙스완 - 카르마 (BLACKSWAN - Karma), MBC 230617 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37091438</id>
+        <link href="https://tv.naver.com/v/37091438"/>
+        <updated>2023-06-17T07:14:26.613Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박로시 - 러브 마이 셀프 (Park Rossi - LUV Myself), MBC 230617 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37091436</id>
+        <link href="https://tv.naver.com/v/37091436"/>
+        <updated>2023-06-17T07:14:26.617Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] (G)I-DLE – Queencard((여자)아이들 - 퀸카) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37066021</id>
         <link href="https://tv.naver.com/v/37066021"/>
@@ -374,55 +423,6 @@
         <link href="https://tv.naver.com/v/36851528"/>
         <updated>2023-06-10T10:16:44.180Z</updated>
         <content type="html"><![CDATA[04:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids CHANGBIN – S-Class(스트레이 키즈 창빈 - 특) FanCam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36851399</id>
-        <link href="https://tv.naver.com/v/36851399"/>
-        <updated>2023-06-10T10:16:44.181Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids LEE KNOW – S-Class(스트레이 키즈 리노 - 특) FanCam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36851306</id>
-        <link href="https://tv.naver.com/v/36851306"/>
-        <updated>2023-06-10T10:16:44.181Z</updated>
-        <content type="html"><![CDATA[04:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids FELIX – S-Class(스트레이 키즈 필릭스 - 특) FanCam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36851129</id>
-        <link href="https://tv.naver.com/v/36851129"/>
-        <updated>2023-06-10T10:16:44.183Z</updated>
-        <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids HYUNJIN – S-Class(스트레이 키즈 현진 - 특) FanCam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36851021</id>
-        <link href="https://tv.naver.com/v/36851021"/>
-        <updated>2023-06-10T10:16:44.185Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids HAN – S-Class(스트레이 키즈 한 - 특) FanCam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36850928</id>
-        <link href="https://tv.naver.com/v/36850928"/>
-        <updated>2023-06-10T10:16:44.186Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids I.N – S-Class(스트레이 키즈 아이엔 - 특) FanCam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36850818</id>
-        <link href="https://tv.naver.com/v/36850818"/>
-        <updated>2023-06-10T10:16:44.194Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids SEUNGMIN – S-Class(스트레이 키즈 승민 - 특) FanCam | Show! MusicCore | MBC230610방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/36850611</id>
-        <link href="https://tv.naver.com/v/36850611"/>
-        <updated>2023-06-10T09:15:34.079Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230611 방송 (인기가요)]]></title>
