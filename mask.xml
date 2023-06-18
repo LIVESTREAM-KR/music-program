@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-06-18T09:16:30.250Z</updated>
+    <updated>2023-06-18T10:17:16.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['달걀프라이' 2라운드 무대 - 미워요, MBC 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37117700</id>
+        <link href="https://tv.naver.com/v/37117700"/>
+        <updated>2023-06-18T10:17:15.366Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['잉크'의 정체는 스트레이 키즈 승민!, MBC 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37117698</id>
+        <link href="https://tv.naver.com/v/37117698"/>
+        <updated>2023-06-18T10:17:15.368Z</updated>
+        <content type="html"><![CDATA[01:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가만둘 리 없어'의 지인 김수로와의 전화 연결📞 쏟아지는 힘트에 느껴지는 애정💕, MBC 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37117590</id>
+        <link href="https://tv.naver.com/v/37117590"/>
+        <updated>2023-06-18T10:17:15.369Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['잉크'의 특급 지인 박진영 등장!⭐ '잉크'의 이미지를 생각하면 떠오르는 침엽수?!🌲, MBC 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37117490</id>
+        <link href="https://tv.naver.com/v/37117490"/>
+        <updated>2023-06-18T10:17:15.374Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['가만둘 리 없어' 2라운드 무대 - Heaven, MBC 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37117244</id>
+        <link href="https://tv.naver.com/v/37117244"/>
+        <updated>2023-06-18T10:17:15.376Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['잉크' 2라운드 무대 - 빨래, MBC 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37116865</id>
+        <link href="https://tv.naver.com/v/37116865"/>
+        <updated>2023-06-18T10:17:15.378Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 한도 없는 매력 부자! 미래소년 손동표!, MBC 230611 방송]]></title>
         <id>https://tv.naver.com/v/37071250</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/36635381"/>
         <updated>2023-06-04T11:13:16.849Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['곰 세 마리'의 ＜3가지 버전으로 동요 부르기＞🎼 & '가왕석으로 곶감'의 지인 마미손이 주는 힌트!, MBC 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36635265</id>
-        <link href="https://tv.naver.com/v/36635265"/>
-        <updated>2023-06-04T11:13:16.849Z</updated>
-        <content type="html"><![CDATA[02:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['곰 세 마리'의 정체는 트로트 가수 김다현!, MBC 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36635168</id>
-        <link href="https://tv.naver.com/v/36635168"/>
-        <updated>2023-06-04T11:13:16.849Z</updated>
-        <content type="html"><![CDATA[02:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가왕석으로 곶감' 2라운드 무대 - 피아노 (彼願嫪), MBC 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36635039</id>
-        <link href="https://tv.naver.com/v/36635039"/>
-        <updated>2023-06-04T10:17:05.420Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['곰 세 마리' 2라운드 무대 - J에게, MBC 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36634957</id>
-        <link href="https://tv.naver.com/v/36634957"/>
-        <updated>2023-06-04T10:17:05.423Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['케이블카'의 정체는 레인보우 출신 지숙!, MBC 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36634853</id>
-        <link href="https://tv.naver.com/v/36634853"/>
-        <updated>2023-06-04T10:17:05.424Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품 배우✨ 강소라가 주는 '케이블카'의 힌트! 무엇이든 뚝딱뚝딱하는 금손?!😲, MBC 230604 방송]]></title>
-        <id>https://tv.naver.com/v/36634681</id>
-        <link href="https://tv.naver.com/v/36634681"/>
-        <updated>2023-06-04T10:17:05.427Z</updated>
-        <content type="html"><![CDATA[01:12]]></content>
     </entry>
 </feed>
