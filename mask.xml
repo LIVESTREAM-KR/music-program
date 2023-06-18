@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-06-18T11:13:44.924Z</updated>
+    <updated>2023-06-18T12:30:20.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -132,18 +132,18 @@
         <content type="html"><![CDATA[00:31]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(여자)아이들의 '퀸카' 춤을 선보이는 '레게 잘하는 누나' 알쏭달쏭 한 춤사위?!, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36875502</id>
-        <link href="https://tv.naver.com/v/36875502"/>
-        <updated>2023-06-11T11:13:33.115Z</updated>
-        <content type="html"><![CDATA[01:15]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['대게 친절한 사장님'의 정체는 크리에이터 밥굽남!, MBC 230611 방송]]></title>
         <id>https://tv.naver.com/v/36875503</id>
         <link href="https://tv.naver.com/v/36875503"/>
         <updated>2023-06-11T11:13:33.112Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들의 '퀸카' 춤을 선보이는 '레게 잘하는 누나' 알쏭달쏭 한 춤사위?!, MBC 230611 방송]]></title>
+        <id>https://tv.naver.com/v/36875502</id>
+        <link href="https://tv.naver.com/v/36875502"/>
+        <updated>2023-06-11T11:13:33.115Z</updated>
+        <content type="html"><![CDATA[01:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['대게 친절한 사장님'의 지인 영상 힌트 😊 영상에 등장한 박세리?! ＂공통점이 되게 많아요＂, MBC 230611 방송]]></title>
