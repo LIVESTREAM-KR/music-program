@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-06-19T10:18:51.065Z</updated>
+    <updated>2023-06-19T11:15:16.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 자동으로 따라 부르게 만드는 메가 히트송🎉 ＜사랑인걸＞의 주인공! 가수 모세, MBC 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37152753</id>
+        <link href="https://tv.naver.com/v/37152753"/>
+        <updated>2023-06-19T11:15:15.449Z</updated>
+        <content type="html"><![CDATA[12:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 빌보드 앨범 차트 🔥1위 그룹🔥 스트레이 키즈의 청량미✨가득한 메인 보컬 승민!, MBC 230618 방송]]></title>
+        <id>https://tv.naver.com/v/37152595</id>
+        <link href="https://tv.naver.com/v/37152595"/>
+        <updated>2023-06-19T11:15:15.450Z</updated>
+        <content type="html"><![CDATA[11:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜과연 '팔색조'는 모두의 마음을 되찾을 수 있을까?＞ 복면가왕 410회 예고, MBC 230625 방송]]></title>
         <id>https://tv.naver.com/v/37119120</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/36874440"/>
         <updated>2023-06-11T10:17:24.722Z</updated>
         <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가만둘 리 없어' VS '호의가 계속되면'의 1라운드 무대 - 인연(동녘바람), MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36874215</id>
-        <link href="https://tv.naver.com/v/36874215"/>
-        <updated>2023-06-11T10:17:24.725Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메소드 연기 ON✨ 손동표의 '주기자' 성대모사 개인기😂, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36874184</id>
-        <link href="https://tv.naver.com/v/36874184"/>
-        <updated>2023-06-11T10:17:24.725Z</updated>
-        <content type="html"><![CDATA[01:19]]></content>
     </entry>
 </feed>
