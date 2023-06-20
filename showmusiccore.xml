@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-20T07:16:04.493Z</updated>
+    <updated>2023-06-20T08:52:00.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] CIX YONGHEE - Save me, Kill me(용희 – 세이브 미, 킬 미) Close-up Cam | Show! MusicCore | MBC230617방]]></title>
+        <id>https://tv.naver.com/v/37187871</id>
+        <link href="https://tv.naver.com/v/37187871"/>
+        <updated>2023-06-20T08:51:15.434Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TAEYONG - SHALALA(태용 – 샤랄라) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37187627</id>
+        <link href="https://tv.naver.com/v/37187627"/>
+        <updated>2023-06-20T08:51:15.436Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TAEYONG - GWANDO(태용 – 관둬) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37187378</id>
+        <link href="https://tv.naver.com/v/37187378"/>
+        <updated>2023-06-20T08:51:15.436Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] CIX BX – Save me, Kill me(씨아이엑스 BX - 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230617방송]]></title>
+        <id>https://tv.naver.com/v/37187142</id>
+        <link href="https://tv.naver.com/v/37187142"/>
+        <updated>2023-06-20T08:51:15.436Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] CIX BAE JINYOUNG – Save me, Kill me(씨아이엑스 배진영 - 세이브 미, 킬 미)FanCam|Show!MusicCore|MBC230617방]]></title>
+        <id>https://tv.naver.com/v/37186532</id>
+        <link href="https://tv.naver.com/v/37186532"/>
+        <updated>2023-06-20T08:51:15.437Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) Close-up Cam | Show! MusicCore | MBC230617방송]]></title>
         <id>https://tv.naver.com/v/37149134</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/37097230"/>
         <updated>2023-06-17T11:13:54.720Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 에이비식스 - 루저 (AB6IX - LOSER), MBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/37097139</id>
-        <link href="https://tv.naver.com/v/37097139"/>
-        <updated>2023-06-17T11:13:54.721Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] THE NEW SIX - Kick It 4 Now(더뉴식스 – 킥 잇 포 나우) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37097135</id>
-        <link href="https://tv.naver.com/v/37097135"/>
-        <updated>2023-06-17T11:13:54.722Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 스트레이 키즈 - 특 (Stray Kids - S-Class), MBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/37097049</id>
-        <link href="https://tv.naver.com/v/37097049"/>
-        <updated>2023-06-17T11:13:54.723Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 (여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 230603 방송]]></title>
-        <id>https://tv.naver.com/v/37097048</id>
-        <link href="https://tv.naver.com/v/37097048"/>
-        <updated>2023-06-17T11:13:54.725Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 주헌 (몬스타엑스) - 프리덤 (JOOHONEY (MONSTA X) - FREEDOM), MBC 230603 방송]]></title>
-        <id>https://tv.naver.com/v/37097045</id>
-        <link href="https://tv.naver.com/v/37097045"/>
-        <updated>2023-06-17T11:13:54.725Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
