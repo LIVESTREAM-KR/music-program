@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-06-20T09:16:40.344Z</updated>
+    <updated>2023-06-20T10:18:25.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 여정의 시작을 알리는, LUN8(루네이트) 'Voyager']]></title>
+        <id>https://tv.naver.com/v/37193365</id>
+        <link href="https://tv.naver.com/v/37193365"/>
+        <updated>2023-06-20T10:18:03.875Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[훤칠한 성숙미, VAV 'Designer']]></title>
+        <id>https://tv.naver.com/v/37193223</id>
+        <link href="https://tv.naver.com/v/37193223"/>
+        <updated>2023-06-20T10:18:03.883Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파워풀한 퍼포먼스, NTX 'Circuit']]></title>
+        <id>https://tv.naver.com/v/37193083</id>
+        <link href="https://tv.naver.com/v/37193083"/>
+        <updated>2023-06-20T10:18:03.883Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔 & ATEEZ(에이티즈)]]></title>
+        <id>https://tv.naver.com/v/37193079</id>
+        <link href="https://tv.naver.com/v/37193079"/>
+        <updated>2023-06-20T10:18:03.884Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 숨 막히는 강렬함, FANTASY BOYS (판타지보이즈) 'Gesture']]></title>
+        <id>https://tv.naver.com/v/37192931</id>
+        <link href="https://tv.naver.com/v/37192931"/>
+        <updated>2023-06-20T10:18:03.885Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
         <id>https://tv.naver.com/v/36950552</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/36703628"/>
         <updated>2023-06-06T11:13:40.964Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대를 장악하는 퍼포먼스, KARD 'ICKY']]></title>
-        <id>https://tv.naver.com/v/36703588</id>
-        <link href="https://tv.naver.com/v/36703588"/>
-        <updated>2023-06-06T11:13:40.965Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중독되어 빠져드는 매력, SECRET NUMBER (시크릿넘버) '독사 (DOXA)']]></title>
-        <id>https://tv.naver.com/v/36703587</id>
-        <link href="https://tv.naver.com/v/36703587"/>
-        <updated>2023-06-06T11:13:40.965Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔 & AB6IX (에이비식스)]]></title>
-        <id>https://tv.naver.com/v/36703421</id>
-        <link href="https://tv.naver.com/v/36703421"/>
-        <updated>2023-06-06T11:13:40.966Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포기를 모르는 질주 본능, 다크비(DKB) 'Turning Point(Prod. 주헌(몬스타엑스))']]></title>
-        <id>https://tv.naver.com/v/36703419</id>
-        <link href="https://tv.naver.com/v/36703419"/>
-        <updated>2023-06-06T11:13:40.966Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한계 없이 달려가는, NTX 'Circuit']]></title>
-        <id>https://tv.naver.com/v/36703260</id>
-        <link href="https://tv.naver.com/v/36703260"/>
-        <updated>2023-06-06T10:17:24.088Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
