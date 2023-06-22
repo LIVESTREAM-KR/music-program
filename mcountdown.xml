@@ -2,9 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-06-22T10:18:42.067Z</updated>
+    <updated>2023-06-22T11:14:18.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' NCT DREAM - Broken Melodies | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37274214</id>
+        <link href="https://tv.naver.com/v/37274214"/>
+        <updated>2023-06-22T11:13:51.828Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 강다니엘 - SOS | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37274213</id>
+        <link href="https://tv.naver.com/v/37274213"/>
+        <updated>2023-06-22T11:13:51.833Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 로이킴 - WE GO HIGH | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37274212</id>
+        <link href="https://tv.naver.com/v/37274212"/>
+        <updated>2023-06-22T11:13:51.834Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with NCT DREAM (엔시티 드림) | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37274084</id>
+        <link href="https://tv.naver.com/v/37274084"/>
+        <updated>2023-06-22T11:13:51.836Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 김재환 - 개이득 (Feat. BOBBY) | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37273926</id>
+        <link href="https://tv.naver.com/v/37273926"/>
+        <updated>2023-06-22T11:13:51.838Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' ATEEZ(에이티즈) - BOUNCY (K-HOT CHILLI PEPPERS) | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37273923</id>
+        <link href="https://tv.naver.com/v/37273923"/>
+        <updated>2023-06-22T11:13:51.839Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fromis_9 (프로미스나인) - #menow | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37273661</id>
+        <link href="https://tv.naver.com/v/37273661"/>
+        <updated>2023-06-22T11:13:51.841Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' 웻보이 X 조현아 - 잔인한 여자, 철없는 남자 | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37273364</id>
+        <link href="https://tv.naver.com/v/37273364"/>
+        <updated>2023-06-22T11:13:51.842Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with ATEEZ (에이티즈) | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37273363</id>
+        <link href="https://tv.naver.com/v/37273363"/>
+        <updated>2023-06-22T11:13:51.843Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' EXPJ-1 - X (원곡 : 페노메코(PENOMECO)) | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37273361</id>
+        <link href="https://tv.naver.com/v/37273361"/>
+        <updated>2023-06-22T11:13:51.845Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' VAV - Designer | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37273217</id>
+        <link href="https://tv.naver.com/v/37273217"/>
+        <updated>2023-06-22T11:13:51.846Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' &TEAM - FIREWORK (Korean ver.) | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37272945</id>
+        <link href="https://tv.naver.com/v/37272945"/>
+        <updated>2023-06-22T11:13:51.848Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' &TEAM - Scent of you (Korean ver.) | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37272823</id>
+        <link href="https://tv.naver.com/v/37272823"/>
+        <updated>2023-06-22T11:13:51.851Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다크비(DKB) - I Need Love | Mnet 230622 방송]]></title>
         <id>https://tv.naver.com/v/37272685</id>
@@ -123,96 +214,5 @@
         <link href="https://tv.naver.com/v/36789761"/>
         <updated>2023-06-08T12:31:46.904Z</updated>
         <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💗800회 축하 메시지💗 with 김우빈, 키(KEY), 뱀뱀 (BamBam), 남윤수, (여자)아이들 | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36789594</id>
-        <link href="https://tv.naver.com/v/36789594"/>
-        <updated>2023-06-08T12:31:46.906Z</updated>
-        <content type="html"><![CDATA[01:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AB6IX (에이비식스) - LOSER | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36789588</id>
-        <link href="https://tv.naver.com/v/36789588"/>
-        <updated>2023-06-08T12:31:46.924Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['800회 특집' IVE와 함께하는 〈퀴즈탐험! 엠카의 세계〉 | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36789223</id>
-        <link href="https://tv.naver.com/v/36789223"/>
-        <updated>2023-06-08T12:31:46.930Z</updated>
-        <content type="html"><![CDATA[09:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ENHYPEN(엔하이픈) - Sacrifice (Eat Me Up) | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36789058</id>
-        <link href="https://tv.naver.com/v/36789058"/>
-        <updated>2023-06-08T12:31:46.932Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' with Stray Kids (스트레이 키즈) | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36789048</id>
-        <link href="https://tv.naver.com/v/36789048"/>
-        <updated>2023-06-08T12:31:46.934Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' P1Harmony - JUMP | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36788903</id>
-        <link href="https://tv.naver.com/v/36788903"/>
-        <updated>2023-06-08T12:31:46.936Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💗800회 축하 메시지💗 with LE SSERAFIM, aespa, Kep1er, STAYC(스테이씨), 박지훈 | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36788613</id>
-        <link href="https://tv.naver.com/v/36788613"/>
-        <updated>2023-06-08T12:31:46.938Z</updated>
-        <content type="html"><![CDATA[01:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CIX(씨아이엑스) - Save me, Kill me | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36788606</id>
-        <link href="https://tv.naver.com/v/36788606"/>
-        <updated>2023-06-08T12:31:46.942Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INI - FANFARE | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36788345</id>
-        <link href="https://tv.naver.com/v/36788345"/>
-        <updated>2023-06-08T12:31:46.944Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카 보컬 챌린지' 보아 (BoA) - No.1 | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36788224</id>
-        <link href="https://tv.naver.com/v/36788224"/>
-        <updated>2023-06-08T12:31:46.949Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 태용 (TAEYONG) | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36788071</id>
-        <link href="https://tv.naver.com/v/36788071"/>
-        <updated>2023-06-08T14:15:27.939Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' THE NEW SIX (TNX) - Kick It 4 Now | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36787900</id>
-        <link href="https://tv.naver.com/v/36787900"/>
-        <updated>2023-06-08T12:31:46.951Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HISTORY M' 더윈드 (The Wind) - 아낀다 (원곡：세븐틴 (SEVENTEEN)) | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36787576</id>
-        <link href="https://tv.naver.com/v/36787576"/>
-        <updated>2023-06-08T11:14:37.683Z</updated>
-        <content type="html"><![CDATA[02:06]]></content>
     </entry>
 </feed>
