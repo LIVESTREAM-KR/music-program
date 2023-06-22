@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-22T07:16:10.365Z</updated>
+    <updated>2023-06-22T08:20:53.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ.zip 📂 Pirate King(해적왕)부터 BOUNCY까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/37225074</id>
+        <link href="https://tv.naver.com/v/37225074"/>
+        <updated>2023-06-22T08:20:07.562Z</updated>
+        <content type="html"><![CDATA[58:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] CIX YONGHEE - Save me, Kill me(용희 – 세이브 미, 킬 미) Close-up Cam | Show! MusicCore | MBC230617방]]></title>
         <id>https://tv.naver.com/v/37187871</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37097348"/>
         <updated>2023-06-17T11:13:54.718Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LUN8 CHAEL - Wild Heart(루네이트 카엘 - 와일드 하트) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37097230</id>
-        <link href="https://tv.naver.com/v/37097230"/>
-        <updated>2023-06-17T11:13:54.720Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>

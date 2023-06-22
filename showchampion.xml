@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-06-22T07:16:10.358Z</updated>
+    <updated>2023-06-22T08:20:53.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] DKB - I Need Love (다크비 - 아이 니드 러브) | Show Champion | EP.480]]></title>
+        <id>https://tv.naver.com/v/37265147</id>
+        <link href="https://tv.naver.com/v/37265147"/>
+        <updated>2023-06-22T08:20:37.994Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] fromis_9 - #menow (프로미스나인 - #미나우) l Show Champion l EP.480]]></title>
+        <id>https://tv.naver.com/v/37236365</id>
+        <link href="https://tv.naver.com/v/37236365"/>
+        <updated>2023-06-22T08:20:38.005Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8 - Voyager (루네이트 - 보야저) | Show Champion | EP.480]]></title>
+        <id>https://tv.naver.com/v/37234960</id>
+        <link href="https://tv.naver.com/v/37234960"/>
+        <updated>2023-06-22T08:20:38.014Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony INTAK - JUMP (피원하모니 인탁 - 점프) | Show Champion | EP.480]]></title>
         <id>https://tv.naver.com/v/37230822</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/37222015"/>
         <updated>2023-06-21T13:20:24.589Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 1위] 6월 3주 챔피언송 ＜ATEEZ - BOUNCY (K-HOT CHILLI PEPPERS)＞ 앵콜 Full ver.]]></title>
-        <id>https://tv.naver.com/v/37233894</id>
-        <link href="https://tv.naver.com/v/37233894"/>
-        <updated>2023-06-21T11:14:25.032Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 에이티즈(ATEEZ) - BOUNCY (K-HOT CHILLI PEPPERS)]]></title>
-        <id>https://tv.naver.com/v/37232593</id>
-        <link href="https://tv.naver.com/v/37232593"/>
-        <updated>2023-06-21T11:14:25.032Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로미스나인(fromis_9) - #menow]]></title>
-        <id>https://tv.naver.com/v/37232459</id>
-        <link href="https://tv.naver.com/v/37232459"/>
-        <updated>2023-06-21T10:19:03.822Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
 </feed>
