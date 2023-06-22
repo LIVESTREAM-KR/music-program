@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-22T12:35:12.146Z</updated>
+    <updated>2023-06-22T13:20:39.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[샤랄라 (SHALALA) - 태용 (TAEYONG) | KBS 230616 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['COMEBACK' Lapillus(라필루스) - Who’s Next | Mnet 230622 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/37277037</id>
+        <link href="https://tv.naver.com/v/37277037"/>
+        <updated>2023-06-22T13:20:05.958Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' NCT DREAM - Broken Melodies | Mnet 230622 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/37274214</id>
         <link href="https://tv.naver.com/v/37274214"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/36790115"/>
         <updated>2023-06-08T12:31:46.902Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' 주헌 X 미연 - FREEDOM+MY BAG | Mnet 230608 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/36789761</id>
-        <link href="https://tv.naver.com/v/36789761"/>
-        <updated>2023-06-08T12:31:46.904Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
