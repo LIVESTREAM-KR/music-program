@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-06-22T09:16:25.473Z</updated>
+    <updated>2023-06-22T10:18:42.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다크비(DKB) - I Need Love | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37272685</id>
+        <link href="https://tv.naver.com/v/37272685"/>
+        <updated>2023-06-22T10:18:12.350Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE NEW SIX (TNX) - Kick It 4 Now | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37272554</id>
+        <link href="https://tv.naver.com/v/37272554"/>
+        <updated>2023-06-22T10:18:12.351Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 (The Wind) - 다시 만나 | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37272410</id>
+        <link href="https://tv.naver.com/v/37272410"/>
+        <updated>2023-06-22T10:18:12.351Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR - Serenade | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37272077</id>
+        <link href="https://tv.naver.com/v/37272077"/>
+        <updated>2023-06-22T10:18:12.353Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with &TEAM (앤팀) | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37272075</id>
+        <link href="https://tv.naver.com/v/37272075"/>
+        <updated>2023-06-22T10:18:12.354Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' LUN8(루네이트) - Wild Heart | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37271867</id>
+        <link href="https://tv.naver.com/v/37271867"/>
+        <updated>2023-06-22T10:18:12.356Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' YENA(최예나) | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37271715</id>
+        <link href="https://tv.naver.com/v/37271715"/>
+        <updated>2023-06-22T10:18:12.357Z</updated>
+        <content type="html"><![CDATA[02:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백예빈 - 비행구름 | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37271556</id>
+        <link href="https://tv.naver.com/v/37271556"/>
+        <updated>2023-06-22T10:18:12.358Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FANTASY BOYS(판타지보이즈) - Gesture | Mnet 230622 방송]]></title>
+        <id>https://tv.naver.com/v/37271555</id>
+        <link href="https://tv.naver.com/v/37271555"/>
+        <updated>2023-06-22T10:18:12.359Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/37194873</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/36787576"/>
         <updated>2023-06-08T11:14:37.683Z</updated>
         <content type="html"><![CDATA[02:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HISTORY M' ADYA (에이디야) - LATATA (원곡：(여자)아이들) | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36787551</id>
-        <link href="https://tv.naver.com/v/36787551"/>
-        <updated>2023-06-08T11:14:37.684Z</updated>
-        <content type="html"><![CDATA[02:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with THE NEW SIX (TNX) (더뉴식스) | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36787369</id>
-        <link href="https://tv.naver.com/v/36787369"/>
-        <updated>2023-06-08T11:14:37.686Z</updated>
-        <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYNEXTDOOR - One and Only | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36787192</id>
-        <link href="https://tv.naver.com/v/36787192"/>
-        <updated>2023-06-08T11:14:37.688Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[800회 축하메시지 with 세븐틴(SEVENTEEN), TWICE(트와이스), 황민현, IVE, NCT DOJAEJUNG | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36787062</id>
-        <link href="https://tv.naver.com/v/36787062"/>
-        <updated>2023-06-08T11:14:37.691Z</updated>
-        <content type="html"><![CDATA[01:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키코 X 디핵 - DDU DDU LOVE♡ (With. HolyBang) | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36787059</id>
-        <link href="https://tv.naver.com/v/36787059"/>
-        <updated>2023-06-08T11:14:37.692Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드 (The Wind) - ISLAND | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36786719</id>
-        <link href="https://tv.naver.com/v/36786719"/>
-        <updated>2023-06-08T11:14:37.694Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💗800회 축하 메시지💗 with 지민, 태양, 에이핑크(Apink), BTOB (비투비), KAI(카이), 유재석 | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36785469</id>
-        <link href="https://tv.naver.com/v/36785469"/>
-        <updated>2023-06-08T10:18:19.946Z</updated>
-        <content type="html"><![CDATA[02:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카운트다운 800회' with 전 출연진 | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36785149</id>
-        <link href="https://tv.naver.com/v/36785149"/>
-        <updated>2023-06-08T10:18:19.946Z</updated>
-        <content type="html"><![CDATA[01:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카 보컬 챌린지' You're my No.1✨ 엠카 보컬 챌린지 COMING SOON ❣️]]></title>
-        <id>https://tv.naver.com/v/36730994</id>
-        <link href="https://tv.naver.com/v/36730994"/>
-        <updated>2023-06-07T06:21:02.129Z</updated>
-        <content type="html"><![CDATA[00:49]]></content>
     </entry>
 </feed>
