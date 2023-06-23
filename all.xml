@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-23T06:26:01.124Z</updated>
+    <updated>2023-06-23T07:18:29.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[샤랄라 (SHALALA) - 태용 (TAEYONG) | KBS 230616 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] Stray Kids – S-Class(스트레이 키즈 - 특) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37302287</id>
+        <link href="https://tv.naver.com/v/37302287"/>
+        <updated>2023-06-23T07:17:44.570Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ATEEZ.zip 📂 Pirate King(해적왕)부터 BOUNCY까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37225074</id>
         <link href="https://tv.naver.com/v/37225074"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/37097469"/>
         <updated>2023-06-17T11:13:54.713Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CIX - Save me, Kill me(씨아이엑스 – 세이브 미, 킬 미) FanCam | Show! MusicCore | MBC230617방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37097348</id>
-        <link href="https://tv.naver.com/v/37097348"/>
-        <updated>2023-06-17T11:13:54.718Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230618 방송 (인기가요)]]></title>
