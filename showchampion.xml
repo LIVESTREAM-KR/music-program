@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-06-23T01:47:08.886Z</updated>
+    <updated>2023-06-23T03:01:48.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.480]]></title>
+        <id>https://tv.naver.com/v/37234070</id>
+        <link href="https://tv.naver.com/v/37234070"/>
+        <updated>2023-06-23T03:01:33.984Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] DKB - I Need Love (다크비 - 아이 니드 러브) | Show Champion | EP.480]]></title>
         <id>https://tv.naver.com/v/37265147</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/37222017</id>
         <link href="https://tv.naver.com/v/37222017"/>
         <updated>2023-06-21T13:20:24.588Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8 DOHYUN - Wild Heart (루네이트 도현 - 와일드 하트) | Show Champion | EP.480]]></title>
-        <id>https://tv.naver.com/v/37222015</id>
-        <link href="https://tv.naver.com/v/37222015"/>
-        <updated>2023-06-21T13:20:24.589Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
