@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-24T07:17:35.911Z</updated>
+    <updated>2023-06-24T08:23:14.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 씨아이엑스 - 세이브 미, 킬 미 (CIX - Save me, Kill me), MBC 230617 방송]]></title>
+        <id>https://tv.naver.com/v/37331366</id>
+        <link href="https://tv.naver.com/v/37331366"/>
+        <updated>2023-06-24T08:22:29.327Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 드림 - 브로큰 멜로디스 (NCT DREAM - Broken Melodies), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37331008</id>
+        <link href="https://tv.naver.com/v/37331008"/>
+        <updated>2023-06-24T08:22:29.327Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - 바운시 (ATEEZ - BOUNCY(K-HOT CHILLI PEPPERS)), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330901</id>
+        <link href="https://tv.naver.com/v/37330901"/>
+        <updated>2023-06-24T08:22:29.327Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재환 - 개이득  (KIM JAE HWAN - Lucky!), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330827</id>
+        <link href="https://tv.naver.com/v/37330827"/>
+        <updated>2023-06-24T08:22:29.327Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재환 - 잠이나 잘래  (KIM JAE HWAN - Sleep), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330826</id>
+        <link href="https://tv.naver.com/v/37330826"/>
+        <updated>2023-06-24T08:22:29.328Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강다니엘 - 에스오에스 (KANGDANIEL - SOS), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330718</id>
+        <link href="https://tv.naver.com/v/37330718"/>
+        <updated>2023-06-24T08:22:29.329Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라필루스 - 후즈 넥스트 (Lapillus - Who's Next), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330625</id>
+        <link href="https://tv.naver.com/v/37330625"/>
+        <updated>2023-06-24T08:22:29.329Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백예빈 - 비행구름 (BAEK YE BIN - Contrail), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330623</id>
+        <link href="https://tv.naver.com/v/37330623"/>
+        <updated>2023-06-24T08:22:29.330Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다크비 - 아이 닛 럽 (DKB - I Need Love), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330622</id>
+        <link href="https://tv.naver.com/v/37330622"/>
+        <updated>2023-06-24T08:22:29.330Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나인투식스 - 끄덕 (NINE to SIX - Nod), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330411</id>
+        <link href="https://tv.naver.com/v/37330411"/>
+        <updated>2023-06-24T08:22:29.338Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더뉴식스 (TNX) - 킥 잇 포 나우 (THE NEW SIX (TNX) - Kick It 4 Now), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330409</id>
+        <link href="https://tv.naver.com/v/37330409"/>
+        <updated>2023-06-24T08:22:29.338Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트리플에스 크리스탈 아이즈 - 터치 (tripleS +(KR)ystal Eyes - Touch), MBC 230624 방송]]></title>
         <id>https://tv.naver.com/v/37330246</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/37147818"/>
         <updated>2023-06-19T08:21:43.400Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – Gesture(판타지 보이즈 오현태 - 제스처) FanCam | Show! MusicCore | MBC230617방]]></title>
-        <id>https://tv.naver.com/v/37147815</id>
-        <link href="https://tv.naver.com/v/37147815"/>
-        <updated>2023-06-19T08:21:43.400Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – Gesture(판타지 보이즈 강민서 - 제스처) FanCam | Show! MusicCore | MBC230617방]]></title>
-        <id>https://tv.naver.com/v/37147155</id>
-        <link href="https://tv.naver.com/v/37147155"/>
-        <updated>2023-06-19T08:21:43.401Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LINGQI – Gesture(판타지 보이즈 링치 - 제스처) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37146935</id>
-        <link href="https://tv.naver.com/v/37146935"/>
-        <updated>2023-06-19T08:21:43.403Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM GYURAE – Gesture(판타지 보이즈 김규래 - 제스처) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37146737</id>
-        <link href="https://tv.naver.com/v/37146737"/>
-        <updated>2023-06-19T08:21:43.406Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN – Gesture(판타지 보이즈 이한빈 - 제스처) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37146457</id>
-        <link href="https://tv.naver.com/v/37146457"/>
-        <updated>2023-06-19T08:21:43.407Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARU – Gesture(판타지 보이즈 히카루 - 제스처) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37146456</id>
-        <link href="https://tv.naver.com/v/37146456"/>
-        <updated>2023-06-19T08:21:43.409Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS K-SOUL – Gesture(판타지 보이즈 소울 - 제스처) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37146454</id>
-        <link href="https://tv.naver.com/v/37146454"/>
-        <updated>2023-06-19T08:21:43.421Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS HIKARI - Gesture(판타지 보이즈 히카리 - 제스처) Close-up Cam | Show! MusicCore |MBC230617방]]></title>
-        <id>https://tv.naver.com/v/37146268</id>
-        <link href="https://tv.naver.com/v/37146268"/>
-        <updated>2023-06-19T08:21:43.421Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 6월 셋째 주 음악중심 MC 컷 모음!, MBC 230617 방송]]></title>
-        <id>https://tv.naver.com/v/37143442</id>
-        <link href="https://tv.naver.com/v/37143442"/>
-        <updated>2023-06-19T07:16:05.033Z</updated>
-        <content type="html"><![CDATA[11:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Blackswan - Karma(블랙스완 – 카르마) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37098182</id>
-        <link href="https://tv.naver.com/v/37098182"/>
-        <updated>2023-06-17T12:28:58.266Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SECRET NUMBER - DOXA(시크릿 넘버 – 독사) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37098074</id>
-        <link href="https://tv.naver.com/v/37098074"/>
-        <updated>2023-06-17T12:28:58.266Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
