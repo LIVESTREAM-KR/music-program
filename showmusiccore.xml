@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-24T06:23:38.940Z</updated>
+    <updated>2023-06-24T07:17:35.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트리플에스 크리스탈 아이즈 - 터치 (tripleS +(KR)ystal Eyes - Touch), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330246</id>
+        <link href="https://tv.naver.com/v/37330246"/>
+        <updated>2023-06-24T07:16:51.929Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[판타지보이즈 - 제스처 (FANTASY BOYS - Gesture), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330155</id>
+        <link href="https://tv.naver.com/v/37330155"/>
+        <updated>2023-06-24T07:16:51.931Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루네이트 - 와일드 하트 (LUN8 - Wild Heart), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37330153</id>
+        <link href="https://tv.naver.com/v/37330153"/>
+        <updated>2023-06-24T07:16:51.944Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 - 다시 만나 (The Wind - With US), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37329877</id>
+        <link href="https://tv.naver.com/v/37329877"/>
+        <updated>2023-06-24T07:16:51.949Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브이에이브이 - 디자이너 (VAV - Designer), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37329874</id>
+        <link href="https://tv.naver.com/v/37329874"/>
+        <updated>2023-06-24T07:16:51.950Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소연 - 또또 (KIM SO YEON - TTO TTO), MBC 230624 방송]]></title>
+        <id>https://tv.naver.com/v/37329587</id>
+        <link href="https://tv.naver.com/v/37329587"/>
+        <updated>2023-06-24T07:16:51.951Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] Stray Kids – S-Class(스트레이 키즈 - 특) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/37302287</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/37098074"/>
         <updated>2023-06-17T12:28:58.266Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SECRET NUMBER DITA – DOXA(시크릿 넘버 디타 - 독사) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37097979</id>
-        <link href="https://tv.naver.com/v/37097979"/>
-        <updated>2023-06-17T12:28:58.266Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Blackswan GABI – Karma(블랙스완 가비 - 카르마) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37097961</id>
-        <link href="https://tv.naver.com/v/37097961"/>
-        <updated>2023-06-17T12:28:58.266Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Gesture(판타지 보이즈 – 제스처) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37097842</id>
-        <link href="https://tv.naver.com/v/37097842"/>
-        <updated>2023-06-17T12:28:58.268Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DKB - I Need Love(다크비 – 아이 니드 러브) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37097643</id>
-        <link href="https://tv.naver.com/v/37097643"/>
-        <updated>2023-06-17T11:13:54.711Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] THE NEW SIX SUNGJUN – Kick It 4 Now(더뉴식스 오성준 - 킥 잇 포 나우) FanCam |Show! MusicCore|MBC230617방]]></title>
-        <id>https://tv.naver.com/v/37097613</id>
-        <link href="https://tv.naver.com/v/37097613"/>
-        <updated>2023-06-17T11:13:54.712Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LUN8 DOHYUN - Wild Heart(루네이트 도현 - 와일드 하트) FanCam | Show! MusicCore | MBC230617방송]]></title>
-        <id>https://tv.naver.com/v/37097469</id>
-        <link href="https://tv.naver.com/v/37097469"/>
-        <updated>2023-06-17T11:13:54.713Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
