@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-06-25T06:24:12.850Z</updated>
+    <updated>2023-06-25T07:17:17.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2Z - Like A Movie | SBS 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37349803</id>
+        <link href="https://tv.naver.com/v/37349803"/>
+        <updated>2023-06-25T07:16:42.568Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230618 방송]]></title>
         <id>https://tv.naver.com/v/37112957</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36869375"/>
         <updated>2023-06-11T07:14:33.571Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김도아 - 꿈의 태엽(dream walking) | SBS 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36869267</id>
-        <link href="https://tv.naver.com/v/36869267"/>
-        <updated>2023-06-11T07:14:33.572Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
