@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-06-25T08:23:13.070Z</updated>
+    <updated>2023-06-25T09:18:39.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37351489</id>
+        <link href="https://tv.naver.com/v/37351489"/>
+        <updated>2023-06-25T09:18:04.368Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230625 방송]]></title>
         <id>https://tv.naver.com/v/37351218</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37111902"/>
         <updated>2023-06-18T06:20:21.930Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백예빈 - 비행구름  | SBS 230618 방송]]></title>
-        <id>https://tv.naver.com/v/37111782</id>
-        <link href="https://tv.naver.com/v/37111782"/>
-        <updated>2023-06-18T06:20:21.931Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>

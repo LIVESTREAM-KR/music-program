@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-25T08:23:13.087Z</updated>
+    <updated>2023-06-25T09:18:39.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Broken Melodies - NCT DREAM | KBS 230623 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT DREAM MARK – Broken Melodies(엔시티 드림 마크 - 브로큰 멜로디스) FanCam | Show! MusicCore |MBC230624방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37351913</id>
+        <link href="https://tv.naver.com/v/37351913"/>
+        <updated>2023-06-25T09:17:56.950Z</updated>
+        <content type="html"><![CDATA[04:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜X교차》 씨아이엑스 - 세이브 미, 킬 미 (CIX - Save me, Kill me), MBC 230617 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37331366</id>
         <link href="https://tv.naver.com/v/37331366"/>
@@ -418,11 +425,11 @@
         <content type="html"><![CDATA[03:52]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS HONG SUNGMIN - Gesture(판타지 보이즈 홍성민 - 제스처)Close-upCam|Show!MusicCore|MBC230617방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37147818</id>
-        <link href="https://tv.naver.com/v/37147818"/>
-        <updated>2023-06-19T08:21:43.400Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
+        <title type="html"><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37351489</id>
+        <link href="https://tv.naver.com/v/37351489"/>
+        <updated>2023-06-25T09:18:04.368Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230625 방송 (인기가요)]]></title>
@@ -626,13 +633,6 @@
         <link href="https://tv.naver.com/v/37111902"/>
         <updated>2023-06-18T06:20:21.930Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백예빈 - 비행구름  | SBS 230618 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37111782</id>
-        <link href="https://tv.naver.com/v/37111782"/>
-        <updated>2023-06-18T06:20:21.931Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' Lapillus(라필루스) - Who’s Next | Mnet 230622 방송 (엠카운트다운)]]></title>
