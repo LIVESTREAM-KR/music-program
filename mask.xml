@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-06-25T09:18:39.913Z</updated>
+    <updated>2023-06-25T10:20:06.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['귀척' VS '월척'의 1라운드 무대 - Hug, MBC 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37354382</id>
+        <link href="https://tv.naver.com/v/37354382"/>
+        <updated>2023-06-25T10:20:05.704Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['시리얼'의 정체는 배우 겸 가수 김민희!, MBC 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37354277</id>
+        <link href="https://tv.naver.com/v/37354277"/>
+        <updated>2023-06-25T10:20:05.714Z</updated>
+        <content type="html"><![CDATA[01:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['시리얼' VS '요거트'의 1라운드 무대 - 매직 카펫 라이드, MBC 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37353942</id>
+        <link href="https://tv.naver.com/v/37353942"/>
+        <updated>2023-06-25T10:20:05.714Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['키스미'의 정체는 경서예지의 경서!, MBC 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37353663</id>
+        <link href="https://tv.naver.com/v/37353663"/>
+        <updated>2023-06-25T10:20:05.714Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설렘 가득💕 '메리미'의 진심을 다해 전하는 사랑 고백 ＜결혼해줄래＞🎵, MBC 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37353405</id>
+        <link href="https://tv.naver.com/v/37353405"/>
+        <updated>2023-06-25T10:20:05.715Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['메리미' VS '키스미'의 1라운드 무대 - 취기를 빌려 (Vocal 이민혁), MBC 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37353264</id>
+        <link href="https://tv.naver.com/v/37353264"/>
+        <updated>2023-06-25T10:20:05.716Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 자동으로 따라 부르게 만드는 메가 히트송🎉 ＜사랑인걸＞의 주인공! 가수 모세, MBC 230618 방송]]></title>
         <id>https://tv.naver.com/v/37152753</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/36875149"/>
         <updated>2023-06-11T11:13:33.120Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달걀말이'의 정체는 배우 김홍표!, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36875018</id>
-        <link href="https://tv.naver.com/v/36875018"/>
-        <updated>2023-06-11T11:13:33.125Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달걀말이' VS '달걀프라이'의 1라운드 무대 - 낭만에 대하여, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36874793</id>
-        <link href="https://tv.naver.com/v/36874793"/>
-        <updated>2023-06-11T11:13:33.127Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동심으로 돌아간 마법 같은 무대💕 오승원의 ＜아기공룡 둘리＞, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36874684</id>
-        <link href="https://tv.naver.com/v/36874684"/>
-        <updated>2023-06-11T10:17:24.704Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호의가 계속되면'의 정체는 둘리 주제곡 가수 오승원!, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36874578</id>
-        <link href="https://tv.naver.com/v/36874578"/>
-        <updated>2023-06-11T10:17:24.705Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호의가 계속되면'의 수준급 성대모사 실력🙊 ＜대한민국 대표 만화 캐릭터 성대모사＞ 개인기❗, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36874441</id>
-        <link href="https://tv.naver.com/v/36874441"/>
-        <updated>2023-06-11T10:17:24.706Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몰입감 최고👍 모두를 놀라게 한 '가만둘 리 없어'의 ＜사내 방송 성우 성대모사＞📢, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/36874440</id>
-        <link href="https://tv.naver.com/v/36874440"/>
-        <updated>2023-06-11T10:17:24.722Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
     </entry>
 </feed>
