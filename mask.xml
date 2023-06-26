@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-06-26T09:20:04.736Z</updated>
+    <updated>2023-06-26T10:21:12.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 빌보드가 인정한 싱어송라이터, 달샤벳 출신 가수 수빈! MBC 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37390297</id>
+        <link href="https://tv.naver.com/v/37390297"/>
+        <updated>2023-06-26T10:21:12.034Z</updated>
+        <content type="html"><![CDATA[13:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 떡잎부터 존재감 뿜뿜, TO1 출신 가수 차웅기!, MBC 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37390134</id>
+        <link href="https://tv.naver.com/v/37390134"/>
+        <updated>2023-06-26T10:21:12.036Z</updated>
+        <content type="html"><![CDATA[12:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 역주행의 돌풍의 실력파 가수, 경서예지의 경서!, MBC 230625 방송]]></title>
+        <id>https://tv.naver.com/v/37389797</id>
+        <link href="https://tv.naver.com/v/37389797"/>
+        <updated>2023-06-26T10:21:12.038Z</updated>
+        <content type="html"><![CDATA[10:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜가왕석을 지킬 것인가 VS 뺏을 것인가＞ 복면가왕 411회 예고, MBC 230702 방송]]></title>
         <id>https://tv.naver.com/v/37355573</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/37117244"/>
         <updated>2023-06-18T10:17:15.376Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['잉크' 2라운드 무대 - 빨래, MBC 230618 방송]]></title>
-        <id>https://tv.naver.com/v/37116865</id>
-        <link href="https://tv.naver.com/v/37116865"/>
-        <updated>2023-06-18T10:17:15.378Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 한도 없는 매력 부자! 미래소년 손동표!, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/37071250</id>
-        <link href="https://tv.naver.com/v/37071250"/>
-        <updated>2023-06-16T10:18:53.132Z</updated>
-        <content type="html"><![CDATA[12:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 향수를 자극하는 목소리! 둘리 OST의 주인공, 가수 오승원!, MBC 230611 방송]]></title>
-        <id>https://tv.naver.com/v/37071220</id>
-        <link href="https://tv.naver.com/v/37071220"/>
-        <updated>2023-06-16T10:18:53.135Z</updated>
-        <content type="html"><![CDATA[12:15]]></content>
     </entry>
 </feed>
