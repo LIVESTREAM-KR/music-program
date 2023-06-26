@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-06-26T05:20:23.491Z</updated>
+    <updated>2023-06-26T06:26:31.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 쇼챔 에세이에서 들려주는 새로운 우리의 이야기]]></title>
+        <id>https://tv.naver.com/v/37378643</id>
+        <link href="https://tv.naver.com/v/37378643"/>
+        <updated>2023-06-26T06:26:17.171Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.480]]></title>
         <id>https://tv.naver.com/v/37234070</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8 JI EUNHO - Wild Heart (루네이트 지은호 - 와일드 하트) | Show Champion | EP.480]]></title>
         <id>https://tv.naver.com/v/37222406</id>
         <link href="https://tv.naver.com/v/37222406"/>
-        <updated>2023-06-21T13:20:24.588Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8 CHAEL - Wild Heart (루네이트 카엘 - 와일드 하트) | Show Champion | EP.480]]></title>
-        <id>https://tv.naver.com/v/37222017</id>
-        <link href="https://tv.naver.com/v/37222017"/>
         <updated>2023-06-21T13:20:24.588Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
     </entry>

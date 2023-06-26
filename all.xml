@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-26T05:20:23.524Z</updated>
+    <updated>2023-06-26T06:26:31.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Broken Melodies - NCT DREAM | KBS 230623 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ – BOUNCY(에이티즈 - 바운시) FanCam | Show! MusicCore | MBC230624방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37379844</id>
+        <link href="https://tv.naver.com/v/37379844"/>
+        <updated>2023-06-26T06:25:49.853Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] LUN8 – Wild Heart(루네이트 - 와일드 하트) FanCam | Show! MusicCore | MBC230624방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37353182</id>
         <link href="https://tv.naver.com/v/37353182"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/37330625"/>
         <updated>2023-06-24T08:22:29.329Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백예빈 - 비행구름 (BAEK YE BIN - Contrail), MBC 230624 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37330623</id>
-        <link href="https://tv.naver.com/v/37330623"/>
-        <updated>2023-06-24T08:22:29.330Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송 (인기가요)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[04:12]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 쇼챔 에세이에서 들려주는 새로운 우리의 이야기 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/37378643</id>
+        <link href="https://tv.naver.com/v/37378643"/>
+        <updated>2023-06-26T06:26:17.171Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[6월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.480 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/37234070</id>
         <link href="https://tv.naver.com/v/37234070"/>
@@ -1254,13 +1261,6 @@
         <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8 JI EUNHO - Wild Heart (루네이트 지은호 - 와일드 하트) | Show Champion | EP.480 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/37222406</id>
         <link href="https://tv.naver.com/v/37222406"/>
-        <updated>2023-06-21T13:20:24.588Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8 CHAEL - Wild Heart (루네이트 카엘 - 와일드 하트) | Show Champion | EP.480 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/37222017</id>
-        <link href="https://tv.naver.com/v/37222017"/>
         <updated>2023-06-21T13:20:24.588Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
