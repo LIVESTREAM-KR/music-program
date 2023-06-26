@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-26T08:29:02.243Z</updated>
+    <updated>2023-06-26T09:20:04.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Broken Melodies - NCT DREAM | KBS 230623 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ATEEZ WOOYOUNG - BOUNCY(에이티즈 우영 - 바운시) Close-up Cam | Show! MusicCore | MBC230624방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37388411</id>
+        <link href="https://tv.naver.com/v/37388411"/>
+        <updated>2023-06-26T09:19:23.231Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) FanCam | Show! MusicCore | MBC230624방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37388260</id>
+        <link href="https://tv.naver.com/v/37388260"/>
+        <updated>2023-06-26T09:19:23.238Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ HONGJOONG - BOUNCY(에이티즈 홍중 - 바운시) FanCam | Show! MusicCore | MBC230624방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37388217</id>
+        <link href="https://tv.naver.com/v/37388217"/>
+        <updated>2023-06-26T09:19:23.238Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ JONGHO - BOUNCY(에이티즈 종호 - 바운시) FanCam | Show! MusicCore | MBC230624방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37388045</id>
+        <link href="https://tv.naver.com/v/37388045"/>
+        <updated>2023-06-26T09:19:23.238Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Gesture(판타지 보이즈 – 제스처) FanCam | Show! MusicCore | MBC230624방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37380716</id>
         <link href="https://tv.naver.com/v/37380716"/>
@@ -395,34 +423,6 @@
         <link href="https://tv.naver.com/v/37331366"/>
         <updated>2023-06-24T08:22:29.327Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 드림 - 브로큰 멜로디스 (NCT DREAM - Broken Melodies), MBC 230624 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37331008</id>
-        <link href="https://tv.naver.com/v/37331008"/>
-        <updated>2023-06-24T08:22:29.327Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 - 바운시 (ATEEZ - BOUNCY(K-HOT CHILLI PEPPERS)), MBC 230624 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37330901</id>
-        <link href="https://tv.naver.com/v/37330901"/>
-        <updated>2023-06-24T08:22:29.327Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 - 개이득  (KIM JAE HWAN - Lucky!), MBC 230624 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37330827</id>
-        <link href="https://tv.naver.com/v/37330827"/>
-        <updated>2023-06-24T08:22:29.327Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 - 잠이나 잘래  (KIM JAE HWAN - Sleep), MBC 230624 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37330826</id>
-        <link href="https://tv.naver.com/v/37330826"/>
-        <updated>2023-06-24T08:22:29.328Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송 (인기가요)]]></title>
