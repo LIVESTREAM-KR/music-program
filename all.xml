@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-26T06:26:31.583Z</updated>
+    <updated>2023-06-26T07:19:19.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Broken Melodies - NCT DREAM | KBS 230623 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Gesture(판타지 보이즈 – 제스처) FanCam | Show! MusicCore | MBC230624방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37380716</id>
+        <link href="https://tv.naver.com/v/37380716"/>
+        <updated>2023-06-26T07:18:34.098Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 창빈 X 설윤 X 리노(민호) , 6월 넷째 주 음악중심 MC 컷 모음!, MBC 230624 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37380544</id>
+        <link href="https://tv.naver.com/v/37380544"/>
+        <updated>2023-06-26T07:18:34.101Z</updated>
+        <content type="html"><![CDATA[15:19]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ATEEZ – BOUNCY(에이티즈 - 바운시) FanCam | Show! MusicCore | MBC230624방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37379844</id>
         <link href="https://tv.naver.com/v/37379844"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/37330826"/>
         <updated>2023-06-24T08:22:29.328Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강다니엘 - 에스오에스 (KANGDANIEL - SOS), MBC 230624 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37330718</id>
-        <link href="https://tv.naver.com/v/37330718"/>
-        <updated>2023-06-24T08:22:29.329Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라필루스 - 후즈 넥스트 (Lapillus - Who's Next), MBC 230624 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37330625</id>
-        <link href="https://tv.naver.com/v/37330625"/>
-        <updated>2023-06-24T08:22:29.329Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - Broken Melodies | SBS 230625 방송 (인기가요)]]></title>
