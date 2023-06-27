@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-06-27T12:38:28.642Z</updated>
+    <updated>2023-06-27T13:27:08.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/37436474</id>
+        <link href="https://tv.naver.com/v/37436474"/>
+        <updated>2023-06-27T13:26:40.711Z</updated>
+        <content type="html"><![CDATA[01:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' Lapillus(라필루스) - Who’s Next | Mnet 230622 방송]]></title>
         <id>https://tv.naver.com/v/37277037</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36790308"/>
         <updated>2023-06-08T13:21:39.087Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' fromis_9 (프로미스나인) - Attitude | Mnet 230608 방송]]></title>
-        <id>https://tv.naver.com/v/36790115</id>
-        <link href="https://tv.naver.com/v/36790115"/>
-        <updated>2023-06-08T12:31:46.902Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
