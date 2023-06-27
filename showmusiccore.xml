@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-27T07:18:13.544Z</updated>
+    <updated>2023-06-27T08:24:20.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARU – Gesture(판타지 보이즈 히카루 - 제스처) FanCam | Show! MusicCore | MBC230624방송]]></title>
+        <id>https://tv.naver.com/v/37426425</id>
+        <link href="https://tv.naver.com/v/37426425"/>
+        <updated>2023-06-27T08:23:37.510Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – Gesture(판타지 보이즈 히카리 - 제스처) FanCam | Show! MusicCore | MBC230624방송]]></title>
+        <id>https://tv.naver.com/v/37426423</id>
+        <link href="https://tv.naver.com/v/37426423"/>
+        <updated>2023-06-27T08:23:37.511Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DREAM HAECHAN-Broken Melodies(엔시티 드림 해찬-브로큰 멜로디스)Close-up Cam|Show!MusicCore|MBC230624방]]></title>
         <id>https://tv.naver.com/v/37391671</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37353169"/>
         <updated>2023-06-25T10:19:19.360Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KIM JAEHWAN – Sleep(김재환 - 잠이나 잘래) FanCam | Show! MusicCore | MBC230624방송]]></title>
-        <id>https://tv.naver.com/v/37353168</id>
-        <link href="https://tv.naver.com/v/37353168"/>
-        <updated>2023-06-25T10:19:19.360Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KIM JAEHWAN - Sleep(김재환 – 잠이나 잘래) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230624방송]]></title>
-        <id>https://tv.naver.com/v/37353167</id>
-        <link href="https://tv.naver.com/v/37353167"/>
-        <updated>2023-06-25T10:19:19.361Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
