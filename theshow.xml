@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-06-27T10:21:11.174Z</updated>
+    <updated>2023-06-27T11:16:13.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/37431712</id>
+        <link href="https://tv.naver.com/v/37431712"/>
+        <updated>2023-06-27T11:15:52.023Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강렬한 청양고추 바이브, ATEEZ(에이티즈) 'BOUNCY (K-HOT CHILLI PEPPERS)']]></title>
+        <id>https://tv.naver.com/v/37431551</id>
+        <link href="https://tv.naver.com/v/37431551"/>
+        <updated>2023-06-27T11:15:52.037Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 위트한 장꾸로 돌아온, 김재환 '개이득 (Feat. BOBBY)']]></title>
+        <id>https://tv.naver.com/v/37431374</id>
+        <link href="https://tv.naver.com/v/37431374"/>
+        <updated>2023-06-27T11:15:52.037Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[질주감 넘치는 칼군무, &TEAM 'FIREWORK (Korean ver.)']]></title>
+        <id>https://tv.naver.com/v/37431371</id>
+        <link href="https://tv.naver.com/v/37431371"/>
+        <updated>2023-06-27T11:15:52.037Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환상적인 팀워크, &TEAM 'Scent of you (Korean ver.)']]></title>
+        <id>https://tv.naver.com/v/37431259</id>
+        <link href="https://tv.naver.com/v/37431259"/>
+        <updated>2023-06-27T11:15:52.037Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화사한 싱그러움, 백예빈 '비행구름']]></title>
+        <id>https://tv.naver.com/v/37431101</id>
+        <link href="https://tv.naver.com/v/37431101"/>
+        <updated>2023-06-27T11:15:52.037Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 쾌감 넘치는 파워풀 멜로디, Lapillus(라필루스) 'Who’s Next']]></title>
+        <id>https://tv.naver.com/v/37431100</id>
+        <link href="https://tv.naver.com/v/37431100"/>
+        <updated>2023-06-27T11:15:52.037Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 얄팍한 사랑의 상처, Lapillus(라필루스) 'Paper']]></title>
+        <id>https://tv.naver.com/v/37431098</id>
+        <link href="https://tv.naver.com/v/37431098"/>
+        <updated>2023-06-27T11:15:52.037Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반모하SHOW] ATEEZ(에이티즈)]]></title>
+        <id>https://tv.naver.com/v/37430883</id>
+        <link href="https://tv.naver.com/v/37430883"/>
+        <updated>2023-06-27T11:15:52.043Z</updated>
+        <content type="html"><![CDATA[05:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트렌디한 퍼포먼스, 다크비(DKB) 'I Need Love']]></title>
+        <id>https://tv.naver.com/v/37430852</id>
+        <link href="https://tv.naver.com/v/37430852"/>
+        <updated>2023-06-27T11:15:52.043Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시원한 여름 분위기, THE NEW SIX (TNX) 'Kick It 4 Now']]></title>
+        <id>https://tv.naver.com/v/37430685</id>
+        <link href="https://tv.naver.com/v/37430685"/>
+        <updated>2023-06-27T11:15:52.043Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최초공개] 시작을 알리는 경쾌한 사운드, Hi-Fi Un!corn 'Over the Rainbow (KR ver.)']]></title>
+        <id>https://tv.naver.com/v/37430683</id>
+        <link href="https://tv.naver.com/v/37430683"/>
+        <updated>2023-06-27T11:15:52.044Z</updated>
+        <content type="html"><![CDATA[04:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여심 저격 무대, VAV 'Designer']]></title>
         <id>https://tv.naver.com/v/37429972</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/37193759"/>
         <updated>2023-06-20T11:14:50.322Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽환적인 보컬, TMC 'Color']]></title>
-        <id>https://tv.naver.com/v/37193758</id>
-        <link href="https://tv.naver.com/v/37193758"/>
-        <updated>2023-06-20T11:14:50.323Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 세상에 드러낼 외침, LUN8(루네이트) 'Wild Heart']]></title>
-        <id>https://tv.naver.com/v/37193621</id>
-        <link href="https://tv.naver.com/v/37193621"/>
-        <updated>2023-06-20T11:14:50.325Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 여정의 시작을 알리는, LUN8(루네이트) 'Voyager']]></title>
-        <id>https://tv.naver.com/v/37193365</id>
-        <link href="https://tv.naver.com/v/37193365"/>
-        <updated>2023-06-20T10:18:03.875Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[훤칠한 성숙미, VAV 'Designer']]></title>
-        <id>https://tv.naver.com/v/37193223</id>
-        <link href="https://tv.naver.com/v/37193223"/>
-        <updated>2023-06-20T10:18:03.883Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파워풀한 퍼포먼스, NTX 'Circuit']]></title>
-        <id>https://tv.naver.com/v/37193083</id>
-        <link href="https://tv.naver.com/v/37193083"/>
-        <updated>2023-06-20T10:18:03.883Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔 & ATEEZ(에이티즈)]]></title>
-        <id>https://tv.naver.com/v/37193079</id>
-        <link href="https://tv.naver.com/v/37193079"/>
-        <updated>2023-06-20T10:18:03.884Z</updated>
-        <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 숨 막히는 강렬함, FANTASY BOYS (판타지보이즈) 'Gesture']]></title>
-        <id>https://tv.naver.com/v/37192931</id>
-        <link href="https://tv.naver.com/v/37192931"/>
-        <updated>2023-06-20T10:18:03.885Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/36950552</id>
-        <link href="https://tv.naver.com/v/36950552"/>
-        <updated>2023-06-13T11:14:12.129Z</updated>
-        <content type="html"><![CDATA[04:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 진가를 보여주는 서머 퀸, fromis_9 (프로미스나인) '#menow']]></title>
-        <id>https://tv.naver.com/v/36950153</id>
-        <link href="https://tv.naver.com/v/36950153"/>
-        <updated>2023-06-13T11:14:12.129Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 무심한 듯 시크함에 반전을 곁들인, fromis_9 (프로미스나인) 'Attitude']]></title>
-        <id>https://tv.naver.com/v/36949962</id>
-        <link href="https://tv.naver.com/v/36949962"/>
-        <updated>2023-06-13T11:14:12.131Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아름답고 비극적인 청춘, CIX(씨아이엑스), 'Save me, Kill me']]></title>
-        <id>https://tv.naver.com/v/36949847</id>
-        <link href="https://tv.naver.com/v/36949847"/>
-        <updated>2023-06-13T11:14:12.134Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 자신감 넘치는 힙한 퍼포먼스, P1Harmony 'JUMP']]></title>
-        <id>https://tv.naver.com/v/36949644</id>
-        <link href="https://tv.naver.com/v/36949644"/>
-        <updated>2023-06-13T11:14:12.140Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
