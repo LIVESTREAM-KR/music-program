@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-06-30T06:24:49.967Z</updated>
+    <updated>2023-06-30T07:16:57.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] CIX – Save me, Kill me(씨아이엑스 - 세이브 미, 킬 미) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/37503841</id>
+        <link href="https://tv.naver.com/v/37503841"/>
+        <updated>2023-06-30T07:16:15.482Z</updated>
+        <content type="html"><![CDATA[08:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS HONG SUNGMIN - Gesture(판타지 보이즈 홍성민 - 제스처) Close-up Cam | Show! MusicCore | MBC]]></title>
         <id>https://tv.naver.com/v/37427108</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37353174"/>
         <updated>2023-06-25T10:19:19.351Z</updated>
         <content type="html"><![CDATA[01:18:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lapillus - Who’s Next(라필루스 – 후즈 넥스트) FanCam | Show! MusicCore | MBC230624방송]]></title>
-        <id>https://tv.naver.com/v/37353172</id>
-        <link href="https://tv.naver.com/v/37353172"/>
-        <updated>2023-06-25T10:19:19.352Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
