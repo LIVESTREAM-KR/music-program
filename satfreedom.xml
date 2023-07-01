@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-07-01T12:33:52.502Z</updated>
+    <updated>2023-07-01T13:21:47.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 👑2023 상반기 왕중왕전👑 불후의 명곡 최고의 축제! 어느 때보다 막강한 무대들 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/37574528</id>
+        <link href="https://tv.naver.com/v/37574528"/>
+        <updated>2023-07-01T13:21:39.374Z</updated>
+        <content type="html"><![CDATA[00:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 613회〈The Last Song 2편〉우승자 ⭐김필⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/37572637</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37335493"/>
         <updated>2023-06-24T12:34:19.069Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 612회〈The Last Song 1편＞  우승자 ⭐서문탁⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/37335413</id>
-        <link href="https://tv.naver.com/v/37335413"/>
-        <updated>2023-06-24T12:34:19.069Z</updated>
-        <content type="html"><![CDATA[00:53]]></content>
     </entry>
 </feed>

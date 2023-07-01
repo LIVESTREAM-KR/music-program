@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-01T12:33:52.485Z</updated>
+    <updated>2023-07-01T13:21:47.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BOUNCY (K-HOT CHILLI PEPPERS) - ATEEZ(에이티즈) | KBS 230630 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 👑2023 상반기 왕중왕전👑 불후의 명곡 최고의 축제! 어느 때보다 막강한 무대들 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/37574528</id>
+        <link href="https://tv.naver.com/v/37574528"/>
+        <updated>2023-07-01T13:21:39.374Z</updated>
+        <content type="html"><![CDATA[00:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 613회〈The Last Song 2편〉우승자 ⭐김필⭐ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/37572637</id>
         <link href="https://tv.naver.com/v/37572637"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/37335493"/>
         <updated>2023-06-24T12:34:19.069Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 612회〈The Last Song 1편＞  우승자 ⭐서문탁⭐ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/37335413</id>
-        <link href="https://tv.naver.com/v/37335413"/>
-        <updated>2023-06-24T12:34:19.069Z</updated>
-        <content type="html"><![CDATA[00:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 빌보드가 인정한 싱어송라이터, 달샤벳 출신 가수 수빈! MBC 230625 방송 (복면가왕)]]></title>
