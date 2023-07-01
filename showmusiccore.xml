@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-01T06:22:56.715Z</updated>
+    <updated>2023-07-01T07:16:57.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트리플에스 크리스탈아이즈 - 터치 (tripleS +(KR)ystal Eyes - Touch), MBC 230701 방송]]></title>
+        <id>https://tv.naver.com/v/37566958</id>
+        <link href="https://tv.naver.com/v/37566958"/>
+        <updated>2023-07-01T07:16:09.248Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위아이 - 질주 (WEi - OVERDRIVE), MBC 230701 방송]]></title>
+        <id>https://tv.naver.com/v/37566829</id>
+        <link href="https://tv.naver.com/v/37566829"/>
+        <updated>2023-07-01T07:16:09.251Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루네이트 - 와일드 하트 (LUN8 - Wild Heart), MBC 230701 방송]]></title>
+        <id>https://tv.naver.com/v/37566697</id>
+        <link href="https://tv.naver.com/v/37566697"/>
+        <updated>2023-07-01T07:16:09.252Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에잇턴 - 엑셀 (8TURN - EXCEL), MBC 230701 방송]]></title>
+        <id>https://tv.naver.com/v/37566392</id>
+        <link href="https://tv.naver.com/v/37566392"/>
+        <updated>2023-07-01T07:16:09.255Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이파이유니콘 - 오버 더 레인보우 (Hi-Fi Un!corn - Over the Rainbow), MBC 230701 방송]]></title>
+        <id>https://tv.naver.com/v/37566256</id>
+        <link href="https://tv.naver.com/v/37566256"/>
+        <updated>2023-07-01T07:16:09.264Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소연 - 또또 (KIM SO YEON - TTO TTO), MBC 230701 방송]]></title>
+        <id>https://tv.naver.com/v/37566005</id>
+        <link href="https://tv.naver.com/v/37566005"/>
+        <updated>2023-07-01T07:16:09.274Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] June TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/37503649</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/37380544"/>
         <updated>2023-06-26T07:18:34.101Z</updated>
         <content type="html"><![CDATA[15:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ – BOUNCY(에이티즈 - 바운시) FanCam | Show! MusicCore | MBC230624방송]]></title>
-        <id>https://tv.naver.com/v/37379844</id>
-        <link href="https://tv.naver.com/v/37379844"/>
-        <updated>2023-06-26T06:25:49.853Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LUN8 – Wild Heart(루네이트 - 와일드 하트) FanCam | Show! MusicCore | MBC230624방송]]></title>
-        <id>https://tv.naver.com/v/37353182</id>
-        <link href="https://tv.naver.com/v/37353182"/>
-        <updated>2023-06-25T10:19:19.334Z</updated>
-        <content type="html"><![CDATA[40:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] THE NEW SIX - Kick It 4 Now(더뉴식스 – 킥 잇 포 나우) FanCam | Show! MusicCore | MBC230624방송]]></title>
-        <id>https://tv.naver.com/v/37353181</id>
-        <link href="https://tv.naver.com/v/37353181"/>
-        <updated>2023-06-25T10:19:19.335Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소]tripleS +(KR)ystal Eyes Kim ChaeYeon–Touch(트리플에스 크리스탈 아이즈 김채연-터치)FanCam|MusicCore|MBC230624방]]></title>
-        <id>https://tv.naver.com/v/37353180</id>
-        <link href="https://tv.naver.com/v/37353180"/>
-        <updated>2023-06-25T10:19:19.339Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소]tripleS +(KR)ystal Eyes Yoon SeoYeon–Touch(트리플에스 크리스탈 아이즈 윤서연-터치)FanCam|MusicCore|MBC230624방]]></title>
-        <id>https://tv.naver.com/v/37353179</id>
-        <link href="https://tv.naver.com/v/37353179"/>
-        <updated>2023-06-25T10:19:19.339Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] tripleS +(KR)ystal Eyes - Touch(트리플에스 크리스탈 아이즈 – 터치) FanCam | Show! MusicCore | MBC230624방송]]></title>
-        <id>https://tv.naver.com/v/37353176</id>
-        <link href="https://tv.naver.com/v/37353176"/>
-        <updated>2023-06-25T10:19:19.346Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
