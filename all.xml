@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-02T07:16:19.641Z</updated>
+    <updated>2023-07-02T08:22:14.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BOUNCY (K-HOT CHILLI PEPPERS) - ATEEZ(에이티즈) | KBS 230630 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,48 @@
         <content type="html"><![CDATA[04:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37588841</id>
+        <link href="https://tv.naver.com/v/37588841"/>
+        <updated>2023-07-02T08:21:38.202Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHINee(샤이니) - HARD | SBS 230702 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37588732</id>
+        <link href="https://tv.naver.com/v/37588732"/>
+        <updated>2023-07-02T08:21:38.203Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - MOVE(T5) | SBS 230702 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37588730</id>
+        <link href="https://tv.naver.com/v/37588730"/>
+        <updated>2023-07-02T08:21:38.205Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230702 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37588531</id>
+        <link href="https://tv.naver.com/v/37588531"/>
+        <updated>2023-07-02T08:21:38.207Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성규 - Small Talk | SBS 230702 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37588419</id>
+        <link href="https://tv.naver.com/v/37588419"/>
+        <updated>2023-07-02T08:21:38.207Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재환 - 개이득(feat. BOBBY) | SBS 230702 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/37588321</id>
+        <link href="https://tv.naver.com/v/37588321"/>
+        <updated>2023-07-02T08:21:38.209Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[YENA(최예나) - Hate Rodrigo(feat. 우기((여자)아이들)) | SBS 230702 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/37588222</id>
         <link href="https://tv.naver.com/v/37588222"/>
@@ -590,48 +632,6 @@
         <id>https://tv.naver.com/v/37350139</id>
         <link href="https://tv.naver.com/v/37350139"/>
         <updated>2023-06-25T08:22:37.316Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230625 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37350032</id>
-        <link href="https://tv.naver.com/v/37350032"/>
-        <updated>2023-06-25T08:22:37.317Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We;Na - QUEEN | SBS 230625 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37350030</id>
-        <link href="https://tv.naver.com/v/37350030"/>
-        <updated>2023-06-25T08:22:37.325Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapillus(라필루스) - Who’s Next | SBS 230625 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37349900</id>
-        <link href="https://tv.naver.com/v/37349900"/>
-        <updated>2023-06-25T08:22:37.328Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2Z - Like A Movie | SBS 230625 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37349803</id>
-        <link href="https://tv.naver.com/v/37349803"/>
-        <updated>2023-06-25T07:16:42.568Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230618 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37112957</id>
-        <link href="https://tv.naver.com/v/37112957"/>
-        <updated>2023-06-18T07:14:41.006Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태용 - 샤랄라(SHALALA) | SBS 230618 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37112846</id>
-        <link href="https://tv.naver.com/v/37112846"/>
-        <updated>2023-06-18T07:14:41.006Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
