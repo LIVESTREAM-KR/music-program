@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-07-03T07:18:24.694Z</updated>
+    <updated>2023-07-03T08:23:53.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 천상계의 고음 머신~ 22년 차 밴드 보컬, 가수 윤성! MBC 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37622571</id>
+        <link href="https://tv.naver.com/v/37622571"/>
+        <updated>2023-07-03T08:23:52.994Z</updated>
+        <content type="html"><![CDATA[12:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 안 듣고는 못 배기는 마초보이스, 캔의 배기성! MBC 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37622101</id>
+        <link href="https://tv.naver.com/v/37622101"/>
+        <updated>2023-07-03T08:23:52.995Z</updated>
+        <content type="html"><![CDATA[11:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 공감을 이끄는 감성 장인, 가수 빌리어코스티! MBC 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37620986</id>
+        <link href="https://tv.naver.com/v/37620986"/>
+        <updated>2023-07-03T08:23:52.995Z</updated>
+        <content type="html"><![CDATA[08:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜7연승 저지를 위한 특수 작전! '팔색조'는 임무를 성공할 수 있을까?＞ 복면가왕 412회 예고, MBC 230709 방송]]></title>
         <id>https://tv.naver.com/v/37593578</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/37353663"/>
         <updated>2023-06-25T10:20:05.714Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설렘 가득💕 '메리미'의 진심을 다해 전하는 사랑 고백 ＜결혼해줄래＞🎵, MBC 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37353405</id>
-        <link href="https://tv.naver.com/v/37353405"/>
-        <updated>2023-06-25T10:20:05.715Z</updated>
-        <content type="html"><![CDATA[01:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['메리미' VS '키스미'의 1라운드 무대 - 취기를 빌려 (Vocal 이민혁), MBC 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37353264</id>
-        <link href="https://tv.naver.com/v/37353264"/>
-        <updated>2023-06-25T10:20:05.716Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 자동으로 따라 부르게 만드는 메가 히트송🎉 ＜사랑인걸＞의 주인공! 가수 모세, MBC 230618 방송]]></title>
-        <id>https://tv.naver.com/v/37152753</id>
-        <link href="https://tv.naver.com/v/37152753"/>
-        <updated>2023-06-19T11:15:15.449Z</updated>
-        <content type="html"><![CDATA[12:57]]></content>
     </entry>
 </feed>
