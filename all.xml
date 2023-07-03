@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-03T06:24:54.386Z</updated>
+    <updated>2023-07-03T07:18:24.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BOUNCY (K-HOT CHILLI PEPPERS) - ATEEZ(에이티즈) | KBS 230630 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE JUNKYU - MOVE (T5)(트레저 준규 - 무브 (T5)) Close-up Cam | Show! MusicCore | MBC230701방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37619595</id>
+        <link href="https://tv.naver.com/v/37619595"/>
+        <updated>2023-07-03T07:17:38.127Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE SO JUNG HWAN - MOVE (T5)(트레저 소정환 - 무브 (T5)) Close-up Cam|Show!MusicCore|MBC230701방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37619354</id>
+        <link href="https://tv.naver.com/v/37619354"/>
+        <updated>2023-07-03T07:17:38.138Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE YOON JAE HYUK - MOVE (T5)(트레저 윤재혁 - 무브 (T5))Close-up Cam|Show!MusicCore|MBC230701방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37619139</id>
+        <link href="https://tv.naver.com/v/37619139"/>
+        <updated>2023-07-03T07:17:38.138Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 윤호 , 7월 첫째 주 음악중심 MC 컷 모음!, MBC 230701 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37615299</id>
         <link href="https://tv.naver.com/v/37615299"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/37568473"/>
         <updated>2023-07-01T08:20:59.031Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 태용 - 관둬 (TAEYONG - GWANDO), MBC 230617 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37568364</id>
-        <link href="https://tv.naver.com/v/37568364"/>
-        <updated>2023-07-01T08:20:59.034Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 - 하드 (SHINee - HARD), MBC 230701 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37568227</id>
-        <link href="https://tv.naver.com/v/37568227"/>
-        <updated>2023-07-01T08:20:59.035Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니 - 쥬스 (SHINee - JUICE), MBC 230701 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37568100</id>
-        <link href="https://tv.naver.com/v/37568100"/>
-        <updated>2023-07-01T08:20:59.042Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송 (인기가요)]]></title>
