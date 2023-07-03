@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-07-03T08:23:53.808Z</updated>
+    <updated>2023-07-03T09:19:46.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 OST의 신흥강자~ 다재나능 싱어송라이터, 가수 가호! MBC 230702 방송]]></title>
+        <id>https://tv.naver.com/v/37622846</id>
+        <link href="https://tv.naver.com/v/37622846"/>
+        <updated>2023-07-03T09:19:46.099Z</updated>
+        <content type="html"><![CDATA[13:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 천상계의 고음 머신~ 22년 차 밴드 보컬, 가수 윤성! MBC 230702 방송]]></title>
         <id>https://tv.naver.com/v/37622571</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37353942"/>
         <updated>2023-06-25T10:20:05.714Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['키스미'의 정체는 경서예지의 경서!, MBC 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37353663</id>
-        <link href="https://tv.naver.com/v/37353663"/>
-        <updated>2023-06-25T10:20:05.714Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
