@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-04T09:20:00.282Z</updated>
+    <updated>2023-07-04T10:21:21.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BOUNCY (K-HOT CHILLI PEPPERS) - ATEEZ(에이티즈) | KBS 230630 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🌊엠카 워터파크 개장🌊 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/37669541</id>
+        <link href="https://tv.naver.com/v/37669541"/>
+        <updated>2023-07-04T10:20:52.921Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['COMEBACK' SHINee - HARD | Mnet 230629 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/37512039</id>
         <link href="https://tv.naver.com/v/37512039"/>
@@ -838,11 +845,74 @@
         <content type="html"><![CDATA[04:07]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[fromis_9 (프로미스나인) - #menow | Mnet 230622 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/37273661</id>
-        <link href="https://tv.naver.com/v/37273661"/>
-        <updated>2023-06-22T11:13:51.841Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
+        <title type="html"><![CDATA[[Comeback] 와일드한 퍼포먼스, 위아이(WEi) 'Thriller' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37670111</id>
+        <link href="https://tv.naver.com/v/37670111"/>
+        <updated>2023-07-04T10:20:59.606Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강렬한 비트와 화려한 군무, Lapillus(라필루스) 'Who’s Next' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37670109</id>
+        <link href="https://tv.naver.com/v/37670109"/>
+        <updated>2023-07-04T10:20:59.616Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 형섭 & 김재환 (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37670107</id>
+        <link href="https://tv.naver.com/v/37670107"/>
+        <updated>2023-07-04T10:20:59.624Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 자유분방한 일탈, 8TURN(에잇턴) 'WORLD + EXCEL' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37669905</id>
+        <link href="https://tv.naver.com/v/37669905"/>
+        <updated>2023-07-04T10:20:59.625Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밝고 희망찬 멜로디, Hi-Fi Un!corn 'Over the Rainbow (KR ver.)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37669903</id>
+        <link href="https://tv.naver.com/v/37669903"/>
+        <updated>2023-07-04T10:20:59.626Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청순함의 대명사, tripleS +(KR)ystal Eyes 'Touch' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37669587</id>
+        <link href="https://tv.naver.com/v/37669587"/>
+        <updated>2023-07-04T10:20:59.627Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[윌 유 내꾸 미?] Hi-Fi Un!corn (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37669538</id>
+        <link href="https://tv.naver.com/v/37669538"/>
+        <updated>2023-07-04T10:20:59.628Z</updated>
+        <content type="html"><![CDATA[04:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상큼발랄한 매력, tripleS +(KR)ystal Eyes 'Cherry Talk' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37669230</id>
+        <link href="https://tv.naver.com/v/37669230"/>
+        <updated>2023-07-04T10:20:59.628Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풋풋한 청량미, LUN8(루네이트) 'Wild Heart' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37668657</id>
+        <link href="https://tv.naver.com/v/37668657"/>
+        <updated>2023-07-04T10:20:59.644Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흥 넘치는 멜로디, 김소연 '또또' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/37668627</id>
+        <link href="https://tv.naver.com/v/37668627"/>
+        <updated>2023-07-04T10:20:59.644Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
@@ -983,76 +1053,6 @@
         <link href="https://tv.naver.com/v/37194868"/>
         <updated>2023-06-20T11:14:50.278Z</updated>
         <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 이제껏 느낄 수 없었던 매운맛 퍼포먼스, ATEEZ(에이티즈) 'INTRO   BOUNCY (K-HOT CHILLI PEPPERS)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37194477</id>
-        <link href="https://tv.naver.com/v/37194477"/>
-        <updated>2023-06-20T11:14:50.298Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역동적인 퍼포먼스, P1Harmony 'JUMP' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37194324</id>
-        <link href="https://tv.naver.com/v/37194324"/>
-        <updated>2023-06-20T11:14:50.299Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화려한 완벽 비주얼, fromis_9 (프로미스나인) '#menow' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37194200</id>
-        <link href="https://tv.naver.com/v/37194200"/>
-        <updated>2023-06-20T11:14:50.301Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 청량한 멜로디에 러블리한 보이스, 백예빈 '비행구름' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37194198</id>
-        <link href="https://tv.naver.com/v/37194198"/>
-        <updated>2023-06-20T11:14:50.301Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 희망을 주는 밝은 에너지, 다크비(DKB) 'I Need Love' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37194173</id>
-        <link href="https://tv.naver.com/v/37194173"/>
-        <updated>2023-06-20T11:14:50.304Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 빈틈없는 멋짐, 다크비(DKB) 'More than 100 reasons' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37194027</id>
-        <link href="https://tv.naver.com/v/37194027"/>
-        <updated>2023-06-20T11:14:50.305Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노스탤지어를 자극하는, THE NEW SIX (TNX) 'Kick It 4 Now' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37193902</id>
-        <link href="https://tv.naver.com/v/37193902"/>
-        <updated>2023-06-20T11:14:50.306Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반모하SHOW] fromis_9 (프로미스나인) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37193897</id>
-        <link href="https://tv.naver.com/v/37193897"/>
-        <updated>2023-06-20T11:14:50.307Z</updated>
-        <content type="html"><![CDATA[04:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주체적인 자신감, NINE to SIX '끄덕 (Nod)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37193760</id>
-        <link href="https://tv.naver.com/v/37193760"/>
-        <updated>2023-06-20T11:14:50.307Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어딜 가든 나일 수 있게, We;Na 'QUEEN' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37193759</id>
-        <link href="https://tv.naver.com/v/37193759"/>
-        <updated>2023-06-20T11:14:50.322Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] FIREWORK처럼 터지는 7월 첫쨋주 쇼챔! 아싸 개이득 (쇼챔피언)]]></title>

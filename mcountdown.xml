@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-07-04T09:20:00.270Z</updated>
+    <updated>2023-07-04T10:21:21.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🌊엠카 워터파크 개장🌊 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/37669541</id>
+        <link href="https://tv.naver.com/v/37669541"/>
+        <updated>2023-07-04T10:20:52.921Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' SHINee - HARD | Mnet 230629 방송]]></title>
         <id>https://tv.naver.com/v/37512039</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37273923"/>
         <updated>2023-06-22T11:13:51.839Z</updated>
         <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fromis_9 (프로미스나인) - #menow | Mnet 230622 방송]]></title>
-        <id>https://tv.naver.com/v/37273661</id>
-        <link href="https://tv.naver.com/v/37273661"/>
-        <updated>2023-06-22T11:13:51.841Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
