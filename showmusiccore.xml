@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-05T07:19:20.705Z</updated>
+    <updated>2023-07-05T08:25:25.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] TAEYONG – GWANDO(태용 - 관둬) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/37692457</id>
+        <link href="https://tv.naver.com/v/37692457"/>
+        <updated>2023-07-05T08:24:41.049Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ATEEZ SAN - BOUNCY(에이티즈 산 - 바운시) Close-up Cam | Show! MusicCore | MBC230701방송]]></title>
         <id>https://tv.naver.com/v/37626668</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37571483"/>
         <updated>2023-07-01T11:14:28.716Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TREASURE (T5) DOYOUNG - MOVE(트레저 (T5) 도영 - 무브) FanCam | Show! MusicCore | MBC230701방송]]></title>
-        <id>https://tv.naver.com/v/37571482</id>
-        <link href="https://tv.naver.com/v/37571482"/>
-        <updated>2023-07-01T11:14:28.716Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
