@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-07-06T10:21:45.589Z</updated>
+    <updated>2023-07-06T11:16:53.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SHINee - HARD | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37753745</id>
+        <link href="https://tv.naver.com/v/37753745"/>
+        <updated>2023-07-06T11:16:26.474Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 틴탑 (TEEN TOP) - 휙 (HWEEK) | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37753743</id>
+        <link href="https://tv.naver.com/v/37753743"/>
+        <updated>2023-07-06T11:16:26.477Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['STUDIO M' MIDNATT - Masquerade (City Pop Mix) | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37753741</id>
+        <link href="https://tv.naver.com/v/37753741"/>
+        <updated>2023-07-06T11:16:26.483Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 수안(SWAN) - Twenty (Prod. 정키) | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37753583</id>
+        <link href="https://tv.naver.com/v/37753583"/>
+        <updated>2023-07-06T11:16:26.483Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[&TEAM - FIREWORK (Korean ver.) | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37753370</id>
+        <link href="https://tv.naver.com/v/37753370"/>
+        <updated>2023-07-06T11:16:26.483Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with 틴탑 (TEEN TOP) | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37753369</id>
+        <link href="https://tv.naver.com/v/37753369"/>
+        <updated>2023-07-06T11:16:26.483Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - EXCEL | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37753213</id>
+        <link href="https://tv.naver.com/v/37753213"/>
+        <updated>2023-07-06T11:16:26.484Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lapillus(라필루스) - Who’s Next | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37753102</id>
+        <link href="https://tv.naver.com/v/37753102"/>
+        <updated>2023-07-06T11:16:26.487Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HOT DEBUT' KISS OF LIFE - 쉿 (Shhh) | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37753101</id>
+        <link href="https://tv.naver.com/v/37753101"/>
+        <updated>2023-07-06T11:16:26.489Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤지영 - 언젠가 너와 나 (Feat. 카더가든) | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37752912</id>
+        <link href="https://tv.naver.com/v/37752912"/>
+        <updated>2023-07-06T11:16:26.490Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남동현 - 해적이 되고 싶었던 소년 | Mnet 230706 방송]]></title>
         <id>https://tv.naver.com/v/37752771</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/37510561"/>
         <updated>2023-06-29T11:15:44.282Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapillus(라필루스) - Who's Next | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37510291</id>
-        <link href="https://tv.naver.com/v/37510291"/>
-        <updated>2023-06-29T10:20:15.001Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE NEW SIX (TNX) - Kick It 4 Now | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37510120</id>
-        <link href="https://tv.naver.com/v/37510120"/>
-        <updated>2023-06-29T10:20:15.002Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 8TURN(에잇턴) - WORLD + EXCEL | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37509965</id>
-        <link href="https://tv.naver.com/v/37509965"/>
-        <updated>2023-06-29T10:20:15.003Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DEBUT' Hi-Fi Un!corn - Over the Rainbow (KR ver.) | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37509823</id>
-        <link href="https://tv.naver.com/v/37509823"/>
-        <updated>2023-06-29T10:20:15.005Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 8TURN(에잇턴) | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37509643</id>
-        <link href="https://tv.naver.com/v/37509643"/>
-        <updated>2023-06-29T10:20:15.006Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS +(KR)ystal Eyes - Touch | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37509489</id>
-        <link href="https://tv.naver.com/v/37509489"/>
-        <updated>2023-06-29T10:20:15.007Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37509320</id>
-        <link href="https://tv.naver.com/v/37509320"/>
-        <updated>2023-06-29T10:20:15.007Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해시태그 - DIAMOND | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37509172</id>
-        <link href="https://tv.naver.com/v/37509172"/>
-        <updated>2023-06-29T10:20:15.008Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ(에이티즈)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/37436474</id>
-        <link href="https://tv.naver.com/v/37436474"/>
-        <updated>2023-06-27T13:26:40.711Z</updated>
-        <content type="html"><![CDATA[01:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' Lapillus(라필루스) - Who’s Next | Mnet 230622 방송]]></title>
-        <id>https://tv.naver.com/v/37277037</id>
-        <link href="https://tv.naver.com/v/37277037"/>
-        <updated>2023-06-22T13:20:05.958Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
