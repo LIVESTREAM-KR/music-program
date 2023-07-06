@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-07-06T09:19:49.412Z</updated>
+    <updated>2023-07-06T10:21:45.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남동현 - 해적이 되고 싶었던 소년 | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37752771</id>
+        <link href="https://tv.naver.com/v/37752771"/>
+        <updated>2023-07-06T10:21:18.290Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' ZEROBASEONE (제로베이스원) | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37752266</id>
+        <link href="https://tv.naver.com/v/37752266"/>
+        <updated>2023-07-06T10:21:18.290Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' Queenz Eye - UN-NORMAL | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37751891</id>
+        <link href="https://tv.naver.com/v/37751891"/>
+        <updated>2023-07-06T10:21:18.290Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS +(KR)ystal Eyes - Touch | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37751681</id>
+        <link href="https://tv.naver.com/v/37751681"/>
+        <updated>2023-07-06T10:21:18.291Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해시태그 - DIAMOND | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37751539</id>
+        <link href="https://tv.naver.com/v/37751539"/>
+        <updated>2023-07-06T10:21:18.291Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | Mnet 230706 방송]]></title>
+        <id>https://tv.naver.com/v/37751323</id>
+        <link href="https://tv.naver.com/v/37751323"/>
+        <updated>2023-07-06T10:21:18.292Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌊엠카 워터파크 개장🌊 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/37669541</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/37277037"/>
         <updated>2023-06-22T13:20:05.958Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NCT DREAM - Broken Melodies | Mnet 230622 방송]]></title>
-        <id>https://tv.naver.com/v/37274214</id>
-        <link href="https://tv.naver.com/v/37274214"/>
-        <updated>2023-06-22T11:13:51.828Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 강다니엘 - SOS | Mnet 230622 방송]]></title>
-        <id>https://tv.naver.com/v/37274213</id>
-        <link href="https://tv.naver.com/v/37274213"/>
-        <updated>2023-06-22T11:13:51.833Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 로이킴 - WE GO HIGH | Mnet 230622 방송]]></title>
-        <id>https://tv.naver.com/v/37274212</id>
-        <link href="https://tv.naver.com/v/37274212"/>
-        <updated>2023-06-22T11:13:51.834Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with NCT DREAM (엔시티 드림) | Mnet 230622 방송]]></title>
-        <id>https://tv.naver.com/v/37274084</id>
-        <link href="https://tv.naver.com/v/37274084"/>
-        <updated>2023-06-22T11:13:51.836Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 김재환 - 개이득 (Feat. BOBBY) | Mnet 230622 방송]]></title>
-        <id>https://tv.naver.com/v/37273926</id>
-        <link href="https://tv.naver.com/v/37273926"/>
-        <updated>2023-06-22T11:13:51.838Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' ATEEZ(에이티즈) - BOUNCY (K-HOT CHILLI PEPPERS) | Mnet 230622 방송]]></title>
-        <id>https://tv.naver.com/v/37273923</id>
-        <link href="https://tv.naver.com/v/37273923"/>
-        <updated>2023-06-22T11:13:51.839Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
     </entry>
 </feed>
