@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-07T07:17:43.114Z</updated>
+    <updated>2023-07-07T08:24:31.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] TAEYONG – SHALALA(태용 - 샤랄라) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/37751316</id>
+        <link href="https://tv.naver.com/v/37751316"/>
+        <updated>2023-07-07T08:23:42.024Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SHINee.zip 📂 Replay(누난 너무 예뻐)부터 HARD까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/37750943</id>
+        <link href="https://tv.naver.com/v/37750943"/>
+        <updated>2023-07-07T08:23:42.024Z</updated>
+        <content type="html"><![CDATA[01:37:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] TAEYONG – GWANDO(태용 - 관둬) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/37692457</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37571487"/>
         <updated>2023-07-01T11:14:28.709Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WEi KIM YO HAN - OVERDRIVE(위아이 김요한 - 질주) FanCam | Show! MusicCore | MBC230701방송]]></title>
-        <id>https://tv.naver.com/v/37571486</id>
-        <link href="https://tv.naver.com/v/37571486"/>
-        <updated>2023-07-01T11:14:28.709Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TREASURE (T5) JUNKYU - MOVE(트레저 (T5) 준규 - 무브) FanCam | Show! MusicCore | MBC230701방송]]></title>
-        <id>https://tv.naver.com/v/37571483</id>
-        <link href="https://tv.naver.com/v/37571483"/>
-        <updated>2023-07-01T11:14:28.716Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>
