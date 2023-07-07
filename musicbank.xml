@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-07-07T09:19:01.420Z</updated>
+    <updated>2023-07-07T10:20:45.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HARD - SHINee | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37792954</id>
+        <link href="https://tv.naver.com/v/37792954"/>
+        <updated>2023-07-07T10:19:56.043Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휙 (HWEEK) - 틴탑 | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37792917</id>
+        <link href="https://tv.naver.com/v/37792917"/>
+        <updated>2023-07-07T10:19:56.043Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Talk - 김성규 | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37792606</id>
+        <link href="https://tv.naver.com/v/37792606"/>
+        <updated>2023-07-07T10:19:56.050Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개이득 (Feat. BOBBY) - 김재환 | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37792438</id>
+        <link href="https://tv.naver.com/v/37792438"/>
+        <updated>2023-07-07T10:19:56.052Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designer - VAV | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37792283</id>
+        <link href="https://tv.naver.com/v/37792283"/>
+        <updated>2023-07-07T10:19:56.064Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twenty - 수안(SWAN) | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37792051</id>
+        <link href="https://tv.naver.com/v/37792051"/>
+        <updated>2023-07-07T10:19:56.064Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who’s Next - Lapillus(라필루스) | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37791912</id>
+        <link href="https://tv.naver.com/v/37791912"/>
+        <updated>2023-07-07T10:19:56.065Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIREWORK (Korean ver.) - &TEAM | KBS 230707 방송]]></title>
+        <id>https://tv.naver.com/v/37791652</id>
+        <link href="https://tv.naver.com/v/37791652"/>
+        <updated>2023-07-07T10:19:56.065Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scent of you (Korean ver.) - &TEAM | KBS 230707 방송]]></title>
         <id>https://tv.naver.com/v/37791274</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/37545113"/>
         <updated>2023-06-30T09:18:03.784Z</updated>
         <content type="html"><![CDATA[02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who’s Next - Lapillus(라필루스) | KBS 230630 방송]]></title>
-        <id>https://tv.naver.com/v/37544928</id>
-        <link href="https://tv.naver.com/v/37544928"/>
-        <updated>2023-06-30T09:18:03.785Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIREWORK (Korean ver.) - &TEAM | KBS 230630 방송]]></title>
-        <id>https://tv.naver.com/v/37544595</id>
-        <link href="https://tv.naver.com/v/37544595"/>
-        <updated>2023-06-30T09:18:03.786Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXCEL - 8TURN(에잇턴) | KBS 230630 방송]]></title>
-        <id>https://tv.naver.com/v/37544428</id>
-        <link href="https://tv.naver.com/v/37544428"/>
-        <updated>2023-06-30T09:18:03.787Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One and Only - BOYNEXTDOOR | KBS 230630 방송]]></title>
-        <id>https://tv.naver.com/v/37544243</id>
-        <link href="https://tv.naver.com/v/37544243"/>
-        <updated>2023-06-30T09:18:03.787Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예쁘다 - BOYNEXTDOOR | KBS 230630 방송]]></title>
-        <id>https://tv.naver.com/v/37544236</id>
-        <link href="https://tv.naver.com/v/37544236"/>
-        <updated>2023-06-30T09:18:03.788Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over the Rainbow (KR ver.) - Hi-Fi Un!corn | KBS 230630 방송]]></title>
-        <id>https://tv.naver.com/v/37543858</id>
-        <link href="https://tv.naver.com/v/37543858"/>
-        <updated>2023-06-30T09:18:03.793Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이팅 해야지 - 이채민 X 홍은채 | KBS 230630 방송]]></title>
-        <id>https://tv.naver.com/v/37543853</id>
-        <link href="https://tv.naver.com/v/37543853"/>
-        <updated>2023-06-30T09:18:03.794Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broken Melodies - NCT DREAM | KBS 230623 방송]]></title>
-        <id>https://tv.naver.com/v/37310306</id>
-        <link href="https://tv.naver.com/v/37310306"/>
-        <updated>2023-06-23T10:20:21.528Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
     </entry>
 </feed>
