@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-07T14:18:44.571Z</updated>
+    <updated>2023-07-07T15:19:59.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -213,6 +213,6 @@
         <id>https://tv.naver.com/v/37698074</id>
         <link href="https://tv.naver.com/v/37698074"/>
         <updated>2023-07-05T13:30:48.768Z</updated>
-        <content type="html"><![CDATA[13:00]]></content>
+        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
