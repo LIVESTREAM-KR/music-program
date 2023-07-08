@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-08T06:22:32.679Z</updated>
+    <updated>2023-07-08T07:16:58.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HARD - SHINee | KBS 230707 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,48 @@
         <content type="html"><![CDATA[02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[남동현 - 해적이 되고 싶었던 소년 (Nam Dong Hyun - Pirate Boy), MBC 230708 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37814740</id>
+        <link href="https://tv.naver.com/v/37814740"/>
+        <updated>2023-07-08T07:16:10.581Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유다빈밴드 - 항해 (YUDABINBAND - Voyage), MBC 230708 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37814738</id>
+        <link href="https://tv.naver.com/v/37814738"/>
+        <updated>2023-07-08T07:16:10.585Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루네이트 - 와일드 하트 (LUN8 - Wild Heart), MBC 230708 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37814457</id>
+        <link href="https://tv.naver.com/v/37814457"/>
+        <updated>2023-07-08T07:16:10.593Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퀸즈 아이 - 언 노멀 (Queenz Eye - UN-NORMAL), MBC 230708 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37814314</id>
+        <link href="https://tv.naver.com/v/37814314"/>
+        <updated>2023-07-08T07:16:10.596Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트리플에스 크리스탈아이즈 - 터치 (tripleS +(KR)ystal Eyes - Touch), MBC 230708 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37814228</id>
+        <link href="https://tv.naver.com/v/37814228"/>
+        <updated>2023-07-08T07:16:10.603Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼카인드 - 무디 (SUPERKIND - Moody), MBC 230708 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37814088</id>
+        <link href="https://tv.naver.com/v/37814088"/>
+        <updated>2023-07-08T07:16:10.611Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] TAEYONG – SHALALA(태용 - 샤랄라) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37751316</id>
         <link href="https://tv.naver.com/v/37751316"/>
@@ -381,48 +423,6 @@
         <link href="https://tv.naver.com/v/37571772"/>
         <updated>2023-07-01T11:14:28.704Z</updated>
         <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TREASURE (T5) SO JUNG HWAN - MOVE(트레저 (T5) 소정환 - 무브) FanCam | Show! MusicCore | MBC230701방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37571619</id>
-        <link href="https://tv.naver.com/v/37571619"/>
-        <updated>2023-07-01T11:14:28.704Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YENA – Hate Rodrigo(최예나 - 헤이트 로드리고) FanCam | Show! MusicCore | MBC230701방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37571605</id>
-        <link href="https://tv.naver.com/v/37571605"/>
-        <updated>2023-07-01T11:14:28.704Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kim Sung Kyu - Small Talk(김성규 – 스몰 토크) FanCam (Horizontal Ver.) | Show!MusicCore|MBC230701방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37571604</id>
-        <link href="https://tv.naver.com/v/37571604"/>
-        <updated>2023-07-01T11:14:28.704Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lapillus CHANTY – Who’s Next(라필루스 샨티 - 후즈 넥스트) FanCam | Show! MusicCore | MBC230701방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37571490</id>
-        <link href="https://tv.naver.com/v/37571490"/>
-        <updated>2023-07-01T11:14:28.708Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lapillus - Who’s Next(라필루스 – 후즈 넥스트) FanCam | Show! MusicCore | MBC230701방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37571489</id>
-        <link href="https://tv.naver.com/v/37571489"/>
-        <updated>2023-07-01T11:14:28.708Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] HanSeungWoo - Dive Into(한승우 – 다이브 인투) FanCam (Horizontal Ver.) | Show! MusicCore|MBC230701방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37571487</id>
-        <link href="https://tv.naver.com/v/37571487"/>
-        <updated>2023-07-01T11:14:28.709Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송 (인기가요)]]></title>
