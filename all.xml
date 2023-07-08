@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-08T12:33:52.650Z</updated>
+    <updated>2023-07-08T13:21:56.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HARD - SHINee | KBS 230707 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Kim Sung Kyu - Small Talk(김성규 – 스몰 토크) FanCam (Horizontal Ver.) | Show!MusicCore|MBC230708방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37822513</id>
+        <link href="https://tv.naver.com/v/37822513"/>
+        <updated>2023-07-08T13:21:15.714Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kim Sung Kyu – Small Talk(김성규 - 스몰 토크) FanCam | Show! MusicCore | MBC230708방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37822367</id>
+        <link href="https://tv.naver.com/v/37822367"/>
+        <updated>2023-07-08T13:21:15.714Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] tripleS +(KR)ystal Eyes - Touch(트리플에스 크리스탈 아이즈 – 터치) FanCam | Show! MusicCore | MBC230708방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37822219</id>
         <link href="https://tv.naver.com/v/37822219"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/37819831"/>
         <updated>2023-07-08T11:14:23.714Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEEN TOP – HWEEK(틴탑 - 휙) FanCam | Show! MusicCore | MBC230708방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37819659</id>
-        <link href="https://tv.naver.com/v/37819659"/>
-        <updated>2023-07-08T11:14:23.716Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEEN TOP CHUNJI - HWEEK(틴탑 천지 - 휙) FanCam | Show! MusicCore | MBC230708방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37819642</id>
-        <link href="https://tv.naver.com/v/37819642"/>
-        <updated>2023-07-08T11:14:23.718Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송 (인기가요)]]></title>
