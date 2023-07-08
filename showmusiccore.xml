@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-08T09:17:54.733Z</updated>
+    <updated>2023-07-08T10:19:39.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 7월 1주차 1위 앵콜 무대! 샤이니 - 하드 (SHINee - HARD), MBC 230708 방송]]></title>
+        <id>https://tv.naver.com/v/37818274</id>
+        <link href="https://tv.naver.com/v/37818274"/>
+        <updated>2023-07-08T10:18:52.633Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 에이티즈 - 바운시 (ATEEZ - BOUNCY(K-HOT CHILLI PEPPERS)), MBC 230701 방송]]></title>
+        <id>https://tv.naver.com/v/37817920</id>
+        <link href="https://tv.naver.com/v/37817920"/>
+        <updated>2023-07-08T10:18:52.636Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7월 1주차 1위 샤이니 - 하드 (SHINee - HARD), MBC 230708 방송]]></title>
         <id>https://tv.naver.com/v/37817812</id>
@@ -18,13 +32,6 @@
         <link href="https://tv.naver.com/v/37817538"/>
         <updated>2023-07-08T09:17:06.842Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월 1주차 1위 샤이니 - 하드 (SHINee - HARD), MBC 230708 방송]]></title>
-        <id>https://tv.naver.com/v/37816864</id>
-        <link href="https://tv.naver.com/v/37816864"/>
-        <updated>2023-07-08T09:17:06.843Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[틴탑 - 휙 (TEEN TOP - HWEEK), MBC 230708 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37625851"/>
         <updated>2023-07-03T10:19:40.823Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ATEEZ HONGJOONG - BOUNCY(에이티즈 홍중 - 바운시) Close-up Cam | Show! MusicCore | MBC230701방송]]></title>
-        <id>https://tv.naver.com/v/37625646</id>
-        <link href="https://tv.naver.com/v/37625646"/>
-        <updated>2023-07-03T10:19:40.826Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
