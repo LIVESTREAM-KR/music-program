@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-07-09T09:17:08.144Z</updated>
+    <updated>2023-07-09T10:19:43.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['어항'의 식용 재료로 그림 그리기 개인기🎨 & '새장'의 힌트 제공❗ 싸이의 ＜새＞ 댄스?!🐦, MBC 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37842522</id>
+        <link href="https://tv.naver.com/v/37842522"/>
+        <updated>2023-07-09T10:19:42.956Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['어항' VS '새장'의 1라운드 무대 - 잊지 말기로 해 (Duet With 김현철), MBC 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37842279</id>
+        <link href="https://tv.naver.com/v/37842279"/>
+        <updated>2023-07-09T10:19:42.957Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고무대야 레드'의 정체는 빌리 하람!, MBC 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37842172</id>
+        <link href="https://tv.naver.com/v/37842172"/>
+        <updated>2023-07-09T10:19:42.957Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고무대야 레드' & '용달 블루'의 개인기 타임!😎 ＜강렬한 빨간 맛 댄스＞ X ＜찐~한 파란 맛 노래＞, MBC 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37841963</id>
+        <link href="https://tv.naver.com/v/37841963"/>
+        <updated>2023-07-09T10:19:42.959Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고무대야 레드' VS '용달 블루'의 1라운드 무대 - 달의 몰락, MBC 230709 방송]]></title>
+        <id>https://tv.naver.com/v/37841733</id>
+        <link href="https://tv.naver.com/v/37841733"/>
+        <updated>2023-07-09T10:19:42.960Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 OST의 신흥강자~ 다재나능 싱어송라이터, 가수 가호! MBC 230702 방송]]></title>
         <id>https://tv.naver.com/v/37622846</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/37354850"/>
         <updated>2023-06-25T11:16:35.047Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀척'의 정체는 가수 차웅기!, MBC 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37354738</id>
-        <link href="https://tv.naver.com/v/37354738"/>
-        <updated>2023-06-25T11:16:35.049Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분위기 끌어올려~✨ '귀척' X '월척'의 끌어올려 합동 댄스!, MBC 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37354598</id>
-        <link href="https://tv.naver.com/v/37354598"/>
-        <updated>2023-06-25T11:16:35.051Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['귀척' VS '월척'의 1라운드 무대 - Hug, MBC 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37354382</id>
-        <link href="https://tv.naver.com/v/37354382"/>
-        <updated>2023-06-25T10:20:05.704Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시리얼'의 정체는 배우 겸 가수 김민희!, MBC 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37354277</id>
-        <link href="https://tv.naver.com/v/37354277"/>
-        <updated>2023-06-25T10:20:05.714Z</updated>
-        <content type="html"><![CDATA[01:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시리얼' VS '요거트'의 1라운드 무대 - 매직 카펫 라이드, MBC 230625 방송]]></title>
-        <id>https://tv.naver.com/v/37353942</id>
-        <link href="https://tv.naver.com/v/37353942"/>
-        <updated>2023-06-25T10:20:05.714Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
     </entry>
 </feed>
