@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-10T07:18:52.004Z</updated>
+    <updated>2023-07-10T08:25:17.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HARD - SHINee | KBS 230707 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] TEEN TOP NIEL - HWEEK(틴탑 니엘 - 휙) Close-up Cam | Show! MusicCore | MBC230708방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37873317</id>
+        <link href="https://tv.naver.com/v/37873317"/>
+        <updated>2023-07-10T08:24:31.605Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] SHINee TAEMIN - HARD(샤이니 태민 - 하드) Close-up Cam | Show! MusicCore | MBC230708방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37872251</id>
+        <link href="https://tv.naver.com/v/37872251"/>
+        <updated>2023-07-10T08:24:31.605Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 7월 둘째 주 음악중심 MC 컷 모음!, MBC 230708 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37867247</id>
         <link href="https://tv.naver.com/v/37867247"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/37820056"/>
         <updated>2023-07-08T11:14:23.714Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Queenz Eye - UN-NORMAL(퀸즈아이 – 언노멀) FanCam | Show! MusicCore | MBC230708방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37819959</id>
-        <link href="https://tv.naver.com/v/37819959"/>
-        <updated>2023-07-08T11:14:23.714Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WEi – OVERDRIVE(위아이 - 질주) FanCam | Show! MusicCore | MBC230708방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37819958</id>
-        <link href="https://tv.naver.com/v/37819958"/>
-        <updated>2023-07-08T11:14:23.714Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SHINee(샤이니) - HARD | SBS 230709 방송 (인기가요)]]></title>
