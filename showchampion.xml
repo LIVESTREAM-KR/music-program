@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-10T04:22:53.295Z</updated>
+    <updated>2023-07-10T05:19:15.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 쉿.. 모두 쇼챔피언에 집중!😎]]></title>
+        <id>https://tv.naver.com/v/37863988</id>
+        <link href="https://tv.naver.com/v/37863988"/>
+        <updated>2023-07-10T05:18:58.602Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.482]]></title>
         <id>https://tv.naver.com/v/37714033</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37698345"/>
         <updated>2023-07-05T13:30:48.767Z</updated>
         <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS +(KR)ystal Eyes - Touch (트리플에스 크리스탈 아이즈 - 터치) l Show Champion l EP.482]]></title>
-        <id>https://tv.naver.com/v/37698074</id>
-        <link href="https://tv.naver.com/v/37698074"/>
-        <updated>2023-07-05T13:30:48.768Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
