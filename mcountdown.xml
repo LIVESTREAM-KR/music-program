@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-07-11T09:19:06.042Z</updated>
+    <updated>2023-07-11T10:20:52.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주헌 (몬스타엑스)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/37920235</id>
+        <link href="https://tv.naver.com/v/37920235"/>
+        <updated>2023-07-11T10:20:20.701Z</updated>
+        <content type="html"><![CDATA[01:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHINee - HARD | Mnet 230706 방송]]></title>
         <id>https://tv.naver.com/v/37753745</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37510905"/>
         <updated>2023-06-29T11:15:44.281Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAV - Designer | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37510900</id>
-        <link href="https://tv.naver.com/v/37510900"/>
-        <updated>2023-06-29T11:15:44.282Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>

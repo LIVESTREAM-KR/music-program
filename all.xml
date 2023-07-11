@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-11T09:19:06.055Z</updated>
+    <updated>2023-07-11T10:20:52.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HARD - SHINee | KBS 230707 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[02:59]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[주헌 (몬스타엑스)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/37920235</id>
+        <link href="https://tv.naver.com/v/37920235"/>
+        <updated>2023-07-11T10:20:20.701Z</updated>
+        <content type="html"><![CDATA[01:04]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SHINee - HARD | Mnet 230706 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/37753745</id>
         <link href="https://tv.naver.com/v/37753745"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/37510905"/>
         <updated>2023-06-29T11:15:44.281Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAV - Designer | Mnet 230629 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/37510900</id>
-        <link href="https://tv.naver.com/v/37510900"/>
-        <updated>2023-06-29T11:15:44.282Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
