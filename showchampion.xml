@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-12T10:20:42.916Z</updated>
+    <updated>2023-07-12T11:16:03.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엔딩원샷] 위아이 Car 드라이빙🚗💨 WEi 엔딩요정 주인공은 과연 누구?]]></title>
+        <id>https://tv.naver.com/v/37964734</id>
+        <link href="https://tv.naver.com/v/37964734"/>
+        <updated>2023-07-12T11:15:48.537Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엔딩원샷] 위아이(WEi) - 질주 (OVERDRIVE)]]></title>
+        <id>https://tv.naver.com/v/37964715</id>
+        <link href="https://tv.naver.com/v/37964715"/>
+        <updated>2023-07-12T11:15:48.537Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최초 공개] 위아이(WEi) - 하루 끝에 (End of The Day)]]></title>
         <id>https://tv.naver.com/v/37964421</id>
@@ -34,6 +48,13 @@
         <content type="html"><![CDATA[02:59]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[HOT DEBUT] 키스 오브 라이프(KISS OF LIFE) - 쉿 (Shhh)]]></title>
+        <id>https://tv.naver.com/v/37964050</id>
+        <link href="https://tv.naver.com/v/37964050"/>
+        <updated>2023-07-12T10:20:27.697Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[라필루스(Lapillus) - Who's Next]]></title>
         <id>https://tv.naver.com/v/37964055</id>
         <link href="https://tv.naver.com/v/37964055"/>
@@ -46,13 +67,6 @@
         <link href="https://tv.naver.com/v/37964052"/>
         <updated>2023-07-12T10:20:27.697Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HOT DEBUT] 키스 오브 라이프(KISS OF LIFE) - 쉿 (Shhh)]]></title>
-        <id>https://tv.naver.com/v/37964050</id>
-        <link href="https://tv.naver.com/v/37964050"/>
-        <updated>2023-07-12T10:20:27.697Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[남동현(Nam Dong Hyun) - 해적이 되고 싶었던 소년]]></title>
@@ -88,13 +102,6 @@
         <link href="https://tv.naver.com/v/37963213"/>
         <updated>2023-07-12T10:20:27.704Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소연(Kim So Yeon) - 또또]]></title>
-        <id>https://tv.naver.com/v/37963085</id>
-        <link href="https://tv.naver.com/v/37963085"/>
-        <updated>2023-07-12T10:20:27.705Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해시태그(Hash Tag) - DIAMOND]]></title>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/37711917</id>
         <link href="https://tv.naver.com/v/37711917"/>
         <updated>2023-07-05T13:30:48.747Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Lapillus SEOWON - Who's Next (라필루스 서원 - 후즈 넥스트) | Show Champion | EP.482]]></title>
-        <id>https://tv.naver.com/v/37711711</id>
-        <link href="https://tv.naver.com/v/37711711"/>
-        <updated>2023-07-05T13:30:48.748Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
