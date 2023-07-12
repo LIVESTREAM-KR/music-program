@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-12T07:17:46.064Z</updated>
+    <updated>2023-07-12T08:23:50.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HARD - SHINee | KBS 230707 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] FANTASY BOYS – Gesture(판타지 보이즈 - 제스처) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/37959012</id>
+        <link href="https://tv.naver.com/v/37959012"/>
+        <updated>2023-07-12T08:23:08.636Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] TREASURE (T5) SO JUNG HWAN - MOVE(트레저 (T5) 소정환 - 무브) Close-up Cam | Show! MusicCore | MBC23 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/37876397</id>
         <link href="https://tv.naver.com/v/37876397"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/37820459"/>
         <updated>2023-07-08T12:33:10.761Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YUDABINBAND – Voyage(유다빈밴드 - 항해) FanCam | Show! MusicCore | MBC230708방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/37820322</id>
-        <link href="https://tv.naver.com/v/37820322"/>
-        <updated>2023-07-08T11:14:23.687Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SHINee(샤이니) - HARD | SBS 230709 방송 (인기가요)]]></title>

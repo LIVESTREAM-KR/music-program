@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-12T07:17:46.060Z</updated>
+    <updated>2023-07-12T08:23:50.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] FANTASY BOYS – Gesture(판타지 보이즈 - 제스처) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/37959012</id>
+        <link href="https://tv.naver.com/v/37959012"/>
+        <updated>2023-07-12T08:23:08.636Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TREASURE (T5) SO JUNG HWAN - MOVE(트레저 (T5) 소정환 - 무브) Close-up Cam | Show! MusicCore | MBC23]]></title>
         <id>https://tv.naver.com/v/37876397</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37820459"/>
         <updated>2023-07-08T12:33:10.761Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YUDABINBAND – Voyage(유다빈밴드 - 항해) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37820322</id>
-        <link href="https://tv.naver.com/v/37820322"/>
-        <updated>2023-07-08T11:14:23.687Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>
