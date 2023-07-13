@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-13T07:17:50.254Z</updated>
+    <updated>2023-07-13T08:24:12.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] WEi - End of The Day (위아이 - 하루 끝에) | Show Champion | EP.483]]></title>
+        <id>https://tv.naver.com/v/37970045</id>
+        <link href="https://tv.naver.com/v/37970045"/>
+        <updated>2023-07-13T08:23:54.267Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] SWAN - Be my everything (수안 - 나를 비추면) | Show Champion | EP.483]]></title>
+        <id>https://tv.naver.com/v/37967477</id>
+        <link href="https://tv.naver.com/v/37967477"/>
+        <updated>2023-07-13T08:23:54.267Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE - Bye My Neverland (키스 오브 라이프 - 안녕,네버랜드) | Show Champion | EP.483]]></title>
+        <id>https://tv.naver.com/v/37967102</id>
+        <link href="https://tv.naver.com/v/37967102"/>
+        <updated>2023-07-13T08:23:54.267Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Queenz Eye HANNAH - UN-NORMAL (퀸즈아이 해나 - 언노멀) | Show Champion | EP.483]]></title>
         <id>https://tv.naver.com/v/37964714</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/37950735"/>
         <updated>2023-07-12T13:28:14.465Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔딩원샷] 위아이 Car 드라이빙🚗💨 WEi 엔딩요정 주인공은 과연 누구?]]></title>
-        <id>https://tv.naver.com/v/37964734</id>
-        <link href="https://tv.naver.com/v/37964734"/>
-        <updated>2023-07-12T11:15:48.537Z</updated>
-        <content type="html"><![CDATA[04:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔딩원샷] 위아이(WEi) - 질주 (OVERDRIVE)]]></title>
-        <id>https://tv.naver.com/v/37964715</id>
-        <link href="https://tv.naver.com/v/37964715"/>
-        <updated>2023-07-12T11:15:48.537Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초 공개] 위아이(WEi) - 하루 끝에 (End of The Day)]]></title>
-        <id>https://tv.naver.com/v/37964421</id>
-        <link href="https://tv.naver.com/v/37964421"/>
-        <updated>2023-07-12T10:20:27.679Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
     </entry>
 </feed>
