@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-07-13T09:18:43.028Z</updated>
+    <updated>2023-07-13T10:20:08.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lapillus(라필루스) - Who's Next | Mnet 230713 방송]]></title>
+        <id>https://tv.naver.com/v/38008569</id>
+        <link href="https://tv.naver.com/v/38008569"/>
+        <updated>2023-07-13T10:19:39.127Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with NMIXX (엔믹스) | Mnet 230713 방송]]></title>
+        <id>https://tv.naver.com/v/38008567</id>
+        <link href="https://tv.naver.com/v/38008567"/>
+        <updated>2023-07-13T10:19:39.129Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | Mnet 230713 방송]]></title>
+        <id>https://tv.naver.com/v/38008300</id>
+        <link href="https://tv.naver.com/v/38008300"/>
+        <updated>2023-07-13T10:19:39.141Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' NCT DREAM (엔시티 드림) | Mnet 230713 방송]]></title>
+        <id>https://tv.naver.com/v/38008294</id>
+        <link href="https://tv.naver.com/v/38008294"/>
+        <updated>2023-07-13T10:19:39.143Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queenz Eye - UN-NORMAL | Mnet 230713 방송]]></title>
+        <id>https://tv.naver.com/v/38008154</id>
+        <link href="https://tv.naver.com/v/38008154"/>
+        <updated>2023-07-13T10:19:39.145Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISS OF LIFE - 쉿 (Shhh) | Mnet 230713 방송]]></title>
+        <id>https://tv.naver.com/v/38008064</id>
+        <link href="https://tv.naver.com/v/38008064"/>
+        <updated>2023-07-13T10:19:39.148Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주헌 (몬스타엑스)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/37920235</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/37511696"/>
         <updated>2023-06-29T11:15:44.268Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' YENA(최예나) - Hate Rodrigo (Feat. 우기 ((여자)아이들)) | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37511538</id>
-        <link href="https://tv.naver.com/v/37511538"/>
-        <updated>2023-06-29T11:15:44.270Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' YENA(최예나) - WICKED LOVE | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37511347</id>
-        <link href="https://tv.naver.com/v/37511347"/>
-        <updated>2023-06-29T11:15:44.278Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 한승우 - Dive Into | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37511168</id>
-        <link href="https://tv.naver.com/v/37511168"/>
-        <updated>2023-06-29T11:15:44.279Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 위아이(WEi) - 질주(OVERDRIVE) | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37511167</id>
-        <link href="https://tv.naver.com/v/37511167"/>
-        <updated>2023-06-29T11:15:44.280Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with YENA(최예나) | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37511040</id>
-        <link href="https://tv.naver.com/v/37511040"/>
-        <updated>2023-06-29T11:15:44.280Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 유키스 - 갈래! (The Wonderful Escape) | Mnet 230629 방송]]></title>
-        <id>https://tv.naver.com/v/37510905</id>
-        <link href="https://tv.naver.com/v/37510905"/>
-        <updated>2023-06-29T11:15:44.281Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
