@@ -2,8 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-14T09:18:59.909Z</updated>
+    <updated>2023-07-14T10:20:11.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Cream Soda - EXO | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38051701</id>
+        <link href="https://tv.naver.com/v/38051701"/>
+        <updated>2023-07-14T10:19:20.011Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바람 - 코요태 | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38051698</id>
+        <link href="https://tv.naver.com/v/38051698"/>
+        <updated>2023-07-14T10:19:20.034Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FESTIVAL - 산다라박 | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38051526</id>
+        <link href="https://tv.naver.com/v/38051526"/>
+        <updated>2023-07-14T10:19:20.034Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Party O’Clock - NMIXX(엔믹스) | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38051218</id>
+        <link href="https://tv.naver.com/v/38051218"/>
+        <updated>2023-07-14T10:19:20.034Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roller Coaster - NMIXX(엔믹스) | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38051216</id>
+        <link href="https://tv.naver.com/v/38051216"/>
+        <updated>2023-07-14T10:19:20.034Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Shy - 뉴진스(NewJeans) | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38050888</id>
+        <link href="https://tv.naver.com/v/38050888"/>
+        <updated>2023-07-14T10:19:20.040Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Jeans - 뉴진스(NewJeans) | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38050883</id>
+        <link href="https://tv.naver.com/v/38050883"/>
+        <updated>2023-07-14T10:19:20.040Z</updated>
+        <content type="html"><![CDATA[02:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twenty - 수안(SWAN) | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38050695</id>
+        <link href="https://tv.naver.com/v/38050695"/>
+        <updated>2023-07-14T10:19:20.040Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Girls One - ODD EYE CIRCLE | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38050375</id>
+        <link href="https://tv.naver.com/v/38050375"/>
+        <updated>2023-07-14T10:19:20.040Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UN-NORMAL - Queenz Eye | KBS 230714 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/38050202</id>
+        <link href="https://tv.naver.com/v/38050202"/>
+        <updated>2023-07-14T10:19:20.040Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marionette - Lapillus(라필루스) | KBS 230714 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/38050073</id>
@@ -143,76 +213,6 @@
         <link href="https://tv.naver.com/v/37790215"/>
         <updated>2023-07-07T09:18:12.013Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOUNCY (K-HOT CHILLI PEPPERS) - ATEEZ(에이티즈) | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37546679</id>
-        <link href="https://tv.naver.com/v/37546679"/>
-        <updated>2023-06-30T10:19:20.503Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HARD - SHINee | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37546561</id>
-        <link href="https://tv.naver.com/v/37546561"/>
-        <updated>2023-06-30T10:19:20.503Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUICE - SHINee | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37546559</id>
-        <link href="https://tv.naver.com/v/37546559"/>
-        <updated>2023-06-30T10:19:20.503Z</updated>
-        <content type="html"><![CDATA[02:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Talk - 김성규 | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37546552</id>
-        <link href="https://tv.naver.com/v/37546552"/>
-        <updated>2023-06-30T10:19:20.503Z</updated>
-        <content type="html"><![CDATA[04:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfume - NCT DOJAEJUNG | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37546287</id>
-        <link href="https://tv.naver.com/v/37546287"/>
-        <updated>2023-06-30T10:19:20.503Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sacrifice (Eat Me Up) - ENHYPEN(엔하이픈) | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37546056</id>
-        <link href="https://tv.naver.com/v/37546056"/>
-        <updated>2023-06-30T10:19:20.503Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갈래! (The Wonderful Escape) - 유키스 | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37545900</id>
-        <link href="https://tv.naver.com/v/37545900"/>
-        <updated>2023-06-30T10:19:20.509Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 - LE SSERAFIM | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37545762</id>
-        <link href="https://tv.naver.com/v/37545762"/>
-        <updated>2023-06-30T10:19:20.510Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dive Into - 한승우 | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37545739</id>
-        <link href="https://tv.naver.com/v/37545739"/>
-        <updated>2023-06-30T10:19:20.513Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개이득 (Feat. BOBBY) - 김재환 | KBS 230630 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/37545570</id>
-        <link href="https://tv.naver.com/v/37545570"/>
-        <updated>2023-06-30T10:19:20.514Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ATEEZ – BOUNCY(에이티즈 - 바운시) | Show! Music Core (쇼! 음악중심)]]></title>
