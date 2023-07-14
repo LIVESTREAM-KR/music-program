@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-07-14T07:18:41.478Z</updated>
+    <updated>2023-07-14T08:23:08.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 개이득 챌린지 할 사람 모두 모여라~👍 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/38047347</id>
+        <link href="https://tv.naver.com/v/38047347"/>
+        <updated>2023-07-14T08:23:00.376Z</updated>
+        <content type="html"><![CDATA[01:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 614회〈아티스트 이자연 & 추가열 특집〉우승자 ⭐임태경⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/37820803</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37574528"/>
         <updated>2023-07-01T13:21:39.374Z</updated>
         <content type="html"><![CDATA[00:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 613회〈The Last Song 2편〉우승자 ⭐김필⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/37572637</id>
-        <link href="https://tv.naver.com/v/37572637"/>
-        <updated>2023-07-01T12:33:44.619Z</updated>
-        <content type="html"><![CDATA[00:42]]></content>
     </entry>
 </feed>
