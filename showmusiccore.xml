@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-15T06:23:19.785Z</updated>
+    <updated>2023-07-15T07:17:00.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[퀸즈 아이 - 언 노멀 (Queenz Eye - UN-NORMAL), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38072977</id>
+        <link href="https://tv.naver.com/v/38072977"/>
+        <updated>2023-07-15T07:16:17.658Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에잇턴 - 엑셀 (8TURN - EXCEL), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38072857</id>
+        <link href="https://tv.naver.com/v/38072857"/>
+        <updated>2023-07-15T07:16:17.658Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라필루스 - 마리오네뜨 (Lapillus - Marionette), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38072710</id>
+        <link href="https://tv.naver.com/v/38072710"/>
+        <updated>2023-07-15T07:16:17.658Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키스 오브 라이프 - 쉿 (KISS OF LIFE - Shhh), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38072550</id>
+        <link href="https://tv.naver.com/v/38072550"/>
+        <updated>2023-07-15T07:16:17.665Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문희경 - 누려봐  (Mun Heekyung - Enjoy it!), MBC 230715 방송]]></title>
+        <id>https://tv.naver.com/v/38072265</id>
+        <link href="https://tv.naver.com/v/38072265"/>
+        <updated>2023-07-15T07:16:17.666Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ATEEZ – BOUNCY(에이티즈 - 바운시) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/37998446</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/37821059"/>
         <updated>2023-07-08T12:33:10.757Z</updated>
         <content type="html"><![CDATA[04:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TREASURE (T5) JIHOON - MOVE(트레저 (T5) 지훈 - 무브) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37820796</id>
-        <link href="https://tv.naver.com/v/37820796"/>
-        <updated>2023-07-08T12:33:10.757Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TREASURE (T5) YOON JAE HYUK - MOVE(트레저 (T5) 윤재혁 - 무브) FanCam | Show! MusicCore | MBC230708방]]></title>
-        <id>https://tv.naver.com/v/37820705</id>
-        <link href="https://tv.naver.com/v/37820705"/>
-        <updated>2023-07-08T12:33:10.759Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TREASURE (T5) JUNKYU - MOVE(트레저 (T5) 준규 - 무브) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37820578</id>
-        <link href="https://tv.naver.com/v/37820578"/>
-        <updated>2023-07-08T12:33:10.759Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lapillus CHANTY – Who’s Next(라필루스 샨티 - 후즈 넥스트) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37820463</id>
-        <link href="https://tv.naver.com/v/37820463"/>
-        <updated>2023-07-08T12:33:10.760Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lapillus - Who’s Next(라필루스 – 후즈 넥스트) FanCam | Show! MusicCore | MBC230708방송]]></title>
-        <id>https://tv.naver.com/v/37820462</id>
-        <link href="https://tv.naver.com/v/37820462"/>
-        <updated>2023-07-08T12:33:10.760Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
