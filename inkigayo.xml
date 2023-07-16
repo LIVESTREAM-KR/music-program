@@ -2,9 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-07-16T07:16:41.256Z</updated>
+    <updated>2023-07-16T08:21:38.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴진스(NewJeans) - Super Shy | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38096134</id>
+        <link href="https://tv.naver.com/v/38096134"/>
+        <updated>2023-07-16T08:21:01.714Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스(NewJeans) - New Jeans | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38096017</id>
+        <link href="https://tv.naver.com/v/38096017"/>
+        <updated>2023-07-16T08:21:01.716Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - Party O'Clock | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38095919</id>
+        <link href="https://tv.naver.com/v/38095919"/>
+        <updated>2023-07-16T08:21:01.716Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - Roller Coaster | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38095626</id>
+        <link href="https://tv.naver.com/v/38095626"/>
+        <updated>2023-07-16T08:21:01.717Z</updated>
+        <content type="html"><![CDATA[02:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산다라박 - FESTIVAL | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38095622</id>
+        <link href="https://tv.naver.com/v/38095622"/>
+        <updated>2023-07-16T08:21:01.718Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE - MOVE(T5) | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38095478</id>
+        <link href="https://tv.naver.com/v/38095478"/>
+        <updated>2023-07-16T08:21:01.719Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코요태 - 바람 | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38095355</id>
+        <link href="https://tv.naver.com/v/38095355"/>
+        <updated>2023-07-16T08:21:01.721Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lapillus(라필루스) - Marionette | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38095223</id>
+        <link href="https://tv.naver.com/v/38095223"/>
+        <updated>2023-07-16T08:21:01.722Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - In Bloom | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38095005</id>
+        <link href="https://tv.naver.com/v/38095005"/>
+        <updated>2023-07-16T08:21:01.724Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수안(SWAN) - Twenty | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38095004</id>
+        <link href="https://tv.naver.com/v/38095004"/>
+        <updated>2023-07-16T08:21:01.725Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queenz Eye - UN-NORMAL | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38094978</id>
+        <link href="https://tv.naver.com/v/38094978"/>
+        <updated>2023-07-16T08:21:01.726Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - EXCEL  | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38094859</id>
+        <link href="https://tv.naver.com/v/38094859"/>
+        <updated>2023-07-16T08:21:01.728Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISS OF LIFE - 쉿(Shhh) | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38094719</id>
+        <link href="https://tv.naver.com/v/38094719"/>
+        <updated>2023-07-16T08:21:01.729Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ODD EYE CIRCLE - Air Force On | SBS 230716 방송]]></title>
         <id>https://tv.naver.com/v/38094608</id>
@@ -123,96 +214,5 @@
         <link href="https://tv.naver.com/v/37836595"/>
         <updated>2023-07-09T07:16:13.029Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소연 - 또또 | SBS 230709 방송]]></title>
-        <id>https://tv.naver.com/v/37836503</id>
-        <link href="https://tv.naver.com/v/37836503"/>
-        <updated>2023-07-09T07:16:13.030Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHINee(샤이니) - JUICE | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37588841</id>
-        <link href="https://tv.naver.com/v/37588841"/>
-        <updated>2023-07-02T08:21:38.202Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHINee(샤이니) - HARD | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37588732</id>
-        <link href="https://tv.naver.com/v/37588732"/>
-        <updated>2023-07-02T08:21:38.203Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - MOVE(T5) | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37588730</id>
-        <link href="https://tv.naver.com/v/37588730"/>
-        <updated>2023-07-02T08:21:38.205Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ(에이티즈) - BOUNCY(K-HOT CHILLI PEPPERS) | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37588531</id>
-        <link href="https://tv.naver.com/v/37588531"/>
-        <updated>2023-07-02T08:21:38.207Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김성규 - Small Talk | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37588419</id>
-        <link href="https://tv.naver.com/v/37588419"/>
-        <updated>2023-07-02T08:21:38.207Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김재환 - 개이득(feat. BOBBY) | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37588321</id>
-        <link href="https://tv.naver.com/v/37588321"/>
-        <updated>2023-07-02T08:21:38.209Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YENA(최예나) - Hate Rodrigo(feat. 우기((여자)아이들)) | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37588222</id>
-        <link href="https://tv.naver.com/v/37588222"/>
-        <updated>2023-07-02T07:15:43.957Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유키스(UKISS) - 갈래!(The Wonderful Escape) | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37588081</id>
-        <link href="https://tv.naver.com/v/37588081"/>
-        <updated>2023-07-02T07:15:43.957Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한승우 - Dive Into | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37588079</id>
-        <link href="https://tv.naver.com/v/37588079"/>
-        <updated>2023-07-02T07:15:43.960Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이(WEi) - 질주(OVERDRIVE) | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37587971</id>
-        <link href="https://tv.naver.com/v/37587971"/>
-        <updated>2023-07-02T07:15:43.965Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hi-Fi Un!corn - Over the Rainbow(KR ver.) | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37587871</id>
-        <link href="https://tv.naver.com/v/37587871"/>
-        <updated>2023-07-02T07:15:43.973Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&TEAM - FIREWORK(Korean ver.) | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37587761</id>
-        <link href="https://tv.naver.com/v/37587761"/>
-        <updated>2023-07-02T07:15:43.974Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
