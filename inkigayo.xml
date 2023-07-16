@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-07-16T06:22:55.420Z</updated>
+    <updated>2023-07-16T07:16:41.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ODD EYE CIRCLE - Air Force On | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38094608</id>
+        <link href="https://tv.naver.com/v/38094608"/>
+        <updated>2023-07-16T07:16:04.676Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230716 방송]]></title>
+        <id>https://tv.naver.com/v/38094431</id>
+        <link href="https://tv.naver.com/v/38094431"/>
+        <updated>2023-07-16T07:16:04.676Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHINee(샤이니) - HARD | SBS 230709 방송]]></title>
         <id>https://tv.naver.com/v/37838361</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37587761"/>
         <updated>2023-07-02T07:15:43.974Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lapillus(라필루스) - Who’s Next | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37587759</id>
-        <link href="https://tv.naver.com/v/37587759"/>
-        <updated>2023-07-02T07:15:43.975Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE NEW SIX - Kick It 4 Now | SBS 230702 방송]]></title>
-        <id>https://tv.naver.com/v/37587567</id>
-        <link href="https://tv.naver.com/v/37587567"/>
-        <updated>2023-07-02T07:15:43.977Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
