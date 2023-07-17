@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-17T09:19:59.722Z</updated>
+    <updated>2023-07-17T10:20:41.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cream Soda - EXO | KBS 230714 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE Zhang Hao - In Bloom(제로베이스원 장하오 - 인 블룸) Close-up Cam |Show!MusicCore|MBC2307 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38129953</id>
+        <link href="https://tv.naver.com/v/38129953"/>
+        <updated>2023-07-17T10:20:02.930Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HAN BIN - In Bloom(제로베이스원 성한빈 - 인 블룸)Close-upCam|Show!MusicCore|MBC230715방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38129780</id>
+        <link href="https://tv.naver.com/v/38129780"/>
+        <updated>2023-07-17T10:20:02.934Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] EXO D.O. - Cream Soda(엑소 디오 - 크림 소다) Close-up Cam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38129525</id>
+        <link href="https://tv.naver.com/v/38129525"/>
+        <updated>2023-07-17T10:20:02.936Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] EXO BAEKHYUN - Cream Soda(엑소 백현 - 크림 소다) Close-up Cam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38129523</id>
+        <link href="https://tv.naver.com/v/38129523"/>
+        <updated>2023-07-17T10:20:02.942Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] EXO SEHUN - Cream Soda(엑소 세훈 - 크림 소다) Close-up Cam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38128920</id>
         <link href="https://tv.naver.com/v/38128920"/>
@@ -395,34 +423,6 @@
         <link href="https://tv.naver.com/v/38077664"/>
         <updated>2023-07-15T11:14:19.042Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EXO SEHUN - Cream Soda(엑소 세훈 - 크림 소다) FanCam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38077571</id>
-        <link href="https://tv.naver.com/v/38077571"/>
-        <updated>2023-07-15T11:14:19.042Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KIM JAEHWAN – For Couples Who Just Met (김재환 - 시작되는 연인들을 위해)FanCam|Show!MusicCore|MBC230715방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38077484</id>
-        <link href="https://tv.naver.com/v/38077484"/>
-        <updated>2023-07-15T10:18:30.121Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EXO D.O. - Cream Soda(엑소 디오 - 크림 소다) FanCam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38077482</id>
-        <link href="https://tv.naver.com/v/38077482"/>
-        <updated>2023-07-15T10:18:30.122Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ODD EYE CIRCLE JinSoul – Air Force One(오드 아이 써클 진솔-에어 포스 원)FanCam|Show!MusicCore|MBC230715방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38077460</id>
-        <link href="https://tv.naver.com/v/38077460"/>
-        <updated>2023-07-15T10:18:30.125Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EXO - Cream Soda | SBS 230716 방송 (인기가요)]]></title>
