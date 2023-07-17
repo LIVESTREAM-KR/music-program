@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-17T06:25:23.697Z</updated>
+    <updated>2023-07-17T07:18:59.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cream Soda - EXO | KBS 230714 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 수요일에 피어날 찬란한 시작, 쇼챔이 함께 하겠는거야아 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/38122865</id>
+        <link href="https://tv.naver.com/v/38122865"/>
+        <updated>2023-07-17T07:18:43.629Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Lapillus - Marionette (라필루스 - 마리오네뜨) | Show Champion | EP.483 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/38037167</id>
         <link href="https://tv.naver.com/v/38037167"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/37951632</id>
         <link href="https://tv.naver.com/v/37951632"/>
         <updated>2023-07-12T13:28:14.460Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE - Shhh (키스 오브 라이프 - 쉿) l Show Champion l EP.483 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/37951169</id>
-        <link href="https://tv.naver.com/v/37951169"/>
-        <updated>2023-07-12T13:28:14.462Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>

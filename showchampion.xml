@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-17T06:25:23.677Z</updated>
+    <updated>2023-07-17T07:18:59.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 수요일에 피어날 찬란한 시작, 쇼챔이 함께 하겠는거야아]]></title>
+        <id>https://tv.naver.com/v/38122865</id>
+        <link href="https://tv.naver.com/v/38122865"/>
+        <updated>2023-07-17T07:18:43.629Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Lapillus - Marionette (라필루스 - 마리오네뜨) | Show Champion | EP.483]]></title>
         <id>https://tv.naver.com/v/38037167</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/37951632</id>
         <link href="https://tv.naver.com/v/37951632"/>
         <updated>2023-07-12T13:28:14.460Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE - Shhh (키스 오브 라이프 - 쉿) l Show Champion l EP.483]]></title>
-        <id>https://tv.naver.com/v/37951169</id>
-        <link href="https://tv.naver.com/v/37951169"/>
-        <updated>2023-07-12T13:28:14.462Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
