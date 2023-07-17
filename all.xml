@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-17T08:24:26.482Z</updated>
+    <updated>2023-07-17T09:19:59.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cream Soda - EXO | KBS 230714 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] EXO SEHUN - Cream Soda(엑소 세훈 - 크림 소다) Close-up Cam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38128920</id>
+        <link href="https://tv.naver.com/v/38128920"/>
+        <updated>2023-07-17T09:19:16.869Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON - Party O’Clock(엔믹스 설윤 - 파티 어 클락) Close-up Cam | Show! MusicCore |MBC230715방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38128737</id>
+        <link href="https://tv.naver.com/v/38128737"/>
+        <updated>2023-07-17T09:19:16.869Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX HAEWON - Party O’Clock(엔믹스 해원 - 파티 어 클락) Close-up Cam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38128593</id>
+        <link href="https://tv.naver.com/v/38128593"/>
+        <updated>2023-07-17T09:19:16.873Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호), 7월 셋째 주 음악중심 MC 컷 모음!, MBC 230715 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38120933</id>
         <link href="https://tv.naver.com/v/38120933"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/38077460"/>
         <updated>2023-07-15T10:18:30.125Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KOYOTE - WISH(코요태 – 바람) FanCam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38077458</id>
-        <link href="https://tv.naver.com/v/38077458"/>
-        <updated>2023-07-15T10:18:30.125Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ODD EYE CIRCLE - Air Force One(오드 아이 써클 – 에어 포스 원) FanCam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38077366</id>
-        <link href="https://tv.naver.com/v/38077366"/>
-        <updated>2023-07-15T10:18:30.125Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lapillus - Marionette(라필루스 – 마리오네뜨) FanCam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38077364</id>
-        <link href="https://tv.naver.com/v/38077364"/>
-        <updated>2023-07-15T10:18:30.127Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EXO - Cream Soda | SBS 230716 방송 (인기가요)]]></title>
