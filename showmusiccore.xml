@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-18T08:22:45.403Z</updated>
+    <updated>2023-07-18T09:18:04.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Sandara Park - FESTIVAL(산다라박 - 페스티벌) Close-up Cam | Show! MusicCore | MBC230715방송]]></title>
+        <id>https://tv.naver.com/v/38169774</id>
+        <link href="https://tv.naver.com/v/38169774"/>
+        <updated>2023-07-18T09:17:18.256Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON - Roller Coaster(엔믹스 설윤 - 롤러 코스터) Close-up Cam | Show! MusicCore |MBC230715방]]></title>
+        <id>https://tv.naver.com/v/38169107</id>
+        <link href="https://tv.naver.com/v/38169107"/>
+        <updated>2023-07-18T09:17:18.259Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX JIWOO - Roller Coaster(엔믹스 지우 - 롤러 코스터) Close-up Cam | Show! MusicCore | MBC230715방송]]></title>
+        <id>https://tv.naver.com/v/38130166</id>
+        <link href="https://tv.naver.com/v/38130166"/>
+        <updated>2023-07-18T09:17:18.259Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE Zhang Hao - In Bloom(제로베이스원 장하오 - 인 블룸) Close-up Cam |Show!MusicCore|MBC2307]]></title>
         <id>https://tv.naver.com/v/38129953</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38078000"/>
         <updated>2023-07-15T11:14:19.041Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE – Shhh(키스오브라이프 - 쉿) FanCam | Show! MusicCore | MBC230715방송]]></title>
-        <id>https://tv.naver.com/v/38077798</id>
-        <link href="https://tv.naver.com/v/38077798"/>
-        <updated>2023-07-15T11:14:19.041Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX LILY – Party O’Clock(엔믹스 릴리 - 파티 어 클락) FanCam | Show! MusicCore | MBC230715방송]]></title>
-        <id>https://tv.naver.com/v/38077767</id>
-        <link href="https://tv.naver.com/v/38077767"/>
-        <updated>2023-07-15T11:14:19.041Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EXO BAEKHYUN - Cream Soda(엑소 백현 - 크림 소다) FanCam | Show! MusicCore | MBC230715방송]]></title>
-        <id>https://tv.naver.com/v/38077664</id>
-        <link href="https://tv.naver.com/v/38077664"/>
-        <updated>2023-07-15T11:14:19.042Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
