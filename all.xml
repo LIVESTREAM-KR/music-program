@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-18T09:18:04.221Z</updated>
+    <updated>2023-07-18T10:20:01.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cream Soda - EXO | KBS 230714 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ZEROBASEONE이 알려주는  이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38172653</id>
+        <link href="https://tv.naver.com/v/38172653"/>
+        <updated>2023-07-18T10:19:27.343Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' EXO - Cream Soda | Mnet 230713 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/38011628</id>
         <link href="https://tv.naver.com/v/38011628"/>
@@ -838,11 +845,39 @@
         <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[&TEAM - FIREWORK (Korean ver.) | Mnet 230706 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/37753370</id>
-        <link href="https://tv.naver.com/v/37753370"/>
-        <updated>2023-07-06T11:16:26.483Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
+        <title type="html"><![CDATA[[윌 유 내꾸 미?] 위아이(WEi) (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38172910</id>
+        <link href="https://tv.naver.com/v/38172910"/>
+        <updated>2023-07-18T10:19:35.773Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 대체 불가 퍼포먼스 퀸, Queenz Eye 'UN-NORMAL' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38172905</id>
+        <link href="https://tv.naver.com/v/38172905"/>
+        <updated>2023-07-18T10:19:35.773Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 실력 입증! 시선 강탈 신예, KISS OF LIFE '쉿 (Shhh)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38172782</id>
+        <link href="https://tv.naver.com/v/38172782"/>
+        <updated>2023-07-18T10:19:35.774Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛나는 청량함, LUN8(루네이트) 'Voyager' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38171810</id>
+        <link href="https://tv.naver.com/v/38171810"/>
+        <updated>2023-07-18T10:19:35.774Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동심 유발 해적왕, 남동현 '해적이 되고 싶었던 소년' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38171525</id>
+        <link href="https://tv.naver.com/v/38171525"/>
+        <updated>2023-07-18T10:19:35.774Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
@@ -1018,41 +1053,6 @@
         <link href="https://tv.naver.com/v/37431098"/>
         <updated>2023-06-27T11:15:52.037Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[반모하SHOW] ATEEZ(에이티즈) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37430883</id>
-        <link href="https://tv.naver.com/v/37430883"/>
-        <updated>2023-06-27T11:15:52.043Z</updated>
-        <content type="html"><![CDATA[05:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트렌디한 퍼포먼스, 다크비(DKB) 'I Need Love' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37430852</id>
-        <link href="https://tv.naver.com/v/37430852"/>
-        <updated>2023-06-27T11:15:52.043Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시원한 여름 분위기, THE NEW SIX (TNX) 'Kick It 4 Now' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37430685</id>
-        <link href="https://tv.naver.com/v/37430685"/>
-        <updated>2023-06-27T11:15:52.043Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초공개] 시작을 알리는 경쾌한 사운드, Hi-Fi Un!corn 'Over the Rainbow (KR ver.)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37430683</id>
-        <link href="https://tv.naver.com/v/37430683"/>
-        <updated>2023-06-27T11:15:52.044Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여심 저격 무대, VAV 'Designer' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37429972</id>
-        <link href="https://tv.naver.com/v/37429972"/>
-        <updated>2023-06-27T10:20:50.840Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 수요일에 피어날 찬란한 시작, 쇼챔이 함께 하겠는거야아 (쇼챔피언)]]></title>
