@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-20T08:21:13.166Z</updated>
+    <updated>2023-07-20T09:16:53.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/38214671"/>
         <updated>2023-07-20T08:20:57.884Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE ZHANG HAO - In Bloom (제로베이스원 장하오 - 인 블룸)｜쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/38234108</id>
+        <link href="https://tv.naver.com/v/38234108"/>
+        <updated>2023-07-20T09:16:39.740Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) - New Kidz on the Block | Show Champion | EP.484]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38205943"/>
         <updated>2023-07-19T13:23:19.802Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ZEROBASEONE ZHANG HAO - In Bloom (제로베이스원 장하오 - 인 블룸) | Show Champion | EP.484]]></title>
-        <id>https://tv.naver.com/v/38205762</id>
-        <link href="https://tv.naver.com/v/38205762"/>
-        <updated>2023-07-19T13:23:19.805Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
