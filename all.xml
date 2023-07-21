@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-21T01:25:24.674Z</updated>
+    <updated>2023-07-21T02:37:00.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cream Soda - EXO | KBS 230714 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[04:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[7월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.484 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/38230637</id>
+        <link href="https://tv.naver.com/v/38230637"/>
+        <updated>2023-07-21T02:36:44.911Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ODD EYE CIRCLE - Je Ne Sais Quoi (오드아이써클 - 주 느 세 콰) | Show Champion | EP.484 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/38214671</id>
         <link href="https://tv.naver.com/v/38214671"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/38206187"/>
         <updated>2023-07-19T13:23:19.800Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE KIM GYUVIN - In Bloom (제로베이스원 김규빈 - 인 블룸) | Show Champion | EP.484 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/38205943</id>
-        <link href="https://tv.naver.com/v/38205943"/>
-        <updated>2023-07-19T13:23:19.802Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[4K 원테이크] 포레스텔라 - DESPACITO | KBS 230715 방송 (불후의 명곡)]]></title>

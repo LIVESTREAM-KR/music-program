@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-21T01:25:24.656Z</updated>
+    <updated>2023-07-21T02:37:00.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7월 3주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.484]]></title>
+        <id>https://tv.naver.com/v/38230637</id>
+        <link href="https://tv.naver.com/v/38230637"/>
+        <updated>2023-07-21T02:36:44.911Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ODD EYE CIRCLE - Je Ne Sais Quoi (오드아이써클 - 주 느 세 콰) | Show Champion | EP.484]]></title>
         <id>https://tv.naver.com/v/38214671</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38206187"/>
         <updated>2023-07-19T13:23:19.800Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE KIM GYUVIN - In Bloom (제로베이스원 김규빈 - 인 블룸) | Show Champion | EP.484]]></title>
-        <id>https://tv.naver.com/v/38205943</id>
-        <link href="https://tv.naver.com/v/38205943"/>
-        <updated>2023-07-19T13:23:19.802Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
