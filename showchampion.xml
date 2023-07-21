@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-21T08:20:53.531Z</updated>
+    <updated>2023-07-21T09:17:01.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://tv.naver.com/v/38214671"/>
         <updated>2023-07-20T08:20:57.884Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE SUNG HANBIN - In Bloom (제로베이스원 성한빈 - 인 블룸)｜쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/38234181</id>
+        <link href="https://tv.naver.com/v/38234181"/>
+        <updated>2023-07-21T09:16:45.132Z</updated>
+        <content type="html"><![CDATA[01:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZEROBASEONE ZHANG HAO - In Bloom (제로베이스원 장하오 - 인 블룸)｜쇼챔피언]]></title>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/38206685</id>
         <link href="https://tv.naver.com/v/38206685"/>
         <updated>2023-07-19T13:23:19.798Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE RICKY - In Bloom (제로베이스원 리키 - 인 블룸) | Show Champion | EP.484]]></title>
-        <id>https://tv.naver.com/v/38206187</id>
-        <link href="https://tv.naver.com/v/38206187"/>
-        <updated>2023-07-19T13:23:19.800Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
