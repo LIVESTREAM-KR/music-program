@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-21T03:17:34.419Z</updated>
+    <updated>2023-07-21T04:20:31.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cream Soda - EXO | KBS 230714 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[01:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 형을 잊지 말아 주세요🎤 듀스 김성재 친동생의 그리움 가득 담은 여름안에서🌞가수 겸 뮤지컬 배우 김성욱, MBC 230709 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/38274131</id>
+        <link href="https://tv.naver.com/v/38274131"/>
+        <updated>2023-07-21T04:20:30.624Z</updated>
+        <content type="html"><![CDATA[11:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 엑소 백현과 같은 밴드 출신🎤보컬맛집 빌리 메인보컬💖음색장인 하람, MBC 230709 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/38273840</id>
         <link href="https://tv.naver.com/v/38273840"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/37591948"/>
         <updated>2023-07-02T10:19:02.200Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['계산기' 2라운드 무대 - 널 위한 거야, MBC 230702 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/37591837</id>
-        <link href="https://tv.naver.com/v/37591837"/>
-        <updated>2023-07-02T10:19:02.203Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
