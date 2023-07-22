@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-22T08:19:13.718Z</updated>
+    <updated>2023-07-22T09:15:24.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Kidz on the Block - ZEROBASEONE | KBS 230721 방송 (뮤직뱅크)]]></title>
@@ -1069,6 +1069,13 @@
         <content type="html"><![CDATA[02:59]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NMIXX - Party O'Clock (엔믹스 - 파티어클락) l Show Champion l EP.484 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/38244018</id>
+        <link href="https://tv.naver.com/v/38244018"/>
+        <updated>2023-07-22T09:15:09.241Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ZEROBASEONE SUNG HANBIN - In Bloom (제로베이스원 성한빈 - 인 블룸)｜쇼챔피언 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/38234181</id>
         <link href="https://tv.naver.com/v/38234181"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/38207031"/>
         <updated>2023-07-19T13:23:19.796Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE KIM TAERAE - In Bloom (제로베이스원 김태래 - 인 블룸) | Show Champion | EP.484 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/38206685</id>
-        <link href="https://tv.naver.com/v/38206685"/>
-        <updated>2023-07-19T13:23:19.798Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 누구도 커버하지 못했던 나훈아의 〈테스형!〉을 김호중이?! 기대해 주세요😘 | KBS 방송 (불후의 명곡)]]></title>
