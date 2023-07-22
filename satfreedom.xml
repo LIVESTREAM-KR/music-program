@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-07-22T09:15:24.177Z</updated>
+    <updated>2023-07-22T10:16:51.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬계 황태자 임태경👑 3000명의 지원군? 이것이 황태자의 모습이다! | KBS 230722 방송]]></title>
+        <id>https://tv.naver.com/v/38312694</id>
+        <link href="https://tv.naver.com/v/38312694"/>
+        <updated>2023-07-22T10:16:42.595Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민규의 스페셜 MC 신고식😆 이 구역 댄싱킹은 나야 나🕺 | KBS 230722 방송]]></title>
+        <id>https://tv.naver.com/v/38312690</id>
+        <link href="https://tv.naver.com/v/38312690"/>
+        <updated>2023-07-22T10:16:42.598Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성악 어벤저스 라포엠💕 오늘 흑화 되기 직전인 이유? 선곡은 과연! | KBS 230722 방송]]></title>
+        <id>https://tv.naver.com/v/38312582</id>
+        <link href="https://tv.naver.com/v/38312582"/>
+        <updated>2023-07-22T10:16:42.601Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 누구도 커버하지 못했던 나훈아의 〈테스형!〉을 김호중이?! 기대해 주세요😘 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/38293970</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38060191"/>
         <updated>2023-07-15T12:33:37.908Z</updated>
         <content type="html"><![CDATA[06:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 김재환 – 비밀번호 486 | KBS 230715 방송]]></title>
-        <id>https://tv.naver.com/v/38059705</id>
-        <link href="https://tv.naver.com/v/38059705"/>
-        <updated>2023-07-15T12:33:37.910Z</updated>
-        <content type="html"><![CDATA[05:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 개이득 챌린지 할 사람 모두 모여라~👍 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/38047347</id>
-        <link href="https://tv.naver.com/v/38047347"/>
-        <updated>2023-07-14T08:23:00.376Z</updated>
-        <content type="html"><![CDATA[01:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 614회〈아티스트 이자연 & 추가열 특집〉우승자 ⭐임태경⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/37820803</id>
-        <link href="https://tv.naver.com/v/37820803"/>
-        <updated>2023-07-08T12:33:45.172Z</updated>
-        <content type="html"><![CDATA[00:50]]></content>
     </entry>
 </feed>
