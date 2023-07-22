@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-22T06:20:35.359Z</updated>
+    <updated>2023-07-22T07:14:33.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Kidz on the Block - ZEROBASEONE | KBS 230721 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,41 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미래소년 - 점프! (MIRAE - JUMP!), MBC 230722 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38308847</id>
+        <link href="https://tv.naver.com/v/38308847"/>
+        <updated>2023-07-22T07:13:49.451Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에잇턴 - 엑셀 (8TURN - EXCEL), MBC 230722 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38308743</id>
+        <link href="https://tv.naver.com/v/38308743"/>
+        <updated>2023-07-22T07:13:49.452Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 킥스타트 (ICHILLIN' - KICK-START), MBC 230722 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38308485</id>
+        <link href="https://tv.naver.com/v/38308485"/>
+        <updated>2023-07-22T07:13:49.454Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼카인드 - 무디 (SUPERKIND - Moody), MBC 230722 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38308283</id>
+        <link href="https://tv.naver.com/v/38308283"/>
+        <updated>2023-07-22T07:13:49.454Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤수현 - 남자들은 날 가만 안나둬  (Yoon Soo Hyun - No one leave me alone), MBC 230722 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38308137</id>
+        <link href="https://tv.naver.com/v/38308137"/>
+        <updated>2023-07-22T07:13:49.454Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] NMIXX.zip 📂 O.O부터 Party O'clock까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38162323</id>
         <link href="https://tv.naver.com/v/38162323"/>
@@ -388,41 +423,6 @@
         <link href="https://tv.naver.com/v/38078595"/>
         <updated>2023-07-15T12:33:03.028Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SUNG HAN BIN - In Bloom(제로베이스원 성한빈 - 인 블룸) FanCam | Show! MusicCore |MBC230715방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38078507</id>
-        <link href="https://tv.naver.com/v/38078507"/>
-        <updated>2023-07-15T12:33:03.036Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX - Party O’Clock(엔믹스 – 파티 어 클락) FanCam | Show! MusicCore | MBC230715방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38078419</id>
-        <link href="https://tv.naver.com/v/38078419"/>
-        <updated>2023-07-15T11:14:19.012Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX KYUJIN – Party O’Clock(엔믹스 규진 - 파티 어 클락) FanCam | Show! MusicCore |MBC230715방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38078293</id>
-        <link href="https://tv.naver.com/v/38078293"/>
-        <updated>2023-07-15T11:14:19.014Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON – Party O’Clock(엔믹스 설윤 - 파티 어 클락) FanCam |Show! MusicCore|MBC230715방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38078108</id>
-        <link href="https://tv.naver.com/v/38078108"/>
-        <updated>2023-07-15T11:14:19.015Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON – Party O’Clock(엔믹스 해원 - 파티 어 클락) FanCam | Show! MusicCore |MBC230715방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38078083</id>
-        <link href="https://tv.naver.com/v/38078083"/>
-        <updated>2023-07-15T11:14:19.019Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EXO - Cream Soda | SBS 230716 방송 (인기가요)]]></title>
