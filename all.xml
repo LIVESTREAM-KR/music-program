@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-23T10:16:35.325Z</updated>
+    <updated>2023-07-23T11:13:15.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Kidz on the Block - ZEROBASEONE | KBS 230721 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,55 @@
         <content type="html"><![CDATA[00:39]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[＜여름 특집! 복면가왕 사상 초유의 역대급 이벤트는?! 😲＞ 복면가왕 414회 예고, MBC 230730 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/38333730</id>
+        <link href="https://tv.naver.com/v/38333730"/>
+        <updated>2023-07-23T11:13:14.668Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['팔색조'의 정체는 가수 임정희!, MBC 230723 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/38333519</id>
+        <link href="https://tv.naver.com/v/38333519"/>
+        <updated>2023-07-23T11:13:14.670Z</updated>
+        <content type="html"><![CDATA[01:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['팔색조'의 가왕 방어전 무대 - 나를 사랑하지 않는 그대에게, MBC 230723 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/38333428</id>
+        <link href="https://tv.naver.com/v/38333428"/>
+        <updated>2023-07-23T11:13:14.673Z</updated>
+        <content type="html"><![CDATA[04:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['용달 블루'의 정체는 포맨 한빈!, MBC 230723 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/38333208</id>
+        <link href="https://tv.naver.com/v/38333208"/>
+        <updated>2023-07-23T11:13:14.674Z</updated>
+        <content type="html"><![CDATA[02:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['1급 특수요원' 3라운드 무대 - 비밀, MBC 230723 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/38333000</id>
+        <link href="https://tv.naver.com/v/38333000"/>
+        <updated>2023-07-23T11:13:14.675Z</updated>
+        <content type="html"><![CDATA[05:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['용달 블루' 3라운드 무대 - 해줄 수 없는 일, MBC 230723 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/38332758</id>
+        <link href="https://tv.naver.com/v/38332758"/>
+        <updated>2023-07-23T11:13:14.677Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['페퍼로니의 정체는 트로트 가수 박혜신!, MBC 230723 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/38332664</id>
+        <link href="https://tv.naver.com/v/38332664"/>
+        <updated>2023-07-23T11:13:14.677Z</updated>
+        <content type="html"><![CDATA[01:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[감성 발라더 성시경이 주는 '1급 특수요원'의 힌트⭐ '한국에 신드롬을 불러일으킨 인물'⁉️, MBC 230723 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/38332643</id>
         <link href="https://tv.naver.com/v/38332643"/>
@@ -1634,54 +1683,5 @@
         <link href="https://tv.naver.com/v/37841963"/>
         <updated>2023-07-09T10:19:42.959Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고무대야 레드' VS '용달 블루'의 1라운드 무대 - 달의 몰락, MBC 230709 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/37841733</id>
-        <link href="https://tv.naver.com/v/37841733"/>
-        <updated>2023-07-09T10:19:42.960Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 OST의 신흥강자~ 다재나능 싱어송라이터, 가수 가호! MBC 230702 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/37622846</id>
-        <link href="https://tv.naver.com/v/37622846"/>
-        <updated>2023-07-03T09:19:46.099Z</updated>
-        <content type="html"><![CDATA[13:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 천상계의 고음 머신~ 22년 차 밴드 보컬, 가수 윤성! MBC 230702 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/37622571</id>
-        <link href="https://tv.naver.com/v/37622571"/>
-        <updated>2023-07-03T08:23:52.994Z</updated>
-        <content type="html"><![CDATA[12:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 안 듣고는 못 배기는 마초보이스, 캔의 배기성! MBC 230702 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/37622101</id>
-        <link href="https://tv.naver.com/v/37622101"/>
-        <updated>2023-07-03T08:23:52.995Z</updated>
-        <content type="html"><![CDATA[11:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 공감을 이끄는 감성 장인, 가수 빌리어코스티! MBC 230702 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/37620986</id>
-        <link href="https://tv.naver.com/v/37620986"/>
-        <updated>2023-07-03T08:23:52.995Z</updated>
-        <content type="html"><![CDATA[08:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜7연승 저지를 위한 특수 작전! '팔색조'는 임무를 성공할 수 있을까?＞ 복면가왕 412회 예고, MBC 230709 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/37593578</id>
-        <link href="https://tv.naver.com/v/37593578"/>
-        <updated>2023-07-02T11:14:57.050Z</updated>
-        <content type="html"><![CDATA[00:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['요거트'의 정체는 가수 윤성!, MBC 230702 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/37593418</id>
-        <link href="https://tv.naver.com/v/37593418"/>
-        <updated>2023-07-02T11:14:57.050Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
     </entry>
 </feed>
