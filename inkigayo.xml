@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-07-23T06:20:51.193Z</updated>
+    <updated>2023-07-23T07:14:45.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MC지후X운학 - Hype boy | SBS 230723 방송]]></title>
+        <id>https://tv.naver.com/v/38328903</id>
+        <link href="https://tv.naver.com/v/38328903"/>
+        <updated>2023-07-23T07:14:08.344Z</updated>
+        <content type="html"><![CDATA[01:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤수현 - 남자들은 날 가만 안나둬 | SBS 230723 방송]]></title>
+        <id>https://tv.naver.com/v/38328763</id>
+        <link href="https://tv.naver.com/v/38328763"/>
+        <updated>2023-07-23T07:14:08.349Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EXO - Cream Soda | SBS 230716 방송]]></title>
         <id>https://tv.naver.com/v/38096244</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37836933"/>
         <updated>2023-07-09T07:16:13.028Z</updated>
         <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230709 방송]]></title>
-        <id>https://tv.naver.com/v/37836930</id>
-        <link href="https://tv.naver.com/v/37836930"/>
-        <updated>2023-07-09T07:16:13.029Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - 쉿(Shhh) | SBS 230709 방송]]></title>
-        <id>https://tv.naver.com/v/37836927</id>
-        <link href="https://tv.naver.com/v/37836927"/>
-        <updated>2023-07-09T07:16:13.029Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>

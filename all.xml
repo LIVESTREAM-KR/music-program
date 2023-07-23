@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-23T06:20:51.200Z</updated>
+    <updated>2023-07-23T07:14:45.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Kidz on the Block - ZEROBASEONE | KBS 230721 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,20 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MC지후X운학 - Hype boy | SBS 230723 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/38328903</id>
+        <link href="https://tv.naver.com/v/38328903"/>
+        <updated>2023-07-23T07:14:08.344Z</updated>
+        <content type="html"><![CDATA[01:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤수현 - 남자들은 날 가만 안나둬 | SBS 230723 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/38328763</id>
+        <link href="https://tv.naver.com/v/38328763"/>
+        <updated>2023-07-23T07:14:08.349Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EXO - Cream Soda | SBS 230716 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/38096244</id>
         <link href="https://tv.naver.com/v/38096244"/>
@@ -619,20 +633,6 @@
         <link href="https://tv.naver.com/v/37836933"/>
         <updated>2023-07-09T07:16:13.028Z</updated>
         <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - Wild Heart | SBS 230709 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37836930</id>
-        <link href="https://tv.naver.com/v/37836930"/>
-        <updated>2023-07-09T07:16:13.029Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - 쉿(Shhh) | SBS 230709 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/37836927</id>
-        <link href="https://tv.naver.com/v/37836927"/>
-        <updated>2023-07-09T07:16:13.029Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['SPECIAL STAGE' 주헌 (몬스타엑스) - Don't Worry, Be Happy | Mnet 230720 방송 (엠카운트다운)]]></title>
