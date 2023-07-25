@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-07-25T10:18:42.036Z</updated>
+    <updated>2023-07-25T11:14:40.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/38404045</id>
+        <link href="https://tv.naver.com/v/38404045"/>
+        <updated>2023-07-25T11:14:15.878Z</updated>
+        <content type="html"><![CDATA[05:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬란하게 피어난 청춘, ZEROBASEONE 'In Bloom']]></title>
+        <id>https://tv.naver.com/v/38403721</id>
+        <link href="https://tv.naver.com/v/38403721"/>
+        <updated>2023-07-25T11:14:15.881Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수줍은 소년들의 마음, ZEROBASEONE '우주먼지 (and I)']]></title>
+        <id>https://tv.naver.com/v/38403530</id>
+        <link href="https://tv.naver.com/v/38403530"/>
+        <updated>2023-07-25T11:14:15.883Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Special Stage] 감미로운 설렘, 재찬 '바라봐줘요 (원곡: 죠지)']]></title>
+        <id>https://tv.naver.com/v/38403216</id>
+        <link href="https://tv.naver.com/v/38403216"/>
+        <updated>2023-07-25T11:14:15.885Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Special Stage] 독창적이고 파워풀한 음색, 수안(SWAN) '에너제틱 (Energetic) (원곡: Wanna One(워너원))']]></title>
+        <id>https://tv.naver.com/v/38403215</id>
+        <link href="https://tv.naver.com/v/38403215"/>
+        <updated>2023-07-25T11:14:15.886Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 재기발랄 청량미 가득, 미래소년 (MIRAE) 'JUMP!']]></title>
+        <id>https://tv.naver.com/v/38403011</id>
+        <link href="https://tv.naver.com/v/38403011"/>
+        <updated>2023-07-25T11:14:15.887Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 다채로운 감정 표현, 미래소년 (MIRAE) 'GIRL']]></title>
+        <id>https://tv.naver.com/v/38402807</id>
+        <link href="https://tv.naver.com/v/38402807"/>
+        <updated>2023-07-25T11:14:15.888Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풋풋한 설렘을 표현한, 아일리원 '꽃이 피었습니다']]></title>
+        <id>https://tv.naver.com/v/38402805</id>
+        <link href="https://tv.naver.com/v/38402805"/>
+        <updated>2023-07-25T11:14:15.889Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[반모하SHOW] ZEROBASEONE]]></title>
+        <id>https://tv.naver.com/v/38402605</id>
+        <link href="https://tv.naver.com/v/38402605"/>
+        <updated>2023-07-25T11:14:15.892Z</updated>
+        <content type="html"><![CDATA[05:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 에너지 가득한 하이틴걸, ICHILLIN’(아이칠린) 'KICK-START(킥스타트)']]></title>
+        <id>https://tv.naver.com/v/38402405</id>
+        <link href="https://tv.naver.com/v/38402405"/>
+        <updated>2023-07-25T11:14:15.893Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Comeback] 영원히 변치 않을 약속, ICHILLIN’(아이칠린) '1+1(약속해줘요)']]></title>
         <id>https://tv.naver.com/v/38402232</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/38173311"/>
         <updated>2023-07-18T11:15:01.250Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Solo Debut] 알앤비 최적화 보이스, 수안(SWAN) '나를 비추면 (Be my everything)']]></title>
-        <id>https://tv.naver.com/v/38173203</id>
-        <link href="https://tv.naver.com/v/38173203"/>
-        <updated>2023-07-18T11:15:01.251Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매혹적인 강렬 비트, Lapillus(라필루스) 'Marionette']]></title>
-        <id>https://tv.naver.com/v/38173181</id>
-        <link href="https://tv.naver.com/v/38173181"/>
-        <updated>2023-07-18T11:15:01.252Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패기 충만함 가득, 8TURN(에잇턴) 'EXCEL']]></title>
-        <id>https://tv.naver.com/v/38173042</id>
-        <link href="https://tv.naver.com/v/38173042"/>
-        <updated>2023-07-18T11:15:01.252Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윌 유 내꾸 미?] 위아이(WEi)]]></title>
-        <id>https://tv.naver.com/v/38172910</id>
-        <link href="https://tv.naver.com/v/38172910"/>
-        <updated>2023-07-18T10:19:35.773Z</updated>
-        <content type="html"><![CDATA[04:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 대체 불가 퍼포먼스 퀸, Queenz Eye 'UN-NORMAL']]></title>
-        <id>https://tv.naver.com/v/38172905</id>
-        <link href="https://tv.naver.com/v/38172905"/>
-        <updated>2023-07-18T10:19:35.773Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 실력 입증! 시선 강탈 신예, KISS OF LIFE '쉿 (Shhh)']]></title>
-        <id>https://tv.naver.com/v/38172782</id>
-        <link href="https://tv.naver.com/v/38172782"/>
-        <updated>2023-07-18T10:19:35.774Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛나는 청량함, LUN8(루네이트) 'Voyager']]></title>
-        <id>https://tv.naver.com/v/38171810</id>
-        <link href="https://tv.naver.com/v/38171810"/>
-        <updated>2023-07-18T10:19:35.774Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동심 유발 해적왕, 남동현 '해적이 되고 싶었던 소년']]></title>
-        <id>https://tv.naver.com/v/38171525</id>
-        <link href="https://tv.naver.com/v/38171525"/>
-        <updated>2023-07-18T10:19:35.774Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/37671227</id>
-        <link href="https://tv.naver.com/v/37671227"/>
-        <updated>2023-07-04T11:16:04.656Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 감각을 자극하는 세련된 무드, 한승우 'Dive Into']]></title>
-        <id>https://tv.naver.com/v/37671048</id>
-        <link href="https://tv.naver.com/v/37671048"/>
-        <updated>2023-07-04T11:16:04.660Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
