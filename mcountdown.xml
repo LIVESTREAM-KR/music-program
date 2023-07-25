@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-07-25T09:17:52.623Z</updated>
+    <updated>2023-07-25T10:18:42.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/38401499</id>
+        <link href="https://tv.naver.com/v/38401499"/>
+        <updated>2023-07-25T10:18:12.513Z</updated>
+        <content type="html"><![CDATA[01:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['SPECIAL STAGE' 주헌 (몬스타엑스) - Don't Worry, Be Happy | Mnet 230720 방송]]></title>
         <id>https://tv.naver.com/v/38253818</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38010325"/>
         <updated>2023-07-13T11:17:20.095Z</updated>
         <content type="html"><![CDATA[04:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HISTORY M' BOYNEXTDOOR - Hot Summer (원곡 - f(x)) | Mnet 230713 방송]]></title>
-        <id>https://tv.naver.com/v/38010323</id>
-        <link href="https://tv.naver.com/v/38010323"/>
-        <updated>2023-07-13T11:17:20.101Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>

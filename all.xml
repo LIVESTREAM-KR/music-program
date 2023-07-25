@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-25T09:17:52.651Z</updated>
+    <updated>2023-07-25T10:18:42.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Kidz on the Block - ZEROBASEONE | KBS 230721 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[02:49]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NCT DREAM이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38401499</id>
+        <link href="https://tv.naver.com/v/38401499"/>
+        <updated>2023-07-25T10:18:12.513Z</updated>
+        <content type="html"><![CDATA[01:12]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['SPECIAL STAGE' 주헌 (몬스타엑스) - Don't Worry, Be Happy | Mnet 230720 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/38253818</id>
         <link href="https://tv.naver.com/v/38253818"/>
@@ -838,11 +845,60 @@
         <content type="html"><![CDATA[04:26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['HISTORY M' BOYNEXTDOOR - Hot Summer (원곡 - f(x)) | Mnet 230713 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38010323</id>
-        <link href="https://tv.naver.com/v/38010323"/>
-        <updated>2023-07-13T11:17:20.101Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
+        <title type="html"><![CDATA[[Comeback] 영원히 변치 않을 약속, ICHILLIN’(아이칠린) '1+1(약속해줘요)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38402232</id>
+        <link href="https://tv.naver.com/v/38402232"/>
+        <updated>2023-07-25T10:18:19.590Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 시작을 꿈꾸는, KISS OF LIFE '안녕,네버랜드' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38401643</id>
+        <link href="https://tv.naver.com/v/38401643"/>
+        <updated>2023-07-25T10:18:19.590Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얽매이지 않는 자유로운 매력, KISS OF LIFE '쉿 (Shhh)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38401458</id>
+        <link href="https://tv.naver.com/v/38401458"/>
+        <updated>2023-07-25T10:18:19.591Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 형섭 & 미래소년 (MIRAE) (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38401457</id>
+        <link href="https://tv.naver.com/v/38401457"/>
+        <updated>2023-07-25T10:18:19.592Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평범하지 않은 독특함, Queenz Eye 'UN-NORMAL' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38401454</id>
+        <link href="https://tv.naver.com/v/38401454"/>
+        <updated>2023-07-25T10:18:19.592Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당차게 앞서나갈 스토리, Queenz Eye 'Domino' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38400873</id>
+        <link href="https://tv.naver.com/v/38400873"/>
+        <updated>2023-07-25T10:18:19.595Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[걸크러쉬 매력 가득, Lapillus(라필루스) 'Marionette' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38400633</id>
+        <link href="https://tv.naver.com/v/38400633"/>
+        <updated>2023-07-25T10:18:19.597Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상큼한 비타민, 김소연 '덤벼' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/38400172</id>
+        <link href="https://tv.naver.com/v/38400172"/>
+        <updated>2023-07-25T10:18:19.598Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
@@ -997,62 +1053,6 @@
         <link href="https://tv.naver.com/v/37671048"/>
         <updated>2023-07-04T11:16:04.660Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Special Stage] 독보적 음색 퀸, 권은비 '사건의 지평선 (원곡 : 윤하(YOUNHA))' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37671046</id>
-        <link href="https://tv.naver.com/v/37671046"/>
-        <updated>2023-07-04T11:16:04.664Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 블랙홀 같은 매력, 한승우 'Burn' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37670857</id>
-        <link href="https://tv.naver.com/v/37670857"/>
-        <updated>2023-07-04T11:16:04.664Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Special Stage] 감미로운 목소리, 샤오쥔 '데리러 갈게 (원곡 : 스탠딩 에그)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37670854</id>
-        <link href="https://tv.naver.com/v/37670854"/>
-        <updated>2023-07-04T11:16:04.664Z</updated>
-        <content type="html"><![CDATA[04:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컬러풀한 만능 아티스트, 김재환 '개이득 (Feat. BOBBY)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37670549</id>
-        <link href="https://tv.naver.com/v/37670549"/>
-        <updated>2023-07-04T11:16:04.666Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 청춘들의 설렘 가득한 여정, 위아이(WEi) '질주 (OVERDRIVE)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37670382</id>
-        <link href="https://tv.naver.com/v/37670382"/>
-        <updated>2023-07-04T11:16:04.668Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 와일드한 퍼포먼스, 위아이(WEi) 'Thriller' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37670111</id>
-        <link href="https://tv.naver.com/v/37670111"/>
-        <updated>2023-07-04T10:20:59.606Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강렬한 비트와 화려한 군무, Lapillus(라필루스) 'Who’s Next' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37670109</id>
-        <link href="https://tv.naver.com/v/37670109"/>
-        <updated>2023-07-04T10:20:59.616Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 형섭 & 김재환 (더쇼)]]></title>
-        <id>https://tv.naver.com/v/37670107</id>
-        <link href="https://tv.naver.com/v/37670107"/>
-        <updated>2023-07-04T10:20:59.624Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ODD EYE CIRCLE - Air Force One (오드아이써클 - 에어 포스 원) l Show Champion l EP.484 (쇼챔피언)]]></title>
