@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-25T07:16:33.493Z</updated>
+    <updated>2023-07-25T08:21:38.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] EXO.zip 📂 MAMA부터 Cream Soda까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/38394741</id>
+        <link href="https://tv.naver.com/v/38394741"/>
+        <updated>2023-07-25T08:20:50.974Z</updated>
+        <content type="html"><![CDATA[01:17:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX KYUJIN - Party O’Clock(엔믹스 규진 - 파티 어 클락) Close-up Cam | Show! MusicCore | MBC230722방송]]></title>
         <id>https://tv.naver.com/v/38364134</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38314837"/>
         <updated>2023-07-22T12:29:19.396Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX KYUJIN – Roller Coaster(엔믹스 규진 - 롤러 코스터) FanCam | Show! MusicCore |MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38314716</id>
-        <link href="https://tv.naver.com/v/38314716"/>
-        <updated>2023-07-22T12:29:19.398Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
