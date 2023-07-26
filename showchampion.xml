@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-26T13:20:49.834Z</updated>
+    <updated>2023-07-26T14:15:42.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 미래소년(MIRAE) - JUMP!]]></title>
+        <id>https://tv.naver.com/v/38447909</id>
+        <link href="https://tv.naver.com/v/38447909"/>
+        <updated>2023-07-26T14:15:26.912Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래소년(MIRAE) - GIRL]]></title>
+        <id>https://tv.naver.com/v/38447864</id>
+        <link href="https://tv.naver.com/v/38447864"/>
+        <updated>2023-07-26T14:15:26.914Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ZEROBASEONE ZHANG HAO - and I (제로베이스원 장하오 - 우주먼지) | Show Champion | EP.485]]></title>
         <id>https://tv.naver.com/v/38440542</id>
@@ -69,7 +83,7 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ZEROBASEONE SEOK MATTHEW - And I (제로베이스원 석매튜 - 우주먼지) | Show Champion | EP.485]]></title>
+        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ZEROBASEONE SEOK MATTHEW - and I (제로베이스원 석매튜 - 우주먼지) | Show Champion | EP.485]]></title>
         <id>https://tv.naver.com/v/38439080</id>
         <link href="https://tv.naver.com/v/38439080"/>
         <updated>2023-07-26T13:20:35.179Z</updated>
@@ -199,20 +213,6 @@
         <id>https://tv.naver.com/v/38433816</id>
         <link href="https://tv.naver.com/v/38433816"/>
         <updated>2023-07-26T13:20:35.230Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE PARK GUNWOOK - In Bloom (제로베이스원 박건욱 - 인 블룸) | Show Champion | EP.485]]></title>
-        <id>https://tv.naver.com/v/38433579</id>
-        <link href="https://tv.naver.com/v/38433579"/>
-        <updated>2023-07-26T13:20:35.232Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE HAN YUJIN - In Bloom (제로베이스원 한유진 - 인 블룸) | Show Champion | EP.485]]></title>
-        <id>https://tv.naver.com/v/38432902</id>
-        <link href="https://tv.naver.com/v/38432902"/>
-        <updated>2023-07-26T13:20:35.234Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
     </entry>
 </feed>
