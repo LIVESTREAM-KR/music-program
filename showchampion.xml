@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-26T10:17:21.749Z</updated>
+    <updated>2023-07-26T11:14:17.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 후이(HUI(PENTAGON)) - You Are]]></title>
+        <id>https://tv.naver.com/v/38440683</id>
+        <link href="https://tv.naver.com/v/38440683"/>
+        <updated>2023-07-26T11:14:01.566Z</updated>
+        <content type="html"><![CDATA[11:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엔딩원샷] 제로베이스원(ZEROBASEONE) - In Bloom]]></title>
+        <id>https://tv.naver.com/v/38440240</id>
+        <link href="https://tv.naver.com/v/38440240"/>
+        <updated>2023-07-26T11:14:01.566Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스(NMIXX) - Party O’Clock]]></title>
+        <id>https://tv.naver.com/v/38439972</id>
+        <link href="https://tv.naver.com/v/38439972"/>
+        <updated>2023-07-26T11:14:01.566Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최초 공개] 키스 오브 라이프(KISS OF LIFE) - Countdown (BELLE Solo)]]></title>
         <id>https://tv.naver.com/v/38439716</id>
@@ -31,7 +52,7 @@
         <id>https://tv.naver.com/v/38439543</id>
         <link href="https://tv.naver.com/v/38439543"/>
         <updated>2023-07-26T10:17:06.773Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
+        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큐빅스(Q6IX) - C.C]]></title>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38212532"/>
         <updated>2023-07-19T13:23:19.759Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX SULLYOON - Roller Coaster (엔믹스 설윤 - 롤러 코스터) | Show Champion | EP.484]]></title>
-        <id>https://tv.naver.com/v/38212364</id>
-        <link href="https://tv.naver.com/v/38212364"/>
-        <updated>2023-07-19T13:23:19.766Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX LILY - Roller Coaster (엔믹스 릴리 - 롤러 코스터) | Show Champion | EP.484]]></title>
-        <id>https://tv.naver.com/v/38212080</id>
-        <link href="https://tv.naver.com/v/38212080"/>
-        <updated>2023-07-19T13:23:19.769Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) - New Kidz on the Block | Show Champion | EP.484]]></title>
-        <id>https://tv.naver.com/v/38211948</id>
-        <link href="https://tv.naver.com/v/38211948"/>
-        <updated>2023-07-19T13:23:19.771Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>
