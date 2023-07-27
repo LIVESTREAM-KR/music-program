@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-27T07:15:31.706Z</updated>
+    <updated>2023-07-27T08:20:46.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] MIRAE - GIRL (미래소년 - 걸) | Show Champion | EP.485]]></title>
+        <id>https://tv.naver.com/v/38456669</id>
+        <link href="https://tv.naver.com/v/38456669"/>
+        <updated>2023-07-27T08:20:31.906Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE - Countdown (BELLE SOLO) (키스오브라이프 - 카운트다운 (벨 솔로)) | Show Champion | EP.485]]></title>
+        <id>https://tv.naver.com/v/38456553</id>
+        <link href="https://tv.naver.com/v/38456553"/>
+        <updated>2023-07-27T08:20:31.907Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 미래소년(MIRAE) - JUMP!]]></title>
         <id>https://tv.naver.com/v/38447909</id>
@@ -199,20 +213,6 @@
         <id>https://tv.naver.com/v/38434253</id>
         <link href="https://tv.naver.com/v/38434253"/>
         <updated>2023-07-26T13:20:35.226Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE - In Bloom (제로베이스원 - 인 블룸) l Show Champion l EP.485]]></title>
-        <id>https://tv.naver.com/v/38433862</id>
-        <link href="https://tv.naver.com/v/38433862"/>
-        <updated>2023-07-26T13:20:35.228Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE SEOK MATTHEW - In Bloom (제로베이스원 석매튜 - 인 블룸) | Show Champion | EP.485]]></title>
-        <id>https://tv.naver.com/v/38433816</id>
-        <link href="https://tv.naver.com/v/38433816"/>
-        <updated>2023-07-26T13:20:35.230Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
     </entry>
 </feed>
