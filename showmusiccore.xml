@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-28T07:15:54.246Z</updated>
+    <updated>2023-07-28T08:20:38.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM.zip 📂 Chewing Gum부터 ISTJ까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/38503279</id>
+        <link href="https://tv.naver.com/v/38503279"/>
+        <updated>2023-07-28T08:19:50.515Z</updated>
+        <content type="html"><![CDATA[01:12:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] TREASURE – MOVE (T5)(트레저 - 무브 (T5)) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/38398088</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38315065"/>
         <updated>2023-07-22T12:29:19.376Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX JIWOO – Roller Coaster(엔믹스 지우 - 롤러 코스터) FanCam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38314863</id>
-        <link href="https://tv.naver.com/v/38314863"/>
-        <updated>2023-07-22T12:29:19.393Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
