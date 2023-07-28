@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-07-28T11:13:56.046Z</updated>
+    <updated>2023-07-28T12:32:33.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 효정의 애교송 3종 세트😍 불후 MC의 애교는 서비스! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/38514356</id>
+        <link href="https://tv.naver.com/v/38514356"/>
+        <updated>2023-07-28T12:32:24.878Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[※결과 확인※ 김호중 vs 라포엠 왕중왕전 마지막 선택👑 결과는 과연?! | KBS 230722 방송]]></title>
         <id>https://tv.naver.com/v/38314737</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38079563"/>
         <updated>2023-07-15T12:33:37.848Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 👑2023 상반기 왕중왕전 2부👑 끝나지 않는 빅 매치의 연속! 본방사수 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/38079562</id>
-        <link href="https://tv.naver.com/v/38079562"/>
-        <updated>2023-07-15T12:33:37.849Z</updated>
-        <content type="html"><![CDATA[00:39]]></content>
     </entry>
 </feed>
