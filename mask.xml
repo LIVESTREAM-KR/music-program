@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-07-28T10:17:44.775Z</updated>
+    <updated>2023-07-28T11:13:56.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥영원한 발라드 레전드🔥그룹 포맨의 막내! 윤민수의 원픽✨보컬리스트 한빈, MBC 230723 방송]]></title>
+        <id>https://tv.naver.com/v/38513147</id>
+        <link href="https://tv.naver.com/v/38513147"/>
+        <updated>2023-07-28T11:13:55.287Z</updated>
+        <content type="html"><![CDATA[11:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜여름 특집! 복면가왕 사상 초유의 역대급 이벤트는?! 😲＞ 복면가왕 414회 예고, MBC 230730 방송]]></title>
         <id>https://tv.naver.com/v/38333730</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37842172"/>
         <updated>2023-07-09T10:19:42.957Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고무대야 레드' & '용달 블루'의 개인기 타임!😎 ＜강렬한 빨간 맛 댄스＞ X ＜찐~한 파란 맛 노래＞, MBC 230709 방송]]></title>
-        <id>https://tv.naver.com/v/37841963</id>
-        <link href="https://tv.naver.com/v/37841963"/>
-        <updated>2023-07-09T10:19:42.959Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
