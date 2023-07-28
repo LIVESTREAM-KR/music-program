@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-28T08:20:38.757Z</updated>
+    <updated>2023-07-28T09:15:56.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - In Bloom (제로베이스원 - 인 블룸) l Show Champion l EP.485]]></title>
+        <id>https://tv.naver.com/v/38495021</id>
+        <link href="https://tv.naver.com/v/38495021"/>
+        <updated>2023-07-28T09:15:41.789Z</updated>
+        <content type="html"><![CDATA[01:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7월 4주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.485]]></title>
         <id>https://tv.naver.com/v/38465602</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/38434978</id>
         <link href="https://tv.naver.com/v/38434978"/>
         <updated>2023-07-26T13:20:35.222Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE ZHANG HAO - In Bloom (제로베이스원 장하오 - 인 블룸) | Show Champion | EP.485]]></title>
-        <id>https://tv.naver.com/v/38434545</id>
-        <link href="https://tv.naver.com/v/38434545"/>
-        <updated>2023-07-26T13:20:35.224Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
     </entry>
 </feed>
