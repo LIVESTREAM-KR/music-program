@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-29T06:19:38.925Z</updated>
+    <updated>2023-07-29T07:14:25.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미래소년 - 점프! (MIRAE - JUMP!), MBC 230729 방송]]></title>
+        <id>https://tv.naver.com/v/38529529</id>
+        <link href="https://tv.naver.com/v/38529529"/>
+        <updated>2023-07-29T07:13:38.675Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퀸즈 아이 - 언 노멀 (Queenz Eye - UN-NORMAL), MBC 230729 방송]]></title>
+        <id>https://tv.naver.com/v/38529411</id>
+        <link href="https://tv.naver.com/v/38529411"/>
+        <updated>2023-07-29T07:13:38.678Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호라이즌 - 식스틴 (HORI7ON - SIX7EEN), MBC 230729 방송]]></title>
+        <id>https://tv.naver.com/v/38529268</id>
+        <link href="https://tv.naver.com/v/38529268"/>
+        <updated>2023-07-29T07:13:38.678Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키스오브라이프 - 쉿 (KISS OF LIFE - Shhh), MBC 230729 방송]]></title>
+        <id>https://tv.naver.com/v/38529267</id>
+        <link href="https://tv.naver.com/v/38529267"/>
+        <updated>2023-07-29T07:13:38.678Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소연 - 덤벼 (Kim So Yeon - Bring it on), MBC 230729 방송]]></title>
+        <id>https://tv.naver.com/v/38529174</id>
+        <link href="https://tv.naver.com/v/38529174"/>
+        <updated>2023-07-29T07:13:38.679Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이스토리 - 집 (제로 이즈 더 온리 패션) (BOY STORY - Z.I.P (Zero Is the only Passion) Eng Ver.), MBC 230729 방송]]></title>
+        <id>https://tv.naver.com/v/38529073</id>
+        <link href="https://tv.naver.com/v/38529073"/>
+        <updated>2023-07-29T07:13:38.681Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세러데이 - 있을게 (SATURDAY - STAY), MBC 230729 방송]]></title>
+        <id>https://tv.naver.com/v/38528979</id>
+        <link href="https://tv.naver.com/v/38528979"/>
+        <updated>2023-07-29T07:13:38.683Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑스지 - 걸 갱  (XG - GRL GVNG), MBC 230729 방송]]></title>
+        <id>https://tv.naver.com/v/38528782</id>
+        <link href="https://tv.naver.com/v/38528782"/>
+        <updated>2023-07-29T07:13:38.686Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM.zip 📂 Chewing Gum부터 ISTJ까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/38503279</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/38316258"/>
         <updated>2023-07-22T13:17:41.441Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE – and I(제로베이스원 - 우주먼지) FanCam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38316124</id>
-        <link href="https://tv.naver.com/v/38316124"/>
-        <updated>2023-07-22T13:17:41.442Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM JI WOONG - and I(제로베이스원 김지웅 - 우주먼지) FanCam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38315948</id>
-        <link href="https://tv.naver.com/v/38315948"/>
-        <updated>2023-07-22T12:29:19.363Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MIRAE - JUMP!(미래소년 – 점프!) FanCam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38315538</id>
-        <link href="https://tv.naver.com/v/38315538"/>
-        <updated>2023-07-22T12:29:19.375Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ODD EYE CIRCLE - Air Force One(오드 아이 써클 – 에어 포스 원) FanCam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38315517</id>
-        <link href="https://tv.naver.com/v/38315517"/>
-        <updated>2023-07-22T12:29:19.375Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE – In Bloom(제로베이스원 - 인 블룸) FanCam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38315516</id>
-        <link href="https://tv.naver.com/v/38315516"/>
-        <updated>2023-07-22T12:29:19.375Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX - Roller Coaster(엔믹스 – 롤러 코스터) FanCam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38315195</id>
-        <link href="https://tv.naver.com/v/38315195"/>
-        <updated>2023-07-22T12:29:19.375Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON – Roller Coaster(엔믹스 설윤 - 롤러 코스터) FanCam |Show! MusicCore|MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38315181</id>
-        <link href="https://tv.naver.com/v/38315181"/>
-        <updated>2023-07-22T12:29:19.375Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON – Roller Coaster(엔믹스 해원 - 롤러 코스터) FanCam | Show! MusicCore |MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38315065</id>
-        <link href="https://tv.naver.com/v/38315065"/>
-        <updated>2023-07-22T12:29:19.376Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
