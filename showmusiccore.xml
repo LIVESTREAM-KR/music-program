@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-29T10:15:59.803Z</updated>
+    <updated>2023-07-29T11:12:48.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] OH MY GIRL MIMI – Celebrate(오마이걸 미미 - 셀러브레이트) FanCam | Show! MusicCore |MBC230729방송]]></title>
+        <id>https://tv.naver.com/v/38534126</id>
+        <link href="https://tv.naver.com/v/38534126"/>
+        <updated>2023-07-29T11:12:08.978Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SHOWNU X HYUNGWON – Love Me A Little(셔누X형원 - 러브 미 어 리틀) FanCam | Show! MusicCore|MBC230729방]]></title>
+        <id>https://tv.naver.com/v/38534034</id>
+        <link href="https://tv.naver.com/v/38534034"/>
+        <updated>2023-07-29T11:12:08.979Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셔누 X 형원 - Love Me A Little (SHOWNU X HYUNGWON - Love Me A Little), MBC 230729 방송]]></title>
+        <id>https://tv.naver.com/v/38533215</id>
+        <link href="https://tv.naver.com/v/38533215"/>
+        <updated>2023-07-29T11:12:08.981Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DREAM – ISTJ(엔시티 드림 - 아이에스티제이) 1위 직캠 FanCam | Show! MusicCore | MBC230729방송]]></title>
         <id>https://tv.naver.com/v/38531096</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38363415"/>
         <updated>2023-07-24T10:18:11.921Z</updated>
         <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM HAECHAN - ISTJ(엔시티 드림 해찬 - 아이에스티제이) Close-up Cam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38363318</id>
-        <link href="https://tv.naver.com/v/38363318"/>
-        <updated>2023-07-24T10:18:11.921Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN - ISTJ(엔시티 드림 재민 - 아이에스티제이) Close-up Cam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38363288</id>
-        <link href="https://tv.naver.com/v/38363288"/>
-        <updated>2023-07-24T10:18:11.922Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JENO - ISTJ(엔시티 드림 제노 - 아이에스티제이) Close-up Cam | Show! MusicCore | MBC230722방송]]></title>
-        <id>https://tv.naver.com/v/38363070</id>
-        <link href="https://tv.naver.com/v/38363070"/>
-        <updated>2023-07-24T10:18:11.924Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
