@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-29T07:14:25.665Z</updated>
+    <updated>2023-07-29T08:18:16.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ISTJ - NCT DREAM(엔시티 드림) | KBS 230728 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,69 @@
         <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엔믹스 - 롤러코스터 (NMIXX - Roller Coaster), MBC 230722 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38530692</id>
+        <link href="https://tv.naver.com/v/38530692"/>
+        <updated>2023-07-29T08:17:37.433Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7월 5주차 1위 엔시티드림 - 아이에스티제이 (NCT DREAM - ISTJ), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38530520</id>
+        <link href="https://tv.naver.com/v/38530520"/>
+        <updated>2023-07-29T08:17:37.435Z</updated>
+        <content type="html"><![CDATA[02:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티드림 - 아이에스티제이 (NCT DREAM - ISTJ), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38530195</id>
+        <link href="https://tv.naver.com/v/38530195"/>
+        <updated>2023-07-29T08:17:37.437Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 - 여름이 들려 (OH MY GIRL - Summer Comes), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38530167</id>
+        <link href="https://tv.naver.com/v/38530167"/>
+        <updated>2023-07-29T08:17:37.442Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 - 셀러브레이트 (OH MY GIRL - Celebrate), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38530053</id>
+        <link href="https://tv.naver.com/v/38530053"/>
+        <updated>2023-07-29T08:17:37.443Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소유 - 알로하 (SOYOU - ALOHA), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38529959</id>
+        <link href="https://tv.naver.com/v/38529959"/>
+        <updated>2023-07-29T08:17:37.445Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 파티 어클락 (NMIXX - Party O'Clock), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38529841</id>
+        <link href="https://tv.naver.com/v/38529841"/>
+        <updated>2023-07-29T08:17:37.447Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 킥스타트 (ICHILLIN' - KICK-START), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38529733</id>
+        <link href="https://tv.naver.com/v/38529733"/>
+        <updated>2023-07-29T08:17:37.450Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 - 인 블룸 (ZEROBASEONE - In Bloom), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38529627</id>
+        <link href="https://tv.naver.com/v/38529627"/>
+        <updated>2023-07-29T08:17:37.455Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미래소년 - 점프! (MIRAE - JUMP!), MBC 230729 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38529529</id>
         <link href="https://tv.naver.com/v/38529529"/>
@@ -360,69 +423,6 @@
         <link href="https://tv.naver.com/v/38362966"/>
         <updated>2023-07-24T10:18:11.926Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE RICKY - In Bloom(제로베이스원 리키 - 인 블룸) FanCam | Show! MusicCore | MBC230722방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38362932</id>
-        <link href="https://tv.naver.com/v/38362932"/>
-        <updated>2023-07-24T10:18:11.928Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE Zhang Hao - In Bloom(제로베이스원 장하오 - 인 블룸) FanCam | Show! MusicCore | MBC230722방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38362760</id>
-        <link href="https://tv.naver.com/v/38362760"/>
-        <updated>2023-07-24T10:18:11.930Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM TAE RAE - In Bloom(제로베이스원 김태래 - 인 블룸) FanCam | Show! MusicCore | MBC230722방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38362616</id>
-        <link href="https://tv.naver.com/v/38362616"/>
-        <updated>2023-07-24T10:18:11.932Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE PARK GUN WOOK - In Bloom(제로베이스원 박건욱 - 인 블룸) FanCam | Show! MusicCore|MBC230722방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38362352</id>
-        <link href="https://tv.naver.com/v/38362352"/>
-        <updated>2023-07-24T10:18:11.948Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 무무(전현무) X 설윤 X 해원 , K-POP 최정예 요원😎 MC 컷 모음!, MBC 230722 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38353348</id>
-        <link href="https://tv.naver.com/v/38353348"/>
-        <updated>2023-07-24T06:22:00.052Z</updated>
-        <content type="html"><![CDATA[18:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE Zhang Hao - and I(제로베이스원 장하오 - 우주먼지) Close-up Cam |Show!MusicCore|MBC230722방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38316704</id>
-        <link href="https://tv.naver.com/v/38316704"/>
-        <updated>2023-07-22T13:17:41.436Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HAN BIN - and I(제로베이스원 성한빈 - 우주먼지)Close-upCam|Show!MusicCore|MBC230722방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38316703</id>
-        <link href="https://tv.naver.com/v/38316703"/>
-        <updated>2023-07-22T13:17:41.438Z</updated>
-        <content type="html"><![CDATA[05:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ICHILLIN’ - KICK-START(아이칠린 – 킥스타트) FanCam | Show! MusicCore | MBC230722방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38316414</id>
-        <link href="https://tv.naver.com/v/38316414"/>
-        <updated>2023-07-22T13:17:41.439Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SEOK MATTHEW - and I(제로베이스원 석매튜 - 우주먼지) FanCam | Show! MusicCore | MBC230722방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38316258</id>
-        <link href="https://tv.naver.com/v/38316258"/>
-        <updated>2023-07-22T13:17:41.441Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - ISTJ | SBS 230723 방송 (인기가요)]]></title>
