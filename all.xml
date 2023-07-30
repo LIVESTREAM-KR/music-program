@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-30T08:19:31.598Z</updated>
+    <updated>2023-07-30T09:14:51.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ISTJ - NCT DREAM(엔시티 드림) | KBS 230728 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,27 @@
         <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[정국 - Seven(feat. Latto) | SBS 230730 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/38550452</id>
+        <link href="https://tv.naver.com/v/38550452"/>
+        <updated>2023-07-30T09:14:14.470Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셔누X형원 - Love me a little | SBS 230730 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/38550323</id>
+        <link href="https://tv.naver.com/v/38550323"/>
+        <updated>2023-07-30T09:14:14.470Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 - 여름이 들려(Summer Comes) | SBS 230730 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/38550198</id>
+        <link href="https://tv.naver.com/v/38550198"/>
+        <updated>2023-07-30T09:14:14.470Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오마이걸 - Celebrate | SBS 230730 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/38549909</id>
         <link href="https://tv.naver.com/v/38549909"/>
@@ -612,27 +633,6 @@
         <link href="https://tv.naver.com/v/38328903"/>
         <updated>2023-07-23T07:14:08.344Z</updated>
         <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤수현 - 남자들은 날 가만 안나둬 | SBS 230723 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38328763</id>
-        <link href="https://tv.naver.com/v/38328763"/>
-        <updated>2023-07-23T07:14:08.349Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXO - Cream Soda | SBS 230716 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38096244</id>
-        <link href="https://tv.naver.com/v/38096244"/>
-        <updated>2023-07-16T09:17:12.270Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스(NewJeans) - Super Shy | SBS 230716 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/38096134</id>
-        <link href="https://tv.naver.com/v/38096134"/>
-        <updated>2023-07-16T08:21:01.714Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 소유 - ALOHA (Feat. 보라) | Mnet 230727 방송 (엠카운트다운)]]></title>
