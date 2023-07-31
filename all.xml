@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-31T04:20:07.721Z</updated>
+    <updated>2023-07-31T05:16:09.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ISTJ - NCT DREAM(엔시티 드림) | KBS 230728 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] SHOWNU X HYUNGWON SHOWNU - Love Me A Little(셔누X형원 셔누) Close-upCam|Show!MusicCore|MBC230729방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38570746</id>
+        <link href="https://tv.naver.com/v/38570746"/>
+        <updated>2023-07-31T05:15:27.553Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] SHOWNU X HYUNGWON HYUNGWON -Love Me A Little(셔누X형원 형원)Close-upCam|Show!MusicCore|MBC230729방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38570745</id>
+        <link href="https://tv.naver.com/v/38570745"/>
+        <updated>2023-07-31T05:15:27.555Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ZEROBASEONE – In Bloom(제로베이스원 - 인 블룸) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38535080</id>
         <link href="https://tv.naver.com/v/38535080"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/38534334"/>
         <updated>2023-07-29T12:28:20.547Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] OH MY GIRL - Celebrate(오마이걸 – 셀러브레이트) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534333</id>
-        <link href="https://tv.naver.com/v/38534333"/>
-        <updated>2023-07-29T12:28:20.548Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SHOWNU X HYUNGWON HYUNGWON - Love Me A Little(셔누X형원 형원)FanCam| Show!MusicCore|MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534332</id>
-        <link href="https://tv.naver.com/v/38534332"/>
-        <updated>2023-07-29T12:28:20.550Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정국 - Seven(feat. Latto) | SBS 230730 방송 (인기가요)]]></title>
