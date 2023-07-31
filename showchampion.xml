@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-07-31T08:22:01.281Z</updated>
+    <updated>2023-07-31T09:17:32.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/38576293"/>
         <updated>2023-07-31T07:15:46.866Z</updated>
         <content type="html"><![CDATA[01:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIRAE - JUMP! (미래소년 - 점프!) l Show Champion l EP.485]]></title>
+        <id>https://tv.naver.com/v/38564851</id>
+        <link href="https://tv.naver.com/v/38564851"/>
+        <updated>2023-07-31T09:17:17.175Z</updated>
+        <content type="html"><![CDATA[00:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZEROBASEONE - In Bloom (제로베이스원 - 인 블룸) l Show Champion l EP.485]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38436598"/>
         <updated>2023-07-26T13:20:35.218Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE KIM JIWOONG - In Bloom (제로베이스원 김지웅 - 인 블룸) | Show Champion | EP.485]]></title>
-        <id>https://tv.naver.com/v/38435233</id>
-        <link href="https://tv.naver.com/v/38435233"/>
-        <updated>2023-07-26T13:20:35.220Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
