@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-31T05:16:09.981Z</updated>
+    <updated>2023-07-31T06:22:15.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ISTJ - NCT DREAM(엔시티 드림) | KBS 230728 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] OH MY GIRL ARIN - Summer Comes(오마이걸 아린 - 여름이 들려) Close-up Cam | Show! MusicCore |MBC230729방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38573601</id>
+        <link href="https://tv.naver.com/v/38573601"/>
+        <updated>2023-07-31T06:21:28.771Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] OH MY GIRL YOOA - Celebrate(오마이걸 유아 - 셀러브레이트) Close-up Cam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38572065</id>
+        <link href="https://tv.naver.com/v/38572065"/>
+        <updated>2023-07-31T06:21:28.786Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] SHOWNU X HYUNGWON SHOWNU - Love Me A Little(셔누X형원 셔누) Close-upCam|Show!MusicCore|MBC230729방 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38570746</id>
         <link href="https://tv.naver.com/v/38570746"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/38534336"/>
         <updated>2023-07-29T12:28:20.545Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] OH MY GIRL ARIN – Celebrate(오마이걸 아린 - 셀러브레이트) FanCam |Show! MusicCore|MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534335</id>
-        <link href="https://tv.naver.com/v/38534335"/>
-        <updated>2023-07-29T12:28:20.546Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] OH MY GIRL YOOA – Celebrate(오마이걸 유아 - 셀러브레이트) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534334</id>
-        <link href="https://tv.naver.com/v/38534334"/>
-        <updated>2023-07-29T12:28:20.547Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정국 - Seven(feat. Latto) | SBS 230730 방송 (인기가요)]]></title>

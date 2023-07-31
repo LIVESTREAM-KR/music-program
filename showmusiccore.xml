@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-07-31T05:16:09.961Z</updated>
+    <updated>2023-07-31T06:22:15.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] OH MY GIRL ARIN - Summer Comes(오마이걸 아린 - 여름이 들려) Close-up Cam | Show! MusicCore |MBC230729방]]></title>
+        <id>https://tv.naver.com/v/38573601</id>
+        <link href="https://tv.naver.com/v/38573601"/>
+        <updated>2023-07-31T06:21:28.771Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] OH MY GIRL YOOA - Celebrate(오마이걸 유아 - 셀러브레이트) Close-up Cam | Show! MusicCore | MBC230729방송]]></title>
+        <id>https://tv.naver.com/v/38572065</id>
+        <link href="https://tv.naver.com/v/38572065"/>
+        <updated>2023-07-31T06:21:28.786Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] SHOWNU X HYUNGWON SHOWNU - Love Me A Little(셔누X형원 셔누) Close-upCam|Show!MusicCore|MBC230729방]]></title>
         <id>https://tv.naver.com/v/38570746</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/38534336"/>
         <updated>2023-07-29T12:28:20.545Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] OH MY GIRL ARIN – Celebrate(오마이걸 아린 - 셀러브레이트) FanCam |Show! MusicCore|MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38534335</id>
-        <link href="https://tv.naver.com/v/38534335"/>
-        <updated>2023-07-29T12:28:20.546Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] OH MY GIRL YOOA – Celebrate(오마이걸 유아 - 셀러브레이트) FanCam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38534334</id>
-        <link href="https://tv.naver.com/v/38534334"/>
-        <updated>2023-07-29T12:28:20.547Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
