@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-31T07:16:01.737Z</updated>
+    <updated>2023-07-31T08:22:01.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ISTJ - NCT DREAM(엔시티 드림) | KBS 230728 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 , 7월 다섯째 주 음악중심 MC 컷 모음!, MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38578308</id>
+        <link href="https://tv.naver.com/v/38578308"/>
+        <updated>2023-07-31T08:21:16.407Z</updated>
+        <content type="html"><![CDATA[16:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] OH MY GIRL ARIN - Summer Comes(오마이걸 아린 - 여름이 들려) Close-up Cam | Show! MusicCore |MBC230729방 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38573601</id>
         <link href="https://tv.naver.com/v/38573601"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/38534337"/>
         <updated>2023-07-29T12:28:20.544Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] OH MY GIRL - Summer Comes(오마이걸 – 여름이 들려) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534336</id>
-        <link href="https://tv.naver.com/v/38534336"/>
-        <updated>2023-07-29T12:28:20.545Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정국 - Seven(feat. Latto) | SBS 230730 방송 (인기가요)]]></title>
@@ -1479,7 +1479,7 @@
         <id>https://tv.naver.com/v/38575665</id>
         <link href="https://tv.naver.com/v/38575665"/>
         <updated>2023-07-31T07:16:00.962Z</updated>
-        <content type="html"><![CDATA[08:24]]></content>
+        <content type="html"><![CDATA[08:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[＜신입 가왕 시대의 서막 🎬 그리고 신스틸러의 맹활약＞ 복면가왕 415회 예고, MBC 230806 방송 (복면가왕)]]></title>
