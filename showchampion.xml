@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-01T08:21:09.638Z</updated>
+    <updated>2023-08-01T09:17:21.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - Party O'Clock (엔믹스 - 파티어클락) l Show Champion l EP.485]]></title>
+        <id>https://tv.naver.com/v/38578677</id>
+        <link href="https://tv.naver.com/v/38578677"/>
+        <updated>2023-08-01T09:17:04.875Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] ‘앙탈즈’ 쇼챔피언 일일PD로 등장ㄷㄷ 완전 레전드야~]]></title>
         <id>https://tv.naver.com/v/38576293</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38436826"/>
         <updated>2023-07-26T13:20:35.214Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] MIRAE SON DONG PYO - JUMP! (미래소년 손동표 - 점프!) | Show Champion | EP.485]]></title>
-        <id>https://tv.naver.com/v/38436598</id>
-        <link href="https://tv.naver.com/v/38436598"/>
-        <updated>2023-07-26T13:20:35.218Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>

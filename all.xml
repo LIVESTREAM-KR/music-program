@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-01T08:21:09.651Z</updated>
+    <updated>2023-08-01T09:17:21.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ISTJ - NCT DREAM(엔시티 드림) | KBS 230728 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] July TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38616025</id>
+        <link href="https://tv.naver.com/v/38616025"/>
+        <updated>2023-08-01T09:16:33.642Z</updated>
+        <content type="html"><![CDATA[33:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DREAM HAECHAN – ISTJ(엔시티 드림 해찬 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38600949</id>
         <link href="https://tv.naver.com/v/38600949"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/38534979"/>
         <updated>2023-07-29T12:28:20.527Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE NATTY - Shhh(키스오브라이프 나띠 - 쉿) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534826</id>
-        <link href="https://tv.naver.com/v/38534826"/>
-        <updated>2023-07-29T12:28:20.527Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정국 - Seven(feat. Latto) | SBS 230730 방송 (인기가요)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NMIXX - Party O'Clock (엔믹스 - 파티어클락) l Show Champion l EP.485 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/38578677</id>
+        <link href="https://tv.naver.com/v/38578677"/>
+        <updated>2023-08-01T09:17:04.875Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] ‘앙탈즈’ 쇼챔피언 일일PD로 등장ㄷㄷ 완전 레전드야~ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/38576293</id>
         <link href="https://tv.naver.com/v/38576293"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/38436826"/>
         <updated>2023-07-26T13:20:35.214Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] MIRAE SON DONG PYO - JUMP! (미래소년 손동표 - 점프!) | Show Champion | EP.485 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/38436598</id>
-        <link href="https://tv.naver.com/v/38436598"/>
-        <updated>2023-07-26T13:20:35.218Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 617회 〈1970’s 보물송을 찾아라 특집＞ 우승자 ⭐정동하⭐ | KBS 방송 (불후의 명곡)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-01T08:21:09.679Z</updated>
+    <updated>2023-08-01T09:17:21.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] July TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/38616025</id>
+        <link href="https://tv.naver.com/v/38616025"/>
+        <updated>2023-08-01T09:16:33.642Z</updated>
+        <content type="html"><![CDATA[33:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DREAM HAECHAN – ISTJ(엔시티 드림 해찬 - 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송]]></title>
         <id>https://tv.naver.com/v/38600949</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38534979"/>
         <updated>2023-07-29T12:28:20.527Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE NATTY - Shhh(키스오브라이프 나띠 - 쉿) FanCam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38534826</id>
-        <link href="https://tv.naver.com/v/38534826"/>
-        <updated>2023-07-29T12:28:20.527Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
