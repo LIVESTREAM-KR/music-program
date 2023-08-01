@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-08-01T06:29:20.813Z</updated>
+    <updated>2023-08-01T07:16:39.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#엠뚜루마뚜루] 텐트 취침 싫다고 잉잉 울던 아빠어디가 민국이,,  슴살이 되어 돌아왔슴다😭 아빠도 깜~~빡 속은 《복면가왕》 깜짝 무대! MBC230730방송]]></title>
+        <id>https://tv.naver.com/v/38610956</id>
+        <link href="https://tv.naver.com/v/38610956"/>
+        <updated>2023-08-01T07:16:38.799Z</updated>
+        <content type="html"><![CDATA[20:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫 여행, 아빠의 첫 요리🏕️ ＜아빠 어디가＞ 김민국의 떠올리면 행복한 그날의 기억❣️, MBC 230730 방송]]></title>
         <id>https://tv.naver.com/v/38575665</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38331994"/>
         <updated>2023-07-23T10:16:34.587Z</updated>
         <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['용달 블루' 2라운드 무대 - 청소, MBC 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38331814</id>
-        <link href="https://tv.naver.com/v/38331814"/>
-        <updated>2023-07-23T10:16:34.588Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
