@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-08-01T10:18:39.196Z</updated>
+    <updated>2023-08-01T11:13:51.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/38620091</id>
+        <link href="https://tv.naver.com/v/38620091"/>
+        <updated>2023-08-01T11:13:29.040Z</updated>
+        <content type="html"><![CDATA[05:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 무더위를 날려버릴 써머 퀸의 귀환, 소유 'ALOHA (Feat. 보라)']]></title>
+        <id>https://tv.naver.com/v/38620061</id>
+        <link href="https://tv.naver.com/v/38620061"/>
+        <updated>2023-08-01T11:13:29.040Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 몽환적인 섹시함, 소유 'Drivin' Me']]></title>
+        <id>https://tv.naver.com/v/38619947</id>
+        <link href="https://tv.naver.com/v/38619947"/>
+        <updated>2023-08-01T11:13:29.040Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 여섯 요정들의 시원한 여름, 오마이걸 '여름이 들려 (Summer Comes)']]></title>
+        <id>https://tv.naver.com/v/38619945</id>
+        <link href="https://tv.naver.com/v/38619945"/>
+        <updated>2023-08-01T11:13:29.040Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 경쾌하고 다채로운 매력, 오마이걸 'Celebrate']]></title>
+        <id>https://tv.naver.com/v/38619705</id>
+        <link href="https://tv.naver.com/v/38619705"/>
+        <updated>2023-08-01T11:13:29.047Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에너제틱한 퍼포먼스, 미래소년 (MIRAE) 'JUMP!']]></title>
+        <id>https://tv.naver.com/v/38619703</id>
+        <link href="https://tv.naver.com/v/38619703"/>
+        <updated>2023-08-01T11:13:29.047Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Special Stage] 육각형 올라운더 아이돌, KISS OF LIFE 'Sugarcoat (NATTY solo)']]></title>
+        <id>https://tv.naver.com/v/38619568</id>
+        <link href="https://tv.naver.com/v/38619568"/>
+        <updated>2023-08-01T11:13:29.050Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통통 튀는 발랄한 7인 7색 매력, ICHILLIN’(아이칠린) 'KICK-START(킥스타트)']]></title>
+        <id>https://tv.naver.com/v/38619564</id>
+        <link href="https://tv.naver.com/v/38619564"/>
+        <updated>2023-08-01T11:13:29.050Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 파워 청순미 가득, 아일리원 'MY COLOR']]></title>
+        <id>https://tv.naver.com/v/38619563</id>
+        <link href="https://tv.naver.com/v/38619563"/>
+        <updated>2023-08-01T11:13:29.050Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 기분 좋은 설렘, 아일리원 'Shining Sky']]></title>
+        <id>https://tv.naver.com/v/38619307</id>
+        <link href="https://tv.naver.com/v/38619307"/>
+        <updated>2023-08-01T11:13:29.050Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 형섭&오마이걸]]></title>
+        <id>https://tv.naver.com/v/38619306</id>
+        <link href="https://tv.naver.com/v/38619306"/>
+        <updated>2023-08-01T11:13:29.050Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 조화로운 음색의 케미스트리, 세븐어스 'Wonder Land']]></title>
+        <id>https://tv.naver.com/v/38619154</id>
+        <link href="https://tv.naver.com/v/38619154"/>
+        <updated>2023-08-01T11:13:29.050Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니크한 무대 장악력, Queenz Eye 'UN-NORMAL']]></title>
         <id>https://tv.naver.com/v/38618747</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/38401643"/>
         <updated>2023-07-25T10:18:19.590Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얽매이지 않는 자유로운 매력, KISS OF LIFE '쉿 (Shhh)']]></title>
-        <id>https://tv.naver.com/v/38401458</id>
-        <link href="https://tv.naver.com/v/38401458"/>
-        <updated>2023-07-25T10:18:19.591Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 형섭 & 미래소년 (MIRAE)]]></title>
-        <id>https://tv.naver.com/v/38401457</id>
-        <link href="https://tv.naver.com/v/38401457"/>
-        <updated>2023-07-25T10:18:19.592Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평범하지 않은 독특함, Queenz Eye 'UN-NORMAL']]></title>
-        <id>https://tv.naver.com/v/38401454</id>
-        <link href="https://tv.naver.com/v/38401454"/>
-        <updated>2023-07-25T10:18:19.592Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당차게 앞서나갈 스토리, Queenz Eye 'Domino']]></title>
-        <id>https://tv.naver.com/v/38400873</id>
-        <link href="https://tv.naver.com/v/38400873"/>
-        <updated>2023-07-25T10:18:19.595Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸크러쉬 매력 가득, Lapillus(라필루스) 'Marionette']]></title>
-        <id>https://tv.naver.com/v/38400633</id>
-        <link href="https://tv.naver.com/v/38400633"/>
-        <updated>2023-07-25T10:18:19.597Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상큼한 비타민, 김소연 '덤벼']]></title>
-        <id>https://tv.naver.com/v/38400172</id>
-        <link href="https://tv.naver.com/v/38400172"/>
-        <updated>2023-07-25T10:18:19.598Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/38174357</id>
-        <link href="https://tv.naver.com/v/38174357"/>
-        <updated>2023-07-18T11:15:01.234Z</updated>
-        <content type="html"><![CDATA[04:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초공개] 섬세한 감정 표현, 김진환(JAY) 'BLUE MOON']]></title>
-        <id>https://tv.naver.com/v/38174075</id>
-        <link href="https://tv.naver.com/v/38174075"/>
-        <updated>2023-07-18T11:15:01.235Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초공개] 스며드는 달콤한 속삭임, 김진환(JAY) 'PARADISE']]></title>
-        <id>https://tv.naver.com/v/38174040</id>
-        <link href="https://tv.naver.com/v/38174040"/>
-        <updated>2023-07-18T11:15:01.242Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설레는 첫사랑 그 자체, 위아이(WEi) '질주 (OVERDRIVE)']]></title>
-        <id>https://tv.naver.com/v/38174039</id>
-        <link href="https://tv.naver.com/v/38174039"/>
-        <updated>2023-07-18T11:15:01.243Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 화려한 꽃처럼 만개할, ZEROBASEONE 'In Bloom']]></title>
-        <id>https://tv.naver.com/v/38174035</id>
-        <link href="https://tv.naver.com/v/38174035"/>
-        <updated>2023-07-18T11:15:01.246Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 아홉 소년의 빛나는 첫걸음, ZEROBASEONE 'New Kidz on the Block']]></title>
-        <id>https://tv.naver.com/v/38173885</id>
-        <link href="https://tv.naver.com/v/38173885"/>
-        <updated>2023-07-18T11:15:01.247Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
     </entry>
 </feed>
