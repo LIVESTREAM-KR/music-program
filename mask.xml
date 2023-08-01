@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-08-01T09:17:21.394Z</updated>
+    <updated>2023-08-01T10:18:39.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 데뷔하자마자 ✨밀리언셀러에 등극✨ 제로베이스원의 자타공인💖메인 보컬 김태래!, MBC 230730 방송]]></title>
+        <id>https://tv.naver.com/v/38618463</id>
+        <link href="https://tv.naver.com/v/38618463"/>
+        <updated>2023-08-01T10:18:38.408Z</updated>
+        <content type="html"><![CDATA[10:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#엠뚜루마뚜루] 텐트 취침 싫다고 잉잉 울던 아빠어디가 민국이,,  슴살이 되어 돌아왔슴다😭 아빠도 깜~~빡 속은 《복면가왕》 깜짝 무대! MBC230730방송]]></title>
         <id>https://tv.naver.com/v/38610956</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38332073"/>
         <updated>2023-07-23T10:16:34.581Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['새장'의 단짝이 보내온 영상 힌트💌 가수 소향과 가족과도 같은 18년 지기 친구 사이💕, MBC 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38331994</id>
-        <link href="https://tv.naver.com/v/38331994"/>
-        <updated>2023-07-23T10:16:34.587Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
     </entry>
 </feed>
