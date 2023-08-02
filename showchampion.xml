@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-02T10:18:43.427Z</updated>
+    <updated>2023-08-02T11:14:19.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 후이(HUI(PENTAGON)) - Like This]]></title>
+        <id>https://tv.naver.com/v/38660206</id>
+        <link href="https://tv.naver.com/v/38660206"/>
+        <updated>2023-08-02T11:14:01.808Z</updated>
+        <content type="html"><![CDATA[12:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 소유(SOYOU) - ALOHA (Feat. 보라)]]></title>
+        <id>https://tv.naver.com/v/38659881</id>
+        <link href="https://tv.naver.com/v/38659881"/>
+        <updated>2023-08-02T11:14:01.816Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소유(SOYOU) - Drivin’ Me]]></title>
+        <id>https://tv.naver.com/v/38659713</id>
+        <link href="https://tv.naver.com/v/38659713"/>
+        <updated>2023-08-02T11:14:01.819Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 오마이걸(OH MY GIRL) - 여름이 들려 (Summer Comes)]]></title>
         <id>https://tv.naver.com/v/38659464</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38439538"/>
         <updated>2023-07-26T13:20:35.173Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE - and I (제로베이스원 - 우주먼지) l Show Champion l EP.485]]></title>
-        <id>https://tv.naver.com/v/38439536</id>
-        <link href="https://tv.naver.com/v/38439536"/>
-        <updated>2023-07-26T13:20:35.175Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ZEROBASEONE KIM TAERAE - and I (제로베이스원 김태래 - 우주먼지) | Show Champion | EP.485]]></title>
-        <id>https://tv.naver.com/v/38439282</id>
-        <link href="https://tv.naver.com/v/38439282"/>
-        <updated>2023-07-26T13:20:35.177Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ZEROBASEONE SEOK MATTHEW - and I (제로베이스원 석매튜 - 우주먼지) | Show Champion | EP.485]]></title>
-        <id>https://tv.naver.com/v/38439080</id>
-        <link href="https://tv.naver.com/v/38439080"/>
-        <updated>2023-07-26T13:20:35.179Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
