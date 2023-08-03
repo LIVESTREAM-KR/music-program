@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-08-03T11:14:39.913Z</updated>
+    <updated>2023-08-03T12:33:18.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 인피니트 - New Emotions | Mnet 230803 방송]]></title>
+        <id>https://tv.naver.com/v/38699619</id>
+        <link href="https://tv.naver.com/v/38699619"/>
+        <updated>2023-08-03T12:32:43.681Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 마마무+ - 댕댕 (dangdang) | Mnet 230803 방송]]></title>
+        <id>https://tv.naver.com/v/38699464</id>
+        <link href="https://tv.naver.com/v/38699464"/>
+        <updated>2023-08-03T12:32:43.687Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셔누 X 형원 - Love Me A Little | Mnet 230803 방송]]></title>
+        <id>https://tv.naver.com/v/38699462</id>
+        <link href="https://tv.naver.com/v/38699462"/>
+        <updated>2023-08-03T12:32:43.688Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소유 - ALOHA (Feat. 보라) | Mnet 230803 방송]]></title>
+        <id>https://tv.naver.com/v/38698978</id>
+        <link href="https://tv.naver.com/v/38698978"/>
+        <updated>2023-08-03T12:32:43.690Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 - 여름이 들려 (Summer Comes) | Mnet 230803 방송]]></title>
+        <id>https://tv.naver.com/v/38698862</id>
+        <link href="https://tv.naver.com/v/38698862"/>
+        <updated>2023-08-03T12:32:43.691Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' ITZY - CAKE | Mnet 230803 방송]]></title>
         <id>https://tv.naver.com/v/38698674</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/38479027"/>
         <updated>2023-07-27T12:32:16.914Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 셔누 X 형원 (SHOWNU X HYUNGWON) | Mnet 230727 방송]]></title>
-        <id>https://tv.naver.com/v/38478902</id>
-        <link href="https://tv.naver.com/v/38478902"/>
-        <updated>2023-07-27T11:13:51.714Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래소년 - JUMP! | Mnet 230727 방송]]></title>
-        <id>https://tv.naver.com/v/38478764</id>
-        <link href="https://tv.naver.com/v/38478764"/>
-        <updated>2023-07-27T11:13:51.714Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' XG - GRL GVNG | Mnet 230727 방송]]></title>
-        <id>https://tv.naver.com/v/38478380</id>
-        <link href="https://tv.naver.com/v/38478380"/>
-        <updated>2023-07-27T11:13:51.715Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPOILER M' TREASURE (트레저) | Mnet 230727 방송]]></title>
-        <id>https://tv.naver.com/v/38478262</id>
-        <link href="https://tv.naver.com/v/38478262"/>
-        <updated>2023-07-27T11:13:51.720Z</updated>
-        <content type="html"><![CDATA[01:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DEBUT' BOY STORY - Z.I.P (Zero Is the only Passion) Eng Ver. | Mnet 230727 방송]]></title>
-        <id>https://tv.naver.com/v/38477470</id>
-        <link href="https://tv.naver.com/v/38477470"/>
-        <updated>2023-07-27T11:13:51.720Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
