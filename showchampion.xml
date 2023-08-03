@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-03T08:20:25.714Z</updated>
+    <updated>2023-08-03T09:16:33.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/38661401"/>
         <updated>2023-08-03T08:20:10.844Z</updated>
         <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486]]></title>
+        <id>https://tv.naver.com/v/38675994</id>
+        <link href="https://tv.naver.com/v/38675994"/>
+        <updated>2023-08-03T09:16:18.159Z</updated>
+        <content type="html"><![CDATA[01:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] BOY STORY(보이스토리) - Z.I.P (Zero Is the only Passion) Eng Ver. | Show Champion | EP.486]]></title>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/38646212</id>
         <link href="https://tv.naver.com/v/38646212"/>
         <updated>2023-08-02T13:20:33.292Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486]]></title>
-        <id>https://tv.naver.com/v/38645718</id>
-        <link href="https://tv.naver.com/v/38645718"/>
-        <updated>2023-08-02T13:20:33.299Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
