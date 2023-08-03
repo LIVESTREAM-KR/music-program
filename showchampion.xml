@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-03T07:15:56.029Z</updated>
+    <updated>2023-08-03T08:20:25.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] SEVENUS - Wonder Land (세븐어스 - 원더랜드) | Show Champion | EP.486]]></title>
+        <id>https://tv.naver.com/v/38661828</id>
+        <link href="https://tv.naver.com/v/38661828"/>
+        <updated>2023-08-03T08:20:10.843Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] MIRAE - JUMP! (미래소년 - 점프!) | Show Champion | EP.486]]></title>
+        <id>https://tv.naver.com/v/38661553</id>
+        <link href="https://tv.naver.com/v/38661553"/>
+        <updated>2023-08-03T08:20:10.843Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] SOYOU - Drivin' Me (소유 - 드라이빙 미) | Show Champion | EP.486]]></title>
+        <id>https://tv.naver.com/v/38661401</id>
+        <link href="https://tv.naver.com/v/38661401"/>
+        <updated>2023-08-03T08:20:10.844Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] BOY STORY(보이스토리) - Z.I.P (Zero Is the only Passion) Eng Ver. | Show Champion | EP.486]]></title>
         <id>https://tv.naver.com/v/38660646</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38645718"/>
         <updated>2023-08-02T13:20:33.299Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486]]></title>
-        <id>https://tv.naver.com/v/38645435</id>
-        <link href="https://tv.naver.com/v/38645435"/>
-        <updated>2023-08-02T13:20:33.303Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 에세이] 후이(HUI(PENTAGON)) - Like This]]></title>
-        <id>https://tv.naver.com/v/38660206</id>
-        <link href="https://tv.naver.com/v/38660206"/>
-        <updated>2023-08-02T11:14:01.808Z</updated>
-        <content type="html"><![CDATA[12:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 소유(SOYOU) - ALOHA (Feat. 보라)]]></title>
-        <id>https://tv.naver.com/v/38659881</id>
-        <link href="https://tv.naver.com/v/38659881"/>
-        <updated>2023-08-02T11:14:01.816Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
