@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-03T10:18:43.027Z</updated>
+    <updated>2023-08-03T11:14:39.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ISTJ - NCT DREAM(엔시티 드림) | KBS 230728 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,90 @@
         <content type="html"><![CDATA[01:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' ITZY - CAKE | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38698674</id>
+        <link href="https://tv.naver.com/v/38698674"/>
+        <updated>2023-08-03T11:14:07.114Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' ITZY - None of My Business | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38698518</id>
+        <link href="https://tv.naver.com/v/38698518"/>
+        <updated>2023-08-03T11:14:07.116Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' TREASURE (트레저) - BONA BONA | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38698403</id>
+        <link href="https://tv.naver.com/v/38698403"/>
+        <updated>2023-08-03T11:14:07.116Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 브브걸 (BBGIRLS) - ONE MORE TIME | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38698401</id>
+        <link href="https://tv.naver.com/v/38698401"/>
+        <updated>2023-08-03T11:14:07.117Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with 인피니트 (INFINITE) | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38698215</id>
+        <link href="https://tv.naver.com/v/38698215"/>
+        <updated>2023-08-03T11:14:07.118Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 권은비 - The Flash | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38698084</id>
+        <link href="https://tv.naver.com/v/38698084"/>
+        <updated>2023-08-03T11:14:07.121Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' xikers(싸이커스) - DO or DIE | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38698082</id>
+        <link href="https://tv.naver.com/v/38698082"/>
+        <updated>2023-08-03T11:14:07.123Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래소년 - JUMP! | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38697959</id>
+        <link href="https://tv.naver.com/v/38697959"/>
+        <updated>2023-08-03T11:14:07.126Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HISTORY M' ZEROBASEONE과 함께하는 7월의 엠카 핵심 요약.zip! | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38697792</id>
+        <link href="https://tv.naver.com/v/38697792"/>
+        <updated>2023-08-03T11:14:07.133Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with TREASURE (트레저) | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38697647</id>
+        <link href="https://tv.naver.com/v/38697647"/>
+        <updated>2023-08-03T11:14:07.136Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - SKETCH | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38697525</id>
+        <link href="https://tv.naver.com/v/38697525"/>
+        <updated>2023-08-03T11:14:07.139Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['로드 투 엠카운트다운 STAGE' NINE.i(나인아이) - Turn it off | Mnet 230803 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/38697374</id>
+        <link href="https://tv.naver.com/v/38697374"/>
+        <updated>2023-08-03T11:14:07.142Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 더윈드 (The Wind) - WE GO | Mnet 230803 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/38697215</id>
         <link href="https://tv.naver.com/v/38697215"/>
@@ -759,90 +843,6 @@
         <link href="https://tv.naver.com/v/38477470"/>
         <updated>2023-07-27T11:13:51.720Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN' (아이칠린) - KICK-START (킥스타트) | Mnet 230727 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38477365</id>
-        <link href="https://tv.naver.com/v/38477365"/>
-        <updated>2023-07-27T13:20:23.458Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DEBUT' HORI7ON(호라이즌) - SIX7EEN | Mnet 230727 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38477232</id>
-        <link href="https://tv.naver.com/v/38477232"/>
-        <updated>2023-07-27T10:17:11.956Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 아일리원 - MY COLOR | Mnet 230727 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38477105</id>
-        <link href="https://tv.naver.com/v/38477105"/>
-        <updated>2023-07-27T10:17:11.956Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 오마이걸 (OH MY GIRL) | Mnet 230727 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38477001</id>
-        <link href="https://tv.naver.com/v/38477001"/>
-        <updated>2023-07-27T10:17:11.956Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - 쉿 (Shhh) | Mnet 230727 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38476830</id>
-        <link href="https://tv.naver.com/v/38476830"/>
-        <updated>2023-07-27T10:17:11.960Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤서빈 (Yoon Seobin) - 파도쳐 (Love is like a wave) | Mnet 230727 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38476522</id>
-        <link href="https://tv.naver.com/v/38476522"/>
-        <updated>2023-07-27T10:17:11.960Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세러데이(SATURDAY) - 있을게 | Mnet 230727 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38476319</id>
-        <link href="https://tv.naver.com/v/38476319"/>
-        <updated>2023-07-27T10:17:11.960Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38401499</id>
-        <link href="https://tv.naver.com/v/38401499"/>
-        <updated>2023-07-25T10:18:12.513Z</updated>
-        <content type="html"><![CDATA[01:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' 주헌 (몬스타엑스) - Don't Worry, Be Happy | Mnet 230720 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38253818</id>
-        <link href="https://tv.naver.com/v/38253818"/>
-        <updated>2023-07-20T11:15:10.961Z</updated>
-        <content type="html"><![CDATA[04:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NCT DREAM - ISTJ | Mnet 230720 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38253817</id>
-        <link href="https://tv.naver.com/v/38253817"/>
-        <updated>2023-07-20T11:15:10.963Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산다라박 - FESTIVAL | Mnet 230720 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38253816</id>
-        <link href="https://tv.naver.com/v/38253816"/>
-        <updated>2023-07-20T11:15:10.973Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE - MOVE (T5) | Mnet 230720 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38253473</id>
-        <link href="https://tv.naver.com/v/38253473"/>
-        <updated>2023-07-20T11:15:10.974Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
