@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-08-04T12:31:30.747Z</updated>
+    <updated>2023-08-04T13:22:19.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 대한민국 대표 록 밴드 총집합! 무더위를 날려줄 록 페스티벌 in 울산🤟🏼 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/38737868</id>
+        <link href="https://tv.naver.com/v/38737868"/>
+        <updated>2023-08-04T13:22:11.844Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 617회 〈1970’s 보물송을 찾아라 특집＞ 우승자 ⭐정동하⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/38534830</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38510537"/>
         <updated>2023-07-29T12:28:52.785Z</updated>
         <content type="html"><![CDATA[04:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※결과 확인※ 김호중 vs 라포엠 왕중왕전 마지막 선택👑 결과는 과연?! | KBS 230722 방송]]></title>
-        <id>https://tv.naver.com/v/38314737</id>
-        <link href="https://tv.naver.com/v/38314737"/>
-        <updated>2023-07-22T12:29:56.686Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
