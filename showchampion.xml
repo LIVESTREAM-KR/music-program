@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-04T01:26:05.027Z</updated>
+    <updated>2023-08-04T02:31:23.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.486]]></title>
+        <id>https://tv.naver.com/v/38675378</id>
+        <link href="https://tv.naver.com/v/38675378"/>
+        <updated>2023-08-04T02:31:07.200Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] SEVENUS - Wonder Land (세븐어스 - 원더랜드) | Show Champion | EP.486]]></title>
         <id>https://tv.naver.com/v/38661828</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38649863"/>
         <updated>2023-08-02T13:20:33.289Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486]]></title>
-        <id>https://tv.naver.com/v/38646212</id>
-        <link href="https://tv.naver.com/v/38646212"/>
-        <updated>2023-08-02T13:20:33.292Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
