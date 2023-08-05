@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-05T07:14:03.295Z</updated>
+    <updated>2023-08-05T08:18:31.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마마무+ - 댕댕 (MAMAMOO+ - dangdang), MBC 230805 방송]]></title>
+        <id>https://tv.naver.com/v/38754271</id>
+        <link href="https://tv.naver.com/v/38754271"/>
+        <updated>2023-08-05T08:17:45.448Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 - 여름이 들려 (OH MY GIRL - Summer Comes), MBC 230805 방송]]></title>
+        <id>https://tv.naver.com/v/38754048</id>
+        <link href="https://tv.naver.com/v/38754048"/>
+        <updated>2023-08-05T08:17:45.448Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[있지 - 케이크 (ITZY - CAKE), MBC 230805 방송]]></title>
+        <id>https://tv.naver.com/v/38753821</id>
+        <link href="https://tv.naver.com/v/38753821"/>
+        <updated>2023-08-05T08:17:45.448Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[있지 - 논 오브 마이 비즈니스 (ITZY - None Of My Buisness), MBC 230805 방송]]></title>
+        <id>https://tv.naver.com/v/38753734</id>
+        <link href="https://tv.naver.com/v/38753734"/>
+        <updated>2023-08-05T08:17:45.449Z</updated>
+        <content type="html"><![CDATA[02:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소유 - 알로하 (SOYOU - ALOHA), MBC 230805 방송]]></title>
+        <id>https://tv.naver.com/v/38753605</id>
+        <link href="https://tv.naver.com/v/38753605"/>
+        <updated>2023-08-05T08:17:45.449Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비 - 더 플래시 (KWON EUNBI - The Flash), MBC 230805 방송]]></title>
+        <id>https://tv.naver.com/v/38753385</id>
+        <link href="https://tv.naver.com/v/38753385"/>
+        <updated>2023-08-05T08:17:45.450Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영탁 - 폼미쳤다 (YOUNGTAK - FORM), MBC 230805 방송]]></title>
+        <id>https://tv.naver.com/v/38753384</id>
+        <link href="https://tv.naver.com/v/38753384"/>
+        <updated>2023-08-05T08:17:45.450Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브브걸 - 원 모어 타임 (BBGIRLS - ONE MORE TIME), MBC 230805 방송]]></title>
+        <id>https://tv.naver.com/v/38753280</id>
+        <link href="https://tv.naver.com/v/38753280"/>
+        <updated>2023-08-05T08:17:45.453Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트레저 - 보나 보나 (TREASURE - BONA BONA), MBC 230805 방송]]></title>
         <id>https://tv.naver.com/v/38753091</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/38581908"/>
         <updated>2023-08-01T01:27:44.610Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM JI WOONG - In Bloom(제로베이스원 김지웅 - 인 블룸) FanCam | Show! MusicCore |MBC230729방]]></title>
-        <id>https://tv.naver.com/v/38581768</id>
-        <link href="https://tv.naver.com/v/38581768"/>
-        <updated>2023-08-01T01:27:44.615Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SEOK MATTHEW - In Bloom(제로베이스원 석매튜 - 인 블룸)Close-upCam|Show!MusicCore|MBC230729방]]></title>
-        <id>https://tv.naver.com/v/38581612</id>
-        <link href="https://tv.naver.com/v/38581612"/>
-        <updated>2023-08-01T01:27:44.617Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 , 7월 다섯째 주 음악중심 MC 컷 모음!, MBC 230729 방송]]></title>
-        <id>https://tv.naver.com/v/38578308</id>
-        <link href="https://tv.naver.com/v/38578308"/>
-        <updated>2023-07-31T08:21:16.407Z</updated>
-        <content type="html"><![CDATA[16:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] OH MY GIRL ARIN - Summer Comes(오마이걸 아린 - 여름이 들려) Close-up Cam | Show! MusicCore |MBC230729방]]></title>
-        <id>https://tv.naver.com/v/38573601</id>
-        <link href="https://tv.naver.com/v/38573601"/>
-        <updated>2023-07-31T06:21:28.771Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] OH MY GIRL YOOA - Celebrate(오마이걸 유아 - 셀러브레이트) Close-up Cam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38572065</id>
-        <link href="https://tv.naver.com/v/38572065"/>
-        <updated>2023-07-31T06:21:28.786Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] SHOWNU X HYUNGWON SHOWNU - Love Me A Little(셔누X형원 셔누) Close-upCam|Show!MusicCore|MBC230729방]]></title>
-        <id>https://tv.naver.com/v/38570746</id>
-        <link href="https://tv.naver.com/v/38570746"/>
-        <updated>2023-07-31T05:15:27.553Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] SHOWNU X HYUNGWON HYUNGWON -Love Me A Little(셔누X형원 형원)Close-upCam|Show!MusicCore|MBC230729방]]></title>
-        <id>https://tv.naver.com/v/38570745</id>
-        <link href="https://tv.naver.com/v/38570745"/>
-        <updated>2023-07-31T05:15:27.555Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE – In Bloom(제로베이스원 - 인 블룸) FanCam | Show! MusicCore | MBC230729방송]]></title>
-        <id>https://tv.naver.com/v/38535080</id>
-        <link href="https://tv.naver.com/v/38535080"/>
-        <updated>2023-07-29T12:28:20.511Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
