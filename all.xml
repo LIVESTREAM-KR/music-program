@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-05T08:18:31.129Z</updated>
+    <updated>2023-08-05T09:15:04.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Emotions - 인피니트 | KBS 230804 방송 (뮤직뱅크)]]></title>
@@ -215,11 +215,32 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 제로베이스원 - 인 블룸 (ZEROBASEONE - In Bloom), MBC 230729 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38754659</id>
+        <link href="https://tv.naver.com/v/38754659"/>
+        <updated>2023-08-05T09:14:14.518Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인피니트 - 뉴 이모션스 (INFINITE - New Emotions), MBC 230805 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38754513</id>
+        <link href="https://tv.naver.com/v/38754513"/>
+        <updated>2023-08-05T09:14:14.518Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[마마무+ - 댕댕 (MAMAMOO+ - dangdang), MBC 230805 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38754271</id>
         <link href="https://tv.naver.com/v/38754271"/>
         <updated>2023-08-05T08:17:45.448Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셔누 X 형원 - 러브 미 어 리틀 (SHOWNU X HYUNGWON - Love Me A Little), MBC 230805 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38754176</id>
+        <link href="https://tv.naver.com/v/38754176"/>
+        <updated>2023-08-05T09:14:14.521Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸 - 여름이 들려 (OH MY GIRL - Summer Comes), MBC 230805 방송 (쇼! 음악중심)]]></title>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/38582059"/>
         <updated>2023-08-01T01:27:44.604Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE HAN YU JIN - In Bloom(제로베이스원 한유진 - 인 블룸) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38582058</id>
-        <link href="https://tv.naver.com/v/38582058"/>
-        <updated>2023-08-01T01:27:44.606Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM GYU VIN - In Bloom(제로베이스원 김규빈 - 인 블룸) FanCam | Show! MusicCore | MBC230729방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38582057</id>
-        <link href="https://tv.naver.com/v/38582057"/>
-        <updated>2023-08-01T01:27:44.607Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SUNG HAN BIN - In Bloom(제로베이스원 성한빈 - 인 블룸) FanCam | Show! MusicCore |MBC230729방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38581908</id>
-        <link href="https://tv.naver.com/v/38581908"/>
-        <updated>2023-08-01T01:27:44.610Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정국 - Seven(feat. Latto) | SBS 230730 방송 (인기가요)]]></title>
@@ -1083,6 +1083,13 @@
         <content type="html"><![CDATA[02:52]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OH MY GIRL - Summer Comes (오마이걸 - 여름이 들려) l Show Champion l EP.486 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/38685609</id>
+        <link href="https://tv.naver.com/v/38685609"/>
+        <updated>2023-08-05T09:14:47.590Z</updated>
+        <content type="html"><![CDATA[00:46]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/38675994</id>
         <link href="https://tv.naver.com/v/38675994"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/38649867</id>
         <link href="https://tv.naver.com/v/38649867"/>
         <updated>2023-08-02T13:20:33.283Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HORI7ON - SIX7EEN (호라이즌 - 식스틴) l Show Champion l EP.486 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/38649863</id>
-        <link href="https://tv.naver.com/v/38649863"/>
-        <updated>2023-08-02T13:20:33.289Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>

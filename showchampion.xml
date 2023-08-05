@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-05T08:18:31.115Z</updated>
+    <updated>2023-08-05T09:15:04.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://tv.naver.com/v/38661401"/>
         <updated>2023-08-03T08:20:10.844Z</updated>
         <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OH MY GIRL - Summer Comes (오마이걸 - 여름이 들려) l Show Champion l EP.486]]></title>
+        <id>https://tv.naver.com/v/38685609</id>
+        <link href="https://tv.naver.com/v/38685609"/>
+        <updated>2023-08-05T09:14:47.590Z</updated>
+        <content type="html"><![CDATA[00:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KISS OF LIFE (키스오브라이프) - Sugarcoat (NATTY Solo) | Show Champion | EP.486]]></title>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/38649867</id>
         <link href="https://tv.naver.com/v/38649867"/>
         <updated>2023-08-02T13:20:33.283Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HORI7ON - SIX7EEN (호라이즌 - 식스틴) l Show Champion l EP.486]]></title>
-        <id>https://tv.naver.com/v/38649863</id>
-        <link href="https://tv.naver.com/v/38649863"/>
-        <updated>2023-08-02T13:20:33.289Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
