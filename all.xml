@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-05T06:19:45.396Z</updated>
+    <updated>2023-08-05T07:14:03.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Emotions - 인피니트 | KBS 230804 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,48 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[트레저 - 보나 보나 (TREASURE - BONA BONA), MBC 230805 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38753091</id>
+        <link href="https://tv.naver.com/v/38753091"/>
+        <updated>2023-08-05T07:13:19.390Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티에이엔 - 하트비트 (TAN - HEARTBEAT), MBC 230805 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38752881</id>
+        <link href="https://tv.naver.com/v/38752881"/>
+        <updated>2023-08-05T07:13:19.394Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸이커스 - 두 오어 다이 (xikers - DO or DIE), MBC 230805 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38752687</id>
+        <link href="https://tv.naver.com/v/38752687"/>
+        <updated>2023-08-05T07:13:19.395Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 - 위 고 (The Wind - WE GO), MBC 230805 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38752685</id>
+        <link href="https://tv.naver.com/v/38752685"/>
+        <updated>2023-08-05T07:13:19.396Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 킥스타트 (ICHILLIN' - KICK-START), MBC 230805 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38752467</id>
+        <link href="https://tv.naver.com/v/38752467"/>
+        <updated>2023-08-05T07:13:19.396Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호라이즌 - 식스틴 (HORI7ON - SIX7EEN), MBC 230805 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/38752356</id>
+        <link href="https://tv.naver.com/v/38752356"/>
+        <updated>2023-08-05T07:13:19.403Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ZEROBASEONE – In Bloom(제로베이스원 - 인 블룸) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38679362</id>
         <link href="https://tv.naver.com/v/38679362"/>
@@ -381,48 +423,6 @@
         <link href="https://tv.naver.com/v/38535080"/>
         <updated>2023-07-29T12:28:20.511Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BOY STORY - Z.I.P (Zero Is the only Passion’)(보이스토리 –Z.I.P)FanCam|Show!MusicCore|MBC230729방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38535079</id>
-        <link href="https://tv.naver.com/v/38535079"/>
-        <updated>2023-07-29T12:28:20.511Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE HANEUL - Shhh(키스오브라이프 하늘 - 쉿) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38535077</id>
-        <link href="https://tv.naver.com/v/38535077"/>
-        <updated>2023-07-29T12:28:20.511Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] HORI7ON - SIX7EEN(호라이즌 – 식스틴) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534986</id>
-        <link href="https://tv.naver.com/v/38534986"/>
-        <updated>2023-07-29T12:28:20.511Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM - ISTJ(엔시티 드림 – 아이에스티제이) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534983</id>
-        <link href="https://tv.naver.com/v/38534983"/>
-        <updated>2023-07-29T12:28:20.525Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE – Shhh(키스오브라이프 - 쉿) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534982</id>
-        <link href="https://tv.naver.com/v/38534982"/>
-        <updated>2023-07-29T12:28:20.527Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] XG HARVEY – GRL GVNG(엑스지 하비 - 걸 갱) FanCam | Show! MusicCore | MBC230729방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38534980</id>
-        <link href="https://tv.naver.com/v/38534980"/>
-        <updated>2023-07-29T12:28:20.527Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정국 - Seven(feat. Latto) | SBS 230730 방송 (인기가요)]]></title>
