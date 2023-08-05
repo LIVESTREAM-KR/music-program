@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-05T11:13:11.230Z</updated>
+    <updated>2023-08-05T12:33:48.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE YOSHI - BONA BONA(트레저 요시 - 보나 보나) Close-up Cam | Show! MusicCore | MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38758535</id>
+        <link href="https://tv.naver.com/v/38758535"/>
+        <updated>2023-08-05T12:33:00.890Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TREASURE HARUTO - BONA BONA(트레저 하루토 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38758435</id>
+        <link href="https://tv.naver.com/v/38758435"/>
+        <updated>2023-08-05T12:33:00.890Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE ASAHI - BONA BONA(트레저 아사히 - 보나 보나) Close-up Cam | Show! MusicCore | MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38758321</id>
+        <link href="https://tv.naver.com/v/38758321"/>
+        <updated>2023-08-05T12:33:00.890Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TREASURE DOYOUNG - BONA BONA(트레저 도영 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송]]></title>
+        <id>https://tv.naver.com/v/38758203</id>
+        <link href="https://tv.naver.com/v/38758203"/>
+        <updated>2023-08-05T12:33:00.890Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TREASURE YOON JAE HYUK - BONA BONA(트레저 윤재혁 - 보나 보나) FanCam | Show! MusicCore | MBC230805방송]]></title>
         <id>https://tv.naver.com/v/38758012</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/38753605"/>
         <updated>2023-08-05T08:17:45.449Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비 - 더 플래시 (KWON EUNBI - The Flash), MBC 230805 방송]]></title>
-        <id>https://tv.naver.com/v/38753385</id>
-        <link href="https://tv.naver.com/v/38753385"/>
-        <updated>2023-08-05T08:17:45.450Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁 - 폼미쳤다 (YOUNGTAK - FORM), MBC 230805 방송]]></title>
-        <id>https://tv.naver.com/v/38753384</id>
-        <link href="https://tv.naver.com/v/38753384"/>
-        <updated>2023-08-05T08:17:45.450Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브브걸 - 원 모어 타임 (BBGIRLS - ONE MORE TIME), MBC 230805 방송]]></title>
-        <id>https://tv.naver.com/v/38753280</id>
-        <link href="https://tv.naver.com/v/38753280"/>
-        <updated>2023-08-05T08:17:45.453Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레저 - 보나 보나 (TREASURE - BONA BONA), MBC 230805 방송]]></title>
-        <id>https://tv.naver.com/v/38753091</id>
-        <link href="https://tv.naver.com/v/38753091"/>
-        <updated>2023-08-05T07:13:19.390Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
