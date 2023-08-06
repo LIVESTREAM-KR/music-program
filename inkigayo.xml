@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-08-06T07:14:27.228Z</updated>
+    <updated>2023-08-06T08:18:25.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소유(SOYOU) - ALOHA(feat. 보라) | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38775563</id>
+        <link href="https://tv.naver.com/v/38775563"/>
+        <updated>2023-08-06T08:17:49.495Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저) - BONA BONA | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38775244</id>
+        <link href="https://tv.naver.com/v/38775244"/>
+        <updated>2023-08-06T08:17:49.497Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비 - The Flash | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38775085</id>
+        <link href="https://tv.naver.com/v/38775085"/>
+        <updated>2023-08-06T08:17:49.499Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - KICK-START | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38774976</id>
+        <link href="https://tv.naver.com/v/38774976"/>
+        <updated>2023-08-06T08:17:49.501Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - DO or DIE | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38774861</id>
+        <link href="https://tv.naver.com/v/38774861"/>
+        <updated>2023-08-06T08:17:49.502Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영탁 - 폼미쳤다 | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38774729</id>
+        <link href="https://tv.naver.com/v/38774729"/>
+        <updated>2023-08-06T08:17:49.510Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - MADELEINE | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38774582</id>
+        <link href="https://tv.naver.com/v/38774582"/>
+        <updated>2023-08-06T08:17:49.512Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나인아이(NINE.i) - Turn it off | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38774581</id>
+        <link href="https://tv.naver.com/v/38774581"/>
+        <updated>2023-08-06T08:17:49.514Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드(The Wind) - WE GO | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38774181</id>
+        <link href="https://tv.naver.com/v/38774181"/>
+        <updated>2023-08-06T08:17:49.523Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HORI7ON(호라이즌) - SIX7EEN | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38773917</id>
+        <link href="https://tv.naver.com/v/38773917"/>
+        <updated>2023-08-06T08:17:49.523Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정국 - Seven(feat. Latto) | SBS 230730 방송]]></title>
         <id>https://tv.naver.com/v/38550452</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/38329900"/>
         <updated>2023-07-23T08:18:55.617Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산다라박 - FESTIVAL | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329784</id>
-        <link href="https://tv.naver.com/v/38329784"/>
-        <updated>2023-07-23T08:18:55.617Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래소년(MIRAE) - JUMP! | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329697</id>
-        <link href="https://tv.naver.com/v/38329697"/>
-        <updated>2023-07-23T08:18:55.618Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ODD EYE CIRCLE - Air Force One | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329611</id>
-        <link href="https://tv.naver.com/v/38329611"/>
-        <updated>2023-07-23T08:18:55.620Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZEROBASEONE - In Bloom | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329608</id>
-        <link href="https://tv.naver.com/v/38329608"/>
-        <updated>2023-07-23T08:18:55.624Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - Voyager | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329510</id>
-        <link href="https://tv.naver.com/v/38329510"/>
-        <updated>2023-07-23T08:18:55.626Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - KICK-START | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329383</id>
-        <link href="https://tv.naver.com/v/38329383"/>
-        <updated>2023-07-23T08:18:55.629Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - EXCEL | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329258</id>
-        <link href="https://tv.naver.com/v/38329258"/>
-        <updated>2023-07-23T08:18:55.635Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Queenz Eye  - UN-NORMAL | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329144</id>
-        <link href="https://tv.naver.com/v/38329144"/>
-        <updated>2023-07-23T08:18:55.637Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황민우 - 오빠(OPPA) | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329030</id>
-        <link href="https://tv.naver.com/v/38329030"/>
-        <updated>2023-07-23T08:18:55.639Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MC지후X운학 - Hype boy | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38328903</id>
-        <link href="https://tv.naver.com/v/38328903"/>
-        <updated>2023-07-23T07:14:08.344Z</updated>
-        <content type="html"><![CDATA[01:54]]></content>
     </entry>
 </feed>
