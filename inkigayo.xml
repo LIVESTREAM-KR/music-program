@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-08-06T08:18:25.564Z</updated>
+    <updated>2023-08-06T09:14:46.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[INFINITE - New Emotions | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38776533</id>
+        <link href="https://tv.naver.com/v/38776533"/>
+        <updated>2023-08-06T09:14:08.969Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[셔누X형원 - Love Me A Little | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38776532</id>
+        <link href="https://tv.naver.com/v/38776532"/>
+        <updated>2023-08-06T09:14:08.969Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 - 여름이 들려(Summer Comes) | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38776254</id>
+        <link href="https://tv.naver.com/v/38776254"/>
+        <updated>2023-08-06T09:14:08.972Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY - CAKE | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38776125</id>
+        <link href="https://tv.naver.com/v/38776125"/>
+        <updated>2023-08-06T09:14:08.972Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마마무+ - 댕댕(dangdang) | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38775966</id>
+        <link href="https://tv.naver.com/v/38775966"/>
+        <updated>2023-08-06T09:14:08.972Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소유(SOYOU) - ALOHA(feat. 보라) | SBS 230806 방송]]></title>
         <id>https://tv.naver.com/v/38775563</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/38548728"/>
         <updated>2023-07-30T08:18:51.691Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - 쉿(Shhh)  | SBS 230730 방송]]></title>
-        <id>https://tv.naver.com/v/38548598</id>
-        <link href="https://tv.naver.com/v/38548598"/>
-        <updated>2023-07-30T08:18:51.694Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM - ISTJ | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38330169</id>
-        <link href="https://tv.naver.com/v/38330169"/>
-        <updated>2023-07-23T08:18:55.615Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스(NewJeans) - Cool With You | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38330083</id>
-        <link href="https://tv.naver.com/v/38330083"/>
-        <updated>2023-07-23T08:18:55.617Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스(NewJeans) - ETA | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329996</id>
-        <link href="https://tv.naver.com/v/38329996"/>
-        <updated>2023-07-23T08:18:55.617Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - Party O'Clock | SBS 230723 방송]]></title>
-        <id>https://tv.naver.com/v/38329900</id>
-        <link href="https://tv.naver.com/v/38329900"/>
-        <updated>2023-07-23T08:18:55.617Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
