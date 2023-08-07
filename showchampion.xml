@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-07T08:21:41.633Z</updated>
+    <updated>2023-08-07T09:17:07.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 화려한 Flash 아래 신나는 쇼챔! 이번 주도 ONE MORE TIME]]></title>
+        <id>https://tv.naver.com/v/38808151</id>
+        <link href="https://tv.naver.com/v/38808151"/>
+        <updated>2023-08-07T09:16:53.256Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8월 1주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.486]]></title>
         <id>https://tv.naver.com/v/38675378</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/38650661</id>
         <link href="https://tv.naver.com/v/38650661"/>
         <updated>2023-08-02T13:20:33.280Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HORI7ON MARCUS - SIX7EEN (호라이즌 마커스 - 식스틴) | Show Champion | EP.486]]></title>
-        <id>https://tv.naver.com/v/38649867</id>
-        <link href="https://tv.naver.com/v/38649867"/>
-        <updated>2023-08-02T13:20:33.283Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
