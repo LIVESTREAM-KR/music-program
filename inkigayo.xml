@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-08-06T23:16:32.306Z</updated>
+    <updated>2023-08-07T01:18:48.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ITZY - None of My Business | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38791634</id>
+        <link href="https://tv.naver.com/v/38791634"/>
+        <updated>2023-08-07T01:18:12.173Z</updated>
+        <content type="html"><![CDATA[02:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스(NewJeans) - Super Shy | SBS 230806 방송]]></title>
+        <id>https://tv.naver.com/v/38791633</id>
+        <link href="https://tv.naver.com/v/38791633"/>
+        <updated>2023-08-07T01:18:12.173Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INFINITE - New Emotions | SBS 230806 방송]]></title>
         <id>https://tv.naver.com/v/38776533</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/38548842"/>
         <updated>2023-07-30T08:18:51.685Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원(ILY:1) - MY COLOR | SBS 230730 방송]]></title>
-        <id>https://tv.naver.com/v/38548730</id>
-        <link href="https://tv.naver.com/v/38548730"/>
-        <updated>2023-07-30T08:18:51.688Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HORI7ON(호라이즌) - SIX7EEN | SBS 230730 방송]]></title>
-        <id>https://tv.naver.com/v/38548728</id>
-        <link href="https://tv.naver.com/v/38548728"/>
-        <updated>2023-07-30T08:18:51.691Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
