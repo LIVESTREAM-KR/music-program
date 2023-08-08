@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-08T07:15:23.169Z</updated>
+    <updated>2023-08-08T08:22:33.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X리노(민호), 8월 첫째 주 음악중심 MC 컷 모음!, MBC 230805 방송]]></title>
+        <id>https://tv.naver.com/v/38844293</id>
+        <link href="https://tv.naver.com/v/38844293"/>
+        <updated>2023-08-08T08:21:50.202Z</updated>
+        <content type="html"><![CDATA[15:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY.zip 📂 DALLA DALLA(달라달라)부터 CAKE까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/38810180</id>
+        <link href="https://tv.naver.com/v/38810180"/>
+        <updated>2023-08-08T08:21:50.202Z</updated>
+        <content type="html"><![CDATA[37:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ITZY YUNA - None of My Buisness(있지 유나 - 논 오브 마이 비즈니스) Close-upCam|Show!MusicCore|MBC230805방]]></title>
         <id>https://tv.naver.com/v/38808145</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/38761401"/>
         <updated>2023-08-05T14:13:21.335Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TREASURE JUNKYU - BONA BONA(트레저 준규 - 보나 보나) Close-up Cam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761400</id>
-        <link href="https://tv.naver.com/v/38761400"/>
-        <updated>2023-08-05T14:13:21.338Z</updated>
-        <content type="html"><![CDATA[06:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TREASURE YOSHI - BONA BONA(트레저 요시 - 보나 보나) Close-up Cam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38758535</id>
-        <link href="https://tv.naver.com/v/38758535"/>
-        <updated>2023-08-05T12:33:00.890Z</updated>
-        <content type="html"><![CDATA[04:45]]></content>
     </entry>
 </feed>
