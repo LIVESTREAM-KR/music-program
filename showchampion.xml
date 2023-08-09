@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-09T10:18:54.257Z</updated>
+    <updated>2023-08-09T11:14:33.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] ＜최초공개＞ 후이 & 우석(HUI&WOOSEOK(PENTAGON)) - OASIS]]></title>
+        <id>https://tv.naver.com/v/38889713</id>
+        <link href="https://tv.naver.com/v/38889713"/>
+        <updated>2023-08-09T11:14:19.031Z</updated>
+        <content type="html"><![CDATA[08:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 권은비(KWON EUNBI) - The Flash]]></title>
         <id>https://tv.naver.com/v/38888644</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/38656762</id>
         <link href="https://tv.naver.com/v/38656762"/>
         <updated>2023-08-02T13:20:33.240Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] OH MY GIRL ARIN - Celebrate (오마이걸 아린 - 셀러브레이트) | Show Champion | EP.486]]></title>
-        <id>https://tv.naver.com/v/38656761</id>
-        <link href="https://tv.naver.com/v/38656761"/>
-        <updated>2023-08-02T13:20:33.252Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
