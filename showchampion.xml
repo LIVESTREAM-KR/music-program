@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-10T07:16:09.429Z</updated>
+    <updated>2023-08-10T08:21:31.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] The Wind - Summer vacation (더윈드 - 여름방학) | Show Champion | EP.487]]></title>
+        <id>https://tv.naver.com/v/38890830</id>
+        <link href="https://tv.naver.com/v/38890830"/>
+        <updated>2023-08-10T08:21:14.944Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] HORI7ON - SIX7EEN (호라이즌 - 식스틴) | Show Champion | EP.487]]></title>
+        <id>https://tv.naver.com/v/38890643</id>
+        <link href="https://tv.naver.com/v/38890643"/>
+        <updated>2023-08-10T08:21:14.945Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers - Koong (싸이커스 - 쿵) | Show Champion | EP.487]]></title>
+        <id>https://tv.naver.com/v/38890466</id>
+        <link href="https://tv.naver.com/v/38890466"/>
+        <updated>2023-08-10T08:21:14.945Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] TAN SUNGHYUK - HEARTBEAT (티에이엔 성혁 - 하트비트) | Show Champion | EP.487]]></title>
         <id>https://tv.naver.com/v/38885901</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38868853"/>
         <updated>2023-08-09T13:21:02.651Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers - DO or DIE (싸이커스 - 두 오어 다이) l Show Champion l EP.487]]></title>
-        <id>https://tv.naver.com/v/38868727</id>
-        <link href="https://tv.naver.com/v/38868727"/>
-        <updated>2023-08-09T13:21:02.651Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 에세이] ＜최초공개＞ 후이 & 우석(HUI&WOOSEOK(PENTAGON)) - OASIS]]></title>
-        <id>https://tv.naver.com/v/38889713</id>
-        <link href="https://tv.naver.com/v/38889713"/>
-        <updated>2023-08-09T11:14:19.031Z</updated>
-        <content type="html"><![CDATA[08:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 권은비(KWON EUNBI) - The Flash]]></title>
-        <id>https://tv.naver.com/v/38888644</id>
-        <link href="https://tv.naver.com/v/38888644"/>
-        <updated>2023-08-09T10:18:39.341Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
