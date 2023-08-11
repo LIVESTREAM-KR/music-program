@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-11T10:17:32.455Z</updated>
+    <updated>2023-08-11T11:14:08.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Emotions - 인피니트 | KBS 230804 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 록 페스티벌 in 울산🤟🏼 우리들의 여름밤 다시 시작되는 그들의 이야기 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/38975533</id>
+        <link href="https://tv.naver.com/v/38975533"/>
+        <updated>2023-08-11T11:14:00.363Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 🎆불후의 명곡 록 페스티벌 in 울산🎆 끝나지 않는 열기! 놓치지 마세요♥️ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/38758905</id>
         <link href="https://tv.naver.com/v/38758905"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/38534241"/>
         <updated>2023-07-29T12:28:52.732Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70년대 명곡 속으로 풍덩🌊 토크 대기실에서 찾아낸 보석송들💎 대방출! | KBS 230729 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/38534133</id>
-        <link href="https://tv.naver.com/v/38534133"/>
-        <updated>2023-07-29T11:12:41.240Z</updated>
-        <content type="html"><![CDATA[04:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[＜무엇을 상상하든 그 이상 💥 역대급 매운맛 무대가 왔다＞ 복면가왕 416회 예고, MBC 230813 방송 (복면가왕)]]></title>
