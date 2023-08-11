@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-11T07:15:10.805Z</updated>
+    <updated>2023-08-11T08:19:47.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] INFINITE.zip 📂 다시 돌아와부터 New Emotions까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/38843446</id>
+        <link href="https://tv.naver.com/v/38843446"/>
+        <updated>2023-08-11T08:18:55.568Z</updated>
+        <content type="html"><![CDATA[01:09:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NCT DREAM – ISTJ(엔시티 드림 - 아이에스티제이) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/38832369</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38761428"/>
         <updated>2023-08-05T14:13:21.320Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kwon Eun-Bi - The Flash (권은비 – 더 플래시) FanCam (Horizontal Ver.) | Show! MusicCore | MBC23080]]></title>
-        <id>https://tv.naver.com/v/38761427</id>
-        <link href="https://tv.naver.com/v/38761427"/>
-        <updated>2023-08-05T14:13:21.330Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
 </feed>
