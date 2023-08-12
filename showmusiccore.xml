@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-12T07:13:47.989Z</updated>
+    <updated>2023-08-12T08:18:15.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 파티 어클락 (NMIXX - Party O'Clock), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38997723</id>
+        <link href="https://tv.naver.com/v/38997723"/>
+        <updated>2023-08-12T08:17:32.685Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소유 - 알로하 (SOYOU - ALOHA), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38997583</id>
+        <link href="https://tv.naver.com/v/38997583"/>
+        <updated>2023-08-12T08:17:32.686Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 - 인 블룸 (ZEROBASEONE - In Bloom), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38997370</id>
+        <link href="https://tv.naver.com/v/38997370"/>
+        <updated>2023-08-12T08:17:32.686Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비 - 더 플래시 (KWON EUNBI - The Flash), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38997118</id>
+        <link href="https://tv.naver.com/v/38997118"/>
+        <updated>2023-08-12T08:17:32.689Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조유리 - 택시 (JO YURI - TAXI), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38997117</id>
+        <link href="https://tv.naver.com/v/38997117"/>
+        <updated>2023-08-12T08:17:32.691Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이무진 - 잠깐 시간 될까 (LEE MU JIN - Ordinary Confession), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38996886</id>
+        <link href="https://tv.naver.com/v/38996886"/>
+        <updated>2023-08-12T08:17:32.700Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이씨 - 테디베어 (STAYC - Teddy Bear), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38996883</id>
+        <link href="https://tv.naver.com/v/38996883"/>
+        <updated>2023-08-12T08:17:32.705Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티비오 - 넥스트 투 미 (ATBO - Next to Me), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38996670</id>
+        <link href="https://tv.naver.com/v/38996670"/>
+        <updated>2023-08-12T08:17:32.707Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브브걸 - 원 모어 타임 (BBGIRLS - ONE MORE TIME), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38996641</id>
+        <link href="https://tv.naver.com/v/38996641"/>
+        <updated>2023-08-12T08:17:32.709Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티에이엔 - 하트비트 (TAN - HEARTBEAT), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38996515</id>
+        <link href="https://tv.naver.com/v/38996515"/>
+        <updated>2023-08-12T08:17:32.711Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸이커스 - 두 오어 다이 (xikers - DO or DIE), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38996377</id>
+        <link href="https://tv.naver.com/v/38996377"/>
+        <updated>2023-08-12T08:17:32.713Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐어스 - 원더랜드 (SEVENUS - Wonder Land), MBC 230812 방송]]></title>
         <id>https://tv.naver.com/v/38996246</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/38761690"/>
         <updated>2023-08-05T14:13:21.276Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SHOWNU X HYUNGWON HYUNGWON - Love Me A Little(셔누X형원 형원)FanCam| Show!MusicCore|MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761686</id>
-        <link href="https://tv.naver.com/v/38761686"/>
-        <updated>2023-08-05T14:13:21.281Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers YUJUN – DO or DIE(싸이커스 유준 - 두오어다이) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761685</id>
-        <link href="https://tv.naver.com/v/38761685"/>
-        <updated>2023-08-05T14:13:21.282Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers - DO or DIE(싸이커스 – 두오어다이) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761683</id>
-        <link href="https://tv.naver.com/v/38761683"/>
-        <updated>2023-08-05T14:13:21.282Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] HORI7ON - SIX7EEN(호라이즌 – 식스틴) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761601</id>
-        <link href="https://tv.naver.com/v/38761601"/>
-        <updated>2023-08-05T14:13:21.283Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SHOWNU X HYUNGWON – INTRO+Love Me A Little(셔누X형원-러브 미 어 리틀)FanCam|Show!MusicCore|MBC230805방]]></title>
-        <id>https://tv.naver.com/v/38761600</id>
-        <link href="https://tv.naver.com/v/38761600"/>
-        <updated>2023-08-05T14:13:21.284Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] OH MY GIRL YUBIN – Summer Comes(오마이걸 유빈 - 여름이 들려) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761599</id>
-        <link href="https://tv.naver.com/v/38761599"/>
-        <updated>2023-08-05T14:13:21.286Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SOYOU – ALOHA (Feat. 보라)(소유 - 알로하) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761598</id>
-        <link href="https://tv.naver.com/v/38761598"/>
-        <updated>2023-08-05T14:13:21.289Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SOYOU - ALOHA (Feat. 보라)(소유 – 알로하) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761597</id>
-        <link href="https://tv.naver.com/v/38761597"/>
-        <updated>2023-08-05T14:13:21.291Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers YECHAN – DO or DIE(싸이커스 예찬 - 두오어다이) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761596</id>
-        <link href="https://tv.naver.com/v/38761596"/>
-        <updated>2023-08-05T14:13:21.293Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Young-Tak - FORM (영탁 – 폼미쳤다) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761513</id>
-        <link href="https://tv.naver.com/v/38761513"/>
-        <updated>2023-08-05T14:13:21.304Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BB GIRLS YOUJOUNG – ONE MORE TIME(브브걸 유정 - 원 모어 타임) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761512</id>
-        <link href="https://tv.naver.com/v/38761512"/>
-        <updated>2023-08-05T14:13:21.307Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
