@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-12T06:19:21.667Z</updated>
+    <updated>2023-08-12T07:13:47.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐어스 - 원더랜드 (SEVENUS - Wonder Land), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38996246</id>
+        <link href="https://tv.naver.com/v/38996246"/>
+        <updated>2023-08-12T07:13:10.141Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 - 위 고 (The Wind - WE GO), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38996117</id>
+        <link href="https://tv.naver.com/v/38996117"/>
+        <updated>2023-08-12T07:13:10.147Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이칠린 - 킥스타트 (ICHILLIN' - KICK-START), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38995987</id>
+        <link href="https://tv.naver.com/v/38995987"/>
+        <updated>2023-08-12T07:13:10.148Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호라이즌 - 식스틴 (HORI7ON - SIX7EEN), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38995870</id>
+        <link href="https://tv.naver.com/v/38995870"/>
+        <updated>2023-08-12T07:13:10.148Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소연 - 덤벼 (Kim So Yeon - Bring it on), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38995569</id>
+        <link href="https://tv.naver.com/v/38995569"/>
+        <updated>2023-08-12T07:13:10.159Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] INFINITE.zip 📂 다시 돌아와부터 New Emotions까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/38843446</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/38761512"/>
         <updated>2023-08-05T14:13:21.307Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BB GIRLS - ONE MORE TIME(브브걸 – 원 모어 타임) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761511</id>
-        <link href="https://tv.naver.com/v/38761511"/>
-        <updated>2023-08-05T14:13:21.309Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MAMAMOO+ Moon Byul - dangdang(마마무+ 문별 - 댕댕) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761510</id>
-        <link href="https://tv.naver.com/v/38761510"/>
-        <updated>2023-08-05T14:13:21.312Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Young-Tak – FORM (영탁 - 폼미쳤다) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761433</id>
-        <link href="https://tv.naver.com/v/38761433"/>
-        <updated>2023-08-05T14:13:21.314Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BB GIRLS YUNA – ONE MORE TIME(브브걸 유나 - 원 모어 타임) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761430</id>
-        <link href="https://tv.naver.com/v/38761430"/>
-        <updated>2023-08-05T14:13:21.317Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MAMAMOO+ Solar - dangdang(마마무+ 솔라 - 댕댕) FanCam | Show! MusicCore | MBC230805방송]]></title>
-        <id>https://tv.naver.com/v/38761428</id>
-        <link href="https://tv.naver.com/v/38761428"/>
-        <updated>2023-08-05T14:13:21.320Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
     </entry>
 </feed>
