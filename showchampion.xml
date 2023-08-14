@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-14T06:21:00.602Z</updated>
+    <updated>2023-08-14T07:15:43.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 청춘을 위해 쇼챔이 준비한 특별한 편지! 받아주실 거죠?]]></title>
+        <id>https://tv.naver.com/v/39048414</id>
+        <link href="https://tv.naver.com/v/39048414"/>
+        <updated>2023-08-14T07:15:27.509Z</updated>
+        <content type="html"><![CDATA[00:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xikers - DO or DIE (싸이커스 - 두 오어 다이) | 쇼챔피언]]></title>
         <id>https://tv.naver.com/v/38965747</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/38869972</id>
         <link href="https://tv.naver.com/v/38869972"/>
         <updated>2023-08-09T13:21:02.639Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers YUJUN - DO or DIE (싸이커스 유준 - 두 오어 다이) | Show Champion | EP.487]]></title>
-        <id>https://tv.naver.com/v/38869653</id>
-        <link href="https://tv.naver.com/v/38869653"/>
-        <updated>2023-08-09T13:21:02.641Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
