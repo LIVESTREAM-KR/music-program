@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-13T23:15:13.069Z</updated>
+    <updated>2023-08-14T01:07:02.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Emotions - 인피니트 | KBS 230804 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 8월 둘째주 MC 컷 모음!, MBC 230812 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39035191</id>
+        <link href="https://tv.naver.com/v/39035191"/>
+        <updated>2023-08-14T01:06:16.290Z</updated>
+        <content type="html"><![CDATA[05:44]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜XZIP》 영탁 무대 모음.zip '찐이야 x 신사답게 x 폼미쳤다', MBC 230805 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/38998943</id>
         <link href="https://tv.naver.com/v/38998943"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/38835051"/>
         <updated>2023-08-09T08:21:36.483Z</updated>
         <content type="html"><![CDATA[27:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X리노(민호), 8월 첫째 주 음악중심 MC 컷 모음!, MBC 230805 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38844293</id>
-        <link href="https://tv.naver.com/v/38844293"/>
-        <updated>2023-08-08T08:21:50.202Z</updated>
-        <content type="html"><![CDATA[15:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전소미 - Fast Forward | SBS 230813 방송 (인기가요)]]></title>
