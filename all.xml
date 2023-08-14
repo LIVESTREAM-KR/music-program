@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-14T02:20:39.329Z</updated>
+    <updated>2023-08-14T03:16:31.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Emotions - 인피니트 | KBS 230804 방송 (뮤직뱅크)]]></title>
@@ -1356,13 +1356,6 @@
         <content type="html"><![CDATA[02:10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현재진행형 전설의 모습을 있는 그대로 보여줬던 김창완 밴드의 무대✨️ | KBS 230812 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39001586</id>
-        <link href="https://tv.naver.com/v/39001586"/>
-        <updated>2023-08-12T11:12:16.150Z</updated>
-        <content type="html"><![CDATA[01:13]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[김창완 밴드 - 아니 벌써 | KBS 230812 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/39001585</id>
         <link href="https://tv.naver.com/v/39001585"/>
@@ -1473,6 +1466,13 @@
         <link href="https://tv.naver.com/v/38758542"/>
         <updated>2023-08-05T12:33:39.780Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무대를 향한 꺼지지않는 열정🔥 독보적 매력을 보여준 크라잉 넛의 무대 | KBS 230805 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/38758358</id>
+        <link href="https://tv.naver.com/v/38758358"/>
+        <updated>2023-08-14T03:16:23.638Z</updated>
+        <content type="html"><![CDATA[02:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[＜전에 없던 접전!🔥 이 판을 뒤흔든 실력자는 누구?🎤＞ 복면가왕 417회 예고, MBC 230820 방송 (복면가왕)]]></title>
