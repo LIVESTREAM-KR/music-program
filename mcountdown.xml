@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-08-15T11:13:21.353Z</updated>
+    <updated>2023-08-15T12:29:56.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미연 ((여자)아이들)이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/39090016</id>
+        <link href="https://tv.naver.com/v/39090016"/>
+        <updated>2023-08-15T12:29:26.792Z</updated>
+        <content type="html"><![CDATA[01:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['HOT DEBUT' DXTEEN - First Flight | Mnet 230810 방송]]></title>
         <id>https://tv.naver.com/v/38936110</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38698518"/>
         <updated>2023-08-03T11:14:07.116Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' TREASURE (트레저) - BONA BONA | Mnet 230803 방송]]></title>
-        <id>https://tv.naver.com/v/38698403</id>
-        <link href="https://tv.naver.com/v/38698403"/>
-        <updated>2023-08-03T11:14:07.116Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
