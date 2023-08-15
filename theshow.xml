@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-08-15T09:15:55.109Z</updated>
+    <updated>2023-08-15T10:16:37.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 형섭, 샤오쥔 & 조유리]]></title>
+        <id>https://tv.naver.com/v/39087336</id>
+        <link href="https://tv.naver.com/v/39087336"/>
+        <updated>2023-08-15T10:16:16.226Z</updated>
+        <content type="html"><![CDATA[04:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거침없이 달리고 싶은, HORI7ON(호라이즌) 'SIX7EEN']]></title>
+        <id>https://tv.naver.com/v/39087333</id>
+        <link href="https://tv.naver.com/v/39087333"/>
+        <updated>2023-08-15T10:16:16.228Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 새로운 패러다임, n.SSign (엔싸인) '웜홀 (Wormhole: New Track)']]></title>
+        <id>https://tv.naver.com/v/39087214</id>
+        <link href="https://tv.naver.com/v/39087214"/>
+        <updated>2023-08-15T10:16:16.230Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시원하고 에너제틱한 매력, 더윈드 (The Wind) 'WE GO']]></title>
+        <id>https://tv.naver.com/v/39086749</id>
+        <link href="https://tv.naver.com/v/39086749"/>
+        <updated>2023-08-15T10:16:16.231Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 희망과 활력을 선사하는, XEED 'BLUE']]></title>
+        <id>https://tv.naver.com/v/39086748</id>
+        <link href="https://tv.naver.com/v/39086748"/>
+        <updated>2023-08-15T10:16:16.233Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경쾌한 뉴잭스윙 무대, ARTBEAT v 'DUBI DUBI']]></title>
+        <id>https://tv.naver.com/v/39086313</id>
+        <link href="https://tv.naver.com/v/39086313"/>
+        <updated>2023-08-15T10:16:16.235Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
         <id>https://tv.naver.com/v/38851229</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/38619705"/>
         <updated>2023-08-01T11:13:29.047Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에너제틱한 퍼포먼스, 미래소년 (MIRAE) 'JUMP!']]></title>
-        <id>https://tv.naver.com/v/38619703</id>
-        <link href="https://tv.naver.com/v/38619703"/>
-        <updated>2023-08-01T11:13:29.047Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Special Stage] 육각형 올라운더 아이돌, KISS OF LIFE 'Sugarcoat (NATTY solo)']]></title>
-        <id>https://tv.naver.com/v/38619568</id>
-        <link href="https://tv.naver.com/v/38619568"/>
-        <updated>2023-08-01T11:13:29.050Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통통 튀는 발랄한 7인 7색 매력, ICHILLIN’(아이칠린) 'KICK-START(킥스타트)']]></title>
-        <id>https://tv.naver.com/v/38619564</id>
-        <link href="https://tv.naver.com/v/38619564"/>
-        <updated>2023-08-01T11:13:29.050Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 파워 청순미 가득, 아일리원 'MY COLOR']]></title>
-        <id>https://tv.naver.com/v/38619563</id>
-        <link href="https://tv.naver.com/v/38619563"/>
-        <updated>2023-08-01T11:13:29.050Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 기분 좋은 설렘, 아일리원 'Shining Sky']]></title>
-        <id>https://tv.naver.com/v/38619307</id>
-        <link href="https://tv.naver.com/v/38619307"/>
-        <updated>2023-08-01T11:13:29.050Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 형섭&오마이걸]]></title>
-        <id>https://tv.naver.com/v/38619306</id>
-        <link href="https://tv.naver.com/v/38619306"/>
-        <updated>2023-08-01T11:13:29.050Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
     </entry>
 </feed>
