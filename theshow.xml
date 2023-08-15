@@ -2,9 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-08-15T10:16:37.604Z</updated>
+    <updated>2023-08-15T11:13:21.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/39088974</id>
+        <link href="https://tv.naver.com/v/39088974"/>
+        <updated>2023-08-15T11:12:58.958Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이끌리듯 번져가는 매혹적인 무대, 권은비 'The Flash']]></title>
+        <id>https://tv.naver.com/v/39088784</id>
+        <link href="https://tv.naver.com/v/39088784"/>
+        <updated>2023-08-15T11:12:58.961Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 망설임 없는 직진 고백, 조유리 'TAXI']]></title>
+        <id>https://tv.naver.com/v/39088437</id>
+        <link href="https://tv.naver.com/v/39088437"/>
+        <updated>2023-08-15T11:12:58.965Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패기 넘치는 파워 퍼포먼스, xikers(싸이커스) 'DO or DIE']]></title>
+        <id>https://tv.naver.com/v/39088301</id>
+        <link href="https://tv.naver.com/v/39088301"/>
+        <updated>2023-08-15T11:12:58.975Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Special Stage] 청량한 에너지로 무대 접수, 8TURN(에잇턴) 'Beatbox (원곡: NCT DREAM)']]></title>
+        <id>https://tv.naver.com/v/39088295</id>
+        <link href="https://tv.naver.com/v/39088295"/>
+        <updated>2023-08-15T11:12:58.977Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Special Stage] 사랑을 향한 위험한 이끌림, LUN8(루네이트) '으르렁 (원곡: EXO)']]></title>
+        <id>https://tv.naver.com/v/39088143</id>
+        <link href="https://tv.naver.com/v/39088143"/>
+        <updated>2023-08-15T11:12:58.979Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인형 같은 비주얼, 라임라잇(LIMELIGHT) 'MADELEINE']]></title>
+        <id>https://tv.naver.com/v/39088000</id>
+        <link href="https://tv.naver.com/v/39088000"/>
+        <updated>2023-08-15T11:12:58.982Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pop하고 터져버릴 웅장한 퍼포먼스, TAN 'HEARTBEAT']]></title>
+        <id>https://tv.naver.com/v/39087998</id>
+        <link href="https://tv.naver.com/v/39087998"/>
+        <updated>2023-08-15T11:12:58.983Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동화 같은 스토리텔링, 나인아이 'Turn it off']]></title>
+        <id>https://tv.naver.com/v/39087801</id>
+        <link href="https://tv.naver.com/v/39087801"/>
+        <updated>2023-08-15T11:12:58.985Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구름처럼 포근한 사랑의 SKETCH!, 8TURN(에잇턴) 'SKETCH']]></title>
+        <id>https://tv.naver.com/v/39087799</id>
+        <link href="https://tv.naver.com/v/39087799"/>
+        <updated>2023-08-15T11:12:58.987Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 통통 튀는 Y2K로 재해석한, ADYA (에이디야) '왜 불러(What's Up?)']]></title>
+        <id>https://tv.naver.com/v/39087527</id>
+        <link href="https://tv.naver.com/v/39087527"/>
+        <updated>2023-08-15T11:12:58.989Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감성 자극 보이스, 세븐어스 'Wonder Land']]></title>
+        <id>https://tv.naver.com/v/39087523</id>
+        <link href="https://tv.naver.com/v/39087523"/>
+        <updated>2023-08-15T11:12:58.990Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4인 4색의 청춘을 물들인, BXB (비엑스비) 'Planet']]></title>
+        <id>https://tv.naver.com/v/39087478</id>
+        <link href="https://tv.naver.com/v/39087478"/>
+        <updated>2023-08-15T11:12:58.992Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[내꾸하짤] MC 형섭, 샤오쥔 & 조유리]]></title>
         <id>https://tv.naver.com/v/39087336</id>
@@ -123,96 +214,5 @@
         <link href="https://tv.naver.com/v/38850241"/>
         <updated>2023-08-08T11:13:35.205Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자유분방 퍼포먼스, 8TURN(에잇턴) 'SKETCH']]></title>
-        <id>https://tv.naver.com/v/38850240</id>
-        <link href="https://tv.naver.com/v/38850240"/>
-        <updated>2023-08-08T11:13:35.207Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 여상 & xikers(싸이커스)]]></title>
-        <id>https://tv.naver.com/v/38850236</id>
-        <link href="https://tv.naver.com/v/38850236"/>
-        <updated>2023-08-08T11:13:35.209Z</updated>
-        <content type="html"><![CDATA[04:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 새로운 바람의 유스틴 감성, 더윈드 (The Wind) 'WE GO']]></title>
-        <id>https://tv.naver.com/v/38849977</id>
-        <link href="https://tv.naver.com/v/38849977"/>
-        <updated>2023-08-08T10:17:02.670Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 싱그러운 청춘의 단면, 더윈드 (The Wind) '여름방학']]></title>
-        <id>https://tv.naver.com/v/38849793</id>
-        <link href="https://tv.naver.com/v/38849793"/>
-        <updated>2023-08-08T10:17:02.682Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청순한 여름 소녀들, 아일리원 'MY COLOR']]></title>
-        <id>https://tv.naver.com/v/38849392</id>
-        <link href="https://tv.naver.com/v/38849392"/>
-        <updated>2023-08-08T10:17:02.683Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 다채로운 감정 표현, BXB (비엑스비) 'Planet']]></title>
-        <id>https://tv.naver.com/v/38849220</id>
-        <link href="https://tv.naver.com/v/38849220"/>
-        <updated>2023-08-08T10:17:02.683Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무한대의 활발한 소년들, HORI7ON(호라이즌) 'SIX7EEN']]></title>
-        <id>https://tv.naver.com/v/38849097</id>
-        <link href="https://tv.naver.com/v/38849097"/>
-        <updated>2023-08-08T10:17:02.684Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상큼한 미소, 세러데이(SATURDAY) '있을게']]></title>
-        <id>https://tv.naver.com/v/38848443</id>
-        <link href="https://tv.naver.com/v/38848443"/>
-        <updated>2023-08-08T10:17:02.685Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/38620091</id>
-        <link href="https://tv.naver.com/v/38620091"/>
-        <updated>2023-08-01T11:13:29.040Z</updated>
-        <content type="html"><![CDATA[05:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 무더위를 날려버릴 써머 퀸의 귀환, 소유 'ALOHA (Feat. 보라)']]></title>
-        <id>https://tv.naver.com/v/38620061</id>
-        <link href="https://tv.naver.com/v/38620061"/>
-        <updated>2023-08-01T11:13:29.040Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 몽환적인 섹시함, 소유 'Drivin' Me']]></title>
-        <id>https://tv.naver.com/v/38619947</id>
-        <link href="https://tv.naver.com/v/38619947"/>
-        <updated>2023-08-01T11:13:29.040Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 여섯 요정들의 시원한 여름, 오마이걸 '여름이 들려 (Summer Comes)']]></title>
-        <id>https://tv.naver.com/v/38619945</id>
-        <link href="https://tv.naver.com/v/38619945"/>
-        <updated>2023-08-01T11:13:29.040Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 경쾌하고 다채로운 매력, 오마이걸 'Celebrate']]></title>
-        <id>https://tv.naver.com/v/38619705</id>
-        <link href="https://tv.naver.com/v/38619705"/>
-        <updated>2023-08-01T11:13:29.047Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>
