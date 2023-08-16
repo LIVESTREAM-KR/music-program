@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-16T06:20:33.921Z</updated>
+    <updated>2023-08-16T07:15:11.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX – Roller Coaster(엔믹스 - 롤러 코스터) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/39106469</id>
+        <link href="https://tv.naver.com/v/39106469"/>
+        <updated>2023-08-16T07:14:26.671Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 8월 둘째주 MC 컷 모음!, MBC 230812 방송]]></title>
         <id>https://tv.naver.com/v/39035191</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38832369"/>
         <updated>2023-08-10T07:15:24.394Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TREASURE.zip 📂 BOY부터 BONA BONA까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/38835051</id>
-        <link href="https://tv.naver.com/v/38835051"/>
-        <updated>2023-08-09T08:21:36.483Z</updated>
-        <content type="html"><![CDATA[27:01]]></content>
     </entry>
 </feed>
