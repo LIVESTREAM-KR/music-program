@@ -2,9 +2,135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-08-17T09:15:47.194Z</updated>
+    <updated>2023-08-17T10:17:25.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] ATEEZ(에이티즈) - BOUNCY (K-HOT CHILLI PEPPERS) | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39168056</id>
+        <link href="https://tv.naver.com/v/39168056"/>
+        <updated>2023-08-17T10:16:56.333Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] LE SSERAFIM (르세라핌) - 이브, 프시케 그리고 푸른 수염의 아내 | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39168054</id>
+        <link href="https://tv.naver.com/v/39168054"/>
+        <updated>2023-08-17T10:16:56.340Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] ENHYPEN(엔하이픈) - Sacrifice (Eat Me Up) | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39167921</id>
+        <link href="https://tv.naver.com/v/39167921"/>
+        <updated>2023-08-17T10:16:56.340Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] IVE (아이브) - I AM | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39167698</id>
+        <link href="https://tv.naver.com/v/39167698"/>
+        <updated>2023-08-17T10:16:56.342Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 태양 (TAEYANG ) - 나의 마음에 (Seed) | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39167524</id>
+        <link href="https://tv.naver.com/v/39167524"/>
+        <updated>2023-08-17T10:16:56.349Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] EXO (엑소) - Cream Soda | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39167521</id>
+        <link href="https://tv.naver.com/v/39167521"/>
+        <updated>2023-08-17T10:16:56.351Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 산다라박 (Sandara Park) - FESTIVAL | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39167395</id>
+        <link href="https://tv.naver.com/v/39167395"/>
+        <updated>2023-08-17T10:16:56.354Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 지민 (Jimin) - Like Crazy | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39167392</id>
+        <link href="https://tv.naver.com/v/39167392"/>
+        <updated>2023-08-17T10:16:56.356Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] SHINee (샤이니) - HARD | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39167136</id>
+        <link href="https://tv.naver.com/v/39167136"/>
+        <updated>2023-08-17T10:16:56.357Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 세븐틴(SEVENTEEN) - 손오공 | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39166890</id>
+        <link href="https://tv.naver.com/v/39166890"/>
+        <updated>2023-08-17T10:16:56.360Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 셔누 X 형원 (SHOWNU X HYUNGWON) - Love Me A Little | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39166684</id>
+        <link href="https://tv.naver.com/v/39166684"/>
+        <updated>2023-08-17T10:16:56.361Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] NCT DREAM (엔시티 드림) - ISTJ | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39166431</id>
+        <link href="https://tv.naver.com/v/39166431"/>
+        <updated>2023-08-17T10:16:56.362Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] ZEROBASEONE (제로베이스원) - In Bloom | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39166423</id>
+        <link href="https://tv.naver.com/v/39166423"/>
+        <updated>2023-08-17T10:16:56.363Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 8TURN(에잇턴) - EXCEL | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39166222</id>
+        <link href="https://tv.naver.com/v/39166222"/>
+        <updated>2023-08-17T10:16:56.364Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] BOYNEXTDOOR (보이넥스트도어) - One and Only | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39166047</id>
+        <link href="https://tv.naver.com/v/39166047"/>
+        <updated>2023-08-17T10:16:56.366Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] xikers(싸이커스) - 도깨비집 (TRICKY HOUSE) | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39166041</id>
+        <link href="https://tv.naver.com/v/39166041"/>
+        <updated>2023-08-17T10:16:56.368Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] LUN8 (루네이트) - Wild Heart | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39165794</id>
+        <link href="https://tv.naver.com/v/39165794"/>
+        <updated>2023-08-17T10:16:56.372Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 더윈드 (The Wind) - ISLAND | Mnet 230817 방송]]></title>
+        <id>https://tv.naver.com/v/39165588</id>
+        <link href="https://tv.naver.com/v/39165588"/>
+        <updated>2023-08-17T10:16:56.374Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미연 ((여자)아이들)이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/39090016</id>
@@ -88,131 +214,5 @@
         <link href="https://tv.naver.com/v/38932533"/>
         <updated>2023-08-10T11:14:36.614Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비 - The Flash | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38932384</id>
-        <link href="https://tv.naver.com/v/38932384"/>
-        <updated>2023-08-10T11:14:36.616Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' TAN - HEARTBEAT | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38932382</id>
-        <link href="https://tv.naver.com/v/38932382"/>
-        <updated>2023-08-10T11:14:36.621Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - DO or DIE | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38932158</id>
-        <link href="https://tv.naver.com/v/38932158"/>
-        <updated>2023-08-10T11:14:36.623Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NINE.i(나인아이) - Turn it off | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38931468</id>
-        <link href="https://tv.naver.com/v/38931468"/>
-        <updated>2023-08-10T10:18:51.332Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT DEBUT' n.SSign (엔싸인) - 웜홀 (Wormhole：New Track) | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38931466</id>
-        <link href="https://tv.naver.com/v/38931466"/>
-        <updated>2023-08-10T10:18:51.332Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드 (The Wind) - WE GO | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38931319</id>
-        <link href="https://tv.naver.com/v/38931319"/>
-        <updated>2023-08-10T10:18:51.332Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 조유리 (JO YURI) | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38931088</id>
-        <link href="https://tv.naver.com/v/38931088"/>
-        <updated>2023-08-10T10:18:51.342Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' LIMELIGHT (라임라잇) - MADELEINE | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38930903</id>
-        <link href="https://tv.naver.com/v/38930903"/>
-        <updated>2023-08-10T10:18:51.343Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BXB - Planet | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38930761</id>
-        <link href="https://tv.naver.com/v/38930761"/>
-        <updated>2023-08-10T10:18:51.343Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HORI7ON(호라이즌) - SIX7EEN | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38930569</id>
-        <link href="https://tv.naver.com/v/38930569"/>
-        <updated>2023-08-10T10:18:51.343Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/38851845</id>
-        <link href="https://tv.naver.com/v/38851845"/>
-        <updated>2023-08-08T12:31:29.001Z</updated>
-        <content type="html"><![CDATA[01:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 인피니트 - New Emotions | Mnet 230803 방송]]></title>
-        <id>https://tv.naver.com/v/38699619</id>
-        <link href="https://tv.naver.com/v/38699619"/>
-        <updated>2023-08-03T12:32:43.681Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 마마무+ - 댕댕 (dangdang) | Mnet 230803 방송]]></title>
-        <id>https://tv.naver.com/v/38699464</id>
-        <link href="https://tv.naver.com/v/38699464"/>
-        <updated>2023-08-03T12:32:43.687Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셔누 X 형원 - Love Me A Little | Mnet 230803 방송]]></title>
-        <id>https://tv.naver.com/v/38699462</id>
-        <link href="https://tv.naver.com/v/38699462"/>
-        <updated>2023-08-03T12:32:43.688Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소유 - ALOHA (Feat. 보라) | Mnet 230803 방송]]></title>
-        <id>https://tv.naver.com/v/38698978</id>
-        <link href="https://tv.naver.com/v/38698978"/>
-        <updated>2023-08-03T12:32:43.690Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 - 여름이 들려 (Summer Comes) | Mnet 230803 방송]]></title>
-        <id>https://tv.naver.com/v/38698862</id>
-        <link href="https://tv.naver.com/v/38698862"/>
-        <updated>2023-08-03T12:32:43.691Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ITZY - CAKE | Mnet 230803 방송]]></title>
-        <id>https://tv.naver.com/v/38698674</id>
-        <link href="https://tv.naver.com/v/38698674"/>
-        <updated>2023-08-03T11:14:07.114Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ITZY - None of My Business | Mnet 230803 방송]]></title>
-        <id>https://tv.naver.com/v/38698518</id>
-        <link href="https://tv.naver.com/v/38698518"/>
-        <updated>2023-08-03T11:14:07.116Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
