@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-17T01:04:50.018Z</updated>
+    <updated>2023-08-17T02:19:35.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PENTAGON 후이&우석 - OASIS l 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/39144802</id>
+        <link href="https://tv.naver.com/v/39144802"/>
+        <updated>2023-08-17T02:19:21.660Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 청춘을 위해 쇼챔이 준비한 특별한 편지! 받아주실 거죠?]]></title>
         <id>https://tv.naver.com/v/39048414</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38873960"/>
         <updated>2023-08-09T13:21:02.635Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers HUNTER - DO or DIE (싸이커스 헌터 - 두 오어 다이) | Show Champion | EP.487]]></title>
-        <id>https://tv.naver.com/v/38869972</id>
-        <link href="https://tv.naver.com/v/38869972"/>
-        <updated>2023-08-09T13:21:02.639Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
