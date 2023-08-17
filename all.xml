@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-17T10:17:25.105Z</updated>
+    <updated>2023-08-17T11:13:35.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Emotions - 인피니트 | KBS 230804 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,34 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] Stray Kids (스트레이 키즈) - 특 | Mnet 230817 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39168552</id>
+        <link href="https://tv.naver.com/v/39168552"/>
+        <updated>2023-08-17T11:13:05.582Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] (여자)아이들 ((G)I-DLE) - 퀸카 (Queencard) | Mnet 230817 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39168436</id>
+        <link href="https://tv.naver.com/v/39168436"/>
+        <updated>2023-08-17T11:13:05.584Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 투모로우바이투게더 (TOMORROW X TOGETHER) - Sugar Rush Ride | Mnet 230817 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39168434</id>
+        <link href="https://tv.naver.com/v/39168434"/>
+        <updated>2023-08-17T11:13:05.585Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-POP 시간 여행 특집] aespa (에스파) - Spicy | Mnet 230817 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39168232</id>
+        <link href="https://tv.naver.com/v/39168232"/>
+        <updated>2023-08-17T11:13:05.587Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[K-POP 시간 여행 특집] ATEEZ(에이티즈) - BOUNCY (K-HOT CHILLI PEPPERS) | Mnet 230817 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/39168056</id>
         <link href="https://tv.naver.com/v/39168056"/>
@@ -815,34 +843,6 @@
         <link href="https://tv.naver.com/v/38933993"/>
         <updated>2023-08-10T11:14:36.604Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브브걸 (BBGIRLS) - ONE MORE TIME | Mnet 230810 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38933989</id>
-        <link href="https://tv.naver.com/v/38933989"/>
-        <updated>2023-08-10T11:14:36.608Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 더보이즈 (THE BOYZ) | Mnet 230810 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38933763</id>
-        <link href="https://tv.naver.com/v/38933763"/>
-        <updated>2023-08-10T11:14:36.610Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 영탁 - 폼미쳤다 | Mnet 230810 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38932734</id>
-        <link href="https://tv.naver.com/v/38932734"/>
-        <updated>2023-08-10T11:14:36.612Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 조유리 - TAXI | Mnet 230810 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/38932533</id>
-        <link href="https://tv.naver.com/v/38932533"/>
-        <updated>2023-08-10T11:14:36.614Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
