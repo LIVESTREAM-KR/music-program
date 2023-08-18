@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-18T06:20:29.318Z</updated>
+    <updated>2023-08-18T07:14:39.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX – Party O’Clock(엔믹스 - 파티 어 클락) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/39106854</id>
+        <link href="https://tv.naver.com/v/39106854"/>
+        <updated>2023-08-18T07:13:55.467Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX – Roller Coaster(엔믹스 - 롤러 코스터) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/39106469</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38843446"/>
         <updated>2023-08-11T08:18:55.568Z</updated>
         <content type="html"><![CDATA[01:09:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] NCT DREAM – ISTJ(엔시티 드림 - 아이에스티제이) | Show! Music Core]]></title>
-        <id>https://tv.naver.com/v/38832369</id>
-        <link href="https://tv.naver.com/v/38832369"/>
-        <updated>2023-08-10T07:15:24.394Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
