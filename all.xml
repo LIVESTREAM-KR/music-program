@@ -2,8 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-18T09:15:41.724Z</updated>
+    <updated>2023-08-18T10:16:53.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[LIP GLOSS - 더보이즈(THE BOYZ) | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39210461</id>
+        <link href="https://tv.naver.com/v/39210461"/>
+        <updated>2023-08-18T10:16:03.188Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vuja De - 유노윤호 (U-KNOW) | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39210455</id>
+        <link href="https://tv.naver.com/v/39210455"/>
+        <updated>2023-08-18T10:16:03.192Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39210318</id>
+        <link href="https://tv.naver.com/v/39210318"/>
+        <updated>2023-08-18T10:16:03.196Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AEAO - 다이나믹 듀오&디제이 프리미어 | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39210187</id>
+        <link href="https://tv.naver.com/v/39210187"/>
+        <updated>2023-08-18T10:16:03.199Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CAKE - ITZY | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39210182</id>
+        <link href="https://tv.naver.com/v/39210182"/>
+        <updated>2023-08-18T10:16:03.199Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Flash - 권은비 | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39210180</id>
+        <link href="https://tv.naver.com/v/39210180"/>
+        <updated>2023-08-18T10:16:03.199Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closer - 지효(TWICE) | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39210073</id>
+        <link href="https://tv.naver.com/v/39210073"/>
+        <updated>2023-08-18T10:16:03.199Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble - STAYC(스테이씨) | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39210071</id>
+        <link href="https://tv.naver.com/v/39210071"/>
+        <updated>2023-08-18T10:16:03.203Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Like You - STAYC(스테이씨) | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39209737</id>
+        <link href="https://tv.naver.com/v/39209737"/>
+        <updated>2023-08-18T10:16:03.203Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAXI - 조유리 | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39209434</id>
+        <link href="https://tv.naver.com/v/39209434"/>
+        <updated>2023-08-18T10:16:03.203Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[말했잖아 - 다크비(DKB) | KBS 230818 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39209425</id>
+        <link href="https://tv.naver.com/v/39209425"/>
+        <updated>2023-08-18T10:16:03.214Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Girls’ Capitalism - tripleS LOVElution | KBS 230818 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/39209277</id>
@@ -136,83 +213,6 @@
         <link href="https://tv.naver.com/v/38731658"/>
         <updated>2023-08-04T09:15:37.812Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKETCH - 8TURN(에잇턴) | KBS 230804 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38731619</id>
-        <link href="https://tv.naver.com/v/38731619"/>
-        <updated>2023-08-04T09:15:37.815Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn it off - NINE.i(나인아이) | KBS 230804 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38731448</id>
-        <link href="https://tv.naver.com/v/38731448"/>
-        <updated>2023-08-04T09:15:37.815Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WE GO - 더윈드(The Wind) | KBS 230804 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38731430</id>
-        <link href="https://tv.naver.com/v/38731430"/>
-        <updated>2023-08-04T09:15:37.817Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIX7EEN - HORI70N(호라이즌) | KBS 230804 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38730826</id>
-        <link href="https://tv.naver.com/v/38730826"/>
-        <updated>2023-08-04T09:15:37.819Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wonder Land - 세븐어스 | KBS 230804 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38730817</id>
-        <link href="https://tv.naver.com/v/38730817"/>
-        <updated>2023-08-04T09:15:37.843Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISTJ - NCT DREAM(엔시티 드림) | KBS 230728 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38512062</id>
-        <link href="https://tv.naver.com/v/38512062"/>
-        <updated>2023-07-28T10:16:47.618Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETA - 뉴진스(NewJeans) | KBS 230728 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38512061</id>
-        <link href="https://tv.naver.com/v/38512061"/>
-        <updated>2023-07-28T10:16:47.633Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALOHA (Feat. 보라) -소유 | KBS 230728 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38511817</id>
-        <link href="https://tv.naver.com/v/38511817"/>
-        <updated>2023-07-28T10:16:47.633Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름이 들려(Summer Comes) - 오마이걸 | KBS 230728 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38511673</id>
-        <link href="https://tv.naver.com/v/38511673"/>
-        <updated>2023-07-28T10:16:47.633Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrate - 오마이걸 | KBS 230728 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38511538</id>
-        <link href="https://tv.naver.com/v/38511538"/>
-        <updated>2023-07-28T10:16:47.633Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Me A Little - 셔누X형원 | KBS 230728 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/38511535</id>
-        <link href="https://tv.naver.com/v/38511535"/>
-        <updated>2023-07-28T10:16:47.633Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX – Party O’Clock(엔믹스 - 파티 어 클락) | Show! Music Core (쇼! 음악중심)]]></title>
