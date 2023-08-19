@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-19T06:19:20.612Z</updated>
+    <updated>2023-08-19T07:14:14.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[LIP GLOSS - 더보이즈(THE BOYZ) | KBS 230818 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,41 @@
         <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아이칠린 - 킥 스타트 (ICHILLIN' - KICK-START), MBC 230819 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39232331</id>
+        <link href="https://tv.naver.com/v/39232331"/>
+        <updated>2023-08-19T07:13:30.330Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리베란테 - 샤인 (Libelante - Shine), MBC 230819 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39232064</id>
+        <link href="https://tv.naver.com/v/39232064"/>
+        <updated>2023-08-19T07:13:30.331Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 - 위 고 (The Wind - WE GO), MBC 230819 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39232060</id>
+        <link href="https://tv.naver.com/v/39232060"/>
+        <updated>2023-08-19T07:13:30.346Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이디야 - 왜 불러 (ADYA - What's Up?), MBC 230819 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39231803</id>
+        <link href="https://tv.naver.com/v/39231803"/>
+        <updated>2023-08-19T07:13:30.346Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호라이즌 - 식스틴 (HORI7ON - SIX7EEN), MBC 230819 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39231800</id>
+        <link href="https://tv.naver.com/v/39231800"/>
+        <updated>2023-08-19T07:13:30.351Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX – Party O’Clock(엔믹스 - 파티 어 클락) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/39106854</id>
         <link href="https://tv.naver.com/v/39106854"/>
@@ -388,41 +423,6 @@
         <link href="https://tv.naver.com/v/38996246"/>
         <updated>2023-08-12T07:13:10.141Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드 - 위 고 (The Wind - WE GO), MBC 230812 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38996117</id>
-        <link href="https://tv.naver.com/v/38996117"/>
-        <updated>2023-08-12T07:13:10.147Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이칠린 - 킥스타트 (ICHILLIN' - KICK-START), MBC 230812 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38995987</id>
-        <link href="https://tv.naver.com/v/38995987"/>
-        <updated>2023-08-12T07:13:10.148Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호라이즌 - 식스틴 (HORI7ON - SIX7EEN), MBC 230812 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38995870</id>
-        <link href="https://tv.naver.com/v/38995870"/>
-        <updated>2023-08-12T07:13:10.148Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김소연 - 덤벼 (Kim So Yeon - Bring it on), MBC 230812 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38995569</id>
-        <link href="https://tv.naver.com/v/38995569"/>
-        <updated>2023-08-12T07:13:10.159Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] INFINITE.zip 📂 다시 돌아와부터 New Emotions까지 | Show! MusicCore (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38843446</id>
-        <link href="https://tv.naver.com/v/38843446"/>
-        <updated>2023-08-11T08:18:55.568Z</updated>
-        <content type="html"><![CDATA[01:09:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전소미 - Fast Forward | SBS 230813 방송 (인기가요)]]></title>
