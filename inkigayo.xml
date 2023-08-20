@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-08-20T07:13:38.635Z</updated>
+    <updated>2023-08-20T08:17:51.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈(THE BOYZ) - LIP GLOSS  | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39257135</id>
+        <link href="https://tv.naver.com/v/39257135"/>
+        <updated>2023-08-20T08:17:14.364Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조유리 - TAXI | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39257013</id>
+        <link href="https://tv.naver.com/v/39257013"/>
+        <updated>2023-08-20T08:17:14.365Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC(스테이씨) - Bubble | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39257012</id>
+        <link href="https://tv.naver.com/v/39257012"/>
+        <updated>2023-08-20T08:17:14.365Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비 - The Flash | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39256870</id>
+        <link href="https://tv.naver.com/v/39256870"/>
+        <updated>2023-08-20T08:17:14.365Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다크비(DKB) - 말했잖아 | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39256771</id>
+        <link href="https://tv.naver.com/v/39256771"/>
+        <updated>2023-08-20T08:17:14.367Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - 웜홀(Wormhole: New Track) | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39256529</id>
+        <link href="https://tv.naver.com/v/39256529"/>
+        <updated>2023-08-20T08:17:14.369Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일리원(ILY:1) - MY COLOR | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39256436</id>
+        <link href="https://tv.naver.com/v/39256436"/>
+        <updated>2023-08-20T08:17:14.371Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드(The Wind) - WE GO | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39256405</id>
+        <link href="https://tv.naver.com/v/39256405"/>
+        <updated>2023-08-20T08:17:14.374Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프림로즈 - LAAFFY TAFFY | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39256268</id>
+        <link href="https://tv.naver.com/v/39256268"/>
+        <updated>2023-08-20T08:17:14.376Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BXB(비엑스비) - Planet | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39256145</id>
+        <link href="https://tv.naver.com/v/39256145"/>
+        <updated>2023-08-20T08:17:14.378Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS LOVElution - Girls' Capitalism | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39255900</id>
+        <link href="https://tv.naver.com/v/39255900"/>
+        <updated>2023-08-20T08:17:14.380Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세븐어스(SEVENUS) - Wonder Land | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39255898</id>
+        <link href="https://tv.naver.com/v/39255898"/>
+        <updated>2023-08-20T08:17:14.397Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XEED - BLUE | SBS 230820 방송]]></title>
         <id>https://tv.naver.com/v/39255631</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/39018874"/>
         <updated>2023-08-13T08:17:23.653Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY - None of My Business | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38791634</id>
-        <link href="https://tv.naver.com/v/38791634"/>
-        <updated>2023-08-07T01:18:12.173Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스(NewJeans) - Super Shy | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38791633</id>
-        <link href="https://tv.naver.com/v/38791633"/>
-        <updated>2023-08-07T01:18:12.173Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INFINITE - New Emotions | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38776533</id>
-        <link href="https://tv.naver.com/v/38776533"/>
-        <updated>2023-08-06T09:14:08.969Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셔누X형원 - Love Me A Little | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38776532</id>
-        <link href="https://tv.naver.com/v/38776532"/>
-        <updated>2023-08-06T09:14:08.969Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 - 여름이 들려(Summer Comes) | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38776254</id>
-        <link href="https://tv.naver.com/v/38776254"/>
-        <updated>2023-08-06T09:14:08.972Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY - CAKE | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38776125</id>
-        <link href="https://tv.naver.com/v/38776125"/>
-        <updated>2023-08-06T09:14:08.972Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마마무+ - 댕댕(dangdang) | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38775966</id>
-        <link href="https://tv.naver.com/v/38775966"/>
-        <updated>2023-08-06T09:14:08.972Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소유(SOYOU) - ALOHA(feat. 보라) | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38775563</id>
-        <link href="https://tv.naver.com/v/38775563"/>
-        <updated>2023-08-06T08:17:49.495Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) - BONA BONA | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38775244</id>
-        <link href="https://tv.naver.com/v/38775244"/>
-        <updated>2023-08-06T08:17:49.497Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비 - The Flash | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38775085</id>
-        <link href="https://tv.naver.com/v/38775085"/>
-        <updated>2023-08-06T08:17:49.499Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - KICK-START | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38774976</id>
-        <link href="https://tv.naver.com/v/38774976"/>
-        <updated>2023-08-06T08:17:49.501Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - DO or DIE | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38774861</id>
-        <link href="https://tv.naver.com/v/38774861"/>
-        <updated>2023-08-06T08:17:49.502Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
