@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-08-20T08:17:51.616Z</updated>
+    <updated>2023-08-20T09:14:36.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39257806</id>
+        <link href="https://tv.naver.com/v/39257806"/>
+        <updated>2023-08-20T09:13:59.483Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유노윤호(U-KNOW) - Spotlight | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39257646</id>
+        <link href="https://tv.naver.com/v/39257646"/>
+        <updated>2023-08-20T09:13:59.483Z</updated>
+        <content type="html"><![CDATA[01:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지효(TWICE) - Killin’ Me Good | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39257549</id>
+        <link href="https://tv.naver.com/v/39257549"/>
+        <updated>2023-08-20T09:13:59.494Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지효(TWICE) - Closer | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39257383</id>
+        <link href="https://tv.naver.com/v/39257383"/>
+        <updated>2023-08-20T09:13:59.494Z</updated>
+        <content type="html"><![CDATA[01:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전소미 - Fast Forward | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39257381</id>
+        <link href="https://tv.naver.com/v/39257381"/>
+        <updated>2023-08-20T09:13:59.494Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) - LIP GLOSS  | SBS 230820 방송]]></title>
         <id>https://tv.naver.com/v/39257135</id>
@@ -62,7 +97,7 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프림로즈 - LAAFFY TAFFY | SBS 230820 방송]]></title>
+        <title type="html"><![CDATA[프림로즈 - LAFFY TAFFY | SBS 230820 방송]]></title>
         <id>https://tv.naver.com/v/39256268</id>
         <link href="https://tv.naver.com/v/39256268"/>
         <updated>2023-08-20T08:17:14.376Z</updated>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/39019988"/>
         <updated>2023-08-13T08:17:23.641Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - Higher | SBS 230813 방송]]></title>
-        <id>https://tv.naver.com/v/39019736</id>
-        <link href="https://tv.naver.com/v/39019736"/>
-        <updated>2023-08-13T08:17:23.642Z</updated>
-        <content type="html"><![CDATA[01:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - WE GO | SBS 230813 방송]]></title>
-        <id>https://tv.naver.com/v/39019572</id>
-        <link href="https://tv.naver.com/v/39019572"/>
-        <updated>2023-08-13T08:17:23.643Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐어스(SEVENUS) - Wonder Land | SBS 230813 방송]]></title>
-        <id>https://tv.naver.com/v/39019262</id>
-        <link href="https://tv.naver.com/v/39019262"/>
-        <updated>2023-08-13T08:17:23.648Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAN - Heartbeat | SBS 230813 방송]]></title>
-        <id>https://tv.naver.com/v/39019261</id>
-        <link href="https://tv.naver.com/v/39019261"/>
-        <updated>2023-08-13T08:17:23.650Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TMC(티엠씨) - Color | SBS 230813 방송]]></title>
-        <id>https://tv.naver.com/v/39018874</id>
-        <link href="https://tv.naver.com/v/39018874"/>
-        <updated>2023-08-13T08:17:23.653Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
     </entry>
 </feed>
