@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-20T09:14:36.574Z</updated>
+    <updated>2023-08-20T10:15:23.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[LIP GLOSS - 더보이즈(THE BOYZ) | KBS 230818 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,41 @@
         <content type="html"><![CDATA[03:15]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['마카롱' 2라운드 무대 - 보고싶은 얼굴, MBC 230820 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39259911</id>
+        <link href="https://tv.naver.com/v/39259911"/>
+        <updated>2023-08-20T10:15:22.947Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['글램핑'의 정체는 가수 유해준!, MBC 230820 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39259732</id>
+        <link href="https://tv.naver.com/v/39259732"/>
+        <updated>2023-08-20T10:15:22.947Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['글램핑'과 관련 있는 지인 사진 힌트!🌟 박완규 & 오종혁의 노래를 작곡한 '글램핑'⁉️, MBC 230820 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39259478</id>
+        <link href="https://tv.naver.com/v/39259478"/>
+        <updated>2023-08-20T10:15:22.948Z</updated>
+        <content type="html"><![CDATA[01:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['알로하' 2라운드 무대 - 이런밤, MBC 230820 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39259070</id>
+        <link href="https://tv.naver.com/v/39259070"/>
+        <updated>2023-08-20T10:15:22.948Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['글램핑' 2라운드 무대 - 추억 만들기, MBC 230820 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39259039</id>
+        <link href="https://tv.naver.com/v/39259039"/>
+        <updated>2023-08-20T10:15:22.951Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[＜전에 없던 접전!🔥 이 판을 뒤흔든 실력자는 누구?🎤＞ 복면가왕 417회 예고, MBC 230820 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/39025591</id>
         <link href="https://tv.naver.com/v/39025591"/>
@@ -1648,40 +1683,5 @@
         <link href="https://tv.naver.com/v/38778708"/>
         <updated>2023-08-06T10:15:46.570Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수영모자'의 정체는 가수 픽보이!, MBC 230806 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/38778543</id>
-        <link href="https://tv.naver.com/v/38778543"/>
-        <updated>2023-08-06T10:15:46.572Z</updated>
-        <content type="html"><![CDATA[01:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수영모자'가 준비한 ＜신구 ver. 속사포 랩＞🤘 ＂애미야 Drop the Beat✨＂, MBC 230806 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/38778415</id>
-        <link href="https://tv.naver.com/v/38778415"/>
-        <updated>2023-08-06T10:15:46.572Z</updated>
-        <content type="html"><![CDATA[01:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가왕석으로 가고 싶은 마음을 담아...👑 '파르페'의 ＜지하철 안내 방송 성대모사＞🗣️, MBC 230806 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/38778316</id>
-        <link href="https://tv.naver.com/v/38778316"/>
-        <updated>2023-08-06T10:15:46.575Z</updated>
-        <content type="html"><![CDATA[01:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수영모자' 2라운드 무대 - Nothing Better, MBC 230806 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/38778160</id>
-        <link href="https://tv.naver.com/v/38778160"/>
-        <updated>2023-08-06T10:15:46.577Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파르페' 2라운드 무대 - Lemon Tree, MBC 230806 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/38778046</id>
-        <link href="https://tv.naver.com/v/38778046"/>
-        <updated>2023-08-06T10:15:46.577Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
