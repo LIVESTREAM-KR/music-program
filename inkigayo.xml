@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-08-20T06:19:11.640Z</updated>
+    <updated>2023-08-20T07:13:38.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[XEED - BLUE | SBS 230820 방송]]></title>
+        <id>https://tv.naver.com/v/39255631</id>
+        <link href="https://tv.naver.com/v/39255631"/>
+        <updated>2023-08-20T07:13:02.351Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전소미 - Fast Forward | SBS 230813 방송]]></title>
         <id>https://tv.naver.com/v/39022193</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38774861"/>
         <updated>2023-08-06T08:17:49.502Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁 - 폼미쳤다 | SBS 230806 방송]]></title>
-        <id>https://tv.naver.com/v/38774729</id>
-        <link href="https://tv.naver.com/v/38774729"/>
-        <updated>2023-08-06T08:17:49.510Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
