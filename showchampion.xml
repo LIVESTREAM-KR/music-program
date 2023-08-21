@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-21T08:21:20.836Z</updated>
+    <updated>2023-08-21T09:16:44.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[옴걸의 여름🌴 어떻게 떠나보낼 수 있을까?]]></title>
+        <id>https://tv.naver.com/v/39289328</id>
+        <link href="https://tv.naver.com/v/39289328"/>
+        <updated>2023-08-21T09:16:29.644Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옴걸의 여름🌴 어떻게 떠나보낼 수 있을까?]]></title>
+        <id>https://tv.naver.com/v/39289263</id>
+        <link href="https://tv.naver.com/v/39289263"/>
+        <updated>2023-08-21T09:16:29.644Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PENTAGON 후이&우석 - OASIS l 쇼챔피언]]></title>
         <id>https://tv.naver.com/v/39144802</id>
@@ -199,20 +213,6 @@
         <id>https://tv.naver.com/v/38874415</id>
         <link href="https://tv.naver.com/v/38874415"/>
         <updated>2023-08-09T13:21:02.631Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NINE.i SEOWON - Turn it off (나인아이 서원 - 턴 잇 오프) | Show Champion | EP.487]]></title>
-        <id>https://tv.naver.com/v/38874413</id>
-        <link href="https://tv.naver.com/v/38874413"/>
-        <updated>2023-08-09T13:21:02.633Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NINE.i - Turn it off (나인아이 - 턴 잇 오프) l Show Champion l EP.487]]></title>
-        <id>https://tv.naver.com/v/38873960</id>
-        <link href="https://tv.naver.com/v/38873960"/>
-        <updated>2023-08-09T13:21:02.635Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
