@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-21T04:19:39.340Z</updated>
+    <updated>2023-08-21T05:15:51.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 선우 X 주학년 X 에릭, 8월 셋째 주 음악중심 MC 컷 모음!, MBC 230819 방송]]></title>
+        <id>https://tv.naver.com/v/39282971</id>
+        <link href="https://tv.naver.com/v/39282971"/>
+        <updated>2023-08-21T05:15:02.808Z</updated>
+        <content type="html"><![CDATA[06:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이나믹듀오 & 디제이 프리미어 - 에이아오 (Dynamicduo & DJ Premier - AEAO), MBC 230819 방송]]></title>
         <id>https://tv.naver.com/v/39234422</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38998360"/>
         <updated>2023-08-12T09:14:12.957Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지 - 케이크 (ITZY - CAKE), MBC 230812 방송]]></title>
-        <id>https://tv.naver.com/v/38998356</id>
-        <link href="https://tv.naver.com/v/38998356"/>
-        <updated>2023-08-12T09:14:12.959Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
