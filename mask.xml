@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-08-22T11:13:41.452Z</updated>
+    <updated>2023-08-22T12:30:25.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 목소리 자체가 장르..💖 유일무이한 유니크✨보컬리스트 안예은 솔로곡 모음!, MBC 230820 방송]]></title>
-        <id>https://tv.naver.com/v/39338060</id>
-        <link href="https://tv.naver.com/v/39338060"/>
-        <updated>2023-08-22T10:17:16.624Z</updated>
-        <content type="html"><![CDATA[13:39]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 ＜CAKE🍰＞로 더욱 힙하게✨돌아온 1등 아이돌! ITZY 리아의 솔로곡 모음🔥, MBC 230820 방송]]></title>
         <id>https://tv.naver.com/v/39337775</id>
@@ -214,5 +207,12 @@
         <link href="https://tv.naver.com/v/39023493"/>
         <updated>2023-08-13T10:15:35.968Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카라반' VS '글램핑'의 1라운드 무대 - 무기여 잘 있거라, MBC 230813 방송]]></title>
+        <id>https://tv.naver.com/v/39023215</id>
+        <link href="https://tv.naver.com/v/39023215"/>
+        <updated>2023-08-22T12:30:24.131Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
