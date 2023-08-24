@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-08-24T10:17:32.037Z</updated>
+    <updated>2023-08-24T11:14:14.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ITZY - CAKE | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39426588</id>
+        <link href="https://tv.naver.com/v/39426588"/>
+        <updated>2023-08-24T11:13:42.813Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' STAYC(스테이씨) - Bubble | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39426582</id>
+        <link href="https://tv.naver.com/v/39426582"/>
+        <updated>2023-08-24T11:13:42.813Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 예린(YERIN) - 밤밤밤(Bambambam) | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39426390</id>
+        <link href="https://tv.naver.com/v/39426390"/>
+        <updated>2023-08-24T11:13:42.813Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' VANNER (배너) - PERFORMER | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39425956</id>
+        <link href="https://tv.naver.com/v/39425956"/>
+        <updated>2023-08-24T11:13:42.822Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' EVERGLOW(에버글로우) - SLAY | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39425954</id>
+        <link href="https://tv.naver.com/v/39425954"/>
+        <updated>2023-08-24T11:13:42.823Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' tripleS LOVElution - Girls' Capitalism | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39425738</id>
+        <link href="https://tv.naver.com/v/39425738"/>
+        <updated>2023-08-24T11:13:42.823Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' TIOT(티아이오티) - 백전무패 (百戰無敗) | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39425614</id>
+        <link href="https://tv.naver.com/v/39425614"/>
+        <updated>2023-08-24T11:13:42.823Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with 지효 (트와이스) (JIHYO (TWICE)) | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39425256</id>
+        <link href="https://tv.naver.com/v/39425256"/>
+        <updated>2023-08-24T11:13:42.823Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - HOMEBOY | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39425133</id>
+        <link href="https://tv.naver.com/v/39425133"/>
+        <updated>2023-08-24T11:13:42.824Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' NCT U (엔시티 유) | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39424549</id>
+        <link href="https://tv.naver.com/v/39424549"/>
+        <updated>2023-08-24T11:13:42.826Z</updated>
+        <content type="html"><![CDATA[02:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ADYA (에이디야) - 왜 불러(What's Up?) | Mnet 230824 방송]]></title>
+        <id>https://tv.naver.com/v/39424318</id>
+        <link href="https://tv.naver.com/v/39424318"/>
+        <updated>2023-08-24T11:13:42.828Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[n.SSign (엔싸인) - 웜홀 (Wormhole: New Track) | Mnet 230824 방송]]></title>
         <id>https://tv.naver.com/v/39423998</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/39166423"/>
         <updated>2023-08-17T10:16:56.363Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 8TURN(에잇턴) - EXCEL | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39166222</id>
-        <link href="https://tv.naver.com/v/39166222"/>
-        <updated>2023-08-17T10:16:56.364Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] BOYNEXTDOOR (보이넥스트도어) - One and Only | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39166047</id>
-        <link href="https://tv.naver.com/v/39166047"/>
-        <updated>2023-08-17T10:16:56.366Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] xikers(싸이커스) - 도깨비집 (TRICKY HOUSE) | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39166041</id>
-        <link href="https://tv.naver.com/v/39166041"/>
-        <updated>2023-08-17T10:16:56.368Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] LUN8 (루네이트) - Wild Heart | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39165794</id>
-        <link href="https://tv.naver.com/v/39165794"/>
-        <updated>2023-08-17T10:16:56.372Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 더윈드 (The Wind) - ISLAND | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39165588</id>
-        <link href="https://tv.naver.com/v/39165588"/>
-        <updated>2023-08-17T10:16:56.374Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미연 ((여자)아이들)이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/39090016</id>
-        <link href="https://tv.naver.com/v/39090016"/>
-        <updated>2023-08-15T12:29:26.792Z</updated>
-        <content type="html"><![CDATA[01:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT DEBUT' DXTEEN - First Flight | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38936110</id>
-        <link href="https://tv.naver.com/v/38936110"/>
-        <updated>2023-08-10T12:33:55.283Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 전소미 - Fast Forward | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38934253</id>
-        <link href="https://tv.naver.com/v/38934253"/>
-        <updated>2023-08-10T11:14:36.598Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NCT DREAM - Yogurt Shake | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38934252</id>
-        <link href="https://tv.naver.com/v/38934252"/>
-        <updated>2023-08-10T11:14:36.600Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 더보이즈(THE BOYZ) - LIP GLOSS | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38934250</id>
-        <link href="https://tv.naver.com/v/38934250"/>
-        <updated>2023-08-10T11:14:36.600Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 전소미 (JEON SOMI) | Mnet 230810 방송]]></title>
-        <id>https://tv.naver.com/v/38934006</id>
-        <link href="https://tv.naver.com/v/38934006"/>
-        <updated>2023-08-10T11:14:36.600Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
