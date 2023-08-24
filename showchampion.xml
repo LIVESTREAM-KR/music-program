@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-24T08:20:53.538Z</updated>
+    <updated>2023-08-24T09:16:13.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[완벽했던 질주 엔딩👍]]></title>
+        <id>https://tv.naver.com/v/39397169</id>
+        <link href="https://tv.naver.com/v/39397169"/>
+        <updated>2023-08-24T09:15:58.149Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[옴걸의 여름🌴 어떻게 떠나보낼 수 있을까?]]></title>
         <id>https://tv.naver.com/v/39289328</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/38874679</id>
         <link href="https://tv.naver.com/v/38874679"/>
         <updated>2023-08-09T13:21:02.629Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NINE.i JIHO - Turn it off (나인아이 지호 - 턴 잇 오프) | Show Champion | EP.487]]></title>
-        <id>https://tv.naver.com/v/38874415</id>
-        <link href="https://tv.naver.com/v/38874415"/>
-        <updated>2023-08-09T13:21:02.631Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
