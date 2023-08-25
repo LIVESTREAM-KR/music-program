@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-25T19:13:43.764Z</updated>
+    <updated>2023-08-25T20:16:41.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] SHOWNU X HYUNGWON – Love Me A Little(셔누X형원 - 러브 미 어 리틀) | Show! Music Core]]></title>
-        <id>https://tv.naver.com/v/39287435</id>
-        <link href="https://tv.naver.com/v/39287435"/>
-        <updated>2023-08-25T07:14:28.891Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 선우 X 주학년 X 에릭, 8월 셋째 주 음악중심 MC 컷 모음!, MBC 230819 방송]]></title>
         <id>https://tv.naver.com/v/39282971</id>
@@ -214,5 +207,12 @@
         <link href="https://tv.naver.com/v/38998471"/>
         <updated>2023-08-12T09:14:12.957Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이브 - 아이 엠 (IVE - I AM), MBC 230812 방송]]></title>
+        <id>https://tv.naver.com/v/38998360</id>
+        <link href="https://tv.naver.com/v/38998360"/>
+        <updated>2023-08-25T20:15:58.040Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
