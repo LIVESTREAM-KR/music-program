@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-25T08:20:33.596Z</updated>
+    <updated>2023-08-25T09:16:27.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 엔딩 요정 모음zip]]></title>
+        <id>https://tv.naver.com/v/39443147</id>
+        <link href="https://tv.naver.com/v/39443147"/>
+        <updated>2023-08-25T09:16:10.190Z</updated>
+        <content type="html"><![CDATA[00:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완벽했던 질주 엔딩👍]]></title>
         <id>https://tv.naver.com/v/39397169</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38875057"/>
         <updated>2023-08-09T13:21:02.627Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] NINE.i VAHN - Turn it off (나인아이 반 - 턴 잇 오프) | Show Champion | EP.487]]></title>
-        <id>https://tv.naver.com/v/38874679</id>
-        <link href="https://tv.naver.com/v/38874679"/>
-        <updated>2023-08-09T13:21:02.629Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
