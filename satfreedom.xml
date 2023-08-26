@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-08-26T09:14:48.497Z</updated>
+    <updated>2023-08-26T10:16:24.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[축가계의 핫 셀럽 조혜련🎶 축가 쇄도의 비하인드 스토리! | KBS 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39495790</id>
+        <link href="https://tv.naver.com/v/39495790"/>
+        <updated>2023-08-26T10:16:16.462Z</updated>
+        <content type="html"><![CDATA[02:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아나운서계 셀럽 K-아나 김일중💕 유일한 경험자! 당시 불만이 가득했다고?! | KBS 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39495679</id>
+        <link href="https://tv.naver.com/v/39495679"/>
+        <updated>2023-08-26T10:16:16.462Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 최정상 프로파일러🕵️ 권일용&표창원이 불후에 떴다? 전무후무한 무대🔥 | KBS 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39495558</id>
+        <link href="https://tv.naver.com/v/39495558"/>
+        <updated>2023-08-26T10:16:16.462Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트로트 프린스와 지독하게 얽히고 싶은 마음💟 박현빈의 마지막 큰 그림은? | KBS 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39495428</id>
+        <link href="https://tv.naver.com/v/39495428"/>
+        <updated>2023-08-26T10:16:16.462Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🔥핫 셀럽 특집🔥 사전 약속되지 않은 퍼포먼스? 놓치지 마세요🌟 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/39239336</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/39002530"/>
         <updated>2023-08-12T12:27:30.798Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 - 사랑하긴 했었나요 | KBS 230812 방송]]></title>
-        <id>https://tv.naver.com/v/39002518</id>
-        <link href="https://tv.naver.com/v/39002518"/>
-        <updated>2023-08-12T12:27:30.800Z</updated>
-        <content type="html"><![CDATA[04:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 - 밤의 공원 | KBS 230812 방송]]></title>
-        <id>https://tv.naver.com/v/39002514</id>
-        <link href="https://tv.naver.com/v/39002514"/>
-        <updated>2023-08-12T12:27:30.802Z</updated>
-        <content type="html"><![CDATA[04:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 - 내 마음에 주단을 깔고 | KBS 230812 방송]]></title>
-        <id>https://tv.naver.com/v/39002377</id>
-        <link href="https://tv.naver.com/v/39002377"/>
-        <updated>2023-08-12T12:27:30.804Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rock의 새로운 트렌드 잔나비! 오늘의 콘셉트는? 온몸으로 즐기는 열기🔥 | KBS 230812 방송]]></title>
-        <id>https://tv.naver.com/v/39002229</id>
-        <link href="https://tv.naver.com/v/39002229"/>
-        <updated>2023-08-12T12:27:30.806Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
