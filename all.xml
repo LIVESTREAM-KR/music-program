@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-26T12:27:03.669Z</updated>
+    <updated>2023-08-26T13:17:07.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 621회 〈핫셀럽 특집〉 우승자 ⭐조혜련⭐ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39500332</id>
+        <link href="https://tv.naver.com/v/39500332"/>
+        <updated>2023-08-26T13:16:59.703Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[※결과 확인※ 조혜련 vs 박지훈 명곡판정단의 마지막 선택! 결과는 과연? | KBS 230826 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/39497951</id>
         <link href="https://tv.naver.com/v/39497951"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/39238468"/>
         <updated>2023-08-19T11:12:29.931Z</updated>
         <content type="html"><![CDATA[05:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼바 홀릭! 토크 대기실을 대환장파티로🕺💃 만든 박서진의 무대 | KBS 230819 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39238464</id>
-        <link href="https://tv.naver.com/v/39238464"/>
-        <updated>2023-08-19T11:12:29.932Z</updated>
-        <content type="html"><![CDATA[02:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 목소리 자체가 장르..💖 유일무이한 유니크✨보컬리스트 안예은 솔로곡 모음!, MBC 230820 방송 (복면가왕)]]></title>

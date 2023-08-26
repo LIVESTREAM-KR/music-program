@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-08-26T12:27:03.656Z</updated>
+    <updated>2023-08-26T13:17:07.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 621회 〈핫셀럽 특집〉 우승자 ⭐조혜련⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/39500332</id>
+        <link href="https://tv.naver.com/v/39500332"/>
+        <updated>2023-08-26T13:16:59.703Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[※결과 확인※ 조혜련 vs 박지훈 명곡판정단의 마지막 선택! 결과는 과연? | KBS 230826 방송]]></title>
         <id>https://tv.naver.com/v/39497951</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39238468"/>
         <updated>2023-08-19T11:12:29.931Z</updated>
         <content type="html"><![CDATA[05:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼바 홀릭! 토크 대기실을 대환장파티로🕺💃 만든 박서진의 무대 | KBS 230819 방송]]></title>
-        <id>https://tv.naver.com/v/39238464</id>
-        <link href="https://tv.naver.com/v/39238464"/>
-        <updated>2023-08-19T11:12:29.932Z</updated>
-        <content type="html"><![CDATA[02:00]]></content>
     </entry>
 </feed>
