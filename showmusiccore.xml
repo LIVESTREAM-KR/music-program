@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-26T08:19:41.462Z</updated>
+    <updated>2023-08-26T09:14:48.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유노윤호 - 뷔자데 (U-KNOW - Vuja De), MBC 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39493233</id>
+        <link href="https://tv.naver.com/v/39493233"/>
+        <updated>2023-08-26T09:14:05.291Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유노윤호 - 워너비 (U-KNOW - Wannabe), MBC 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39493230</id>
+        <link href="https://tv.naver.com/v/39493230"/>
+        <updated>2023-08-26T09:14:05.292Z</updated>
+        <content type="html"><![CDATA[01:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[효연 - 픽처 (HYO - Picture), MBC 230826 방송]]></title>
         <id>https://tv.naver.com/v/39493022</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39232816"/>
         <updated>2023-08-19T08:17:42.534Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키썸 - 냅두세요 (feat. 트루디) (Kisum - Let Me Be (Feat. Truedy)), MBC 230819 방송]]></title>
-        <id>https://tv.naver.com/v/39232815</id>
-        <link href="https://tv.naver.com/v/39232815"/>
-        <updated>2023-08-19T08:17:42.537Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티에이엔 - 하트비트 (TAN - HEARTBEAT), MBC 230819 방송]]></title>
-        <id>https://tv.naver.com/v/39232492</id>
-        <link href="https://tv.naver.com/v/39232492"/>
-        <updated>2023-08-19T08:17:42.543Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
