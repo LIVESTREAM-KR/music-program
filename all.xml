@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-26T06:20:14.167Z</updated>
+    <updated>2023-08-26T07:13:29.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[04:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[트리플에스 러블루션 - 걸스 캐피탈리즘 (tripleS LOVElution - Girls' Capitalism), MBC 230826 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39491596</id>
+        <link href="https://tv.naver.com/v/39491596"/>
+        <updated>2023-08-26T07:12:51.066Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플레이브 - 여섯 번째 여름 (PLAVE - The 6th Summer), MBC 230826 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39491372</id>
+        <link href="https://tv.naver.com/v/39491372"/>
+        <updated>2023-08-26T07:12:51.067Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이찬원 - 트위스트고고 (Lee Chan Won - Twist Go Go), MBC 230826 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39491274</id>
+        <link href="https://tv.naver.com/v/39491274"/>
+        <updated>2023-08-26T07:12:51.067Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배너 - 퍼포머 (VANNER - PERFORMER), MBC 230826 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39491153</id>
+        <link href="https://tv.naver.com/v/39491153"/>
+        <updated>2023-08-26T07:12:51.068Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 선우 X 주학년 X 에릭, 8월 셋째 주 음악중심 MC 컷 모음!, MBC 230819 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/39282971</id>
         <link href="https://tv.naver.com/v/39282971"/>
@@ -395,34 +423,6 @@
         <link href="https://tv.naver.com/v/38998707"/>
         <updated>2023-08-12T09:14:12.954Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엔시티드림 - 아이에스티제이 (NCT DREAM - ISTJ), MBC 230729 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38998705</id>
-        <link href="https://tv.naver.com/v/38998705"/>
-        <updated>2023-08-12T09:14:12.955Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엔믹스 - 파티 어클락 (NMIXX - Party O'Clock), MBC 230729 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38998703</id>
-        <link href="https://tv.naver.com/v/38998703"/>
-        <updated>2023-08-12T09:14:12.956Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태용 - 샤랄라 (TAEYONG - SHALALA), MBC 230812 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38998471</id>
-        <link href="https://tv.naver.com/v/38998471"/>
-        <updated>2023-08-12T09:14:12.957Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 - 아이 엠 (IVE - I AM), MBC 230812 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/38998360</id>
-        <link href="https://tv.naver.com/v/38998360"/>
-        <updated>2023-08-25T20:15:58.040Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230820 방송 (인기가요)]]></title>
