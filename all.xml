@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-27T11:13:57.725Z</updated>
+    <updated>2023-08-27T12:27:52.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,27 @@
         <content type="html"><![CDATA[05:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[＜'1급 특수요원'은 가왕석으로 돌아갈 수 있을까?＞ 복면가왕 419회 예고, MBC 230903 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39521277</id>
+        <link href="https://tv.naver.com/v/39521277"/>
+        <updated>2023-08-27T12:27:51.701Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['맛탕'의 정체는 코미디언 김혜선!, MBC 230827 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39520968</id>
+        <link href="https://tv.naver.com/v/39520968"/>
+        <updated>2023-08-27T12:27:51.701Z</updated>
+        <content type="html"><![CDATA[01:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂남녀 목소리 모두 완벽 소화＂ 😲 '탕후루'의 영화 ＜타짜＞ 너구리 형사 & 정마담 1인 2역 성대모사!, MBC 230827 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39520753</id>
+        <link href="https://tv.naver.com/v/39520753"/>
+        <updated>2023-08-27T12:27:51.710Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['맛탕'의 ＜불타오르네＞ 열정 댄스!! 💥 ＂싹 다 불태워라＂ 💥 범접 불가 댄스, MBC 230827 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/39520591</id>
         <link href="https://tv.naver.com/v/39520591"/>
@@ -1662,26 +1683,5 @@
         <link href="https://tv.naver.com/v/39259478"/>
         <updated>2023-08-20T10:15:22.948Z</updated>
         <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['알로하' 2라운드 무대 - 이런밤, MBC 230820 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/39259070</id>
-        <link href="https://tv.naver.com/v/39259070"/>
-        <updated>2023-08-20T10:15:22.948Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['글램핑' 2라운드 무대 - 추억 만들기, MBC 230820 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/39259039</id>
-        <link href="https://tv.naver.com/v/39259039"/>
-        <updated>2023-08-20T10:15:22.951Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜전에 없던 접전!🔥 이 판을 뒤흔든 실력자는 누구?🎤＞ 복면가왕 417회 예고, MBC 230820 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/39025591</id>
-        <link href="https://tv.naver.com/v/39025591"/>
-        <updated>2023-08-13T12:27:23.750Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
     </entry>
 </feed>
