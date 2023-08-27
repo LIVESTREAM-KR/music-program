@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-08-27T09:14:45.648Z</updated>
+    <updated>2023-08-27T10:16:18.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['난 노래가 좋탁구' VS '가왕은 내가 할 거징'의 1라운드 무대 - 칵테일 사랑, MBC 230827 방송]]></title>
+        <id>https://tv.naver.com/v/39519364</id>
+        <link href="https://tv.naver.com/v/39519364"/>
+        <updated>2023-08-27T10:16:17.410Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['세차장'의 정체는 래퍼 키드밀리!, MBC 230827 방송]]></title>
+        <id>https://tv.naver.com/v/39519338</id>
+        <link href="https://tv.naver.com/v/39519338"/>
+        <updated>2023-08-27T10:16:17.437Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찌드래곤 집어삼킨 듯😆 '세차장'의 찌드래곤 성대모사 개인기, MBC 230827 방송]]></title>
+        <id>https://tv.naver.com/v/39518540</id>
+        <link href="https://tv.naver.com/v/39518540"/>
+        <updated>2023-08-27T10:16:17.437Z</updated>
+        <content type="html"><![CDATA[01:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['주차장' VS '세차장'의 1라운드 무대 - 나비효과, MBC 230827 방송]]></title>
+        <id>https://tv.naver.com/v/39518263</id>
+        <link href="https://tv.naver.com/v/39518263"/>
+        <updated>2023-08-27T10:16:17.439Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 목소리 자체가 장르..💖 유일무이한 유니크✨보컬리스트 안예은 솔로곡 모음!, MBC 230820 방송]]></title>
         <id>https://tv.naver.com/v/39338060</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/39024168"/>
         <updated>2023-08-13T11:12:33.567Z</updated>
         <content type="html"><![CDATA[01:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['알로에'의 정체는 댄서 넉스!, MBC 230813 방송]]></title>
-        <id>https://tv.naver.com/v/39024008</id>
-        <link href="https://tv.naver.com/v/39024008"/>
-        <updated>2023-08-13T10:15:35.962Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예사롭지 않은 춤선💕 '알로하'의 ＜하와이안 훌라 댄스＞ 개인기🌴, MBC 230813 방송]]></title>
-        <id>https://tv.naver.com/v/39023910</id>
-        <link href="https://tv.naver.com/v/39023910"/>
-        <updated>2023-08-13T10:15:35.963Z</updated>
-        <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['알로하' VS '알로에'의 1라운드 무대 - 사랑인걸, MBC 230813 방송]]></title>
-        <id>https://tv.naver.com/v/39023802</id>
-        <link href="https://tv.naver.com/v/39023802"/>
-        <updated>2023-08-13T10:15:35.965Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카라반'의 정체는 MBC 아나운서 김대호!, MBC 230813 방송]]></title>
-        <id>https://tv.naver.com/v/39023493</id>
-        <link href="https://tv.naver.com/v/39023493"/>
-        <updated>2023-08-13T10:15:35.968Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
