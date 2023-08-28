@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-08-28T04:19:34.722Z</updated>
+    <updated>2023-08-28T05:16:09.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 설윤 X 리노(민호) , 8월 넷째 주 음악중심 MC 컷 모음!, MBC 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39543099</id>
+        <link href="https://tv.naver.com/v/39543099"/>
+        <updated>2023-08-28T05:15:18.008Z</updated>
+        <content type="html"><![CDATA[14:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ITZY RYUJIN – CAKE(있지 류진 - 케이크) FanCam | Show! MusicCore | MBC230826방송]]></title>
         <id>https://tv.naver.com/v/39495940</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39495295"/>
         <updated>2023-08-26T10:15:42.348Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] AKMU – Love Lee(악뮤 - 러브 리) FanCam | Show! MusicCore | MBC230826방송]]></title>
-        <id>https://tv.naver.com/v/39495293</id>
-        <link href="https://tv.naver.com/v/39495293"/>
-        <updated>2023-08-26T10:15:42.351Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
