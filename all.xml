@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-28T06:21:54.810Z</updated>
+    <updated>2023-08-28T07:16:21.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] Bubble! Bubble! 우리 마음을 터지게 만드는 PERFORMER들이 찾아왔다! (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39547602</id>
+        <link href="https://tv.naver.com/v/39547602"/>
+        <updated>2023-08-28T07:16:05.407Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔믹스 엔딩 요정 모음zip (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/39443147</id>
         <link href="https://tv.naver.com/v/39443147"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/38875320</id>
         <link href="https://tv.naver.com/v/38875320"/>
         <updated>2023-08-09T13:21:02.625Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] The Wind Jang Hyoun Joon - WE GO (더윈드 장현준 - 위 고) | Show Champion | EP.487 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/38875057</id>
-        <link href="https://tv.naver.com/v/38875057"/>
-        <updated>2023-08-09T13:21:02.627Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
