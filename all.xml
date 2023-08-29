@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-29T08:21:58.824Z</updated>
+    <updated>2023-08-29T09:16:31.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[더 높이 도약할 '미래소년'의 JUMP! (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39548385</id>
+        <link href="https://tv.naver.com/v/39548385"/>
+        <updated>2023-08-29T09:16:16.158Z</updated>
+        <content type="html"><![CDATA[00:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] Bubble! Bubble! 우리 마음을 터지게 만드는 PERFORMER들이 찾아왔다! (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/39547602</id>
         <link href="https://tv.naver.com/v/39547602"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/38877383"/>
         <updated>2023-08-09T13:21:02.621Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] The Wind - WE GO (더윈드 - 위 고) l Show Champion l EP.487 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/38875323</id>
-        <link href="https://tv.naver.com/v/38875323"/>
-        <updated>2023-08-09T13:21:02.623Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 621회 〈핫셀럽 특집〉 우승자 ⭐조혜련⭐ | KBS 방송 (불후의 명곡)]]></title>
