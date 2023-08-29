@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-08-29T11:13:57.664Z</updated>
+    <updated>2023-08-29T12:31:19.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[STAYC(스테이씨)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/39607207</id>
+        <link href="https://tv.naver.com/v/39607207"/>
+        <updated>2023-08-29T12:30:49.249Z</updated>
+        <content type="html"><![CDATA[01:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' 유노윤호 (U-KNOW) - Vuja De | Mnet 230824 방송]]></title>
         <id>https://tv.naver.com/v/39429211</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39168056"/>
         <updated>2023-08-17T10:16:56.333Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] LE SSERAFIM (르세라핌) - 이브, 프시케 그리고 푸른 수염의 아내 | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39168054</id>
-        <link href="https://tv.naver.com/v/39168054"/>
-        <updated>2023-08-17T10:16:56.340Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
