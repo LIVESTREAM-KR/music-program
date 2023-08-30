@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-30T07:15:13.467Z</updated>
+    <updated>2023-08-30T08:21:05.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[04:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] JEON SOMI.zip 📂 BIRTHDAY부터 Fast Forward까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39638205</id>
+        <link href="https://tv.naver.com/v/39638205"/>
+        <updated>2023-08-30T08:20:20.822Z</updated>
+        <content type="html"><![CDATA[16:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] SHOWNU X HYUNGWON – Love Me A Little(셔누X형원 - 러브 미 어 리틀) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/39547600</id>
         <link href="https://tv.naver.com/v/39547600"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/39495661"/>
         <updated>2023-08-26T10:15:42.309Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] HYO – Picture(효연 - 픽처) FanCam | Show! MusicCore | MBC230826방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39495660</id>
-        <link href="https://tv.naver.com/v/39495660"/>
-        <updated>2023-08-26T10:15:42.311Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230827 방송 (인기가요)]]></title>
