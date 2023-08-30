@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-30T11:13:48.267Z</updated>
+    <updated>2023-08-30T12:31:12.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 8월 5주 챔피언송 ＜EVERGLOW - SLAY＞ 앵콜 Full ver. l Show Champion l EP.489 l 230830 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39654290</id>
+        <link href="https://tv.naver.com/v/39654290"/>
+        <updated>2023-08-30T12:30:55.815Z</updated>
+        <content type="html"><![CDATA[05:02]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 예린(YERIN) - 밤밤밤(Bambambam) l 230830 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/39650907</id>
         <link href="https://tv.naver.com/v/39650907"/>
@@ -1129,7 +1136,7 @@
         <id>https://tv.naver.com/v/39649445</id>
         <link href="https://tv.naver.com/v/39649445"/>
         <updated>2023-08-30T10:17:25.977Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
+        <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[HOT DEBUT] 티아이오티(TIOT) - 백전무패 (百戰無敗) l 230830 (쇼챔피언)]]></title>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/38890830"/>
         <updated>2023-08-10T08:21:14.944Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HORI7ON - SIX7EEN (호라이즌 - 식스틴) | Show Champion | EP.487 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/38890643</id>
-        <link href="https://tv.naver.com/v/38890643"/>
-        <updated>2023-08-10T08:21:14.945Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 621회 〈핫셀럽 특집〉 우승자 ⭐조혜련⭐ | KBS 방송 (불후의 명곡)]]></title>
