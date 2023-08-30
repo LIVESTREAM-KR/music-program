@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-08-30T10:17:41.023Z</updated>
+    <updated>2023-08-30T11:13:48.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 예린(YERIN) - 밤밤밤(Bambambam) l 230830]]></title>
+        <id>https://tv.naver.com/v/39650907</id>
+        <link href="https://tv.naver.com/v/39650907"/>
+        <updated>2023-08-30T11:13:32.996Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 에버글로우(EVERGLOW) - SLAY l 230830]]></title>
         <id>https://tv.naver.com/v/39650694</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38890643"/>
         <updated>2023-08-10T08:21:14.945Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers - Koong (싸이커스 - 쿵) | Show Champion | EP.487]]></title>
-        <id>https://tv.naver.com/v/38890466</id>
-        <link href="https://tv.naver.com/v/38890466"/>
-        <updated>2023-08-10T08:21:14.945Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
