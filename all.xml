@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-31T11:13:48.037Z</updated>
+    <updated>2023-08-31T12:31:00.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,83 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' NCT U - Intro + Baggy Jeans | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698762</id>
+        <link href="https://tv.naver.com/v/39698762"/>
+        <updated>2023-08-31T12:30:31.489Z</updated>
+        <content type="html"><![CDATA[05:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[효연 (HYO) - Picture | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698760</id>
+        <link href="https://tv.naver.com/v/39698760"/>
+        <updated>2023-08-31T12:30:31.491Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' BAEKHO - 엘리베이터 | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698759</id>
+        <link href="https://tv.naver.com/v/39698759"/>
+        <updated>2023-08-31T12:30:31.492Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 전소미 - 금금금 | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698634</id>
+        <link href="https://tv.naver.com/v/39698634"/>
+        <updated>2023-08-31T12:30:31.495Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY - CAKE | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698632</id>
+        <link href="https://tv.naver.com/v/39698632"/>
+        <updated>2023-08-31T12:30:31.497Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' ENHYPEN(엔하이픈) - CRIMINAL LOVE | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698630</id>
+        <link href="https://tv.naver.com/v/39698630"/>
+        <updated>2023-08-31T12:30:31.497Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예린(YERIN) - 밤밤밤(Bambambam) | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698629</id>
+        <link href="https://tv.naver.com/v/39698629"/>
+        <updated>2023-08-31T12:30:31.498Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with NCT U (엔시티 유) | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698622</id>
+        <link href="https://tv.naver.com/v/39698622"/>
+        <updated>2023-08-31T12:30:31.499Z</updated>
+        <content type="html"><![CDATA[05:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC(스테이씨) - Bubble | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698428</id>
+        <link href="https://tv.naver.com/v/39698428"/>
+        <updated>2023-08-31T12:30:31.500Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVERGLOW(에버글로우) - SLAY | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698426</id>
+        <link href="https://tv.naver.com/v/39698426"/>
+        <updated>2023-08-31T12:30:31.502Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - HOMEBOY | Mnet 230831 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39698424</id>
+        <link href="https://tv.naver.com/v/39698424"/>
+        <updated>2023-08-31T12:30:31.503Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[VANNER(배너) - PERFORMER | Mnet 230831 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/39696530</id>
         <link href="https://tv.naver.com/v/39696530"/>
@@ -766,83 +843,6 @@
         <link href="https://tv.naver.com/v/39428270"/>
         <updated>2023-08-24T12:30:25.948Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전소미 - Fast Forward | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39428069</id>
-        <link href="https://tv.naver.com/v/39428069"/>
-        <updated>2023-08-24T12:30:25.949Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' THE BOYZ Special Unit - Passion Fruit | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39427782</id>
-        <link href="https://tv.naver.com/v/39427782"/>
-        <updated>2023-08-24T12:30:25.950Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with AKMU (악뮤) | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39426796</id>
-        <link href="https://tv.naver.com/v/39426796"/>
-        <updated>2023-08-24T12:30:25.950Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY - CAKE | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39426588</id>
-        <link href="https://tv.naver.com/v/39426588"/>
-        <updated>2023-08-24T11:13:42.813Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' STAYC(스테이씨) - Bubble | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39426582</id>
-        <link href="https://tv.naver.com/v/39426582"/>
-        <updated>2023-08-24T11:13:42.813Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 예린(YERIN) - 밤밤밤(Bambambam) | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39426390</id>
-        <link href="https://tv.naver.com/v/39426390"/>
-        <updated>2023-08-24T11:13:42.813Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' VANNER (배너) - PERFORMER | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39425956</id>
-        <link href="https://tv.naver.com/v/39425956"/>
-        <updated>2023-08-24T11:13:42.822Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' EVERGLOW(에버글로우) - SLAY | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39425954</id>
-        <link href="https://tv.naver.com/v/39425954"/>
-        <updated>2023-08-24T11:13:42.823Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' tripleS LOVElution - Girls' Capitalism | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39425738</id>
-        <link href="https://tv.naver.com/v/39425738"/>
-        <updated>2023-08-24T11:13:42.823Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DEBUT' TIOT(티아이오티) - 백전무패 (百戰無敗) | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39425614</id>
-        <link href="https://tv.naver.com/v/39425614"/>
-        <updated>2023-08-24T11:13:42.823Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 지효 (트와이스) (JIHYO (TWICE)) | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39425256</id>
-        <link href="https://tv.naver.com/v/39425256"/>
-        <updated>2023-08-24T11:13:42.823Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
