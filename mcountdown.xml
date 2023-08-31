@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-08-31T12:31:00.304Z</updated>
+    <updated>2023-08-31T13:20:40.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/39698759"/>
         <updated>2023-08-31T12:30:31.492Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER' M COUNTDOWN NEW MC | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39701416</id>
+        <link href="https://tv.naver.com/v/39701416"/>
+        <updated>2023-08-31T13:20:07.868Z</updated>
+        <content type="html"><![CDATA[00:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 전소미 - 금금금 | Mnet 230831 방송]]></title>
@@ -60,6 +67,13 @@
         <link href="https://tv.naver.com/v/39698622"/>
         <updated>2023-08-31T12:30:31.499Z</updated>
         <content type="html"><![CDATA[05:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 김우진 - 어른아이 (On My Way) | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39701192</id>
+        <link href="https://tv.naver.com/v/39701192"/>
+        <updated>2023-08-31T13:20:07.886Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STAYC(스테이씨) - Bubble | Mnet 230831 방송]]></title>
@@ -139,6 +153,13 @@
         <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['SPOILER M' RIIZE (라이즈) | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39695352</id>
+        <link href="https://tv.naver.com/v/39695352"/>
+        <updated>2023-08-31T13:20:07.952Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LIMELIGHT (라임라잇) - MADELEINE | Mnet 230831 방송]]></title>
         <id>https://tv.naver.com/v/39695014</id>
         <link href="https://tv.naver.com/v/39695014"/>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/39428537"/>
         <updated>2023-08-24T12:30:25.940Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT DEBUT' 지효 (TWICE) - Killin' Me Good | Mnet 230824 방송]]></title>
-        <id>https://tv.naver.com/v/39428534</id>
-        <link href="https://tv.naver.com/v/39428534"/>
-        <updated>2023-08-24T12:30:25.946Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT DEBUT' 지효 (TWICE) - Closer | Mnet 230824 방송]]></title>
-        <id>https://tv.naver.com/v/39428271</id>
-        <link href="https://tv.naver.com/v/39428271"/>
-        <updated>2023-08-24T12:30:25.947Z</updated>
-        <content type="html"><![CDATA[01:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' aespa - Better Things | Mnet 230824 방송]]></title>
-        <id>https://tv.naver.com/v/39428270</id>
-        <link href="https://tv.naver.com/v/39428270"/>
-        <updated>2023-08-24T12:30:25.948Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
