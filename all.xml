@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-31T07:15:43.862Z</updated>
+    <updated>2023-08-31T08:21:37.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[04:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] STAYC.zip 📂 SO BAD 부터 Bubble 까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39644781</id>
+        <link href="https://tv.naver.com/v/39644781"/>
+        <updated>2023-08-31T08:20:52.392Z</updated>
+        <content type="html"><![CDATA[33:46]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] JEON SOMI.zip 📂 BIRTHDAY부터 Fast Forward까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/39638205</id>
         <link href="https://tv.naver.com/v/39638205"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/39495662"/>
         <updated>2023-08-26T10:15:42.303Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] JIHYO – Killin' Me Good(지효 - 킬링 미 굿) FanCam | Show! MusicCore | MBC230826방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39495661</id>
-        <link href="https://tv.naver.com/v/39495661"/>
-        <updated>2023-08-26T10:15:42.309Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230827 방송 (인기가요)]]></title>
@@ -1055,6 +1055,41 @@
         <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] SECRET NUMBER - STARLIGHT (시크릿넘버 - 스타라이트) | Show Champion | EP.489 | 230830 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39654071</id>
+        <link href="https://tv.naver.com/v/39654071"/>
+        <updated>2023-08-31T08:21:20.765Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] XG - NEW DANCE (엑스지 - 뉴 댄스) | Show Champion | EP.489 | 230830 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39654330</id>
+        <link href="https://tv.naver.com/v/39654330"/>
+        <updated>2023-08-31T08:21:20.772Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] YERIN - Bambambam (예린 - 밤밤밤) | Show Champion | EP.489 | 230830 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39654074</id>
+        <link href="https://tv.naver.com/v/39654074"/>
+        <updated>2023-08-31T08:21:20.772Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ARTBEAT v - DUBI DUBI (아트비트 브이 - 두비두비) | Show Champion | EP.489 | 230830 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39653560</id>
+        <link href="https://tv.naver.com/v/39653560"/>
+        <updated>2023-08-31T08:21:20.772Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] LE'V - A.I.BAE (레비 - 에이아이베) | Show Champion | EP.489 | 230830 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39653309</id>
+        <link href="https://tv.naver.com/v/39653309"/>
+        <updated>2023-08-31T08:21:20.772Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[STAYC 모두가 부른 각양각색 Bubble🫧 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/39687039</id>
         <link href="https://tv.naver.com/v/39687039"/>
@@ -1227,41 +1262,6 @@
         <id>https://tv.naver.com/v/39638204</id>
         <link href="https://tv.naver.com/v/39638204"/>
         <updated>2023-08-30T13:19:47.308Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVERGLOW YIREN - SLAY (에버글로우 이런 - 슬레이) | Show Champion | EP.489 l 230830 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/39638202</id>
-        <link href="https://tv.naver.com/v/39638202"/>
-        <updated>2023-08-30T13:19:47.310Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TIOT KUM JUNHYEON - Unbeatable (티아이오티 금준현 - 백전무패) l Show Champion | EP.489 l 230830 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/39637763</id>
-        <link href="https://tv.naver.com/v/39637763"/>
-        <updated>2023-08-30T13:19:47.313Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TIOT - Unbeatable (티아이오티 - 백전무패) l Show Champion l EP.489 l 230830 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/39637464</id>
-        <link href="https://tv.naver.com/v/39637464"/>
-        <updated>2023-08-30T13:19:47.315Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVERGLOW ONDA - SLAY (에버글로우 온다 - 슬레이) | Show Champion | EP.489 l 230830 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/39637042</id>
-        <link href="https://tv.naver.com/v/39637042"/>
-        <updated>2023-08-30T13:19:47.317Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVERGLOW AISHA - SLAY (에버글로우 아샤 - 슬레이) | Show Champion | EP.489 l 230830 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/39636745</id>
-        <link href="https://tv.naver.com/v/39636745"/>
-        <updated>2023-08-30T13:19:47.319Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
     </entry>
     <entry>
