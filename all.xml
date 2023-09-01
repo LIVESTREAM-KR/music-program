@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-01T08:21:00.967Z</updated>
+    <updated>2023-09-01T09:16:13.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[HOMEBOY - xikers(싸이커스) | KBS 230901 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39737332</id>
+        <link href="https://tv.naver.com/v/39737332"/>
+        <updated>2023-09-01T09:15:22.053Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SYNCHRONIZE - X:IN | KBS 230901 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39737312</id>
+        <link href="https://tv.naver.com/v/39737312"/>
+        <updated>2023-09-01T09:15:22.053Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher - n.SSign(엔싸인) | KBS 230901 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39737118</id>
+        <link href="https://tv.naver.com/v/39737118"/>
+        <updated>2023-09-01T09:15:22.054Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planet - BXB(비엑스비) | KBS 230901 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/39736680</id>
+        <link href="https://tv.naver.com/v/39736680"/>
+        <updated>2023-09-01T09:15:22.056Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/39468866</id>
@@ -187,32 +215,18 @@
         <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TAXI - 조유리 | KBS 230818 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39209434</id>
-        <link href="https://tv.naver.com/v/39209434"/>
-        <updated>2023-08-18T10:16:03.203Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
+        <title type="html"><![CDATA[[STAGE MIX🪄] OH MY GIRL – Summer Comes(오마이걸 - 여름이 들려) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39737516</id>
+        <link href="https://tv.naver.com/v/39737516"/>
+        <updated>2023-09-01T09:15:29.374Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[말했잖아 - 다크비(DKB) | KBS 230818 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39209425</id>
-        <link href="https://tv.naver.com/v/39209425"/>
-        <updated>2023-08-18T10:16:03.214Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girls’ Capitalism - tripleS LOVElution | KBS 230818 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39209277</id>
-        <link href="https://tv.naver.com/v/39209277"/>
-        <updated>2023-08-18T09:14:50.487Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웜홀 (Wormhole: New Track) - n.SSign(엔싸인) | KBS 230818 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39208672</id>
-        <link href="https://tv.naver.com/v/39208672"/>
-        <updated>2023-08-18T09:14:50.488Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
+        <title type="html"><![CDATA[[예능연구소] August TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39718383</id>
+        <link href="https://tv.naver.com/v/39718383"/>
+        <updated>2023-09-01T09:15:29.374Z</updated>
+        <content type="html"><![CDATA[32:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] STAYC.zip 📂 SO BAD 부터 Bubble 까지 | Show! MusicCore (쇼! 음악중심)]]></title>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/39495667"/>
         <updated>2023-08-26T10:15:42.294Z</updated>
         <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] JEON SOMI - Fast Forward(전소미 – 패스트 포워드) FanCam (Horizontal Ver.) |Show!MusicCore|MBC230826방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39495663</id>
-        <link href="https://tv.naver.com/v/39495663"/>
-        <updated>2023-08-26T10:15:42.301Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHANWON - TwistGoGo(이찬원 – 트위스트고고) FanCam (Horizontal Ver.) | Show! MusicCore|MBC230826방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39495662</id>
-        <link href="https://tv.naver.com/v/39495662"/>
-        <updated>2023-08-26T10:15:42.303Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230827 방송 (인기가요)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[04:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 퍼포먼스 맛집 싸이커스의 K-POP 메들리🎶 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39737328</id>
+        <link href="https://tv.naver.com/v/39737328"/>
+        <updated>2023-09-01T09:16:05.627Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 621회 〈핫셀럽 특집〉 우승자 ⭐조혜련⭐ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/39500332</id>
         <link href="https://tv.naver.com/v/39500332"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/39238696"/>
         <updated>2023-08-19T11:12:29.929Z</updated>
         <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서진 - 빠라빠빠 | KBS 230819 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39238468</id>
-        <link href="https://tv.naver.com/v/39238468"/>
-        <updated>2023-08-19T11:12:29.931Z</updated>
-        <content type="html"><![CDATA[05:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 항시적으로 사랑받는💖하이 텐션의 서준맘! 방송인 박세미 하이라이트 모음✨, MBC 230827 방송 (복면가왕)]]></title>

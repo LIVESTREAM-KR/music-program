@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-01T08:21:00.953Z</updated>
+    <updated>2023-09-01T09:16:13.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] OH MY GIRL – Summer Comes(오마이걸 - 여름이 들려) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/39737516</id>
+        <link href="https://tv.naver.com/v/39737516"/>
+        <updated>2023-09-01T09:15:29.374Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] August TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/39718383</id>
+        <link href="https://tv.naver.com/v/39718383"/>
+        <updated>2023-09-01T09:15:29.374Z</updated>
+        <content type="html"><![CDATA[32:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] STAYC.zip 📂 SO BAD 부터 Bubble 까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/39644781</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39495667"/>
         <updated>2023-08-26T10:15:42.294Z</updated>
         <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] JEON SOMI - Fast Forward(전소미 – 패스트 포워드) FanCam (Horizontal Ver.) |Show!MusicCore|MBC230826방]]></title>
-        <id>https://tv.naver.com/v/39495663</id>
-        <link href="https://tv.naver.com/v/39495663"/>
-        <updated>2023-08-26T10:15:42.301Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHANWON - TwistGoGo(이찬원 – 트위스트고고) FanCam (Horizontal Ver.) | Show! MusicCore|MBC230826방]]></title>
-        <id>https://tv.naver.com/v/39495662</id>
-        <link href="https://tv.naver.com/v/39495662"/>
-        <updated>2023-08-26T10:15:42.303Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>

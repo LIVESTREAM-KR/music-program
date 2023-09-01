@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-01T08:21:00.962Z</updated>
+    <updated>2023-09-01T09:16:13.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 퍼포먼스 맛집 싸이커스의 K-POP 메들리🎶 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/39737328</id>
+        <link href="https://tv.naver.com/v/39737328"/>
+        <updated>2023-09-01T09:16:05.627Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 621회 〈핫셀럽 특집〉 우승자 ⭐조혜련⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/39500332</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39238696"/>
         <updated>2023-08-19T11:12:29.929Z</updated>
         <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박서진 - 빠라빠빠 | KBS 230819 방송]]></title>
-        <id>https://tv.naver.com/v/39238468</id>
-        <link href="https://tv.naver.com/v/39238468"/>
-        <updated>2023-08-19T11:12:29.931Z</updated>
-        <content type="html"><![CDATA[05:25]]></content>
     </entry>
 </feed>

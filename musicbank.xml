@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2023-09-01T08:21:01.347Z</updated>
+    <updated>2023-09-01T09:16:13.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HOMEBOY - xikers(싸이커스) | KBS 230901 방송]]></title>
+        <id>https://tv.naver.com/v/39737332</id>
+        <link href="https://tv.naver.com/v/39737332"/>
+        <updated>2023-09-01T09:15:22.053Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SYNCHRONIZE - X:IN | KBS 230901 방송]]></title>
+        <id>https://tv.naver.com/v/39737312</id>
+        <link href="https://tv.naver.com/v/39737312"/>
+        <updated>2023-09-01T09:15:22.053Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher - n.SSign(엔싸인) | KBS 230901 방송]]></title>
+        <id>https://tv.naver.com/v/39737118</id>
+        <link href="https://tv.naver.com/v/39737118"/>
+        <updated>2023-09-01T09:15:22.054Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planet - BXB(비엑스비) | KBS 230901 방송]]></title>
+        <id>https://tv.naver.com/v/39736680</id>
+        <link href="https://tv.naver.com/v/39736680"/>
+        <updated>2023-09-01T09:15:22.056Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송]]></title>
         <id>https://tv.naver.com/v/39468866</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/39209737"/>
         <updated>2023-08-18T10:16:03.203Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAXI - 조유리 | KBS 230818 방송]]></title>
-        <id>https://tv.naver.com/v/39209434</id>
-        <link href="https://tv.naver.com/v/39209434"/>
-        <updated>2023-08-18T10:16:03.203Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말했잖아 - 다크비(DKB) | KBS 230818 방송]]></title>
-        <id>https://tv.naver.com/v/39209425</id>
-        <link href="https://tv.naver.com/v/39209425"/>
-        <updated>2023-08-18T10:16:03.214Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girls’ Capitalism - tripleS LOVElution | KBS 230818 방송]]></title>
-        <id>https://tv.naver.com/v/39209277</id>
-        <link href="https://tv.naver.com/v/39209277"/>
-        <updated>2023-08-18T09:14:50.487Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웜홀 (Wormhole: New Track) - n.SSign(엔싸인) | KBS 230818 방송]]></title>
-        <id>https://tv.naver.com/v/39208672</id>
-        <link href="https://tv.naver.com/v/39208672"/>
-        <updated>2023-08-18T09:14:50.488Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>
