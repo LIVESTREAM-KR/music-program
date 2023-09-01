@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-01T05:15:24.834Z</updated>
+    <updated>2023-09-01T06:21:46.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예린 - Bambambam ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/39726674</id>
+        <link href="https://tv.naver.com/v/39726674"/>
+        <updated>2023-09-01T06:21:31.399Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8월 5주차 쇼챔피언 🍩MC 달나츠🌙 모음.zip (woo!ah! 나나, Billlie 문수아&츠키) | Show Champion | EP.489 | 230830]]></title>
         <id>https://tv.naver.com/v/39684431</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/39639487</id>
         <link href="https://tv.naver.com/v/39639487"/>
         <updated>2023-08-30T13:19:47.303Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign JUNHYEOK - Wormhole: New Track (엔싸인 준혁 - 웜홀) | Show Champion | EP.489 | 230830]]></title>
-        <id>https://tv.naver.com/v/39638982</id>
-        <link href="https://tv.naver.com/v/39638982"/>
-        <updated>2023-08-30T13:19:47.306Z</updated>
         <content type="html"><![CDATA[04:00]]></content>
     </entry>
 </feed>
