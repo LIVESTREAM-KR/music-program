@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-02T06:19:41.670Z</updated>
+    <updated>2023-09-02T07:14:17.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[티아이오티 - 백전무패(百戰無敗) (TIOT - Unbeatable), MBC 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39763759</id>
+        <link href="https://tv.naver.com/v/39763759"/>
+        <updated>2023-09-02T07:13:27.420Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우시 - 항해 (Woshi - moon), MBC 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39763734</id>
+        <link href="https://tv.naver.com/v/39763734"/>
+        <updated>2023-09-02T07:13:27.426Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김소연 - 도장을 찍어 (Kim So Yeon - Pick Me), MBC 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39763470</id>
+        <link href="https://tv.naver.com/v/39763470"/>
+        <updated>2023-09-02T07:13:27.427Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] THE BOYZ.zip 📂 BOY(소년)부터 Passion Fruit까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/39742303</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/39495673"/>
         <updated>2023-08-26T10:15:42.281Z</updated>
         <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] THE BOYZ – Passion Fruit(더보이즈 - 패션프루트) FanCam | Show! MusicCore | MBC230826방송]]></title>
-        <id>https://tv.naver.com/v/39495672</id>
-        <link href="https://tv.naver.com/v/39495672"/>
-        <updated>2023-08-26T10:15:42.286Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY - CAKE(있지 – 케이크) FanCam | Show! MusicCore | MBC230826방송]]></title>
-        <id>https://tv.naver.com/v/39495669</id>
-        <link href="https://tv.naver.com/v/39495669"/>
-        <updated>2023-08-26T10:15:42.289Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] n.SSign HANJUN - Wormhole : New Track(엔싸인 한준 - 웜홀) FanCam | Show! MusicCore | MBC230826방송]]></title>
-        <id>https://tv.naver.com/v/39495668</id>
-        <link href="https://tv.naver.com/v/39495668"/>
-        <updated>2023-08-26T10:15:42.291Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
     </entry>
 </feed>
