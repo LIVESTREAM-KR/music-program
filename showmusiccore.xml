@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-02T10:15:35.488Z</updated>
+    <updated>2023-09-02T11:12:36.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VANNER - PERFORMER(배너 – 퍼포머) FanCam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39769440</id>
+        <link href="https://tv.naver.com/v/39769440"/>
+        <updated>2023-09-02T11:11:52.536Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] n.SSign KAZUTA - Wormhole : New Track(엔싸인 카즈타 - 웜홀) FanCam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39769439</id>
+        <link href="https://tv.naver.com/v/39769439"/>
+        <updated>2023-09-02T11:11:52.536Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VANNER HYESUNG – PERFORMER(배너 혜성 - 퍼포머) FanCam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39769307</id>
+        <link href="https://tv.naver.com/v/39769307"/>
+        <updated>2023-09-02T11:11:52.538Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] xikers YECHAN – HOMEBOY(싸이커스 예찬 - 홈보이) FanCam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39769305</id>
+        <link href="https://tv.naver.com/v/39769305"/>
+        <updated>2023-09-02T11:11:52.540Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] xikers HUNTER – HOMEBOY(싸이커스 헌터 - 홈보이) FanCam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39769302</id>
+        <link href="https://tv.naver.com/v/39769302"/>
+        <updated>2023-09-02T11:11:52.542Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] tripleS LOVElution - Girls’ Capitalism(트리플에스 러블루션–걸스 캐피탈리즘)FanCam|Show!MusicCore|MBC230902방]]></title>
+        <id>https://tv.naver.com/v/39769203</id>
+        <link href="https://tv.naver.com/v/39769203"/>
+        <updated>2023-09-02T11:11:52.556Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] STAYC – I Wanna Do(스테이씨 - 아이 워너 두) FanCam | Show! MusicCore | MBC230902방송]]></title>
         <id>https://tv.naver.com/v/39767653</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/39765829"/>
         <updated>2023-09-02T09:13:28.977Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지 - 케이크 (ITZY - CAKE), MBC 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39765736</id>
-        <link href="https://tv.naver.com/v/39765736"/>
-        <updated>2023-09-02T09:13:28.978Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 - 버블 (STAYC - Bubble), MBC 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39765470</id>
-        <link href="https://tv.naver.com/v/39765470"/>
-        <updated>2023-09-02T08:17:43.180Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 - 아이 워너 두 (STAYC - I Wanna Do), MBC 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39765467</id>
-        <link href="https://tv.naver.com/v/39765467"/>
-        <updated>2023-09-02T08:17:43.184Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이커스 - 홈보이 (xikers - HOMEBOY), MBC 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39765223</id>
-        <link href="https://tv.naver.com/v/39765223"/>
-        <updated>2023-09-02T08:17:43.186Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배너 - 퍼포머 (VANNER - PERFORMER), MBC 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39764715</id>
-        <link href="https://tv.naver.com/v/39764715"/>
-        <updated>2023-09-02T08:17:43.188Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리플에스 러블루션 - 걸스 캐피탈리즘 (tripleS LOVElution - Girls' Capitalism), MBC 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39764450</id>
-        <link href="https://tv.naver.com/v/39764450"/>
-        <updated>2023-09-02T08:17:43.192Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>

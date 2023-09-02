@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-02T10:15:35.496Z</updated>
+    <updated>2023-09-02T11:12:36.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Bubble - STAYC(스테이씨) | KBS 230901 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,48 @@
         <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] VANNER - PERFORMER(배너 – 퍼포머) FanCam | Show! MusicCore | MBC230902방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39769440</id>
+        <link href="https://tv.naver.com/v/39769440"/>
+        <updated>2023-09-02T11:11:52.536Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] n.SSign KAZUTA - Wormhole : New Track(엔싸인 카즈타 - 웜홀) FanCam | Show! MusicCore | MBC230902방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39769439</id>
+        <link href="https://tv.naver.com/v/39769439"/>
+        <updated>2023-09-02T11:11:52.536Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] VANNER HYESUNG – PERFORMER(배너 혜성 - 퍼포머) FanCam | Show! MusicCore | MBC230902방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39769307</id>
+        <link href="https://tv.naver.com/v/39769307"/>
+        <updated>2023-09-02T11:11:52.538Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] xikers YECHAN – HOMEBOY(싸이커스 예찬 - 홈보이) FanCam | Show! MusicCore | MBC230902방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39769305</id>
+        <link href="https://tv.naver.com/v/39769305"/>
+        <updated>2023-09-02T11:11:52.540Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] xikers HUNTER – HOMEBOY(싸이커스 헌터 - 홈보이) FanCam | Show! MusicCore | MBC230902방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39769302</id>
+        <link href="https://tv.naver.com/v/39769302"/>
+        <updated>2023-09-02T11:11:52.542Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] tripleS LOVElution - Girls’ Capitalism(트리플에스 러블루션–걸스 캐피탈리즘)FanCam|Show!MusicCore|MBC230902방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39769203</id>
+        <link href="https://tv.naver.com/v/39769203"/>
+        <updated>2023-09-02T11:11:52.556Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] STAYC – I Wanna Do(스테이씨 - 아이 워너 두) FanCam | Show! MusicCore | MBC230902방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/39767653</id>
         <link href="https://tv.naver.com/v/39767653"/>
@@ -381,48 +423,6 @@
         <link href="https://tv.naver.com/v/39765829"/>
         <updated>2023-09-02T09:13:28.977Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있지 - 케이크 (ITZY - CAKE), MBC 230902 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39765736</id>
-        <link href="https://tv.naver.com/v/39765736"/>
-        <updated>2023-09-02T09:13:28.978Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 - 버블 (STAYC - Bubble), MBC 230902 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39765470</id>
-        <link href="https://tv.naver.com/v/39765470"/>
-        <updated>2023-09-02T08:17:43.180Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 - 아이 워너 두 (STAYC - I Wanna Do), MBC 230902 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39765467</id>
-        <link href="https://tv.naver.com/v/39765467"/>
-        <updated>2023-09-02T08:17:43.184Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이커스 - 홈보이 (xikers - HOMEBOY), MBC 230902 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39765223</id>
-        <link href="https://tv.naver.com/v/39765223"/>
-        <updated>2023-09-02T08:17:43.186Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배너 - 퍼포머 (VANNER - PERFORMER), MBC 230902 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39764715</id>
-        <link href="https://tv.naver.com/v/39764715"/>
-        <updated>2023-09-02T08:17:43.188Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리플에스 러블루션 - 걸스 캐피탈리즘 (tripleS LOVElution - Girls' Capitalism), MBC 230902 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39764450</id>
-        <link href="https://tv.naver.com/v/39764450"/>
-        <updated>2023-09-02T08:17:43.192Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유노윤호(U-KNOW) - Vuja De | SBS 230827 방송 (인기가요)]]></title>
@@ -1265,6 +1265,76 @@
         <content type="html"><![CDATA[04:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김수철의 한계 없는 음악 인생🎸 2002년 UN 본주에서 ‘기타 산조’ 연주를? | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39769463</id>
+        <link href="https://tv.naver.com/v/39769463"/>
+        <updated>2023-09-02T11:12:28.950Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영혼을 울리는 목소리, 음색만으로 절절한 뭉클함을 전해준 조장혁의 무대 | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39769444</id>
+        <link href="https://tv.naver.com/v/39769444"/>
+        <updated>2023-09-02T11:12:28.950Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조장혁 - 별리 | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39769441</id>
+        <link href="https://tv.naver.com/v/39769441"/>
+        <updated>2023-09-02T11:12:28.952Z</updated>
+        <content type="html"><![CDATA[04:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무대보다 더 긴장되는 김수철과의 첫 대면! (ft. 녹음실 영웅담의 진실) | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39769210</id>
+        <link href="https://tv.naver.com/v/39769210"/>
+        <updated>2023-09-02T11:12:28.966Z</updated>
+        <content type="html"><![CDATA[01:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명품 보컬리스트 조장혁🎙️ 김수철의 녹음실 영웅담? 오늘의 선곡은! | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39769170</id>
+        <link href="https://tv.naver.com/v/39769170"/>
+        <updated>2023-09-02T11:12:28.967Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 특별 게스트⭐️ 양희은 이성미 김혜영! 김수철과 친해진 계기는? | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39769057</id>
+        <link href="https://tv.naver.com/v/39769057"/>
+        <updated>2023-09-02T11:12:28.967Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나상현씨밴드 - 싫어 싫어 | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39768824</id>
+        <link href="https://tv.naver.com/v/39768824"/>
+        <updated>2023-09-02T11:12:28.968Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[관악의 기운이 서린 엘리트 록밴드 나상현씨밴드! MBTI토크&격파 개인기👊😆 | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39768719</id>
+        <link href="https://tv.naver.com/v/39768719"/>
+        <updated>2023-09-02T11:12:28.969Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전율을 넘어선 공포? 다음 순서를 떨게 하는 가창력을✨️ 보여준 ＜프리다＞ 팀 | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39768546</id>
+        <link href="https://tv.naver.com/v/39768546"/>
+        <updated>2023-09-02T11:12:28.969Z</updated>
+        <content type="html"><![CDATA[01:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 ＜프리다＞ (리사&알리&스테파니&황우림) - 내일 | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39768416</id>
+        <link href="https://tv.naver.com/v/39768416"/>
+        <updated>2023-09-02T11:12:28.970Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[김수철 - 모두 다 사랑하리 | KBS 230902 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/39768162</id>
         <link href="https://tv.naver.com/v/39768162"/>
@@ -1403,76 +1473,6 @@
         <link href="https://tv.naver.com/v/39496284"/>
         <updated>2023-08-26T11:13:02.283Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍석천 - 첫인상 | KBS 230826 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39496060</id>
-        <link href="https://tv.naver.com/v/39496060"/>
-        <updated>2023-08-26T11:13:02.285Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천상 연예인 홍석천🕺 첫 순서 당첨에 잃어버린 이성🤣 | KBS 230826 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39495945</id>
-        <link href="https://tv.naver.com/v/39495945"/>
-        <updated>2023-08-26T11:13:02.287Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[축가계의 핫 셀럽 조혜련🎶 축가 쇄도의 비하인드 스토리! | KBS 230826 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39495790</id>
-        <link href="https://tv.naver.com/v/39495790"/>
-        <updated>2023-08-26T10:16:16.462Z</updated>
-        <content type="html"><![CDATA[02:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아나운서계 셀럽 K-아나 김일중💕 유일한 경험자! 당시 불만이 가득했다고?! | KBS 230826 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39495679</id>
-        <link href="https://tv.naver.com/v/39495679"/>
-        <updated>2023-08-26T10:16:16.462Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 최정상 프로파일러🕵️ 권일용&표창원이 불후에 떴다? 전무후무한 무대🔥 | KBS 230826 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39495558</id>
-        <link href="https://tv.naver.com/v/39495558"/>
-        <updated>2023-08-26T10:16:16.462Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로트 프린스와 지독하게 얽히고 싶은 마음💟 박현빈의 마지막 큰 그림은? | KBS 230826 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39495428</id>
-        <link href="https://tv.naver.com/v/39495428"/>
-        <updated>2023-08-26T10:16:16.462Z</updated>
-        <content type="html"><![CDATA[01:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 🔥핫 셀럽 특집🔥 사전 약속되지 않은 퍼포먼스? 놓치지 마세요🌟 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39239336</id>
-        <link href="https://tv.naver.com/v/39239336"/>
-        <updated>2023-08-19T12:27:14.448Z</updated>
-        <content type="html"><![CDATA[00:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전율하게 만드는 카리스마! 한 마리의 재규어 같았던 정다경의 무대🔥 | KBS 230819 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39239069</id>
-        <link href="https://tv.naver.com/v/39239069"/>
-        <updated>2023-08-19T12:27:14.450Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정다경 - 앗! 뜨거 | KBS 230819 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39238938</id>
-        <link href="https://tv.naver.com/v/39238938"/>
-        <updated>2023-08-19T12:27:14.452Z</updated>
-        <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※결과 확인※ 나태주 vs 정다경 명곡판정단의 마지막 선택! 결과는 과연? | KBS 230819 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39238927</id>
-        <link href="https://tv.naver.com/v/39238927"/>
-        <updated>2023-08-19T12:27:14.454Z</updated>
-        <content type="html"><![CDATA[02:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 항시적으로 사랑받는💖하이 텐션의 서준맘! 방송인 박세미 하이라이트 모음✨, MBC 230827 방송 (복면가왕)]]></title>
