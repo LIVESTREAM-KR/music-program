@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-02T09:14:11.385Z</updated>
+    <updated>2023-09-02T10:15:35.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수철 - 모두 다 사랑하리 | KBS 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39768162</id>
+        <link href="https://tv.naver.com/v/39768162"/>
+        <updated>2023-09-02T10:15:27.726Z</updated>
+        <content type="html"><![CDATA[07:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우승 시 트로피는 누구에게? 리사&알리&스테파니&황우림 뮤지컬 어벤저스가 떴다✨️ | KBS 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39768160</id>
+        <link href="https://tv.naver.com/v/39768160"/>
+        <updated>2023-09-02T10:15:27.727Z</updated>
+        <content type="html"><![CDATA[01:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 청량돌 싸이커스! 신인의 패기 예열중🔥 찬또에게 도착한 에이티즈의 응원 | KBS 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39768030</id>
+        <link href="https://tv.naver.com/v/39768030"/>
+        <updated>2023-09-02T10:15:27.734Z</updated>
+        <content type="html"><![CDATA[02:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 퍼포먼스 맛집 싸이커스의 K-POP 메들리🎶 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/39737328</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/39238927"/>
         <updated>2023-08-19T12:27:14.454Z</updated>
         <content type="html"><![CDATA[02:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내려놓은 것은 신발뿐🥋  왕중왕전 급의 무대를✨ 준비한 나태주! | KBS 230819 방송]]></title>
-        <id>https://tv.naver.com/v/39238729</id>
-        <link href="https://tv.naver.com/v/39238729"/>
-        <updated>2023-08-19T12:27:14.457Z</updated>
-        <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나태주 - 대찬인생 | KBS 230819 방송]]></title>
-        <id>https://tv.naver.com/v/39238697</id>
-        <link href="https://tv.naver.com/v/39238697"/>
-        <updated>2023-08-19T11:12:29.927Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나태주의 새빨간 거짓말?🤣 오늘의 선곡은! 정다경의 쌓이는 분노🔥 | KBS 230819 방송]]></title>
-        <id>https://tv.naver.com/v/39238696</id>
-        <link href="https://tv.naver.com/v/39238696"/>
-        <updated>2023-08-19T11:12:29.929Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
