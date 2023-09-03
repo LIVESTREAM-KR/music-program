@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-03T11:13:02.446Z</updated>
+    <updated>2023-09-03T12:28:14.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Bubble - STAYC(스테이씨) | KBS 230901 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,27 @@
         <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[＜🔥 불타는 경쟁 속 왕좌의 주인공은? 🔥＞ 복면가왕 420회 예고, MBC 230910 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39797932</id>
+        <link href="https://tv.naver.com/v/39797932"/>
+        <updated>2023-09-03T12:28:13.498Z</updated>
+        <content type="html"><![CDATA[00:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['난 노래가 좋탁구'의 정체는 타이푼 우재!, MBC 230903 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39796324</id>
+        <link href="https://tv.naver.com/v/39796324"/>
+        <updated>2023-09-03T12:28:13.499Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['1급 특수요원'의 가왕 방어전 무대 - 날아, MBC 230903 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/39796035</id>
+        <link href="https://tv.naver.com/v/39796035"/>
+        <updated>2023-09-03T12:28:13.501Z</updated>
+        <content type="html"><![CDATA[04:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['탕후루'의 정체는 뮤지컬 배우 김영주!, MBC 230903 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/39795583</id>
         <link href="https://tv.naver.com/v/39795583"/>
@@ -1662,26 +1683,5 @@
         <link href="https://tv.naver.com/v/39519364"/>
         <updated>2023-08-27T10:16:17.410Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['세차장'의 정체는 래퍼 키드밀리!, MBC 230827 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/39519338</id>
-        <link href="https://tv.naver.com/v/39519338"/>
-        <updated>2023-08-27T10:16:17.437Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찌드래곤 집어삼킨 듯😆 '세차장'의 찌드래곤 성대모사 개인기, MBC 230827 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/39518540</id>
-        <link href="https://tv.naver.com/v/39518540"/>
-        <updated>2023-08-27T10:16:17.437Z</updated>
-        <content type="html"><![CDATA[01:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['주차장' VS '세차장'의 1라운드 무대 - 나비효과, MBC 230827 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/39518263</id>
-        <link href="https://tv.naver.com/v/39518263"/>
-        <updated>2023-08-27T10:16:17.439Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
