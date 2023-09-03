@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-03T08:18:55.500Z</updated>
+    <updated>2023-09-03T09:15:25.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[상큼함이 톡톡 터지는 엔딩 모음zip 🫧]]></title>
+        <id>https://tv.naver.com/v/39739264</id>
+        <link href="https://tv.naver.com/v/39739264"/>
+        <updated>2023-09-03T09:15:08.659Z</updated>
+        <content type="html"><![CDATA[00:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예린 - Bambambam ㅣ 쇼챔피언]]></title>
         <id>https://tv.naver.com/v/39726674</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/39639760</id>
         <link href="https://tv.naver.com/v/39639760"/>
         <updated>2023-08-30T13:19:47.301Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign - Wormhole: New Track (엔싸인 - 웜홀) l Show Champion l EP.489 | 230830]]></title>
-        <id>https://tv.naver.com/v/39639487</id>
-        <link href="https://tv.naver.com/v/39639487"/>
-        <updated>2023-08-30T13:19:47.303Z</updated>
         <content type="html"><![CDATA[04:00]]></content>
     </entry>
 </feed>
