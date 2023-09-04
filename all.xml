@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-04T08:21:45.450Z</updated>
+    <updated>2023-09-04T09:17:41.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Beautiful Monster - HEEO | KBS 230901 방송 (뮤직뱅크)]]></title>
@@ -1062,6 +1062,13 @@
         <content type="html"><![CDATA[00:55]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[같은 꿈을 꾸는 이 순간이 영원하길🤩 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39822707</id>
+        <link href="https://tv.naver.com/v/39822707"/>
+        <updated>2023-09-04T09:17:23.588Z</updated>
+        <content type="html"><![CDATA[00:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[상큼함이 톡톡 터지는 엔딩 모음zip 🫧 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/39739264</id>
         <link href="https://tv.naver.com/v/39739264"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/39644785</id>
         <link href="https://tv.naver.com/v/39644785"/>
         <updated>2023-08-30T13:19:47.297Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers HYUNWOO - HOMEBOY (싸이커스 현우 - 홈보이) | Show Champion | EP.489 | 230830 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/39644260</id>
-        <link href="https://tv.naver.com/v/39644260"/>
-        <updated>2023-08-30T13:19:47.299Z</updated>
         <content type="html"><![CDATA[04:22]]></content>
     </entry>
     <entry>
