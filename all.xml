@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-04T06:22:01.414Z</updated>
+    <updated>2023-09-04T07:15:34.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Beautiful Monster - HEEO | KBS 230901 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] TIOT KIM MIN SEOUNG – Unbeatable(티아이오티 김민성 - 백전무패) FanCam | Show! MusicCore | MBC230902방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/39827995</id>
+        <link href="https://tv.naver.com/v/39827995"/>
+        <updated>2023-09-04T07:14:51.920Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 마크 , 9월 첫째 주 음악중심 MC 컷 모음!, MBC 230902 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/39816599</id>
         <link href="https://tv.naver.com/v/39816599"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/39766691"/>
         <updated>2023-09-02T09:13:28.973Z</updated>
         <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼! 음악중심, 예능연구소, 엔시티 유, 마크, MARK, NCT U, 배기 진스, Baggy Jeans, 엔시티 유 직캠, 배기 진스 직캠, 마크 직캠, NCT U Fancam (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/39766690</id>
-        <link href="https://tv.naver.com/v/39766690"/>
-        <updated>2023-09-02T09:13:28.973Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT U - Baggy Jeans | SBS 230903 방송 (인기가요)]]></title>
