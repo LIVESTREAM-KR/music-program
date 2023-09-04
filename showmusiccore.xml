@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-04T07:15:34.364Z</updated>
+    <updated>2023-09-04T08:21:45.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT U MARK - Baggy Jeans(엔시티 유 마크 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39829995</id>
+        <link href="https://tv.naver.com/v/39829995"/>
+        <updated>2023-09-04T08:21:02.877Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT U DOYOUNG - Baggy Jeans(엔시티 유 도영 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39829726</id>
+        <link href="https://tv.naver.com/v/39829726"/>
+        <updated>2023-09-04T08:21:02.879Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT U JAEHYUN - Baggy Jeans(엔시티 유 재현 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39829501</id>
+        <link href="https://tv.naver.com/v/39829501"/>
+        <updated>2023-09-04T08:21:02.895Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT U TEN - Baggy Jeans(엔시티 유 텐 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39829152</id>
+        <link href="https://tv.naver.com/v/39829152"/>
+        <updated>2023-09-04T08:21:02.898Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT U TAEYONG - Baggy Jeans(엔시티 유 태용 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230902방송]]></title>
+        <id>https://tv.naver.com/v/39829149</id>
+        <link href="https://tv.naver.com/v/39829149"/>
+        <updated>2023-09-04T08:21:02.921Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TIOT KUM JUNHYEON - Unbeatable(티아이오티 금준현 - 백전무패) Close-up Cam | Show! MusicCore |MBC230902방]]></title>
+        <id>https://tv.naver.com/v/39828188</id>
+        <link href="https://tv.naver.com/v/39828188"/>
+        <updated>2023-09-04T08:21:02.931Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TIOT KIM MIN SEOUNG – Unbeatable(티아이오티 김민성 - 백전무패) FanCam | Show! MusicCore | MBC230902방송]]></title>
         <id>https://tv.naver.com/v/39827995</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/39767106"/>
         <updated>2023-09-02T10:14:52.811Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY RYUJIN – CAKE(있지 류진 - 케이크) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39767105</id>
-        <link href="https://tv.naver.com/v/39767105"/>
-        <updated>2023-09-02T10:14:52.812Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY YEJI – CAKE(있지 예지 - 케이크) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39766805</id>
-        <link href="https://tv.naver.com/v/39766805"/>
-        <updated>2023-09-02T09:13:28.966Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY - CAKE(있지 – 케이크) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39766804</id>
-        <link href="https://tv.naver.com/v/39766804"/>
-        <updated>2023-09-02T09:13:28.966Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT U DOYOUNG – Baggy Jeans(엔시티 유 도영 - 배기 진스) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39766803</id>
-        <link href="https://tv.naver.com/v/39766803"/>
-        <updated>2023-09-02T09:13:28.966Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT U TEN – Baggy Jeans(엔시티 유 텐 - 배기 진스) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39766787</id>
-        <link href="https://tv.naver.com/v/39766787"/>
-        <updated>2023-09-02T09:13:28.973Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT U MARK – Baggy Jeans(엔시티 유 마크 - 배기 진스) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39766691</id>
-        <link href="https://tv.naver.com/v/39766691"/>
-        <updated>2023-09-02T09:13:28.973Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
     </entry>
 </feed>
