@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-09-05T09:17:35.495Z</updated>
+    <updated>2023-09-05T10:18:08.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 뮤지컬계의 흥행 보증 수표🔥! 카리스마 넘치는😎 28년 차 뮤지컬 배우 김영주!, MBC 230903 방송]]></title>
+        <id>https://tv.naver.com/v/39884143</id>
+        <link href="https://tv.naver.com/v/39884143"/>
+        <updated>2023-09-05T10:18:06.944Z</updated>
+        <content type="html"><![CDATA[12:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 반전의 감성 발라드로 여심💖저격한 타이푼 우재의 복면가왕 하이라이트✨!, MBC 230903 방송]]></title>
+        <id>https://tv.naver.com/v/39883496</id>
+        <link href="https://tv.naver.com/v/39883496"/>
+        <updated>2023-09-05T10:18:06.945Z</updated>
+        <content type="html"><![CDATA[12:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜🔥 불타는 경쟁 속 왕좌의 주인공은? 🔥＞ 복면가왕 420회 예고, MBC 230910 방송]]></title>
         <id>https://tv.naver.com/v/39797932</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39519585"/>
         <updated>2023-08-27T11:13:56.638Z</updated>
         <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완벽한 하모니를 이루는 팔과 다리🕺 '난 노래가 좋탁구'의 탁구🏓 댄스 개인기!, MBC 230827 방송]]></title>
-        <id>https://tv.naver.com/v/39519475</id>
-        <link href="https://tv.naver.com/v/39519475"/>
-        <updated>2023-08-27T11:13:56.639Z</updated>
-        <content type="html"><![CDATA[01:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['난 노래가 좋탁구' VS '가왕은 내가 할 거징'의 1라운드 무대 - 칵테일 사랑, MBC 230827 방송]]></title>
-        <id>https://tv.naver.com/v/39519364</id>
-        <link href="https://tv.naver.com/v/39519364"/>
-        <updated>2023-08-27T10:16:17.410Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
