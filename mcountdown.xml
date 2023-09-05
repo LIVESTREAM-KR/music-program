@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-09-05T10:18:07.931Z</updated>
+    <updated>2023-09-05T11:13:53.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성한빈 (ZEROBASEONE)이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/39885967</id>
+        <link href="https://tv.naver.com/v/39885967"/>
+        <updated>2023-09-05T11:13:23.775Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' NCT U - Intro + Baggy Jeans | Mnet 230831 방송]]></title>
         <id>https://tv.naver.com/v/39698762</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39428824"/>
         <updated>2023-08-24T12:30:25.936Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 유노윤호 (U-KNOW) | Mnet 230824 방송]]></title>
-        <id>https://tv.naver.com/v/39428537</id>
-        <link href="https://tv.naver.com/v/39428537"/>
-        <updated>2023-08-24T12:30:25.940Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>

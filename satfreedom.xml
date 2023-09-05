@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-05T10:18:07.939Z</updated>
+    <updated>2023-09-05T11:13:53.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 박현빈 - 오빠만 믿어 | KBS 230819 방송]]></title>
+        <id>https://tv.naver.com/v/39887657</id>
+        <link href="https://tv.naver.com/v/39887657"/>
+        <updated>2023-09-05T11:13:45.246Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 홍지윤 – 샤방샤방 | KBS 230819 방송]]></title>
+        <id>https://tv.naver.com/v/39887428</id>
+        <link href="https://tv.naver.com/v/39887428"/>
+        <updated>2023-09-05T11:13:45.249Z</updated>
+        <content type="html"><![CDATA[04:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 622회 〈아티스트 김수철 1부〉 우승자 ⭐조장혁⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/39770359</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39497597"/>
         <updated>2023-08-26T12:26:55.744Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대 열기만큼은🔥 누구에게도 지지 않았던 김일중의 무대! | KBS 230826 방송]]></title>
-        <id>https://tv.naver.com/v/39497322</id>
-        <link href="https://tv.naver.com/v/39497322"/>
-        <updated>2023-08-26T11:13:02.271Z</updated>
-        <content type="html"><![CDATA[01:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김일중 - 다짐 | KBS 230826 방송]]></title>
-        <id>https://tv.naver.com/v/39497202</id>
-        <link href="https://tv.naver.com/v/39497202"/>
-        <updated>2023-08-26T11:13:02.271Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>

@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-09-05T10:18:07.932Z</updated>
+    <updated>2023-09-05T11:13:53.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/39886935</id>
+        <link href="https://tv.naver.com/v/39886935"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[05:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레트로 퀸의 새로운 도약, 예린(YERIN) '밤밤밤(Bambambam)']]></title>
+        <id>https://tv.naver.com/v/39886444</id>
+        <link href="https://tv.naver.com/v/39886444"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독보적인 걸스 파워, EVERGLOW (에버글로우) 'SLAY']]></title>
+        <id>https://tv.naver.com/v/39886438</id>
+        <link href="https://tv.naver.com/v/39886438"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 도심을 환하게 밝힐 4인 4색 매력, H1-KEY (하이키) 'SEOUL (Such a Beautiful City)']]></title>
+        <id>https://tv.naver.com/v/39886196</id>
+        <link href="https://tv.naver.com/v/39886196"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 가슴 뭉클한 위로의 메세지, H1-KEY (하이키) '불빛을 꺼뜨리지 마 (Time to Shine)']]></title>
+        <id>https://tv.naver.com/v/39886194</id>
+        <link href="https://tv.naver.com/v/39886194"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하늘 높이 비상하는 소년들, xikers(싸이커스) 'HOMEBOY']]></title>
+        <id>https://tv.naver.com/v/39885954</id>
+        <link href="https://tv.naver.com/v/39885954"/>
+        <updated>2023-09-05T11:13:31.014Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한계 없는 실력파 그룹, xikers(싸이커스) 'Koong']]></title>
+        <id>https://tv.naver.com/v/39885704</id>
+        <link href="https://tv.naver.com/v/39885704"/>
+        <updated>2023-09-05T11:13:31.016Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거침없이 올라가는 템포, VANNER(배너) 'PERFORMER']]></title>
+        <id>https://tv.naver.com/v/39885515</id>
+        <link href="https://tv.naver.com/v/39885515"/>
+        <updated>2023-09-05T11:13:31.018Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최초공개] 강렬 카리스마 매력, VANNER(배너) 'WANT U BACK']]></title>
+        <id>https://tv.naver.com/v/39885513</id>
+        <link href="https://tv.naver.com/v/39885513"/>
+        <updated>2023-09-05T11:13:31.020Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔, 민재 & H1-KEY (하이키)]]></title>
+        <id>https://tv.naver.com/v/39885116</id>
+        <link href="https://tv.naver.com/v/39885116"/>
+        <updated>2023-09-05T11:13:31.022Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최초공개] 개성 강한 아이덴티티, XG 'TGIF']]></title>
         <id>https://tv.naver.com/v/39884977</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/39604619"/>
         <updated>2023-08-29T11:13:35.606Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[즐거운 트위스트 리듬, 이찬원 '트위스트고고']]></title>
-        <id>https://tv.naver.com/v/39604618</id>
-        <link href="https://tv.naver.com/v/39604618"/>
-        <updated>2023-08-29T11:13:35.607Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빠져드는 강렬한 트랩 비트, n.SSign (엔싸인) '웜홀 (Wormhole: New Track)']]></title>
-        <id>https://tv.naver.com/v/39604433</id>
-        <link href="https://tv.naver.com/v/39604433"/>
-        <updated>2023-08-29T11:13:35.609Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔 & EVERGLOW(에버글로우)]]></title>
-        <id>https://tv.naver.com/v/39604073</id>
-        <link href="https://tv.naver.com/v/39604073"/>
-        <updated>2023-08-29T10:17:47.954Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 내 인생의 기준은 나!, tripleS LOVElution 'Girls' Capitalism']]></title>
-        <id>https://tv.naver.com/v/39604072</id>
-        <link href="https://tv.naver.com/v/39604072"/>
-        <updated>2023-08-29T10:17:47.954Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 복잡한 감정의 순간, tripleS LOVElution '복합성 (Complexity)']]></title>
-        <id>https://tv.naver.com/v/39604070</id>
-        <link href="https://tv.naver.com/v/39604070"/>
-        <updated>2023-08-29T10:17:47.958Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 압도적인 카리스마, TIOT(티아이오티) '백전무패 (百戰無敗)']]></title>
-        <id>https://tv.naver.com/v/39603213</id>
-        <link href="https://tv.naver.com/v/39603213"/>
-        <updated>2023-08-29T10:17:47.959Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 이유 있는 자신감과 확신의 무대, LE'V 'A.I.BAE']]></title>
-        <id>https://tv.naver.com/v/39602973</id>
-        <link href="https://tv.naver.com/v/39602973"/>
-        <updated>2023-08-29T10:17:47.961Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑에 무너져가는 감정, 에이블루(ABLUE) 'MAD']]></title>
-        <id>https://tv.naver.com/v/39602634</id>
-        <link href="https://tv.naver.com/v/39602634"/>
-        <updated>2023-08-29T10:17:47.967Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중독성 있는 멜로디, ARTBEAT v 'DUBI DUBI']]></title>
-        <id>https://tv.naver.com/v/39602603</id>
-        <link href="https://tv.naver.com/v/39602603"/>
-        <updated>2023-08-29T10:17:47.971Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/39088974</id>
-        <link href="https://tv.naver.com/v/39088974"/>
-        <updated>2023-08-15T11:12:58.958Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-05T10:18:07.952Z</updated>
+    <updated>2023-09-05T11:13:53.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Beautiful Monster - HEEO | KBS 230901 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[성한빈 (ZEROBASEONE)이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/39885967</id>
+        <link href="https://tv.naver.com/v/39885967"/>
+        <updated>2023-09-05T11:13:23.775Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' NCT U - Intro + Baggy Jeans | Mnet 230831 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/39698762</id>
         <link href="https://tv.naver.com/v/39698762"/>
@@ -838,11 +845,74 @@
         <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 유노윤호 (U-KNOW) | Mnet 230824 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39428537</id>
-        <link href="https://tv.naver.com/v/39428537"/>
-        <updated>2023-08-24T12:30:25.940Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39886935</id>
+        <link href="https://tv.naver.com/v/39886935"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[05:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레트로 퀸의 새로운 도약, 예린(YERIN) '밤밤밤(Bambambam)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39886444</id>
+        <link href="https://tv.naver.com/v/39886444"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독보적인 걸스 파워, EVERGLOW (에버글로우) 'SLAY' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39886438</id>
+        <link href="https://tv.naver.com/v/39886438"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 도심을 환하게 밝힐 4인 4색 매력, H1-KEY (하이키) 'SEOUL (Such a Beautiful City)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39886196</id>
+        <link href="https://tv.naver.com/v/39886196"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 가슴 뭉클한 위로의 메세지, H1-KEY (하이키) '불빛을 꺼뜨리지 마 (Time to Shine)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39886194</id>
+        <link href="https://tv.naver.com/v/39886194"/>
+        <updated>2023-09-05T11:13:31.012Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하늘 높이 비상하는 소년들, xikers(싸이커스) 'HOMEBOY' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39885954</id>
+        <link href="https://tv.naver.com/v/39885954"/>
+        <updated>2023-09-05T11:13:31.014Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한계 없는 실력파 그룹, xikers(싸이커스) 'Koong' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39885704</id>
+        <link href="https://tv.naver.com/v/39885704"/>
+        <updated>2023-09-05T11:13:31.016Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거침없이 올라가는 템포, VANNER(배너) 'PERFORMER' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39885515</id>
+        <link href="https://tv.naver.com/v/39885515"/>
+        <updated>2023-09-05T11:13:31.018Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최초공개] 강렬 카리스마 매력, VANNER(배너) 'WANT U BACK' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39885513</id>
+        <link href="https://tv.naver.com/v/39885513"/>
+        <updated>2023-09-05T11:13:31.020Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔, 민재 & H1-KEY (하이키) (더쇼)]]></title>
+        <id>https://tv.naver.com/v/39885116</id>
+        <link href="https://tv.naver.com/v/39885116"/>
+        <updated>2023-09-05T11:13:31.022Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[최초공개] 개성 강한 아이덴티티, XG 'TGIF' (더쇼)]]></title>
@@ -983,76 +1053,6 @@
         <link href="https://tv.naver.com/v/39604619"/>
         <updated>2023-08-29T11:13:35.606Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[즐거운 트위스트 리듬, 이찬원 '트위스트고고' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39604618</id>
-        <link href="https://tv.naver.com/v/39604618"/>
-        <updated>2023-08-29T11:13:35.607Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빠져드는 강렬한 트랩 비트, n.SSign (엔싸인) '웜홀 (Wormhole: New Track)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39604433</id>
-        <link href="https://tv.naver.com/v/39604433"/>
-        <updated>2023-08-29T11:13:35.609Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔 & EVERGLOW(에버글로우) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39604073</id>
-        <link href="https://tv.naver.com/v/39604073"/>
-        <updated>2023-08-29T10:17:47.954Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 내 인생의 기준은 나!, tripleS LOVElution 'Girls' Capitalism' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39604072</id>
-        <link href="https://tv.naver.com/v/39604072"/>
-        <updated>2023-08-29T10:17:47.954Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 복잡한 감정의 순간, tripleS LOVElution '복합성 (Complexity)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39604070</id>
-        <link href="https://tv.naver.com/v/39604070"/>
-        <updated>2023-08-29T10:17:47.958Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 압도적인 카리스마, TIOT(티아이오티) '백전무패 (百戰無敗)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39603213</id>
-        <link href="https://tv.naver.com/v/39603213"/>
-        <updated>2023-08-29T10:17:47.959Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Hot Debut] 이유 있는 자신감과 확신의 무대, LE'V 'A.I.BAE' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39602973</id>
-        <link href="https://tv.naver.com/v/39602973"/>
-        <updated>2023-08-29T10:17:47.961Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑에 무너져가는 감정, 에이블루(ABLUE) 'MAD' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39602634</id>
-        <link href="https://tv.naver.com/v/39602634"/>
-        <updated>2023-08-29T10:17:47.967Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중독성 있는 멜로디, ARTBEAT v 'DUBI DUBI' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39602603</id>
-        <link href="https://tv.naver.com/v/39602603"/>
-        <updated>2023-08-29T10:17:47.971Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39088974</id>
-        <link href="https://tv.naver.com/v/39088974"/>
-        <updated>2023-08-15T11:12:58.958Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 달나츠와 함께 배우는 K-POP! 개강학개론!! 지금 당장 Click! Click! (쇼챔피언)]]></title>
@@ -1265,6 +1265,20 @@
         <content type="html"><![CDATA[04:22]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[세로직캠] 박현빈 - 오빠만 믿어 | KBS 230819 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39887657</id>
+        <link href="https://tv.naver.com/v/39887657"/>
+        <updated>2023-09-05T11:13:45.246Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 홍지윤 – 샤방샤방 | KBS 230819 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39887428</id>
+        <link href="https://tv.naver.com/v/39887428"/>
+        <updated>2023-09-05T11:13:45.249Z</updated>
+        <content type="html"><![CDATA[04:46]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 622회 〈아티스트 김수철 1부〉 우승자 ⭐조장혁⭐ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/39770359</id>
         <link href="https://tv.naver.com/v/39770359"/>
@@ -1459,20 +1473,6 @@
         <link href="https://tv.naver.com/v/39497597"/>
         <updated>2023-08-26T12:26:55.744Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대 열기만큼은🔥 누구에게도 지지 않았던 김일중의 무대! | KBS 230826 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39497322</id>
-        <link href="https://tv.naver.com/v/39497322"/>
-        <updated>2023-08-26T11:13:02.271Z</updated>
-        <content type="html"><![CDATA[01:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김일중 - 다짐 | KBS 230826 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39497202</id>
-        <link href="https://tv.naver.com/v/39497202"/>
-        <updated>2023-08-26T11:13:02.271Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 뮤지컬계의 흥행 보증 수표🔥! 카리스마 넘치는😎 28년 차 뮤지컬 배우 김영주!, MBC 230903 방송 (복면가왕)]]></title>
