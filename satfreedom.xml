@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-05T12:31:09.998Z</updated>
+    <updated>2023-09-05T13:20:26.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가로직캠] 김일중 - 다짐 | KBS 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39892572</id>
+        <link href="https://tv.naver.com/v/39892572"/>
+        <updated>2023-09-05T13:20:18.427Z</updated>
+        <content type="html"><![CDATA[04:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로직캠] 권일용&표창원 - 옛사랑 | KBS 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39892065</id>
+        <link href="https://tv.naver.com/v/39892065"/>
+        <updated>2023-09-05T13:20:18.430Z</updated>
+        <content type="html"><![CDATA[05:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로직캠] 박지훈 – Never Ending Story | KBS 230826 방송]]></title>
         <id>https://tv.naver.com/v/39891032</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39768416"/>
         <updated>2023-09-02T11:12:28.970Z</updated>
         <content type="html"><![CDATA[04:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김수철 - 모두 다 사랑하리 | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39768162</id>
-        <link href="https://tv.naver.com/v/39768162"/>
-        <updated>2023-09-02T10:15:27.726Z</updated>
-        <content type="html"><![CDATA[07:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우승 시 트로피는 누구에게? 리사&알리&스테파니&황우림 뮤지컬 어벤저스가 떴다✨️ | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39768160</id>
-        <link href="https://tv.naver.com/v/39768160"/>
-        <updated>2023-09-02T10:15:27.727Z</updated>
-        <content type="html"><![CDATA[01:40]]></content>
     </entry>
 </feed>
