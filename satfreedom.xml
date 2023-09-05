@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-05T13:20:26.444Z</updated>
+    <updated>2023-09-05T14:16:03.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가로직캠] 조혜련 - 환희 | KBS 230826 방송]]></title>
+        <id>https://tv.naver.com/v/39894388</id>
+        <link href="https://tv.naver.com/v/39894388"/>
+        <updated>2023-09-05T14:15:54.290Z</updated>
+        <content type="html"><![CDATA[05:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가로직캠] 김일중 - 다짐 | KBS 230826 방송]]></title>
         <id>https://tv.naver.com/v/39892572</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39768546"/>
         <updated>2023-09-02T11:12:28.969Z</updated>
         <content type="html"><![CDATA[01:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 ＜프리다＞ (리사&알리&스테파니&황우림) - 내일 | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39768416</id>
-        <link href="https://tv.naver.com/v/39768416"/>
-        <updated>2023-09-02T11:12:28.970Z</updated>
-        <content type="html"><![CDATA[04:54]]></content>
     </entry>
 </feed>
