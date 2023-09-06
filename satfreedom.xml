@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-06T09:16:36.960Z</updated>
+    <updated>2023-09-06T10:17:57.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가로직캠] 나상현씨밴드 – 싫어 싫어 | KBS 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39935701</id>
+        <link href="https://tv.naver.com/v/39935701"/>
+        <updated>2023-09-06T10:17:49.714Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로직캠] 뮤지컬 ＜프리다＞ (리사x알리x스테파니x황우림) - 내일 | KBS 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39935697</id>
+        <link href="https://tv.naver.com/v/39935697"/>
+        <updated>2023-09-06T10:17:49.714Z</updated>
+        <content type="html"><![CDATA[05:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로직캠] 싸이커스(xikers) - 젊은 그대 | KBS 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39935505</id>
+        <link href="https://tv.naver.com/v/39935505"/>
+        <updated>2023-09-06T10:17:49.717Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 김수철 – 모두 다 사랑하리 | KBS 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39934407</id>
+        <link href="https://tv.naver.com/v/39934407"/>
+        <updated>2023-09-06T10:17:49.721Z</updated>
+        <content type="html"><![CDATA[08:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로직캠] 조장혁 – 별리 | KBS 230902 방송]]></title>
         <id>https://tv.naver.com/v/39933986</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/39769441"/>
         <updated>2023-09-02T11:12:28.952Z</updated>
         <content type="html"><![CDATA[04:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대보다 더 긴장되는 김수철과의 첫 대면! (ft. 녹음실 영웅담의 진실) | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39769210</id>
-        <link href="https://tv.naver.com/v/39769210"/>
-        <updated>2023-09-02T11:12:28.966Z</updated>
-        <content type="html"><![CDATA[01:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품 보컬리스트 조장혁🎙️ 김수철의 녹음실 영웅담? 오늘의 선곡은! | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39769170</id>
-        <link href="https://tv.naver.com/v/39769170"/>
-        <updated>2023-09-02T11:12:28.967Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 특별 게스트⭐️ 양희은 이성미 김혜영! 김수철과 친해진 계기는? | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39769057</id>
-        <link href="https://tv.naver.com/v/39769057"/>
-        <updated>2023-09-02T11:12:28.967Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나상현씨밴드 - 싫어 싫어 | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39768824</id>
-        <link href="https://tv.naver.com/v/39768824"/>
-        <updated>2023-09-02T11:12:28.968Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
     </entry>
 </feed>
