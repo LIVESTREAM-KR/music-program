@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-06T08:20:37.827Z</updated>
+    <updated>2023-09-06T09:16:36.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Beautiful Monster - HEEO | KBS 230901 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔딩요정 - 진식🧚‍♂ 로디분들을 태운 싸이커스 항공 출발🛫 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39907773</id>
+        <link href="https://tv.naver.com/v/39907773"/>
+        <updated>2023-09-06T09:16:22.017Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 달나츠와 함께 배우는 K-POP! 개강학개론!! 지금 당장 Click! Click! (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/39824832</id>
         <link href="https://tv.naver.com/v/39824832"/>
@@ -1258,11 +1265,18 @@
         <content type="html"><![CDATA[04:22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers JUNMIN - HOMEBOY (싸이커스 준민 - 홈보이) | Show Champion | EP.489 | 230830 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/39644785</id>
-        <link href="https://tv.naver.com/v/39644785"/>
-        <updated>2023-08-30T13:19:47.297Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
+        <title type="html"><![CDATA[[세로직캠] 조장혁 – 별리 | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39933986</id>
+        <link href="https://tv.naver.com/v/39933986"/>
+        <updated>2023-09-06T09:16:29.011Z</updated>
+        <content type="html"><![CDATA[04:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 안예은 – 나도야 간다 | KBS 230902 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/39933789</id>
+        <link href="https://tv.naver.com/v/39933789"/>
+        <updated>2023-09-06T09:16:29.012Z</updated>
+        <content type="html"><![CDATA[05:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[가로직캠] 조혜련 - 환희 | KBS 230826 방송 (불후의 명곡)]]></title>
@@ -1459,20 +1473,6 @@
         <link href="https://tv.naver.com/v/39768824"/>
         <updated>2023-09-02T11:12:28.968Z</updated>
         <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관악의 기운이 서린 엘리트 록밴드 나상현씨밴드! MBTI토크&격파 개인기👊😆 | KBS 230902 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39768719</id>
-        <link href="https://tv.naver.com/v/39768719"/>
-        <updated>2023-09-02T11:12:28.969Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전율을 넘어선 공포? 다음 순서를 떨게 하는 가창력을✨️ 보여준 ＜프리다＞ 팀 | KBS 230902 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/39768546</id>
-        <link href="https://tv.naver.com/v/39768546"/>
-        <updated>2023-09-02T11:12:28.969Z</updated>
-        <content type="html"><![CDATA[01:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 뮤지컬계의 흥행 보증 수표🔥! 카리스마 넘치는😎 28년 차 뮤지컬 배우 김영주!, MBC 230903 방송 (복면가왕)]]></title>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-06T08:20:37.814Z</updated>
+    <updated>2023-09-06T09:16:36.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 조장혁 – 별리 | KBS 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39933986</id>
+        <link href="https://tv.naver.com/v/39933986"/>
+        <updated>2023-09-06T09:16:29.011Z</updated>
+        <content type="html"><![CDATA[04:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 안예은 – 나도야 간다 | KBS 230902 방송]]></title>
+        <id>https://tv.naver.com/v/39933789</id>
+        <link href="https://tv.naver.com/v/39933789"/>
+        <updated>2023-09-06T09:16:29.012Z</updated>
+        <content type="html"><![CDATA[05:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가로직캠] 조혜련 - 환희 | KBS 230826 방송]]></title>
         <id>https://tv.naver.com/v/39894388</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39768824"/>
         <updated>2023-09-02T11:12:28.968Z</updated>
         <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관악의 기운이 서린 엘리트 록밴드 나상현씨밴드! MBTI토크&격파 개인기👊😆 | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39768719</id>
-        <link href="https://tv.naver.com/v/39768719"/>
-        <updated>2023-09-02T11:12:28.969Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전율을 넘어선 공포? 다음 순서를 떨게 하는 가창력을✨️ 보여준 ＜프리다＞ 팀 | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39768546</id>
-        <link href="https://tv.naver.com/v/39768546"/>
-        <updated>2023-09-02T11:12:28.969Z</updated>
-        <content type="html"><![CDATA[01:03]]></content>
     </entry>
 </feed>
