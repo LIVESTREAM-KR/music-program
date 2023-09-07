@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-07T02:21:57.127Z</updated>
+    <updated>2023-09-07T03:16:58.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE Eunho - The 6th Summer(플레이브 은호 - 여섯 번째 여름) Close-up Cam | Show! MusicCore |MBC230826방]]></title>
+        <id>https://tv.naver.com/v/39962416</id>
+        <link href="https://tv.naver.com/v/39962416"/>
+        <updated>2023-09-07T03:16:13.790Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE Noah - The 6th Summer(플레이브 노아 - 여섯 번째 여름) Close-up Cam | Show! MusicCore | MBC230826방]]></title>
+        <id>https://tv.naver.com/v/39962414</id>
+        <link href="https://tv.naver.com/v/39962414"/>
+        <updated>2023-09-07T03:16:13.793Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] PLAVE Hamin - The 6th Summer(플레이브 하민 - 여섯 번째 여름) Close-up Cam | Show! MusicCore |MBC230826방]]></title>
         <id>https://tv.naver.com/v/39962218</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39767302"/>
         <updated>2023-09-02T10:14:52.802Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] STAYC – Bubble(스테이씨 - 버블) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39767301</id>
-        <link href="https://tv.naver.com/v/39767301"/>
-        <updated>2023-09-02T10:14:52.805Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] STAYC Yoon - Bubble(스테이씨 윤 - 버블) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39767191</id>
-        <link href="https://tv.naver.com/v/39767191"/>
-        <updated>2023-09-02T10:14:52.805Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
