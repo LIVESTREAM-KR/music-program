@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-09-07T11:14:18.452Z</updated>
+    <updated>2023-09-07T12:31:03.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 화사 (HWASA) - I Love My Body | Mnet 230907 방송]]></title>
+        <id>https://tv.naver.com/v/39989342</id>
+        <link href="https://tv.naver.com/v/39989342"/>
+        <updated>2023-09-07T12:30:33.317Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT U - Baggy Jeans | Mnet 230907 방송]]></title>
         <id>https://tv.naver.com/v/39989087</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39701416"/>
         <updated>2023-08-31T13:20:07.868Z</updated>
         <content type="html"><![CDATA[00:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 전소미 - 금금금 | Mnet 230831 방송]]></title>
-        <id>https://tv.naver.com/v/39698634</id>
-        <link href="https://tv.naver.com/v/39698634"/>
-        <updated>2023-08-31T12:30:31.495Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
