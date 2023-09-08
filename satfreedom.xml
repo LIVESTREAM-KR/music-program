@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-08T10:17:46.866Z</updated>
+    <updated>2023-09-08T11:14:11.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] K-POP 창창한 미래 싸이커스 출격😎 ✨불후의 댄스 배틀✨ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/40032090</id>
+        <link href="https://tv.naver.com/v/40032090"/>
+        <updated>2023-09-08T11:14:03.700Z</updated>
+        <content type="html"><![CDATA[05:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가로직캠] 나상현씨밴드 – 싫어 싫어 | KBS 230902 방송]]></title>
         <id>https://tv.naver.com/v/39935701</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39769444"/>
         <updated>2023-09-02T11:12:28.950Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조장혁 - 별리 | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39769441</id>
-        <link href="https://tv.naver.com/v/39769441"/>
-        <updated>2023-09-02T11:12:28.952Z</updated>
-        <content type="html"><![CDATA[04:41]]></content>
     </entry>
 </feed>
