@@ -2,8 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-08T09:16:11.055Z</updated>
+    <updated>2023-09-08T10:17:46.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[I Love My Body - 화사 (HWASA) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40030340</id>
+        <link href="https://tv.naver.com/v/40030340"/>
+        <updated>2023-09-08T10:16:54.098Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baggy Jeans - NCT U | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40030335</id>
+        <link href="https://tv.naver.com/v/40030335"/>
+        <updated>2023-09-08T10:16:54.099Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항해 - 김세정 | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40030324</id>
+        <link href="https://tv.naver.com/v/40030324"/>
+        <updated>2023-09-08T10:16:54.113Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top or Cliff - 김세정 | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40030135</id>
+        <link href="https://tv.naver.com/v/40030135"/>
+        <updated>2023-09-08T10:16:54.113Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것밖에는 없다 - Young K(DAY6) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40029974</id>
+        <link href="https://tv.naver.com/v/40029974"/>
+        <updated>2023-09-08T10:16:54.113Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LET’S DANCE - 이채연 | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40029943</id>
+        <link href="https://tv.naver.com/v/40029943"/>
+        <updated>2023-09-08T10:16:54.113Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOOM - 로켓펀치(Rocket Punch) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40029532</id>
+        <link href="https://tv.naver.com/v/40029532"/>
+        <updated>2023-09-08T10:16:54.122Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLAY - EVERGLOW(에버글로우) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40029366</id>
+        <link href="https://tv.naver.com/v/40029366"/>
+        <updated>2023-09-08T10:16:54.122Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뭣 같아 - BOYNEXTDOOR | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40029192</id>
+        <link href="https://tv.naver.com/v/40029192"/>
+        <updated>2023-09-08T10:16:54.122Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crying - BOYNEXTDOOR | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40029014</id>
+        <link href="https://tv.naver.com/v/40029014"/>
+        <updated>2023-09-08T10:16:54.123Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7HEAVEN - 퍼플키스(PURPLE KISS) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40029005</id>
+        <link href="https://tv.naver.com/v/40029005"/>
+        <updated>2023-09-08T10:16:54.123Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안녕, 인사해(Smooth Sailing) - cignature(시그니처) | KBS 230908 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/40028587</id>
@@ -136,83 +213,6 @@
         <link href="https://tv.naver.com/v/39737709"/>
         <updated>2023-09-01T10:16:41.162Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른아이 (On My Way) - 김우진 | KBS 230901 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39737703</id>
-        <link href="https://tv.naver.com/v/39737703"/>
-        <updated>2023-09-01T10:16:41.162Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MADELEINE - LIMELIGHT(라임라잇) | KBS 230901 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39737701</id>
-        <link href="https://tv.naver.com/v/39737701"/>
-        <updated>2023-09-01T10:16:41.162Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOMEBOY - xikers(싸이커스) | KBS 230901 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39737332</id>
-        <link href="https://tv.naver.com/v/39737332"/>
-        <updated>2023-09-01T09:15:22.053Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SYNCHRONIZE - X:IN | KBS 230901 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39737312</id>
-        <link href="https://tv.naver.com/v/39737312"/>
-        <updated>2023-09-01T09:15:22.053Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higher - n.SSign(엔싸인) | KBS 230901 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39737118</id>
-        <link href="https://tv.naver.com/v/39737118"/>
-        <updated>2023-09-01T09:15:22.054Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planet - BXB(비엑스비) | KBS 230901 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39736680</id>
-        <link href="https://tv.naver.com/v/39736680"/>
-        <updated>2023-09-01T09:15:22.056Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Killin’ Me Good - 지효(TWICE) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39468866</id>
-        <link href="https://tv.naver.com/v/39468866"/>
-        <updated>2023-08-25T10:16:31.285Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble - STAYC(스테이씨) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39468685</id>
-        <link href="https://tv.naver.com/v/39468685"/>
-        <updated>2023-08-25T10:16:31.287Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vuja De - 유노윤호 (U-KNOW) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39468681</id>
-        <link href="https://tv.naver.com/v/39468681"/>
-        <updated>2023-08-25T10:16:31.290Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Picture - 효연(HYO) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39468678</id>
-        <link href="https://tv.naver.com/v/39468678"/>
-        <updated>2023-08-25T10:16:31.292Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passion Fruit - 더보이즈(THE BOYZ) Special Unit | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39468676</id>
-        <link href="https://tv.naver.com/v/39468676"/>
-        <updated>2023-08-25T10:16:31.295Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] JEON SOMI – Fast Forward(전소미 - 패스트 포워드) | Show! Music Core (쇼! 음악중심)]]></title>
