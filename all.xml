@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-08T08:21:09.800Z</updated>
+    <updated>2023-09-08T09:16:11.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[안녕, 인사해(Smooth Sailing) - cignature(시그니처) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40028587</id>
+        <link href="https://tv.naver.com/v/40028587"/>
+        <updated>2023-09-08T09:15:19.780Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get A Guitar - RIIZE | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40028342</id>
+        <link href="https://tv.naver.com/v/40028342"/>
+        <updated>2023-09-08T09:15:19.780Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memories - RIIZE | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40028340</id>
+        <link href="https://tv.naver.com/v/40028340"/>
+        <updated>2023-09-08T09:15:19.780Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEOUL (Such a Beautiful City) - H1-KEY(하이키) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40028145</id>
+        <link href="https://tv.naver.com/v/40028145"/>
+        <updated>2023-09-08T09:15:19.780Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siren - RIIZE | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40028086</id>
+        <link href="https://tv.naver.com/v/40028086"/>
+        <updated>2023-09-08T09:15:19.781Z</updated>
+        <content type="html"><![CDATA[01:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MY WAY - TRENDZ(트렌드지) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40027893</id>
+        <link href="https://tv.naver.com/v/40027893"/>
+        <updated>2023-09-08T09:15:19.787Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOMEBOY - xikers(싸이커스) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40027519</id>
+        <link href="https://tv.naver.com/v/40027519"/>
+        <updated>2023-09-08T09:15:19.788Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PERFORMER - VANNER(배너) | KBS 230908 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40027513</id>
+        <link href="https://tv.naver.com/v/40027513"/>
+        <updated>2023-09-08T09:15:19.789Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beautiful Monster - HEEO | KBS 230901 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/39821218</id>
@@ -157,62 +213,6 @@
         <link href="https://tv.naver.com/v/39468676"/>
         <updated>2023-08-25T10:16:31.295Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAKE - ITZY | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39468121</id>
-        <link href="https://tv.naver.com/v/39468121"/>
-        <updated>2023-08-25T10:16:31.298Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤밤밤(Bambambam) - 예린(YERIN) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39468118</id>
-        <link href="https://tv.naver.com/v/39468118"/>
-        <updated>2023-08-25T10:16:31.301Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLAY - EVERGLOW(에버글로우) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39467921</id>
-        <link href="https://tv.naver.com/v/39467921"/>
-        <updated>2023-08-25T10:16:31.305Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASAP - 뉴진스(NewJeans) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39467675</id>
-        <link href="https://tv.naver.com/v/39467675"/>
-        <updated>2023-08-25T10:16:31.313Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말했잖아 - 다크비(DKB) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39467425</id>
-        <link href="https://tv.naver.com/v/39467425"/>
-        <updated>2023-08-25T10:16:31.318Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girls’ Capitalism - tripleS LOVElution | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39467422</id>
-        <link href="https://tv.naver.com/v/39467422"/>
-        <updated>2023-08-25T10:16:31.329Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOMEBOY - xikers(싸이커스) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39467049</id>
-        <link href="https://tv.naver.com/v/39467049"/>
-        <updated>2023-08-25T09:15:29.884Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STARLIGHT - SECRET NUMBER(시크릿넘버) | KBS 230825 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/39466776</id>
-        <link href="https://tv.naver.com/v/39466776"/>
-        <updated>2023-08-25T09:15:29.884Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] JEON SOMI – Fast Forward(전소미 - 패스트 포워드) | Show! Music Core (쇼! 음악중심)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[청춘 드라마같은 순간, We are flying ☁️ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/39907826</id>
+        <link href="https://tv.naver.com/v/39907826"/>
+        <updated>2023-09-08T09:15:55.646Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔딩요정 - 진식🧚‍♂ 로디분들을 태운 싸이커스 항공 출발🛫 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/39907773</id>
         <link href="https://tv.naver.com/v/39907773"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/39645631"/>
         <updated>2023-08-30T13:19:47.293Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers JINSIK - HOMEBOY (싸이커스 진식 - 홈보이) | Show Champion | EP.489 | 230830 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/39645373</id>
-        <link href="https://tv.naver.com/v/39645373"/>
-        <updated>2023-08-30T13:19:47.295Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[가로직캠] 나상현씨밴드 – 싫어 싫어 | KBS 230902 방송 (불후의 명곡)]]></title>

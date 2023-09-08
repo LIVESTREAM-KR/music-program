@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-08T08:21:09.736Z</updated>
+    <updated>2023-09-08T09:16:11.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[청춘 드라마같은 순간, We are flying ☁️]]></title>
+        <id>https://tv.naver.com/v/39907826</id>
+        <link href="https://tv.naver.com/v/39907826"/>
+        <updated>2023-09-08T09:15:55.646Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔딩요정 - 진식🧚‍♂ 로디분들을 태운 싸이커스 항공 출발🛫]]></title>
         <id>https://tv.naver.com/v/39907773</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39645631"/>
         <updated>2023-08-30T13:19:47.293Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers JINSIK - HOMEBOY (싸이커스 진식 - 홈보이) | Show Champion | EP.489 | 230830]]></title>
-        <id>https://tv.naver.com/v/39645373</id>
-        <link href="https://tv.naver.com/v/39645373"/>
-        <updated>2023-08-30T13:19:47.295Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
     </entry>
 </feed>
