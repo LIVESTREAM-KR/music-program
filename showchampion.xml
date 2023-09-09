@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-09T08:19:01.545Z</updated>
+    <updated>2023-09-09T09:14:32.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BABY 커져가는 꿈 속으로! #트리플에스 #러블루션]]></title>
+        <id>https://tv.naver.com/v/40045446</id>
+        <link href="https://tv.naver.com/v/40045446"/>
+        <updated>2023-09-09T09:14:17.207Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청춘 드라마같은 순간, We are flying ☁️]]></title>
         <id>https://tv.naver.com/v/39907826</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/39646178</id>
         <link href="https://tv.naver.com/v/39646178"/>
         <updated>2023-08-30T13:19:47.291Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC SEEUN - Bubble (스테이씨 세은 - 버블) | Show Champion | EP.489 l 230830]]></title>
-        <id>https://tv.naver.com/v/39645631</id>
-        <link href="https://tv.naver.com/v/39645631"/>
-        <updated>2023-08-30T13:19:47.293Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
