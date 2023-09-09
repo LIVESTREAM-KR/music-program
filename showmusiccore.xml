@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-09T07:13:55.035Z</updated>
+    <updated>2023-09-09T08:19:01.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영케이 (데이식스) - 이것밖에는 없다 (Young K (DAY6)  - nothing but), MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40055983</id>
+        <link href="https://tv.naver.com/v/40055983"/>
+        <updated>2023-09-09T08:18:18.231Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김세정 - 톱 오어 클리프 (KIM SEJEONG - Top or Cliff), MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40055955</id>
+        <link href="https://tv.naver.com/v/40055955"/>
+        <updated>2023-09-09T08:18:18.247Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김세정 - 항해 (KIM SEJEONG - Voyage), MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40055833</id>
+        <link href="https://tv.naver.com/v/40055833"/>
+        <updated>2023-09-09T08:18:18.247Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이채연 - 렛츠 댄스 (LEE CHAE YEON - LET'S DANCE), MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40055728</id>
+        <link href="https://tv.naver.com/v/40055728"/>
+        <updated>2023-09-09T08:18:18.247Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이즈 - 겟 어 기타 (RIIZE - Get A Guitar), MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40055611</id>
+        <link href="https://tv.naver.com/v/40055611"/>
+        <updated>2023-09-09T08:18:18.252Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이즈 - 메모리즈 (RIIZE - Memories), MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40055304</id>
+        <link href="https://tv.naver.com/v/40055304"/>
+        <updated>2023-09-09T08:18:18.252Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이즈 - 사이렌 (RIIZE - Siren), MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40054726</id>
+        <link href="https://tv.naver.com/v/40054726"/>
+        <updated>2023-09-09T08:18:18.252Z</updated>
+        <content type="html"><![CDATA[01:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로켓펀치 - 붐 (Rocket Punch - BOOM), MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40054390</id>
+        <link href="https://tv.naver.com/v/40054390"/>
+        <updated>2023-09-09T08:18:18.252Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배너 - 퍼포머 (VANNER - PERFORMER), MBC 230909 방송]]></title>
         <id>https://tv.naver.com/v/40054241</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/39770501"/>
         <updated>2023-09-02T12:27:32.823Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] n.SSign – Wormhole : New Track(엔싸인 - 웜홀) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39769589</id>
-        <link href="https://tv.naver.com/v/39769589"/>
-        <updated>2023-09-02T12:27:32.823Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers - HOMEBOY(싸이커스 – 홈보이) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39769560</id>
-        <link href="https://tv.naver.com/v/39769560"/>
-        <updated>2023-09-02T12:27:32.824Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YERIN - Bambambam(예린 – 밤밤밤) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39769559</id>
-        <link href="https://tv.naver.com/v/39769559"/>
-        <updated>2023-09-02T12:27:32.824Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VANNER - PERFORMER(배너 – 퍼포머) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39769440</id>
-        <link href="https://tv.naver.com/v/39769440"/>
-        <updated>2023-09-02T11:11:52.536Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] n.SSign KAZUTA - Wormhole : New Track(엔싸인 카즈타 - 웜홀) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39769439</id>
-        <link href="https://tv.naver.com/v/39769439"/>
-        <updated>2023-09-02T11:11:52.536Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VANNER HYESUNG – PERFORMER(배너 혜성 - 퍼포머) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39769307</id>
-        <link href="https://tv.naver.com/v/39769307"/>
-        <updated>2023-09-02T11:11:52.538Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers YECHAN – HOMEBOY(싸이커스 예찬 - 홈보이) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39769305</id>
-        <link href="https://tv.naver.com/v/39769305"/>
-        <updated>2023-09-02T11:11:52.540Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers HUNTER – HOMEBOY(싸이커스 헌터 - 홈보이) FanCam | Show! MusicCore | MBC230902방송]]></title>
-        <id>https://tv.naver.com/v/39769302</id>
-        <link href="https://tv.naver.com/v/39769302"/>
-        <updated>2023-09-02T11:11:52.542Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
 </feed>
