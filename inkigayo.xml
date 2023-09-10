@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-09-10T06:19:33.527Z</updated>
+    <updated>2023-09-10T07:14:08.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VANNER (배너) - PERFORMER | SBS 230910 방송]]></title>
+        <id>https://tv.naver.com/v/40077795</id>
+        <link href="https://tv.naver.com/v/40077795"/>
+        <updated>2023-09-10T07:13:32.253Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ (트렌드지) - MY WAY | SBS 230910 방송]]></title>
+        <id>https://tv.naver.com/v/40077572</id>
+        <link href="https://tv.naver.com/v/40077572"/>
+        <updated>2023-09-10T07:13:32.255Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers (싸이커스) - HOMEBOY | SBS 230910 방송]]></title>
+        <id>https://tv.naver.com/v/40077285</id>
+        <link href="https://tv.naver.com/v/40077285"/>
+        <updated>2023-09-10T07:13:32.257Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cignature (시그니처) - 안녕, 인사해(Smooth Sailing) | SBS 230910 방송]]></title>
+        <id>https://tv.naver.com/v/40077246</id>
+        <link href="https://tv.naver.com/v/40077246"/>
+        <updated>2023-09-10T07:13:32.260Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT U - Baggy Jeans | SBS 230903 방송]]></title>
         <id>https://tv.naver.com/v/39790455</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/39515413"/>
         <updated>2023-08-27T08:17:41.965Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC(스테이씨) - Bubble | SBS 230827 방송]]></title>
-        <id>https://tv.naver.com/v/39515294</id>
-        <link href="https://tv.naver.com/v/39515294"/>
-        <updated>2023-08-27T08:17:41.966Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE(라이즈) - Memories | SBS 230827 방송]]></title>
-        <id>https://tv.naver.com/v/39515092</id>
-        <link href="https://tv.naver.com/v/39515092"/>
-        <updated>2023-08-27T08:17:41.967Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE(라이즈) - Siren | SBS 230827 방송]]></title>
-        <id>https://tv.naver.com/v/39515071</id>
-        <link href="https://tv.naver.com/v/39515071"/>
-        <updated>2023-08-27T08:17:41.968Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVERGLOW(에버글로우) - SLAY | SBS 230827 방송]]></title>
-        <id>https://tv.naver.com/v/39515070</id>
-        <link href="https://tv.naver.com/v/39515070"/>
-        <updated>2023-08-27T08:17:41.969Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
