@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-11T11:14:37.380Z</updated>
+    <updated>2023-09-11T12:32:19.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에버글로우가 에버글로우했다💫]]></title>
+        <id>https://tv.naver.com/v/40116164</id>
+        <link href="https://tv.naver.com/v/40116164"/>
+        <updated>2023-09-11T12:32:03.788Z</updated>
+        <content type="html"><![CDATA[00:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] Hello! 언제나 반가운 쇼요일! 모두 함께 LET’S DANCE!]]></title>
         <id>https://tv.naver.com/v/40112432</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/39646682</id>
         <link href="https://tv.naver.com/v/39646682"/>
         <updated>2023-08-30T13:19:47.287Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] STAYC YOON - Bubble (스테이씨 윤 - 버블) | Show Champion | EP.489 l 230830]]></title>
-        <id>https://tv.naver.com/v/39646182</id>
-        <link href="https://tv.naver.com/v/39646182"/>
-        <updated>2023-08-30T13:19:47.289Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
