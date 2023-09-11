@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-11T04:19:39.648Z</updated>
+    <updated>2023-09-11T05:15:32.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 은석 X 설윤 , 9월 둘째 주 음악중심 MC 컷 모음!, MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40108329</id>
+        <link href="https://tv.naver.com/v/40108329"/>
+        <updated>2023-09-11T05:14:49.523Z</updated>
+        <content type="html"><![CDATA[15:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] RIIZE WONBIN - Siren(라이즈 원빈 - 사이렌) Close-up Cam | Show! MusicCore | MBC230909방송]]></title>
         <id>https://tv.naver.com/v/40061432</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40060437"/>
         <updated>2023-09-09T11:12:03.763Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT U JAEHYUN – Baggy Jeans(엔시티 유 재현 - 배기 진스) FanCam | Show! MusicCore | MBC230909방송]]></title>
-        <id>https://tv.naver.com/v/40060328</id>
-        <link href="https://tv.naver.com/v/40060328"/>
-        <updated>2023-09-09T11:12:03.763Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
     </entry>
 </feed>
