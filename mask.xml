@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-09-12T07:16:00.046Z</updated>
+    <updated>2023-09-12T08:21:02.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#엠뚜루마뚜루] 상상도 못한 반가운 얼굴! 요지경 열풍을 일으켰던 배우 겸 가수 신신애 등장✨ MBC230910방송]]></title>
+        <id>https://tv.naver.com/v/40168771</id>
+        <link href="https://tv.naver.com/v/40168771"/>
+        <updated>2023-09-12T08:21:02.150Z</updated>
+        <content type="html"><![CDATA[17:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜5연승 고지 앞 '1급 특수요원'의 운명은?＞ 복면가왕 421회 예고, MBC 230917 방송]]></title>
         <id>https://tv.naver.com/v/40084691</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39794207"/>
         <updated>2023-09-03T10:16:24.276Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['주차장'의 정체는 싱어송라이터 재만!, MBC 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39794061</id>
-        <link href="https://tv.naver.com/v/39794061"/>
-        <updated>2023-09-03T10:16:24.281Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>

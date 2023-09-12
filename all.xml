@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-12T07:16:00.064Z</updated>
+    <updated>2023-09-12T08:21:03.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I Love My Body - 화사 (HWASA) | KBS 230908 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT U DOYOUNG - Baggy Jeans(엔시티 유 도영 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40169418</id>
+        <link href="https://tv.naver.com/v/40169418"/>
+        <updated>2023-09-12T08:20:17.344Z</updated>
+        <content type="html"><![CDATA[04:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT U TEN - Baggy Jeans(엔시티 유 텐 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40169088</id>
+        <link href="https://tv.naver.com/v/40169088"/>
+        <updated>2023-09-12T08:20:17.347Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT U JAEHYUN - Baggy Jeans(엔시티 유 재현 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40168837</id>
+        <link href="https://tv.naver.com/v/40168837"/>
+        <updated>2023-09-12T08:20:17.349Z</updated>
+        <content type="html"><![CDATA[04:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] Young K - nothing but(영케이 - 이것밖에는 없다) Close-up Cam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40121778</id>
         <link href="https://tv.naver.com/v/40121778"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/40060793"/>
         <updated>2023-09-09T12:27:04.768Z</updated>
         <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT U TEN – Baggy Jeans(엔시티 유 텐 - 배기 진스) FanCam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40060792</id>
-        <link href="https://tv.naver.com/v/40060792"/>
-        <updated>2023-09-09T12:27:04.770Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] PURPLE KISS – 7HEAVEN(퍼플키스 - 세븐헤븐) FanCam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40060676</id>
-        <link href="https://tv.naver.com/v/40060676"/>
-        <updated>2023-09-09T12:27:04.771Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHAE YEON - LET’S DANCE(이채연 – 레츠 댄스) FanCam (Horizontal Ver.)|Show!MusicCore|MBC230909방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40060585</id>
-        <link href="https://tv.naver.com/v/40060585"/>
-        <updated>2023-09-09T12:27:04.773Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[V - Slow Dancing | SBS 230910 방송 (인기가요)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[05:37]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#엠뚜루마뚜루] 상상도 못한 반가운 얼굴! 요지경 열풍을 일으켰던 배우 겸 가수 신신애 등장✨ MBC230910방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/40168771</id>
+        <link href="https://tv.naver.com/v/40168771"/>
+        <updated>2023-09-12T08:21:02.150Z</updated>
+        <content type="html"><![CDATA[17:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[＜5연승 고지 앞 '1급 특수요원'의 운명은?＞ 복면가왕 421회 예고, MBC 230917 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/40084691</id>
         <link href="https://tv.naver.com/v/40084691"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/39794207"/>
         <updated>2023-09-03T10:16:24.276Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['주차장'의 정체는 싱어송라이터 재만!, MBC 230903 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/39794061</id>
-        <link href="https://tv.naver.com/v/39794061"/>
-        <updated>2023-09-03T10:16:24.281Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
