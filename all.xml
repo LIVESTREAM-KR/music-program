@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-12T10:18:15.971Z</updated>
+    <updated>2023-09-12T11:13:59.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I Love My Body - 화사 (HWASA) | KBS 230908 방송 (뮤직뱅크)]]></title>
@@ -845,6 +845,76 @@
         <content type="html"><![CDATA[00:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40176862</id>
+        <link href="https://tv.naver.com/v/40176862"/>
+        <updated>2023-09-12T11:13:36.816Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 고혹적인 아우라, 김세정 'Top or Cliff' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40176641</id>
+        <link href="https://tv.naver.com/v/40176641"/>
+        <updated>2023-09-12T11:13:36.818Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 미지의 세계를 향한 항해, 김세정 '항해' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40176417</id>
+        <link href="https://tv.naver.com/v/40176417"/>
+        <updated>2023-09-12T11:13:36.822Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 거침없고 솔직한 감정, BOYNEXTDOOR '뭣 같아' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40176256</id>
+        <link href="https://tv.naver.com/v/40176256"/>
+        <updated>2023-09-12T11:13:36.822Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 서툰 첫사랑의 이별을 담은, BOYNEXTDOOR 'Crying' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40176202</id>
+        <link href="https://tv.naver.com/v/40176202"/>
+        <updated>2023-09-12T11:13:36.830Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 유일무이한 댄싱 퀸 퍼포먼스, 이채연 'LET'S Dance' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40176200</id>
+        <link href="https://tv.naver.com/v/40176200"/>
+        <updated>2023-09-12T11:13:36.830Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어른아이에 대한 새로운 정의!, 김우진 (KIM WOOJIN) '어른아이 (On My Way)' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40175970</id>
+        <link href="https://tv.naver.com/v/40175970"/>
+        <updated>2023-09-12T11:13:36.831Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Solo Debut] 자신만의 독보적 감성, 재찬 'Hello' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40175745</id>
+        <link href="https://tv.naver.com/v/40175745"/>
+        <updated>2023-09-12T11:13:36.831Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 여상 & BOYNEXTDOOR (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40175565</id>
+        <link href="https://tv.naver.com/v/40175565"/>
+        <updated>2023-09-12T11:13:36.834Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 반전 매력의 하이틴 소녀들, 로켓펀치(Rocket Punch) 'BOOM' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/40175562</id>
+        <link href="https://tv.naver.com/v/40175562"/>
+        <updated>2023-09-12T11:13:36.834Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[절대 꺼지지 않을 희망, H1-KEY (하이키) '불빛을 꺼뜨리지 마 (Time to Shine)' (더쇼)]]></title>
         <id>https://tv.naver.com/v/40175046</id>
         <link href="https://tv.naver.com/v/40175046"/>
@@ -983,76 +1053,6 @@
         <link href="https://tv.naver.com/v/39884977"/>
         <updated>2023-09-05T10:17:43.545Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 다채로운 존재감, X:IN 'SYNCHRONIZE' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39884939</id>
-        <link href="https://tv.naver.com/v/39884939"/>
-        <updated>2023-09-05T10:17:43.546Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 자유로운 에너지, 김우진 (KIM WOOJIN) '어른아이 (On My Way) ' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39884774</id>
-        <link href="https://tv.naver.com/v/39884774"/>
-        <updated>2023-09-05T10:17:43.558Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 생기 가득한 청량함, cignature(시그니처) '안녕, 인사해 (Smooth Sailing)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39884416</id>
-        <link href="https://tv.naver.com/v/39884416"/>
-        <updated>2023-09-05T10:17:43.558Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초공개] 감각적인 매력, XODIAC 'LEMONADE' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39884372</id>
-        <link href="https://tv.naver.com/v/39884372"/>
-        <updated>2023-09-05T10:17:43.558Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 중독성 있는 멜로디, cignature(시그니처) 'Sorry So Sorry' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39884151</id>
-        <link href="https://tv.naver.com/v/39884151"/>
-        <updated>2023-09-05T10:17:43.558Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파워풀하게 돌파하는 패기, TIOT(티아이오티) '백전무패 (百戰無敗)' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39883779</id>
-        <link href="https://tv.naver.com/v/39883779"/>
-        <updated>2023-09-05T10:17:43.558Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박진감 넘치는 사운드, LE'V 'A.I.BAE' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39883728</id>
-        <link href="https://tv.naver.com/v/39883728"/>
-        <updated>2023-09-05T10:17:43.558Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀엽고 달콤한 고백!, PRIMROSE(프림로즈) 'LAAFFY TAFFY' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39883092</id>
-        <link href="https://tv.naver.com/v/39883092"/>
-        <updated>2023-09-05T10:17:43.563Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[INTRO] 메세지가 도착했습니다 (From.여땅) (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39883056</id>
-        <link href="https://tv.naver.com/v/39883056"/>
-        <updated>2023-09-05T10:17:43.564Z</updated>
-        <content type="html"><![CDATA[01:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
-        <id>https://tv.naver.com/v/39605965</id>
-        <link href="https://tv.naver.com/v/39605965"/>
-        <updated>2023-08-29T11:13:35.595Z</updated>
-        <content type="html"><![CDATA[04:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에버글로우가 에버글로우했다💫 (쇼챔피언)]]></title>
