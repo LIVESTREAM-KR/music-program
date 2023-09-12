@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-09-12T09:16:27.876Z</updated>
+    <updated>2023-09-12T10:18:15.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 달달한🍭목소리로 여심 제대로 저격한 ＜소년판타지＞의 주인공✨판타지 보이즈 김우석!, MBC 230910 방송]]></title>
+        <id>https://tv.naver.com/v/40173818</id>
+        <link href="https://tv.naver.com/v/40173818"/>
+        <updated>2023-09-12T10:18:15.208Z</updated>
+        <content type="html"><![CDATA[11:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 한국 체조🔥최초의 올림픽 금메달리스트🔥 체조 선수 양학선의 반전 라이브!🎉, MBC 230910 방송]]></title>
+        <id>https://tv.naver.com/v/40173452</id>
+        <link href="https://tv.naver.com/v/40173452"/>
+        <updated>2023-09-12T10:18:15.208Z</updated>
+        <content type="html"><![CDATA[09:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#엠뚜루마뚜루] 상상도 못한 반가운 얼굴! 요지경 열풍을 일으켰던 배우 겸 가수 신신애 등장✨ MBC230910방송]]></title>
         <id>https://tv.naver.com/v/40168771</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39794678"/>
         <updated>2023-09-03T11:13:01.448Z</updated>
         <content type="html"><![CDATA[01:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['탕후루' 2라운드 무대 - 고해, MBC 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39794474</id>
-        <link href="https://tv.naver.com/v/39794474"/>
-        <updated>2023-09-03T11:13:01.451Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['선크림' 2라운드 무대 - 사월이 지나면 우리 헤어져요, MBC 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39794207</id>
-        <link href="https://tv.naver.com/v/39794207"/>
-        <updated>2023-09-03T10:16:24.276Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
