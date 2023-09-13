@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-13T06:21:34.484Z</updated>
+    <updated>2023-09-13T07:15:49.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I Love My Body - 화사 (HWASA) | KBS 230908 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ITZY – CAKE(있지 - 케이크) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40116878</id>
+        <link href="https://tv.naver.com/v/40116878"/>
+        <updated>2023-09-13T07:15:04.177Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT U DOYOUNG - Baggy Jeans(엔시티 유 도영 - 배기 진스) Close-up Cam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40169418</id>
         <link href="https://tv.naver.com/v/40169418"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/40060794"/>
         <updated>2023-09-09T12:27:04.766Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KIM SEJEONG - Voyage(김세정 – 항해) FanCam (Horizontal Ver.) | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40060793</id>
-        <link href="https://tv.naver.com/v/40060793"/>
-        <updated>2023-09-09T12:27:04.768Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[V - Slow Dancing | SBS 230910 방송 (인기가요)]]></title>
