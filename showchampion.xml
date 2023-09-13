@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-13T10:17:49.449Z</updated>
+    <updated>2023-09-13T11:14:17.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 9월 2주 챔피언송 ＜BOYNEXTDOOR - 뭣 같아＞ 앵콜 Full ver. l Show Champion l EP.491 l 230913]]></title>
+        <id>https://tv.naver.com/v/40224519</id>
+        <link href="https://tv.naver.com/v/40224519"/>
+        <updated>2023-09-13T11:14:03.685Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 김세정(KIM SEJEONG) - Top or Cliff l 230913]]></title>
+        <id>https://tv.naver.com/v/40222681</id>
+        <link href="https://tv.naver.com/v/40222681"/>
+        <updated>2023-09-13T11:14:03.685Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김세정(KIM SEJEONG) - 항해 l 230913]]></title>
+        <id>https://tv.naver.com/v/40222484</id>
+        <link href="https://tv.naver.com/v/40222484"/>
+        <updated>2023-09-13T11:14:03.685Z</updated>
+        <content type="html"><![CDATA[02:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 이채연(LEE CHAE YEON) - LET’S DANCE l 230913]]></title>
+        <id>https://tv.naver.com/v/40222483</id>
+        <link href="https://tv.naver.com/v/40222483"/>
+        <updated>2023-09-13T11:14:03.685Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 보이넥스트도어(BOYNEXTDOOR) - 뭣 같아 l 230913]]></title>
         <id>https://tv.naver.com/v/40222330</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/39654330"/>
         <updated>2023-08-31T08:21:20.772Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] YERIN - Bambambam (예린 - 밤밤밤) | Show Champion | EP.489 | 230830]]></title>
-        <id>https://tv.naver.com/v/39654074</id>
-        <link href="https://tv.naver.com/v/39654074"/>
-        <updated>2023-08-31T08:21:20.772Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ARTBEAT v - DUBI DUBI (아트비트 브이 - 두비두비) | Show Champion | EP.489 | 230830]]></title>
-        <id>https://tv.naver.com/v/39653560</id>
-        <link href="https://tv.naver.com/v/39653560"/>
-        <updated>2023-08-31T08:21:20.772Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LE'V - A.I.BAE (레비 - 에이아이베) | Show Champion | EP.489 | 230830]]></title>
-        <id>https://tv.naver.com/v/39653309</id>
-        <link href="https://tv.naver.com/v/39653309"/>
-        <updated>2023-08-31T08:21:20.772Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC 모두가 부른 각양각색 Bubble🫧]]></title>
-        <id>https://tv.naver.com/v/39687039</id>
-        <link href="https://tv.naver.com/v/39687039"/>
-        <updated>2023-08-31T07:15:27.385Z</updated>
-        <content type="html"><![CDATA[00:46]]></content>
     </entry>
 </feed>
