@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-14T11:14:21.300Z</updated>
+    <updated>2023-09-14T12:31:49.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I Love My Body - 화사 (HWASA) | KBS 230908 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,55 @@
         <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['HOT SOLO DEBUT' V - Slow Dancing | Mnet 230914 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40274133</id>
+        <link href="https://tv.naver.com/v/40274133"/>
+        <updated>2023-09-14T12:31:14.644Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HOT SOLO DEBUT' V - Love Me Again | Mnet 230914 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40274131</id>
+        <link href="https://tv.naver.com/v/40274131"/>
+        <updated>2023-09-14T12:31:14.645Z</updated>
+        <content type="html"><![CDATA[04:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - 7HEAVEN | Mnet 230914 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40273602</id>
+        <link href="https://tv.naver.com/v/40273602"/>
+        <updated>2023-09-14T12:31:14.647Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 키 (KEY) - Good & Great | Mnet 230914 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40273428</id>
+        <link href="https://tv.naver.com/v/40273428"/>
+        <updated>2023-09-14T12:31:14.648Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 키 (KEY) - CoolAs | Mnet 230914 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40273425</id>
+        <link href="https://tv.naver.com/v/40273425"/>
+        <updated>2023-09-14T12:31:14.650Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화사(HWASA) - I Love My Body | Mnet 230914 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40273424</id>
+        <link href="https://tv.naver.com/v/40273424"/>
+        <updated>2023-09-14T12:31:14.651Z</updated>
+        <content type="html"><![CDATA[02:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Young K (DAY6) - 이것밖에는 없다 | Mnet 230914 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40273036</id>
+        <link href="https://tv.naver.com/v/40273036"/>
+        <updated>2023-09-14T12:31:14.652Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[김세정 - Top or Cliff | Mnet 230914 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/40272423</id>
         <link href="https://tv.naver.com/v/40272423"/>
@@ -794,55 +843,6 @@
         <link href="https://tv.naver.com/v/39989070"/>
         <updated>2023-09-07T11:13:49.525Z</updated>
         <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 화사 (HWASA) | Mnet 230907 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39988888</id>
-        <link href="https://tv.naver.com/v/39988888"/>
-        <updated>2023-09-07T11:13:49.525Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' Young K (DAY6) - 이것밖에는 없다 | Mnet 230907 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39988887</id>
-        <link href="https://tv.naver.com/v/39988887"/>
-        <updated>2023-09-07T11:13:49.527Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 이채연 - LET'S DANCE | Mnet 230907 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39988731</id>
-        <link href="https://tv.naver.com/v/39988731"/>
-        <updated>2023-09-07T11:13:49.527Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' BOYNEXTDOOR - 뭣 같아 | Mnet 230907 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39988471</id>
-        <link href="https://tv.naver.com/v/39988471"/>
-        <updated>2023-09-07T11:13:49.527Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' BOYNEXTDOOR - Crying | Mnet 230907 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39988296</id>
-        <link href="https://tv.naver.com/v/39988296"/>
-        <updated>2023-09-07T11:13:49.530Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with Young K (DAY6) (영케이 (데이식스)) | Mnet 230907 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39988292</id>
-        <link href="https://tv.naver.com/v/39988292"/>
-        <updated>2023-09-07T11:13:49.544Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVERGLOW(에버글로우) - SLAY | Mnet 230907 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39988146</id>
-        <link href="https://tv.naver.com/v/39988146"/>
-        <updated>2023-09-07T11:13:49.547Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
@@ -1104,6 +1104,13 @@
         <content type="html"><![CDATA[02:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[크래비티만 있다면 모든 상관없어 ready or not!💿 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40254852</id>
+        <link href="https://tv.naver.com/v/40254852"/>
+        <updated>2023-09-14T12:31:31.948Z</updated>
+        <content type="html"><![CDATA[00:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한 편의 서사를 담은 무대🙏 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/40254035</id>
         <link href="https://tv.naver.com/v/40254035"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/40213510"/>
         <updated>2023-09-13T13:20:50.665Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KIM SEJEONG - Top or Cliff (김세정 - 탑 오어 클리프) l Show Champion l EP.491 | 230913 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40212161</id>
-        <link href="https://tv.naver.com/v/40212161"/>
-        <updated>2023-09-13T13:20:50.666Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 623회 〈아티스트 김수철 2부＞ 우승자 ⭐라포엠⭐ | KBS 방송 (불후의 명곡)]]></title>

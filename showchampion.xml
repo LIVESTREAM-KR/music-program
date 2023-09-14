@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-14T11:14:21.281Z</updated>
+    <updated>2023-09-14T12:31:49.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://tv.naver.com/v/40257707"/>
         <updated>2023-09-14T08:21:02.097Z</updated>
         <content type="html"><![CDATA[02:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티만 있다면 모든 상관없어 ready or not!💿]]></title>
+        <id>https://tv.naver.com/v/40254852</id>
+        <link href="https://tv.naver.com/v/40254852"/>
+        <updated>2023-09-14T12:31:31.948Z</updated>
+        <content type="html"><![CDATA[00:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한 편의 서사를 담은 무대🙏]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40213510"/>
         <updated>2023-09-13T13:20:50.665Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KIM SEJEONG - Top or Cliff (김세정 - 탑 오어 클리프) l Show Champion l EP.491 | 230913]]></title>
-        <id>https://tv.naver.com/v/40212161</id>
-        <link href="https://tv.naver.com/v/40212161"/>
-        <updated>2023-09-13T13:20:50.666Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
