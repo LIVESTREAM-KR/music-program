@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-09-14T10:19:35.147Z</updated>
+    <updated>2023-09-14T11:14:21.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김세정 - Top or Cliff | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40272423</id>
+        <link href="https://tv.naver.com/v/40272423"/>
+        <updated>2023-09-14T11:13:52.510Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR - 뭣 같아 | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40272031</id>
+        <link href="https://tv.naver.com/v/40272031"/>
+        <updated>2023-09-14T11:13:52.510Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['UP NEXT' V (뷔) #2 | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40271852</id>
+        <link href="https://tv.naver.com/v/40271852"/>
+        <updated>2023-09-14T11:13:52.510Z</updated>
+        <content type="html"><![CDATA[00:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIIZE - Get A Guitar | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40271850</id>
+        <link href="https://tv.naver.com/v/40271850"/>
+        <updated>2023-09-14T11:13:52.510Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 허영지 - L.O.V.E | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40271668</id>
+        <link href="https://tv.naver.com/v/40271668"/>
+        <updated>2023-09-14T11:13:52.513Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with 키 (KEY) | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40271397</id>
+        <link href="https://tv.naver.com/v/40271397"/>
+        <updated>2023-09-14T11:13:52.513Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이채연 - LET'S DANCE | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40271388</id>
+        <link href="https://tv.naver.com/v/40271388"/>
+        <updated>2023-09-14T11:13:52.514Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' CRAVITY - Ready or Not | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40271165</id>
+        <link href="https://tv.naver.com/v/40271165"/>
+        <updated>2023-09-14T11:13:52.514Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' EL7Z UP (엘즈업) - CHEEKY | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40270767</id>
+        <link href="https://tv.naver.com/v/40270767"/>
+        <updated>2023-09-14T11:13:52.515Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - MY WAY | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40270764</id>
+        <link href="https://tv.naver.com/v/40270764"/>
+        <updated>2023-09-14T11:13:52.517Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with 허영지 (HUR YOUNGJI) | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40270524</id>
+        <link href="https://tv.naver.com/v/40270524"/>
+        <updated>2023-09-14T11:13:52.518Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로켓펀치 - BOOM | Mnet 230914 방송]]></title>
+        <id>https://tv.naver.com/v/40270517</id>
+        <link href="https://tv.naver.com/v/40270517"/>
+        <updated>2023-09-14T11:13:52.520Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재현, 한빈, 소희의 친해지길 바라★ | Mnet 230914 방송]]></title>
         <id>https://tv.naver.com/v/40270336</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/39988146"/>
         <updated>2023-09-07T11:13:49.547Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' RIIZE - Get A Guitar | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39988139</id>
-        <link href="https://tv.naver.com/v/39988139"/>
-        <updated>2023-09-07T11:13:49.550Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT DEBUT' RIIZE - Memories | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39987944</id>
-        <link href="https://tv.naver.com/v/39987944"/>
-        <updated>2023-09-07T11:13:49.553Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT DEBUT' RIIZE - Siren | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39987765</id>
-        <link href="https://tv.naver.com/v/39987765"/>
-        <updated>2023-09-07T11:13:49.556Z</updated>
-        <content type="html"><![CDATA[01:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 로켓펀치 - BOOM | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39987615</id>
-        <link href="https://tv.naver.com/v/39987615"/>
-        <updated>2023-09-07T11:13:49.558Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with BOYNEXTDOOR (보이넥스트도어) | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39987613</id>
-        <link href="https://tv.naver.com/v/39987613"/>
-        <updated>2023-09-07T11:13:49.561Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - HOMEBOY | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39987397</id>
-        <link href="https://tv.naver.com/v/39987397"/>
-        <updated>2023-09-07T11:13:49.563Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' cignature(시그니처) - 안녕, 인사해 (Smooth Sailing) | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39986808</id>
-        <link href="https://tv.naver.com/v/39986808"/>
-        <updated>2023-09-07T10:18:48.804Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPOILER M' EL7Z U+P (엘즈업) | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39986646</id>
-        <link href="https://tv.naver.com/v/39986646"/>
-        <updated>2023-09-07T10:18:48.807Z</updated>
-        <content type="html"><![CDATA[01:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' TRENDZ(트렌드지) - MY WAY | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39986515</id>
-        <link href="https://tv.naver.com/v/39986515"/>
-        <updated>2023-09-07T10:18:48.808Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 퍼플키스(PURPLE KISS) - 7HEAVEN | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39986507</id>
-        <link href="https://tv.naver.com/v/39986507"/>
-        <updated>2023-09-07T10:18:48.808Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with RIIZE (라이즈) | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39986285</id>
-        <link href="https://tv.naver.com/v/39986285"/>
-        <updated>2023-09-07T10:18:48.813Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VANNER(배너) - PERFORMER | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39986096</id>
-        <link href="https://tv.naver.com/v/39986096"/>
-        <updated>2023-09-07T10:18:48.814Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
