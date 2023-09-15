@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-15T06:21:19.517Z</updated>
+    <updated>2023-09-15T07:15:38.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[I Love My Body - 화사 (HWASA) | KBS 230908 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] STAYC – Bubble(스테이씨 - 버블) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40118461</id>
+        <link href="https://tv.naver.com/v/40118461"/>
+        <updated>2023-09-15T07:14:59.602Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ITZY – CAKE(있지 - 케이크) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40116878</id>
         <link href="https://tv.naver.com/v/40116878"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/40060795"/>
         <updated>2023-09-09T12:27:04.764Z</updated>
         <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHAE YEON – LET’S DANCE(이채연 - 레츠 댄스) FanCam | Show! MusicCore | MBC230909방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40060794</id>
-        <link href="https://tv.naver.com/v/40060794"/>
-        <updated>2023-09-09T12:27:04.766Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[V - Slow Dancing | SBS 230910 방송 (인기가요)]]></title>
