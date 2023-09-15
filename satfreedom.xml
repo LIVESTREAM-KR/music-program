@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-15T10:18:30.311Z</updated>
+    <updated>2023-09-15T11:14:36.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 가장 기억에 남는 명곡을 추억하는 시간! 인생 명곡 노래방🎶 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/40315935</id>
+        <link href="https://tv.naver.com/v/40315935"/>
+        <updated>2023-09-15T11:14:27.469Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 웃다가 중독되는 테이X뮤지의 개꿀송 🐶🍯 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/40315591</id>
+        <link href="https://tv.naver.com/v/40315591"/>
+        <updated>2023-09-15T11:14:27.470Z</updated>
+        <content type="html"><![CDATA[00:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 623회 〈아티스트 김수철 2부＞ 우승자 ⭐라포엠⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/40061714</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/40022727"/>
         <updated>2023-09-09T12:27:41.039Z</updated>
         <content type="html"><![CDATA[05:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 나상현씨밴드 – 싫어 싫어 | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39935701</id>
-        <link href="https://tv.naver.com/v/39935701"/>
-        <updated>2023-09-06T10:17:49.714Z</updated>
-        <content type="html"><![CDATA[04:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 뮤지컬 ＜프리다＞ (리사x알리x스테파니x황우림) - 내일 | KBS 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39935697</id>
-        <link href="https://tv.naver.com/v/39935697"/>
-        <updated>2023-09-06T10:17:49.714Z</updated>
-        <content type="html"><![CDATA[05:37]]></content>
     </entry>
 </feed>
