@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-15T01:08:46.727Z</updated>
+    <updated>2023-09-15T02:23:24.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9월 2주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (woo!ah! 나나, Billlie 츠키) | Show Champion | EP.491 | 230913]]></title>
+        <id>https://tv.naver.com/v/40242076</id>
+        <link href="https://tv.naver.com/v/40242076"/>
+        <updated>2023-09-15T02:23:09.950Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] H1-KEY - Time to Shine (하이키 - 불빛을 꺼뜨리지 마) | Show Champion | EP.491 | 230913]]></title>
         <id>https://tv.naver.com/v/40258628</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/40213512</id>
         <link href="https://tv.naver.com/v/40213512"/>
         <updated>2023-09-13T13:20:50.664Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BOYNEXTDOOR RIWOO - But Sometimes (보이넥스트도어 리우 - 뭣 같아) | Show Champion | EP.491 | 230913]]></title>
-        <id>https://tv.naver.com/v/40213510</id>
-        <link href="https://tv.naver.com/v/40213510"/>
-        <updated>2023-09-13T13:20:50.665Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
