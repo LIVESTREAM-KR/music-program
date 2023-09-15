@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-15T08:21:11.009Z</updated>
+    <updated>2023-09-15T09:16:43.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/40242076"/>
         <updated>2023-09-15T02:23:09.950Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재찬 이미 너무 Awesome ✨]]></title>
+        <id>https://tv.naver.com/v/40288813</id>
+        <link href="https://tv.naver.com/v/40288813"/>
+        <updated>2023-09-15T09:16:28.318Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] H1-KEY - Time to Shine (하이키 - 불빛을 꺼뜨리지 마) | Show Champion | EP.491 | 230913]]></title>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/40213513</id>
         <link href="https://tv.naver.com/v/40213513"/>
         <updated>2023-09-13T13:20:50.662Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BOYNEXTDOOR JAEHYUN - But Sometimes (보이넥스트도어 명재현 - 뭣 같아)| Show Champion | EP.491 | 230913]]></title>
-        <id>https://tv.naver.com/v/40213512</id>
-        <link href="https://tv.naver.com/v/40213512"/>
-        <updated>2023-09-13T13:20:50.664Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
