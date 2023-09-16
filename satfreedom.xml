@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-16T09:15:33.812Z</updated>
+    <updated>2023-09-16T10:15:41.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[명품 발라더 테이👑 최다 트로피 보유자! 오늘따라 나빠 보이는 인상?🤣 | KBS 230916 방송]]></title>
+        <id>https://tv.naver.com/v/40345742</id>
+        <link href="https://tv.naver.com/v/40345742"/>
+        <updated>2023-09-16T10:15:34.374Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음악 뮤즈들의 만남 김조한&뮤지&한해🍂 뮤한해 팀을 향한 소란의 견제🔥 | KBS 230916 방송]]></title>
+        <id>https://tv.naver.com/v/40345503</id>
+        <link href="https://tv.naver.com/v/40345503"/>
+        <updated>2023-09-16T10:15:34.376Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 라인업💟 누구에게나 올 수 있는 치매, 음악으로 전하는 희망의 메시지 | KBS 230916 방송]]></title>
+        <id>https://tv.naver.com/v/40345388</id>
+        <link href="https://tv.naver.com/v/40345388"/>
+        <updated>2023-09-16T10:15:34.380Z</updated>
+        <content type="html"><![CDATA[02:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노소노소 합창단 - 행복해요 | KBS 230916 방송]]></title>
+        <id>https://tv.naver.com/v/40345141</id>
+        <link href="https://tv.naver.com/v/40345141"/>
+        <updated>2023-09-16T10:15:34.382Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 가장 기억에 남는 명곡을 추억하는 시간! 인생 명곡 노래방🎶 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/40315935</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/40025309"/>
         <updated>2023-09-09T12:27:41.032Z</updated>
         <content type="html"><![CDATA[05:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 몽니x오은철 – 정신 차려 | KBS 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40025252</id>
-        <link href="https://tv.naver.com/v/40025252"/>
-        <updated>2023-09-09T12:27:41.033Z</updated>
-        <content type="html"><![CDATA[05:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 양동근x팝핀현준- 형&치키치키차카차카(날아라 슈퍼보드) | KBS 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40025004</id>
-        <link href="https://tv.naver.com/v/40025004"/>
-        <updated>2023-09-09T12:27:41.035Z</updated>
-        <content type="html"><![CDATA[01:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 크라잉넛 – 다시는 사랑을 안할테야 | KBS 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40023522</id>
-        <link href="https://tv.naver.com/v/40023522"/>
-        <updated>2023-09-09T12:27:41.036Z</updated>
-        <content type="html"><![CDATA[01:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 김기태 – 못다핀 꽃 한송이 | KBS 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40022727</id>
-        <link href="https://tv.naver.com/v/40022727"/>
-        <updated>2023-09-09T12:27:41.039Z</updated>
-        <content type="html"><![CDATA[05:06]]></content>
     </entry>
 </feed>
