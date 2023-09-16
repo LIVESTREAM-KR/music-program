@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-16T08:18:48.348Z</updated>
+    <updated>2023-09-16T09:15:33.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X메들리》 정동원 - '내 마음속 최고'부터 ~'독백'까지 무대 모음, MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40343016</id>
+        <link href="https://tv.naver.com/v/40343016"/>
+        <updated>2023-09-16T09:14:51.152Z</updated>
+        <content type="html"><![CDATA[13:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엔시티 유 - 배기 진스 (NCT U - Baggy Jeans), MBC 230909 방송]]></title>
+        <id>https://tv.naver.com/v/40342569</id>
+        <link href="https://tv.naver.com/v/40342569"/>
+        <updated>2023-09-16T09:14:51.154Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 스테이씨 - 버블 (STAYC - Bubble), MBC 230902 방송]]></title>
+        <id>https://tv.naver.com/v/40342568</id>
+        <link href="https://tv.naver.com/v/40342568"/>
+        <updated>2023-09-16T09:14:51.157Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 있지 - 케이크 (ITZY - CAKE), MBC 230902 방송]]></title>
         <id>https://tv.naver.com/v/40342446</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/40120983"/>
         <updated>2023-09-11T08:20:41.565Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE SHOTARO - Get A Guitar(라이즈 쇼타로 - 겟 어 기타) Close-up Cam | Show! MusicCore | MBC230909방송]]></title>
-        <id>https://tv.naver.com/v/40120981</id>
-        <link href="https://tv.naver.com/v/40120981"/>
-        <updated>2023-09-11T08:20:41.571Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE SUNGCHAN - Get A Guitar(라이즈 성찬 - 겟 어 기타) Close-up Cam | Show! MusicCore | MBC230909방송]]></title>
-        <id>https://tv.naver.com/v/40120912</id>
-        <link href="https://tv.naver.com/v/40120912"/>
-        <updated>2023-09-11T08:20:41.571Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE SOHEE - Get A Guitar(라이즈 소희 - 겟 어 기타) Close-up Cam | Show! MusicCore | MBC230909방송]]></title>
-        <id>https://tv.naver.com/v/40120909</id>
-        <link href="https://tv.naver.com/v/40120909"/>
-        <updated>2023-09-11T08:20:41.581Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
