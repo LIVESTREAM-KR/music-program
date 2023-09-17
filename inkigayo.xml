@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-09-17T06:20:26.064Z</updated>
+    <updated>2023-09-17T07:15:00.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EL7Z UP (엘즈업) - CHEEKY | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40366833</id>
+        <link href="https://tv.naver.com/v/40366833"/>
+        <updated>2023-09-17T07:14:20.892Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BLACKSWAN - Cat & Mouse | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40366832</id>
+        <link href="https://tv.naver.com/v/40366832"/>
+        <updated>2023-09-17T07:14:20.895Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FANTASY BOYS - One Shot | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40366668</id>
+        <link href="https://tv.naver.com/v/40366668"/>
+        <updated>2023-09-17T07:14:20.896Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POW - Favorite | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40366347</id>
+        <link href="https://tv.naver.com/v/40366347"/>
+        <updated>2023-09-17T07:14:20.900Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X:IN - SYNCHRONIZE | SBS 230917 방송]]></title>
+        <id>https://tv.naver.com/v/40366191</id>
+        <link href="https://tv.naver.com/v/40366191"/>
+        <updated>2023-09-17T07:14:20.902Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[V - Slow Dancing | SBS 230910 방송]]></title>
         <id>https://tv.naver.com/v/40083172</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/39789685"/>
         <updated>2023-09-03T08:18:18.778Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY (하이키) - SEOUL (Such a Beautiful City) | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789521</id>
-        <link href="https://tv.naver.com/v/39789521"/>
-        <updated>2023-09-03T08:18:18.778Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVERGLOW(에버글로우) - SLAY | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789329</id>
-        <link href="https://tv.naver.com/v/39789329"/>
-        <updated>2023-09-03T08:18:18.778Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원 - 트위스트고고 | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789203</id>
-        <link href="https://tv.naver.com/v/39789203"/>
-        <updated>2023-09-03T08:18:18.779Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS LOVElution - Girls' Capitalism | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789065</id>
-        <link href="https://tv.naver.com/v/39789065"/>
-        <updated>2023-09-03T08:18:18.779Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cignature(시그니처) - 안녕, 인사해(Smooth Sailing) | SBS 230903 방송]]></title>
-        <id>https://tv.naver.com/v/39789061</id>
-        <link href="https://tv.naver.com/v/39789061"/>
-        <updated>2023-09-03T08:18:18.779Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
