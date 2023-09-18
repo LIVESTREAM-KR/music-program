@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-18T05:16:10.059Z</updated>
+    <updated>2023-09-18T06:21:58.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Slow Dancing - V | KBS 230915 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 선우 X 설윤 X 주학년 , 9월 셋째 주 음악중심 MC 컷 모음!, MBC 230916 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40400393</id>
+        <link href="https://tv.naver.com/v/40400393"/>
+        <updated>2023-09-18T06:21:13.033Z</updated>
+        <content type="html"><![CDATA[11:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] RIIZE WONBIN – Get A Guitar(라이즈 원빈 - 겟 어 기타) FanCam | Show! MusicCore | MBC230916방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40387973</id>
         <link href="https://tv.naver.com/v/40387973"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/40346682"/>
         <updated>2023-09-16T11:12:03.273Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY - Ready or Not(크래비티 – 레디 오어 낫) FanCam | Show! MusicCore | MBC230916방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40346681</id>
-        <link href="https://tv.naver.com/v/40346681"/>
-        <updated>2023-09-16T11:12:03.273Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송 (인기가요)]]></title>
