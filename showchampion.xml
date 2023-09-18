@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-18T07:16:20.005Z</updated>
+    <updated>2023-09-18T08:21:41.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 🙋: 🎸🧩🧡📻🚪 주문되나요? 쇼챔: 당연히 줄 수 있지]]></title>
+        <id>https://tv.naver.com/v/40405287</id>
+        <link href="https://tv.naver.com/v/40405287"/>
+        <updated>2023-09-18T08:21:26.023Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초대할게! 대대대대대댄스🥰 #이채연 #렛츠댄스]]></title>
         <id>https://tv.naver.com/v/40298973</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/40213906</id>
         <link href="https://tv.naver.com/v/40213906"/>
         <updated>2023-09-13T13:20:50.656Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BOYNEXTDOOR SUNGHO - But Sometimes (보이넥스트도어 성호 - 뭣 같아) | Show Champion | EP.491 | 230913]]></title>
-        <id>https://tv.naver.com/v/40213822</id>
-        <link href="https://tv.naver.com/v/40213822"/>
-        <updated>2023-09-13T13:20:50.659Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
