@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-09-19T07:16:16.025Z</updated>
+    <updated>2023-09-19T08:21:40.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[성한빈&소희&명재현이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/40458983</id>
+        <link href="https://tv.naver.com/v/40458983"/>
+        <updated>2023-09-19T08:21:11.077Z</updated>
+        <content type="html"><![CDATA[01:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['HOT SOLO DEBUT' V - Slow Dancing | Mnet 230914 방송]]></title>
         <id>https://tv.naver.com/v/40274133</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39989085"/>
         <updated>2023-09-07T11:13:49.524Z</updated>
         <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 김세정 - 항해 | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39989070</id>
-        <link href="https://tv.naver.com/v/39989070"/>
-        <updated>2023-09-07T11:13:49.525Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
     </entry>
 </feed>
