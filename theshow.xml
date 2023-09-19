@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2023-09-19T10:18:06.225Z</updated>
+    <updated>2023-09-19T11:14:12.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/40467336</id>
+        <link href="https://tv.naver.com/v/40467336"/>
+        <updated>2023-09-19T11:13:51.312Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 청춘의 무한대적 사랑, CRAVITY 'INTRO + Ready or Not']]></title>
+        <id>https://tv.naver.com/v/40467138</id>
+        <link href="https://tv.naver.com/v/40467138"/>
+        <updated>2023-09-19T11:13:51.312Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] 소년들이 펼치는 빛나는 미래, RIIZE 'INTRO + Get A Guitar']]></title>
+        <id>https://tv.naver.com/v/40466944</id>
+        <link href="https://tv.naver.com/v/40466944"/>
+        <updated>2023-09-19T11:13:51.316Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Hot Debut] EL7Z UP만의 당당한 애티튜드!, EL7Z UP 'CHEEKY']]></title>
+        <id>https://tv.naver.com/v/40466770</id>
+        <link href="https://tv.naver.com/v/40466770"/>
+        <updated>2023-09-19T11:13:51.318Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파도처럼 요동치는 이별의 감정, BOYNEXTDOOR '뭣 같아']]></title>
+        <id>https://tv.naver.com/v/40466730</id>
+        <link href="https://tv.naver.com/v/40466730"/>
+        <updated>2023-09-19T11:13:51.320Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한층 더 익사이팅해진 무브먼트, 이채연 'LET'S Dance']]></title>
+        <id>https://tv.naver.com/v/40466728</id>
+        <link href="https://tv.naver.com/v/40466728"/>
+        <updated>2023-09-19T11:13:51.321Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[내꾸하짤] MC 여상 & CRAVITY]]></title>
+        <id>https://tv.naver.com/v/40466507</id>
+        <link href="https://tv.naver.com/v/40466507"/>
+        <updated>2023-09-19T11:13:51.323Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Solo Debut] 다채로운 매력이 곁든 새로운 출발!, 허영지 'L.O.V.E']]></title>
+        <id>https://tv.naver.com/v/40466150</id>
+        <link href="https://tv.naver.com/v/40466150"/>
+        <updated>2023-09-19T11:13:51.324Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑스러운 이세계 하이틴 소녀들, 로켓펀치 (Rocket Punch) 'BOOM']]></title>
+        <id>https://tv.naver.com/v/40466106</id>
+        <link href="https://tv.naver.com/v/40466106"/>
+        <updated>2023-09-19T11:13:51.325Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환상적인 보랏빛 천국, 퍼플키스 (PURPLE KISS) '7HEAVEN']]></title>
+        <id>https://tv.naver.com/v/40466103</id>
+        <link href="https://tv.naver.com/v/40466103"/>
+        <updated>2023-09-19T11:13:51.326Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬란하게 눈부신 무대, H1-KEY (하이키) '불빛을 꺼뜨리지 마 (Time to Shine)']]></title>
+        <id>https://tv.naver.com/v/40465913</id>
+        <link href="https://tv.naver.com/v/40465913"/>
+        <updated>2023-09-19T11:13:51.327Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진정한 나를 찾아가는 이야기, 재찬 'Hello']]></title>
         <id>https://tv.naver.com/v/40465492</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/40175562"/>
         <updated>2023-09-12T11:13:36.834Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[절대 꺼지지 않을 희망, H1-KEY (하이키) '불빛을 꺼뜨리지 마 (Time to Shine)']]></title>
-        <id>https://tv.naver.com/v/40175046</id>
-        <link href="https://tv.naver.com/v/40175046"/>
-        <updated>2023-09-12T10:17:53.965Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 한층 더 짙어진 일곱 청춘, TRENDZ(트렌드지) 'MY WAY']]></title>
-        <id>https://tv.naver.com/v/40175011</id>
-        <link href="https://tv.naver.com/v/40175011"/>
-        <updated>2023-09-12T10:17:53.966Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Comeback] 여름 끝자락의 축제, 퍼플키스(PURPLE KISS) '7HEAVEN']]></title>
-        <id>https://tv.naver.com/v/40174851</id>
-        <link href="https://tv.naver.com/v/40174851"/>
-        <updated>2023-09-12T10:17:53.967Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑스러운 6인 6색 매력, cignature(시그니처) '안녕, 인사해 (Smooth Sailing)']]></title>
-        <id>https://tv.naver.com/v/40174539</id>
-        <link href="https://tv.naver.com/v/40174539"/>
-        <updated>2023-09-12T10:17:53.968Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A.I.보다 더 완벽한 무결점 무대, LE'V 'A.I.BAE']]></title>
-        <id>https://tv.naver.com/v/40174504</id>
-        <link href="https://tv.naver.com/v/40174504"/>
-        <updated>2023-09-12T10:17:53.968Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강렬하고 키치한 무드, XODIAC 'LEMONADE']]></title>
-        <id>https://tv.naver.com/v/40174164</id>
-        <link href="https://tv.naver.com/v/40174164"/>
-        <updated>2023-09-12T10:17:53.969Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연결되기를 바라는 마음, X:IN 'SYNCHRONIZE']]></title>
-        <id>https://tv.naver.com/v/40173822</id>
-        <link href="https://tv.naver.com/v/40173822"/>
-        <updated>2023-09-12T10:17:53.970Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열정 가득한 파워 에너지, TIOT(티아이오티) '백전무패 (百戰無敗)']]></title>
-        <id>https://tv.naver.com/v/40173819</id>
-        <link href="https://tv.naver.com/v/40173819"/>
-        <updated>2023-09-12T10:17:53.971Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽환적인 감성 보컬, 한 (HAN) '위스퍼 (Whisper)']]></title>
-        <id>https://tv.naver.com/v/40173455</id>
-        <link href="https://tv.naver.com/v/40173455"/>
-        <updated>2023-09-12T10:17:53.972Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/39886935</id>
-        <link href="https://tv.naver.com/v/39886935"/>
-        <updated>2023-09-05T11:13:31.012Z</updated>
-        <content type="html"><![CDATA[05:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레트로 퀸의 새로운 도약, 예린(YERIN) '밤밤밤(Bambambam)']]></title>
-        <id>https://tv.naver.com/v/39886444</id>
-        <link href="https://tv.naver.com/v/39886444"/>
-        <updated>2023-09-05T11:13:31.012Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
