@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-20T10:17:59.991Z</updated>
+    <updated>2023-09-20T11:14:40.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Slow Dancing - V | KBS 230915 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[SPECIAL BEHIND] V - Slow Dancing (Freestyle Dance Ver) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40518476</id>
+        <link href="https://tv.naver.com/v/40518476"/>
+        <updated>2023-09-20T11:14:10.672Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[입덕멍캠🐾] 뷔 💜 김연탄 직캠 4K 'Slow Dancing' (V 💜 YEONTAN FanCam) (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/40493619</id>
         <link href="https://tv.naver.com/v/40493619"/>
@@ -836,13 +843,6 @@
         <link href="https://tv.naver.com/v/39989342"/>
         <updated>2023-09-07T12:30:33.317Z</updated>
         <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT U - Baggy Jeans | Mnet 230907 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/39989087</id>
-        <link href="https://tv.naver.com/v/39989087"/>
-        <updated>2023-09-07T11:13:49.523Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
@@ -1055,6 +1055,20 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이채연(LEE CHAE YEON) - LET’S DANCE l 230920 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40516449</id>
+        <link href="https://tv.naver.com/v/40516449"/>
+        <updated>2023-09-20T11:14:24.812Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이넥스트도어(BOYNEXTDOOR) - 뭣 같아 l 230920 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40516211</id>
+        <link href="https://tv.naver.com/v/40516211"/>
+        <updated>2023-09-20T11:14:24.815Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[HOT DEBUT] 라이즈(RIIZE) - Get A Guitar l 230920 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/40515964</id>
         <link href="https://tv.naver.com/v/40515964"/>
@@ -1150,7 +1164,7 @@
         <id>https://tv.naver.com/v/40513788</id>
         <link href="https://tv.naver.com/v/40513788"/>
         <updated>2023-09-20T10:17:45.379Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
+        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[히오(HEEO) - Beautiful Monster l 230920 (쇼챔피언)]]></title>
@@ -1249,20 +1263,6 @@
         <link href="https://tv.naver.com/v/40254852"/>
         <updated>2023-09-14T12:31:31.948Z</updated>
         <content type="html"><![CDATA[00:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 편의 서사를 담은 무대🙏 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40254035</id>
-        <link href="https://tv.naver.com/v/40254035"/>
-        <updated>2023-09-14T09:17:07.732Z</updated>
-        <content type="html"><![CDATA[00:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BOYNEXTDOOR TAESAN - Crying (보이넥스트도어 태산 - 크라잉) | Show Champion | EP.491 l 230913 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40219766</id>
-        <link href="https://tv.naver.com/v/40219766"/>
-        <updated>2023-09-13T13:20:50.622Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 624회 〈기억의 노래 특집＞ 우승자 ⭐슬로우모션(김조한&뮤지)X한해⭐ | KBS 방송 (불후의 명곡)]]></title>

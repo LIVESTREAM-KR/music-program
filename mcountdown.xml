@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-09-20T10:17:59.975Z</updated>
+    <updated>2023-09-20T11:14:40.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[SPECIAL BEHIND] V - Slow Dancing (Freestyle Dance Ver)]]></title>
+        <id>https://tv.naver.com/v/40518476</id>
+        <link href="https://tv.naver.com/v/40518476"/>
+        <updated>2023-09-20T11:14:10.672Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[입덕멍캠🐾] 뷔 💜 김연탄 직캠 4K 'Slow Dancing' (V 💜 YEONTAN FanCam)]]></title>
         <id>https://tv.naver.com/v/40493619</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39989342"/>
         <updated>2023-09-07T12:30:33.317Z</updated>
         <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT U - Baggy Jeans | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39989087</id>
-        <link href="https://tv.naver.com/v/39989087"/>
-        <updated>2023-09-07T11:13:49.523Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
     </entry>
 </feed>
