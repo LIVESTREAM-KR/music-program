@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-09-20T02:22:23.451Z</updated>
+    <updated>2023-09-20T03:17:12.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[입덕멍캠🐾] 뷔 💜 김연탄 직캠 4K 'Slow Dancing' (V 💜 YEONTAN FanCam)]]></title>
+        <id>https://tv.naver.com/v/40493619</id>
+        <link href="https://tv.naver.com/v/40493619"/>
+        <updated>2023-09-20T03:16:43.264Z</updated>
+        <content type="html"><![CDATA[02:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성한빈&소희&명재현이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/40458983</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39989087"/>
         <updated>2023-09-07T11:13:49.523Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 김세정 - Top or Cliff | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39989085</id>
-        <link href="https://tv.naver.com/v/39989085"/>
-        <updated>2023-09-07T11:13:49.524Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
     </entry>
 </feed>
