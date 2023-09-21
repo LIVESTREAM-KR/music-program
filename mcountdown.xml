@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-09-21T09:17:28.853Z</updated>
+    <updated>2023-09-21T10:18:03.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' APOKI - Space | Mnet 230921 방송]]></title>
+        <id>https://tv.naver.com/v/40565349</id>
+        <link href="https://tv.naver.com/v/40565349"/>
+        <updated>2023-09-21T10:17:34.175Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mimiirose(미미로즈) - FLIRTING | Mnet 230921 방송]]></title>
+        <id>https://tv.naver.com/v/40565348</id>
+        <link href="https://tv.naver.com/v/40565348"/>
+        <updated>2023-09-21T10:17:34.177Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POW - Favorite | Mnet 230921 방송]]></title>
+        <id>https://tv.naver.com/v/40565107</id>
+        <link href="https://tv.naver.com/v/40565107"/>
+        <updated>2023-09-21T10:17:34.179Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SPECIAL BEHIND] V - Slow Dancing (Freestyle Dance Ver)]]></title>
         <id>https://tv.naver.com/v/40518476</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/40269590"/>
         <updated>2023-09-14T10:19:01.664Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신현희(feat.반디) - 엉망진창 | Mnet 230914 방송]]></title>
-        <id>https://tv.naver.com/v/40269367</id>
-        <link href="https://tv.naver.com/v/40269367"/>
-        <updated>2023-09-14T10:19:01.665Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/40200849</id>
-        <link href="https://tv.naver.com/v/40200849"/>
-        <updated>2023-09-13T03:16:21.839Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 화사 (HWASA) - I Love My Body | Mnet 230907 방송]]></title>
-        <id>https://tv.naver.com/v/39989342</id>
-        <link href="https://tv.naver.com/v/39989342"/>
-        <updated>2023-09-07T12:30:33.317Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
     </entry>
 </feed>
