@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-21T16:20:46.953Z</updated>
+    <updated>2023-09-21T17:15:44.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Slow Dancing - V | KBS 230915 방송 (뮤직뱅크)]]></title>
@@ -110,13 +110,6 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Favorite - POW | KBS 230915 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40314850</id>
-        <link href="https://tv.naver.com/v/40314850"/>
-        <updated>2023-09-15T10:17:40.334Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뭣 같아 - BOYNEXTDOOR | KBS 230915 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/40314876</id>
         <link href="https://tv.naver.com/v/40314876"/>
@@ -129,6 +122,13 @@
         <link href="https://tv.naver.com/v/40314852"/>
         <updated>2023-09-15T10:17:40.339Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favorite - POW | KBS 230915 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40314850</id>
+        <link href="https://tv.naver.com/v/40314850"/>
+        <updated>2023-09-15T10:17:40.334Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FLIRTING - mimiirose | KBS 230915 방송 (뮤직뱅크)]]></title>
@@ -404,13 +404,6 @@
         <content type="html"><![CDATA[05:31]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] POW YORCH - Favorite(파우 요치 - 페이보릿) FanCam | Show! MusicCore | MBC230916방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40349615</id>
-        <link href="https://tv.naver.com/v/40349615"/>
-        <updated>2023-09-16T13:16:25.072Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] EL7Z UP YEONHEE - CHEEKY(엘즈업 연희 - 치키) FanCam | Show! MusicCore | MBC230916방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40349620</id>
         <link href="https://tv.naver.com/v/40349620"/>
@@ -423,6 +416,13 @@
         <link href="https://tv.naver.com/v/40349619"/>
         <updated>2023-09-16T13:16:25.058Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LEE CHAE YEON - LET’S DANCE(이채연 – 레츠 댄스) FanCam (Horizontal Ver.)|Show!MusicCore|MBC230916방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40349618</id>
+        <link href="https://tv.naver.com/v/40349618"/>
+        <updated>2023-09-21T17:15:00.180Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송 (인기가요)]]></title>
