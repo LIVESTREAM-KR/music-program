@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-22T11:14:40.090Z</updated>
+    <updated>2023-09-22T12:31:05.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[성찬과 함께 to play with get a guitar🎸 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40597669</id>
+        <link href="https://tv.naver.com/v/40597669"/>
+        <updated>2023-09-22T12:30:52.345Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[앤톤과 함께 Get get get get a guitar 🕺 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/40597561</id>
         <link href="https://tv.naver.com/v/40597561"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/40507201</id>
         <link href="https://tv.naver.com/v/40507201"/>
         <updated>2023-09-20T13:21:26.405Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Shiroiwa Ruki - RadioVision (제이오원 시로이와 루키 - 라디오비전) | Show Champion | EP.492 | 230920 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40506873</id>
-        <link href="https://tv.naver.com/v/40506873"/>
-        <updated>2023-09-20T13:21:26.408Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
