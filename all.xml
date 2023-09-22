@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-22T06:22:03.638Z</updated>
+    <updated>2023-09-22T07:15:52.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Slow Dancing - V | KBS 230915 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] xikers – HOMEBOY(싸이커스 - 홈보이) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40541951</id>
+        <link href="https://tv.naver.com/v/40541951"/>
+        <updated>2023-09-22T07:15:08.111Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NCT U – Baggy Jeans(엔시티 유 - 배기 진스) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40503042</id>
         <link href="https://tv.naver.com/v/40503042"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/40349619"/>
         <updated>2023-09-16T13:16:25.058Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LEE CHAE YEON - LET’S DANCE(이채연 – 레츠 댄스) FanCam (Horizontal Ver.)|Show!MusicCore|MBC230916방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40349618</id>
-        <link href="https://tv.naver.com/v/40349618"/>
-        <updated>2023-09-21T17:15:00.180Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송 (인기가요)]]></title>
