@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-22T01:09:01.700Z</updated>
+    <updated>2023-09-22T02:23:26.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9월 3주차 쇼챔피언 🍩MC 나나츠키민서🌙 모음.zip (woo!ah! 나나&민서, Billlie 츠키) | Show Champion | EP.492 | 230920]]></title>
+        <id>https://tv.naver.com/v/40518748</id>
+        <link href="https://tv.naver.com/v/40518748"/>
+        <updated>2023-09-22T02:23:11.764Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] H1-KEY HWISEO - Time to Shine (하이키 휘서 - 불빛을 꺼트리지 마) | Show Champion | EP.492 | 230920]]></title>
         <id>https://tv.naver.com/v/40514783</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/40506624</id>
         <link href="https://tv.naver.com/v/40506624"/>
         <updated>2023-09-20T13:21:26.409Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Sato Keigo - RadioVision (제이오원 사토 케이고 - 라디오비전) | Show Champion | EP.492 | 230920]]></title>
-        <id>https://tv.naver.com/v/40506404</id>
-        <link href="https://tv.naver.com/v/40506404"/>
-        <updated>2023-09-20T13:21:26.412Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
