@@ -2,8 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-22T08:20:53.362Z</updated>
+    <updated>2023-09-22T09:16:31.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[CHEEKY - EL7Z UP (엘즈업) | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607314</id>
+        <link href="https://tv.naver.com/v/40607314"/>
+        <updated>2023-09-22T09:15:41.255Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y.O.Universe - VCHA | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607311</id>
+        <link href="https://tv.naver.com/v/40607311"/>
+        <updated>2023-09-22T09:15:41.255Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Tomorrow - FANTASY BOYS | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40607300</id>
+        <link href="https://tv.naver.com/v/40607300"/>
+        <updated>2023-09-22T09:15:41.255Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MY WAY - TRENDZ(트렌드지) | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40606871</id>
+        <link href="https://tv.naver.com/v/40606871"/>
+        <updated>2023-09-22T09:15:41.257Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLIRTING - mimiirose | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40606380</id>
+        <link href="https://tv.naver.com/v/40606380"/>
+        <updated>2023-09-22T09:15:41.258Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Favorite - POW | KBS 230922 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/40606182</id>
+        <link href="https://tv.naver.com/v/40606182"/>
+        <updated>2023-09-22T09:15:41.259Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slow Dancing - V | KBS 230915 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/40315592</id>
@@ -171,48 +213,6 @@
         <link href="https://tv.naver.com/v/40029974"/>
         <updated>2023-09-08T10:16:54.113Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LET’S DANCE - 이채연 | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029943</id>
-        <link href="https://tv.naver.com/v/40029943"/>
-        <updated>2023-09-08T10:16:54.113Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOOM - 로켓펀치(Rocket Punch) | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029532</id>
-        <link href="https://tv.naver.com/v/40029532"/>
-        <updated>2023-09-08T10:16:54.122Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLAY - EVERGLOW(에버글로우) | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029366</id>
-        <link href="https://tv.naver.com/v/40029366"/>
-        <updated>2023-09-08T10:16:54.122Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭣 같아 - BOYNEXTDOOR | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029192</id>
-        <link href="https://tv.naver.com/v/40029192"/>
-        <updated>2023-09-08T10:16:54.122Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crying - BOYNEXTDOOR | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029014</id>
-        <link href="https://tv.naver.com/v/40029014"/>
-        <updated>2023-09-08T10:16:54.123Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7HEAVEN - 퍼플키스(PURPLE KISS) | KBS 230908 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/40029005</id>
-        <link href="https://tv.naver.com/v/40029005"/>
-        <updated>2023-09-08T10:16:54.123Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] xikers – HOMEBOY(싸이커스 - 홈보이) | Show! Music Core (쇼! 음악중심)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[앤톤과 함께 Get get get get a guitar 🕺 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40597561</id>
+        <link href="https://tv.naver.com/v/40597561"/>
+        <updated>2023-09-22T09:16:17.009Z</updated>
+        <content type="html"><![CDATA[00:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[9월 3주차 쇼챔피언 🍩MC 나나츠키민서🌙 모음.zip (woo!ah! 나나&민서, Billlie 츠키) | Show Champion | EP.492 | 230920 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/40518748</id>
         <link href="https://tv.naver.com/v/40518748"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/40506873</id>
         <link href="https://tv.naver.com/v/40506873"/>
         <updated>2023-09-20T13:21:26.408Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Mamehara Issei - RadioVision (제이오원 마메하라 잇세이-라디오비전) | Show Champion | EP.492 | 230920 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40506624</id>
-        <link href="https://tv.naver.com/v/40506624"/>
-        <updated>2023-09-20T13:21:26.409Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>

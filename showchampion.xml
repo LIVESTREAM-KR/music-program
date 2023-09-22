@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-22T08:20:53.344Z</updated>
+    <updated>2023-09-22T09:16:31.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앤톤과 함께 Get get get get a guitar 🕺]]></title>
+        <id>https://tv.naver.com/v/40597561</id>
+        <link href="https://tv.naver.com/v/40597561"/>
+        <updated>2023-09-22T09:16:17.009Z</updated>
+        <content type="html"><![CDATA[00:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9월 3주차 쇼챔피언 🍩MC 나나츠키민서🌙 모음.zip (woo!ah! 나나&민서, Billlie 츠키) | Show Champion | EP.492 | 230920]]></title>
         <id>https://tv.naver.com/v/40518748</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/40506873</id>
         <link href="https://tv.naver.com/v/40506873"/>
         <updated>2023-09-20T13:21:26.408Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Mamehara Issei - RadioVision (제이오원 마메하라 잇세이-라디오비전) | Show Champion | EP.492 | 230920]]></title>
-        <id>https://tv.naver.com/v/40506624</id>
-        <link href="https://tv.naver.com/v/40506624"/>
-        <updated>2023-09-20T13:21:26.409Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
