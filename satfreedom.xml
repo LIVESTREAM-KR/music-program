@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-23T09:14:56.545Z</updated>
+    <updated>2023-09-23T10:15:54.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가요계 전설 전쟁! 오늘의 라인업🔥 격동의 역사와 함께한 거장 故 손목인 편 | KBS 230923 방송]]></title>
+        <id>https://tv.naver.com/v/40638359</id>
+        <link href="https://tv.naver.com/v/40638359"/>
+        <updated>2023-09-23T10:15:46.855Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 출연자 - 아빠의 청춘 | KBS 230923 방송]]></title>
+        <id>https://tv.naver.com/v/40638352</id>
+        <link href="https://tv.naver.com/v/40638352"/>
+        <updated>2023-09-23T10:15:46.859Z</updated>
+        <content type="html"><![CDATA[02:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 624회 〈기억의 노래 특집＞ 우승자 ⭐슬로우모션(김조한&뮤지)X한해⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/40348484</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/40310847"/>
         <updated>2023-09-16T12:27:50.639Z</updated>
         <content type="html"><![CDATA[06:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 정동원 - 당연한 것들 | KBS 230916 방송]]></title>
-        <id>https://tv.naver.com/v/40310633</id>
-        <link href="https://tv.naver.com/v/40310633"/>
-        <updated>2023-09-16T12:27:50.640Z</updated>
-        <content type="html"><![CDATA[04:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 노소노소 합창단 - 행복해요 | KBS 230916 방송]]></title>
-        <id>https://tv.naver.com/v/40310190</id>
-        <link href="https://tv.naver.com/v/40310190"/>
-        <updated>2023-09-16T12:27:50.642Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
