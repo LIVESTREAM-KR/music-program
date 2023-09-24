@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-24T11:12:47.696Z</updated>
+    <updated>2023-09-24T12:28:32.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Still I love it 승한이 추는 춤😊 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40598102</id>
+        <link href="https://tv.naver.com/v/40598102"/>
+        <updated>2023-09-24T12:28:17.933Z</updated>
+        <content type="html"><![CDATA[00:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[은석과 발박자를 맞추고 one two five ~👟 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/40598008</id>
         <link href="https://tv.naver.com/v/40598008"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/40507485</id>
         <link href="https://tv.naver.com/v/40507485"/>
         <updated>2023-09-20T13:21:26.399Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Kawanishi Takumi - RadioVision(제이오원 카와니시 타쿠미-라디오비전) | Show Champion | EP.492 | 230920 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40507483</id>
-        <link href="https://tv.naver.com/v/40507483"/>
-        <updated>2023-09-20T13:21:26.403Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>

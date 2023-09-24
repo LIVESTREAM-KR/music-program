@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-24T11:12:47.674Z</updated>
+    <updated>2023-09-24T12:28:32.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Still I love it 승한이 추는 춤😊]]></title>
+        <id>https://tv.naver.com/v/40598102</id>
+        <link href="https://tv.naver.com/v/40598102"/>
+        <updated>2023-09-24T12:28:17.933Z</updated>
+        <content type="html"><![CDATA[00:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은석과 발박자를 맞추고 one two five ~👟]]></title>
         <id>https://tv.naver.com/v/40598008</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/40507485</id>
         <link href="https://tv.naver.com/v/40507485"/>
         <updated>2023-09-20T13:21:26.399Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Kawanishi Takumi - RadioVision(제이오원 카와니시 타쿠미-라디오비전) | Show Champion | EP.492 | 230920]]></title>
-        <id>https://tv.naver.com/v/40507483</id>
-        <link href="https://tv.naver.com/v/40507483"/>
-        <updated>2023-09-20T13:21:26.403Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
