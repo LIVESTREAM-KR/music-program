@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-25T02:23:47.875Z</updated>
+    <updated>2023-09-25T03:17:30.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 승희 X 키 X 설윤 , 음중컴퍼니 9월 넷째주 MC 컷 모음!, MBC 230923 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40681944</id>
+        <link href="https://tv.naver.com/v/40681944"/>
+        <updated>2023-09-25T03:16:45.500Z</updated>
+        <content type="html"><![CDATA[13:18]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - New Tomorrow(판타지 보이즈 – 뉴 투모로우) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40638838</id>
         <link href="https://tv.naver.com/v/40638838"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/40638082</id>
         <link href="https://tv.naver.com/v/40638082"/>
         <updated>2023-09-23T10:15:10.946Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EVNNE Lee JeongHyeon – TROUBLE(이븐 이정현 - 트러블) FanCam | Show! MusicCore | MBC230923방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40637971</id>
-        <link href="https://tv.naver.com/v/40637971"/>
-        <updated>2023-09-23T10:15:10.948Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
     </entry>
     <entry>
