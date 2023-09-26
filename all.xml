@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-26T06:22:20.873Z</updated>
+    <updated>2023-09-26T07:15:42.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[모든 역경따위에 지지 않을 하이키🕯️ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40738106</id>
+        <link href="https://tv.naver.com/v/40738106"/>
+        <updated>2023-09-26T07:15:28.719Z</updated>
+        <content type="html"><![CDATA[00:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유별난 Style like 나와 함께 물들여 다 #엘즈업 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/40695086</id>
         <link href="https://tv.naver.com/v/40695086"/>
@@ -1255,13 +1262,6 @@
         <id>https://tv.naver.com/v/40507836</id>
         <link href="https://tv.naver.com/v/40507836"/>
         <updated>2023-09-20T13:21:26.392Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Kimata Syoya - RadioVision (제이오원 키마타 쇼야 - 라디오비전) | Show Champion | EP.492 | 230920 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40507831</id>
-        <link href="https://tv.naver.com/v/40507831"/>
-        <updated>2023-09-20T13:21:26.395Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
