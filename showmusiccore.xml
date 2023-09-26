@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-26T02:23:27.047Z</updated>
+    <updated>2023-09-26T03:19:13.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] POW YORCH - Favorite(파우 요치 - 페이보릿) Close-up Cam | Show! MusicCore | MBC230923방송]]></title>
+        <id>https://tv.naver.com/v/40726391</id>
+        <link href="https://tv.naver.com/v/40726391"/>
+        <updated>2023-09-26T03:18:26.696Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – One Shot(판타지 보이즈 김우석 - 원샷) FanCam | Show! MusicCore | MBC230923방]]></title>
         <id>https://tv.naver.com/v/40724412</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40693713"/>
         <updated>2023-09-25T07:15:41.931Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] EVNNE Yoo SeungEon - TROUBLE(이븐 유승언 - 트러블) Close-up Cam | Show! MusicCore | MBC230923방송]]></title>
-        <id>https://tv.naver.com/v/40693422</id>
-        <link href="https://tv.naver.com/v/40693422"/>
-        <updated>2023-09-25T07:15:41.934Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
