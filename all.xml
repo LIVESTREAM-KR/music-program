@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-27T08:21:27.533Z</updated>
+    <updated>2023-09-27T09:17:15.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hello 재찬이 좀 봐 👀 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40783352</id>
+        <link href="https://tv.naver.com/v/40783352"/>
+        <updated>2023-09-27T09:17:00.413Z</updated>
+        <content type="html"><![CDATA[00:48]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[모든 역경따위에 지지 않을 하이키🕯️ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/40738106</id>
         <link href="https://tv.naver.com/v/40738106"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/40509530"/>
         <updated>2023-09-20T13:21:26.390Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Kinjo Sukai - RadioVision (제이오원 킨죠 스카이 - 라디오비전) | Show Champion | EP.492 | 230920 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40507836</id>
-        <link href="https://tv.naver.com/v/40507836"/>
-        <updated>2023-09-20T13:21:26.392Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 625회 ＜전설 전쟁 - 故 손목인 1편＞ 우승자 ⭐조항조⭐ | KBS 방송 (불후의 명곡)]]></title>

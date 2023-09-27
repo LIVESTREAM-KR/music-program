@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-27T08:21:27.505Z</updated>
+    <updated>2023-09-27T09:17:15.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello 재찬이 좀 봐 👀]]></title>
+        <id>https://tv.naver.com/v/40783352</id>
+        <link href="https://tv.naver.com/v/40783352"/>
+        <updated>2023-09-27T09:17:00.413Z</updated>
+        <content type="html"><![CDATA[00:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모든 역경따위에 지지 않을 하이키🕯️]]></title>
         <id>https://tv.naver.com/v/40738106</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40509530"/>
         <updated>2023-09-20T13:21:26.390Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Kinjo Sukai - RadioVision (제이오원 킨죠 스카이 - 라디오비전) | Show Champion | EP.492 | 230920]]></title>
-        <id>https://tv.naver.com/v/40507836</id>
-        <link href="https://tv.naver.com/v/40507836"/>
-        <updated>2023-09-20T13:21:26.392Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
