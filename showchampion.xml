@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-09-27T11:14:03.038Z</updated>
+    <updated>2023-09-27T12:32:53.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 9월 4주 챔피언송 ＜TEMPEST - Vroom Vroom＞ 앵콜 Full ver. l Show Champion l EP.493 l 230927]]></title>
+        <id>https://tv.naver.com/v/40792115</id>
+        <link href="https://tv.naver.com/v/40792115"/>
+        <updated>2023-09-27T12:32:38.028Z</updated>
+        <content type="html"><![CDATA[04:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최초 공개] 원어스(ONEUS) - Baila Conmigo l 230927]]></title>
         <id>https://tv.naver.com/v/40789977</id>
@@ -38,7 +45,7 @@
         <id>https://tv.naver.com/v/40789713</id>
         <link href="https://tv.naver.com/v/40789713"/>
         <updated>2023-09-27T10:17:41.292Z</updated>
-        <content type="html"><![CDATA[09:34]]></content>
+        <content type="html"><![CDATA[09:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[템페스트(TEMPEST) - DIVE l 230927]]></title>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/40514340</id>
         <link href="https://tv.naver.com/v/40514340"/>
         <updated>2023-09-20T13:21:26.358Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] H1-KEY SEOI - Time to Shine (하이키 서이 - 불빛을 꺼트리지 마) | Show Champion | EP.492 | 230920]]></title>
-        <id>https://tv.naver.com/v/40514284</id>
-        <link href="https://tv.naver.com/v/40514284"/>
-        <updated>2023-09-20T13:21:26.360Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
