@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-27T10:17:55.990Z</updated>
+    <updated>2023-09-27T11:14:03.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,27 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[최초 공개] 원어스(ONEUS) - Baila Conmigo l 230927 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40789977</id>
+        <link href="https://tv.naver.com/v/40789977"/>
+        <updated>2023-09-27T11:13:49.513Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최초 공개] 원어스(ONEUS) - Simulation l 230927 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40789826</id>
+        <link href="https://tv.naver.com/v/40789826"/>
+        <updated>2023-09-27T11:13:49.514Z</updated>
+        <content type="html"><![CDATA[01:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 템페스트(TEMPEST) - Vroom Vroom l 230927 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/40789824</id>
+        <link href="https://tv.naver.com/v/40789824"/>
+        <updated>2023-09-27T11:13:49.515Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[최초 공개] 빌리(Billlie) - BYOB (bring your own best friend) l 230927 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/40789735</id>
         <link href="https://tv.naver.com/v/40789735"/>
@@ -1242,27 +1263,6 @@
         <link href="https://tv.naver.com/v/40514284"/>
         <updated>2023-09-20T13:21:26.360Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] H1-KEY RIINA - Time to Shine (하이키 리이나 - 불빛을 꺼트리지 마) | Show Champion | EP.492 | 230920 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40514014</id>
-        <link href="https://tv.naver.com/v/40514014"/>
-        <updated>2023-09-20T13:21:26.362Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] H1-KEY - Time to Shine (하이키 - 불빛을 꺼뜨리지 마) | Show Champion | EP.492 | 230920 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40514012</id>
-        <link href="https://tv.naver.com/v/40514012"/>
-        <updated>2023-09-20T13:21:26.363Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JO1 Yonashiro Sho - RadioVision (제이오원 요나시로 쇼 - 라디오비전) | Show Champion | EP.492 | 230920 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40512527</id>
-        <link href="https://tv.naver.com/v/40512527"/>
-        <updated>2023-09-20T13:21:26.365Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 625회 ＜전설 전쟁 - 故 손목인 1편＞ 우승자 ⭐조항조⭐ | KBS 방송 (불후의 명곡)]]></title>
