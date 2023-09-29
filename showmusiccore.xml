@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-09-29T06:22:25.171Z</updated>
+    <updated>2023-09-29T07:15:53.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] RIIZE – Get A Guitar(라이즈 - 겟 어 기타) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/40723853</id>
+        <link href="https://tv.naver.com/v/40723853"/>
+        <updated>2023-09-29T07:15:09.416Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] POW YORCH - Favorite(파우 요치 - 페이보릿) Close-up Cam | Show! MusicCore | MBC230923방송]]></title>
         <id>https://tv.naver.com/v/40726391</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40696705"/>
         <updated>2023-09-25T08:20:54.038Z</updated>
         <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] EVNNE Lee JeongHyeon - TROUBLE(이븐 이정현 - 트러블) Close-up Cam | Show! MusicCore | MBC230923방송]]></title>
-        <id>https://tv.naver.com/v/40693713</id>
-        <link href="https://tv.naver.com/v/40693713"/>
-        <updated>2023-09-25T07:15:41.931Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
