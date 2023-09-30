@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-09-30T10:16:10.428Z</updated>
+    <updated>2023-09-30T11:12:50.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 625회 ＜전설 전쟁 - 故손목인 2편＞ 우승자⭐김범룡⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/40852861</id>
+        <link href="https://tv.naver.com/v/40852861"/>
+        <updated>2023-09-30T11:12:42.706Z</updated>
+        <content type="html"><![CDATA[01:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 청춘을 노래하는 1세대 포크 대표주자 🎸아티스트 윤형주&김세환🎸 본방사수! | KBS 방송]]></title>
         <id>https://tv.naver.com/v/40852424</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40639749"/>
         <updated>2023-09-23T11:13:00.924Z</updated>
         <content type="html"><![CDATA[05:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박현빈 vs 조항조! 4년 만에 복수 성공🔥 큰 도움이 된(?) 머리끈🤣 | KBS 230923 방송]]></title>
-        <id>https://tv.naver.com/v/40639743</id>
-        <link href="https://tv.naver.com/v/40639743"/>
-        <updated>2023-09-23T11:13:00.936Z</updated>
-        <content type="html"><![CDATA[02:21]]></content>
     </entry>
 </feed>

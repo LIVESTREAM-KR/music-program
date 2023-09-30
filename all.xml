@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-30T10:16:10.460Z</updated>
+    <updated>2023-09-30T11:12:50.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 625회 ＜전설 전쟁 - 故손목인 2편＞ 우승자⭐김범룡⭐ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/40852861</id>
+        <link href="https://tv.naver.com/v/40852861"/>
+        <updated>2023-09-30T11:12:42.706Z</updated>
+        <content type="html"><![CDATA[01:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 청춘을 노래하는 1세대 포크 대표주자 🎸아티스트 윤형주&김세환🎸 본방사수! | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/40852424</id>
         <link href="https://tv.naver.com/v/40852424"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/40639749"/>
         <updated>2023-09-23T11:13:00.924Z</updated>
         <content type="html"><![CDATA[05:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박현빈 vs 조항조! 4년 만에 복수 성공🔥 큰 도움이 된(?) 머리끈🤣 | KBS 230923 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40639743</id>
-        <link href="https://tv.naver.com/v/40639743"/>
-        <updated>2023-09-23T11:13:00.936Z</updated>
-        <content type="html"><![CDATA[02:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 MZ들의 이별 노래😥장인! 신흥 음원 강자✨ 감성 보컬 신예영의 복면가왕 하이라이트!, MBC 230917 방송 (복면가왕)]]></title>
