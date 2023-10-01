@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-01T07:15:21.005Z</updated>
+    <updated>2023-10-01T08:19:01.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] September TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40729989</id>
+        <link href="https://tv.naver.com/v/40729989"/>
+        <updated>2023-10-01T08:18:19.135Z</updated>
+        <content type="html"><![CDATA[27:45]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] RIIZE – Get A Guitar(라이즈 - 겟 어 기타) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40723853</id>
         <link href="https://tv.naver.com/v/40723853"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/40696756</id>
         <link href="https://tv.naver.com/v/40696756"/>
         <updated>2023-09-25T08:20:54.036Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – New Tomorrow(판타지 보이즈 히카리 - 뉴 투모로우) FanCam |Show! MusicCore|MBC230923방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40696705</id>
-        <link href="https://tv.naver.com/v/40696705"/>
-        <updated>2023-09-25T08:20:54.038Z</updated>
         <content type="html"><![CDATA[04:19]]></content>
     </entry>
     <entry>
