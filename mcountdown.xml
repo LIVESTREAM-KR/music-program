@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-10-03T11:14:41.848Z</updated>
+    <updated>2023-10-03T12:32:40.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MC 미연, 성한빈이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/40933832</id>
+        <link href="https://tv.naver.com/v/40933832"/>
+        <updated>2023-10-03T12:32:08.506Z</updated>
+        <content type="html"><![CDATA[01:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키 (KEY) - Good & Great | Mnet 230921 방송]]></title>
         <id>https://tv.naver.com/v/40569873</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40458983"/>
         <updated>2023-09-19T08:21:11.077Z</updated>
         <content type="html"><![CDATA[01:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT SOLO DEBUT' V - Slow Dancing | Mnet 230914 방송]]></title>
-        <id>https://tv.naver.com/v/40274133</id>
-        <link href="https://tv.naver.com/v/40274133"/>
-        <updated>2023-09-14T12:31:14.644Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
 </feed>
