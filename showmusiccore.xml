@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-06T06:22:19.375Z</updated>
+    <updated>2023-10-06T07:15:48.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] HWASA – I Love My Body(화사 - 아이 러브 마이 바디) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/40966844</id>
+        <link href="https://tv.naver.com/v/40966844"/>
+        <updated>2023-10-06T07:15:04.391Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] September TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/40729989</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40696759"/>
         <updated>2023-09-25T08:20:54.026Z</updated>
         <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – New Tomorrow(판타지 보이즈 오현태-뉴 투모로우)FanCam|Show!MusicCore|MBC230923방]]></title>
-        <id>https://tv.naver.com/v/40696756</id>
-        <link href="https://tv.naver.com/v/40696756"/>
-        <updated>2023-09-25T08:20:54.036Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
     </entry>
 </feed>
