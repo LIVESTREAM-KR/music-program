@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-10-09T05:15:59.681Z</updated>
+    <updated>2023-10-09T06:23:15.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 읏추읏추 벌써 10월! 가을엔 FULL METAL JACKET을 걸쳐~]]></title>
+        <id>https://tv.naver.com/v/41140108</id>
+        <link href="https://tv.naver.com/v/41140108"/>
+        <updated>2023-10-09T06:22:59.782Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더뉴식스가 나의 최애인걸!💕]]></title>
         <id>https://tv.naver.com/v/40966802</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40782857"/>
         <updated>2023-09-27T13:20:48.436Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie SIYOON(시윤) - BYOB (bring your own best friend) | Show Champion | EP.493 | 230927]]></title>
-        <id>https://tv.naver.com/v/40782648</id>
-        <link href="https://tv.naver.com/v/40782648"/>
-        <updated>2023-09-27T13:20:48.438Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>
