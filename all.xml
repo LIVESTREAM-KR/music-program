@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-10T11:14:30.116Z</updated>
+    <updated>2023-10-10T12:32:43.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/41197257</id>
+        <link href="https://tv.naver.com/v/41197257"/>
+        <updated>2023-10-10T12:32:08.032Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[2023 엠카 미니 결산] V (뷔) - Slow Dancing (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/41019605</id>
         <link href="https://tv.naver.com/v/41019605"/>
@@ -838,11 +845,18 @@
         <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['최초 공개' TEMPEST(템페스트) - DIVE | Mnet 230921 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40569426</id>
-        <link href="https://tv.naver.com/v/40569426"/>
-        <updated>2023-09-21T12:31:31.290Z</updated>
-        <content type="html"><![CDATA[01:31]]></content>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/41196533</id>
+        <link href="https://tv.naver.com/v/41196533"/>
+        <updated>2023-10-10T12:32:16.700Z</updated>
+        <content type="html"><![CDATA[05:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Comeback] 인어왕자들의 뜨거운 사랑고백, 원어스(ONEUS) 'Baila Conmigo' (더쇼)]]></title>
+        <id>https://tv.naver.com/v/41196528</id>
+        <link href="https://tv.naver.com/v/41196528"/>
+        <updated>2023-10-10T12:32:16.704Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Comeback] 기승전결이 담긴 한 편의 뮤지컬, 원어스(ONEUS) 'Simulation' (더쇼)]]></title>
@@ -1039,20 +1053,6 @@
         <link href="https://tv.naver.com/v/40465913"/>
         <updated>2023-09-19T11:13:51.327Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진정한 나를 찾아가는 이야기, 재찬 'Hello' (더쇼)]]></title>
-        <id>https://tv.naver.com/v/40465492</id>
-        <link href="https://tv.naver.com/v/40465492"/>
-        <updated>2023-09-19T10:17:46.686Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔 & RIIZE (더쇼)]]></title>
-        <id>https://tv.naver.com/v/40465491</id>
-        <link href="https://tv.naver.com/v/40465491"/>
-        <updated>2023-09-19T10:17:46.687Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 읏추읏추 벌써 10월! 가을엔 FULL METAL JACKET을 걸쳐~ (쇼챔피언)]]></title>
