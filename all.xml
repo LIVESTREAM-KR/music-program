@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-11T10:19:00.297Z</updated>
+    <updated>2023-10-11T11:14:28.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,20 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 더뉴식스(THE NEW SIX(TNX)) - Beatbox (원곡 : NCT DREAM) l 231011 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/41244042</id>
+        <link href="https://tv.naver.com/v/41244042"/>
+        <updated>2023-10-11T11:14:13.387Z</updated>
+        <content type="html"><![CDATA[10:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스(ONEUS) - Baila Conmigo l 231011 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/41243386</id>
+        <link href="https://tv.naver.com/v/41243386"/>
+        <updated>2023-10-11T11:14:13.387Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 이펙스(EPEX) - FULL METAL JACKET l 231011 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/41242534</id>
         <link href="https://tv.naver.com/v/41242534"/>
@@ -1248,20 +1262,6 @@
         <id>https://tv.naver.com/v/40789550</id>
         <link href="https://tv.naver.com/v/40789550"/>
         <updated>2023-09-27T13:20:48.393Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE YOO SEUNG EON - TROUBLE (이븐 유승언 - 트러블) | Show Champion | EP.493 | 230927 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40789548</id>
-        <link href="https://tv.naver.com/v/40789548"/>
-        <updated>2023-09-27T13:20:48.397Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE PARK JI HOO - TROUBLE (이븐 박지후 - 트러블) | Show Champion | EP.493 | 230927 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/40789305</id>
-        <link href="https://tv.naver.com/v/40789305"/>
-        <updated>2023-09-27T13:20:48.398Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
