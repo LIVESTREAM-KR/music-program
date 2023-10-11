@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-11T06:23:05.915Z</updated>
+    <updated>2023-10-11T07:16:40.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] KEY – Good & Great(키 - 굿 앤 그레이트) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40991205</id>
+        <link href="https://tv.naver.com/v/40991205"/>
+        <updated>2023-10-11T07:15:56.198Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] HWASA – I Love My Body(화사 - 아이 러브 마이 바디) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40966844</id>
         <link href="https://tv.naver.com/v/40966844"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/40696760"/>
         <updated>2023-09-25T08:20:54.024Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LINGQI – New Tomorrow(판타지 보이즈 링치 - 뉴 투모로우) FanCam | Show! MusicCore|MBC230923방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40696759</id>
-        <link href="https://tv.naver.com/v/40696759"/>
-        <updated>2023-09-25T08:20:54.026Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송 (인기가요)]]></title>
