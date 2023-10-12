@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-10-12T11:14:27.151Z</updated>
+    <updated>2023-10-12T12:32:21.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' NCT 127 - Fact Check (불가사의; 不可思議) | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41299627</id>
+        <link href="https://tv.naver.com/v/41299627"/>
+        <updated>2023-10-12T12:31:50.845Z</updated>
+        <content type="html"><![CDATA[05:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' NCT 127 - Parade (행진) | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41299472</id>
+        <link href="https://tv.naver.com/v/41299472"/>
+        <updated>2023-10-12T12:31:50.845Z</updated>
+        <content type="html"><![CDATA[02:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 임영웅 - Do or Die | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41299238</id>
+        <link href="https://tv.naver.com/v/41299238"/>
+        <updated>2023-10-12T12:31:50.846Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 임영웅 - 모래 알갱이 | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41298979</id>
+        <link href="https://tv.naver.com/v/41298979"/>
+        <updated>2023-10-12T12:31:50.846Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 에일리 (Ailee) - RA TA TA (Feat. 김다연 of Kep1er) | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41298974</id>
+        <link href="https://tv.naver.com/v/41298974"/>
+        <updated>2023-10-12T12:31:50.847Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 온앤오프(ONF) - 바람이 분다 (Love Effect) | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41298826</id>
+        <link href="https://tv.naver.com/v/41298826"/>
+        <updated>2023-10-12T12:31:50.848Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 휘인(Whee In) - In The Mood | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41298824</id>
+        <link href="https://tv.naver.com/v/41298824"/>
+        <updated>2023-10-12T12:31:50.849Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 원어스(ONEUS) - Baila Conmigo | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41298564</id>
+        <link href="https://tv.naver.com/v/41298564"/>
+        <updated>2023-10-12T12:31:50.850Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRAVITY - Cheese | Mnet 231012 방송]]></title>
         <id>https://tv.naver.com/v/41298313</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/41019036"/>
         <updated>2023-10-05T12:33:34.113Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 엠카 미니 결산] 지민 (Jimin) - Like Crazy]]></title>
-        <id>https://tv.naver.com/v/41018872</id>
-        <link href="https://tv.naver.com/v/41018872"/>
-        <updated>2023-10-05T12:33:34.115Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 엠카 미니 결산] 부석순 (SEVENTEEN) - 파이팅 해야지 (Feat. 이영지)]]></title>
-        <id>https://tv.naver.com/v/41018870</id>
-        <link href="https://tv.naver.com/v/41018870"/>
-        <updated>2023-10-05T12:33:34.117Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPOILER M' 임영웅 (Lim Young Woong)]]></title>
-        <id>https://tv.naver.com/v/41017177</id>
-        <link href="https://tv.naver.com/v/41017177"/>
-        <updated>2023-10-05T11:14:32.938Z</updated>
-        <content type="html"><![CDATA[00:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 엠카 미니 결산] ENHYPEN(엔하이픈) - CRIMINAL LOVE]]></title>
-        <id>https://tv.naver.com/v/41016418</id>
-        <link href="https://tv.naver.com/v/41016418"/>
-        <updated>2023-10-05T10:18:42.738Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 엠카 미니 결산] aespa (에스파) - Better Things]]></title>
-        <id>https://tv.naver.com/v/41016183</id>
-        <link href="https://tv.naver.com/v/41016183"/>
-        <updated>2023-10-05T10:18:42.743Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 엠카 미니 결산] 주헌 (몬스타엑스) (JOOHONEY (MONSTA X)) - Don't Worry, Be Happy]]></title>
-        <id>https://tv.naver.com/v/41016003</id>
-        <link href="https://tv.naver.com/v/41016003"/>
-        <updated>2023-10-05T10:18:42.745Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 엠카 미니 결산] BOYNEXTDOOR (보이넥스트도어) - Hot Summer (원곡：f(x))]]></title>
-        <id>https://tv.naver.com/v/41016000</id>
-        <link href="https://tv.naver.com/v/41016000"/>
-        <updated>2023-10-05T10:18:42.746Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2023 엠카 미니 결산] BIG Naughty (서동현) - 사랑이라 믿었던 것들은 (Feat. 이수현)]]></title>
-        <id>https://tv.naver.com/v/41015602</id>
-        <link href="https://tv.naver.com/v/41015602"/>
-        <updated>2023-10-05T10:18:42.747Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>

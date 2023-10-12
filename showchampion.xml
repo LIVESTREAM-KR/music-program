@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-10-12T11:14:27.140Z</updated>
+    <updated>2023-10-12T12:32:21.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kep1er의_Galileo_들을leo? 💫]]></title>
+        <id>https://tv.naver.com/v/41292143</id>
+        <link href="https://tv.naver.com/v/41292143"/>
+        <updated>2023-10-12T12:32:06.265Z</updated>
+        <content type="html"><![CDATA[00:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS - Baila Conmigo (원어스 - 바일라 꼰미고) l Show Champion l EP.495 l 231011]]></title>
         <id>https://tv.naver.com/v/41246406</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41226146"/>
         <updated>2023-10-11T13:21:33.286Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE KEITA - TROUBLE (이븐 케이타 - 트러블) | Show Champion | EP.495 | 231011]]></title>
-        <id>https://tv.naver.com/v/41221005</id>
-        <link href="https://tv.naver.com/v/41221005"/>
-        <updated>2023-10-11T13:21:33.288Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
     </entry>
 </feed>
