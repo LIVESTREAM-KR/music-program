@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-13T06:23:38.024Z</updated>
+    <updated>2023-10-13T07:15:53.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] CRAVITY – Ready or Not(크래비티 - 레디 오어 낫) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/40991483</id>
+        <link href="https://tv.naver.com/v/40991483"/>
+        <updated>2023-10-13T07:15:14.709Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] KEY – Good & Great(키 - 굿 앤 그레이트) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/40991205</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/40696761</id>
         <link href="https://tv.naver.com/v/40696761"/>
         <updated>2023-09-25T08:20:54.022Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – New Tomorrow(판타지 보이즈 강민서-뉴 투모로우)FanCam|Show!MusicCore|MBC230923방]]></title>
-        <id>https://tv.naver.com/v/40696760</id>
-        <link href="https://tv.naver.com/v/40696760"/>
-        <updated>2023-09-25T08:20:54.024Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
     </entry>
 </feed>

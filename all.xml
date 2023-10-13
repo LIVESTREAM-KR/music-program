@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-13T06:23:38.035Z</updated>
+    <updated>2023-10-13T07:15:53.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[L.O.V.E - 허영지 | KBS 230922 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] CRAVITY – Ready or Not(크래비티 - 레디 오어 낫) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/40991483</id>
+        <link href="https://tv.naver.com/v/40991483"/>
+        <updated>2023-10-13T07:15:14.709Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] KEY – Good & Great(키 - 굿 앤 그레이트) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/40991205</id>
         <link href="https://tv.naver.com/v/40991205"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/40696761</id>
         <link href="https://tv.naver.com/v/40696761"/>
         <updated>2023-09-25T08:20:54.022Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – New Tomorrow(판타지 보이즈 강민서-뉴 투모로우)FanCam|Show!MusicCore|MBC230923방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40696760</id>
-        <link href="https://tv.naver.com/v/40696760"/>
-        <updated>2023-09-25T08:20:54.024Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
     </entry>
     <entry>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 원탑 흑마법사와 리코더계 마에스트로 환상의 컬래버 공개🤣 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/41337298</id>
+        <link href="https://tv.naver.com/v/41337298"/>
+        <updated>2023-10-13T07:15:46.781Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[세로직캠] 진성 - 타향살이 | KBS 230930 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/40854355</id>
         <link href="https://tv.naver.com/v/40854355"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/40641200"/>
         <updated>2023-09-23T12:28:14.805Z</updated>
         <content type="html"><![CDATA[01:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 즐거운 한가위🌕️ 계속되는 전설들의 전쟁! 故 손목인 편 전설전쟁 2부🔥 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40640069</id>
-        <link href="https://tv.naver.com/v/40640069"/>
-        <updated>2023-09-23T12:28:14.805Z</updated>
-        <content type="html"><![CDATA[00:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 MZ들의 이별 노래😥장인! 신흥 음원 강자✨ 감성 보컬 신예영의 복면가왕 하이라이트!, MBC 230917 방송 (복면가왕)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-10-13T06:23:38.085Z</updated>
+    <updated>2023-10-13T07:15:53.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 원탑 흑마법사와 리코더계 마에스트로 환상의 컬래버 공개🤣 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/41337298</id>
+        <link href="https://tv.naver.com/v/41337298"/>
+        <updated>2023-10-13T07:15:46.781Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로직캠] 진성 - 타향살이 | KBS 230930 방송]]></title>
         <id>https://tv.naver.com/v/40854355</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40641200"/>
         <updated>2023-09-23T12:28:14.805Z</updated>
         <content type="html"><![CDATA[01:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 즐거운 한가위🌕️ 계속되는 전설들의 전쟁! 故 손목인 편 전설전쟁 2부🔥 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/40640069</id>
-        <link href="https://tv.naver.com/v/40640069"/>
-        <updated>2023-09-23T12:28:14.805Z</updated>
-        <content type="html"><![CDATA[00:40]]></content>
     </entry>
 </feed>
