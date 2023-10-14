@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-14T09:15:22.509Z</updated>
+    <updated>2023-10-14T10:15:51.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엘즈업 - 치키 (EL7Z UP - CHEEKY), MBC 230923 방송]]></title>
-        <id>https://tv.naver.com/v/41375994</id>
-        <link href="https://tv.naver.com/v/41375994"/>
-        <updated>2023-10-14T09:14:37.055Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
+        <title type="html"><![CDATA[《스페셜X교차》 키 - 굿 앤 그레이트 (KEY - Good & Great), MBC 230923 방송]]></title>
+        <id>https://tv.naver.com/v/41376114</id>
+        <link href="https://tv.naver.com/v/41376114"/>
+        <updated>2023-10-14T10:15:11.410Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 크래비티 - 레디 오어 낫 (CRAVITY - Ready or Not), MBC 230923 방송]]></title>
@@ -18,6 +18,13 @@
         <link href="https://tv.naver.com/v/41375995"/>
         <updated>2023-10-14T09:14:37.056Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엘즈업 - 치키 (EL7Z UP - CHEEKY), MBC 230923 방송]]></title>
+        <id>https://tv.naver.com/v/41375994</id>
+        <link href="https://tv.naver.com/v/41375994"/>
+        <updated>2023-10-14T09:14:37.055Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 라이즈 - 겟 어 기타 (RIIZE - Get A Guitar), MBC 230923 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40726391"/>
         <updated>2023-09-26T03:18:26.696Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – One Shot(판타지 보이즈 김우석 - 원샷) FanCam | Show! MusicCore | MBC230923방]]></title>
-        <id>https://tv.naver.com/v/40724412</id>
-        <link href="https://tv.naver.com/v/40724412"/>
-        <updated>2023-09-26T02:22:40.644Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
     </entry>
 </feed>

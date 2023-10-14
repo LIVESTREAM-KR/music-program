@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-14T09:15:22.538Z</updated>
+    <updated>2023-10-14T10:15:51.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[3D - 정국 | KBS 231013 방송 (뮤직뱅크)]]></title>
@@ -215,11 +215,11 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 엘즈업 - 치키 (EL7Z UP - CHEEKY), MBC 230923 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41375994</id>
-        <link href="https://tv.naver.com/v/41375994"/>
-        <updated>2023-10-14T09:14:37.055Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
+        <title type="html"><![CDATA[《스페셜X교차》 키 - 굿 앤 그레이트 (KEY - Good & Great), MBC 230923 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41376114</id>
+        <link href="https://tv.naver.com/v/41376114"/>
+        <updated>2023-10-14T10:15:11.410Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 크래비티 - 레디 오어 낫 (CRAVITY - Ready or Not), MBC 230923 방송 (쇼! 음악중심)]]></title>
@@ -227,6 +227,13 @@
         <link href="https://tv.naver.com/v/41375995"/>
         <updated>2023-10-14T09:14:37.056Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엘즈업 - 치키 (EL7Z UP - CHEEKY), MBC 230923 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41375994</id>
+        <link href="https://tv.naver.com/v/41375994"/>
+        <updated>2023-10-14T09:14:37.055Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 라이즈 - 겟 어 기타 (RIIZE - Get A Guitar), MBC 230923 방송 (쇼! 음악중심)]]></title>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/40726391"/>
         <updated>2023-09-26T03:18:26.696Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – One Shot(판타지 보이즈 김우석 - 원샷) FanCam | Show! MusicCore | MBC230923방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/40724412</id>
-        <link href="https://tv.naver.com/v/40724412"/>
-        <updated>2023-09-26T02:22:40.644Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송 (인기가요)]]></title>
@@ -1265,6 +1265,55 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[노래하는 음유시인 이솔로몬⭐️ 글 쓰는 사람다운 촌철살인?!😆 오늘의 선곡은! | KBS 231014 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/41377514</id>
+        <link href="https://tv.naver.com/v/41377514"/>
+        <updated>2023-10-14T10:15:44.171Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VANNER(배너) - 토요일 밤에 | KBS 231014 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/41377386</id>
+        <link href="https://tv.naver.com/v/41377386"/>
+        <updated>2023-10-14T10:15:44.180Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-POP의 저력! 자신만이 할 수 있는 무대를 보여준 VANNER(배너) | KBS 231014 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/41377382</id>
+        <link href="https://tv.naver.com/v/41377382"/>
+        <updated>2023-10-14T10:15:44.182Z</updated>
+        <content type="html"><![CDATA[01:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 포문을 열어줄 실력파 아이돌 배너♥︎ 기합이 잔뜩 들어간🔥 오늘의 선곡은? | KBS 231014 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/41377282</id>
+        <link href="https://tv.naver.com/v/41377282"/>
+        <updated>2023-10-14T10:15:44.184Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트로트 낭만 가객 김용필🍂 한약으로 이어진 유리상자와의 정?🤣 | KBS 231014 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/41377191</id>
+        <link href="https://tv.naver.com/v/41377191"/>
+        <updated>2023-10-14T10:15:44.186Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국 2세대 대표 포크 듀오 유리상자💟 욕망 라인에 탑승! 선곡은 과연? | KBS 231014 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/41377043</id>
+        <link href="https://tv.naver.com/v/41377043"/>
+        <updated>2023-10-14T10:15:44.191Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤형주X김세환 - 긴 머리 소녀 + 조개껍질 묶어 | KBS 231014 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/41376760</id>
+        <link href="https://tv.naver.com/v/41376760"/>
+        <updated>2023-10-14T10:15:44.193Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] 원탑 흑마법사와 리코더계 마에스트로 환상의 컬래버 공개🤣 | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/41337298</id>
         <link href="https://tv.naver.com/v/41337298"/>
@@ -1424,55 +1473,6 @@
         <link href="https://tv.naver.com/v/40850926"/>
         <updated>2023-09-30T09:14:44.073Z</updated>
         <content type="html"><![CDATA[02:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이자연 - 아내의 노래 | KBS 230930 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40850763</id>
-        <link href="https://tv.naver.com/v/40850763"/>
-        <updated>2023-09-30T09:14:44.074Z</updated>
-        <content type="html"><![CDATA[05:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2부 첫 포문의 주인공 이자연! 우승해야 할 명분 확실🔥 오늘의 선곡은? | KBS 230930 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40850510</id>
-        <link href="https://tv.naver.com/v/40850510"/>
-        <updated>2023-09-30T09:14:44.074Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트롯 계 젠틀맨 진시몬🤵 급한 댄스팀 섭외? 사제 대결 성사될 것인가! | KBS 230930 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40850508</id>
-        <link href="https://tv.naver.com/v/40850508"/>
-        <updated>2023-09-30T09:14:44.075Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원조 꽃미남🌹 싱어송 라이터 김범룡! 우리의 소리를 찾아서~ 오늘의 선곡은? | KBS 230930 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40850347</id>
-        <link href="https://tv.naver.com/v/40850347"/>
-        <updated>2023-09-30T09:14:44.082Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풍성한 한가위 특집🌕️ 1부 우승자 조항조, 드디어 박현빈 트라우마 극복! | KBS 230930 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40850346</id>
-        <link href="https://tv.naver.com/v/40850346"/>
-        <updated>2023-09-30T09:14:44.083Z</updated>
-        <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 가사를 듣고 고향 하면 떠오르는 노래 맞추기?! 😋 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40820620</id>
-        <link href="https://tv.naver.com/v/40820620"/>
-        <updated>2023-09-28T15:17:33.564Z</updated>
-        <content type="html"><![CDATA[05:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 625회 ＜전설 전쟁 - 故 손목인 1편＞ 우승자 ⭐조항조⭐ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40641200</id>
-        <link href="https://tv.naver.com/v/40641200"/>
-        <updated>2023-09-23T12:28:14.805Z</updated>
-        <content type="html"><![CDATA[01:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 MZ들의 이별 노래😥장인! 신흥 음원 강자✨ 감성 보컬 신예영의 복면가왕 하이라이트!, MBC 230917 방송 (복면가왕)]]></title>
