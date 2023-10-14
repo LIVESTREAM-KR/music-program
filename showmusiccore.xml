@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-14T08:19:19.229Z</updated>
+    <updated>2023-10-14T09:15:22.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엘즈업 - 치키 (EL7Z UP - CHEEKY), MBC 230923 방송]]></title>
+        <id>https://tv.naver.com/v/41375994</id>
+        <link href="https://tv.naver.com/v/41375994"/>
+        <updated>2023-10-14T09:14:37.055Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 크래비티 - 레디 오어 낫 (CRAVITY - Ready or Not), MBC 230923 방송]]></title>
+        <id>https://tv.naver.com/v/41375995</id>
+        <link href="https://tv.naver.com/v/41375995"/>
+        <updated>2023-10-14T09:14:37.056Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 라이즈 - 겟 어 기타 (RIIZE - Get A Guitar), MBC 230923 방송]]></title>
+        <id>https://tv.naver.com/v/41375877</id>
+        <link href="https://tv.naver.com/v/41375877"/>
+        <updated>2023-10-14T09:14:37.056Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10월 2주차 1위 엔시티 127 - 불가사의; 不可思議 (NCT 127 - Fact Check ), MBC 231014 방송]]></title>
         <id>https://tv.naver.com/v/41374167</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/40724412"/>
         <updated>2023-09-26T02:22:40.644Z</updated>
         <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS K-SOUL – One Shot(판타지 보이즈 소울 - 원샷) FanCam | Show! MusicCore | MBC230923방송]]></title>
-        <id>https://tv.naver.com/v/40724051</id>
-        <link href="https://tv.naver.com/v/40724051"/>
-        <updated>2023-09-26T02:22:40.650Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN – One Shot(판타지 보이즈 홍성민 - 원샷) FanCam | Show! MusicCore |MBC230923방]]></title>
-        <id>https://tv.naver.com/v/40724021</id>
-        <link href="https://tv.naver.com/v/40724021"/>
-        <updated>2023-09-26T02:22:40.652Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – One Shot(판타지 보이즈 오현태 - 원샷) FanCam | Show! MusicCore | MBC230923방]]></title>
-        <id>https://tv.naver.com/v/40723852</id>
-        <link href="https://tv.naver.com/v/40723852"/>
-        <updated>2023-09-26T02:22:40.654Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
     </entry>
 </feed>
