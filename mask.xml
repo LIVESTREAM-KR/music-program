@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-10-15T11:13:24.130Z</updated>
+    <updated>2023-10-15T12:29:24.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜과연 신들의 전쟁 속 승리자는? 👀＞ 복면가왕 423회 예고, MBC 231022 방송]]></title>
+        <id>https://tv.naver.com/v/41407412</id>
+        <link href="https://tv.naver.com/v/41407412"/>
+        <updated>2023-10-15T12:29:23.354Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['침대'의 정체는 코미디언 김지호!, MBC 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41407236</id>
+        <link href="https://tv.naver.com/v/41407236"/>
+        <updated>2023-10-15T12:29:23.355Z</updated>
+        <content type="html"><![CDATA[01:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['은행나무' VS '침대'의 1라운드 무대 - 먼 훗날에, MBC 231015 방송]]></title>
         <id>https://tv.naver.com/v/41406929</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/40371163"/>
         <updated>2023-09-17T10:15:42.827Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['찜질방' 2라운드 무대 - 편지할게요, MBC 230917 방송]]></title>
-        <id>https://tv.naver.com/v/40371026</id>
-        <link href="https://tv.naver.com/v/40371026"/>
-        <updated>2023-09-17T10:15:42.828Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 달달한🍭목소리로 여심 제대로 저격한 ＜소년판타지＞의 주인공✨판타지 보이즈 김우석!, MBC 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40173818</id>
-        <link href="https://tv.naver.com/v/40173818"/>
-        <updated>2023-09-12T10:18:15.208Z</updated>
-        <content type="html"><![CDATA[11:06]]></content>
     </entry>
 </feed>
