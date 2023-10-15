@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-10-15T07:14:30.561Z</updated>
+    <updated>2023-10-15T08:19:32.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 - Fact Check (불가사의; 不可思議) | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41401232</id>
+        <link href="https://tv.naver.com/v/41401232"/>
+        <updated>2023-10-15T08:18:54.069Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 - Parade (행진) | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41401104</id>
+        <link href="https://tv.naver.com/v/41401104"/>
+        <updated>2023-10-15T08:18:54.070Z</updated>
+        <content type="html"><![CDATA[02:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더 - Chasing That Feeling | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400997</id>
+        <link href="https://tv.naver.com/v/41400997"/>
+        <updated>2023-10-15T08:18:54.071Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임영웅 - Do or Die | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400896</id>
+        <link href="https://tv.naver.com/v/41400896"/>
+        <updated>2023-10-15T08:18:54.073Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더 - Back for More (TXT Ver.) | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400894</id>
+        <link href="https://tv.naver.com/v/41400894"/>
+        <updated>2023-10-15T08:18:54.074Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에일리(Ailee) - RA TA TA (Feat. 김다연 of Kep1er) | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400892</id>
+        <link href="https://tv.naver.com/v/41400892"/>
+        <updated>2023-10-15T08:18:54.080Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IVE - Baddie | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400755</id>
+        <link href="https://tv.naver.com/v/41400755"/>
+        <updated>2023-10-15T08:18:54.080Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IVE - Off The Record | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400641</id>
+        <link href="https://tv.naver.com/v/41400641"/>
+        <updated>2023-10-15T08:18:54.082Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프(ONF) - 바람이 분다 (Love Effect) | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400640</id>
+        <link href="https://tv.naver.com/v/41400640"/>
+        <updated>2023-10-15T08:18:54.084Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - Cheese | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400516</id>
+        <link href="https://tv.naver.com/v/41400516"/>
+        <updated>2023-10-15T08:18:54.085Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스(ONEUS) - Baila Conmigo | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400392</id>
+        <link href="https://tv.naver.com/v/41400392"/>
+        <updated>2023-10-15T08:18:54.087Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes - Break the Brake | SBS 231015 방송]]></title>
         <id>https://tv.naver.com/v/41400122</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/40367257"/>
         <updated>2023-09-17T08:18:03.167Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE - Get A Guitar | SBS 230917 방송]]></title>
-        <id>https://tv.naver.com/v/40367111</id>
-        <link href="https://tv.naver.com/v/40367111"/>
-        <updated>2023-09-17T08:18:03.168Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mimiirose - FLIRTING | SBS 230917 방송]]></title>
-        <id>https://tv.naver.com/v/40366980</id>
-        <link href="https://tv.naver.com/v/40366980"/>
-        <updated>2023-09-17T08:18:03.169Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EL7Z UP (엘즈업) - CHEEKY | SBS 230917 방송]]></title>
-        <id>https://tv.naver.com/v/40366833</id>
-        <link href="https://tv.naver.com/v/40366833"/>
-        <updated>2023-09-17T07:14:20.892Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLACKSWAN - Cat & Mouse | SBS 230917 방송]]></title>
-        <id>https://tv.naver.com/v/40366832</id>
-        <link href="https://tv.naver.com/v/40366832"/>
-        <updated>2023-10-08T16:19:10.834Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FANTASY BOYS - One Shot | SBS 230917 방송]]></title>
-        <id>https://tv.naver.com/v/40366668</id>
-        <link href="https://tv.naver.com/v/40366668"/>
-        <updated>2023-10-08T16:19:10.836Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POW - Favorite | SBS 230917 방송]]></title>
-        <id>https://tv.naver.com/v/40366347</id>
-        <link href="https://tv.naver.com/v/40366347"/>
-        <updated>2023-10-08T16:19:10.837Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X:IN - SYNCHRONIZE | SBS 230917 방송]]></title>
-        <id>https://tv.naver.com/v/40366191</id>
-        <link href="https://tv.naver.com/v/40366191"/>
-        <updated>2023-10-08T16:19:10.840Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V - Slow Dancing | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40083172</id>
-        <link href="https://tv.naver.com/v/40083172"/>
-        <updated>2023-10-08T16:19:10.841Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V - Rainy Days | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40083011</id>
-        <link href="https://tv.naver.com/v/40083011"/>
-        <updated>2023-10-08T16:19:10.843Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT U - Baggy Jeans | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40079465</id>
-        <link href="https://tv.naver.com/v/40079465"/>
-        <updated>2023-10-08T16:19:10.851Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화사 (HWASA) - I Love My Body | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40079312</id>
-        <link href="https://tv.naver.com/v/40079312"/>
-        <updated>2023-10-08T16:19:10.858Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
