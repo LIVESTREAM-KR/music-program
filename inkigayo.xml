@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-10-15T06:21:11.849Z</updated>
+    <updated>2023-10-15T07:14:30.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes - Break the Brake | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400122</id>
+        <link href="https://tv.naver.com/v/41400122"/>
+        <updated>2023-10-15T07:13:53.558Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러(Kep1er) - Galileo | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400006</id>
+        <link href="https://tv.naver.com/v/41400006"/>
+        <updated>2023-10-15T07:13:53.558Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로시(Rothy) - Something Casual | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41400002</id>
+        <link href="https://tv.naver.com/v/41400002"/>
+        <updated>2023-10-15T07:13:53.558Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST(템페스트) - DIVE | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41399896</id>
+        <link href="https://tv.naver.com/v/41399896"/>
+        <updated>2023-10-15T07:13:53.558Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIGHTSUM - Honey or Spice | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41399722</id>
+        <link href="https://tv.naver.com/v/41399722"/>
+        <updated>2023-10-15T07:13:53.559Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPEX(이펙스) - FULL METAL JACKET | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41399716</id>
+        <link href="https://tv.naver.com/v/41399716"/>
+        <updated>2023-10-15T07:13:53.559Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVNNE - TROUBLE | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41399569</id>
+        <link href="https://tv.naver.com/v/41399569"/>
+        <updated>2023-10-15T07:13:53.559Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - SPICE | SBS 231015 방송]]></title>
+        <id>https://tv.naver.com/v/41399401</id>
+        <link href="https://tv.naver.com/v/41399401"/>
+        <updated>2023-10-15T07:13:53.559Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[키 (KEY) - CoolAs | SBS 230917 방송]]></title>
         <id>https://tv.naver.com/v/40368371</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/40079312"/>
         <updated>2023-10-08T16:19:10.858Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young K (DAY6) - 이것밖에는 없다 | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40079310</id>
-        <link href="https://tv.naver.com/v/40079310"/>
-        <updated>2023-10-08T16:19:10.859Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세정 - Top or Cliff | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40079153</id>
-        <link href="https://tv.naver.com/v/40079153"/>
-        <updated>2023-10-08T16:19:10.862Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVERGLOW(에버글로우) - SLAY | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40079149</id>
-        <link href="https://tv.naver.com/v/40079149"/>
-        <updated>2023-10-08T16:19:10.863Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채연 - LET'S DANCE | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078965</id>
-        <link href="https://tv.naver.com/v/40078965"/>
-        <updated>2023-10-08T16:19:10.864Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYNEXTDOOR - 뭣 같아 | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078612</id>
-        <link href="https://tv.naver.com/v/40078612"/>
-        <updated>2023-10-08T16:19:10.865Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYNEXTDOOR - Crying | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078610</id>
-        <link href="https://tv.naver.com/v/40078610"/>
-        <updated>2023-10-08T16:19:10.866Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY (하이키) - SEOUL (Such a Beautiful City) | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078427</id>
-        <link href="https://tv.naver.com/v/40078427"/>
-        <updated>2023-10-08T16:19:10.866Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE - Get A Guitar | SBS 230910 방송]]></title>
-        <id>https://tv.naver.com/v/40078287</id>
-        <link href="https://tv.naver.com/v/40078287"/>
-        <updated>2023-10-08T16:19:10.867Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
