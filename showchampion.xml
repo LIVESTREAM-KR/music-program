@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-10-16T01:10:14.452Z</updated>
+    <updated>2023-10-16T02:26:13.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 한 팀도 빠짐없이 영롱...✨ 이번주 쇼챔 라인업 못 참고 보여드립니다]]></title>
+        <id>https://tv.naver.com/v/41422930</id>
+        <link href="https://tv.naver.com/v/41422930"/>
+        <updated>2023-10-16T02:25:57.254Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10월 2주차 쇼챔피언 🍩MC 나나츠키LEW🌙 모음.zip (우아! 나나, 빌리 츠키, 템페스트 LEW) | Show Champion | EP.495 | 231011]]></title>
         <id>https://tv.naver.com/v/41246167</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/41226555</id>
         <link href="https://tv.naver.com/v/41226555"/>
         <updated>2023-10-11T13:21:33.281Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX KEUM DONGHYUN - FULL METAL JACKET(이펙스 금동현-풀 메탈 자켓) | Show Champion | EP.495 | 231011]]></title>
-        <id>https://tv.naver.com/v/41226325</id>
-        <link href="https://tv.naver.com/v/41226325"/>
-        <updated>2023-10-11T13:21:33.283Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
