@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-16T06:23:11.224Z</updated>
+    <updated>2023-10-16T07:17:17.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[3D - 정국 | KBS 231013 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 리노(민호) , 10월 둘째 주 음악중심 MC 컷 모음!, MBC 231014 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41438643</id>
+        <link href="https://tv.naver.com/v/41438643"/>
+        <updated>2023-10-16T07:16:33.704Z</updated>
+        <content type="html"><![CDATA[15:44]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ONEUS LEEDO – Baila Conmigo(원어스 이도 - 바일라 꼰미고) FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/41425923</id>
         <link href="https://tv.naver.com/v/41425923"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/41382081"/>
         <updated>2023-10-14T13:17:08.432Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LIZ – Baddie(아이브 리즈 - 배디) FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41381917</id>
-        <link href="https://tv.naver.com/v/41381917"/>
-        <updated>2023-10-14T13:17:08.438Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 - Fact Check (불가사의; 不可思議) | SBS 231015 방송 (인기가요)]]></title>
