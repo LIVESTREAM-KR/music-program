@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-16T07:17:17.744Z</updated>
+    <updated>2023-10-16T08:22:25.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 MARK - Fact Check(엔시티 일이칠 마크 - 불가사의; 不可思議) Close-up Cam | Show!MusicCore|MBC231014방]]></title>
+        <id>https://tv.naver.com/v/41442792</id>
+        <link href="https://tv.naver.com/v/41442792"/>
+        <updated>2023-10-16T08:21:39.195Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 JUNGWOO - Fact Check(엔시티 일이칠 정우 - 불가사의; 不可思議)Close-up Cam|Show!MusicCore|MBC231014방]]></title>
+        <id>https://tv.naver.com/v/41442790</id>
+        <link href="https://tv.naver.com/v/41442790"/>
+        <updated>2023-10-16T08:21:39.197Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT 127 HAECHAN - Fact Check(엔시티 일이칠 해찬 - 불가사의; 不可思議)Close-up Cam|Show!MusicCore|MBC231014방]]></title>
+        <id>https://tv.naver.com/v/41442721</id>
+        <link href="https://tv.naver.com/v/41442721"/>
+        <updated>2023-10-16T08:21:39.199Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 리노(민호) , 10월 둘째 주 음악중심 MC 컷 모음!, MBC 231014 방송]]></title>
         <id>https://tv.naver.com/v/41438643</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/41382089"/>
         <updated>2023-10-14T13:17:08.420Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO – Baddie(아이브 이서 - 배디) FanCam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41382085</id>
-        <link href="https://tv.naver.com/v/41382085"/>
-        <updated>2023-10-14T13:17:08.424Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE REI – Baddie(아이브 레이 - 배디) FanCam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41382083</id>
-        <link href="https://tv.naver.com/v/41382083"/>
-        <updated>2023-10-14T13:17:08.430Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE - Baddie(아이브 – 배디) FanCam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41382081</id>
-        <link href="https://tv.naver.com/v/41382081"/>
-        <updated>2023-10-14T13:17:08.432Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
