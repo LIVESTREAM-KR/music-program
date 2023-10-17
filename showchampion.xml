@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-10-17T11:14:55.661Z</updated>
+    <updated>2023-10-17T12:32:43.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강렬하게 맞서 fight, boom, boom, boom! 🔥]]></title>
+        <id>https://tv.naver.com/v/41497180</id>
+        <link href="https://tv.naver.com/v/41497180"/>
+        <updated>2023-10-17T12:32:28.485Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everywhere THX go, bring the beatbox!]]></title>
         <id>https://tv.naver.com/v/41471301</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/41231238</id>
         <link href="https://tv.naver.com/v/41231238"/>
         <updated>2023-10-11T13:21:33.277Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] THE NEW SIX(TNX) SUNGJUN - Beatbox (원곡 : NCT DREAM) | Show Champion | EP.495 | 231011]]></title>
-        <id>https://tv.naver.com/v/41231007</id>
-        <link href="https://tv.naver.com/v/41231007"/>
-        <updated>2023-10-11T13:21:33.279Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
