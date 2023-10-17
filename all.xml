@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-17T07:16:56.964Z</updated>
+    <updated>2023-10-17T08:21:41.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[3D - 정국 | KBS 231013 방송 (뮤직뱅크)]]></title>
@@ -1055,6 +1055,13 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Everywhere THX go, bring the beatbox! (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/41471301</id>
+        <link href="https://tv.naver.com/v/41471301"/>
+        <updated>2023-10-17T08:21:25.958Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 한 팀도 빠짐없이 영롱...✨ 이번주 쇼챔 라인업 못 참고 보여드립니다 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/41422930</id>
         <link href="https://tv.naver.com/v/41422930"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/41231007"/>
         <updated>2023-10-11T13:21:33.279Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX BAEKSEUNG - FULL METAL JACKET(이펙스 백승-풀 메탈 자켓) | Show Champion | EP.495 | 231011 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/41226555</id>
-        <link href="https://tv.naver.com/v/41226555"/>
-        <updated>2023-10-11T13:21:33.281Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 627회 ＜아티스트 윤형주&김세환 편＞ 우승자 ⭐육중완밴드⭐ | KBS 방송 (불후의 명곡)]]></title>
