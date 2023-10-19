@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-10-19T11:14:18.253Z</updated>
+    <updated>2023-10-19T12:32:57.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로시 - Something Casual | Mnet 231019 방송]]></title>
+        <id>https://tv.naver.com/v/41614979</id>
+        <link href="https://tv.naver.com/v/41614979"/>
+        <updated>2023-10-19T12:32:24.734Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 선미 - STRANGER | Mnet 231019 방송]]></title>
+        <id>https://tv.naver.com/v/41611713</id>
+        <link href="https://tv.naver.com/v/41611713"/>
+        <updated>2023-10-19T12:32:24.736Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 - Fact Check (불가사의; 不可思議) | Mnet 231019 방송]]></title>
+        <id>https://tv.naver.com/v/41611489</id>
+        <link href="https://tv.naver.com/v/41611489"/>
+        <updated>2023-10-19T12:32:24.737Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 투모로우바이투게더 - Chasing That Feeling | Mnet 231019 방송]]></title>
+        <id>https://tv.naver.com/v/41611485</id>
+        <link href="https://tv.naver.com/v/41611485"/>
+        <updated>2023-10-19T12:32:24.740Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' 투모로우바이투게더 - Back for More (TXT Ver.) | Mnet 231019 방송]]></title>
         <id>https://tv.naver.com/v/41611115</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/41298974"/>
         <updated>2023-10-12T12:31:50.847Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 온앤오프(ONF) - 바람이 분다 (Love Effect) | Mnet 231012 방송]]></title>
-        <id>https://tv.naver.com/v/41298826</id>
-        <link href="https://tv.naver.com/v/41298826"/>
-        <updated>2023-10-12T12:31:50.848Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 휘인(Whee In) - In The Mood | Mnet 231012 방송]]></title>
-        <id>https://tv.naver.com/v/41298824</id>
-        <link href="https://tv.naver.com/v/41298824"/>
-        <updated>2023-10-12T12:31:50.849Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 원어스(ONEUS) - Baila Conmigo | Mnet 231012 방송]]></title>
-        <id>https://tv.naver.com/v/41298564</id>
-        <link href="https://tv.naver.com/v/41298564"/>
-        <updated>2023-10-12T12:31:50.850Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Cheese | Mnet 231012 방송]]></title>
-        <id>https://tv.naver.com/v/41298313</id>
-        <link href="https://tv.naver.com/v/41298313"/>
-        <updated>2023-10-12T11:13:57.888Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
     </entry>
 </feed>

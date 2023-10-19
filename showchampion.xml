@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-10-19T11:14:18.260Z</updated>
+    <updated>2023-10-19T12:32:57.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://tv.naver.com/v/41578459"/>
         <updated>2023-10-19T08:21:24.235Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alright 엑디즈's ready, go go go 🎸]]></title>
+        <id>https://tv.naver.com/v/41595774</id>
+        <link href="https://tv.naver.com/v/41595774"/>
+        <updated>2023-10-19T12:32:40.889Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ONF U - Love Effect (온앤오프 유 - 바람이 분다) | Show Champion | EP.496 | 231018]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41539701"/>
         <updated>2023-10-18T13:21:14.175Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] THE NEW SIX(TNX) HYUNSOO - Slingshot (더 뉴 식스 장현수 - 슬링샷) | Show Champion | EP.496 | 231018]]></title>
-        <id>https://tv.naver.com/v/41534787</id>
-        <link href="https://tv.naver.com/v/41534787"/>
-        <updated>2023-10-18T13:21:14.178Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>

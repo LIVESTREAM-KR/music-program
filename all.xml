@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-19T11:14:18.275Z</updated>
+    <updated>2023-10-19T12:32:57.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[3D - 정국 | KBS 231013 방송 (뮤직뱅크)]]></title>
@@ -635,6 +635,34 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[로시 - Something Casual | Mnet 231019 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/41614979</id>
+        <link href="https://tv.naver.com/v/41614979"/>
+        <updated>2023-10-19T12:32:24.734Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 선미 - STRANGER | Mnet 231019 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/41611713</id>
+        <link href="https://tv.naver.com/v/41611713"/>
+        <updated>2023-10-19T12:32:24.736Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT 127 - Fact Check (불가사의; 不可思議) | Mnet 231019 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/41611489</id>
+        <link href="https://tv.naver.com/v/41611489"/>
+        <updated>2023-10-19T12:32:24.737Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 투모로우바이투게더 - Chasing That Feeling | Mnet 231019 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/41611485</id>
+        <link href="https://tv.naver.com/v/41611485"/>
+        <updated>2023-10-19T12:32:24.740Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['COMEBACK' 투모로우바이투게더 - Back for More (TXT Ver.) | Mnet 231019 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/41611115</id>
         <link href="https://tv.naver.com/v/41611115"/>
@@ -815,34 +843,6 @@
         <link href="https://tv.naver.com/v/41298974"/>
         <updated>2023-10-12T12:31:50.847Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 온앤오프(ONF) - 바람이 분다 (Love Effect) | Mnet 231012 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/41298826</id>
-        <link href="https://tv.naver.com/v/41298826"/>
-        <updated>2023-10-12T12:31:50.848Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 휘인(Whee In) - In The Mood | Mnet 231012 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/41298824</id>
-        <link href="https://tv.naver.com/v/41298824"/>
-        <updated>2023-10-12T12:31:50.849Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 원어스(ONEUS) - Baila Conmigo | Mnet 231012 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/41298564</id>
-        <link href="https://tv.naver.com/v/41298564"/>
-        <updated>2023-10-12T12:31:50.850Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Cheese | Mnet 231012 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/41298313</id>
-        <link href="https://tv.naver.com/v/41298313"/>
-        <updated>2023-10-12T11:13:57.888Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
@@ -1090,6 +1090,13 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Alright 엑디즈's ready, go go go 🎸 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/41595774</id>
+        <link href="https://tv.naver.com/v/41595774"/>
+        <updated>2023-10-19T12:32:40.889Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ONF U - Love Effect (온앤오프 유 - 바람이 분다) | Show Champion | EP.496 | 231018 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/41553150</id>
         <link href="https://tv.naver.com/v/41553150"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/41539701"/>
         <updated>2023-10-18T13:21:14.175Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] THE NEW SIX(TNX) HYUNSOO - Slingshot (더 뉴 식스 장현수 - 슬링샷) | Show Champion | EP.496 | 231018 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/41534787</id>
-        <link href="https://tv.naver.com/v/41534787"/>
-        <updated>2023-10-18T13:21:14.178Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 627회 ＜아티스트 윤형주&김세환 편＞ 우승자 ⭐육중완밴드⭐ | KBS 방송 (불후의 명곡)]]></title>
