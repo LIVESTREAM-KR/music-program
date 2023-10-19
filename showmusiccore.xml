@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-19T07:15:30.567Z</updated>
+    <updated>2023-10-19T08:21:40.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT 127.zip 📂 Fire Truck(소방차)부터 Fact Check(불가사의; 不可思議)까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/41558792</id>
+        <link href="https://tv.naver.com/v/41558792"/>
+        <updated>2023-10-19T08:20:52.750Z</updated>
+        <content type="html"><![CDATA[01:16:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT 127 JAEHYUN - Parade(엔시티 일이칠 재현 - 행진) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
         <id>https://tv.naver.com/v/41491513</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41425136"/>
         <updated>2023-10-16T02:25:27.601Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONF - Love Effect(온앤오프 – 바람이 분다) FanCam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41424954</id>
-        <link href="https://tv.naver.com/v/41424954"/>
-        <updated>2023-10-16T02:25:27.602Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
