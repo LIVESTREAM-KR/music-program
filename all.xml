@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-20T06:22:32.533Z</updated>
+    <updated>2023-10-20T07:15:28.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[3D - 정국 | KBS 231013 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] FANTASY BOYS – One Shot(판타지 보이즈 - 원 샷) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/41634064</id>
+        <link href="https://tv.naver.com/v/41634064"/>
+        <updated>2023-10-20T07:14:45.019Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] NCT 127.zip 📂 Fire Truck(소방차)부터 Fact Check(불가사의; 不可思議)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/41558792</id>
         <link href="https://tv.naver.com/v/41558792"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/41425139"/>
         <updated>2023-10-16T02:25:27.601Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kep1er - Galileo(케플러 – 갈릴레오) FanCam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41425136</id>
-        <link href="https://tv.naver.com/v/41425136"/>
-        <updated>2023-10-16T02:25:27.601Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT 127 - Fact Check (불가사의; 不可思議) | SBS 231015 방송 (인기가요)]]></title>
