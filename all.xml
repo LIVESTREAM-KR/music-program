@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-20T11:14:16.383Z</updated>
+    <updated>2023-10-20T12:31:47.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[3D - 정국 | KBS 231013 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,13 @@
         <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 😍이솔로몬의 러브송은🎤? | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/41661976</id>
+        <link href="https://tv.naver.com/v/41661976"/>
+        <updated>2023-10-20T12:31:39.166Z</updated>
+        <content type="html"><![CDATA[04:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 627회 ＜아티스트 윤형주&김세환 편＞ 우승자 ⭐육중완밴드⭐ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/41379719</id>
         <link href="https://tv.naver.com/v/41379719"/>
@@ -1466,13 +1473,6 @@
         <link href="https://tv.naver.com/v/41337298"/>
         <updated>2023-10-13T07:15:46.781Z</updated>
         <content type="html"><![CDATA[02:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 진성 - 타향살이 | KBS 230930 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/40854355</id>
-        <link href="https://tv.naver.com/v/40854355"/>
-        <updated>2023-09-30T12:28:23.911Z</updated>
-        <content type="html"><![CDATA[05:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[＜과연 신들의 전쟁 속 승리자는? 👀＞ 복면가왕 423회 예고, MBC 231022 방송 (복면가왕)]]></title>
