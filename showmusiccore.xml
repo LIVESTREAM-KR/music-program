@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-21T07:14:21.817Z</updated>
+    <updated>2023-10-21T08:18:52.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔시티 127 - 불가사의; 不可思議 (NCT 127 - Fact Check ), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41686471</id>
+        <link href="https://tv.naver.com/v/41686471"/>
+        <updated>2023-10-21T08:18:08.816Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선미 - 스트레인저 (SUNMI - STRANGER), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41686467</id>
+        <link href="https://tv.naver.com/v/41686467"/>
+        <updated>2023-10-21T08:18:08.818Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이브 - 배디 (IVE - Baddie), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41686081</id>
+        <link href="https://tv.naver.com/v/41686081"/>
+        <updated>2023-10-21T08:18:08.820Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프 - 바람이 분다 (ONF - Love Effect), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41685915</id>
+        <link href="https://tv.naver.com/v/41685915"/>
+        <updated>2023-10-21T08:18:08.822Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스 - 바일라 꼰미고 (ONEUS - Baila Conmigo), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41685770</id>
+        <link href="https://tv.naver.com/v/41685770"/>
+        <updated>2023-10-21T08:18:08.824Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티 - 치즈 (CRAVITY - Cheese), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41685628</id>
+        <link href="https://tv.naver.com/v/41685628"/>
+        <updated>2023-10-21T08:18:08.826Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라잇썸 - 허니 오어 스파이스 (LIGHTSUM - Honey or Spice), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41685627</id>
+        <link href="https://tv.naver.com/v/41685627"/>
+        <updated>2023-10-21T08:18:08.828Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑스디너리 히어로즈 - 브레이크 더 브레이크 (Xdinary Heroes - Break the Brake), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41685454</id>
+        <link href="https://tv.naver.com/v/41685454"/>
+        <updated>2023-10-21T08:18:08.830Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로시 - 썸띵 캐주얼 (Rothy - Something Casual), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41685324</id>
+        <link href="https://tv.naver.com/v/41685324"/>
+        <updated>2023-10-21T08:18:08.832Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[판타지 보이즈 - 뉴 투모로우 (FANTASY BOYS - New Tomorrow), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41685058</id>
+        <link href="https://tv.naver.com/v/41685058"/>
+        <updated>2023-10-21T08:18:08.834Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트리플에스 에볼루션 - 인빈서블 (tripleS EVOLution - Invincible), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41685056</id>
+        <link href="https://tv.naver.com/v/41685056"/>
+        <updated>2023-10-21T08:18:08.839Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유나이트 - 정했어 (YOUNITE - Love it), MBC 231021 방송]]></title>
         <id>https://tv.naver.com/v/41684780</id>
@@ -27,7 +104,7 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퀸즈아이 - 이스 이즈 러브 (Queenz Eye - THIS IS LOVE), MBC 231021 방송]]></title>
+        <title type="html"><![CDATA[퀸즈아이 - 디스 이즈 러브 (Queenz Eye - THIS IS LOVE), MBC 231021 방송]]></title>
         <id>https://tv.naver.com/v/41684414</id>
         <link href="https://tv.naver.com/v/41684414"/>
         <updated>2023-10-21T07:13:37.013Z</updated>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/41487735"/>
         <updated>2023-10-17T06:22:21.479Z</updated>
         <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE LIZ - Baddie(아이브 리즈 - 배디) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41447429</id>
-        <link href="https://tv.naver.com/v/41447429"/>
-        <updated>2023-10-16T10:18:14.772Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - Baddie(아이브 장원영 - 배디) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41447425</id>
-        <link href="https://tv.naver.com/v/41447425"/>
-        <updated>2023-10-16T10:18:14.772Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE GAEUL - Baddie(아이브 가을 - 배디) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41447422</id>
-        <link href="https://tv.naver.com/v/41447422"/>
-        <updated>2023-10-16T10:18:14.779Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN - Baddie(아이브 안유진 - 배디) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41447419</id>
-        <link href="https://tv.naver.com/v/41447419"/>
-        <updated>2023-10-16T10:18:14.779Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT 127 MARK - Fact Check(엔시티 일이칠 마크 - 불가사의; 不可思議) Close-up Cam | Show!MusicCore|MBC231014방]]></title>
-        <id>https://tv.naver.com/v/41442792</id>
-        <link href="https://tv.naver.com/v/41442792"/>
-        <updated>2023-10-16T08:21:39.195Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT 127 JUNGWOO - Fact Check(엔시티 일이칠 정우 - 불가사의; 不可思議)Close-up Cam|Show!MusicCore|MBC231014방]]></title>
-        <id>https://tv.naver.com/v/41442790</id>
-        <link href="https://tv.naver.com/v/41442790"/>
-        <updated>2023-10-16T08:21:39.197Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT 127 HAECHAN - Fact Check(엔시티 일이칠 해찬 - 불가사의; 不可思議)Close-up Cam|Show!MusicCore|MBC231014방]]></title>
-        <id>https://tv.naver.com/v/41442721</id>
-        <link href="https://tv.naver.com/v/41442721"/>
-        <updated>2023-10-16T08:21:39.199Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 리노(민호) , 10월 둘째 주 음악중심 MC 컷 모음!, MBC 231014 방송]]></title>
-        <id>https://tv.naver.com/v/41438643</id>
-        <link href="https://tv.naver.com/v/41438643"/>
-        <updated>2023-10-16T07:16:33.704Z</updated>
-        <content type="html"><![CDATA[15:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONEUS LEEDO – Baila Conmigo(원어스 이도 - 바일라 꼰미고) FanCam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41425923</id>
-        <link href="https://tv.naver.com/v/41425923"/>
-        <updated>2023-10-16T03:16:51.016Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE AN YUJIN – Off The Record(아이브 안유진 - 오프 더 레코드) FanCam | Show! MusicCore | MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41425921</id>
-        <link href="https://tv.naver.com/v/41425921"/>
-        <updated>2023-10-16T03:16:51.021Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TripleS EVOLution Kim YooYeon – Invincible(트리플에스 에볼루션 김유연-인빈서블)FanCam|MusicCore|MBC231014방송]]></title>
-        <id>https://tv.naver.com/v/41425722</id>
-        <link href="https://tv.naver.com/v/41425722"/>
-        <updated>2023-10-16T03:16:51.024Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
