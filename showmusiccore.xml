@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-21T13:17:41.818Z</updated>
+    <updated>2023-10-21T14:14:09.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] tripleS EVOLution - Invincible(트리플에스 에볼루션 – 인빈시블) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692902</id>
-        <link href="https://tv.naver.com/v/41692902"/>
-        <updated>2023-10-21T12:28:27.393Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] tripleS EVOLution Kim YooYeon – Invincible(트리플에스 에볼루션 김유연-인빈시블)FanCam|MusicCore|MBC231021방송]]></title>
         <id>https://tv.naver.com/v/41692903</id>
         <link href="https://tv.naver.com/v/41692903"/>
         <updated>2023-10-21T12:28:27.393Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] tripleS EVOLution - Invincible(트리플에스 에볼루션 – 인빈시블) FanCam | Show! MusicCore | MBC231021방송]]></title>
+        <id>https://tv.naver.com/v/41692902</id>
+        <link href="https://tv.naver.com/v/41692902"/>
+        <updated>2023-10-21T12:28:27.393Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] n.SSign KAZUTA - SPICE(엔싸인 카즈타 - 스파이스) FanCam | Show! MusicCore | MBC231021방송]]></title>
