@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-10-22T08:19:49.562Z</updated>
+    <updated>2023-10-22T09:14:49.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes - Break the Brake | SBS 231022 방송]]></title>
+        <id>https://tv.naver.com/v/41715171</id>
+        <link href="https://tv.naver.com/v/41715171"/>
+        <updated>2023-10-22T09:14:13.938Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선미 - STRANGER | SBS 231022 방송]]></title>
         <id>https://tv.naver.com/v/41714864</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41400122"/>
         <updated>2023-10-15T07:13:53.558Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러(Kep1er) - Galileo | SBS 231015 방송]]></title>
-        <id>https://tv.naver.com/v/41400006</id>
-        <link href="https://tv.naver.com/v/41400006"/>
-        <updated>2023-10-15T07:13:53.558Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
