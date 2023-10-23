@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-23T07:16:14.114Z</updated>
+    <updated>2023-10-23T08:22:29.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] POW YORCH - Dazzling(파우 요치 - 다즐링) Close-up Cam | Show! MusicCore | MBC231014방송]]></title>
+        <id>https://tv.naver.com/v/41756660</id>
+        <link href="https://tv.naver.com/v/41756660"/>
+        <updated>2023-10-23T08:21:38.647Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN - Baddie(아이브 안유진 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
+        <id>https://tv.naver.com/v/41754554</id>
+        <link href="https://tv.naver.com/v/41754554"/>
+        <updated>2023-10-23T08:21:38.647Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - Baddie(아이브 장원영 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
+        <id>https://tv.naver.com/v/41754550</id>
+        <link href="https://tv.naver.com/v/41754550"/>
+        <updated>2023-10-23T08:21:38.654Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] IVE REI - Baddie(아이브 레이 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
         <id>https://tv.naver.com/v/41753991</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/41692427"/>
         <updated>2023-10-21T12:28:27.434Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONF - Love Effect(온앤오프 – 바람이 분다) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692291</id>
-        <link href="https://tv.naver.com/v/41692291"/>
-        <updated>2023-10-21T12:28:27.436Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 HAECHAN – Fact Check(엔시티 일이칠 해찬 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방]]></title>
-        <id>https://tv.naver.com/v/41692161</id>
-        <link href="https://tv.naver.com/v/41692161"/>
-        <updated>2023-10-21T12:28:27.440Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 - Fact Check(엔시티 일이칠 – 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692160</id>
-        <link href="https://tv.naver.com/v/41692160"/>
-        <updated>2023-10-21T12:28:27.450Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
