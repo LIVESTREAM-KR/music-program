@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-10-23T04:20:04.525Z</updated>
+    <updated>2023-10-23T05:15:56.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 아기다리고기다리던🕺🎶 이번주 쇼챔 본방사수러들 모두 모여주세요]]></title>
+        <id>https://tv.naver.com/v/41745570</id>
+        <link href="https://tv.naver.com/v/41745570"/>
+        <updated>2023-10-23T05:15:41.066Z</updated>
+        <content type="html"><![CDATA[00:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign KAZUTA - SPICE (엔싸인 카즈타 - 스파이스) l Show Champion l EP.496 l 231018]]></title>
         <id>https://tv.naver.com/v/41635204</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/41549963</id>
         <link href="https://tv.naver.com/v/41549963"/>
         <updated>2023-10-18T13:21:14.139Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Xdinary Heroes Jun Han - Break the Brake | Show Champion | EP.496 | 231018]]></title>
-        <id>https://tv.naver.com/v/41549629</id>
-        <link href="https://tv.naver.com/v/41549629"/>
-        <updated>2023-10-18T13:21:14.141Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
