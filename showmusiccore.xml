@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-23T09:17:35.516Z</updated>
+    <updated>2023-10-23T10:18:41.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – New Tomorrow(판타지 보이즈 히카리 - 뉴 투모로우) FanCam |Show! MusicCore|MBC231021방]]></title>
+        <id>https://tv.naver.com/v/41761360</id>
+        <link href="https://tv.naver.com/v/41761360"/>
+        <updated>2023-10-23T10:17:56.059Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS Oh HyeonTae - New Tomorrow(판타지 보이즈 오현태-뉴 투모로우)Close-upCam|MusicCore|MBC231014방]]></title>
+        <id>https://tv.naver.com/v/41760868</id>
+        <link href="https://tv.naver.com/v/41760868"/>
+        <updated>2023-10-23T10:17:56.063Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – New Tomorrow(판타지 보이즈 김우석 - 뉴 투모로우) FanCam |MusicCore |MBC231021방]]></title>
+        <id>https://tv.naver.com/v/41760811</id>
+        <link href="https://tv.naver.com/v/41760811"/>
+        <updated>2023-10-23T10:17:56.064Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KAEDAN – New Tomorrow(판타지 보이즈 케이단 - 뉴 투모로우) FanCam |Show! MusicCore|MBC231021방]]></title>
         <id>https://tv.naver.com/v/41760264</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/41692758"/>
         <updated>2023-10-21T12:28:27.407Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY - Cheese(크래비티 – 치즈) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692640</id>
-        <link href="https://tv.naver.com/v/41692640"/>
-        <updated>2023-10-21T12:28:27.409Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONEUS - Baila Conmigo(원어스 – 바일라 꼰미고) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692637</id>
-        <link href="https://tv.naver.com/v/41692637"/>
-        <updated>2023-10-21T12:28:27.411Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SUNMI - STRANGER(선미 – 스트레인저) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692636</id>
-        <link href="https://tv.naver.com/v/41692636"/>
-        <updated>2023-10-21T12:28:27.413Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
