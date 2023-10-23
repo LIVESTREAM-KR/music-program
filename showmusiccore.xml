@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-23T06:22:39.265Z</updated>
+    <updated>2023-10-23T07:16:14.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE REI - Baddie(아이브 레이 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
+        <id>https://tv.naver.com/v/41753991</id>
+        <link href="https://tv.naver.com/v/41753991"/>
+        <updated>2023-10-23T07:15:28.899Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE LEESEO - Baddie(아이브 이서 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
+        <id>https://tv.naver.com/v/41753689</id>
+        <link href="https://tv.naver.com/v/41753689"/>
+        <updated>2023-10-23T07:15:28.903Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 규진 X 설윤 X 배이 , 10월 셋째 주 음악중심 MC 컷 모음!, MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/41751303</id>
+        <link href="https://tv.naver.com/v/41751303"/>
+        <updated>2023-10-23T07:15:28.905Z</updated>
+        <content type="html"><![CDATA[09:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] n.SSign – SPICE(엔싸인 - 스파이스) FanCam | Show! MusicCore | MBC231021방송]]></title>
         <id>https://tv.naver.com/v/41693053</id>
@@ -192,27 +213,6 @@
         <id>https://tv.naver.com/v/41692160</id>
         <link href="https://tv.naver.com/v/41692160"/>
         <updated>2023-10-21T12:28:27.450Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 JAEHYUN – Fact Check(엔시티 일이칠 재현 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방]]></title>
-        <id>https://tv.naver.com/v/41692020</id>
-        <link href="https://tv.naver.com/v/41692020"/>
-        <updated>2023-10-21T12:28:27.450Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 MARK – Fact Check(엔시티 일이칠 마크 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692018</id>
-        <link href="https://tv.naver.com/v/41692018"/>
-        <updated>2023-10-21T12:28:27.451Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT 127 JUNGWOO – Fact Check(엔시티 일이칠 정우 - 불가사의; 不可思議) FanCam | Show! MusicCore | MBC231021방]]></title>
-        <id>https://tv.naver.com/v/41691884</id>
-        <link href="https://tv.naver.com/v/41691884"/>
-        <updated>2023-10-21T12:28:27.452Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
