@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-10-26T11:14:27.190Z</updated>
+    <updated>2023-10-26T12:31:12.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Woo Woolf ~ 크게 소리쳐 'want chuu!'🤍]]></title>
+        <id>https://tv.naver.com/v/41927609</id>
+        <link href="https://tv.naver.com/v/41927609"/>
+        <updated>2023-10-26T12:30:58.944Z</updated>
+        <content type="html"><![CDATA[00:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Queenz Eye (퀸즈 아이) - THIS IS LOVE (퀸즈 아이 - 디스 이즈 러브) | Show Champion | EP.497 | 231025]]></title>
         <id>https://tv.naver.com/v/41908627</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/41855449</id>
         <link href="https://tv.naver.com/v/41855449"/>
         <updated>2023-10-25T13:19:50.071Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie SHEON - DANG! (hocus pocus) (빌리 션 - 댕! (호커스 포커스)) | Show Champion|EP.497|231025]]></title>
-        <id>https://tv.naver.com/v/41855448</id>
-        <link href="https://tv.naver.com/v/41855448"/>
-        <updated>2023-10-25T13:19:50.073Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
