@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-10-27T09:16:05.465Z</updated>
+    <updated>2023-10-27T10:17:57.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 메가 히트송🎤＜솜사탕＞, ＜베르사이유의 장미＞의 주인공, 네미시스 노승호의 무대!🎉, MBC 231022 방송]]></title>
+        <id>https://tv.naver.com/v/41981038</id>
+        <link href="https://tv.naver.com/v/41981038"/>
+        <updated>2023-10-27T10:17:56.635Z</updated>
+        <content type="html"><![CDATA[11:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜과연 복면가왕 최고의 배틀러는 누구?＞ 복면가왕 424회 예고, MBC 231029 방송]]></title>
         <id>https://tv.naver.com/v/41720049</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40608035"/>
         <updated>2023-09-22T10:18:07.395Z</updated>
         <content type="html"><![CDATA[10:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 초대박 메가 히트곡✨＜어떤가요＞의 주인공 이정봉의 감성 넘치는💦무대 모음집!, MBC 230917 방송 외]]></title>
-        <id>https://tv.naver.com/v/40608033</id>
-        <link href="https://tv.naver.com/v/40608033"/>
-        <updated>2023-09-22T10:18:07.396Z</updated>
-        <content type="html"><![CDATA[11:48]]></content>
     </entry>
 </feed>
