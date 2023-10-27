@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-10-27T01:08:00.885Z</updated>
+    <updated>2023-10-27T02:22:26.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 4주차 쇼챔피언 🍩MC 나나츠키금동현🌙 모음.zip (우아! 나나, 빌리 츠키, 이펙스 금동현) | Show Champion | EP.497 | 231025]]></title>
+        <id>https://tv.naver.com/v/41878347</id>
+        <link href="https://tv.naver.com/v/41878347"/>
+        <updated>2023-10-27T02:22:12.047Z</updated>
+        <content type="html"><![CDATA[05:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Woo Woolf ~ 크게 소리쳐 'want chuu!'🤍]]></title>
         <id>https://tv.naver.com/v/41927609</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/41855452</id>
         <link href="https://tv.naver.com/v/41855452"/>
         <updated>2023-10-25T13:19:50.069Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie SIYOON - DANG! (hocus pocus) (빌리 시윤 - 댕! (호커스 포커스)) | Show Champion|EP.497|231025]]></title>
-        <id>https://tv.naver.com/v/41855449</id>
-        <link href="https://tv.naver.com/v/41855449"/>
-        <updated>2023-10-25T13:19:50.071Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
