@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-27T06:21:51.873Z</updated>
+    <updated>2023-10-27T07:15:38.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NCT 127 – Fact Check(엔시티 일이칠 - 불가사의; 不可思議) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/41902908</id>
+        <link href="https://tv.naver.com/v/41902908"/>
+        <updated>2023-10-27T07:14:56.496Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – New Tomorrow(판타지 보이즈 히카리 - 뉴 투모로우) FanCam |Show! MusicCore|MBC231021방]]></title>
         <id>https://tv.naver.com/v/41761360</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41692759"/>
         <updated>2023-10-21T12:28:27.405Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO – Baddie(아이브 이서 - 배디) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692758</id>
-        <link href="https://tv.naver.com/v/41692758"/>
-        <updated>2023-10-21T12:28:27.407Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>

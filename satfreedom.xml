@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-10-27T06:21:51.888Z</updated>
+    <updated>2023-10-27T07:15:38.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] IVE- I AM 을 리베란테만의 아카펠라로 부르면? | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/41969661</id>
+        <link href="https://tv.naver.com/v/41969661"/>
+        <updated>2023-10-27T07:15:30.301Z</updated>
+        <content type="html"><![CDATA[01:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 불후에서만 볼 수 있는 스페셜 컬래버 무대 ✨️LIVE CONCERT in US✨️ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/41692195</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41652934"/>
         <updated>2023-10-21T12:29:04.242Z</updated>
         <content type="html"><![CDATA[04:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 627회 ＜아티스트 윤형주&김세환 편＞ 우승자 ⭐육중완밴드⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/41379719</id>
-        <link href="https://tv.naver.com/v/41379719"/>
-        <updated>2023-10-14T12:29:08.362Z</updated>
-        <content type="html"><![CDATA[00:57]]></content>
     </entry>
 </feed>
