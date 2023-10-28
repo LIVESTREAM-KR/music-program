@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-28T11:13:39.453Z</updated>
+    <updated>2023-10-28T12:28:26.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -139,18 +139,18 @@
         <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] POW DONGYEON - Dazzling(파우 동연 - 다즐링) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42014147</id>
-        <link href="https://tv.naver.com/v/42014147"/>
-        <updated>2023-10-28T11:12:54.210Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] RIIZE ANTON – Talk Saxy(라이즈 앤톤 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송]]></title>
         <id>https://tv.naver.com/v/42014145</id>
         <link href="https://tv.naver.com/v/42014145"/>
         <updated>2023-10-28T11:12:54.212Z</updated>
         <content type="html"><![CDATA[06:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] POW DONGYEON - Dazzling(파우 동연 - 다즐링) FanCam | Show! MusicCore | MBC231028방송]]></title>
+        <id>https://tv.naver.com/v/42014147</id>
+        <link href="https://tv.naver.com/v/42014147"/>
+        <updated>2023-10-28T11:12:54.210Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] POW HONG - Dazzling(파우 홍 - 다즐링) FanCam | Show! MusicCore | MBC231028방송]]></title>
