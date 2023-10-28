@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-28T06:20:07.795Z</updated>
+    <updated>2023-10-28T07:14:49.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티투메이저 - 퍼스트 클래스 (82MAJOR - FIRST CLASS), MBC 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42008950</id>
+        <link href="https://tv.naver.com/v/42008950"/>
+        <updated>2023-10-28T07:14:08.345Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파우 - 다즐링 (POW - Dazzling), MBC 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42008814</id>
+        <link href="https://tv.naver.com/v/42008814"/>
+        <updated>2023-10-28T07:14:08.347Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범진 - 인사 (BUMJIN - A Letter), MBC 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42008545</id>
+        <link href="https://tv.naver.com/v/42008545"/>
+        <updated>2023-10-28T07:14:08.347Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밴드유니 - 파란밤 (Banduni - Blue Night), MBC 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42008392</id>
+        <link href="https://tv.naver.com/v/42008392"/>
+        <updated>2023-10-28T07:14:08.347Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NCT 127 – Fact Check(엔시티 일이칠 - 불가사의; 不可思議) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/41902908</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/41692894"/>
         <updated>2023-10-21T12:28:27.400Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE REI – Baddie(아이브 레이 - 배디) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692893</id>
-        <link href="https://tv.naver.com/v/41692893"/>
-        <updated>2023-10-21T12:28:27.401Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes – Break the Brake(엑스디너리 히어로즈 - 브레이크 더 브레이크) FanCam|Show!MusicCore|MBC231021방]]></title>
-        <id>https://tv.naver.com/v/41692762</id>
-        <link href="https://tv.naver.com/v/41692762"/>
-        <updated>2023-10-21T12:28:27.403Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SUNMI – STRANGER(선미 - 스트레인저) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692761</id>
-        <link href="https://tv.naver.com/v/41692761"/>
-        <updated>2023-10-21T12:28:27.405Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONF E-TION – Love Effect(온앤오프 이션 - 바람이 분다) FanCam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41692759</id>
-        <link href="https://tv.naver.com/v/41692759"/>
-        <updated>2023-10-21T12:28:27.405Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
