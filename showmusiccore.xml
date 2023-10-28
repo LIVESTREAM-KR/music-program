@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-28T08:18:47.779Z</updated>
+    <updated>2023-10-28T09:15:27.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 엔시티 127 - 불가사의; 不可思議 (NCT 127 - Fact Check ), MBC 231021 방송]]></title>
+        <id>https://tv.naver.com/v/42011762</id>
+        <link href="https://tv.naver.com/v/42011762"/>
+        <updated>2023-10-28T09:14:43.024Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선미 - 스트레인저 (SUNMI - STRANGER), MBC 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42011605</id>
+        <link href="https://tv.naver.com/v/42011605"/>
+        <updated>2023-10-28T09:14:43.030Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브 - 배디 (IVE - Baddie), MBC 231028 방송]]></title>
         <id>https://tv.naver.com/v/42010309</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/41756660"/>
         <updated>2023-10-23T08:21:38.647Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN - Baddie(아이브 안유진 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41754554</id>
-        <link href="https://tv.naver.com/v/41754554"/>
-        <updated>2023-10-23T08:21:38.647Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - Baddie(아이브 장원영 - 배디) Close-up Cam | Show! MusicCore | MBC231021방송]]></title>
-        <id>https://tv.naver.com/v/41754550</id>
-        <link href="https://tv.naver.com/v/41754550"/>
-        <updated>2023-10-23T08:21:38.654Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
