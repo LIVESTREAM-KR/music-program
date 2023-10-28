@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-28T09:15:27.793Z</updated>
+    <updated>2023-10-28T10:16:26.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chasing That Feeling - 투모로우바이투게더 | KBS 231027 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,90 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] POW HONG - Dazzling(파우 홍 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013927</id>
+        <link href="https://tv.naver.com/v/42013927"/>
+        <updated>2023-10-28T10:15:33.848Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] POW JUNGBIN - Dazzling(파우 정빈 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013926</id>
+        <link href="https://tv.naver.com/v/42013926"/>
+        <updated>2023-10-28T10:15:33.854Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] POW HYUNBIN - Dazzling(파우 현빈 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013925</id>
+        <link href="https://tv.naver.com/v/42013925"/>
+        <updated>2023-10-28T10:15:33.854Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] POW YORCH - Dazzling(파우 요치 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013923</id>
+        <link href="https://tv.naver.com/v/42013923"/>
+        <updated>2023-10-28T10:15:33.855Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] POW – Dazzling(파우 - 다즐링) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013919</id>
+        <link href="https://tv.naver.com/v/42013919"/>
+        <updated>2023-10-28T10:15:33.855Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] RIIZE WONBIN – Talk Saxy(라이즈 원빈 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013823</id>
+        <link href="https://tv.naver.com/v/42013823"/>
+        <updated>2023-10-28T10:15:33.856Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] RIIZE SOHEE – Talk Saxy(라이즈 소희 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013800</id>
+        <link href="https://tv.naver.com/v/42013800"/>
+        <updated>2023-10-28T10:15:33.858Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] RIIZE SEUNGHAN – Talk Saxy(라이즈 승한 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013799</id>
+        <link href="https://tv.naver.com/v/42013799"/>
+        <updated>2023-10-28T10:15:33.862Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] RIIZE SUNGCHAN – Talk Saxy(라이즈 성찬 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013688</id>
+        <link href="https://tv.naver.com/v/42013688"/>
+        <updated>2023-10-28T10:15:33.865Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] RIIZE SHOTARO – Talk Saxy(라이즈 쇼타로 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013687</id>
+        <link href="https://tv.naver.com/v/42013687"/>
+        <updated>2023-10-28T10:15:33.867Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] RIIZE EUNSEOK – Talk Saxy(라이즈 은석 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013577</id>
+        <link href="https://tv.naver.com/v/42013577"/>
+        <updated>2023-10-28T10:15:33.870Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] RIIZE - Talk Saxy(라이즈 – 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42013496</id>
+        <link href="https://tv.naver.com/v/42013496"/>
+        <updated>2023-10-28T10:15:33.874Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜X교차》 엔시티 127 - 불가사의; 不可思議 (NCT 127 - Fact Check ), MBC 231021 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42011762</id>
         <link href="https://tv.naver.com/v/42011762"/>
@@ -339,90 +423,6 @@
         <link href="https://tv.naver.com/v/42008392"/>
         <updated>2023-10-28T07:14:08.347Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] NCT 127 – Fact Check(엔시티 일이칠 - 불가사의; 不可思議) | Show! Music Core (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41902908</id>
-        <link href="https://tv.naver.com/v/41902908"/>
-        <updated>2023-10-27T07:14:56.496Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – New Tomorrow(판타지 보이즈 히카리 - 뉴 투모로우) FanCam |Show! MusicCore|MBC231021방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41761360</id>
-        <link href="https://tv.naver.com/v/41761360"/>
-        <updated>2023-10-23T10:17:56.059Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS Oh HyeonTae - New Tomorrow(판타지 보이즈 오현태-뉴 투모로우)Close-upCam|MusicCore|MBC231014방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41760868</id>
-        <link href="https://tv.naver.com/v/41760868"/>
-        <updated>2023-10-23T10:17:56.063Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – New Tomorrow(판타지 보이즈 김우석 - 뉴 투모로우) FanCam |MusicCore |MBC231021방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41760811</id>
-        <link href="https://tv.naver.com/v/41760811"/>
-        <updated>2023-10-23T10:17:56.064Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KAEDAN – New Tomorrow(판타지 보이즈 케이단 - 뉴 투모로우) FanCam |Show! MusicCore|MBC231021방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41760264</id>
-        <link href="https://tv.naver.com/v/41760264"/>
-        <updated>2023-10-23T09:16:57.195Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN – New Tomorrow(판타지 보이즈 이한빈 - 뉴 투모로우) FanCam |MusicCore | MBC231021방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41760035</id>
-        <link href="https://tv.naver.com/v/41760035"/>
-        <updated>2023-10-23T09:16:57.195Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN – New Tomorrow(판타지 보이즈 홍성민 - 뉴 투모로우) FanCam|MusicCore |MBC231021방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41759680</id>
-        <link href="https://tv.naver.com/v/41759680"/>
-        <updated>2023-10-23T09:16:57.198Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM GYURAE – New Tomorrow(판타지 보이즈 김규래-뉴 투모로우)FanCam|Show!MusicCore|MBC231021방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41759414</id>
-        <link href="https://tv.naver.com/v/41759414"/>
-        <updated>2023-10-23T09:16:57.199Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARU – New Tomorrow(판타지 보이즈 히카루 - 뉴 투모로우) FanCam |Show! MusicCore|MBC231021방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41759226</id>
-        <link href="https://tv.naver.com/v/41759226"/>
-        <updated>2023-10-23T09:16:57.200Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LINGQI – New Tomorrow(판타지 보이즈 링치 - 뉴 투모로우) FanCam | Show! MusicCore | MBC23102 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41759225</id>
-        <link href="https://tv.naver.com/v/41759225"/>
-        <updated>2023-10-23T09:16:57.201Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – New Tomorrow(판타지 보이즈 강민서 - 뉴 투모로우) FanCam |MusicCore |MBC231021방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41758922</id>
-        <link href="https://tv.naver.com/v/41758922"/>
-        <updated>2023-10-23T09:16:57.202Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] POW YORCH - Dazzling(파우 요치 - 다즐링) Close-up Cam | Show! MusicCore | MBC231014방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/41756660</id>
-        <link href="https://tv.naver.com/v/41756660"/>
-        <updated>2023-10-23T08:21:38.647Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes - Break the Brake | SBS 231022 방송 (인기가요)]]></title>
@@ -1265,6 +1265,41 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[첫 포문을 열어줄 크로스오버계의 아이돌⭐️ 리베란테! 눈웃음 뒤에 감춰진 패기? | KBS 231028 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/42014050</id>
+        <link href="https://tv.naver.com/v/42014050"/>
+        <updated>2023-10-28T10:16:16.741Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환상의 짝꿍 팝핀현준x박애리💕 세계 최초 꽃신 문워크? 동서양 대통합! | KBS 231028 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/42014048</id>
+        <link href="https://tv.naver.com/v/42014048"/>
+        <updated>2023-10-28T10:16:16.744Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수찬의 Feel 묘사(?) 개인기! 완벽한 정밀 분석🔍️ | KBS 231028 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/42013801</id>
+        <link href="https://tv.naver.com/v/42013801"/>
+        <updated>2023-10-28T10:16:16.746Z</updated>
+        <content type="html"><![CDATA[01:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대체불가 파워풀 로커 전홍일🤘 오늘만큼은 숨기지 않는 우승 욕심?🔥 | KBS 231028 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/42013689</id>
+        <link href="https://tv.naver.com/v/42013689"/>
+        <updated>2023-10-28T10:16:16.752Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조항조 - My way | KBS 231028 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/42013578</id>
+        <link href="https://tv.naver.com/v/42013578"/>
+        <updated>2023-10-28T10:16:16.754Z</updated>
+        <content type="html"><![CDATA[04:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] IVE- I AM 을 리베란테만의 아카펠라로 부르면? | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/41969661</id>
         <link href="https://tv.naver.com/v/41969661"/>
@@ -1438,41 +1473,6 @@
         <link href="https://tv.naver.com/v/41654595"/>
         <updated>2023-10-21T12:29:04.230Z</updated>
         <content type="html"><![CDATA[05:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠]윤형주 & 김세환 - Save the Last Dance for Me | KBS 231021 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/41654327</id>
-        <link href="https://tv.naver.com/v/41654327"/>
-        <updated>2023-10-21T12:29:04.233Z</updated>
-        <content type="html"><![CDATA[04:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 포르테나 – 웨딩 케익 | KBS 231021 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/41653736</id>
-        <link href="https://tv.naver.com/v/41653736"/>
-        <updated>2023-10-21T12:29:04.235Z</updated>
-        <content type="html"><![CDATA[06:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 유리상자 – 길가에 앉아서 | KBS 231021 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/41653418</id>
-        <link href="https://tv.naver.com/v/41653418"/>
-        <updated>2023-10-21T12:29:04.238Z</updated>
-        <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 에일리 – 하얀 손수건 | KBS 231021 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/41653158</id>
-        <link href="https://tv.naver.com/v/41653158"/>
-        <updated>2023-10-21T12:29:04.240Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 마독스 – 어제 내린 비 | KBS 231021 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/41652934</id>
-        <link href="https://tv.naver.com/v/41652934"/>
-        <updated>2023-10-21T12:29:04.242Z</updated>
-        <content type="html"><![CDATA[04:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 반전 고음 보컬 폭발!🔥과즙미 뿜뿜 걸 그룹 체리블렛의 메인 보컬 보라✨하이라이트!, MBC 231022 방송 (복면가왕)]]></title>

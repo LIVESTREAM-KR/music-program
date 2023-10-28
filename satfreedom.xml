@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-10-28T09:15:27.776Z</updated>
+    <updated>2023-10-28T10:16:26.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[첫 포문을 열어줄 크로스오버계의 아이돌⭐️ 리베란테! 눈웃음 뒤에 감춰진 패기? | KBS 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42014050</id>
+        <link href="https://tv.naver.com/v/42014050"/>
+        <updated>2023-10-28T10:16:16.741Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환상의 짝꿍 팝핀현준x박애리💕 세계 최초 꽃신 문워크? 동서양 대통합! | KBS 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42014048</id>
+        <link href="https://tv.naver.com/v/42014048"/>
+        <updated>2023-10-28T10:16:16.744Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수찬의 Feel 묘사(?) 개인기! 완벽한 정밀 분석🔍️ | KBS 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42013801</id>
+        <link href="https://tv.naver.com/v/42013801"/>
+        <updated>2023-10-28T10:16:16.746Z</updated>
+        <content type="html"><![CDATA[01:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대체불가 파워풀 로커 전홍일🤘 오늘만큼은 숨기지 않는 우승 욕심?🔥 | KBS 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42013689</id>
+        <link href="https://tv.naver.com/v/42013689"/>
+        <updated>2023-10-28T10:16:16.752Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조항조 - My way | KBS 231028 방송]]></title>
+        <id>https://tv.naver.com/v/42013578</id>
+        <link href="https://tv.naver.com/v/42013578"/>
+        <updated>2023-10-28T10:16:16.754Z</updated>
+        <content type="html"><![CDATA[04:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] IVE- I AM 을 리베란테만의 아카펠라로 부르면? | KBS 방송]]></title>
         <id>https://tv.naver.com/v/41969661</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/41654595"/>
         <updated>2023-10-21T12:29:04.230Z</updated>
         <content type="html"><![CDATA[05:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠]윤형주 & 김세환 - Save the Last Dance for Me | KBS 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41654327</id>
-        <link href="https://tv.naver.com/v/41654327"/>
-        <updated>2023-10-21T12:29:04.233Z</updated>
-        <content type="html"><![CDATA[04:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 포르테나 – 웨딩 케익 | KBS 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41653736</id>
-        <link href="https://tv.naver.com/v/41653736"/>
-        <updated>2023-10-21T12:29:04.235Z</updated>
-        <content type="html"><![CDATA[06:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 유리상자 – 길가에 앉아서 | KBS 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41653418</id>
-        <link href="https://tv.naver.com/v/41653418"/>
-        <updated>2023-10-21T12:29:04.238Z</updated>
-        <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 에일리 – 하얀 손수건 | KBS 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41653158</id>
-        <link href="https://tv.naver.com/v/41653158"/>
-        <updated>2023-10-21T12:29:04.240Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 마독스 – 어제 내린 비 | KBS 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41652934</id>
-        <link href="https://tv.naver.com/v/41652934"/>
-        <updated>2023-10-21T12:29:04.242Z</updated>
-        <content type="html"><![CDATA[04:57]]></content>
     </entry>
 </feed>
