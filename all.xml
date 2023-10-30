@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-30T08:21:17.827Z</updated>
+    <updated>2023-10-30T09:17:34.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chasing That Feeling - 투모로우바이투게더 | KBS 231027 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE LIZ - Baddie(아이브 리즈 - 배디) Close-up Cam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42081000</id>
+        <link href="https://tv.naver.com/v/42081000"/>
+        <updated>2023-10-30T09:16:49.837Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - Baddie(아이브 장원영 - 배디) Close-up Cam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42080996</id>
+        <link href="https://tv.naver.com/v/42080996"/>
+        <updated>2023-10-30T09:16:49.837Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 은석 X 설윤 X 승한 , 10월 넷째 주 음악중심 MC 컷 모음!, MBC 231028 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42072447</id>
         <link href="https://tv.naver.com/v/42072447"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/42013919"/>
         <updated>2023-10-28T10:15:33.855Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE WONBIN – Talk Saxy(라이즈 원빈 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42013823</id>
-        <link href="https://tv.naver.com/v/42013823"/>
-        <updated>2023-10-28T10:15:33.856Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE SOHEE – Talk Saxy(라이즈 소희 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42013800</id>
-        <link href="https://tv.naver.com/v/42013800"/>
-        <updated>2023-10-28T10:15:33.858Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송 (인기가요)]]></title>

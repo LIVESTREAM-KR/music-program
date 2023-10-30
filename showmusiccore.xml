@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-10-30T08:21:17.804Z</updated>
+    <updated>2023-10-30T09:17:34.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE LIZ - Baddie(아이브 리즈 - 배디) Close-up Cam | Show! MusicCore | MBC231028방송]]></title>
+        <id>https://tv.naver.com/v/42081000</id>
+        <link href="https://tv.naver.com/v/42081000"/>
+        <updated>2023-10-30T09:16:49.837Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - Baddie(아이브 장원영 - 배디) Close-up Cam | Show! MusicCore | MBC231028방송]]></title>
+        <id>https://tv.naver.com/v/42080996</id>
+        <link href="https://tv.naver.com/v/42080996"/>
+        <updated>2023-10-30T09:16:49.837Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 은석 X 설윤 X 승한 , 10월 넷째 주 음악중심 MC 컷 모음!, MBC 231028 방송]]></title>
         <id>https://tv.naver.com/v/42072447</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/42013919"/>
         <updated>2023-10-28T10:15:33.855Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE WONBIN – Talk Saxy(라이즈 원빈 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42013823</id>
-        <link href="https://tv.naver.com/v/42013823"/>
-        <updated>2023-10-28T10:15:33.856Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE SOHEE – Talk Saxy(라이즈 소희 - 토크 색시) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42013800</id>
-        <link href="https://tv.naver.com/v/42013800"/>
-        <updated>2023-10-28T10:15:33.858Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
     </entry>
 </feed>
