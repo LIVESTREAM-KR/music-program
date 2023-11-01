@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-01T06:22:43.777Z</updated>
+    <updated>2023-11-01T07:16:23.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ONEUS – Baila Conmigo(원어스 - 바일라 꼰미고) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/42130507</id>
+        <link href="https://tv.naver.com/v/42130507"/>
+        <updated>2023-11-01T07:15:39.767Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] October TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/42116368</id>
+        <link href="https://tv.naver.com/v/42116368"/>
+        <updated>2023-11-01T07:15:39.770Z</updated>
+        <content type="html"><![CDATA[30:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS KANG MINSEO-New Tomorrow(판타지 보이즈 강민서-뉴 투모로우)Close-up Cam|MusicCore|MBC231028방송]]></title>
         <id>https://tv.naver.com/v/42110779</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/42014671"/>
         <updated>2023-10-28T11:12:54.192Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Billlie TSUKI – DANG!(hocus pocus)(빌리 츠키 - 댕! (호커스 포커스)) FanCam | Show!MusicCore|MBC231028방]]></title>
-        <id>https://tv.naver.com/v/42014670</id>
-        <link href="https://tv.naver.com/v/42014670"/>
-        <updated>2023-10-28T11:12:54.195Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Billlie HARUNA – DANG!(hocus pocus)(빌리 하루나 - 댕! (호커스 포커스))FanCam|Show!MusicCore |MBC231028방]]></title>
-        <id>https://tv.naver.com/v/42014563</id>
-        <link href="https://tv.naver.com/v/42014563"/>
-        <updated>2023-10-28T11:12:54.197Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
