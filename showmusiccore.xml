@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-03T06:21:02.261Z</updated>
+    <updated>2023-11-03T07:15:37.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] FANTASY BOYS – New Tomorrow(판타지 보이즈 - 뉴 투모로우) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/42187798</id>
+        <link href="https://tv.naver.com/v/42187798"/>
+        <updated>2023-11-03T07:14:54.745Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ONEUS – Baila Conmigo(원어스 - 바일라 꼰미고) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/42130507</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42014673"/>
         <updated>2023-10-28T11:12:54.190Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SUNMI - STRANGER(선미 – 스트레인저) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42014671</id>
-        <link href="https://tv.naver.com/v/42014671"/>
-        <updated>2023-10-28T11:12:54.192Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
