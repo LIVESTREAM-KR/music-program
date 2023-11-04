@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-04T09:15:14.112Z</updated>
+    <updated>2023-11-04T10:16:55.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서정적 하모니 정훈희&라포엠💕 불후에서 다시 들어보는 명곡 ＜안개＞♬ | KBS 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42337082</id>
+        <link href="https://tv.naver.com/v/42337082"/>
+        <updated>2023-11-04T10:16:47.298Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구창모&안신애 천재들의 만남! 안신애의 한 소절에 어깨 힘 빡 들어간 구창모🤣 | KBS 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42337080</id>
+        <link href="https://tv.naver.com/v/42337080"/>
+        <updated>2023-11-04T10:16:47.300Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오 마이 스타 특집⭐️ 그 어느 때보다 긴장되는 최강 라인업🔥 | KBS 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42337048</id>
+        <link href="https://tv.naver.com/v/42337048"/>
+        <updated>2023-11-04T10:16:47.303Z</updated>
+        <content type="html"><![CDATA[02:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 스타와 함께 하는 특별한 무대! 어디서도 볼 수 없는 라인업 ⭐️오 마이스타 특집4⭐️ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/42016283</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/41972302"/>
         <updated>2023-10-28T12:28:18.836Z</updated>
         <content type="html"><![CDATA[05:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 조항조 – My Way | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/41972014</id>
-        <link href="https://tv.naver.com/v/41972014"/>
-        <updated>2023-10-28T12:28:18.836Z</updated>
-        <content type="html"><![CDATA[05:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 양지은 – 남자라는 이유로 | KBS 231028 방송]]></title>
-        <id>https://tv.naver.com/v/41971746</id>
-        <link href="https://tv.naver.com/v/41971746"/>
-        <updated>2023-10-28T12:28:18.837Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] IVE- I AM 을 리베란테만의 아카펠라로 부르면? | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/41969661</id>
-        <link href="https://tv.naver.com/v/41969661"/>
-        <updated>2023-10-27T07:15:30.301Z</updated>
-        <content type="html"><![CDATA[01:11]]></content>
     </entry>
 </feed>

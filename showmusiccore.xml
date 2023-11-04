@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-04T09:15:14.094Z</updated>
+    <updated>2023-11-04T10:16:55.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] WayV HENDERY – On My Youth(웨이션브이 헨드리 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42337370</id>
+        <link href="https://tv.naver.com/v/42337370"/>
+        <updated>2023-11-04T10:16:10.490Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] WayV XIAOJUN – On My Youth(웨이션브이 샤오쥔 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42337369</id>
+        <link href="https://tv.naver.com/v/42337369"/>
+        <updated>2023-11-04T10:16:10.491Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] WayV YANGYANG – On My Youth(웨이션브이 양양 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42337202</id>
+        <link href="https://tv.naver.com/v/42337202"/>
+        <updated>2023-11-04T10:16:10.492Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] WayV WINWIN – On My Youth(웨이션브이 윈윈 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42337201</id>
+        <link href="https://tv.naver.com/v/42337201"/>
+        <updated>2023-11-04T10:16:10.502Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] WayV KUN – On My Youth(웨이션브이 쿤 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42336916</id>
+        <link href="https://tv.naver.com/v/42336916"/>
+        <updated>2023-11-04T10:16:10.507Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] WayV - On My Youth(웨이션브이 – 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42336915</id>
+        <link href="https://tv.naver.com/v/42336915"/>
+        <updated>2023-11-04T10:16:10.508Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] WayV TEN – On My Youth(웨이션브이 텐 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42336766</id>
+        <link href="https://tv.naver.com/v/42336766"/>
+        <updated>2023-11-04T10:16:10.510Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 아이브 - 배디 (IVE - Baddie), MBC 231028방송]]></title>
         <id>https://tv.naver.com/v/42333836</id>
@@ -165,54 +214,5 @@
         <link href="https://tv.naver.com/v/42110778"/>
         <updated>2023-10-31T02:23:27.978Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARU – New Tomorrow(판타지 보이즈 히카루 - 뉴 투모로우) FanCam | Show!MusicCore|MBC231028방]]></title>
-        <id>https://tv.naver.com/v/42110381</id>
-        <link href="https://tv.naver.com/v/42110381"/>
-        <updated>2023-10-31T02:23:27.978Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – New Tomorrow(판타지 보이즈 히카리 - 뉴 투모로우) FanCam | Show! MusicCore | MBC2310]]></title>
-        <id>https://tv.naver.com/v/42110378</id>
-        <link href="https://tv.naver.com/v/42110378"/>
-        <updated>2023-10-31T02:23:27.978Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN – New Tomorrow(판타지 보이즈 이한빈-뉴 투모로우)FanCam|Show!MusicCore |MBC231028방]]></title>
-        <id>https://tv.naver.com/v/42110377</id>
-        <link href="https://tv.naver.com/v/42110377"/>
-        <updated>2023-10-31T02:23:27.978Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN –New Tomorrow(판타지 보이즈 홍성민-뉴 투모로우)FanCam|Show!MusicCore|MBC231028방]]></title>
-        <id>https://tv.naver.com/v/42110193</id>
-        <link href="https://tv.naver.com/v/42110193"/>
-        <updated>2023-10-31T02:23:27.978Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE WONBIN - Talk Saxy(라이즈 원빈 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42085654</id>
-        <link href="https://tv.naver.com/v/42085654"/>
-        <updated>2023-10-30T10:17:58.246Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE SHOTARO - Talk Saxy(라이즈 쇼타로 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42085092</id>
-        <link href="https://tv.naver.com/v/42085092"/>
-        <updated>2023-10-30T10:17:58.247Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE ANTON - Talk Saxy(라이즈 앤톤 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42085090</id>
-        <link href="https://tv.naver.com/v/42085090"/>
-        <updated>2023-10-30T10:17:58.248Z</updated>
-        <content type="html"><![CDATA[04:31]]></content>
     </entry>
 </feed>
