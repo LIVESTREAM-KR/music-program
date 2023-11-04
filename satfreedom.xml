@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-04T15:15:10.420Z</updated>
+    <updated>2023-11-04T16:19:45.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 630회 ＜오 마이 스타 특집 4 편＞ 우승자 ⭐구창모X안신애⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/42347092</id>
+        <link href="https://tv.naver.com/v/42347092"/>
+        <updated>2023-11-04T16:19:38.037Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] ⭐️오 마이 스타 특집4 2부⭐️ 놀라운 반전의 무대들✨️ 본방사수💟 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/42340688</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42016022"/>
         <updated>2023-10-28T12:28:18.788Z</updated>
         <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팝핀현준&박애리 - 고맙소 | KBS 231028 방송]]></title>
-        <id>https://tv.naver.com/v/42015986</id>
-        <link href="https://tv.naver.com/v/42015986"/>
-        <updated>2023-10-28T12:28:18.789Z</updated>
-        <content type="html"><![CDATA[06:18]]></content>
     </entry>
 </feed>
