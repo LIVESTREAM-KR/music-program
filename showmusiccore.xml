@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-04T10:16:55.538Z</updated>
+    <updated>2023-11-04T11:12:53.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU RIMA – HEARTRIS(니쥬 리마 - 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42338565</id>
+        <link href="https://tv.naver.com/v/42338565"/>
+        <updated>2023-11-04T11:12:16.715Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU MIIHI – HEARTRIS(니쥬 미이히 - 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42338564</id>
+        <link href="https://tv.naver.com/v/42338564"/>
+        <updated>2023-11-04T11:12:16.715Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU NINA – HEARTRIS(니쥬 니나 - 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42338444</id>
+        <link href="https://tv.naver.com/v/42338444"/>
+        <updated>2023-11-04T11:12:16.718Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU AYAKA – HEARTRIS(니쥬 아야카 - 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42338285</id>
+        <link href="https://tv.naver.com/v/42338285"/>
+        <updated>2023-11-04T11:12:16.718Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU MAYUKA – HEARTRIS(니쥬 마유카 - 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42338173</id>
+        <link href="https://tv.naver.com/v/42338173"/>
+        <updated>2023-11-04T11:12:16.718Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU RIKU – HEARTRIS(니쥬 리쿠 - 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42338171</id>
+        <link href="https://tv.naver.com/v/42338171"/>
+        <updated>2023-11-04T11:12:16.718Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU RIO – HEARTRIS(니쥬 리오 - 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42338169</id>
+        <link href="https://tv.naver.com/v/42338169"/>
+        <updated>2023-11-04T11:12:16.720Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU MAKO – HEARTRIS(니쥬 마코 - 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42338049</id>
+        <link href="https://tv.naver.com/v/42338049"/>
+        <updated>2023-11-04T11:12:16.720Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU MAYA – HEARTRIS(니쥬 마야 - 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42337891</id>
+        <link href="https://tv.naver.com/v/42337891"/>
+        <updated>2023-11-04T11:12:16.721Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NiziU - HEARTRIS(니쥬 – 하트리스) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42337888</id>
+        <link href="https://tv.naver.com/v/42337888"/>
+        <updated>2023-11-04T11:12:16.723Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] WayV HENDERY – On My Youth(웨이션브이 헨드리 - 온 마이 유스) FanCam | Show! MusicCore | MBC231104방송]]></title>
         <id>https://tv.naver.com/v/42337370</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/42331643"/>
         <updated>2023-11-04T07:14:47.601Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라잇썸 - 허니 오어 스파이스 (LIGHTSUM - Honey or Spice), MBC 231104 방송]]></title>
-        <id>https://tv.naver.com/v/42331487</id>
-        <link href="https://tv.naver.com/v/42331487"/>
-        <updated>2023-11-04T07:14:47.602Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[니쥬 - 하트리스 (NiziU - HEARTRIS), MBC 231104 방송]]></title>
-        <id>https://tv.naver.com/v/42331326</id>
-        <link href="https://tv.naver.com/v/42331326"/>
-        <updated>2023-11-04T07:14:47.602Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나이트 - 정했어 (YOUNITE - Love it), MBC 231104 방송]]></title>
-        <id>https://tv.naver.com/v/42331025</id>
-        <link href="https://tv.naver.com/v/42331025"/>
-        <updated>2023-11-04T07:14:47.602Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐치더영 - 유스 (Catch The Young - YOUTH!!!), MBC 231104 방송]]></title>
-        <id>https://tv.naver.com/v/42330847</id>
-        <link href="https://tv.naver.com/v/42330847"/>
-        <updated>2023-11-04T07:14:47.612Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE.zip 📂 Get A Guitar부터 Talk Saxy까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/42086977</id>
-        <link href="https://tv.naver.com/v/42086977"/>
-        <updated>2023-11-03T08:20:35.731Z</updated>
-        <content type="html"><![CDATA[10:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] FANTASY BOYS – New Tomorrow(판타지 보이즈 - 뉴 투모로우) | Show! Music Core]]></title>
-        <id>https://tv.naver.com/v/42187798</id>
-        <link href="https://tv.naver.com/v/42187798"/>
-        <updated>2023-11-03T07:14:54.745Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] ONEUS – Baila Conmigo(원어스 - 바일라 꼰미고) | Show! Music Core]]></title>
-        <id>https://tv.naver.com/v/42130507</id>
-        <link href="https://tv.naver.com/v/42130507"/>
-        <updated>2023-11-01T07:15:39.767Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] October TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
-        <id>https://tv.naver.com/v/42116368</id>
-        <link href="https://tv.naver.com/v/42116368"/>
-        <updated>2023-11-01T07:15:39.770Z</updated>
-        <content type="html"><![CDATA[30:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS KANG MINSEO-New Tomorrow(판타지 보이즈 강민서-뉴 투모로우)Close-up Cam|MusicCore|MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42110779</id>
-        <link href="https://tv.naver.com/v/42110779"/>
-        <updated>2023-10-31T02:23:27.975Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - New Tomorrow(판타지 보이즈 – 뉴 투모로우) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42110778</id>
-        <link href="https://tv.naver.com/v/42110778"/>
-        <updated>2023-10-31T02:23:27.978Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>
