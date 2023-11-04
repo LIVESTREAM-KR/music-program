@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-04T06:20:59.182Z</updated>
+    <updated>2023-11-04T07:15:35.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[음악의 신 - SEVENTEEN | KBS 231103 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,55 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[장민호- 그때 우린 젊었다 (JANG MIN HO - We Were Young), MBC 231104 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42331648</id>
+        <link href="https://tv.naver.com/v/42331648"/>
+        <updated>2023-11-04T07:14:47.601Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위클리 - 브룸 브룸 (Weeekly - VROOM VROOM), MBC 231104 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42331646</id>
+        <link href="https://tv.naver.com/v/42331646"/>
+        <updated>2023-11-04T07:14:47.601Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리 - 댕! (호커스 포커스) (Billlie - DANG!(hocus pocus)), MBC 231104 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42331643</id>
+        <link href="https://tv.naver.com/v/42331643"/>
+        <updated>2023-11-04T07:14:47.601Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라잇썸 - 허니 오어 스파이스 (LIGHTSUM - Honey or Spice), MBC 231104 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42331487</id>
+        <link href="https://tv.naver.com/v/42331487"/>
+        <updated>2023-11-04T07:14:47.602Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니쥬 - 하트리스 (NiziU - HEARTRIS), MBC 231104 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42331326</id>
+        <link href="https://tv.naver.com/v/42331326"/>
+        <updated>2023-11-04T07:14:47.602Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나이트 - 정했어 (YOUNITE - Love it), MBC 231104 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42331025</id>
+        <link href="https://tv.naver.com/v/42331025"/>
+        <updated>2023-11-04T07:14:47.602Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐치더영 - 유스 (Catch The Young - YOUTH!!!), MBC 231104 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42330847</id>
+        <link href="https://tv.naver.com/v/42330847"/>
+        <updated>2023-11-04T07:14:47.612Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] RIIZE.zip 📂 Get A Guitar부터 Talk Saxy까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42086977</id>
         <link href="https://tv.naver.com/v/42086977"/>
@@ -373,55 +422,6 @@
         <id>https://tv.naver.com/v/42015056</id>
         <link href="https://tv.naver.com/v/42015056"/>
         <updated>2023-10-28T11:12:54.150Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] tripleS EVOLution - Invincible(트리플에스 에볼루션 – 인빈시블) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42014922</id>
-        <link href="https://tv.naver.com/v/42014922"/>
-        <updated>2023-10-28T11:12:54.156Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONF - Love Effect(온앤오프 – 바람이 분다) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42014831</id>
-        <link href="https://tv.naver.com/v/42014831"/>
-        <updated>2023-10-28T11:12:54.156Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LIZ – Baddie(아이브 리즈 - 배디) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42014829</id>
-        <link href="https://tv.naver.com/v/42014829"/>
-        <updated>2023-10-28T11:12:54.167Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE JANG WONYOUNG – Baddie(아이브 장원영 - 배디) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42014828</id>
-        <link href="https://tv.naver.com/v/42014828"/>
-        <updated>2023-10-28T11:12:54.169Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE GAEUL – Baddie(아이브 가을 - 배디) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42014825</id>
-        <link href="https://tv.naver.com/v/42014825"/>
-        <updated>2023-10-28T11:12:54.172Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Billlie SIYOON – DANG!(hocus pocus)(빌리 시윤 - 댕! (호커스 포커스)) FanCam |Show!MusicCore|MBC231028방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42014802</id>
-        <link href="https://tv.naver.com/v/42014802"/>
-        <updated>2023-10-28T11:12:54.185Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE - Baddie(아이브 – 배디) FanCam | Show! MusicCore | MBC231028방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42014678</id>
-        <link href="https://tv.naver.com/v/42014678"/>
-        <updated>2023-10-28T11:12:54.187Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
