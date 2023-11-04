@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-04T07:15:35.684Z</updated>
+    <updated>2023-11-04T08:18:51.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 아이브 - 배디 (IVE - Baddie), MBC 231028방송]]></title>
+        <id>https://tv.naver.com/v/42333836</id>
+        <link href="https://tv.naver.com/v/42333836"/>
+        <updated>2023-11-04T08:18:13.855Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태민 - 길티 (TAEMIN - Guilty), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42333438</id>
+        <link href="https://tv.naver.com/v/42333438"/>
+        <updated>2023-11-04T08:18:13.855Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태민 - 더 리즈니스 (TAEMIN - The Rizzness), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42333272</id>
+        <link href="https://tv.naver.com/v/42333272"/>
+        <updated>2023-11-04T08:18:13.855Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비지 - 매니악 (VIVIZ - MANIAC), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42333072</id>
+        <link href="https://tv.naver.com/v/42333072"/>
+        <updated>2023-11-04T08:18:13.855Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웨이션브이 - 온 마이 유스 (English Ver.) (WayV - On My Youth (English Ver.)), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42332896</id>
+        <link href="https://tv.naver.com/v/42332896"/>
+        <updated>2023-11-04T08:18:13.857Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[골든차일드 - 필 미 (Golden Child - Feel me), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42332530</id>
+        <link href="https://tv.naver.com/v/42332530"/>
+        <updated>2023-11-04T08:18:13.859Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이즈 - 토크 색시 (RIIZE - Talk Saxy), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42332528</id>
+        <link href="https://tv.naver.com/v/42332528"/>
+        <updated>2023-11-04T08:18:13.860Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프 - 바람이 분다 (ONF - Love Effect), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42332191</id>
+        <link href="https://tv.naver.com/v/42332191"/>
+        <updated>2023-11-04T08:18:13.866Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티 - 메가폰 (CRAVITY - MEGAPHONE), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42332186</id>
+        <link href="https://tv.naver.com/v/42332186"/>
+        <updated>2023-11-04T08:18:13.871Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[희진 - 알고리즘 (ARTMS - Algorithm), MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42331989</id>
+        <link href="https://tv.naver.com/v/42331989"/>
+        <updated>2023-11-04T08:18:13.875Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장민호- 그때 우린 젊었다 (JANG MIN HO - We Were Young), MBC 231104 방송]]></title>
         <id>https://tv.naver.com/v/42331648</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/42085090"/>
         <updated>2023-10-30T10:17:58.248Z</updated>
         <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] POW HYUNBIN - Dazzling(파우 현빈 - 다즐링) Close-up Cam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42084890</id>
-        <link href="https://tv.naver.com/v/42084890"/>
-        <updated>2023-10-30T10:17:58.251Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE LIZ - Baddie(아이브 리즈 - 배디) Close-up Cam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42081000</id>
-        <link href="https://tv.naver.com/v/42081000"/>
-        <updated>2023-10-30T09:16:49.837Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG - Baddie(아이브 장원영 - 배디) Close-up Cam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42080996</id>
-        <link href="https://tv.naver.com/v/42080996"/>
-        <updated>2023-10-30T09:16:49.837Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 은석 X 설윤 X 승한 , 10월 넷째 주 음악중심 MC 컷 모음!, MBC 231028 방송]]></title>
-        <id>https://tv.naver.com/v/42072447</id>
-        <link href="https://tv.naver.com/v/42072447"/>
-        <updated>2023-10-30T06:21:54.194Z</updated>
-        <content type="html"><![CDATA[11:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] Billlie TSUKI - DANG!(hocus pocus)(빌리 츠키 - 댕!(호커스 포커스)) Close-up Cam|MusicCore |MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42069823</id>
-        <link href="https://tv.naver.com/v/42069823"/>
-        <updated>2023-10-30T06:21:54.199Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] GHOST9 - RUCKUS(고스트나인 – 루커스) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42015205</id>
-        <link href="https://tv.naver.com/v/42015205"/>
-        <updated>2023-10-28T11:12:54.141Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LIGHTSUM – Honey or Spice(라잇썸 - 허니 오어 스파이스) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42015062</id>
-        <link href="https://tv.naver.com/v/42015062"/>
-        <updated>2023-10-28T11:12:54.144Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO – Baddie(아이브 이서 - 배디) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42015060</id>
-        <link href="https://tv.naver.com/v/42015060"/>
-        <updated>2023-10-28T11:12:54.146Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE REI – Baddie(아이브 레이 - 배디) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42015058</id>
-        <link href="https://tv.naver.com/v/42015058"/>
-        <updated>2023-10-28T11:12:54.148Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE AN YUJIN – Baddie(아이브 안유진 - 배디) FanCam | Show! MusicCore | MBC231028방송]]></title>
-        <id>https://tv.naver.com/v/42015056</id>
-        <link href="https://tv.naver.com/v/42015056"/>
-        <updated>2023-10-28T11:12:54.150Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
