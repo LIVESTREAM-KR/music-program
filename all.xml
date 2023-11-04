@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-04T13:18:12.712Z</updated>
+    <updated>2023-11-04T14:14:38.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[음악의 신 - SEVENTEEN | KBS 231103 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] MC 정우 서프라이즈 직캠 (JUNGWOO Good-Bye FanCam) | @Show!MusicCore 231104 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42344278</id>
+        <link href="https://tv.naver.com/v/42344278"/>
+        <updated>2023-11-04T14:13:54.180Z</updated>
+        <content type="html"><![CDATA[15:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] MC 리노 서프라이즈 직캠 (LEE KNOW Good-Bye FanCam) | @Show!MusicCore 231104 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42342738</id>
         <link href="https://tv.naver.com/v/42342738"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/42340189"/>
         <updated>2023-11-04T12:27:41.001Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY MINHEE – MEGAPHONE(크래비티 민희 - 메가폰) FanCam | Show! MusicCore | MBC231104방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42339923</id>
-        <link href="https://tv.naver.com/v/42339923"/>
-        <updated>2023-11-04T12:27:41.002Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송 (인기가요)]]></title>
