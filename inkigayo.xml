@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-11-05T06:19:47.200Z</updated>
+    <updated>2023-11-05T07:14:53.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KINGDOM(킹덤) - 쿠데타(Coup d'Etat) | SBS 231105 방송]]></title>
+        <id>https://tv.naver.com/v/42360266</id>
+        <link href="https://tv.naver.com/v/42360266"/>
+        <updated>2023-11-05T07:14:12.680Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weeekly(위클리) - VROOM VROOM | SBS 231105 방송]]></title>
+        <id>https://tv.naver.com/v/42360230</id>
+        <link href="https://tv.naver.com/v/42360230"/>
+        <updated>2023-11-05T07:14:12.683Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIGHTSUM - Honey or Spice | SBS 231105 방송]]></title>
+        <id>https://tv.naver.com/v/42360229</id>
+        <link href="https://tv.naver.com/v/42360229"/>
+        <updated>2023-11-05T07:14:12.694Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NINE.i(나인아이) - NEVERLAND | SBS 231105 방송]]></title>
+        <id>https://tv.naver.com/v/42360058</id>
+        <link href="https://tv.naver.com/v/42360058"/>
+        <updated>2023-11-05T07:14:12.696Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NiziU(니쥬) - HEARTRIS | SBS 231105 방송]]></title>
+        <id>https://tv.naver.com/v/42359865</id>
+        <link href="https://tv.naver.com/v/42359865"/>
+        <updated>2023-11-05T07:14:12.699Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼카인드(SUPERKIND) - Beam me up(2Dx3D) | SBS 231105 방송]]></title>
+        <id>https://tv.naver.com/v/42359711</id>
+        <link href="https://tv.naver.com/v/42359711"/>
+        <updated>2023-11-05T07:14:12.701Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eite(에이트) - INDEPENDENT WOMAN | SBS 231105 방송]]></title>
+        <id>https://tv.naver.com/v/42359674</id>
+        <link href="https://tv.naver.com/v/42359674"/>
+        <updated>2023-11-05T07:14:12.702Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밴드유니(Banduni) - 파란밤  | SBS 231105 방송]]></title>
+        <id>https://tv.naver.com/v/42359485</id>
+        <link href="https://tv.naver.com/v/42359485"/>
+        <updated>2023-11-05T07:14:12.703Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송]]></title>
         <id>https://tv.naver.com/v/42037844</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/41714403"/>
         <updated>2023-10-22T08:19:10.642Z</updated>
         <content type="html"><![CDATA[02:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프(ONF) - 바람이 분다(Love Effect) | SBS 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41714251</id>
-        <link href="https://tv.naver.com/v/41714251"/>
-        <updated>2023-10-22T08:19:10.642Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장우혁 - I feel Hope | SBS 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41714249</id>
-        <link href="https://tv.naver.com/v/41714249"/>
-        <updated>2023-10-22T08:19:10.642Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KINGDOM(킹덤) - 쿠데타(Coup d'Etat) | SBS 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41713997</id>
-        <link href="https://tv.naver.com/v/41713997"/>
-        <updated>2023-10-22T08:19:10.651Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - FULL METAL JACKET | SBS 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41713995</id>
-        <link href="https://tv.naver.com/v/41713995"/>
-        <updated>2023-10-22T08:19:10.651Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Cheese | SBS 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41713868</id>
-        <link href="https://tv.naver.com/v/41713868"/>
-        <updated>2023-10-22T08:19:10.652Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE - 정했어(Love it) | SBS 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41713750</id>
-        <link href="https://tv.naver.com/v/41713750"/>
-        <updated>2023-10-22T08:19:10.669Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS EVOLution - Invincible | SBS 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41713660</id>
-        <link href="https://tv.naver.com/v/41713660"/>
-        <updated>2023-10-22T07:13:42.975Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - SPICE | SBS 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41713641</id>
-        <link href="https://tv.naver.com/v/41713641"/>
-        <updated>2023-10-22T07:13:42.975Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
