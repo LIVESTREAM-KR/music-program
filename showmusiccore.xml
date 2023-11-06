@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-06T04:21:14.088Z</updated>
+    <updated>2023-11-06T05:17:03.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 11월 첫째 주 음악중심 MC 컷 모음!, MBC 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42395633</id>
+        <link href="https://tv.naver.com/v/42395633"/>
+        <updated>2023-11-06T05:16:18.015Z</updated>
+        <content type="html"><![CDATA[12:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] MC 정우 서프라이즈 직캠 (JUNGWOO Good-Bye FanCam) | @Show!MusicCore 231104]]></title>
         <id>https://tv.naver.com/v/42344278</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42340192"/>
         <updated>2023-11-04T12:27:41.000Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY SERIM – MEGAPHONE(크래비티 세림 - 메가폰) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340189</id>
-        <link href="https://tv.naver.com/v/42340189"/>
-        <updated>2023-11-04T12:27:41.001Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>

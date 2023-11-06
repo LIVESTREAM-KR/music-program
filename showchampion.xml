@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-06T04:21:14.096Z</updated>
+    <updated>2023-11-06T05:17:03.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 따르릉...📞따르릉...📞 (철컥) 안녕하세요 이번 주 쇼챔 무대 보고 광명 찾자✨ 협회에서 나왔습니다]]></title>
+        <id>https://tv.naver.com/v/42395939</id>
+        <link href="https://tv.naver.com/v/42395939"/>
+        <updated>2023-11-06T05:16:47.896Z</updated>
+        <content type="html"><![CDATA[00:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마카롱이 아니라고!! 마카로니 치즈라고!!]]></title>
         <id>https://tv.naver.com/v/42285694</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/41850417</id>
         <link href="https://tv.naver.com/v/41850417"/>
         <updated>2023-10-25T13:19:50.047Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ONF U - Love Effect (온앤오프 유 - 바람이 분다) | Show Champion | EP.497 | 231025]]></title>
-        <id>https://tv.naver.com/v/41850416</id>
-        <link href="https://tv.naver.com/v/41850416"/>
-        <updated>2023-10-25T13:19:50.053Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
