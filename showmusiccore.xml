@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-06T05:17:03.935Z</updated>
+    <updated>2023-11-06T06:22:32.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Jang Minho – We Were Young(장민호 - 그때 우린 젊었다) FanCam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42398988</id>
+        <link href="https://tv.naver.com/v/42398988"/>
+        <updated>2023-11-06T06:21:47.789Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] CRAVITY HYEONGJUN - MEGAPHONE(크래비티 형준 - 메가폰) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42397587</id>
+        <link href="https://tv.naver.com/v/42397587"/>
+        <updated>2023-11-06T06:21:47.796Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] WayV TEN - On My Youth(웨이션브이 텐 - 온 마이 유스) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42396607</id>
+        <link href="https://tv.naver.com/v/42396607"/>
+        <updated>2023-11-06T06:21:47.797Z</updated>
+        <content type="html"><![CDATA[04:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] WayV WINWIN - On My Youth(웨이션브이 윈윈 - 온 마이 유스) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42396605</id>
+        <link href="https://tv.naver.com/v/42396605"/>
+        <updated>2023-11-06T06:21:47.797Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TAEMIN - Guilty(태민 - 길티) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42396604</id>
+        <link href="https://tv.naver.com/v/42396604"/>
+        <updated>2023-11-06T06:21:47.798Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 11월 첫째 주 음악중심 MC 컷 모음!, MBC 231104 방송]]></title>
         <id>https://tv.naver.com/v/42395633</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/42340371"/>
         <updated>2023-11-04T12:27:40.993Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE SEUNGHAN – Talk Saxy(라이즈 승한 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340336</id>
-        <link href="https://tv.naver.com/v/42340336"/>
-        <updated>2023-11-04T12:27:40.995Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE EUNSEOK – Talk Saxy(라이즈 은석 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340335</id>
-        <link href="https://tv.naver.com/v/42340335"/>
-        <updated>2023-11-04T12:27:40.996Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE WONBIN – Talk Saxy(라이즈 원빈 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340197</id>
-        <link href="https://tv.naver.com/v/42340197"/>
-        <updated>2023-11-04T12:27:40.997Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE SHOTARO – Talk Saxy(라이즈 쇼타로 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340193</id>
-        <link href="https://tv.naver.com/v/42340193"/>
-        <updated>2023-11-04T12:27:40.999Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY JUNGMO – MEGAPHONE(크래비티 정모 - 메가폰) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340192</id>
-        <link href="https://tv.naver.com/v/42340192"/>
-        <updated>2023-11-04T12:27:41.000Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
