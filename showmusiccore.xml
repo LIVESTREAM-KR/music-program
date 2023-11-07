@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-07T08:20:57.132Z</updated>
+    <updated>2023-11-07T09:16:22.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE EUNSEOK - Talk Saxy(라이즈 은석 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42467805</id>
+        <link href="https://tv.naver.com/v/42467805"/>
+        <updated>2023-11-07T09:15:45.455Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE ANTON - Talk Saxy(라이즈 앤톤 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42454514</id>
+        <link href="https://tv.naver.com/v/42454514"/>
+        <updated>2023-11-07T09:15:45.456Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE SUNGCHAN - Talk Saxy(라이즈 성찬 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42443045</id>
+        <link href="https://tv.naver.com/v/42443045"/>
+        <updated>2023-11-07T09:15:45.457Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE WONBIN - Talk Saxy(라이즈 원빈 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
+        <id>https://tv.naver.com/v/42442847</id>
+        <link href="https://tv.naver.com/v/42442847"/>
+        <updated>2023-11-07T09:15:45.459Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Jang Minho – We Were Young(장민호 - 그때 우린 젊었다) FanCam | Show! MusicCore | MBC231104방송]]></title>
         <id>https://tv.naver.com/v/42398988</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/42340660"/>
         <updated>2023-11-04T12:27:40.987Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE SUNGCHAN – Talk Saxy(라이즈 성찬 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340659</id>
-        <link href="https://tv.naver.com/v/42340659"/>
-        <updated>2023-11-04T12:27:40.989Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE ANTON – Talk Saxy(라이즈 앤톤 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340656</id>
-        <link href="https://tv.naver.com/v/42340656"/>
-        <updated>2023-11-04T12:27:40.990Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE - Talk Saxy(라이즈 – 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340655</id>
-        <link href="https://tv.naver.com/v/42340655"/>
-        <updated>2023-11-04T12:27:40.991Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE SOHEE – Talk Saxy(라이즈 소희 - 토크 색시) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340371</id>
-        <link href="https://tv.naver.com/v/42340371"/>
-        <updated>2023-11-04T12:27:40.993Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
