@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-08T06:22:18.830Z</updated>
+    <updated>2023-11-08T07:15:09.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼! 음악중심] 이게 데뷔 15년차 아이돌이야 ㄷㄷ #TAEMIN #Guilty #Shorts]]></title>
+        <id>https://tv.naver.com/v/42463980</id>
+        <link href="https://tv.naver.com/v/42463980"/>
+        <updated>2023-11-08T07:14:32.890Z</updated>
+        <content type="html"><![CDATA[00:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] RIIZE EUNSEOK - Talk Saxy(라이즈 은석 - 토크 색시) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
         <id>https://tv.naver.com/v/42467805</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42340664"/>
         <updated>2023-11-04T12:27:40.986Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEMIN - Guilty(태민 – 길티) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340660</id>
-        <link href="https://tv.naver.com/v/42340660"/>
-        <updated>2023-11-04T12:27:40.987Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>

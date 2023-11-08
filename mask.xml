@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-11-08T06:22:18.829Z</updated>
+    <updated>2023-11-08T07:15:09.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 《보통의 하루》부터 《사랑은 눈꽃처럼》까지!! 레전드 발라드 노래 부르는 뮤지컬 배우&리베란테 리더 김지훈의 무대!ㅣ#김지훈 MBC231105방송]]></title>
+        <id>https://tv.naver.com/v/42443042</id>
+        <link href="https://tv.naver.com/v/42443042"/>
+        <updated>2023-11-08T07:15:08.740Z</updated>
+        <content type="html"><![CDATA[19:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜과연 모두를 취향 저격한 💞 최고의 노래 맛집은?＞ 복면가왕 426회 예고, MBC 231112 방송]]></title>
         <id>https://tv.naver.com/v/42367486</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41982683"/>
         <updated>2023-10-27T11:14:02.710Z</updated>
         <content type="html"><![CDATA[11:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 메가 히트송🎤＜솜사탕＞, ＜베르사이유의 장미＞의 주인공, 네미시스 노승호의 무대!🎉, MBC 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41981038</id>
-        <link href="https://tv.naver.com/v/41981038"/>
-        <updated>2023-10-27T10:17:56.635Z</updated>
-        <content type="html"><![CDATA[11:12]]></content>
     </entry>
 </feed>
