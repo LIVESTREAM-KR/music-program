@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-08T10:17:54.598Z</updated>
+    <updated>2023-11-08T11:14:10.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 골든차일드(Golden Child) - Feel me l 231108]]></title>
+        <id>https://tv.naver.com/v/42533499</id>
+        <link href="https://tv.naver.com/v/42533499"/>
+        <updated>2023-11-08T11:13:59.404Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 비비지(VIVIZ) - MANIAC l 231108]]></title>
+        <id>https://tv.naver.com/v/42533244</id>
+        <link href="https://tv.naver.com/v/42533244"/>
+        <updated>2023-11-08T11:13:59.406Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 웨이션브이(WayV) - On My Youth (English Ver.) l 231108]]></title>
         <id>https://tv.naver.com/v/42532997</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/41914891"/>
         <updated>2023-10-26T08:21:48.293Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] CHUU - Howl (츄 - 하울) l Show Champion l EP.497 l 231025]]></title>
-        <id>https://tv.naver.com/v/41919839</id>
-        <link href="https://tv.naver.com/v/41919839"/>
-        <updated>2023-10-26T08:21:48.294Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CHUU - Howl (츄 - 하울) l Show Champion l EP.497 l 231025]]></title>
-        <id>https://tv.naver.com/v/41911803</id>
-        <link href="https://tv.naver.com/v/41911803"/>
-        <updated>2023-10-26T08:21:48.295Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
