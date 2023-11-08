@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-08T11:14:10.849Z</updated>
+    <updated>2023-11-08T12:30:52.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 11월 2주 챔피언송 ＜NiziU - HEARTRIS＞ 앵콜 Full ver. l Show Champion l EP.499 l 231108]]></title>
+        <id>https://tv.naver.com/v/42536632</id>
+        <link href="https://tv.naver.com/v/42536632"/>
+        <updated>2023-11-08T12:30:40.498Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 골든차일드(Golden Child) - Feel me l 231108]]></title>
         <id>https://tv.naver.com/v/42533499</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS EVOLution YeonJi (트리플에스 에볼루션 곽연지) - Invincible l Show Champion l EP.497 l 231025]]></title>
         <id>https://tv.naver.com/v/41919537</id>
         <link href="https://tv.naver.com/v/41919537"/>
-        <updated>2023-10-26T08:21:48.293Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS EVOLution - Invincible (트리플에스 에볼루션 - 인빈시블) l Show Champion l EP.497 l 231025]]></title>
-        <id>https://tv.naver.com/v/41914891</id>
-        <link href="https://tv.naver.com/v/41914891"/>
         <updated>2023-10-26T08:21:48.293Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
