@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-11-09T09:17:11.363Z</updated>
+    <updated>2023-11-09T10:18:20.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Billlie - DANG! (hocus pocus) | Mnet 231109 방송]]></title>
+        <id>https://tv.naver.com/v/42592139</id>
+        <link href="https://tv.naver.com/v/42592139"/>
+        <updated>2023-11-09T10:17:50.447Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with NiziU (니쥬) | Mnet 231109 방송]]></title>
+        <id>https://tv.naver.com/v/42591806</id>
+        <link href="https://tv.naver.com/v/42591806"/>
+        <updated>2023-11-09T10:17:50.449Z</updated>
+        <content type="html"><![CDATA[02:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' WHIB - BANG! | Mnet 231109 방송]]></title>
+        <id>https://tv.naver.com/v/42591580</id>
+        <link href="https://tv.naver.com/v/42591580"/>
+        <updated>2023-11-09T10:17:50.449Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['UP NEXT' RIIZE (라이즈) | Mnet 231109 방송]]></title>
+        <id>https://tv.naver.com/v/42591163</id>
+        <link href="https://tv.naver.com/v/42591163"/>
+        <updated>2023-11-09T10:17:50.450Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISS OF LIFE - Bad News | Mnet 231109 방송]]></title>
+        <id>https://tv.naver.com/v/42590831</id>
+        <link href="https://tv.naver.com/v/42590831"/>
+        <updated>2023-11-09T10:17:50.450Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐치더영(Catch The Young) - YOUTH!!! | Mnet 231109 방송]]></title>
+        <id>https://tv.naver.com/v/42590533</id>
+        <link href="https://tv.naver.com/v/42590533"/>
+        <updated>2023-11-09T10:17:50.450Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/42474136</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/41606840"/>
         <updated>2023-10-19T10:17:25.904Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVNNE(이븐) - Role Model | Mnet 231019 방송]]></title>
-        <id>https://tv.naver.com/v/41606842</id>
-        <link href="https://tv.naver.com/v/41606842"/>
-        <updated>2023-10-19T10:17:25.897Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/41507175</id>
-        <link href="https://tv.naver.com/v/41507175"/>
-        <updated>2023-10-17T12:32:14.339Z</updated>
-        <content type="html"><![CDATA[01:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NCT 127 - Fact Check (불가사의; 不可思議) | Mnet 231012 방송]]></title>
-        <id>https://tv.naver.com/v/41299627</id>
-        <link href="https://tv.naver.com/v/41299627"/>
-        <updated>2023-10-12T12:31:50.845Z</updated>
-        <content type="html"><![CDATA[05:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NCT 127 - Parade (행진) | Mnet 231012 방송]]></title>
-        <id>https://tv.naver.com/v/41299472</id>
-        <link href="https://tv.naver.com/v/41299472"/>
-        <updated>2023-10-12T12:31:50.845Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 임영웅 - Do or Die | Mnet 231012 방송]]></title>
-        <id>https://tv.naver.com/v/41299238</id>
-        <link href="https://tv.naver.com/v/41299238"/>
-        <updated>2023-10-12T12:31:50.846Z</updated>
-        <content type="html"><![CDATA[04:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 임영웅 - 모래 알갱이 | Mnet 231012 방송]]></title>
-        <id>https://tv.naver.com/v/41298979</id>
-        <link href="https://tv.naver.com/v/41298979"/>
-        <updated>2023-10-12T12:31:50.846Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
