@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-10T06:21:41.887Z</updated>
+    <updated>2023-11-10T07:15:38.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] IVE – Baddie(아이브 - 배디) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/42457823</id>
+        <link href="https://tv.naver.com/v/42457823"/>
+        <updated>2023-11-10T07:14:54.021Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼! 음악중심] 이게 데뷔 15년차 아이돌이야 ㄷㄷ #TAEMIN #Guilty #Shorts]]></title>
         <id>https://tv.naver.com/v/42463980</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42340668"/>
         <updated>2023-11-04T12:27:40.984Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEMIN – Guilty(태민 - 길티) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42340664</id>
-        <link href="https://tv.naver.com/v/42340664"/>
-        <updated>2023-11-04T12:27:40.986Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>

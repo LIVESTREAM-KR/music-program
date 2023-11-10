@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-10T06:21:41.898Z</updated>
+    <updated>2023-11-10T07:15:38.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[음악의 신 - SEVENTEEN | KBS 231103 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] IVE – Baddie(아이브 - 배디) | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42457823</id>
+        <link href="https://tv.naver.com/v/42457823"/>
+        <updated>2023-11-10T07:14:54.021Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼! 음악중심] 이게 데뷔 15년차 아이돌이야 ㄷㄷ #TAEMIN #Guilty #Shorts (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42463980</id>
         <link href="https://tv.naver.com/v/42463980"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/42340668"/>
         <updated>2023-11-04T12:27:40.984Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEMIN – Guilty(태민 - 길티) FanCam | Show! MusicCore | MBC231104방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42340664</id>
-        <link href="https://tv.naver.com/v/42340664"/>
-        <updated>2023-11-04T12:27:40.986Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태민(TAEMIN) - Guilty | SBS 231105 방송 (인기가요)]]></title>
