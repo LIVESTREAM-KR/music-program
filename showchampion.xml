@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-10T01:10:09.567Z</updated>
+    <updated>2023-11-10T02:25:14.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 2주차 쇼챔피언 🍩MC 나나츠키이장준🌙 모음.zip (우아! 나나, 빌리 츠키, 골든차일드 이장준) | Show Champion | EP.499 | 231108]]></title>
+        <id>https://tv.naver.com/v/42535348</id>
+        <link href="https://tv.naver.com/v/42535348"/>
+        <updated>2023-11-10T02:25:01.923Z</updated>
+        <content type="html"><![CDATA[04:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ILY:1 - To My Boyfriend (아일리원 - 내 남자친구에게) l Show Champion l EP.499 l 231108]]></title>
         <id>https://tv.naver.com/v/42562962</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42526782"/>
         <updated>2023-11-08T13:19:55.273Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NINE.i VAHN - NEVERLAND (나인아이 반 - 네버랜드) | Show Champion | EP.499 | 231108]]></title>
-        <id>https://tv.naver.com/v/42512899</id>
-        <link href="https://tv.naver.com/v/42512899"/>
-        <updated>2023-11-08T13:19:55.274Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
