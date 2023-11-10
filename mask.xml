@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-11-10T09:16:06.524Z</updated>
+    <updated>2023-11-10T10:17:31.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 화제의 ＜팬텀싱어4＞ 우승자✨크로스오버 장인 리베란테의 김지훈 솔로 무대 하이라이트!🎉, MBC 231105 방송]]></title>
+        <id>https://tv.naver.com/v/42651899</id>
+        <link href="https://tv.naver.com/v/42651899"/>
+        <updated>2023-11-10T10:17:31.034Z</updated>
+        <content type="html"><![CDATA[11:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 《보통의 하루》부터 《사랑은 눈꽃처럼》까지!! 레전드 발라드 노래 부르는 뮤지컬 배우&리베란테 리더 김지훈의 무대!ㅣ#김지훈 MBC231105방송]]></title>
         <id>https://tv.naver.com/v/42443042</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42040540"/>
         <updated>2023-10-29T10:16:45.335Z</updated>
         <content type="html"><![CDATA[01:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 반전 고음 보컬 폭발!🔥과즙미 뿜뿜 걸 그룹 체리블렛의 메인 보컬 보라✨하이라이트!, MBC 231022 방송]]></title>
-        <id>https://tv.naver.com/v/41982683</id>
-        <link href="https://tv.naver.com/v/41982683"/>
-        <updated>2023-10-27T11:14:02.710Z</updated>
-        <content type="html"><![CDATA[11:29]]></content>
     </entry>
 </feed>

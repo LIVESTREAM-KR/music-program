@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-10T09:16:06.544Z</updated>
+    <updated>2023-11-10T10:17:31.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42652957</id>
+        <link href="https://tv.naver.com/v/42652957"/>
+        <updated>2023-11-10T10:16:49.520Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drama - aespa | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42651910</id>
+        <link href="https://tv.naver.com/v/42651910"/>
+        <updated>2023-11-10T10:16:49.534Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guilty - 태민 (TAEMIN) | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42651907</id>
+        <link href="https://tv.naver.com/v/42651907"/>
+        <updated>2023-11-10T10:16:49.534Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MANIAC - VIVIZ (비비지) | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42651523</id>
+        <link href="https://tv.naver.com/v/42651523"/>
+        <updated>2023-11-10T10:16:49.534Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feel me - 골든차일드 | KBS 231110 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/42651514</id>
+        <link href="https://tv.naver.com/v/42651514"/>
+        <updated>2023-11-10T10:16:49.536Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MEGAPHONE - CRAVITY | KBS 231110 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/42650812</id>
@@ -178,41 +213,6 @@
         <link href="https://tv.naver.com/v/42299233"/>
         <updated>2023-11-03T09:16:09.814Z</updated>
         <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUTH!!! - 캐치더영(Catch The Young) | KBS 231103 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/42299225</id>
-        <link href="https://tv.naver.com/v/42299225"/>
-        <updated>2023-11-03T09:16:09.816Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INDEPENDENT WOMAN - eite(에이트) | KBS 231103 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/42298894</id>
-        <link href="https://tv.naver.com/v/42298894"/>
-        <updated>2023-11-03T09:16:09.816Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chasing That Feeling - 투모로우바이투게더 | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41981406</id>
-        <link href="https://tv.naver.com/v/41981406"/>
-        <updated>2023-10-27T10:17:03.653Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악의 신 - SEVENTEEN | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41981242</id>
-        <link href="https://tv.naver.com/v/41981242"/>
-        <updated>2023-10-27T10:17:03.654Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baddie - IVE | KBS 231027 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/41981087</id>
-        <link href="https://tv.naver.com/v/41981087"/>
-        <updated>2023-10-27T10:17:03.654Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] IVE – Baddie(아이브 - 배디) | Show! Music Core (쇼! 음악중심)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[01:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 화제의 ＜팬텀싱어4＞ 우승자✨크로스오버 장인 리베란테의 김지훈 솔로 무대 하이라이트!🎉, MBC 231105 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/42651899</id>
+        <link href="https://tv.naver.com/v/42651899"/>
+        <updated>2023-11-10T10:17:31.034Z</updated>
+        <content type="html"><![CDATA[11:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#복면가왕] 《보통의 하루》부터 《사랑은 눈꽃처럼》까지!! 레전드 발라드 노래 부르는 뮤지컬 배우&리베란테 리더 김지훈의 무대!ㅣ#김지훈 MBC231105방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/42443042</id>
         <link href="https://tv.naver.com/v/42443042"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/42040540"/>
         <updated>2023-10-29T10:16:45.335Z</updated>
         <content type="html"><![CDATA[01:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 반전 고음 보컬 폭발!🔥과즙미 뿜뿜 걸 그룹 체리블렛의 메인 보컬 보라✨하이라이트!, MBC 231022 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/41982683</id>
-        <link href="https://tv.naver.com/v/41982683"/>
-        <updated>2023-10-27T11:14:02.710Z</updated>
-        <content type="html"><![CDATA[11:29]]></content>
     </entry>
 </feed>
