@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-11T06:20:00.665Z</updated>
+    <updated>2023-11-11T07:14:14.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231110 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,48 @@
         <content type="html"><![CDATA[02:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[위클리 - 브룸 브룸 (Weeekly - VROOM VROOM), MBC 231111 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42682527</id>
+        <link href="https://tv.naver.com/v/42682527"/>
+        <updated>2023-11-11T07:13:37.411Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빌리 - 댕! (호커스 포커스) (Billlie - DANG!(hocus pocus)), MBC 231111 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42682525</id>
+        <link href="https://tv.naver.com/v/42682525"/>
+        <updated>2023-11-11T07:13:37.416Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니쥬 - 하트리스 (NiziU - HEARTRIS), MBC 231111 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42682263</id>
+        <link href="https://tv.naver.com/v/42682263"/>
+        <updated>2023-11-11T07:13:37.416Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휘브 - 뱅! (WHIB - BANG!), MBC 231111 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42682240</id>
+        <link href="https://tv.naver.com/v/42682240"/>
+        <updated>2023-11-11T07:13:37.416Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키스오브라이프 - 배드 뉴스 (KISS OF LIFE - Bad News), MBC 231111 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42682101</id>
+        <link href="https://tv.naver.com/v/42682101"/>
+        <updated>2023-11-11T07:13:37.416Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영훈X설윤X이정하 - 러브 리 (원곡 : AKMU) (YOUNGHOONXSULLYOONXLEE JUNG HA - Love Lee), MBC 231111 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42681965</id>
+        <link href="https://tv.naver.com/v/42681965"/>
+        <updated>2023-11-11T07:13:37.417Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] IVE – Baddie(아이브 - 배디) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42457823</id>
         <link href="https://tv.naver.com/v/42457823"/>
@@ -381,48 +423,6 @@
         <link href="https://tv.naver.com/v/42341125"/>
         <updated>2023-11-04T12:27:40.973Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VIVIZ - MANIAC(비비지 – 매니악) FanCam | Show! MusicCore | MBC231104방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42340976</id>
-        <link href="https://tv.naver.com/v/42340976"/>
-        <updated>2023-11-04T12:27:40.976Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEMIN – The Rizzness(태민 - 더 리즈니스) FanCam | Show! MusicCore | MBC231104방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42340876</id>
-        <link href="https://tv.naver.com/v/42340876"/>
-        <updated>2023-11-04T12:27:40.979Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VIVIZ SINB – MANIAC(비비지 신비 - 매니악) FanCam | Show! MusicCore | MBC231104방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42340831</id>
-        <link href="https://tv.naver.com/v/42340831"/>
-        <updated>2023-11-04T12:27:40.980Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEMIN - The Rizzness(태민 – 더 리즈니스) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231104방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42340830</id>
-        <link href="https://tv.naver.com/v/42340830"/>
-        <updated>2023-11-04T12:27:40.981Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Jang Minho - We Were Young(장민호 – 그때 우린 젊었다) FanCam (Horizontal Ver.) |MusicCore| MBC231104방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42340669</id>
-        <link href="https://tv.naver.com/v/42340669"/>
-        <updated>2023-11-04T12:27:40.983Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Noze – Guilty(노제 - 길티) FanCam | Show! MusicCore | MBC231104방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42340668</id>
-        <link href="https://tv.naver.com/v/42340668"/>
-        <updated>2023-11-04T12:27:40.984Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태민(TAEMIN) - Guilty | SBS 231105 방송 (인기가요)]]></title>
