@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-11T09:14:32.400Z</updated>
+    <updated>2023-11-11T10:16:00.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 3MC SPECIAL LEE JUNG HA – Love Lee(3MC 스페셜 이정하 - 러브리) FanCam | Show! MusicCore | MBC231111방]]></title>
+        <id>https://tv.naver.com/v/42687718</id>
+        <link href="https://tv.naver.com/v/42687718"/>
+        <updated>2023-11-11T10:15:22.286Z</updated>
+        <content type="html"><![CDATA[04:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 3MC SPECIAL SULLYOON – Love Lee (3MC 스페셜 설윤 - 러브리) FanCam | Show! MusicCore | MBC231111방송]]></title>
+        <id>https://tv.naver.com/v/42687688</id>
+        <link href="https://tv.naver.com/v/42687688"/>
+        <updated>2023-11-11T10:15:22.286Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 3MC SPECIAL YOUNGHOON – Love Lee (3MC 스페셜 영훈 - 러브리) FanCam | Show! MusicCore | MBC231111방송]]></title>
+        <id>https://tv.naver.com/v/42687350</id>
+        <link href="https://tv.naver.com/v/42687350"/>
+        <updated>2023-11-11T10:15:22.286Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] YOUNGHOON X SULLYOON X LEE JUNG HA - Love Lee(영훈X설윤X이정하 – 러브리) FanCam |MusicCore|MBC231111방]]></title>
+        <id>https://tv.naver.com/v/42687210</id>
+        <link href="https://tv.naver.com/v/42687210"/>
+        <updated>2023-11-11T10:15:22.286Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TAEMIN – Guilty(태민 - 길티) 1위 직캠 FanCam | Show! MusicCore | MBC231111방송]]></title>
         <id>https://tv.naver.com/v/42686027</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/42442847"/>
         <updated>2023-11-07T09:15:45.459Z</updated>
         <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Jang Minho – We Were Young(장민호 - 그때 우린 젊었다) FanCam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42398988</id>
-        <link href="https://tv.naver.com/v/42398988"/>
-        <updated>2023-11-06T06:21:47.789Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] CRAVITY HYEONGJUN - MEGAPHONE(크래비티 형준 - 메가폰) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42397587</id>
-        <link href="https://tv.naver.com/v/42397587"/>
-        <updated>2023-11-06T06:21:47.796Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] WayV TEN - On My Youth(웨이션브이 텐 - 온 마이 유스) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42396607</id>
-        <link href="https://tv.naver.com/v/42396607"/>
-        <updated>2023-11-06T06:21:47.797Z</updated>
-        <content type="html"><![CDATA[04:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] WayV WINWIN - On My Youth(웨이션브이 윈윈 - 온 마이 유스) Close-up Cam | Show! MusicCore | MBC231104방송]]></title>
-        <id>https://tv.naver.com/v/42396605</id>
-        <link href="https://tv.naver.com/v/42396605"/>
-        <updated>2023-11-06T06:21:47.797Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
     </entry>
 </feed>
