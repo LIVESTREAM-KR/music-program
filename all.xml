@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-11T08:19:16.547Z</updated>
+    <updated>2023-11-11T09:14:32.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231110 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[02:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] TAEMIN – Guilty(태민 - 길티) 1위 직캠 FanCam | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42686027</id>
+        <link href="https://tv.naver.com/v/42686027"/>
+        <updated>2023-11-11T09:13:55.207Z</updated>
+        <content type="html"><![CDATA[06:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 11월 2주차 1위 태민 - 길티 (TAEMIN - Guilty), MBC 231111 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42685370</id>
+        <link href="https://tv.naver.com/v/42685370"/>
+        <updated>2023-11-11T09:13:55.209Z</updated>
+        <content type="html"><![CDATA[05:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[11월 2주차 1위 태민 - 길티 (TAEMIN - Guilty), MBC 231111 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42684665</id>
         <link href="https://tv.naver.com/v/42684665"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/42396605"/>
         <updated>2023-11-06T06:21:47.797Z</updated>
         <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TAEMIN - Guilty(태민 - 길티) Close-up Cam | Show! MusicCore | MBC231104방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42396604</id>
-        <link href="https://tv.naver.com/v/42396604"/>
-        <updated>2023-11-06T06:21:47.798Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우 X 설윤 X 리노(민호) , 11월 첫째 주 음악중심 MC 컷 모음!, MBC 231104 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42395633</id>
-        <link href="https://tv.naver.com/v/42395633"/>
-        <updated>2023-11-06T05:16:18.015Z</updated>
-        <content type="html"><![CDATA[12:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태민(TAEMIN) - Guilty | SBS 231105 방송 (인기가요)]]></title>
