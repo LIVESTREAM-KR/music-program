@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-11-12T07:16:09.082Z</updated>
+    <updated>2023-11-12T08:19:30.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42714498</id>
+        <link href="https://tv.naver.com/v/42714498"/>
+        <updated>2023-11-12T08:18:53.120Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태민(TAEMIN) - Guilty | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42714494</id>
+        <link href="https://tv.naver.com/v/42714494"/>
+        <updated>2023-11-12T08:18:53.121Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aespa - Drama | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42714315</id>
+        <link href="https://tv.naver.com/v/42714315"/>
+        <updated>2023-11-12T08:18:53.121Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIVIZ(비비지) - MANIAC | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42714174</id>
+        <link href="https://tv.naver.com/v/42714174"/>
+        <updated>2023-11-12T08:18:53.121Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[골든차일드 - Feel me | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42713985</id>
+        <link href="https://tv.naver.com/v/42713985"/>
+        <updated>2023-11-12T08:18:53.122Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백아연 - LIME(I’m So) | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42713703</id>
+        <link href="https://tv.naver.com/v/42713703"/>
+        <updated>2023-11-12T08:18:53.124Z</updated>
+        <content type="html"><![CDATA[02:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[희진(ARTMS) - Algorithm | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42713676</id>
+        <link href="https://tv.naver.com/v/42713676"/>
+        <updated>2023-11-12T08:18:53.125Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - MEGAPHONE | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42713529</id>
+        <link href="https://tv.naver.com/v/42713529"/>
+        <updated>2023-11-12T08:18:53.126Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weeekly(위클리) - VROOM VROOM | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42713528</id>
+        <link href="https://tv.naver.com/v/42713528"/>
+        <updated>2023-11-12T08:18:53.128Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - CRUSH(가시) | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42713360</id>
+        <link href="https://tv.naver.com/v/42713360"/>
+        <updated>2023-11-12T08:18:53.130Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - MELTING POINT | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42713198</id>
+        <link href="https://tv.naver.com/v/42713198"/>
+        <updated>2023-11-12T08:18:53.131Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GHOST9 - RUCKUS | SBS 231112 방송]]></title>
+        <id>https://tv.naver.com/v/42713195</id>
+        <link href="https://tv.naver.com/v/42713195"/>
+        <updated>2023-11-12T08:18:53.131Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NiziU(니쥬) - HEARTRIS | SBS 231112 방송]]></title>
         <id>https://tv.naver.com/v/42713042</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/42360058"/>
         <updated>2023-11-05T07:14:12.696Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NiziU(니쥬) - HEARTRIS | SBS 231105 방송]]></title>
-        <id>https://tv.naver.com/v/42359865</id>
-        <link href="https://tv.naver.com/v/42359865"/>
-        <updated>2023-11-05T07:14:12.699Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼카인드(SUPERKIND) - Beam me up(2Dx3D) | SBS 231105 방송]]></title>
-        <id>https://tv.naver.com/v/42359711</id>
-        <link href="https://tv.naver.com/v/42359711"/>
-        <updated>2023-11-05T07:14:12.701Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eite(에이트) - INDEPENDENT WOMAN | SBS 231105 방송]]></title>
-        <id>https://tv.naver.com/v/42359674</id>
-        <link href="https://tv.naver.com/v/42359674"/>
-        <updated>2023-11-05T07:14:12.702Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴드유니(Banduni) - 파란밤  | SBS 231105 방송]]></title>
-        <id>https://tv.naver.com/v/42359485</id>
-        <link href="https://tv.naver.com/v/42359485"/>
-        <updated>2023-11-05T07:14:12.703Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐틴(SEVENTEEN) - 음악의 신 | SBS 231029 방송]]></title>
-        <id>https://tv.naver.com/v/42037844</id>
-        <link href="https://tv.naver.com/v/42037844"/>
-        <updated>2023-10-29T08:18:40.395Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 - Chasing That Feeling | SBS 231029 방송]]></title>
-        <id>https://tv.naver.com/v/42037729</id>
-        <link href="https://tv.naver.com/v/42037729"/>
-        <updated>2023-10-29T08:18:40.395Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선미 - STRANGER | SBS 231029 방송]]></title>
-        <id>https://tv.naver.com/v/42037728</id>
-        <link href="https://tv.naver.com/v/42037728"/>
-        <updated>2023-10-29T08:18:40.395Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IVE - Baddie | SBS 231029 방송]]></title>
-        <id>https://tv.naver.com/v/42037597</id>
-        <link href="https://tv.naver.com/v/42037597"/>
-        <updated>2023-10-29T08:18:40.400Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프(ONF) - 바람이 분다(Love Effect) | SBS 231029 방송]]></title>
-        <id>https://tv.naver.com/v/42037486</id>
-        <link href="https://tv.naver.com/v/42037486"/>
-        <updated>2023-10-29T08:18:40.402Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - Perfect Night | SBS 231029 방송]]></title>
-        <id>https://tv.naver.com/v/42037232</id>
-        <link href="https://tv.naver.com/v/42037232"/>
-        <updated>2023-10-29T08:18:40.405Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - PLUTO | SBS 231029 방송]]></title>
-        <id>https://tv.naver.com/v/42037225</id>
-        <link href="https://tv.naver.com/v/42037225"/>
-        <updated>2023-10-29T08:18:40.414Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE - Talk Saxy | SBS 231029 방송]]></title>
-        <id>https://tv.naver.com/v/42037078</id>
-        <link href="https://tv.naver.com/v/42037078"/>
-        <updated>2023-10-29T08:18:40.415Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
