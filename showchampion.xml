@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-13T04:20:22.620Z</updated>
+    <updated>2023-11-13T05:15:59.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 쇼챔 5💟💟회 (오)래오래 (백)년만년 함께(회)요 (♡⸝⸝• ̫•⸝⸝)]]></title>
+        <id>https://tv.naver.com/v/42751553</id>
+        <link href="https://tv.naver.com/v/42751553"/>
+        <updated>2023-11-13T05:15:46.716Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[색다른 니쥬를 보여줄게 wait no more💖]]></title>
         <id>https://tv.naver.com/v/42642421</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/42527162</id>
         <link href="https://tv.naver.com/v/42527162"/>
         <updated>2023-11-08T13:19:55.270Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NiziU NINA - HEARTRIS (니쥬 니나 - 하트리스) | Show Champion | EP.499 | 231108]]></title>
-        <id>https://tv.naver.com/v/42527159</id>
-        <link href="https://tv.naver.com/v/42527159"/>
-        <updated>2023-11-08T13:19:55.272Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
