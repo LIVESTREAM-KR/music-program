@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-13T09:17:33.166Z</updated>
+    <updated>2023-11-13T10:18:27.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING - Drama(에스파 닝닝 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+        <id>https://tv.naver.com/v/42769240</id>
+        <link href="https://tv.naver.com/v/42769240"/>
+        <updated>2023-11-13T10:17:51.571Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa WINTER - Drama(에스파 윈터 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+        <id>https://tv.naver.com/v/42769235</id>
+        <link href="https://tv.naver.com/v/42769235"/>
+        <updated>2023-11-13T10:17:51.571Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa GISELLE - Drama(에스파 지젤 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+        <id>https://tv.naver.com/v/42769229</id>
+        <link href="https://tv.naver.com/v/42769229"/>
+        <updated>2023-11-13T10:17:51.572Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa KARINA - Drama(에스파 카리나 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
+        <id>https://tv.naver.com/v/42769226</id>
+        <link href="https://tv.naver.com/v/42769226"/>
+        <updated>2023-11-13T10:17:51.574Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE HAN YU JIN - CRUSH(제로베이스원 한유진 - 가시) Close-up Cam | Show! MusicCore | MBC231111방]]></title>
         <id>https://tv.naver.com/v/42767623</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/42689372"/>
         <updated>2023-11-11T11:12:17.281Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEMIN – Guilty(태민 - 길티) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689370</id>
-        <link href="https://tv.naver.com/v/42689370"/>
-        <updated>2023-11-11T11:12:17.281Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE PARK GUN WOOK - CRUSH(제로베이스원 박건욱 - 가시) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689368</id>
-        <link href="https://tv.naver.com/v/42689368"/>
-        <updated>2023-11-11T11:12:17.282Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM JI WOONG - CRUSH(제로베이스원 김지웅 - 가시) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689367</id>
-        <link href="https://tv.naver.com/v/42689367"/>
-        <updated>2023-11-11T11:12:17.283Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SEOK MATTHEW - CRUSH(제로베이스원 석매튜 - 가시) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689212</id>
-        <link href="https://tv.naver.com/v/42689212"/>
-        <updated>2023-11-11T11:12:17.284Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
