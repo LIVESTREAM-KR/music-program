@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-11-14T11:14:26.535Z</updated>
+    <updated>2023-11-14T12:31:13.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/42835299</id>
+        <link href="https://tv.naver.com/v/42835299"/>
+        <updated>2023-11-14T12:30:51.244Z</updated>
+        <content type="html"><![CDATA[01:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' 태민 (TAEMIN) - Guilty | Mnet 231109 방송]]></title>
         <id>https://tv.naver.com/v/42596977</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41611713"/>
         <updated>2023-10-19T12:32:24.736Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT 127 - Fact Check (불가사의; 不可思議) | Mnet 231019 방송]]></title>
-        <id>https://tv.naver.com/v/41611489</id>
-        <link href="https://tv.naver.com/v/41611489"/>
-        <updated>2023-10-19T12:32:24.737Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
