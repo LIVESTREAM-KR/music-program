@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-14T08:21:06.186Z</updated>
+    <updated>2023-11-14T09:16:40.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] 3MC SPECIAL LEE JUNG HA - Love Lee(3MC 스페셜 이정하 - 러브리)Close-up Cam|Show!MusicCore|MBC231111방]]></title>
+        <id>https://tv.naver.com/v/42826177</id>
+        <link href="https://tv.naver.com/v/42826177"/>
+        <updated>2023-11-14T09:16:04.280Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] 3MC SPECIAL SULLYOON - Love Lee(3MC 스페셜 설윤 - 러브리) Close-up Cam | Show! MusicCore|MBC231111방]]></title>
+        <id>https://tv.naver.com/v/42825895</id>
+        <link href="https://tv.naver.com/v/42825895"/>
+        <updated>2023-11-14T09:16:04.281Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] 3MC SPECIAL YOUNGHOON - Love Lee(3MC 스페셜 영훈 - 러브리) Close-up Cam | Show!MusicCore|MBC231111방]]></title>
+        <id>https://tv.naver.com/v/42825892</id>
+        <link href="https://tv.naver.com/v/42825892"/>
+        <updated>2023-11-14T09:16:04.281Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] aespa NINGNING - Drama(에스파 닝닝 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송]]></title>
         <id>https://tv.naver.com/v/42769240</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/42689521"/>
         <updated>2023-11-11T12:27:46.692Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEMIN - Guilty(태민 – 길티) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689519</id>
-        <link href="https://tv.naver.com/v/42689519"/>
-        <updated>2023-11-11T12:27:46.694Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VIVIZ EUNHA – MANIAC(비비지 은하 - 매니악) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689373</id>
-        <link href="https://tv.naver.com/v/42689373"/>
-        <updated>2023-11-11T11:12:17.280Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE – MELTING POINT(제로베이스원 - 멜팅 포인트) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689372</id>
-        <link href="https://tv.naver.com/v/42689372"/>
-        <updated>2023-11-11T11:12:17.281Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
