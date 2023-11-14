@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-11-14T03:17:14.759Z</updated>
+    <updated>2023-11-14T04:19:32.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 오랜만에~ 남편 몰래 복가 출연해 《혼자 하는 사랑》 부른 개그우먼 이은형ㅣ#이은형 MBC231112방송]]></title>
+        <id>https://tv.naver.com/v/42771005</id>
+        <link href="https://tv.naver.com/v/42771005"/>
+        <updated>2023-11-14T04:19:31.752Z</updated>
+        <content type="html"><![CDATA[17:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜쫓고 쫓기는 가왕석 쟁탈전 💥 잡히느냐 마느냐 가왕의 운명은?!＞ 복면가왕 427회 예고, MBC 231119 방송]]></title>
         <id>https://tv.naver.com/v/42720311</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42042172"/>
         <updated>2023-10-29T11:13:33.642Z</updated>
         <content type="html"><![CDATA[01:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['원하는 데 딱 붙어엿'의 정체는 코미디언 김용명!, MBC 231029 방송]]></title>
-        <id>https://tv.naver.com/v/42042173</id>
-        <link href="https://tv.naver.com/v/42042173"/>
-        <updated>2023-10-29T11:13:33.640Z</updated>
-        <content type="html"><![CDATA[01:57]]></content>
     </entry>
 </feed>
