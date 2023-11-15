@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-15T10:19:43.827Z</updated>
+    <updated>2023-11-15T11:14:47.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 에스파(aespa) - Drama l 231115]]></title>
+        <id>https://tv.naver.com/v/42890509</id>
+        <link href="https://tv.naver.com/v/42890509"/>
+        <updated>2023-11-15T11:14:35.865Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 제로베이스원(ZEROBASEONE) - CRUSH (가시) l 231115]]></title>
         <id>https://tv.naver.com/v/42890051</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42533973"/>
         <updated>2023-11-08T13:19:55.244Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Golden Child CHOI BO MIN - Feel me (골든차일드 최보민 - 필 미) | Show Champion | EP.499 | 231108]]></title>
-        <id>https://tv.naver.com/v/42530871</id>
-        <link href="https://tv.naver.com/v/42530871"/>
-        <updated>2023-11-08T13:19:55.245Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
