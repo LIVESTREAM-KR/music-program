@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-15T06:22:37.369Z</updated>
+    <updated>2023-11-15T07:15:22.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] POW – Dazzling(파우 - 다즐링) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/42826719</id>
+        <link href="https://tv.naver.com/v/42826719"/>
+        <updated>2023-11-15T07:14:44.700Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] 3MC SPECIAL LEE JUNG HA - Love Lee(3MC 스페셜 이정하 - 러브리)Close-up Cam|Show!MusicCore|MBC231111방]]></title>
         <id>https://tv.naver.com/v/42826177</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42689522"/>
         <updated>2023-11-11T12:27:46.691Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VIVIZ - MANIAC(비비지 – 매니악) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689521</id>
-        <link href="https://tv.naver.com/v/42689521"/>
-        <updated>2023-11-11T12:27:46.692Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>

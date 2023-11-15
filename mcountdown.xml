@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-11-15T06:22:37.365Z</updated>
+    <updated>2023-11-15T07:15:22.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['엠카 보컬 챌린지' 💖월화수목금토일 모두 함께해💖 𝐉𝐔𝐍𝐆 𝐊𝐎𝐎𝐊 ＜𝐒𝐄𝐕𝐄𝐍＞ 𝐂𝐎𝐌𝐈𝐍𝐆 𝐒𝐎𝐎𝐍❣️]]></title>
+        <id>https://tv.naver.com/v/42879704</id>
+        <link href="https://tv.naver.com/v/42879704"/>
+        <updated>2023-11-15T07:14:57.055Z</updated>
+        <content type="html"><![CDATA[01:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZEROBASEONE이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/42835299</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41614979"/>
         <updated>2023-10-19T12:32:24.734Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 선미 - STRANGER | Mnet 231019 방송]]></title>
-        <id>https://tv.naver.com/v/41611713</id>
-        <link href="https://tv.naver.com/v/41611713"/>
-        <updated>2023-10-19T12:32:24.736Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
 </feed>
