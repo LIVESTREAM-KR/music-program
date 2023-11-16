@@ -2,15 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-11-16T11:14:32.628Z</updated>
+    <updated>2023-11-16T12:32:29.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[1위] 'COMEBACK' 정국 - Standing Next to You | Mnet 231116 방송]]></title>
+        <id>https://tv.naver.com/v/42952860</id>
+        <link href="https://tv.naver.com/v/42952860"/>
+        <updated>2023-11-16T12:32:04.851Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' 미연 ((여자)아이들) - 마음이 닿는 법 | Mnet 231116 방송]]></title>
+        <id>https://tv.naver.com/v/42951804</id>
+        <link href="https://tv.naver.com/v/42951804"/>
+        <updated>2023-11-16T12:32:04.853Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스페셜 인터뷰' 미연 ((여자)아이들) | Mnet 231116 방송]]></title>
+        <id>https://tv.naver.com/v/42951800</id>
+        <link href="https://tv.naver.com/v/42951800"/>
+        <updated>2023-11-16T12:32:04.854Z</updated>
+        <content type="html"><![CDATA[02:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' Stray Kids - 락 (樂) | Mnet 231116 방송]]></title>
+        <id>https://tv.naver.com/v/42951531</id>
+        <link href="https://tv.naver.com/v/42951531"/>
+        <updated>2023-11-16T12:32:04.856Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' Crush (크러쉬) - 흠칫 (Hmm-cheat) | Mnet 231116 방송]]></title>
+        <id>https://tv.naver.com/v/42951527</id>
+        <link href="https://tv.naver.com/v/42951527"/>
+        <updated>2023-11-16T12:32:04.857Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비지(VIVIZ) - Untie | Mnet 231116 방송]]></title>
+        <id>https://tv.naver.com/v/42951525</id>
+        <link href="https://tv.naver.com/v/42951525"/>
+        <updated>2023-11-16T12:32:04.858Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' aespa - Drama | Mnet 231116 방송]]></title>
         <id>https://tv.naver.com/v/42951312</id>
         <link href="https://tv.naver.com/v/42951312"/>
         <updated>2023-11-16T11:14:07.471Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
+        <content type="html"><![CDATA[03:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['컴백 인터뷰' with Stray Kids (스트레이 키즈) | Mnet 231116 방송]]></title>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/42835299"/>
         <updated>2023-11-14T12:30:51.244Z</updated>
         <content type="html"><![CDATA[01:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 태민 (TAEMIN) - Guilty | Mnet 231109 방송]]></title>
-        <id>https://tv.naver.com/v/42596977</id>
-        <link href="https://tv.naver.com/v/42596977"/>
-        <updated>2023-11-09T12:30:42.106Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 세븐틴 (SEVENTEEN) - 음악의 신 | Mnet 231109 방송]]></title>
-        <id>https://tv.naver.com/v/42596692</id>
-        <link href="https://tv.naver.com/v/42596692"/>
-        <updated>2023-11-09T12:30:42.107Z</updated>
-        <content type="html"><![CDATA[06:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 영재(Youngjae) - Do It | Mnet 231109 방송]]></title>
-        <id>https://tv.naver.com/v/42596503</id>
-        <link href="https://tv.naver.com/v/42596503"/>
-        <updated>2023-11-09T12:30:42.109Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 골든차일드 - Feel me | Mnet 231109 방송]]></title>
-        <id>https://tv.naver.com/v/42596256</id>
-        <link href="https://tv.naver.com/v/42596256"/>
-        <updated>2023-11-09T12:30:42.111Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ZEROBASEONE - CRUSH (가시) | Mnet 231109 방송]]></title>
-        <id>https://tv.naver.com/v/42596012</id>
-        <link href="https://tv.naver.com/v/42596012"/>
-        <updated>2023-11-09T12:30:42.114Z</updated>
-        <content type="html"><![CDATA[05:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ZEROBASEONE - MELTING POINT | Mnet 231109 방송]]></title>
-        <id>https://tv.naver.com/v/42596006</id>
-        <link href="https://tv.naver.com/v/42596006"/>
-        <updated>2023-11-09T12:30:42.112Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
