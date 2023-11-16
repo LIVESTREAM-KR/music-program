@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-16T07:16:17.996Z</updated>
+    <updated>2023-11-16T08:21:48.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231110 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids.zip 📂 District 9부터 락(樂)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42866565</id>
+        <link href="https://tv.naver.com/v/42866565"/>
+        <updated>2023-11-16T08:21:10.315Z</updated>
+        <content type="html"><![CDATA[01:20:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ZEROBASEONE.zip 📂 In Bloom부터 CRUSH(가시)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42825321</id>
         <link href="https://tv.naver.com/v/42825321"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/42689550"/>
         <updated>2023-11-11T12:27:46.689Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NiziU - HEARTRIS(니쥬 – 하트리스) FanCam | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42689523</id>
-        <link href="https://tv.naver.com/v/42689523"/>
-        <updated>2023-11-11T12:27:46.690Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송 (인기가요)]]></title>
@@ -1055,6 +1055,83 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] OMEGA X - JUNK FOOD (오메가엑스 - 정크 푸드) l Show Champion l EP.500 l 231116 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42940546</id>
+        <link href="https://tv.naver.com/v/42940546"/>
+        <updated>2023-11-16T08:21:35.073Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] YOUNG POSSE - MACARONI CHEESE (영파씨 - 마카로니 치즈) l Show Champion l EP.500 l 231116 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42940162</id>
+        <link href="https://tv.naver.com/v/42940162"/>
+        <updated>2023-11-16T08:21:35.075Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ - MANIAC (비비지 - 매니악) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42940544</id>
+        <link href="https://tv.naver.com/v/42940544"/>
+        <updated>2023-11-16T08:21:35.076Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ UMJI - MANIAC (비비지 엄지 - 매니악) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42940159</id>
+        <link href="https://tv.naver.com/v/42940159"/>
+        <updated>2023-11-16T08:21:35.077Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ SINB - MANIAC (비비지 신비 - 매니악) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42940158</id>
+        <link href="https://tv.naver.com/v/42940158"/>
+        <updated>2023-11-16T08:21:35.077Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ EUNHA - MANIAC (비비지 은하 - 매니악) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42940157</id>
+        <link href="https://tv.naver.com/v/42940157"/>
+        <updated>2023-11-16T08:21:35.079Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE HANEUL - Bad News (키스오브라이프 하늘 - 배드 뉴스) | Show Champion | EP.500 l 231115 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42939800</id>
+        <link href="https://tv.naver.com/v/42939800"/>
+        <updated>2023-11-16T08:21:35.081Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE BELLE - Bad News (키스오브라이프 벨 - 배드 뉴스) | Show Champion | EP.500 l 231115 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42939469</id>
+        <link href="https://tv.naver.com/v/42939469"/>
+        <updated>2023-11-16T08:21:35.083Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE NATTY - Bad News (키스오브라이프 나띠 - 배드 뉴스) | Show Champion | EP.500 l 231115 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42939468</id>
+        <link href="https://tv.naver.com/v/42939468"/>
+        <updated>2023-11-16T08:21:35.084Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE JULIE - Bad News (키스오브라이프 쥴리 - 배드 뉴스) | Show Champion | EP.500 l 231115 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42939145</id>
+        <link href="https://tv.naver.com/v/42939145"/>
+        <updated>2023-11-16T08:21:35.085Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE - Bad News (키스오브라이프 - 배드 뉴스) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42939137</id>
+        <link href="https://tv.naver.com/v/42939137"/>
+        <updated>2023-11-16T08:21:35.087Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] aespa NINGNING - Drama (에스파 닝닝 - 드라마) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/42892431</id>
         <link href="https://tv.naver.com/v/42892431"/>
@@ -1186,83 +1263,6 @@
         <link href="https://tv.naver.com/v/42891420"/>
         <updated>2023-11-15T13:21:02.837Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX WISH - Pretty U(이펙스 위시 - 예쁘다 (원곡 : SEVENTEEN)) | Show Champion | EP.500 | 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42890926</id>
-        <link href="https://tv.naver.com/v/42890926"/>
-        <updated>2023-11-15T13:21:02.839Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX KEUM DONGHYUN- Pretty U(이펙스 금동현-예쁘다 (원곡 : SEVENTEEN)) | Show Champion |EP.500|231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42890922</id>
-        <link href="https://tv.naver.com/v/42890922"/>
-        <updated>2023-11-15T13:21:02.840Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX BAEKSEUNG - Pretty U(이펙스 백승 - 예쁘다 (원곡 : SEVENTEEN)) | Show Champion | EP.500 | 23111 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42890921</id>
-        <link href="https://tv.naver.com/v/42890921"/>
-        <updated>2023-11-15T13:21:02.841Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX MU - Pretty U(이펙스 뮤 - 예쁘다 (원곡 : SEVENTEEN)) | Show Champion | EP.500 | 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42890554</id>
-        <link href="https://tv.naver.com/v/42890554"/>
-        <updated>2023-11-15T13:21:02.842Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX YEWANG - Pretty U(이펙스 예왕 - 예쁘다 (원곡 : SEVENTEEN)) | Show Champion | EP.500 | 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42890552</id>
-        <link href="https://tv.naver.com/v/42890552"/>
-        <updated>2023-11-15T13:21:02.843Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX JEFF - Pretty U(이펙스 제프 - 예쁘다 (원곡 : SEVENTEEN)) | Show Champion | EP.500 | 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42890507</id>
-        <link href="https://tv.naver.com/v/42890507"/>
-        <updated>2023-11-15T13:21:02.845Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX A-MIN - Pretty U(이펙스 아민 - 예쁘다 (원곡 : SEVENTEEN)) | Show Champion | EP.500 | 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42890287</id>
-        <link href="https://tv.naver.com/v/42890287"/>
-        <updated>2023-11-15T13:21:02.847Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] aespa NINGNING - Drama (에스파 닝닝 - 드라마) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42889065</id>
-        <link href="https://tv.naver.com/v/42889065"/>
-        <updated>2023-11-15T13:21:02.848Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] aespa WINTER - Drama (에스파 윈터 - 드라마) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42888838</id>
-        <link href="https://tv.naver.com/v/42888838"/>
-        <updated>2023-11-15T13:21:02.849Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] aespa GISELLE - Drama (에스파 지젤 - 드라마) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42888835</id>
-        <link href="https://tv.naver.com/v/42888835"/>
-        <updated>2023-11-15T13:21:02.850Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] aespa KARINA - Drama (에스파 카리나 - 드라마) l Show Champion l EP.500 l 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42888297</id>
-        <link href="https://tv.naver.com/v/42888297"/>
-        <updated>2023-11-15T13:21:02.852Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 631회＜오 마이 스타 특집 4＞우승자 ⭐정훈희X라포엠⭐ | KBS 방송 (불후의 명곡)]]></title>
