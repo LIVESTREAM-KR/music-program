@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-17T07:15:48.945Z</updated>
+    <updated>2023-11-17T08:21:04.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231110 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa.zip 📂 Black Mamba부터 Drama까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/42982349</id>
+        <link href="https://tv.naver.com/v/42982349"/>
+        <updated>2023-11-17T08:20:27.078Z</updated>
+        <content type="html"><![CDATA[33:04]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] Stray Kids.zip 📂 District 9부터 락(樂)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/42866565</id>
         <link href="https://tv.naver.com/v/42866565"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/42689659"/>
         <updated>2023-11-11T12:27:46.688Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NiziU MIIHI – HEARTRIS(니쥬 미이히 - 하트리스) FanCam | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42689550</id>
-        <link href="https://tv.naver.com/v/42689550"/>
-        <updated>2023-11-11T12:27:46.689Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송 (인기가요)]]></title>

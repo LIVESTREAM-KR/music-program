@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-17T07:15:48.984Z</updated>
+    <updated>2023-11-17T08:21:04.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa.zip 📂 Black Mamba부터 Drama까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/42982349</id>
+        <link href="https://tv.naver.com/v/42982349"/>
+        <updated>2023-11-17T08:20:27.078Z</updated>
+        <content type="html"><![CDATA[33:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Stray Kids.zip 📂 District 9부터 락(樂)까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/42866565</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42689659"/>
         <updated>2023-11-11T12:27:46.688Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NiziU MIIHI – HEARTRIS(니쥬 미이히 - 하트리스) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689550</id>
-        <link href="https://tv.naver.com/v/42689550"/>
-        <updated>2023-11-11T12:27:46.689Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
