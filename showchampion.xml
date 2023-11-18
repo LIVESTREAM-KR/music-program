@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-18T11:13:02.012Z</updated>
+    <updated>2023-11-18T12:29:05.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/42893678"/>
         <updated>2023-11-17T02:28:48.638Z</updated>
         <content type="html"><![CDATA[05:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지젤 외모는 한계를 뛰어 넘어 every day🌙]]></title>
+        <id>https://tv.naver.com/v/42941862</id>
+        <link href="https://tv.naver.com/v/42941862"/>
+        <updated>2023-11-18T12:28:53.664Z</updated>
+        <content type="html"><![CDATA[00:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[멍뭉미 제대로 보여주는 윈터공듀님❄️]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42894218"/>
         <updated>2023-11-15T13:21:02.832Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE KIM JIWOONG (제로베이스원 김지웅) - MELTING POINT | Show Champion | EP.500 | 231115]]></title>
-        <id>https://tv.naver.com/v/42894215</id>
-        <link href="https://tv.naver.com/v/42894215"/>
-        <updated>2023-11-15T13:21:02.834Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
 </feed>
