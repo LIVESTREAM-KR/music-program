@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-18T12:29:05.073Z</updated>
+    <updated>2023-11-18T13:18:52.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/42893678"/>
         <updated>2023-11-17T02:28:48.638Z</updated>
         <content type="html"><![CDATA[05:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토미에 그 자체인 카리나의 drama 💙]]></title>
+        <id>https://tv.naver.com/v/42941972</id>
+        <link href="https://tv.naver.com/v/42941972"/>
+        <updated>2023-11-18T13:18:39.091Z</updated>
+        <content type="html"><![CDATA[00:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지젤 외모는 한계를 뛰어 넘어 every day🌙]]></title>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/42894502</id>
         <link href="https://tv.naver.com/v/42894502"/>
         <updated>2023-11-15T13:21:02.831Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE KIM GYUVIN (제로베이스원 김규빈) - MELTING POINT | Show Champion | EP.500 | 231115]]></title>
-        <id>https://tv.naver.com/v/42894218</id>
-        <link href="https://tv.naver.com/v/42894218"/>
-        <updated>2023-11-15T13:21:02.832Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>

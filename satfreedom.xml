@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-18T12:29:05.074Z</updated>
+    <updated>2023-11-18T13:18:52.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -146,6 +146,27 @@
         <content type="html"><![CDATA[00:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[가로직캠] 에이티즈 - Fever Medley | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43017057</id>
+        <link href="https://tv.naver.com/v/43017057"/>
+        <updated>2023-11-18T13:18:45.276Z</updated>
+        <content type="html"><![CDATA[06:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로직캠] 에이티즈 - 멋 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43016186</id>
+        <link href="https://tv.naver.com/v/43016186"/>
+        <updated>2023-11-18T13:18:45.278Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로직캠] 에이티즈 - Say My Name | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43015217</id>
+        <link href="https://tv.naver.com/v/43015217"/>
+        <updated>2023-11-18T13:18:45.279Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[가로직캠] 영탁 - 신사답게 | KBS 231118 방송]]></title>
         <id>https://tv.naver.com/v/43015216</id>
         <link href="https://tv.naver.com/v/43015216"/>
@@ -167,6 +188,20 @@
         <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[가로직캠] 에이티즈 - BOUNCY | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43014648</id>
+        <link href="https://tv.naver.com/v/43014648"/>
+        <updated>2023-11-18T13:18:45.284Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 박정현 - 꿈에 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43014611</id>
+        <link href="https://tv.naver.com/v/43014611"/>
+        <updated>2023-11-18T13:18:45.285Z</updated>
+        <content type="html"><![CDATA[05:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[가로직캠] 잔나비 - 주저하는 연인들을 위해 | KBS 231118 방송]]></title>
         <id>https://tv.naver.com/v/43014605</id>
         <link href="https://tv.naver.com/v/43014605"/>
@@ -174,45 +209,10 @@
         <content type="html"><![CDATA[05:23]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[세로직캠] 영탁 - 폼 미쳤다 | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43013860</id>
-        <link href="https://tv.naver.com/v/43013860"/>
-        <updated>2023-11-18T12:28:59.062Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 631회＜오 마이 스타 특집 4＞우승자 ⭐정훈희X라포엠⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/42690885</id>
-        <link href="https://tv.naver.com/v/42690885"/>
-        <updated>2023-11-11T12:28:15.831Z</updated>
-        <content type="html"><![CDATA[01:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※결과 확인※ 스테파니&김기태vs정훈희&라포엠 명곡판정단 마지막 선택, 결과는? | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42690500</id>
-        <link href="https://tv.naver.com/v/42690500"/>
-        <updated>2023-11-11T12:28:15.834Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완벽한 피날레🎇 관객, 객석도 모두가 행복했던 정훈희&라포엠의 무대 | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42690308</id>
-        <link href="https://tv.naver.com/v/42690308"/>
-        <updated>2023-11-11T12:28:15.834Z</updated>
-        <content type="html"><![CDATA[01:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정훈희&라포엠 - 미인 | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42690303</id>
-        <link href="https://tv.naver.com/v/42690303"/>
-        <updated>2023-11-11T12:28:15.835Z</updated>
-        <content type="html"><![CDATA[04:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피날레 무대의 주인공 정훈희&라포엠✨️ 모두를 놀라게 한 의외의 선곡?  | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42690299</id>
-        <link href="https://tv.naver.com/v/42690299"/>
-        <updated>2023-11-11T12:28:15.836Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
+        <title type="html"><![CDATA[[세로직캠] 박정현 - 우연히 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43014442</id>
+        <link href="https://tv.naver.com/v/43014442"/>
+        <updated>2023-11-18T13:18:45.288Z</updated>
+        <content type="html"><![CDATA[05:07]]></content>
     </entry>
 </feed>

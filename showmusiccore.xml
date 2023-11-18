@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-18T12:29:05.083Z</updated>
+    <updated>2023-11-18T13:18:52.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -97,6 +97,13 @@
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids HYUNJIN – LALALALA(스트레이 키즈 현진 - 락(樂)) FanCam | Show! MusicCore | MBC231118방송]]></title>
+        <id>https://tv.naver.com/v/43040203</id>
+        <link href="https://tv.naver.com/v/43040203"/>
+        <updated>2023-11-18T12:28:32.184Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ENHYPEN HEESEUNG - Still Monster(엔하이픈 희승 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송]]></title>
         <id>https://tv.naver.com/v/43040201</id>
         <link href="https://tv.naver.com/v/43040201"/>
@@ -116,13 +123,6 @@
         <link href="https://tv.naver.com/v/43040198"/>
         <updated>2023-11-18T12:28:32.183Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids HYUNJIN – LALALALA(스트레이 키즈 현진 - 락(樂)) FanCam | Show! MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43040203</id>
-        <link href="https://tv.naver.com/v/43040203"/>
-        <updated>2023-11-18T12:28:32.184Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ENHYPEN SUNGHOON - Still Monster(엔하이픈 성훈 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송]]></title>
@@ -160,18 +160,18 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] ENHYPEN JAKE - Sweet Venom(엔하이픈 제이크 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43039233</id>
-        <link href="https://tv.naver.com/v/43039233"/>
-        <updated>2023-11-18T11:12:25.046Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] Red Velvet – Chill Kill(레드벨벳 - 칠 킬) FanCam | Show! MusicCore | MBC231118방송]]></title>
         <id>https://tv.naver.com/v/43039234</id>
         <link href="https://tv.naver.com/v/43039234"/>
         <updated>2023-11-18T11:12:25.046Z</updated>
         <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ENHYPEN JAKE - Sweet Venom(엔하이픈 제이크 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송]]></title>
+        <id>https://tv.naver.com/v/43039233</id>
+        <link href="https://tv.naver.com/v/43039233"/>
+        <updated>2023-11-18T11:12:25.046Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Crush - Ego(크러쉬 – 미워(With 두유)) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231118방송]]></title>
