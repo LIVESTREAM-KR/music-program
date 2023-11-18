@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-18T14:14:09.827Z</updated>
+    <updated>2023-11-18T15:15:29.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -146,6 +146,13 @@
         <content type="html"><![CDATA[00:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[가로직캠] 패티김 - 그대 없이는 못 살아 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43017181</id>
+        <link href="https://tv.naver.com/v/43017181"/>
+        <updated>2023-11-18T15:15:22.510Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[가로직캠] 에이티즈 - Fever Medley | KBS 231118 방송]]></title>
         <id>https://tv.naver.com/v/43017057</id>
         <link href="https://tv.naver.com/v/43017057"/>
@@ -160,11 +167,25 @@
         <content type="html"><![CDATA[05:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[가로직캠] 패티김 - 사랑은 생명의 꽃 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43016396</id>
+        <link href="https://tv.naver.com/v/43016396"/>
+        <updated>2023-11-18T15:15:22.514Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[가로직캠] 에이티즈 - 멋 | KBS 231118 방송]]></title>
         <id>https://tv.naver.com/v/43016186</id>
         <link href="https://tv.naver.com/v/43016186"/>
         <updated>2023-11-18T13:18:45.278Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 패티김 - 사랑은 생명의 꽃 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43015537</id>
+        <link href="https://tv.naver.com/v/43015537"/>
+        <updated>2023-11-18T15:15:22.517Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[세로직캠] 패티김 - 가을을 남기고 간 사랑 | KBS 231118 방송]]></title>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/43015217"/>
         <updated>2023-11-18T13:18:45.279Z</updated>
         <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 영탁 - 신사답게 | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43015216</id>
-        <link href="https://tv.naver.com/v/43015216"/>
-        <updated>2023-11-18T12:28:59.057Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 김도형 - 빗속에서 | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43015186</id>
-        <link href="https://tv.naver.com/v/43015186"/>
-        <updated>2023-11-18T14:14:03.683Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 종호 - 빗속에서 | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43015019</id>
-        <link href="https://tv.naver.com/v/43015019"/>
-        <updated>2023-11-18T14:14:03.685Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
