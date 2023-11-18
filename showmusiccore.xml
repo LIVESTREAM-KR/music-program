@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-18T06:21:24.844Z</updated>
+    <updated>2023-11-18T07:15:00.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 - 가시 (ZEROBASEONE - CRUSH), MBC 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43032499</id>
+        <link href="https://tv.naver.com/v/43032499"/>
+        <updated>2023-11-18T07:14:24.622Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기욱 (원위) - 내 영혼에 낸 스크래치 (GIUK (ONEWE) - Scratch), MBC 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43032332</id>
+        <link href="https://tv.naver.com/v/43032332"/>
+        <updated>2023-11-18T07:14:24.623Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앰퍼샌드원 - 온 앤드 온 (AMPERS&ONE - On And On), MBC 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43032149</id>
+        <link href="https://tv.naver.com/v/43032149"/>
+        <updated>2023-11-18T07:14:24.624Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라잇썸 - 허니 오어 스파이스 (LIGHTSUM - Honey or Spice), MBC 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43031997</id>
+        <link href="https://tv.naver.com/v/43031997"/>
+        <updated>2023-11-18T07:14:24.626Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태진아- 당신과 함께 갈거예요 (Taejin-ah - You and I going together), MBC 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43031684</id>
+        <link href="https://tv.naver.com/v/43031684"/>
+        <updated>2023-11-18T07:14:24.628Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] tripleS EVOLution – Invincible(트리플에스 에볼루션 - 인빈시블) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/43001850</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/42762246"/>
         <updated>2023-11-13T08:21:03.085Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE Zhang Hao - MELTING POINT(제로베이스원 장하오 - 멜팅 포인트) FanCam|Show!MusicCore|MBC231111방]]></title>
-        <id>https://tv.naver.com/v/42762241</id>
-        <link href="https://tv.naver.com/v/42762241"/>
-        <updated>2023-11-13T08:21:03.087Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SUNG HAN BIN - MELTING POINT(제로베이스원 성한빈-멜팅 포인트)FanCam|Show!MusicCore|MBC231111방]]></title>
-        <id>https://tv.naver.com/v/42762238</id>
-        <link href="https://tv.naver.com/v/42762238"/>
-        <updated>2023-11-13T08:21:03.087Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NiziU RIKU – HEARTRIS(니쥬 리쿠 - 하트리스) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689977</id>
-        <link href="https://tv.naver.com/v/42689977"/>
-        <updated>2023-11-11T12:27:46.686Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KISS OF LIFE – Bad News(키스오브라이프 - 배드 뉴스) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689785</id>
-        <link href="https://tv.naver.com/v/42689785"/>
-        <updated>2023-11-11T12:27:46.687Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] WHIB – BANG!(휘브 - 뱅!) FanCam | Show! MusicCore | MBC231111방송]]></title>
-        <id>https://tv.naver.com/v/42689660</id>
-        <link href="https://tv.naver.com/v/42689660"/>
-        <updated>2023-11-11T12:27:46.688Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>
