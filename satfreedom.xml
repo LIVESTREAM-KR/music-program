@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-18T13:18:52.088Z</updated>
+    <updated>2023-11-18T14:14:09.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -153,11 +153,39 @@
         <content type="html"><![CDATA[06:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[가로직캠] 김태우 - 촛불 하나 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43016436</id>
+        <link href="https://tv.naver.com/v/43016436"/>
+        <updated>2023-11-18T14:14:03.675Z</updated>
+        <content type="html"><![CDATA[05:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[가로직캠] 에이티즈 - 멋 | KBS 231118 방송]]></title>
         <id>https://tv.naver.com/v/43016186</id>
         <link href="https://tv.naver.com/v/43016186"/>
         <updated>2023-11-18T13:18:45.278Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 패티김 - 가을을 남기고 간 사랑 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43015349</id>
+        <link href="https://tv.naver.com/v/43015349"/>
+        <updated>2023-11-18T14:14:03.677Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 김태우 - 사랑비 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43015221</id>
+        <link href="https://tv.naver.com/v/43015221"/>
+        <updated>2023-11-18T14:14:03.678Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 최정훈 - 빗속에서 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43015220</id>
+        <link href="https://tv.naver.com/v/43015220"/>
+        <updated>2023-11-18T14:14:03.679Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[가로직캠] 에이티즈 - Say My Name | KBS 231118 방송]]></title>
@@ -174,45 +202,17 @@
         <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[가로직캠] 잔나비 - 뜨거운 여름밤은 가고 남은 건 볼품없지만 | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43015012</id>
-        <link href="https://tv.naver.com/v/43015012"/>
-        <updated>2023-11-18T12:28:59.058Z</updated>
-        <content type="html"><![CDATA[05:56]]></content>
+        <title type="html"><![CDATA[[세로직캠] 김도형 - 빗속에서 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43015186</id>
+        <link href="https://tv.naver.com/v/43015186"/>
+        <updated>2023-11-18T14:14:03.683Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[가로직캠] 영탁 - 니가 왜 거기서 나와 | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43014827</id>
-        <link href="https://tv.naver.com/v/43014827"/>
-        <updated>2023-11-18T12:28:59.060Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 에이티즈 - BOUNCY | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43014648</id>
-        <link href="https://tv.naver.com/v/43014648"/>
-        <updated>2023-11-18T13:18:45.284Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 박정현 - 꿈에 | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43014611</id>
-        <link href="https://tv.naver.com/v/43014611"/>
-        <updated>2023-11-18T13:18:45.285Z</updated>
-        <content type="html"><![CDATA[05:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 잔나비 - 주저하는 연인들을 위해 | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43014605</id>
-        <link href="https://tv.naver.com/v/43014605"/>
-        <updated>2023-11-18T12:28:59.061Z</updated>
-        <content type="html"><![CDATA[05:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 박정현 - 우연히 | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43014442</id>
-        <link href="https://tv.naver.com/v/43014442"/>
-        <updated>2023-11-18T13:18:45.288Z</updated>
-        <content type="html"><![CDATA[05:07]]></content>
+        <title type="html"><![CDATA[[세로직캠] 종호 - 빗속에서 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43015019</id>
+        <link href="https://tv.naver.com/v/43015019"/>
+        <updated>2023-11-18T14:14:03.685Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
