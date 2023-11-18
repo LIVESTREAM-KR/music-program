@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-18T08:19:38.980Z</updated>
+    <updated>2023-11-18T09:15:02.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231117 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,41 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Stray Kids – LALALALA(스트레이 키즈 - 락(樂)) 1위 직캠 FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43035729</id>
+        <link href="https://tv.naver.com/v/43035729"/>
+        <updated>2023-11-18T09:14:24.363Z</updated>
+        <content type="html"><![CDATA[08:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 11월 3주차 1위 스트레이 키즈 - 락(樂) (Stray Kids - LALALALA), MBC 231118 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43035592</id>
+        <link href="https://tv.naver.com/v/43035592"/>
+        <updated>2023-11-18T09:14:24.366Z</updated>
+        <content type="html"><![CDATA[06:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 태민 - 길티 (TAEMIN - Guilty), MBC 231111 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43034690</id>
+        <link href="https://tv.naver.com/v/43034690"/>
+        <updated>2023-11-18T09:14:24.366Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 라이즈 - 토크 색시 (RIIZE - Talk Saxy), MBC 231104 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43034540</id>
+        <link href="https://tv.naver.com/v/43034540"/>
+        <updated>2023-11-18T09:14:24.367Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 선미 - 스트레인저 (SUNMI - STRANGER), MBC 231028 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43034539</id>
+        <link href="https://tv.naver.com/v/43034539"/>
+        <updated>2023-11-18T09:14:24.368Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[11월 3주차 1위 스트레이 키즈 - 락(樂) (Stray Kids - LALALALA), MBC 231118 방송, MBC 231118 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43034279</id>
         <link href="https://tv.naver.com/v/43034279"/>
@@ -388,41 +423,6 @@
         <link href="https://tv.naver.com/v/42825892"/>
         <updated>2023-11-14T09:16:04.281Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING - Drama(에스파 닝닝 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42769240</id>
-        <link href="https://tv.naver.com/v/42769240"/>
-        <updated>2023-11-13T10:17:51.571Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa WINTER - Drama(에스파 윈터 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42769235</id>
-        <link href="https://tv.naver.com/v/42769235"/>
-        <updated>2023-11-13T10:17:51.571Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa GISELLE - Drama(에스파 지젤 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42769229</id>
-        <link href="https://tv.naver.com/v/42769229"/>
-        <updated>2023-11-13T10:17:51.572Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa KARINA - Drama(에스파 카리나 - 드라마) Close-up Cam | Show! MusicCore | MBC231111방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42769226</id>
-        <link href="https://tv.naver.com/v/42769226"/>
-        <updated>2023-11-13T10:17:51.574Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE HAN YU JIN - CRUSH(제로베이스원 한유진 - 가시) Close-up Cam | Show! MusicCore | MBC231111방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/42767623</id>
-        <link href="https://tv.naver.com/v/42767623"/>
-        <updated>2023-11-13T09:16:55.641Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송 (인기가요)]]></title>
@@ -1062,6 +1062,13 @@
         <content type="html"><![CDATA[05:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[닝닝으로 시작되는 Drama ❤️ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42941714</id>
+        <link href="https://tv.naver.com/v/42941714"/>
+        <updated>2023-11-18T09:14:49.423Z</updated>
+        <content type="html"><![CDATA[00:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] OMEGA X - JUNK FOOD (오메가엑스 - 정크 푸드) l Show Champion l EP.500 l 231116 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/42940546</id>
         <link href="https://tv.naver.com/v/42940546"/>
@@ -1256,13 +1263,6 @@
         <link href="https://tv.naver.com/v/42891178"/>
         <updated>2023-11-15T13:21:02.835Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX - Pretty U (원곡 : SEVENTEEN) (이펙스 - 예쁘다 (원곡 : 세븐틴)) | Show Champion | EP.500 | 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42892151</id>
-        <link href="https://tv.naver.com/v/42892151"/>
-        <updated>2023-11-15T13:21:02.836Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불후의 명곡 in US😎 카운트다운 티저 | KBS 방송 (불후의 명곡)]]></title>
