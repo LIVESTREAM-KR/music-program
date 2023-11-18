@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-18T09:15:02.112Z</updated>
+    <updated>2023-11-18T10:16:38.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신동엽, 김준현, 이찬원 3MC 미국진출! 불후의명곡 in US 시작합니다💟 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43037471</id>
+        <link href="https://tv.naver.com/v/43037471"/>
+        <updated>2023-11-18T10:16:32.793Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불후의 명곡 in US😎 카운트다운 티저 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/43033031</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42347092"/>
         <updated>2023-11-04T16:19:38.037Z</updated>
         <content type="html"><![CDATA[01:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] ⭐️오 마이 스타 특집4 2부⭐️ 놀라운 반전의 무대들✨️ 본방사수💟 | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/42340688</id>
-        <link href="https://tv.naver.com/v/42340688"/>
-        <updated>2023-11-04T12:28:07.798Z</updated>
-        <content type="html"><![CDATA[00:29]]></content>
     </entry>
 </feed>
