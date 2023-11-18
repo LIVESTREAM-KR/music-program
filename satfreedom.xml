@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-18T10:16:38.911Z</updated>
+    <updated>2023-11-18T11:13:01.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영탁 - 니가 왜 거기서 나와 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43039765</id>
+        <link href="https://tv.naver.com/v/43039765"/>
+        <updated>2023-11-18T11:12:55.535Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영탁 - 폼 미쳤다 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43039733</id>
+        <link href="https://tv.naver.com/v/43039733"/>
+        <updated>2023-11-18T11:12:55.535Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박정현 - 꿈에 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43039581</id>
+        <link href="https://tv.naver.com/v/43039581"/>
+        <updated>2023-11-18T11:12:55.535Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박정현 - 우연히 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43039578</id>
+        <link href="https://tv.naver.com/v/43039578"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔나비&에이티즈 종호 - 빗속에서 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43039261</id>
+        <link href="https://tv.naver.com/v/43039261"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - 멋 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43039109</id>
+        <link href="https://tv.naver.com/v/43039109"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - Say My Name | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43039107</id>
+        <link href="https://tv.naver.com/v/43039107"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - BOUNCY | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43038653</id>
+        <link href="https://tv.naver.com/v/43038653"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔나비 - 주저하는 연인들을 위해 | KBS 231118 방송]]></title>
+        <id>https://tv.naver.com/v/43038247</id>
+        <link href="https://tv.naver.com/v/43038247"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신동엽, 김준현, 이찬원 3MC 미국진출! 불후의명곡 in US 시작합니다💟 | KBS 231118 방송]]></title>
         <id>https://tv.naver.com/v/43037471</id>
@@ -151,68 +214,5 @@
         <link href="https://tv.naver.com/v/42687984"/>
         <updated>2023-11-11T11:12:44.452Z</updated>
         <content type="html"><![CDATA[01:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김광규의 하드 로커 변신🤘 감미로운 사랑의 파킹맨♬  | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42687545</id>
-        <link href="https://tv.naver.com/v/42687545"/>
-        <updated>2023-11-11T10:15:53.270Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기태와 라포엠의 악연? 불타오르는 댄스 대결🔥🕺 | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42687352</id>
-        <link href="https://tv.naver.com/v/42687352"/>
-        <updated>2023-11-11T10:15:53.270Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오 마이 스타 특집 1부 우승자 구창모&안신애🥳 천재 뮤지션✨️ 입덕완료! | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42687092</id>
-        <link href="https://tv.naver.com/v/42687092"/>
-        <updated>2023-11-11T10:15:53.270Z</updated>
-        <content type="html"><![CDATA[01:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 스테파니x김기태 – Fake Love | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42642348</id>
-        <link href="https://tv.naver.com/v/42642348"/>
-        <updated>2023-11-11T12:28:15.870Z</updated>
-        <content type="html"><![CDATA[05:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 양지은x전유진 – 아침의 나라에서 | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42641297</id>
-        <link href="https://tv.naver.com/v/42641297"/>
-        <updated>2023-11-11T12:28:15.871Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 알리x마독스 – 스물다섯 스물하나 | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42639800</id>
-        <link href="https://tv.naver.com/v/42639800"/>
-        <updated>2023-11-11T12:28:15.873Z</updated>
-        <content type="html"><![CDATA[04:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 김광규x육중완밴드 - 막걸리 한 잔 | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42639799</id>
-        <link href="https://tv.naver.com/v/42639799"/>
-        <updated>2023-11-11T12:28:15.874Z</updated>
-        <content type="html"><![CDATA[06:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 정훈희x라포엠 – 미인 | KBS 231111 방송]]></title>
-        <id>https://tv.naver.com/v/42638927</id>
-        <link href="https://tv.naver.com/v/42638927"/>
-        <updated>2023-11-11T12:28:15.876Z</updated>
-        <content type="html"><![CDATA[05:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 630회 ＜오 마이 스타 특집 4 편＞ 우승자 ⭐구창모X안신애⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/42347092</id>
-        <link href="https://tv.naver.com/v/42347092"/>
-        <updated>2023-11-04T16:19:38.037Z</updated>
-        <content type="html"><![CDATA[01:13]]></content>
     </entry>
 </feed>

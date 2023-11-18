@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-18T10:16:39.084Z</updated>
+    <updated>2023-11-18T11:13:01.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231117 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,76 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] VIVIZ - Untie(비비지 – 언타이) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43039398</id>
+        <link href="https://tv.naver.com/v/43039398"/>
+        <updated>2023-11-18T11:12:25.045Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Red Velvet – Chill Kill(레드벨벳 - 칠 킬) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43039234</id>
+        <link href="https://tv.naver.com/v/43039234"/>
+        <updated>2023-11-18T11:12:25.046Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ENHYPEN JAKE - Sweet Venom(엔하이픈 제이크 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43039233</id>
+        <link href="https://tv.naver.com/v/43039233"/>
+        <updated>2023-11-18T11:12:25.046Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Crush - Ego(크러쉬 – 미워(With 두유)) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43039104</id>
+        <link href="https://tv.naver.com/v/43039104"/>
+        <updated>2023-11-18T11:12:25.046Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ENHYPEN SUNOO - Sweet Venom(엔하이픈 선우 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43039097</id>
+        <link href="https://tv.naver.com/v/43039097"/>
+        <updated>2023-11-18T11:12:25.047Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ENHYPEN SUNGHOON - Sweet Venom(엔하이픈 성훈 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43039095</id>
+        <link href="https://tv.naver.com/v/43039095"/>
+        <updated>2023-11-18T11:12:25.049Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ENHYPEN JAY - Sweet Venom(엔하이픈 제이 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43039094</id>
+        <link href="https://tv.naver.com/v/43039094"/>
+        <updated>2023-11-18T11:12:25.054Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ENHYPEN NI-KI - Sweet Venom(엔하이픈 니키 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43038958</id>
+        <link href="https://tv.naver.com/v/43038958"/>
+        <updated>2023-11-18T11:12:25.055Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ENHYPEN HEESEUNG - Sweet Venom(엔하이픈 희승 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43038955</id>
+        <link href="https://tv.naver.com/v/43038955"/>
+        <updated>2023-11-18T11:12:25.056Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ENHYPEN JUNGWON - Sweet Venom(엔하이픈 정원 - 스위트 베놈) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43038954</id>
+        <link href="https://tv.naver.com/v/43038954"/>
+        <updated>2023-11-18T11:12:25.058Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] aespa - Drama(에스파 – 드라마) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43037790</id>
         <link href="https://tv.naver.com/v/43037790"/>
@@ -353,76 +423,6 @@
         <link href="https://tv.naver.com/v/43033314"/>
         <updated>2023-11-18T08:19:02.956Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크러쉬 - 흠칫 (Crush - Hmm-cheat), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43033157</id>
-        <link href="https://tv.naver.com/v/43033157"/>
-        <updated>2023-11-18T08:19:02.957Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크러쉬 - 미워 (Crush - Ego), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43033030</id>
-        <link href="https://tv.naver.com/v/43033030"/>
-        <updated>2023-11-18T08:19:02.959Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위클리 - 브룸 브룸 (Weeekly - VROOM VROOM), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43032906</id>
-        <link href="https://tv.naver.com/v/43032906"/>
-        <updated>2023-11-18T08:19:02.961Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지 보이즈 - 포텐셜 (FANTASY BOYS - Potential), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43032775</id>
-        <link href="https://tv.naver.com/v/43032775"/>
-        <updated>2023-11-18T08:19:02.963Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지 보이즈 - 겟 잇 온 (FANTASY BOYS - Get it on), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43032675</id>
-        <link href="https://tv.naver.com/v/43032675"/>
-        <updated>2023-11-18T08:19:02.964Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로베이스원 - 가시 (ZEROBASEONE - CRUSH), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43032499</id>
-        <link href="https://tv.naver.com/v/43032499"/>
-        <updated>2023-11-18T07:14:24.622Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기욱 (원위) - 내 영혼에 낸 스크래치 (GIUK (ONEWE) - Scratch), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43032332</id>
-        <link href="https://tv.naver.com/v/43032332"/>
-        <updated>2023-11-18T07:14:24.623Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앰퍼샌드원 - 온 앤드 온 (AMPERS&ONE - On And On), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43032149</id>
-        <link href="https://tv.naver.com/v/43032149"/>
-        <updated>2023-11-18T07:14:24.624Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라잇썸 - 허니 오어 스파이스 (LIGHTSUM - Honey or Spice), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43031997</id>
-        <link href="https://tv.naver.com/v/43031997"/>
-        <updated>2023-11-18T07:14:24.626Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태진아- 당신과 함께 갈거예요 (Taejin-ah - You and I going together), MBC 231118 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43031684</id>
-        <link href="https://tv.naver.com/v/43031684"/>
-        <updated>2023-11-18T07:14:24.628Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송 (인기가요)]]></title>
@@ -1062,6 +1062,13 @@
         <content type="html"><![CDATA[05:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[멍뭉미 제대로 보여주는 윈터공듀님❄️ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/42941771</id>
+        <link href="https://tv.naver.com/v/42941771"/>
+        <updated>2023-11-18T11:12:49.678Z</updated>
+        <content type="html"><![CDATA[00:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[닝닝으로 시작되는 Drama ❤️ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/42941714</id>
         <link href="https://tv.naver.com/v/42941714"/>
@@ -1258,11 +1265,67 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] WHIB - BANG! (휘브 - 뱅!) | Show Champion | EP.500 | 231115 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/42891178</id>
-        <link href="https://tv.naver.com/v/42891178"/>
-        <updated>2023-11-15T13:21:02.835Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
+        <title type="html"><![CDATA[영탁 - 니가 왜 거기서 나와 | KBS 231118 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43039765</id>
+        <link href="https://tv.naver.com/v/43039765"/>
+        <updated>2023-11-18T11:12:55.535Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영탁 - 폼 미쳤다 | KBS 231118 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43039733</id>
+        <link href="https://tv.naver.com/v/43039733"/>
+        <updated>2023-11-18T11:12:55.535Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박정현 - 꿈에 | KBS 231118 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43039581</id>
+        <link href="https://tv.naver.com/v/43039581"/>
+        <updated>2023-11-18T11:12:55.535Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박정현 - 우연히 | KBS 231118 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43039578</id>
+        <link href="https://tv.naver.com/v/43039578"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔나비&에이티즈 종호 - 빗속에서 | KBS 231118 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43039261</id>
+        <link href="https://tv.naver.com/v/43039261"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - 멋 | KBS 231118 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43039109</id>
+        <link href="https://tv.naver.com/v/43039109"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - Say My Name | KBS 231118 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43039107</id>
+        <link href="https://tv.naver.com/v/43039107"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - BOUNCY | KBS 231118 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43038653</id>
+        <link href="https://tv.naver.com/v/43038653"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔나비 - 주저하는 연인들을 위해 | KBS 231118 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43038247</id>
+        <link href="https://tv.naver.com/v/43038247"/>
+        <updated>2023-11-18T11:12:55.545Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신동엽, 김준현, 이찬원 3MC 미국진출! 불후의명곡 in US 시작합니다💟 | KBS 231118 방송 (불후의 명곡)]]></title>
@@ -1410,69 +1473,6 @@
         <link href="https://tv.naver.com/v/42687984"/>
         <updated>2023-11-11T11:12:44.452Z</updated>
         <content type="html"><![CDATA[01:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김광규의 하드 로커 변신🤘 감미로운 사랑의 파킹맨♬  | KBS 231111 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/42687545</id>
-        <link href="https://tv.naver.com/v/42687545"/>
-        <updated>2023-11-11T10:15:53.270Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김기태와 라포엠의 악연? 불타오르는 댄스 대결🔥🕺 | KBS 231111 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/42687352</id>
-        <link href="https://tv.naver.com/v/42687352"/>
-        <updated>2023-11-11T10:15:53.270Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오 마이 스타 특집 1부 우승자 구창모&안신애🥳 천재 뮤지션✨️ 입덕완료! | KBS 231111 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/42687092</id>
-        <link href="https://tv.naver.com/v/42687092"/>
-        <updated>2023-11-11T10:15:53.270Z</updated>
-        <content type="html"><![CDATA[01:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 스테파니x김기태 – Fake Love | KBS 231111 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/42642348</id>
-        <link href="https://tv.naver.com/v/42642348"/>
-        <updated>2023-11-11T12:28:15.870Z</updated>
-        <content type="html"><![CDATA[05:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 양지은x전유진 – 아침의 나라에서 | KBS 231111 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/42641297</id>
-        <link href="https://tv.naver.com/v/42641297"/>
-        <updated>2023-11-11T12:28:15.871Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 알리x마독스 – 스물다섯 스물하나 | KBS 231111 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/42639800</id>
-        <link href="https://tv.naver.com/v/42639800"/>
-        <updated>2023-11-11T12:28:15.873Z</updated>
-        <content type="html"><![CDATA[04:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 김광규x육중완밴드 - 막걸리 한 잔 | KBS 231111 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/42639799</id>
-        <link href="https://tv.naver.com/v/42639799"/>
-        <updated>2023-11-11T12:28:15.874Z</updated>
-        <content type="html"><![CDATA[06:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로직캠] 정훈희x라포엠 – 미인 | KBS 231111 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/42638927</id>
-        <link href="https://tv.naver.com/v/42638927"/>
-        <updated>2023-11-11T12:28:15.876Z</updated>
-        <content type="html"><![CDATA[05:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 630회 ＜오 마이 스타 특집 4 편＞ 우승자 ⭐구창모X안신애⭐ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/42347092</id>
-        <link href="https://tv.naver.com/v/42347092"/>
-        <updated>2023-11-04T16:19:38.037Z</updated>
-        <content type="html"><![CDATA[01:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 남편 강재준도 완벽하게 속인 원조 맑눈광✨코미디언 이은형의 다채로운 무대 모음!🎉, MBC 231112 방송 (복면가왕)]]></title>

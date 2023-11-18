@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-18T10:16:38.949Z</updated>
+    <updated>2023-11-18T11:13:02.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/42893678"/>
         <updated>2023-11-17T02:28:48.638Z</updated>
         <content type="html"><![CDATA[05:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멍뭉미 제대로 보여주는 윈터공듀님❄️]]></title>
+        <id>https://tv.naver.com/v/42941771</id>
+        <link href="https://tv.naver.com/v/42941771"/>
+        <updated>2023-11-18T11:12:49.678Z</updated>
+        <content type="html"><![CDATA[00:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[닝닝으로 시작되는 Drama ❤️]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42894215"/>
         <updated>2023-11-15T13:21:02.834Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] WHIB - BANG! (휘브 - 뱅!) | Show Champion | EP.500 | 231115]]></title>
-        <id>https://tv.naver.com/v/42891178</id>
-        <link href="https://tv.naver.com/v/42891178"/>
-        <updated>2023-11-15T13:21:02.835Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>
