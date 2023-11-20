@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-20T07:16:17.108Z</updated>
+    <updated>2023-11-20T08:22:37.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231117 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet JOY - Chill Kill(레드벨벳 조이 - 칠 킬) Close-up Cam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43110079</id>
+        <link href="https://tv.naver.com/v/43110079"/>
+        <updated>2023-11-20T08:21:59.714Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet SEULGI - Chill Kill(레드벨벳 슬기 - 칠 킬) Close-up Cam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43110077</id>
+        <link href="https://tv.naver.com/v/43110077"/>
+        <updated>2023-11-20T08:21:59.715Z</updated>
+        <content type="html"><![CDATA[04:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet IRENE - Chill Kill(레드벨벳 아이린 - 칠 킬) Close-up Cam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43110071</id>
+        <link href="https://tv.naver.com/v/43110071"/>
+        <updated>2023-11-20T08:21:59.716Z</updated>
+        <content type="html"><![CDATA[04:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 11월 셋째 주 음악중심 MC 컷 모음!, MBC 231118 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43101748</id>
         <link href="https://tv.naver.com/v/43101748"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/43040320"/>
         <updated>2023-11-18T12:28:32.176Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids FELIX – LALALALA(스트레이 키즈 필릭스 - 락(樂)) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43040318</id>
-        <link href="https://tv.naver.com/v/43040318"/>
-        <updated>2023-11-18T12:28:32.178Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Stray Kids HYUNJIN – LALALALA(스트레이 키즈 현진 - 락(樂)) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43040203</id>
-        <link href="https://tv.naver.com/v/43040203"/>
-        <updated>2023-11-18T12:28:32.184Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ENHYPEN HEESEUNG - Still Monster(엔하이픈 희승 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43040201</id>
-        <link href="https://tv.naver.com/v/43040201"/>
-        <updated>2023-11-18T12:28:32.179Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231119 방송 (인기가요)]]></title>
