@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-20T05:16:25.979Z</updated>
+    <updated>2023-11-20T06:22:54.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231117 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 11월 셋째 주 음악중심 MC 컷 모음!, MBC 231118 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43101748</id>
+        <link href="https://tv.naver.com/v/43101748"/>
+        <updated>2023-11-20T06:22:21.618Z</updated>
+        <content type="html"><![CDATA[15:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN – Potential(판타지 보이즈 이한빈 - 포텐셜) FanCam | Show! MusicCore |MBC231118방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43099484</id>
+        <link href="https://tv.naver.com/v/43099484"/>
+        <updated>2023-11-20T06:22:21.618Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – Potential(판타지 보이즈 히카리 - 포텐셜) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43098618</id>
+        <link href="https://tv.naver.com/v/43098618"/>
+        <updated>2023-11-20T06:22:21.621Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] DoYou – Ego(두유 - 미워) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43097229</id>
         <link href="https://tv.naver.com/v/43097229"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/43040201"/>
         <updated>2023-11-18T12:28:32.179Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ENHYPEN JAKE - Still Monster(엔하이픈 제이크 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43040199</id>
-        <link href="https://tv.naver.com/v/43040199"/>
-        <updated>2023-11-18T12:28:32.181Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ENHYPEN SUNOO - Still Monster(엔하이픈 선우 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43040198</id>
-        <link href="https://tv.naver.com/v/43040198"/>
-        <updated>2023-11-18T12:28:32.183Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ENHYPEN SUNGHOON - Still Monster(엔하이픈 성훈 - 스틸 몬스터) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43040172</id>
-        <link href="https://tv.naver.com/v/43040172"/>
-        <updated>2023-11-18T12:28:32.185Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231119 방송 (인기가요)]]></title>
