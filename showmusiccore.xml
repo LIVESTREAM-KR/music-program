@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-21T08:21:35.660Z</updated>
+    <updated>2023-11-21T09:17:33.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Stray Kids FELIX - LALALALA(스트레이 키즈 필릭스 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231118방]]></title>
+        <id>https://tv.naver.com/v/43174996</id>
+        <link href="https://tv.naver.com/v/43174996"/>
+        <updated>2023-11-21T09:16:59.418Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Stray Kids HAN - LALALALA(스트레이 키즈 한 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
+        <id>https://tv.naver.com/v/43174995</id>
+        <link href="https://tv.naver.com/v/43174995"/>
+        <updated>2023-11-21T09:16:59.418Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] aespa NINGNING - Drama(에스파 닝닝 - 드라마) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
         <id>https://tv.naver.com/v/43171296</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/43091971"/>
         <updated>2023-11-20T03:17:45.870Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] AMPERS&ONE KAMDEN - On And On(앰퍼샌드원 나캠든 - 온 앤 온) FanCam | Show! MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43091545</id>
-        <link href="https://tv.naver.com/v/43091545"/>
-        <updated>2023-11-20T03:17:45.870Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] aespa GISELLE – Drama(에스파 지젤 - 드라마) FanCam | Show! MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43090778</id>
-        <link href="https://tv.naver.com/v/43090778"/>
-        <updated>2023-11-20T02:29:30.683Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
     </entry>
 </feed>

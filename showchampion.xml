@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-21T08:21:35.661Z</updated>
+    <updated>2023-11-21T09:17:33.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내 모든 공간에, 오직 제베원만이 가득 차 🫶]]></title>
+        <id>https://tv.naver.com/v/43171540</id>
+        <link href="https://tv.naver.com/v/43171540"/>
+        <updated>2023-11-21T09:17:21.466Z</updated>
+        <content type="html"><![CDATA[00:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 3주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (woo!ah! 나나, Billlie 츠키) l Show Champion l EP.500 l 231115]]></title>
         <id>https://tv.naver.com/v/42893678</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/42894787</id>
         <link href="https://tv.naver.com/v/42894787"/>
         <updated>2023-11-15T13:21:02.829Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE RICKY (제로베이스원 리키) - MELTING POINT | Show Champion | EP.500 | 231115]]></title>
-        <id>https://tv.naver.com/v/42894502</id>
-        <link href="https://tv.naver.com/v/42894502"/>
-        <updated>2023-11-15T13:21:02.831Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
