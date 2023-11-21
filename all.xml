@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-21T09:17:33.038Z</updated>
+    <updated>2023-11-21T10:24:53.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[락 (樂) - Stray Kids | KBS 231117 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] Stray Kids I.N - LALALALA(스트레이 키즈 아이엔 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43175624</id>
+        <link href="https://tv.naver.com/v/43175624"/>
+        <updated>2023-11-21T10:24:17.548Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Stray Kids LEE KNOW - LALALALA(스트레이 키즈 리노 - 락(樂)) Close-up Cam | Show! MusicCore|MBC231118방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43175623</id>
+        <link href="https://tv.naver.com/v/43175623"/>
+        <updated>2023-11-21T10:24:17.548Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] Stray Kids FELIX - LALALALA(스트레이 키즈 필릭스 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231118방 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43174996</id>
         <link href="https://tv.naver.com/v/43174996"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/43092228"/>
         <updated>2023-11-20T03:17:45.865Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN – Get it On(판타지 보이즈 홍성민 - 겟 잇 온) FanCam |MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43092227</id>
-        <link href="https://tv.naver.com/v/43092227"/>
-        <updated>2023-11-20T03:17:45.870Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] AMPERS&ONE BRIAN - On And On(앰퍼샌드원 브라이언 - 온 앤 온) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43091971</id>
-        <link href="https://tv.naver.com/v/43091971"/>
-        <updated>2023-11-20T03:17:45.870Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231119 방송 (인기가요)]]></title>
