@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-23T08:21:06.149Z</updated>
+    <updated>2023-11-23T09:16:55.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hocus pocus하는 빌리의 무대! 🪄]]></title>
+        <id>https://tv.naver.com/v/43263937</id>
+        <link href="https://tv.naver.com/v/43263937"/>
+        <updated>2023-11-23T09:16:44.226Z</updated>
+        <content type="html"><![CDATA[00:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제베원 볼 준비 됐어 right now! 😍]]></title>
         <id>https://tv.naver.com/v/43171585</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/42894790</id>
         <link href="https://tv.naver.com/v/42894790"/>
         <updated>2023-11-15T13:21:02.822Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE SEOK MATTHEW (제로베이스원 석매튜) - MELTING POINT | Show Champion | EP.500 | 231115]]></title>
-        <id>https://tv.naver.com/v/42894788</id>
-        <link href="https://tv.naver.com/v/42894788"/>
-        <updated>2023-11-15T13:21:02.828Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
