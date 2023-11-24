@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-24T08:20:56.630Z</updated>
+    <updated>2023-11-24T09:16:55.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Touch, touch 손짓에 Hush, hush 숨결에, rush, rush, 내맘이 녹아내려 ☃️]]></title>
+        <id>https://tv.naver.com/v/43264067</id>
+        <link href="https://tv.naver.com/v/43264067"/>
+        <updated>2023-11-24T09:16:43.899Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔딩 볼 빌리브들 모여랏!😉]]></title>
         <id>https://tv.naver.com/v/43263987</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42895151"/>
         <updated>2023-11-15T13:21:02.822Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE - MELTING POINT (제로베이스원 - 멜팅 포인트) | Show Champion | EP.500 | 231115]]></title>
-        <id>https://tv.naver.com/v/42895080</id>
-        <link href="https://tv.naver.com/v/42895080"/>
-        <updated>2023-11-15T13:21:02.819Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
