@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-24T06:21:59.092Z</updated>
+    <updated>2023-11-24T07:15:31.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] Stray Kids – LALALALA(스트레이 키즈 - 락(樂)) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/43289770</id>
+        <link href="https://tv.naver.com/v/43289770"/>
+        <updated>2023-11-24T07:14:54.029Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼! 음악중심] 뱀자님들 안무 다 찢어서 왔다구요...👿❣️ #ENHYPEN #StillMonster #Shorts]]></title>
+        <id>https://tv.naver.com/v/43207120</id>
+        <link href="https://tv.naver.com/v/43207120"/>
+        <updated>2023-11-24T07:14:54.036Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Stray Kids I.N - LALALALA(스트레이 키즈 아이엔 - 락(樂)) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
         <id>https://tv.naver.com/v/43175624</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/43096983"/>
         <updated>2023-11-20T05:15:48.164Z</updated>
         <content type="html"><![CDATA[04:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Crush – Hmm-cheat(크러쉬 - 흠칫) FanCam | Show! MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43096443</id>
-        <link href="https://tv.naver.com/v/43096443"/>
-        <updated>2023-11-20T05:15:48.164Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARU – Get it On(판타지 보이즈 히카루 - 겟 잇 온) FanCam |MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43092228</id>
-        <link href="https://tv.naver.com/v/43092228"/>
-        <updated>2023-11-20T03:17:45.865Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
