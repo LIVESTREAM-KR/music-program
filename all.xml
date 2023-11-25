@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-25T08:19:23.804Z</updated>
+    <updated>2023-11-25T09:15:13.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chill Kill - 레드벨벳 | KBS 231124 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 스트레이 키즈 - 락(樂) (Stray Kids - LALALALA), MBC 231118 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43389221</id>
+        <link href="https://tv.naver.com/v/43389221"/>
+        <updated>2023-11-25T09:14:35.318Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 에스파 - 드라마 (aespa - Drama), MBC 231118 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43389060</id>
+        <link href="https://tv.naver.com/v/43389060"/>
+        <updated>2023-11-25T09:14:35.322Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11월 4주차 1위 레드벨벳 - 칠 킬 (Red Velvet - Chill Kill), MBC 231125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43389058</id>
+        <link href="https://tv.naver.com/v/43389058"/>
+        <updated>2023-11-25T09:14:35.322Z</updated>
+        <content type="html"><![CDATA[01:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[박진영 (with 김완선) - 체인지드 맨 (J.Y.Park (with Kim Wan Sun) - Changed Man), MBC 231125 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43388711</id>
         <link href="https://tv.naver.com/v/43388711"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/43168193"/>
         <updated>2023-11-21T08:20:58.821Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE KIM JI WOONG - CRUSH(제로베이스원 김지웅 - 가시) Close-up Cam | MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43167882</id>
-        <link href="https://tv.naver.com/v/43167882"/>
-        <updated>2023-11-21T08:20:58.824Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE Zhang Hao - CRUSH(제로베이스원 장하오 - 가시) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43167879</id>
-        <link href="https://tv.naver.com/v/43167879"/>
-        <updated>2023-11-21T08:20:58.824Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SUNG HAN BIN - CRUSH(제로베이스원 성한빈 - 가시) FanCam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43167876</id>
-        <link href="https://tv.naver.com/v/43167876"/>
-        <updated>2023-11-21T08:20:58.824Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231119 방송 (인기가요)]]></title>
