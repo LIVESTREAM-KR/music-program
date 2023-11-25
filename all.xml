@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-25T09:15:13.405Z</updated>
+    <updated>2023-11-25T10:16:09.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chill Kill - 레드벨벳 | KBS 231124 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[미방분] 11월 4주차 1위 레드벨벳 - 칠 킬 (Red Velvet - Chill Kill), MBC 231125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43391614</id>
+        <link href="https://tv.naver.com/v/43391614"/>
+        <updated>2023-11-25T10:15:31.718Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Red Velvet – Chill Kill(레드벨벳 - 칠 킬) 1위 직캠 FanCam | Show! MusicCore | MBC231125방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43391592</id>
+        <link href="https://tv.naver.com/v/43391592"/>
+        <updated>2023-11-25T10:15:31.718Z</updated>
+        <content type="html"><![CDATA[06:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜X교차》 스트레이 키즈 - 락(樂) (Stray Kids - LALALALA), MBC 231118 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43389221</id>
         <link href="https://tv.naver.com/v/43389221"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/43171289"/>
         <updated>2023-11-21T08:20:58.818Z</updated>
         <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa GISELLE - Drama(에스파 지젤 - 드라마) Close-up Cam | Show! MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43171218</id>
-        <link href="https://tv.naver.com/v/43171218"/>
-        <updated>2023-11-21T08:20:58.821Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE PARK GUN WOOK - CRUSH(제로베이스원 박건욱 - 가시) Close-up Cam | MusicCore | MBC231118방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43168193</id>
-        <link href="https://tv.naver.com/v/43168193"/>
-        <updated>2023-11-21T08:20:58.821Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231119 방송 (인기가요)]]></title>
@@ -1265,6 +1265,27 @@
         <content type="html"><![CDATA[03:10]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[에이티즈 - WONDERLAND | KBS 231125 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43392314</id>
+        <link href="https://tv.naver.com/v/43392314"/>
+        <updated>2023-11-25T10:16:02.769Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - HALAZIA | KBS 231125 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43392157</id>
+        <link href="https://tv.naver.com/v/43392157"/>
+        <updated>2023-11-25T10:16:02.770Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불후의명곡 in US 2부🎇 기대하셔도 좋습니다💟 | KBS 231125 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43392021</id>
+        <link href="https://tv.naver.com/v/43392021"/>
+        <updated>2023-11-25T10:16:02.770Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[세로직캠] 잔나비 - 뜨거운 여름밤은 가고 남은 건 볼품없지만 | KBS 231118 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/43231822</id>
         <link href="https://tv.naver.com/v/43231822"/>
@@ -1452,27 +1473,6 @@
         <link href="https://tv.naver.com/v/43180872"/>
         <updated>2023-11-21T11:14:51.789Z</updated>
         <content type="html"><![CDATA[06:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 민기 - Fever Medley | KBS 231118 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/43180637</id>
-        <link href="https://tv.naver.com/v/43180637"/>
-        <updated>2023-11-21T11:14:51.791Z</updated>
-        <content type="html"><![CDATA[06:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 홍중 - BOUNCY | KBS 231118 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/43179536</id>
-        <link href="https://tv.naver.com/v/43179536"/>
-        <updated>2023-11-21T11:14:51.792Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 종호 - BOUNCY | KBS 231118 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/43179519</id>
-        <link href="https://tv.naver.com/v/43179519"/>
-        <updated>2023-11-21T11:14:51.793Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 남편 강재준도 완벽하게 속인 원조 맑눈광✨코미디언 이은형의 다채로운 무대 모음!🎉, MBC 231112 방송 (복면가왕)]]></title>

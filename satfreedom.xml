@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-25T09:15:13.395Z</updated>
+    <updated>2023-11-25T10:16:09.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - WONDERLAND | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43392314</id>
+        <link href="https://tv.naver.com/v/43392314"/>
+        <updated>2023-11-25T10:16:02.769Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - HALAZIA | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43392157</id>
+        <link href="https://tv.naver.com/v/43392157"/>
+        <updated>2023-11-25T10:16:02.770Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불후의명곡 in US 2부🎇 기대하셔도 좋습니다💟 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43392021</id>
+        <link href="https://tv.naver.com/v/43392021"/>
+        <updated>2023-11-25T10:16:02.770Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로직캠] 잔나비 - 뜨거운 여름밤은 가고 남은 건 볼품없지만 | KBS 231118 방송]]></title>
         <id>https://tv.naver.com/v/43231822</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/43180872"/>
         <updated>2023-11-21T11:14:51.789Z</updated>
         <content type="html"><![CDATA[06:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 민기 - Fever Medley | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43180637</id>
-        <link href="https://tv.naver.com/v/43180637"/>
-        <updated>2023-11-21T11:14:51.791Z</updated>
-        <content type="html"><![CDATA[06:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 홍중 - BOUNCY | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43179536</id>
-        <link href="https://tv.naver.com/v/43179536"/>
-        <updated>2023-11-21T11:14:51.792Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로직캠] 종호 - BOUNCY | KBS 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43179519</id>
-        <link href="https://tv.naver.com/v/43179519"/>
-        <updated>2023-11-21T11:14:51.793Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-25T09:15:13.393Z</updated>
+    <updated>2023-11-25T10:16:09.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 11월 4주차 1위 레드벨벳 - 칠 킬 (Red Velvet - Chill Kill), MBC 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43391614</id>
+        <link href="https://tv.naver.com/v/43391614"/>
+        <updated>2023-11-25T10:15:31.718Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Red Velvet – Chill Kill(레드벨벳 - 칠 킬) 1위 직캠 FanCam | Show! MusicCore | MBC231125방송]]></title>
+        <id>https://tv.naver.com/v/43391592</id>
+        <link href="https://tv.naver.com/v/43391592"/>
+        <updated>2023-11-25T10:15:31.718Z</updated>
+        <content type="html"><![CDATA[06:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 스트레이 키즈 - 락(樂) (Stray Kids - LALALALA), MBC 231118 방송]]></title>
         <id>https://tv.naver.com/v/43389221</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/43171289"/>
         <updated>2023-11-21T08:20:58.818Z</updated>
         <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa GISELLE - Drama(에스파 지젤 - 드라마) Close-up Cam | Show! MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43171218</id>
-        <link href="https://tv.naver.com/v/43171218"/>
-        <updated>2023-11-21T08:20:58.821Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE PARK GUN WOOK - CRUSH(제로베이스원 박건욱 - 가시) Close-up Cam | MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43168193</id>
-        <link href="https://tv.naver.com/v/43168193"/>
-        <updated>2023-11-21T08:20:58.821Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
