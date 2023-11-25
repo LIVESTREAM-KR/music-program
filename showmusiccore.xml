@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-25T06:20:26.279Z</updated>
+    <updated>2023-11-25T07:14:34.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠씨엔디 - 오드벤처 (MCND - ODD-VENTURE), MBC 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43386444</id>
+        <link href="https://tv.naver.com/v/43386444"/>
+        <updated>2023-11-25T07:14:01.269Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앰퍼샌드원 - 온 앤드 온 (AMPERS&ONE - On And On), MBC 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43386084</id>
+        <link href="https://tv.naver.com/v/43386084"/>
+        <updated>2023-11-25T07:14:01.269Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스트샤인- 더블 다운 (EASTSHINE - Double Down), MBC 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43385899</id>
+        <link href="https://tv.naver.com/v/43385899"/>
+        <updated>2023-11-25T07:14:01.269Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] RedVelvet.zip 📂 Happiness(행복)부터 Chill Kill까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/43324654</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/43101748"/>
         <updated>2023-11-20T06:22:21.618Z</updated>
         <content type="html"><![CDATA[15:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN – Potential(판타지 보이즈 이한빈 - 포텐셜) FanCam | Show! MusicCore |MBC231118방]]></title>
-        <id>https://tv.naver.com/v/43099484</id>
-        <link href="https://tv.naver.com/v/43099484"/>
-        <updated>2023-11-20T06:22:21.618Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – Potential(판타지 보이즈 히카리 - 포텐셜) FanCam | Show! MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43098618</id>
-        <link href="https://tv.naver.com/v/43098618"/>
-        <updated>2023-11-20T06:22:21.621Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DoYou – Ego(두유 - 미워) FanCam | Show! MusicCore | MBC231118방송]]></title>
-        <id>https://tv.naver.com/v/43097229</id>
-        <link href="https://tv.naver.com/v/43097229"/>
-        <updated>2023-11-20T05:15:48.158Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
