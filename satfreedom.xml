@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-25T14:13:49.957Z</updated>
+    <updated>2023-11-25T15:15:34.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 홍중 - HALAZIA | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43402825</id>
+        <link href="https://tv.naver.com/v/43402825"/>
+        <updated>2023-11-25T15:15:28.366Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 종호 - HALAZIA | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43402313</id>
+        <link href="https://tv.naver.com/v/43402313"/>
+        <updated>2023-11-25T15:15:28.367Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 윤호 - HALAZIA | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43401708</id>
+        <link href="https://tv.naver.com/v/43401708"/>
+        <updated>2023-11-25T15:15:28.371Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 우영 - HALAZIA | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43401308</id>
+        <link href="https://tv.naver.com/v/43401308"/>
+        <updated>2023-11-25T15:15:28.372Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 여상 - HALAZIA | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43400926</id>
+        <link href="https://tv.naver.com/v/43400926"/>
+        <updated>2023-11-25T15:15:28.374Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로 직캠] 성화 - HALAZIA | KBS 231125 방송]]></title>
         <id>https://tv.naver.com/v/43400606</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/43394444"/>
         <updated>2023-11-25T12:28:35.122Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁 - 막걸리 한잔 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43394267</id>
-        <link href="https://tv.naver.com/v/43394267"/>
-        <updated>2023-11-25T12:28:35.125Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 - Guerrilla | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43394143</id>
-        <link href="https://tv.naver.com/v/43394143"/>
-        <updated>2023-11-25T11:12:58.351Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 원곡만큼이나 뜨거운 사랑을 받은 레전드 리메이크 특집!  | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/43394113</id>
-        <link href="https://tv.naver.com/v/43394113"/>
-        <updated>2023-11-25T11:12:58.357Z</updated>
-        <content type="html"><![CDATA[00:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원 - 트위스트 고고 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43394115</id>
-        <link href="https://tv.naver.com/v/43394115"/>
-        <updated>2023-11-25T11:12:58.352Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원 - 수은등 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43394114</id>
-        <link href="https://tv.naver.com/v/43394114"/>
-        <updated>2023-11-25T11:12:58.352Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
