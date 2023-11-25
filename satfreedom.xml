@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-25T17:14:31.187Z</updated>
+    <updated>2023-11-25T18:19:58.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 홍중 - 야간비행 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43406554</id>
+        <link href="https://tv.naver.com/v/43406554"/>
+        <updated>2023-11-25T18:19:51.954Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 종호 - 야간비행 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43406443</id>
+        <link href="https://tv.naver.com/v/43406443"/>
+        <updated>2023-11-25T18:19:51.954Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 윤호 - 야간비행 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43406296</id>
+        <link href="https://tv.naver.com/v/43406296"/>
+        <updated>2023-11-25T18:19:51.954Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 우영 - 야간비행 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43406157</id>
+        <link href="https://tv.naver.com/v/43406157"/>
+        <updated>2023-11-25T18:19:51.954Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 여상 - 야간비행 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43406086</id>
+        <link href="https://tv.naver.com/v/43406086"/>
+        <updated>2023-11-25T18:19:51.954Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 성화 - 야간비행 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43405927</id>
+        <link href="https://tv.naver.com/v/43405927"/>
+        <updated>2023-11-25T18:19:51.955Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로 직캠] 산 - 야간비행 | KBS 231125 방송]]></title>
         <id>https://tv.naver.com/v/43405718</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/43398456"/>
         <updated>2023-11-25T13:17:59.581Z</updated>
         <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 이찬원 - 진또배기 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43398219</id>
-        <link href="https://tv.naver.com/v/43398219"/>
-        <updated>2023-11-25T13:17:59.583Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠]  잔나비 - 꿈과 책과 힘과 벽 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43398034</id>
-        <link href="https://tv.naver.com/v/43398034"/>
-        <updated>2023-11-25T13:17:59.584Z</updated>
-        <content type="html"><![CDATA[05:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 박정현 - 푸르른 날 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43397792</id>
-        <link href="https://tv.naver.com/v/43397792"/>
-        <updated>2023-11-25T13:17:59.586Z</updated>
-        <content type="html"><![CDATA[05:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 잔나비 - 컴백홈 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43397631</id>
-        <link href="https://tv.naver.com/v/43397631"/>
-        <updated>2023-11-25T13:17:59.586Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 최정훈 - 컴백홈 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43396704</id>
-        <link href="https://tv.naver.com/v/43396704"/>
-        <updated>2023-11-25T13:17:59.587Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 최정훈 - 꿈과 책과 힘과 벽 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43395900</id>
-        <link href="https://tv.naver.com/v/43395900"/>
-        <updated>2023-11-25T12:28:35.103Z</updated>
-        <content type="html"><![CDATA[05:42]]></content>
     </entry>
 </feed>
