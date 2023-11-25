@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-25T19:12:51.976Z</updated>
+    <updated>2023-11-25T20:16:37.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 홍중 - WONDERLAND | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407230</id>
+        <link href="https://tv.naver.com/v/43407230"/>
+        <updated>2023-11-25T20:16:31.099Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 종호 - WONDERLAND | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407188</id>
+        <link href="https://tv.naver.com/v/43407188"/>
+        <updated>2023-11-25T20:16:31.099Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 윤호 - WONDERLAND | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407137</id>
+        <link href="https://tv.naver.com/v/43407137"/>
+        <updated>2023-11-25T20:16:31.099Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 우영 - WONDERLAND | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407077</id>
+        <link href="https://tv.naver.com/v/43407077"/>
+        <updated>2023-11-25T20:16:31.100Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로 직캠] 여상 - WONDERLAND | KBS 231125 방송]]></title>
         <id>https://tv.naver.com/v/43406928</id>
@@ -185,34 +213,6 @@
         <id>https://tv.naver.com/v/43402313</id>
         <link href="https://tv.naver.com/v/43402313"/>
         <updated>2023-11-25T15:15:28.367Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 윤호 - HALAZIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43401708</id>
-        <link href="https://tv.naver.com/v/43401708"/>
-        <updated>2023-11-25T15:15:28.371Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 우영 - HALAZIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43401308</id>
-        <link href="https://tv.naver.com/v/43401308"/>
-        <updated>2023-11-25T15:15:28.372Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 여상 - HALAZIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43400926</id>
-        <link href="https://tv.naver.com/v/43400926"/>
-        <updated>2023-11-25T15:15:28.374Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 성화 - HALAZIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43400606</id>
-        <link href="https://tv.naver.com/v/43400606"/>
-        <updated>2023-11-25T14:13:43.370Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
