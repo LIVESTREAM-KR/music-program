@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-25T21:14:18.545Z</updated>
+    <updated>2023-11-25T22:14:48.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[가로 직캠] 싸이 - That That | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407614</id>
+        <link href="https://tv.naver.com/v/43407614"/>
+        <updated>2023-11-25T22:14:42.697Z</updated>
+        <content type="html"><![CDATA[00:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 싸이 - That That | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407613</id>
+        <link href="https://tv.naver.com/v/43407613"/>
+        <updated>2023-11-25T22:14:42.697Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로 직캠] 싸이 - 젠틀맨 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407593</id>
+        <link href="https://tv.naver.com/v/43407593"/>
+        <updated>2023-11-25T22:14:42.698Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로 직캠] 에이티즈 -  Guerrilla | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407578</id>
+        <link href="https://tv.naver.com/v/43407578"/>
+        <updated>2023-11-25T22:14:42.698Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 싸이 - 젠틀맨 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407547</id>
+        <link href="https://tv.naver.com/v/43407547"/>
+        <updated>2023-11-25T22:14:42.698Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 홍중 -  Guerrilla | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43407503</id>
+        <link href="https://tv.naver.com/v/43407503"/>
+        <updated>2023-11-25T22:14:42.698Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로 직캠] 종호 -  Guerrilla | KBS 231125 방송]]></title>
         <id>https://tv.naver.com/v/43407470</id>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/43405718"/>
         <updated>2023-11-25T17:14:24.495Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 에이티즈 - UTOPIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43405717</id>
-        <link href="https://tv.naver.com/v/43405717"/>
-        <updated>2023-11-25T17:14:24.497Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 민기 - 야간비행 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43405608</id>
-        <link href="https://tv.naver.com/v/43405608"/>
-        <updated>2023-11-25T17:14:24.497Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 홍중 - UTOPIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43405184</id>
-        <link href="https://tv.naver.com/v/43405184"/>
-        <updated>2023-11-25T17:14:24.497Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 종호 - UTOPIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43405088</id>
-        <link href="https://tv.naver.com/v/43405088"/>
-        <updated>2023-11-25T17:14:24.497Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 윤호 - UTOPIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43404816</id>
-        <link href="https://tv.naver.com/v/43404816"/>
-        <updated>2023-11-25T17:14:24.497Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 우영 - UTOPIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43404739</id>
-        <link href="https://tv.naver.com/v/43404739"/>
-        <updated>2023-11-25T17:14:24.508Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
     </entry>
 </feed>
