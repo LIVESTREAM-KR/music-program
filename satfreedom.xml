@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-11-25T13:18:05.847Z</updated>
+    <updated>2023-11-25T14:13:49.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 성화 - HALAZIA | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43400606</id>
+        <link href="https://tv.naver.com/v/43400606"/>
+        <updated>2023-11-25T14:13:43.370Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 산 - HALAZIA | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43400229</id>
+        <link href="https://tv.naver.com/v/43400229"/>
+        <updated>2023-11-25T14:13:43.371Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 패티김 - 초우+이별 | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43399791</id>
+        <link href="https://tv.naver.com/v/43399791"/>
+        <updated>2023-11-25T14:13:43.371Z</updated>
+        <content type="html"><![CDATA[06:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 민기 - HALAZIA | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/43399607</id>
+        <link href="https://tv.naver.com/v/43399607"/>
+        <updated>2023-11-25T14:13:43.375Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로 직캠] 김태우 - Friday Night | KBS 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43399566</id>
+        <link href="https://tv.naver.com/v/43399566"/>
+        <updated>2023-11-25T14:13:43.376Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세로 직캠] 김태우 - 하고싶은 말 | KBS 231125 방송]]></title>
         <id>https://tv.naver.com/v/43398456</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/43394114"/>
         <updated>2023-11-25T11:12:58.352Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 - 컴백홈 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43393876</id>
-        <link href="https://tv.naver.com/v/43393876"/>
-        <updated>2023-11-25T11:12:58.357Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔나비 - 꿈과 책과 힘과 벽 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43392816</id>
-        <link href="https://tv.naver.com/v/43392816"/>
-        <updated>2023-11-25T11:12:58.357Z</updated>
-        <content type="html"><![CDATA[05:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태우 - Friday Night | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43392579</id>
-        <link href="https://tv.naver.com/v/43392579"/>
-        <updated>2023-11-25T11:12:58.357Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 - WONDERLAND | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43392314</id>
-        <link href="https://tv.naver.com/v/43392314"/>
-        <updated>2023-11-25T10:16:02.769Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 - HALAZIA | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43392157</id>
-        <link href="https://tv.naver.com/v/43392157"/>
-        <updated>2023-11-25T10:16:02.770Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
