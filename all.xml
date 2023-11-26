@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-26T08:19:54.192Z</updated>
+    <updated>2023-11-26T09:15:13.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chill Kill - 레드벨벳 | KBS 231124 방송 (뮤직뱅크)]]></title>
@@ -1286,13 +1286,6 @@
         <content type="html"><![CDATA[04:04]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[가로 직캠] 싸이 - That That | KBS 231125 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/43407614</id>
-        <link href="https://tv.naver.com/v/43407614"/>
-        <updated>2023-11-25T22:14:42.697Z</updated>
-        <content type="html"><![CDATA[00:06]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[세로 직캠] 싸이 - That That | KBS 231125 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/43407613</id>
         <link href="https://tv.naver.com/v/43407613"/>
@@ -1472,6 +1465,13 @@
         <id>https://tv.naver.com/v/43406157</id>
         <link href="https://tv.naver.com/v/43406157"/>
         <updated>2023-11-25T18:19:51.954Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로 직캠] 여상 - 야간비행 | KBS 231125 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43406086</id>
+        <link href="https://tv.naver.com/v/43406086"/>
+        <updated>2023-11-26T09:15:07.373Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
