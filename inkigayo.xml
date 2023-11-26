@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-11-26T09:15:13.901Z</updated>
+    <updated>2023-11-26T10:16:30.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231126 방송]]></title>
+        <id>https://tv.naver.com/v/43418564</id>
+        <link href="https://tv.naver.com/v/43418564"/>
+        <updated>2023-11-26T10:16:02.567Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진영 - Changed Man | SBS 231126 방송]]></title>
         <id>https://tv.naver.com/v/43418561</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/43062735"/>
         <updated>2023-11-19T07:14:39.900Z</updated>
         <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[&TEAM - Dropkick(Korean ver.) | SBS 231119 방송]]></title>
-        <id>https://tv.naver.com/v/43062556</id>
-        <link href="https://tv.naver.com/v/43062556"/>
-        <updated>2023-11-19T07:14:39.900Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
