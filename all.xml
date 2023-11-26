@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-26T13:18:45.830Z</updated>
+    <updated>2023-11-26T14:13:56.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chill Kill - 레드벨벳 | KBS 231124 방송 (뮤직뱅크)]]></title>
@@ -1524,18 +1524,18 @@
         <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지인 오마이걸 효정이 주는 힌트!⭐ 소멸 직전의 작은 얼굴을 가진 '모르는 개 산책'?!, MBC 231126 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/43422508</id>
-        <link href="https://tv.naver.com/v/43422508"/>
-        <updated>2023-11-26T10:16:30.119Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['모르는 개 산책' 2라운드 무대 - 다시 만날 수 있을까, MBC 231126 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/43422503</id>
         <link href="https://tv.naver.com/v/43422503"/>
         <updated>2023-11-26T10:16:30.121Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지인 오마이걸 효정이 주는 힌트!⭐ 소멸 직전의 작은 얼굴을 가진 '모르는 개 산책'?!, MBC 231126 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/43422508</id>
+        <link href="https://tv.naver.com/v/43422508"/>
+        <updated>2023-11-26T10:16:30.119Z</updated>
+        <content type="html"><![CDATA[02:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['베스트셀러' 2라운드 무대 - Respect, MBC 231126 방송 (복면가왕)]]></title>
