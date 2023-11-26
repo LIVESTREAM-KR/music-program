@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-26T07:14:53.834Z</updated>
+    <updated>2023-11-26T08:19:54.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chill Kill - 레드벨벳 | KBS 231124 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,69 @@
         <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[박진영 - Changed Man | SBS 231126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/43418561</id>
+        <link href="https://tv.naver.com/v/43418561"/>
+        <updated>2023-11-26T08:19:22.730Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더보이즈(THE BOYZ) - WATCH IT | SBS 231126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/43418394</id>
+        <link href="https://tv.naver.com/v/43418394"/>
+        <updated>2023-11-26T08:19:22.731Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIXX - Amnesia | SBS 231126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/43418223</id>
+        <link href="https://tv.naver.com/v/43418223"/>
+        <updated>2023-11-26T08:19:22.737Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN - Sweet Venom | SBS 231126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/43418092</id>
+        <link href="https://tv.naver.com/v/43418092"/>
+        <updated>2023-11-26T08:19:22.742Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[려욱(RYEOWOOK) - 아무것도 하지 않아도 돼(It's okay) | SBS 231126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/43418090</id>
+        <link href="https://tv.naver.com/v/43418090"/>
+        <updated>2023-11-26T08:19:22.742Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림캐쳐 - OOTD | SBS 231126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/43417963</id>
+        <link href="https://tv.naver.com/v/43417963"/>
+        <updated>2023-11-26T08:19:22.746Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - MELTING POINT | SBS 231126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/43417828</id>
+        <link href="https://tv.naver.com/v/43417828"/>
+        <updated>2023-11-26T08:19:22.747Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCND - ODD-VENTURE | SBS 231126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/43417825</id>
+        <link href="https://tv.naver.com/v/43417825"/>
+        <updated>2023-11-26T08:19:22.748Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FANTASY BOYS - Potential | SBS 231126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/43417643</id>
+        <link href="https://tv.naver.com/v/43417643"/>
+        <updated>2023-11-26T08:19:22.750Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KISS OF LIFE - Nobody Knows | SBS 231126 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/43417312</id>
         <link href="https://tv.naver.com/v/43417312"/>
@@ -570,69 +633,6 @@
         <link href="https://tv.naver.com/v/43062556"/>
         <updated>2023-11-19T07:14:39.900Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태진아 - 당신과 함께 갈거예요 | SBS 231119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/43062553</id>
-        <link href="https://tv.naver.com/v/43062553"/>
-        <updated>2023-11-19T07:14:39.904Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[희진(ARTMS) - Algorithm | SBS 231119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/43062165</id>
-        <link href="https://tv.naver.com/v/43062165"/>
-        <updated>2023-11-19T07:14:39.905Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMPERS&ONE - On And On | SBS 231119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/43062021</id>
-        <link href="https://tv.naver.com/v/43062021"/>
-        <updated>2023-11-19T07:14:39.907Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weeekly(위클리) - VROOM VROOM | SBS 231119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/43062020</id>
-        <link href="https://tv.naver.com/v/43062020"/>
-        <updated>2023-11-19T07:14:39.908Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUST B(저스트비) - MEDUSA | SBS 231119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/43061730</id>
-        <link href="https://tv.naver.com/v/43061730"/>
-        <updated>2023-11-19T07:14:39.910Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray Kids - 락(樂) | SBS 231112 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/42714498</id>
-        <link href="https://tv.naver.com/v/42714498"/>
-        <updated>2023-11-12T08:18:53.120Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태민(TAEMIN) - Guilty | SBS 231112 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/42714494</id>
-        <link href="https://tv.naver.com/v/42714494"/>
-        <updated>2023-11-12T08:18:53.121Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aespa - Drama | SBS 231112 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/42714315</id>
-        <link href="https://tv.naver.com/v/42714315"/>
-        <updated>2023-11-12T08:18:53.121Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ(비비지) - MANIAC | SBS 231112 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/42714174</id>
-        <link href="https://tv.naver.com/v/42714174"/>
-        <updated>2023-11-12T08:18:53.121Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[1위] 'COMEBACK' 정국 - Standing Next to You | Mnet 231116 방송 (엠카운트다운)]]></title>
