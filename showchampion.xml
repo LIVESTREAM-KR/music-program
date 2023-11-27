@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-27T08:22:23.619Z</updated>
+    <updated>2023-11-27T09:17:58.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이펙스가 보고싶어 도와줘 SOS!]]></title>
+        <id>https://tv.naver.com/v/43467563</id>
+        <link href="https://tv.naver.com/v/43467563"/>
+        <updated>2023-11-27T09:17:45.858Z</updated>
+        <content type="html"><![CDATA[00:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김똥개들 장난치는 모습에.. melting되는 중 ❣️]]></title>
         <id>https://tv.naver.com/v/43264116</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/42895357</id>
         <link href="https://tv.naver.com/v/42895357"/>
         <updated>2023-11-15T13:21:02.820Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) - MELTING POINT | Show Champion | EP.500 | 231115]]></title>
-        <id>https://tv.naver.com/v/42895355</id>
-        <link href="https://tv.naver.com/v/42895355"/>
-        <updated>2023-11-15T13:21:02.821Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
