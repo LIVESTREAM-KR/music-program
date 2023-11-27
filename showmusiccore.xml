@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-11-27T04:20:44.763Z</updated>
+    <updated>2023-11-27T05:16:51.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 11월 넷째 주 음악중심 MC 컷 모음!, MBC 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43451764</id>
+        <link href="https://tv.naver.com/v/43451764"/>
+        <updated>2023-11-27T05:16:14.476Z</updated>
+        <content type="html"><![CDATA[17:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] &TEAM - Dropkick (Korean ver.)(앤팀 – 드롭킥) FanCam | Show! MusicCore | MBC231125방송]]></title>
         <id>https://tv.naver.com/v/43396702</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/43393103"/>
         <updated>2023-11-25T11:12:26.673Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] &TEAM K – War Cry (Korean ver.)(앤팀 케이 - 워 크라이) FanCam | Show! MusicCore | MBC231125방송]]></title>
-        <id>https://tv.naver.com/v/43393101</id>
-        <link href="https://tv.naver.com/v/43393101"/>
-        <updated>2023-11-25T11:12:26.674Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
 </feed>
