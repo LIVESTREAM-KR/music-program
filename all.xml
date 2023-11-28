@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-28T07:15:50.069Z</updated>
+    <updated>2023-11-28T08:21:29.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chill Kill - 레드벨벳 | KBS 231124 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet YERI - Chill Kill(레드벨벳 예리 - 칠 킬) Close-up Cam | Show! MusicCore | MBC231125방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43525184</id>
+        <link href="https://tv.naver.com/v/43525184"/>
+        <updated>2023-11-28T08:20:53.140Z</updated>
+        <content type="html"><![CDATA[04:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet WENDY - Chill Kill(레드벨벳 웬디 - 칠 킬) Close-up Cam | Show! MusicCore | MBC231125방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43524837</id>
+        <link href="https://tv.naver.com/v/43524837"/>
+        <updated>2023-11-28T08:20:53.140Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet IRENE - Chill Kill(레드벨벳 아이린 - 칠 킬) Close-up Cam | Show! MusicCore | MBC231125방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43524834</id>
+        <link href="https://tv.naver.com/v/43524834"/>
+        <updated>2023-11-28T08:20:53.140Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] VIXX LEO - Amnesia(빅스 레오 - 암네시아) Close-up Cam | Show! MusicCore | MBC231125방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43522937</id>
+        <link href="https://tv.naver.com/v/43522937"/>
+        <updated>2023-11-28T08:20:53.141Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON - WATCH IT(더보이즈 주연 - 와치 잇) Close-up Cam | Show! MusicCore | MBC231125방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43473015</id>
         <link href="https://tv.naver.com/v/43473015"/>
@@ -395,34 +423,6 @@
         <link href="https://tv.naver.com/v/43396153"/>
         <updated>2023-11-25T12:28:03.796Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MCND - ODD-VENTURE(엠씨엔디 – 오드벤처) FanCam | Show! MusicCore | MBC231125방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43396112</id>
-        <link href="https://tv.naver.com/v/43396112"/>
-        <updated>2023-11-25T12:28:03.796Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Dreamcatcher - OOTD(드림캐쳐 – 오오티디) FanCam | Show! MusicCore | MBC231125방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43395901</id>
-        <link href="https://tv.naver.com/v/43395901"/>
-        <updated>2023-11-25T12:28:03.796Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS OH HYEONTAE – Potential(판타지 보이즈 오현태 - 포텐셜) FanCam | Show! MusicCore|MBC231125방 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43395898</id>
-        <link href="https://tv.naver.com/v/43395898"/>
-        <updated>2023-11-25T12:28:03.797Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Get it On(판타지 보이즈 – 겟 잇 온) FanCam | Show! MusicCore | MBC231125방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43395896</id>
-        <link href="https://tv.naver.com/v/43395896"/>
-        <updated>2023-11-25T12:28:03.798Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Chill Kill | SBS 231126 방송 (인기가요)]]></title>
