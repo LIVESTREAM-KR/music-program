@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-28T04:20:31.329Z</updated>
+    <updated>2023-11-28T05:16:21.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chill Kill - 레드벨벳 | KBS 231124 방송 (뮤직뱅크)]]></title>
@@ -1475,6 +1475,13 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#복면가왕] 《다시 만날 수 있을까》 부른 온앤오프 메인보컬 효진ㅣ#효진 MBC231126방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/43500246</id>
+        <link href="https://tv.naver.com/v/43500246"/>
+        <updated>2023-11-28T05:16:20.888Z</updated>
+        <content type="html"><![CDATA[10:46]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[미방분 공개] 온앤오프 효진 3R 리허설 무대 영상 - Love poem, MBC 231126 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/43493031</id>
         <link href="https://tv.naver.com/v/43493031"/>
@@ -1676,12 +1683,5 @@
         <link href="https://tv.naver.com/v/42651899"/>
         <updated>2023-11-10T10:17:31.034Z</updated>
         <content type="html"><![CDATA[11:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#복면가왕] 《보통의 하루》부터 《사랑은 눈꽃처럼》까지!! 레전드 발라드 노래 부르는 뮤지컬 배우&리베란테 리더 김지훈의 무대!ㅣ#김지훈 MBC231105방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/42443042</id>
-        <link href="https://tv.naver.com/v/42443042"/>
-        <updated>2023-11-08T07:15:08.740Z</updated>
-        <content type="html"><![CDATA[19:56]]></content>
     </entry>
 </feed>
