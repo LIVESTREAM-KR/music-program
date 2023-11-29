@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-29T08:21:35.857Z</updated>
+    <updated>2023-11-29T09:17:27.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chill Kill - 레드벨벳 | KBS 231124 방송 (뮤직뱅크)]]></title>
@@ -1265,6 +1265,41 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[가로직캠] 이찬원 - 진또배기 | KBS 231125 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43557177</id>
+        <link href="https://tv.naver.com/v/43557177"/>
+        <updated>2023-11-29T09:17:21.487Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[가로직캠] 이찬원 - 수은등 | KBS 231125 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43557046</id>
+        <link href="https://tv.naver.com/v/43557046"/>
+        <updated>2023-11-29T09:17:21.487Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 패티김 - 그대 내 친구여 | KBS 231125 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43556674</id>
+        <link href="https://tv.naver.com/v/43556674"/>
+        <updated>2023-11-29T09:17:21.490Z</updated>
+        <content type="html"><![CDATA[05:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 영탁 - 찐이야 | KBS 231125 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43556653</id>
+        <link href="https://tv.naver.com/v/43556653"/>
+        <updated>2023-11-29T09:17:21.490Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[세로직캠] 이찬원 - 트위스트 고고 | KBS 231125 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/43556569</id>
+        <link href="https://tv.naver.com/v/43556569"/>
+        <updated>2023-11-29T09:17:21.490Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[가로 직캠] 싸이 - 강남스타일 | KBS 231125 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/43407804</id>
         <link href="https://tv.naver.com/v/43407804"/>
@@ -1438,41 +1473,6 @@
         <link href="https://tv.naver.com/v/43406770"/>
         <updated>2023-11-25T19:12:44.766Z</updated>
         <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 에이티즈 - 야간비행 | KBS 231125 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/43406717</id>
-        <link href="https://tv.naver.com/v/43406717"/>
-        <updated>2023-11-25T19:12:44.766Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 홍중 - 야간비행 | KBS 231125 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/43406554</id>
-        <link href="https://tv.naver.com/v/43406554"/>
-        <updated>2023-11-25T18:19:51.954Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 종호 - 야간비행 | KBS 231125 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/43406443</id>
-        <link href="https://tv.naver.com/v/43406443"/>
-        <updated>2023-11-25T18:19:51.954Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 윤호 - 야간비행 | KBS 231125 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/43406296</id>
-        <link href="https://tv.naver.com/v/43406296"/>
-        <updated>2023-11-25T18:19:51.954Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 우영 - 야간비행 | KBS 231125 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/43406157</id>
-        <link href="https://tv.naver.com/v/43406157"/>
-        <updated>2023-11-25T18:19:51.954Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 《다시 만날 수 있을까》 부른 온앤오프 메인보컬 효진ㅣ#효진 MBC231126방송 (복면가왕)]]></title>
