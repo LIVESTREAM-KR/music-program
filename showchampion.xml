@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-11-30T07:15:43.142Z</updated>
+    <updated>2023-11-30T08:21:45.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 3주년!! 지구멸망까지 평엔❤️]]></title>
+        <id>https://tv.naver.com/v/43639230</id>
+        <link href="https://tv.naver.com/v/43639230"/>
+        <updated>2023-11-30T08:21:33.113Z</updated>
+        <content type="html"><![CDATA[00:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쥴리의 '그 파트' 희열 미침🤍]]></title>
         <id>https://tv.naver.com/v/43528364</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/42894498</id>
         <link href="https://tv.naver.com/v/42894498"/>
         <updated>2023-11-15T13:21:02.814Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Youngjae - Do It (영재 - 두잇) l Show Champion l EP.500 l 231115]]></title>
-        <id>https://tv.naver.com/v/42894494</id>
-        <link href="https://tv.naver.com/v/42894494"/>
-        <updated>2023-11-15T13:21:02.815Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
