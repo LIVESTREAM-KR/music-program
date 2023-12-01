@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-01T11:14:42.802Z</updated>
+    <updated>2023-12-01T12:32:09.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[One Last Time - 골든걸스 | KBS 231201 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[쇼챔도 아이브의 2주년을 축하해💗 'I' LO'VE' (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/43676048</id>
+        <link href="https://tv.naver.com/v/43676048"/>
+        <updated>2023-12-01T12:31:56.759Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔하이픈 3주년!! 지구멸망까지 평엔❤️ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/43639230</id>
         <link href="https://tv.naver.com/v/43639230"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/43171585"/>
         <updated>2023-11-21T12:33:19.616Z</updated>
         <content type="html"><![CDATA[00:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 모든 공간에, 오직 제베원만이 가득 차 🫶 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/43171540</id>
-        <link href="https://tv.naver.com/v/43171540"/>
-        <updated>2023-11-21T09:17:21.466Z</updated>
-        <content type="html"><![CDATA[00:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[가로직캠] 이찬원 - 진또배기 | KBS 231125 방송 (불후의 명곡)]]></title>
