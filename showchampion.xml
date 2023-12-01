@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-12-01T08:21:50.937Z</updated>
+    <updated>2023-12-01T09:17:16.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/43639230"/>
         <updated>2023-11-30T08:21:33.113Z</updated>
         <content type="html"><![CDATA[00:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 다 가기 전에 짱세라핌 또 보기!😈]]></title>
+        <id>https://tv.naver.com/v/43631623</id>
+        <link href="https://tv.naver.com/v/43631623"/>
+        <updated>2023-12-01T09:17:04.251Z</updated>
+        <content type="html"><![CDATA[00:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쥴리의 '그 파트' 희열 미침🤍]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43171540"/>
         <updated>2023-11-21T09:17:21.466Z</updated>
         <content type="html"><![CDATA[00:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월 3주차 쇼챔피언 🍩MC 나나츠키🌙 모음.zip (woo!ah! 나나, Billlie 츠키) l Show Champion l EP.500 l 231115]]></title>
-        <id>https://tv.naver.com/v/42893678</id>
-        <link href="https://tv.naver.com/v/42893678"/>
-        <updated>2023-11-17T02:28:48.638Z</updated>
-        <content type="html"><![CDATA[05:29]]></content>
     </entry>
 </feed>

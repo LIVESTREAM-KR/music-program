@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-01T08:21:50.939Z</updated>
+    <updated>2023-12-01T09:17:16.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] THE BOYZ.zip 📂 소년(Boy)부터 WATCH IT까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/43699911</id>
+        <link href="https://tv.naver.com/v/43699911"/>
+        <updated>2023-12-01T09:16:40.553Z</updated>
+        <content type="html"><![CDATA[01:07:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] aespa – Drama(에스파 - 드라마) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/43636969</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43473014"/>
         <updated>2023-11-27T11:14:35.838Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ YOUNGHOON - WATCH IT(더보이즈 영훈 - 와치 잇) Close-up Cam | Show! MusicCore | MBC231125방송]]></title>
-        <id>https://tv.naver.com/v/43473010</id>
-        <link href="https://tv.naver.com/v/43473010"/>
-        <updated>2023-11-27T11:14:35.839Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
     </entry>
 </feed>
