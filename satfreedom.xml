@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-12-02T09:15:00.674Z</updated>
+    <updated>2023-12-02T10:16:51.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오은철&노현우 - 걱정말아요 그대 | KBS 231202 방송]]></title>
+        <id>https://tv.naver.com/v/43739702</id>
+        <link href="https://tv.naver.com/v/43739702"/>
+        <updated>2023-12-02T10:16:45.739Z</updated>
+        <content type="html"><![CDATA[05:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그룹 활동할 때 장단점?!😅 신입 그룹 허용별의 ‘Happiness’ 라이브! | KBS 231202 방송]]></title>
+        <id>https://tv.naver.com/v/43739299</id>
+        <link href="https://tv.naver.com/v/43739299"/>
+        <updated>2023-12-02T10:16:45.740Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레전드 리메이크 특집 첫 무대의 주인공은? 천재 아티스트들의 만남! 오은철&노현우 | KBS 231202 방송]]></title>
+        <id>https://tv.naver.com/v/43739297</id>
+        <link href="https://tv.naver.com/v/43739297"/>
+        <updated>2023-12-02T10:16:45.742Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불후의 명곡 레전드 리메이크 특집😎 변함없이 사랑받는 명곡과 함께하는 시간! | KBS 231202 방송]]></title>
+        <id>https://tv.naver.com/v/43739107</id>
+        <link href="https://tv.naver.com/v/43739107"/>
+        <updated>2023-12-02T10:16:45.743Z</updated>
+        <content type="html"><![CDATA[01:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가로직캠] 이찬원 - 진또배기 | KBS 231125 방송]]></title>
         <id>https://tv.naver.com/v/43557177</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/43407804"/>
         <updated>2023-11-25T23:15:34.337Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 싸이 - DADDY | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43407730</id>
-        <link href="https://tv.naver.com/v/43407730"/>
-        <updated>2023-11-25T23:15:34.337Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 싸이 - 강남스타일 | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43407711</id>
-        <link href="https://tv.naver.com/v/43407711"/>
-        <updated>2023-11-25T23:15:34.337Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 싸이 - That That | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43407614</id>
-        <link href="https://tv.naver.com/v/43407614"/>
-        <updated>2023-11-26T10:16:24.475Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세로 직캠] 싸이 - That That | KBS 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43407613</id>
-        <link href="https://tv.naver.com/v/43407613"/>
-        <updated>2023-11-25T22:14:42.697Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
