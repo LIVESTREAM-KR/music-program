@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-02T06:20:57.975Z</updated>
+    <updated>2023-12-02T07:14:36.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최인경 - 사랑말 (Choi Ingyeong - Dear.), MBC 231202방송]]></title>
+        <id>https://tv.naver.com/v/43733777</id>
+        <link href="https://tv.naver.com/v/43733777"/>
+        <updated>2023-12-02T07:14:00.173Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루네이브 - 여기 붙어라 (LUN8wave - Playground), MBC 231202방송]]></title>
+        <id>https://tv.naver.com/v/43733466</id>
+        <link href="https://tv.naver.com/v/43733466"/>
+        <updated>2023-12-02T07:14:00.177Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] THE BOYZ.zip 📂 소년(Boy)부터 WATCH IT까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/43699911</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/43522937"/>
         <updated>2023-11-28T08:20:53.141Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON - WATCH IT(더보이즈 주연 - 와치 잇) Close-up Cam | Show! MusicCore | MBC231125방송]]></title>
-        <id>https://tv.naver.com/v/43473015</id>
-        <link href="https://tv.naver.com/v/43473015"/>
-        <updated>2023-11-27T11:14:35.837Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ HYUNJAE - WATCH IT(더보이즈 현재 - 와치 잇) Close-up Cam | Show! MusicCore | MBC231125방송]]></title>
-        <id>https://tv.naver.com/v/43473014</id>
-        <link href="https://tv.naver.com/v/43473014"/>
-        <updated>2023-11-27T11:14:35.838Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
