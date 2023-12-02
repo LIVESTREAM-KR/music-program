@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-12-02T11:13:34.954Z</updated>
+    <updated>2023-12-02T12:28:26.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://tv.naver.com/v/43639230"/>
         <updated>2023-11-30T08:21:33.113Z</updated>
         <content type="html"><![CDATA[00:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12월 선 공개 곡으로 돌아오는 짱믹스 기다리는 중💗]]></title>
+        <id>https://tv.naver.com/v/43635884</id>
+        <link href="https://tv.naver.com/v/43635884"/>
+        <updated>2023-12-02T12:28:14.272Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023년 다 가기 전에 짱세라핌 또 보기!😈]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43263937"/>
         <updated>2023-11-23T09:16:44.226Z</updated>
         <content type="html"><![CDATA[00:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제베원 볼 준비 됐어 right now! 😍]]></title>
-        <id>https://tv.naver.com/v/43171585</id>
-        <link href="https://tv.naver.com/v/43171585"/>
-        <updated>2023-11-21T12:33:19.616Z</updated>
-        <content type="html"><![CDATA[00:31]]></content>
     </entry>
 </feed>
