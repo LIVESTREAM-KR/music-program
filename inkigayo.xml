@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2023-12-03T08:19:27.626Z</updated>
+    <updated>2023-12-03T09:15:07.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[방예담 - 하나만 해 | SBS 231203 방송]]></title>
+        <id>https://tv.naver.com/v/43766343</id>
+        <link href="https://tv.naver.com/v/43766343"/>
+        <updated>2023-12-03T09:14:40.711Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남우현 - Baby Baby | SBS 231203 방송]]></title>
         <id>https://tv.naver.com/v/43764940</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43764013"/>
         <updated>2023-12-03T08:18:58.022Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATBO - Must Have Love | SBS 231203 방송]]></title>
-        <id>https://tv.naver.com/v/43763852</id>
-        <link href="https://tv.naver.com/v/43763852"/>
-        <updated>2023-12-03T07:14:27.671Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
