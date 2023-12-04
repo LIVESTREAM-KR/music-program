@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-04T06:22:58.902Z</updated>
+    <updated>2023-12-04T07:16:21.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[＃shorts 에이티비오 컴백 인터뷰🎤(ATBO Comeback Interview) | KBS 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/43806278</id>
+        <link href="https://tv.naver.com/v/43806278"/>
+        <updated>2023-12-04T07:15:44.282Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Last Time - 골든걸스 | KBS 231201 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/43704746</id>
@@ -66,13 +73,6 @@
         <link href="https://tv.naver.com/v/43703302"/>
         <updated>2023-12-01T10:18:19.859Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adventure Player - YAO CHEN | KBS 231201 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/43703299</id>
-        <link href="https://tv.naver.com/v/43703299"/>
-        <updated>2023-12-01T10:18:19.861Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 설윤 X 이정하 , 12월 첫째 주 음악중심 MC 컷 모음!, MBC 231202 방송 (쇼! 음악중심)]]></title>
