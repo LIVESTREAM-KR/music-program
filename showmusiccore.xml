@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-04T02:30:30.749Z</updated>
+    <updated>2023-12-04T03:17:59.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 설윤 X 이정하 , 12월 첫째 주 음악중심 MC 컷 모음!, MBC 231202 방송]]></title>
+        <id>https://tv.naver.com/v/43793564</id>
+        <link href="https://tv.naver.com/v/43793564"/>
+        <updated>2023-12-04T03:17:23.664Z</updated>
+        <content type="html"><![CDATA[12:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NAM WOO HYUN – Baby Baby (남우현 - 베이비 베이비) Close-up Cam | Show! MusicCore | MBC231202방송]]></title>
         <id>https://tv.naver.com/v/43786113</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43737510"/>
         <updated>2023-12-02T09:14:29.614Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] AMPERS&ONE – On And On(앰퍼샌드원 - 온 앤 온) FanCam | Show! MusicCore | MBC231202방송]]></title>
-        <id>https://tv.naver.com/v/43737509</id>
-        <link href="https://tv.naver.com/v/43737509"/>
-        <updated>2023-12-02T09:14:29.616Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
