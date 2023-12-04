@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-03T23:16:50.940Z</updated>
+    <updated>2023-12-04T01:12:28.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[One Last Time - 골든걸스 | KBS 231201 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NAM WOO HYUN – Baby Baby (남우현 - 베이비 베이비) Close-up Cam | Show! MusicCore | MBC231202방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/43786113</id>
+        <link href="https://tv.naver.com/v/43786113"/>
+        <updated>2023-12-04T01:11:57.491Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ATEEZ SEONGHWA – Crazy Form (에이티즈 성화 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231202방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/43738297</id>
         <link href="https://tv.naver.com/v/43738297"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/43737509"/>
         <updated>2023-12-02T09:14:29.616Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATBO - Must Have Love(에이티비오 – 머스트 해브 러브) FanCam (Horizontal Ver.) | MusicCore | MBC231202방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/43737371</id>
-        <link href="https://tv.naver.com/v/43737371"/>
-        <updated>2023-12-02T09:14:29.617Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방예담 - 하나만 해 | SBS 231203 방송 (인기가요)]]></title>
