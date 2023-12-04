@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-12-04T05:16:43.802Z</updated>
+    <updated>2023-12-04T06:22:58.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 2023년 쇼챔 연말 결산📝 별 보다 더 빛날 수 있는거임? 무대도? 💫🌟]]></title>
+        <id>https://tv.naver.com/v/43800687</id>
+        <link href="https://tv.naver.com/v/43800687"/>
+        <updated>2023-12-04T06:22:46.514Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쇼챔도 아이브의 2주년을 축하해💗 'I' LO'VE']]></title>
         <id>https://tv.naver.com/v/43676048</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43263987"/>
         <updated>2023-11-23T12:31:36.466Z</updated>
         <content type="html"><![CDATA[00:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hocus pocus하는 빌리의 무대! 🪄]]></title>
-        <id>https://tv.naver.com/v/43263937</id>
-        <link href="https://tv.naver.com/v/43263937"/>
-        <updated>2023-11-23T09:16:44.226Z</updated>
-        <content type="html"><![CDATA[00:58]]></content>
     </entry>
 </feed>

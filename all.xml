@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-04T05:16:43.728Z</updated>
+    <updated>2023-12-04T06:22:58.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[One Last Time - 골든걸스 | KBS 231201 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 2023년 쇼챔 연말 결산📝 별 보다 더 빛날 수 있는거임? 무대도? 💫🌟 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/43800687</id>
+        <link href="https://tv.naver.com/v/43800687"/>
+        <updated>2023-12-04T06:22:46.514Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쇼챔도 아이브의 2주년을 축하해💗 'I' LO'VE' (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/43676048</id>
         <link href="https://tv.naver.com/v/43676048"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/43263987"/>
         <updated>2023-11-23T12:31:36.466Z</updated>
         <content type="html"><![CDATA[00:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hocus pocus하는 빌리의 무대! 🪄 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/43263937</id>
-        <link href="https://tv.naver.com/v/43263937"/>
-        <updated>2023-11-23T09:16:44.226Z</updated>
-        <content type="html"><![CDATA[00:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 634회 ＜12월 리메이크 특집＞ 우승자 ⭐허용별⭐ | KBS 방송 (불후의 명곡)]]></title>
