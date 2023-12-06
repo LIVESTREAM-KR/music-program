@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-12-06T08:21:14.851Z</updated>
+    <updated>2023-12-06T09:17:16.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈라는 봄을 만나 춥지 않은 6주년🎉❤️]]></title>
+        <id>https://tv.naver.com/v/43902448</id>
+        <link href="https://tv.naver.com/v/43902448"/>
+        <updated>2023-12-06T09:17:04.128Z</updated>
+        <content type="html"><![CDATA[00:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2023년 쇼챔 연말 결산📝 별 보다 더 빛날 수 있는거임? 무대도? 💫🌟]]></title>
         <id>https://tv.naver.com/v/43800687</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43264067"/>
         <updated>2023-11-24T09:16:43.899Z</updated>
         <content type="html"><![CDATA[00:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔딩 볼 빌리브들 모여랏!😉]]></title>
-        <id>https://tv.naver.com/v/43263987</id>
-        <link href="https://tv.naver.com/v/43263987"/>
-        <updated>2023-11-23T12:31:36.466Z</updated>
-        <content type="html"><![CDATA[00:45]]></content>
     </entry>
 </feed>
