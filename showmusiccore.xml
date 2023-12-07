@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-07T07:15:57.177Z</updated>
+    <updated>2023-12-07T08:21:18.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ.zip 📂해적왕(Pirate King)부터 미친 폼(Crazy From)까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/43868858</id>
+        <link href="https://tv.naver.com/v/43868858"/>
+        <updated>2023-12-07T08:20:43.551Z</updated>
+        <content type="html"><![CDATA[01:02:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 설윤 X 이정하 , 12월 첫째 주 음악중심 MC 컷 모음!, MBC 231202 방송]]></title>
         <id>https://tv.naver.com/v/43793564</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43737511"/>
         <updated>2023-12-02T09:14:29.612Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] AMPERS&ONE KAMDEN - On And On(앰퍼샌드원 나캠든 - 온 앤 온) FanCam | MusicCore | MBC231202방송]]></title>
-        <id>https://tv.naver.com/v/43737510</id>
-        <link href="https://tv.naver.com/v/43737510"/>
-        <updated>2023-12-02T09:14:29.614Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
