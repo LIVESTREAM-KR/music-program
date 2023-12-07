@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-12-07T08:21:18.976Z</updated>
+    <updated>2023-12-07T09:17:14.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 남다른 모태 근수저✨ 다재 다능한 수영계 엔터테이너 정유인의 노래 모음!🎉, MBC 231203 방송]]></title>
+        <id>https://tv.naver.com/v/43986603</id>
+        <link href="https://tv.naver.com/v/43986603"/>
+        <updated>2023-12-07T09:17:13.613Z</updated>
+        <content type="html"><![CDATA[09:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 훈남✨경호원부터 강철 교관으로 예능계를 접수한🔥방송인 최영재 하이라이트!, MBC 231203 방송]]></title>
+        <id>https://tv.naver.com/v/43985606</id>
+        <link href="https://tv.naver.com/v/43985606"/>
+        <updated>2023-12-07T09:17:13.614Z</updated>
+        <content type="html"><![CDATA[12:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 ＜너의 번호를 누르고＞를 부른 신비주의✨대세 발라더 #안녕의 최초 얼굴 공개!🎉, MBC 231126 방송]]></title>
         <id>https://tv.naver.com/v/43812522</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/43769176"/>
         <updated>2023-12-03T10:16:59.285Z</updated>
         <content type="html"><![CDATA[01:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄친아 이미지가 떠오르는 배우?! 배우 김지석이 주는 '농구 코트맨'의 힌트!🏀, MBC 231203 방송]]></title>
-        <id>https://tv.naver.com/v/43769070</id>
-        <link href="https://tv.naver.com/v/43769070"/>
-        <updated>2023-12-03T10:16:59.288Z</updated>
-        <content type="html"><![CDATA[01:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['농구 코트맨' VS '야구 배트맨'의 1라운드 무대 - 한 걸음 더, MBC 231203 방송]]></title>
-        <id>https://tv.naver.com/v/43768921</id>
-        <link href="https://tv.naver.com/v/43768921"/>
-        <updated>2023-12-03T10:16:59.289Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
     </entry>
 </feed>
