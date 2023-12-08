@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-08T06:22:31.521Z</updated>
+    <updated>2023-12-08T07:15:47.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] RIIZE – Talk Saxy(라이즈 - 토크 색시) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/43922080</id>
+        <link href="https://tv.naver.com/v/43922080"/>
+        <updated>2023-12-08T07:15:08.349Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ATEEZ.zip 📂해적왕(Pirate King)부터 미친 폼(Crazy From)까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/43868858</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43737512"/>
         <updated>2023-12-02T09:14:29.610Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS - Get it On(판타지 보이즈 – 겟 잇 온) FanCam | Show! MusicCore | MBC231202방송]]></title>
-        <id>https://tv.naver.com/v/43737511</id>
-        <link href="https://tv.naver.com/v/43737511"/>
-        <updated>2023-12-02T09:14:29.612Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
