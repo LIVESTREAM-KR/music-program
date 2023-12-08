@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-12-08T03:17:53.778Z</updated>
+    <updated>2023-12-08T04:20:22.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 축제 여신 🩷보라미유💜가 부르는 《그대네요》,《어른》ㅣ#보라미유 MBC231203방송]]></title>
+        <id>https://tv.naver.com/v/43917072</id>
+        <link href="https://tv.naver.com/v/43917072"/>
+        <updated>2023-12-08T04:20:22.277Z</updated>
+        <content type="html"><![CDATA[14:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 남다른 모태 근수저✨ 다재 다능한 수영계 엔터테이너 정유인의 노래 모음!🎉, MBC 231203 방송]]></title>
         <id>https://tv.naver.com/v/43986603</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43769430"/>
         <updated>2023-12-03T10:16:59.280Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야구 배트맨'의 정체는 특전사 출신 방송인 최영재!, MBC 231203 방송]]></title>
-        <id>https://tv.naver.com/v/43769176</id>
-        <link href="https://tv.naver.com/v/43769176"/>
-        <updated>2023-12-03T10:16:59.285Z</updated>
-        <content type="html"><![CDATA[01:50]]></content>
     </entry>
 </feed>
