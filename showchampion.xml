@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-12-09T08:19:43.683Z</updated>
+    <updated>2023-12-09T09:15:34.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내년 1월까지 언제 기다려어어 👑]]></title>
+        <id>https://tv.naver.com/v/43915829</id>
+        <link href="https://tv.naver.com/v/43915829"/>
+        <updated>2023-12-09T09:15:22.237Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해피포인트 적립하시나요? (네! 예나 스마일 포인트 적립이요! 😆)]]></title>
         <id>https://tv.naver.com/v/43902520</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43467563"/>
         <updated>2023-11-27T09:17:45.858Z</updated>
         <content type="html"><![CDATA[00:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김똥개들 장난치는 모습에.. melting되는 중 ❣️]]></title>
-        <id>https://tv.naver.com/v/43264116</id>
-        <link href="https://tv.naver.com/v/43264116"/>
-        <updated>2023-11-24T12:31:23.975Z</updated>
-        <content type="html"><![CDATA[00:11]]></content>
     </entry>
 </feed>
