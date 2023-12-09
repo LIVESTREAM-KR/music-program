@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-09T10:16:41.081Z</updated>
+    <updated>2023-12-09T11:13:27.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -34,20 +34,6 @@
         <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK – Potential(판타지 보이즈 김우석 - 포텐셜) FanCam |Show!MusicCore|MBC231209방송]]></title>
-        <id>https://tv.naver.com/v/44075962</id>
-        <link href="https://tv.naver.com/v/44075962"/>
-        <updated>2023-12-09T09:14:58.912Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KANG MINSEO – Potential(판타지 보이즈 강민서 - 포텐셜) FanCam | Show! MusicCore|MBC231209방]]></title>
-        <id>https://tv.naver.com/v/44075960</id>
-        <link href="https://tv.naver.com/v/44075960"/>
-        <updated>2023-12-09T09:14:58.914Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[예능연구소] DKB - What The Hell(다크비 – 왓 더 헬) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231209방송]]></title>
         <id>https://tv.naver.com/v/44075981</id>
         <link href="https://tv.naver.com/v/44075981"/>
@@ -74,5 +60,19 @@
         <link href="https://tv.naver.com/v/44075974"/>
         <updated>2023-12-09T10:16:04.813Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Weeekly JIHAN – Backwards(위클리 지한 - 백워즈) FanCam | Show! MusicCore | MBC231209방송]]></title>
+        <id>https://tv.naver.com/v/44075972</id>
+        <link href="https://tv.naver.com/v/44075972"/>
+        <updated>2023-12-09T11:12:52.182Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Weeekly - Backwards(위클리 – 백워즈) FanCam | Show! MusicCore | MBC231209방송]]></title>
+        <id>https://tv.naver.com/v/44075968</id>
+        <link href="https://tv.naver.com/v/44075968"/>
+        <updated>2023-12-09T11:12:52.183Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
