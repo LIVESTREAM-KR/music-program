@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-09T06:20:41.755Z</updated>
+    <updated>2023-12-09T07:14:36.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위클리 - 백워즈 (Weeekly - Backwards), MBC 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44073306</id>
+        <link href="https://tv.naver.com/v/44073306"/>
+        <updated>2023-12-09T07:14:00.714Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투포케이플러스 - 롤러코스터 (24K+ - Roller Coaster), MBC 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44073305</id>
+        <link href="https://tv.naver.com/v/44073305"/>
+        <updated>2023-12-09T07:14:00.715Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티비오 - 머스트 해브 러브 (ATBO - Must Have Love), MBC 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44073064</id>
+        <link href="https://tv.naver.com/v/44073064"/>
+        <updated>2023-12-09T07:14:00.716Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휘브 - 뱅! (WHIB - BANG!), MBC 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44072776</id>
+        <link href="https://tv.naver.com/v/44072776"/>
+        <updated>2023-12-09T07:14:00.718Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이스트샤인 - 더블다운 (EASTSHINE - Double Down), MBC 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44072748</id>
+        <link href="https://tv.naver.com/v/44072748"/>
+        <updated>2023-12-09T07:14:00.719Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원팩트 - 좋겠다 (ONE PACT - Must Be Nice), MBC 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44072614</id>
+        <link href="https://tv.naver.com/v/44072614"/>
+        <updated>2023-12-09T07:14:00.721Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로아 - 라이어 (Roa - LIAR), MBC 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44072612</id>
+        <link href="https://tv.naver.com/v/44072612"/>
+        <updated>2023-12-09T07:14:00.722Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이트 - 인디펜던트 우먼 (eite - INDEPENDENT WOMAN), MBC 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44072502</id>
+        <link href="https://tv.naver.com/v/44072502"/>
+        <updated>2023-12-09T07:14:00.724Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] RIIZE – Talk Saxy(라이즈 - 토크 색시) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/43922080</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/43868858"/>
         <updated>2023-12-07T08:20:43.551Z</updated>
         <content type="html"><![CDATA[01:02:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 설윤 X 이정하 , 12월 첫째 주 음악중심 MC 컷 모음!, MBC 231202 방송]]></title>
-        <id>https://tv.naver.com/v/43793564</id>
-        <link href="https://tv.naver.com/v/43793564"/>
-        <updated>2023-12-04T03:17:23.664Z</updated>
-        <content type="html"><![CDATA[12:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NAM WOO HYUN – Baby Baby (남우현 - 베이비 베이비) Close-up Cam | Show! MusicCore | MBC231202방송]]></title>
-        <id>https://tv.naver.com/v/43786113</id>
-        <link href="https://tv.naver.com/v/43786113"/>
-        <updated>2023-12-04T01:11:57.491Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ATEEZ SEONGHWA – Crazy Form (에이티즈 성화 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231202방송]]></title>
-        <id>https://tv.naver.com/v/43738297</id>
-        <link href="https://tv.naver.com/v/43738297"/>
-        <updated>2023-12-02T10:16:16.678Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ATEEZ SAN- Crazy Form (에이티즈 산 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231202방송]]></title>
-        <id>https://tv.naver.com/v/43737876</id>
-        <link href="https://tv.naver.com/v/43737876"/>
-        <updated>2023-12-02T09:14:29.608Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜X교차》 레드벨벳 - 칠 킬 (Red Velvet - Chill Kill), MBC 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43737664</id>
-        <link href="https://tv.naver.com/v/43737664"/>
-        <updated>2023-12-02T09:14:29.608Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BANG YEDAM - Only One(방예담 – 하나만 해) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231202방송]]></title>
-        <id>https://tv.naver.com/v/43737662</id>
-        <link href="https://tv.naver.com/v/43737662"/>
-        <updated>2023-12-02T09:14:29.609Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LUN8wave - Playground(루네이브 – 여기 붙어라) FanCam (Horizontal Ver.) | Show! MusicCore |MBC231202방]]></title>
-        <id>https://tv.naver.com/v/43737514</id>
-        <link href="https://tv.naver.com/v/43737514"/>
-        <updated>2023-12-02T09:14:29.609Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HIKARI – Get it On(판타지 보이즈 히카리 - 겟 잇 온) FanCam | Show! MusicCore | MBC231202방송]]></title>
-        <id>https://tv.naver.com/v/43737512</id>
-        <link href="https://tv.naver.com/v/43737512"/>
-        <updated>2023-12-02T09:14:29.610Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
