@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-12-09T09:15:34.577Z</updated>
+    <updated>2023-12-09T10:16:41.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[날카로움 속 따뜻함을 전달하는 목소리, 모두를 입덕시킨 터치드의 무대💟 | KBS 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44079277</id>
+        <link href="https://tv.naver.com/v/44079277"/>
+        <updated>2023-12-09T10:16:34.211Z</updated>
+        <content type="html"><![CDATA[01:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[터치드(TOUCHED) - 먼지가 되어 | KBS 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44079125</id>
+        <link href="https://tv.naver.com/v/44079125"/>
+        <updated>2023-12-09T10:16:34.213Z</updated>
+        <content type="html"><![CDATA[04:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[터치드 오늘의 선곡 관전 포인트는? 바흐의 선율을 전하는 베이스 솔로🎸 | KBS 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44078876</id>
+        <link href="https://tv.naver.com/v/44078876"/>
+        <updated>2023-12-09T10:16:34.215Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불후의 슈퍼루키 유회승🌠 욕망 가득한 오늘의 선곡🔥 | KBS 231209 방송]]></title>
+        <id>https://tv.naver.com/v/44078843</id>
+        <link href="https://tv.naver.com/v/44078843"/>
+        <updated>2023-12-09T10:16:34.217Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발라드 3대장! 허용별의 우승 기념 세레머니 타임!🎶 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/44045676</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/43741353"/>
         <updated>2023-12-02T12:28:20.007Z</updated>
         <content type="html"><![CDATA[05:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂신인의 패기로 우승하겠습니다＂ 연승 질주 중인 솔지도 두려워하는 허용별!   | KBS 231202 방송]]></title>
-        <id>https://tv.naver.com/v/43741147</id>
-        <link href="https://tv.naver.com/v/43741147"/>
-        <updated>2023-12-02T11:13:29.105Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두가 인정하는 실력파 신인?! 1부 마지막 다섯 번째 무대의 주인공 허용별😁 | KBS 231202 방송]]></title>
-        <id>https://tv.naver.com/v/43741145</id>
-        <link href="https://tv.naver.com/v/43741145"/>
-        <updated>2023-12-02T11:13:29.105Z</updated>
-        <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시대와 세대를 초월한 명곡의 다양한 재해석😉 어린 왕자 같았던 마독스의 무대! | KBS 231202 방송]]></title>
-        <id>https://tv.naver.com/v/43741141</id>
-        <link href="https://tv.naver.com/v/43741141"/>
-        <updated>2023-12-02T11:13:29.107Z</updated>
-        <content type="html"><![CDATA[01:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마독스 - 잠 못 드는 밤 비는 내리고 | KBS 231202 방송]]></title>
-        <id>https://tv.naver.com/v/43741126</id>
-        <link href="https://tv.naver.com/v/43741126"/>
-        <updated>2023-12-02T11:13:29.108Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
     </entry>
 </feed>
