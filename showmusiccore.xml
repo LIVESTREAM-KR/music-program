@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-11T08:22:28.663Z</updated>
+    <updated>2023-12-11T09:18:18.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[4K STAGE] MAVE: (메이브) - Whats_My_Name (왓츠 마이 네임) | Show! MusicCore | MBC231202방송]]></title>
+        <id>https://tv.naver.com/v/44153734</id>
+        <link href="https://tv.naver.com/v/44153734"/>
+        <updated>2023-12-11T09:17:46.227Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NAM WOO HYUN - Baby Baby(남우현 - 베이비 베이비) Close-up Cam | Show! MusicCore | MBC231209방송]]></title>
         <id>https://tv.naver.com/v/44149699</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44075974"/>
         <updated>2023-12-09T10:16:04.813Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Weeekly JIHAN – Backwards(위클리 지한 - 백워즈) FanCam | Show! MusicCore | MBC231209방송]]></title>
-        <id>https://tv.naver.com/v/44075972</id>
-        <link href="https://tv.naver.com/v/44075972"/>
-        <updated>2023-12-09T11:12:52.182Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
