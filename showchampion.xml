@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-12-11T11:15:31.111Z</updated>
+    <updated>2023-12-11T12:33:08.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1월 15일 라이즈 컴백 대기탑니다. 📅]]></title>
+        <id>https://tv.naver.com/v/44152745</id>
+        <link href="https://tv.naver.com/v/44152745"/>
+        <updated>2023-12-11T12:32:57.335Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4분할로 보는 에스파의 용안 ❤️]]></title>
         <id>https://tv.naver.com/v/43915929</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43631623"/>
         <updated>2023-12-01T09:17:04.251Z</updated>
         <content type="html"><![CDATA[00:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쥴리의 '그 파트' 희열 미침🤍]]></title>
-        <id>https://tv.naver.com/v/43528364</id>
-        <link href="https://tv.naver.com/v/43528364"/>
-        <updated>2023-11-28T09:17:18.543Z</updated>
-        <content type="html"><![CDATA[00:37]]></content>
     </entry>
 </feed>
