@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-12-12T04:20:29.115Z</updated>
+    <updated>2023-12-12T05:16:47.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 가왕이 바뀌었다 ㄴ😯ㄱ, 8주간 가왕 자리를 지킨 디셈버 DK가 부르는 《미아》ㅣ#디셈버 #DK MBC231210방송]]></title>
+        <id>https://tv.naver.com/v/44191994</id>
+        <link href="https://tv.naver.com/v/44191994"/>
+        <updated>2023-12-12T05:16:46.923Z</updated>
+        <content type="html"><![CDATA[17:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜점점 올라가는 실력자들의 전투력!🥊 신입 가왕 '인센스'는 왕좌를 지킬 수 있을 것인가?＞ 복면가왕 430회 예고, MBC 231217]]></title>
         <id>https://tv.naver.com/v/44114222</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44110492"/>
         <updated>2023-12-10T10:16:58.048Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['테니스' 2라운드 무대 - Super moon, MBC 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44110225</id>
-        <link href="https://tv.naver.com/v/44110225"/>
-        <updated>2023-12-10T10:16:58.050Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
     </entry>
 </feed>
