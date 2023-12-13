@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-12-13T08:21:50.369Z</updated>
+    <updated>2023-12-13T09:17:18.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/44152847"/>
         <updated>2023-12-12T09:17:19.095Z</updated>
         <content type="html"><![CDATA[00:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['BORN TO BE UNTOUCHABLE'한 있지 기대중 ❤️‍🔥]]></title>
+        <id>https://tv.naver.com/v/44152788</id>
+        <link href="https://tv.naver.com/v/44152788"/>
+        <updated>2023-12-13T09:17:06.402Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1월 15일 라이즈 컴백 대기탑니다. 📅]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43639230"/>
         <updated>2023-11-30T08:21:33.113Z</updated>
         <content type="html"><![CDATA[00:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월 선 공개 곡으로 돌아오는 짱믹스 기다리는 중💗]]></title>
-        <id>https://tv.naver.com/v/43635884</id>
-        <link href="https://tv.naver.com/v/43635884"/>
-        <updated>2023-12-02T12:28:14.272Z</updated>
-        <content type="html"><![CDATA[00:30]]></content>
     </entry>
 </feed>
