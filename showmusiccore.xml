@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-15T08:22:33.084Z</updated>
+    <updated>2023-12-15T09:17:21.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ZEROBASEONE – CRUSH(제로베이스원 - 가시) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/44384743</id>
+        <link href="https://tv.naver.com/v/44384743"/>
+        <updated>2023-12-15T09:16:47.049Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ZEROBASEONE – MELTING POINT(제로베이스원 - 멜팅 포인트) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/44266356</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44075977"/>
         <updated>2023-12-09T09:14:58.917Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONE PACT SEONGMIN – Must Be Nice(원팩트 성민 - 좋겠다) FanCam | Show! MusicCore | MBC231209방송]]></title>
-        <id>https://tv.naver.com/v/44075975</id>
-        <link href="https://tv.naver.com/v/44075975"/>
-        <updated>2023-12-09T09:14:58.918Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
 </feed>
