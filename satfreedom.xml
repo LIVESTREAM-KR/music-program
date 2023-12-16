@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-12-16T09:15:51.268Z</updated>
+    <updated>2023-12-16T10:16:35.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안성훈 - 이차선 다리 | KBS 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44430672</id>
+        <link href="https://tv.naver.com/v/44430672"/>
+        <updated>2023-12-16T10:16:29.628Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흡족해하는 이경규😆 열창하는 모습이 넋을 놓게 만든 안성훈의 무대 | KBS 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44430669</id>
+        <link href="https://tv.naver.com/v/44430669"/>
+        <updated>2023-12-16T10:16:29.628Z</updated>
+        <content type="html"><![CDATA[01:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이경규만을 위한 헌정의 의미를 담은 안성훈의 선곡💕  | KBS 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44430197</id>
+        <link href="https://tv.naver.com/v/44430197"/>
+        <updated>2023-12-16T10:16:29.631Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예능계 대부 이경규의 인생곡으로 펼치는 진검승부🔥 | KBS 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44430166</id>
+        <link href="https://tv.naver.com/v/44430166"/>
+        <updated>2023-12-16T10:16:29.632Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이경규에게 직접 섭외를 받은 부활? 목표는 올킬우승🌟 | KBS 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44430165</id>
+        <link href="https://tv.naver.com/v/44430165"/>
+        <updated>2023-12-16T10:16:29.633Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[※결과 확인※ 터치드(TOUCHED) vs 유회승 한 표 차이로 갈린 최종결과🔥 | KBS 231209 방송]]></title>
         <id>https://tv.naver.com/v/44081734</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/44081178"/>
         <updated>2023-12-09T12:29:00.708Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경연을 잊게 만드는 트로트 퀸의 매력❤‍🔥 신들린 초고음을 보여준 양지은의 무대 | KBS 231209 방송]]></title>
-        <id>https://tv.naver.com/v/44081008</id>
-        <link href="https://tv.naver.com/v/44081008"/>
-        <updated>2023-12-09T11:13:21.835Z</updated>
-        <content type="html"><![CDATA[01:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양지은 - 아름다운 강산 | KBS 231209 방송]]></title>
-        <id>https://tv.naver.com/v/44081000</id>
-        <link href="https://tv.naver.com/v/44081000"/>
-        <updated>2023-12-09T11:13:21.835Z</updated>
-        <content type="html"><![CDATA[06:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈진을 부르는 무대 예열 중🔥 국악 수련의 최대치를 담아낸 양지은의 선곡! | KBS 231209 방송]]></title>
-        <id>https://tv.naver.com/v/44080727</id>
-        <link href="https://tv.naver.com/v/44080727"/>
-        <updated>2023-12-09T11:13:21.838Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피아니스트 오은철의 하늘을 달리다♬ 노래 + 기타 연주🎸 (feat.허용별) | KBS 231209 방송]]></title>
-        <id>https://tv.naver.com/v/44080724</id>
-        <link href="https://tv.naver.com/v/44080724"/>
-        <updated>2023-12-09T11:13:21.839Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인기 타임🎙️ 신용재 - 가수가 된 이유♬ㅣ 노현우 - 뜨거운 여름밤은 가고♬ | KBS 231209 방송]]></title>
-        <id>https://tv.naver.com/v/44080566</id>
-        <link href="https://tv.naver.com/v/44080566"/>
-        <updated>2023-12-09T11:13:21.841Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
     </entry>
 </feed>
