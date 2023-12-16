@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-16T06:20:46.128Z</updated>
+    <updated>2023-12-16T07:14:38.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장민호 - 아! 님아 (Jang Minho - Anima), MBC 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44424783</id>
+        <link href="https://tv.naver.com/v/44424783"/>
+        <updated>2023-12-16T07:14:02.310Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이트 - 인디펜던트 우먼 (eite - INDEPENDENT WOMAN), MBC 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44424599</id>
+        <link href="https://tv.naver.com/v/44424599"/>
+        <updated>2023-12-16T07:14:02.315Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔티엑스 - 홀리 그레일 (NTX - Holy Grail), MBC 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44424437</id>
+        <link href="https://tv.naver.com/v/44424437"/>
+        <updated>2023-12-16T07:14:02.316Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스 영 - 피어나 (Chris Young - Blooming), MBC 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44424307</id>
+        <link href="https://tv.naver.com/v/44424307"/>
+        <updated>2023-12-16T07:14:02.317Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김보민 - 애착 (Kim Bomin - Attachment), MBC 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44424271</id>
+        <link href="https://tv.naver.com/v/44424271"/>
+        <updated>2023-12-16T07:14:02.318Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이량 - 언니야언니 (HI Ryang - Sister, sister), MBC 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44424108</id>
+        <link href="https://tv.naver.com/v/44424108"/>
+        <updated>2023-12-16T07:14:02.321Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ZEROBASEONE – CRUSH(제로베이스원 - 가시) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/44384743</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/44149699"/>
         <updated>2023-12-11T07:16:16.249Z</updated>
         <content type="html"><![CDATA[04:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATBO - Must Have Love(에이티비오 – 머스트 해브 러브) FanCam (Horizontal Ver.)|Show!MusicCore|MBC231209방]]></title>
-        <id>https://tv.naver.com/v/44076628</id>
-        <link href="https://tv.naver.com/v/44076628"/>
-        <updated>2023-12-09T09:14:58.906Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ONE PACT - Must Be Nice(원팩트 – 좋겠다) FanCam | Show! MusicCore | MBC231209방송]]></title>
-        <id>https://tv.naver.com/v/44076238</id>
-        <link href="https://tv.naver.com/v/44076238"/>
-        <updated>2023-12-09T09:14:58.907Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NAM WOO HYUN – Baby Baby(남우현 - 베이비 베이비) FanCam | Show! MusicCore | MBC231209방송]]></title>
-        <id>https://tv.naver.com/v/44076236</id>
-        <link href="https://tv.naver.com/v/44076236"/>
-        <updated>2023-12-09T09:14:58.908Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] FANTASY BOYS HIKARI - Potential(판타지 보이즈 히카리 - 포텐셜) Close-up Cam | Show!MusicCore|MBC231209방]]></title>
-        <id>https://tv.naver.com/v/44076190</id>
-        <link href="https://tv.naver.com/v/44076190"/>
-        <updated>2023-12-09T09:14:58.910Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DKB - What The Hell(다크비 – 왓 더 헬) FanCam (Horizontal Ver.) | Show! MusicCore | MBC231209방송]]></title>
-        <id>https://tv.naver.com/v/44075981</id>
-        <link href="https://tv.naver.com/v/44075981"/>
-        <updated>2023-12-09T09:14:58.916Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Roa - LIAR(로아 – 라이어) FanCam | Show! MusicCore | MBC231209방송]]></title>
-        <id>https://tv.naver.com/v/44075977</id>
-        <link href="https://tv.naver.com/v/44075977"/>
-        <updated>2023-12-09T09:14:58.917Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
