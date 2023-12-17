@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-12-17T09:15:46.420Z</updated>
+    <updated>2023-12-17T10:16:56.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[생방송 노래 경연 대회 최연소 진출! 지덕체 다 갖춘 '맛있게 맵다'의 정체는?!, MBC 231217 방송]]></title>
+        <id>https://tv.naver.com/v/44460520</id>
+        <link href="https://tv.naver.com/v/44460520"/>
+        <updated>2023-12-17T10:16:55.781Z</updated>
+        <content type="html"><![CDATA[01:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['맛있게 맵다' VS '국물이 끝내줘요'의 1라운드 무대 - 첫인상, MBC 231217 방송]]></title>
+        <id>https://tv.naver.com/v/44460363</id>
+        <link href="https://tv.naver.com/v/44460363"/>
+        <updated>2023-12-17T10:16:55.781Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카드 병정'의 정체는 칼각 퍼포먼스 퀸즈아이의 리더 원채!, MBC 231217 방송]]></title>
+        <id>https://tv.naver.com/v/44460166</id>
+        <link href="https://tv.naver.com/v/44460166"/>
+        <updated>2023-12-17T10:16:55.782Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복면가왕을 찾아온 무림고수 '장난감 병정'의 쌍절곤 개인기!, MBC 231217 방송]]></title>
+        <id>https://tv.naver.com/v/44459868</id>
+        <link href="https://tv.naver.com/v/44459868"/>
+        <updated>2023-12-17T10:16:55.783Z</updated>
+        <content type="html"><![CDATA[01:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['장난감 병정' VS '카드 병정'의 1라운드 무대 - 원더우먼, MBC 231217 방송]]></title>
+        <id>https://tv.naver.com/v/44459605</id>
+        <link href="https://tv.naver.com/v/44459605"/>
+        <updated>2023-12-17T10:16:55.785Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 레전드 록 발라드 ＜애니아＞의 파워 보컬 차진영의 10년 만의 컴백 무대 모음집!🎉, MBC 231210 방송]]></title>
         <id>https://tv.naver.com/v/44395257</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/44114222"/>
         <updated>2023-12-10T12:29:07.087Z</updated>
         <content type="html"><![CDATA[00:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미다스의 손'의 정체는 디셈버 DK!, MBC 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44113982</id>
-        <link href="https://tv.naver.com/v/44113982"/>
-        <updated>2023-12-10T12:29:07.089Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미다스의 손'의 가왕 방어전 무대 - 미아, MBC 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44113141</id>
-        <link href="https://tv.naver.com/v/44113141"/>
-        <updated>2023-12-10T12:29:07.090Z</updated>
-        <content type="html"><![CDATA[04:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옛날 계란빵'의 정체는 가수 차진영!, MBC 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44112935</id>
-        <link href="https://tv.naver.com/v/44112935"/>
-        <updated>2023-12-10T12:29:07.091Z</updated>
-        <content type="html"><![CDATA[01:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인센스' 3라운드 무대 - 어떻게 사랑이 그래요, MBC 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44112174</id>
-        <link href="https://tv.naver.com/v/44112174"/>
-        <updated>2023-12-10T11:13:18.814Z</updated>
-        <content type="html"><![CDATA[05:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['옛날 계란빵' 3라운드 무대 - 그대 내 친구여, MBC 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44111661</id>
-        <link href="https://tv.naver.com/v/44111661"/>
-        <updated>2023-12-10T11:13:18.816Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
