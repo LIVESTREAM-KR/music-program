@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-18T05:16:54.682Z</updated>
+    <updated>2023-12-18T06:23:00.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 12월 셋째 주 음악중심 MC 컷 모음!, MBC 231216 방송]]></title>
+        <id>https://tv.naver.com/v/44494820</id>
+        <link href="https://tv.naver.com/v/44494820"/>
+        <updated>2023-12-18T06:22:24.731Z</updated>
+        <content type="html"><![CDATA[07:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ATEEZ JONGHO – Crazy Form (에이티즈 종호 - 미친 폼) FanCam | Show! MusicCore | MBC231216방송]]></title>
         <id>https://tv.naver.com/v/44431358</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44430162"/>
         <updated>2023-12-16T10:16:03.851Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MCND HUIJUN – ODD-VENTURE(엠씨엔디 휘준 - ODD-VENTURE) FanCam | Show! MusicCore | MBC231216방송]]></title>
-        <id>https://tv.naver.com/v/44429989</id>
-        <link href="https://tv.naver.com/v/44429989"/>
-        <updated>2023-12-16T10:16:03.851Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
