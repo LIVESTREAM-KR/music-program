@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-19T09:16:46.333Z</updated>
+    <updated>2023-12-19T10:18:02.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ATEEZ SEONGHWA – Crazy Form (에이티즈 성화 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231216방송]]></title>
+        <id>https://tv.naver.com/v/44567612</id>
+        <link href="https://tv.naver.com/v/44567612"/>
+        <updated>2023-12-19T10:17:30.287Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ATEEZ WOOYOUNG - Crazy Form (에이티즈 우영 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231216방송]]></title>
+        <id>https://tv.naver.com/v/44567224</id>
+        <link href="https://tv.naver.com/v/44567224"/>
+        <updated>2023-12-19T10:17:30.287Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ATEEZ SAN- Crazy Form (에이티즈 산 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231216방송]]></title>
+        <id>https://tv.naver.com/v/44567222</id>
+        <link href="https://tv.naver.com/v/44567222"/>
+        <updated>2023-12-19T10:17:30.288Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ATEEZ YUNHO - Crazy Form (에이티즈 윤호 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231216방송]]></title>
+        <id>https://tv.naver.com/v/44567215</id>
+        <link href="https://tv.naver.com/v/44567215"/>
+        <updated>2023-12-19T10:17:30.288Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX KYUJIN - Soñar (Breaker)(엔믹스 – 소냐르(브레이커)) Close-up Cam | Show! MusicCore | MBC231216방]]></title>
         <id>https://tv.naver.com/v/44509285</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/44431131"/>
         <updated>2023-12-16T11:12:56.715Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ MINGI – Crazy Form (에이티즈 민기 - 미친 폼) FanCam | Show! MusicCore | MBC231216방송]]></title>
-        <id>https://tv.naver.com/v/44430999</id>
-        <link href="https://tv.naver.com/v/44430999"/>
-        <updated>2023-12-16T11:12:56.718Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ YEOSANG – Crazy Form (에이티즈 여상 - 미친 폼) FanCam | Show! MusicCore | MBC231216방송]]></title>
-        <id>https://tv.naver.com/v/44430997</id>
-        <link href="https://tv.naver.com/v/44430997"/>
-        <updated>2023-12-16T11:12:56.721Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ YUNHO – Crazy Form (에이티즈 윤호 - 미친 폼) FanCam | Show! MusicCore | MBC231216방송]]></title>
-        <id>https://tv.naver.com/v/44430851</id>
-        <link href="https://tv.naver.com/v/44430851"/>
-        <updated>2023-12-16T11:12:56.722Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ SAN – Crazy Form (에이티즈 산 - 미친 폼) FanCam | Show! MusicCore | MBC231216방송]]></title>
-        <id>https://tv.naver.com/v/44430653</id>
-        <link href="https://tv.naver.com/v/44430653"/>
-        <updated>2023-12-16T10:16:03.849Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
     </entry>
 </feed>
