@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-12-21T08:20:52.070Z</updated>
+    <updated>2023-12-21T09:16:51.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 🙏제발 꼭 한 번 들어보세요🥲🙏배우 태원석이 부르는 《A whole new world》,《감사》ㅣ#태원석 MBC231217방송]]></title>
+        <id>https://tv.naver.com/v/44549571</id>
+        <link href="https://tv.naver.com/v/44549571"/>
+        <updated>2023-12-21T09:16:51.196Z</updated>
+        <content type="html"><![CDATA[16:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜최초 향기(?) 가왕 '인센스'를 탈취하러 왔다💨  짙은 내음을 풍기며 등장한 4인방!＞ 복면가왕 431회 예고, MBC 231224 방송]]></title>
         <id>https://tv.naver.com/v/44462474</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44460363"/>
         <updated>2023-12-17T10:16:55.781Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카드 병정'의 정체는 칼각 퍼포먼스 퀸즈아이의 리더 원채!, MBC 231217 방송]]></title>
-        <id>https://tv.naver.com/v/44460166</id>
-        <link href="https://tv.naver.com/v/44460166"/>
-        <updated>2023-12-17T10:16:55.782Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
