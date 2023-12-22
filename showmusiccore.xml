@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-22T06:22:02.916Z</updated>
+    <updated>2023-12-22T07:15:52.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] Red Velvet – Chill Kill(레드벨벳 - 칠 킬) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/44616710</id>
+        <link href="https://tv.naver.com/v/44616710"/>
+        <updated>2023-12-22T07:15:21.008Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ATEEZ SEONGHWA – Crazy Form (에이티즈 성화 - 미친 폼) Close-up Cam | Show! MusicCore | MBC231216방송]]></title>
         <id>https://tv.naver.com/v/44567612</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44431358"/>
         <updated>2023-12-16T11:12:56.714Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ WOOYOUNG – Crazy Form(에이티즈 우영 - 미친 폼) FanCam | Show! MusicCore | MBC231216방송]]></title>
-        <id>https://tv.naver.com/v/44431131</id>
-        <link href="https://tv.naver.com/v/44431131"/>
-        <updated>2023-12-16T11:12:56.715Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
