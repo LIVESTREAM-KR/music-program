@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-12-22T20:17:25.740Z</updated>
+    <updated>2023-12-22T21:14:09.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 2023년의 마지막을 장식할 불후의 명곡 대기획 프로젝트 ＜김수철과 친구들＞ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/44754932</id>
+        <link href="https://tv.naver.com/v/44754932"/>
+        <updated>2023-12-22T21:14:03.486Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 💎명사 특집 이경규 편 2부💎 눈시울이 뜨거워지는 특별한 무대들! | KBS 방송]]></title>
         <id>https://tv.naver.com/v/44433577</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44432329"/>
         <updated>2023-12-16T12:29:19.080Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경규에 대한 존경의 마음✨️ 이소라가 아닌 이수지의 무대! | KBS 231216 방송]]></title>
-        <id>https://tv.naver.com/v/44432167</id>
-        <link href="https://tv.naver.com/v/44432167"/>
-        <updated>2023-12-16T11:13:25.365Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
