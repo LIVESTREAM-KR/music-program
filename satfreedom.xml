@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-12-23T09:15:33.401Z</updated>
+    <updated>2023-12-23T10:17:06.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남우현이 왕부담을 느끼는 이유? 세 명의 전설들이👀 지켜보는 무대 | KBS 231223 방송]]></title>
+        <id>https://tv.naver.com/v/44770620</id>
+        <link href="https://tv.naver.com/v/44770620"/>
+        <updated>2023-12-23T10:17:00.263Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이윤석&윤형빈 - 배낭여행(남자의 자격) | KBS 231223 방송]]></title>
+        <id>https://tv.naver.com/v/44770224</id>
+        <link href="https://tv.naver.com/v/44770224"/>
+        <updated>2023-12-23T10:17:00.264Z</updated>
+        <content type="html"><![CDATA[04:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토크 대기실 모두가 진심을 느꼈던 이윤형&윤형빈의 무대! 2부 라인업까지♥️ | KBS 231223 방송]]></title>
+        <id>https://tv.naver.com/v/44770222</id>
+        <link href="https://tv.naver.com/v/44770222"/>
+        <updated>2023-12-23T10:17:00.266Z</updated>
+        <content type="html"><![CDATA[01:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이윤석의 앞에서 눈물을 보였던 이경규?! 우리 우정 FOREVER🍀 | KBS 231223 방송]]></title>
+        <id>https://tv.naver.com/v/44770220</id>
+        <link href="https://tv.naver.com/v/44770220"/>
+        <updated>2023-12-23T10:17:00.268Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2023년의 마지막을 장식할 불후의 명곡 대기획 프로젝트 ＜김수철과 친구들＞ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/44754932</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/44432908"/>
         <updated>2023-12-16T12:29:19.075Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신인으로는 볼 수 없는 멘트들! 실력파 아이돌 하이키의 선곡은? | KBS 231216 방송]]></title>
-        <id>https://tv.naver.com/v/44432720</id>
-        <link href="https://tv.naver.com/v/44432720"/>
-        <updated>2023-12-16T12:29:19.076Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불후 개인기 TIME💟 이수지의 성대모사 퍼레이드! | KBS 231216 방송]]></title>
-        <id>https://tv.naver.com/v/44432715</id>
-        <link href="https://tv.naver.com/v/44432715"/>
-        <updated>2023-12-16T12:29:19.077Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것이 록 밴드 에너지다🔥 남다른 무대매너를 보여준 소닉스톤즈의 무대 | KBS 231216 방송]]></title>
-        <id>https://tv.naver.com/v/44432486</id>
-        <link href="https://tv.naver.com/v/44432486"/>
-        <updated>2023-12-16T12:29:19.078Z</updated>
-        <content type="html"><![CDATA[01:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소닉스톤즈 - 붉은 노을 | KBS 231216 방송]]></title>
-        <id>https://tv.naver.com/v/44432329</id>
-        <link href="https://tv.naver.com/v/44432329"/>
-        <updated>2023-12-16T12:29:19.080Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
