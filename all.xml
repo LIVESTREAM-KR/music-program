@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-26T04:19:53.980Z</updated>
+    <updated>2023-12-26T05:16:10.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[＃shorts 에이티비오 컴백 인터뷰🎤(ATBO Comeback Interview) | KBS 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 12월 넷째 주 음악중심 MC 컷 모음!, MBC 231223 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/44851376</id>
+        <link href="https://tv.naver.com/v/44851376"/>
+        <updated>2023-12-26T05:15:35.354Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[샤이니 - 하드 (SHINee - HARD), MBC 231223 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/44766770</id>
         <link href="https://tv.naver.com/v/44766770"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/44765859"/>
         <updated>2023-12-23T08:18:58.603Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 - 드라마 (aespa - Drama), MBC 231223 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/44765857</id>
-        <link href="https://tv.naver.com/v/44765857"/>
-        <updated>2023-12-23T08:18:58.604Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[남우현 - Baby Baby | SBS 231210 방송 (인기가요)]]></title>
