@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2023-12-26T08:20:56.518Z</updated>
+    <updated>2023-12-26T09:16:22.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/44724317"/>
         <updated>2023-12-25T12:29:59.112Z</updated>
         <content type="html"><![CDATA[00:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반묶음&프릴 콤보는 올려야해😘]]></title>
+        <id>https://tv.naver.com/v/44720224</id>
+        <link href="https://tv.naver.com/v/44720224"/>
+        <updated>2023-12-26T09:16:11.278Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스에는 '믿듣데🫶 믿듣영🎵']]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44152482"/>
         <updated>2023-12-15T09:17:09.536Z</updated>
         <content type="html"><![CDATA[00:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4분할로 보는 에스파의 용안 ❤️]]></title>
-        <id>https://tv.naver.com/v/43915929</id>
-        <link href="https://tv.naver.com/v/43915929"/>
-        <updated>2023-12-10T09:14:56.543Z</updated>
-        <content type="html"><![CDATA[00:48]]></content>
     </entry>
 </feed>
