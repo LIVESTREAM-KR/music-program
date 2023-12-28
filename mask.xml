@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2023-12-28T01:09:23.727Z</updated>
+    <updated>2023-12-28T02:25:57.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 방예담😀 스타일대로 부르는 라이즈 《Get A Guitar》🎸ㅣ#방예담 MBC231224방송]]></title>
+        <id>https://tv.naver.com/v/44913429</id>
+        <link href="https://tv.naver.com/v/44913429"/>
+        <updated>2023-12-28T02:25:56.286Z</updated>
+        <content type="html"><![CDATA[11:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜예상 못 한 최상의 라인업에 역대급 반응!🔥 도파민 폭발 현장으로 초대합니다＞ 복면가왕 432회 예고, MBC 231231]]></title>
         <id>https://tv.naver.com/v/44799352</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44797390"/>
         <updated>2023-12-24T10:16:28.875Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['맛있게 맵다'의 정체는 가수 방예담!, MBC 231224 방송]]></title>
-        <id>https://tv.naver.com/v/44797238</id>
-        <link href="https://tv.naver.com/v/44797238"/>
-        <updated>2023-12-24T10:16:28.877Z</updated>
-        <content type="html"><![CDATA[01:22]]></content>
     </entry>
 </feed>
