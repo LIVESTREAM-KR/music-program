@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-29T08:20:36.490Z</updated>
+    <updated>2023-12-29T09:16:48.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[One Last Time - 골든걸스 | KBS 231201 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[쇼챔지기 심장 심폐소생술 중⚡ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/44975771</id>
+        <link href="https://tv.naver.com/v/44975771"/>
+        <updated>2023-12-29T09:16:36.097Z</updated>
+        <content type="html"><![CDATA[00:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Giddy Giddy Giddy 영은's day! 🎉 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/44866742</id>
         <link href="https://tv.naver.com/v/44866742"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/44152788"/>
         <updated>2023-12-13T09:17:06.402Z</updated>
         <content type="html"><![CDATA[00:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월 15일 라이즈 컴백 대기탑니다. 📅 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/44152745</id>
-        <link href="https://tv.naver.com/v/44152745"/>
-        <updated>2023-12-11T12:32:57.335Z</updated>
-        <content type="html"><![CDATA[00:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2023 피날레를 장식할 대기획 프로젝트! 🎸불후의 명곡 김수철과 친구들🎸 | KBS 방송 (불후의 명곡)]]></title>
