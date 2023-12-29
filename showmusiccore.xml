@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-29T07:15:45.795Z</updated>
+    <updated>2023-12-29T08:20:36.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 2022MBCMusicFestival.zip 📂 2022 MBC Music Festival Special Compilation]]></title>
+        <id>https://tv.naver.com/v/44621110</id>
+        <link href="https://tv.naver.com/v/44621110"/>
+        <updated>2023-12-29T08:20:01.784Z</updated>
+        <content type="html"><![CDATA[41:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ATEEZ – Crazy Form(에이티즈 - 미친 폼) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/44866804</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44766183"/>
         <updated>2023-12-23T08:18:58.601Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스 - 셋 미 프리 (TWICE - SET ME FREE), MBC 231223 방송]]></title>
-        <id>https://tv.naver.com/v/44766020</id>
-        <link href="https://tv.naver.com/v/44766020"/>
-        <updated>2023-12-23T08:18:58.602Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
