@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2023-12-29T06:22:20.248Z</updated>
+    <updated>2023-12-29T07:15:45.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ATEEZ – Crazy Form(에이티즈 - 미친 폼) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/44866804</id>
+        <link href="https://tv.naver.com/v/44866804"/>
+        <updated>2023-12-29T07:15:09.266Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 12월 넷째 주 음악중심 MC 컷 모음!, MBC 231223 방송]]></title>
         <id>https://tv.naver.com/v/44851376</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44766020"/>
         <updated>2023-12-23T08:18:58.602Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - 퀸카 ((G)I-DLE - Queencard), MBC 231223 방송]]></title>
-        <id>https://tv.naver.com/v/44765859</id>
-        <link href="https://tv.naver.com/v/44765859"/>
-        <updated>2023-12-23T08:18:58.603Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
