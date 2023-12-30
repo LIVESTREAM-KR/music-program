@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2023-12-30T09:15:37.804Z</updated>
+    <updated>2023-12-30T10:17:03.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MC들도 깜짝 놀란 라인업🔥 동서양 100인 오케스트라 ＜김수철과 친구들 특집＞ | KBS 231230 방송]]></title>
+        <id>https://tv.naver.com/v/45060578</id>
+        <link href="https://tv.naver.com/v/45060578"/>
+        <updated>2023-12-30T10:16:58.482Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포문을 열어줄 김수철의 첫 번째 절친 크라잉넛🥜 | KBS 231230 방송]]></title>
+        <id>https://tv.naver.com/v/45060553</id>
+        <link href="https://tv.naver.com/v/45060553"/>
+        <updated>2023-12-30T10:16:58.482Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수철 - 못다 핀 꽃 한 송이 | KBS 231230 방송]]></title>
+        <id>https://tv.naver.com/v/45060418</id>
+        <link href="https://tv.naver.com/v/45060418"/>
+        <updated>2023-12-30T10:16:58.484Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김수철 - 야상 | KBS 231230 방송]]></title>
+        <id>https://tv.naver.com/v/45060303</id>
+        <link href="https://tv.naver.com/v/45060303"/>
+        <updated>2023-12-30T10:16:58.485Z</updated>
+        <content type="html"><![CDATA[05:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2023 피날레를 장식할 대기획 프로젝트! 🎸불후의 명곡 김수철과 친구들🎸 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/44772672</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/44772326"/>
         <updated>2023-12-23T12:28:11.513Z</updated>
         <content type="html"><![CDATA[01:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이경규의 고독함을 알아봤던 김태원, 이경규의 영화화 제안을 거절한 이유?  | KBS 231223 방송]]></title>
-        <id>https://tv.naver.com/v/44772222</id>
-        <link href="https://tv.naver.com/v/44772222"/>
-        <updated>2023-12-23T12:28:11.514Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부활 - 사랑한 후에 | KBS 231223 방송]]></title>
-        <id>https://tv.naver.com/v/44772215</id>
-        <link href="https://tv.naver.com/v/44772215"/>
-        <updated>2023-12-23T12:28:11.517Z</updated>
-        <content type="html"><![CDATA[05:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 637회 ＜명사특집 이경규편 2부＞ 우승자 ⭐홍경민X정모⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/44772211</id>
-        <link href="https://tv.naver.com/v/44772211"/>
-        <updated>2023-12-23T12:28:11.519Z</updated>
-        <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태원에게 친형 같은 존재 이경규😭 부활의 선곡은? | KBS 231223 방송]]></title>
-        <id>https://tv.naver.com/v/44772054</id>
-        <link href="https://tv.naver.com/v/44772054"/>
-        <updated>2023-12-23T12:28:11.520Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
     </entry>
 </feed>
