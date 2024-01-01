@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-01T06:23:19.118Z</updated>
+    <updated>2024-01-01T07:16:13.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] December TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/44846337</id>
+        <link href="https://tv.naver.com/v/44846337"/>
+        <updated>2024-01-01T07:15:37.318Z</updated>
+        <content type="html"><![CDATA[34:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] 2022MBCMusicFestival.zip 📂 2022 MBC Music Festival Special Compilation]]></title>
         <id>https://tv.naver.com/v/44621110</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44766341"/>
         <updated>2023-12-23T08:18:58.597Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티드림 - 아이에스티제이 (NCT DREAM - ISTJ), MBC 231223 방송]]></title>
-        <id>https://tv.naver.com/v/44766183</id>
-        <link href="https://tv.naver.com/v/44766183"/>
-        <updated>2023-12-23T08:18:58.601Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
