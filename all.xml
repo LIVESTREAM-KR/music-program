@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-04T08:20:48.466Z</updated>
+    <updated>2024-01-04T09:16:58.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[One Last Time - 골든걸스 | KBS 231201 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[지헌과 함께 2024년도 we go we go!🩷 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/45197475</id>
+        <link href="https://tv.naver.com/v/45197475"/>
+        <updated>2024-01-04T09:16:46.967Z</updated>
+        <content type="html"><![CDATA[00:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쇼챔지기 심장 심폐소생술 중⚡ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/44975771</id>
         <link href="https://tv.naver.com/v/44975771"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/44152847"/>
         <updated>2023-12-12T09:17:19.095Z</updated>
         <content type="html"><![CDATA[00:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['BORN TO BE UNTOUCHABLE'한 있지 기대중 ❤️‍🔥 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/44152788</id>
-        <link href="https://tv.naver.com/v/44152788"/>
-        <updated>2023-12-13T09:17:06.402Z</updated>
-        <content type="html"><![CDATA[00:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🎸김수철과 친구들 특집 2부🎸 레전드 뮤지션 김수철과 함께하는 신년 무대✨️ | KBS 방송 (불후의 명곡)]]></title>
