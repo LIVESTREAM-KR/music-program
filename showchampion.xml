@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-05T08:21:03.372Z</updated>
+    <updated>2024-01-05T09:16:47.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요섭 생일이 후후후~ 불어 온다💚]]></title>
+        <id>https://tv.naver.com/v/45197705</id>
+        <link href="https://tv.naver.com/v/45197705"/>
+        <updated>2024-01-05T09:16:35.424Z</updated>
+        <content type="html"><![CDATA[00:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지헌과 함께 2024년도 we go we go!🩷]]></title>
         <id>https://tv.naver.com/v/45197475</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44719196"/>
         <updated>2023-12-22T09:16:42.929Z</updated>
         <content type="html"><![CDATA[00:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌟보다 빛나는 라이즈 (얼빡샷 최고(ง˙∇˙)ว)]]></title>
-        <id>https://tv.naver.com/v/44152847</id>
-        <link href="https://tv.naver.com/v/44152847"/>
-        <updated>2023-12-12T09:17:19.095Z</updated>
-        <content type="html"><![CDATA[00:43]]></content>
     </entry>
 </feed>
