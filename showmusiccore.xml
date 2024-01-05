@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-05T07:15:46.673Z</updated>
+    <updated>2024-01-05T08:21:03.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] New Year Song.zip 📂 Show! Music Core New Year's Song Special Compilation]]></title>
+        <id>https://tv.naver.com/v/45311417</id>
+        <link href="https://tv.naver.com/v/45311417"/>
+        <updated>2024-01-05T08:20:27.776Z</updated>
+        <content type="html"><![CDATA[01:02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] December TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/44846337</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44766343"/>
         <updated>2023-12-23T08:18:58.596Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스트레이 키즈 - 락(樂) (Stray Kids - LALALALA), MBC 231223 방송]]></title>
-        <id>https://tv.naver.com/v/44766341</id>
-        <link href="https://tv.naver.com/v/44766341"/>
-        <updated>2023-12-23T08:18:58.597Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
