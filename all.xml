@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-05T11:14:56.514Z</updated>
+    <updated>2024-01-05T12:31:27.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Down - 동방신기 | KBS 240105 방송 (뮤직뱅크)]]></title>
@@ -362,6 +362,13 @@
         <content type="html"><![CDATA[00:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[건물 사이에 피어난 장미들의 2주년🌹 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/45197624</id>
+        <link href="https://tv.naver.com/v/45197624"/>
+        <updated>2024-01-05T12:31:15.694Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지헌과 함께 2024년도 we go we go!🩷 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/45197475</id>
         <link href="https://tv.naver.com/v/45197475"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/44719450"/>
         <updated>2023-12-23T09:15:21.645Z</updated>
         <content type="html"><![CDATA[00:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼챔지기 취향저격 당한 문별의 치즈✌️ (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/44719196</id>
-        <link href="https://tv.naver.com/v/44719196"/>
-        <updated>2023-12-22T09:16:42.929Z</updated>
-        <content type="html"><![CDATA[00:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🎸김수철과 친구들 특집 2부🎸 레전드 뮤지션 김수철과 함께하는 신년 무대✨️ | KBS 방송 (불후의 명곡)]]></title>
