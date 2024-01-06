@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-01-06T09:15:07.987Z</updated>
+    <updated>2024-01-06T10:17:04.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김수철 - 소통 | KBS 240106 방송]]></title>
+        <id>https://tv.naver.com/v/45353466</id>
+        <link href="https://tv.naver.com/v/45353466"/>
+        <updated>2024-01-06T10:16:57.691Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 🎸김수철과 친구들 특집 2부🎸 레전드 뮤지션 김수철과 함께하는 신년 무대✨️ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/45063659</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45062261"/>
         <updated>2023-12-30T11:13:10.540Z</updated>
         <content type="html"><![CDATA[04:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양희은 (with. 성시경) - 늘 그대 | KBS 231230 방송]]></title>
-        <id>https://tv.naver.com/v/45062235</id>
-        <link href="https://tv.naver.com/v/45062235"/>
-        <updated>2023-12-30T11:13:10.540Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
     </entry>
 </feed>
