@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-01-07T07:15:04.815Z</updated>
+    <updated>2024-01-07T08:20:28.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[동방신기(TVXQ!) - Rebel | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45377627</id>
+        <link href="https://tv.naver.com/v/45377627"/>
+        <updated>2024-01-07T08:19:59.025Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동방신기(TVXQ!) - Jungle | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45377367</id>
+        <link href="https://tv.naver.com/v/45377367"/>
+        <updated>2024-01-07T08:19:59.028Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김종현 - MOTTO | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45377204</id>
+        <link href="https://tv.naver.com/v/45377204"/>
+        <updated>2024-01-07T08:19:59.029Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE BOYZ Special Unit - Honey | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45377203</id>
+        <link href="https://tv.naver.com/v/45377203"/>
+        <updated>2024-01-07T08:19:59.029Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIIZE - Love 119 | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45377057</id>
+        <link href="https://tv.naver.com/v/45377057"/>
+        <updated>2024-01-07T08:19:59.030Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경서 - 내 마음이 너에게 닿기를 | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45376927</id>
+        <link href="https://tv.naver.com/v/45376927"/>
+        <updated>2024-01-07T08:19:59.031Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정세운 - Quiz | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45376792</id>
+        <link href="https://tv.naver.com/v/45376792"/>
+        <updated>2024-01-07T08:19:59.033Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2Z - 너를 볼 때면 | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45376644</id>
+        <link href="https://tv.naver.com/v/45376644"/>
+        <updated>2024-01-07T08:19:59.034Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예빈나다(YEAHSHINE) - Stay with me | SBS 240107 방송]]></title>
         <id>https://tv.naver.com/v/45376463</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/45376285"/>
         <updated>2024-01-07T07:14:34.285Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼즐(PUZZLE) - SAVIOR | SBS 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45376283</id>
-        <link href="https://tv.naver.com/v/45376283"/>
-        <updated>2024-01-07T07:14:34.292Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTX - Holy Grail | SBS 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45375949</id>
-        <link href="https://tv.naver.com/v/45375949"/>
-        <updated>2024-01-07T07:14:34.292Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geenius - Voyage | SBS 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45375796</id>
-        <link href="https://tv.naver.com/v/45375796"/>
-        <updated>2024-01-07T07:14:34.293Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한이서(Yiseo HAN) - 버려진 인형(Abandoned doll) | SBS 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45375798</id>
-        <link href="https://tv.naver.com/v/45375798"/>
-        <updated>2024-01-07T07:14:34.294Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김보민 - 애착 | SBS 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45375521</id>
-        <link href="https://tv.naver.com/v/45375521"/>
-        <updated>2024-01-07T07:14:34.295Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이량 - 언니야 언니 | SBS 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45375490</id>
-        <link href="https://tv.naver.com/v/45375490"/>
-        <updated>2024-01-07T07:14:34.297Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남우현 - Baby Baby | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44106422</id>
-        <link href="https://tv.naver.com/v/44106422"/>
-        <updated>2023-12-10T08:19:10.161Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ(에이티즈) - 미친 폼(Crazy Form) | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44106073</id>
-        <link href="https://tv.naver.com/v/44106073"/>
-        <updated>2023-12-10T08:19:10.161Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
