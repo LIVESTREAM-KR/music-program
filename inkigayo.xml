@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-01-07T06:21:00.868Z</updated>
+    <updated>2024-01-07T07:15:04.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예빈나다(YEAHSHINE) - Stay with me | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45376463</id>
+        <link href="https://tv.naver.com/v/45376463"/>
+        <updated>2024-01-07T07:14:34.284Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - RU-PUM PUM | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45376285</id>
+        <link href="https://tv.naver.com/v/45376285"/>
+        <updated>2024-01-07T07:14:34.285Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼즐(PUZZLE) - SAVIOR | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45376283</id>
+        <link href="https://tv.naver.com/v/45376283"/>
+        <updated>2024-01-07T07:14:34.292Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTX - Holy Grail | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45375949</id>
+        <link href="https://tv.naver.com/v/45375949"/>
+        <updated>2024-01-07T07:14:34.292Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geenius - Voyage | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45375796</id>
+        <link href="https://tv.naver.com/v/45375796"/>
+        <updated>2024-01-07T07:14:34.293Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한이서(Yiseo HAN) - 버려진 인형(Abandoned doll) | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45375798</id>
+        <link href="https://tv.naver.com/v/45375798"/>
+        <updated>2024-01-07T07:14:34.294Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김보민 - 애착 | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45375521</id>
+        <link href="https://tv.naver.com/v/45375521"/>
+        <updated>2024-01-07T07:14:34.295Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이량 - 언니야 언니 | SBS 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45375490</id>
+        <link href="https://tv.naver.com/v/45375490"/>
+        <updated>2024-01-07T07:14:34.297Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남우현 - Baby Baby | SBS 231210 방송]]></title>
         <id>https://tv.naver.com/v/44106422</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/44106073"/>
         <updated>2023-12-10T08:19:10.161Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림캐쳐 - OOTD | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44105752</id>
-        <link href="https://tv.naver.com/v/44105752"/>
-        <updated>2023-12-10T08:19:10.163Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백호(BAEKHO) (feat. 박지원 of 프로미스나인) - What are we | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44105746</id>
-        <link href="https://tv.naver.com/v/44105746"/>
-        <updated>2023-12-10T08:19:10.163Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비(DKB) - What The Hell | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44105501</id>
-        <link href="https://tv.naver.com/v/44105501"/>
-        <updated>2023-12-10T08:19:10.165Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCND - ODD-VENTURE | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44105492</id>
-        <link href="https://tv.naver.com/v/44105492"/>
-        <updated>2023-12-10T08:19:10.167Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATBO - Must Have Love | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44105215</id>
-        <link href="https://tv.naver.com/v/44105215"/>
-        <updated>2023-12-10T08:19:10.167Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weeekly(위클리) - Backwards | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44104998</id>
-        <link href="https://tv.naver.com/v/44104998"/>
-        <updated>2023-12-10T08:19:10.168Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTX - Holy Grail | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44104992</id>
-        <link href="https://tv.naver.com/v/44104992"/>
-        <updated>2023-12-10T08:19:10.170Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHIB - BANG! | SBS 231210 방송]]></title>
-        <id>https://tv.naver.com/v/44104723</id>
-        <link href="https://tv.naver.com/v/44104723"/>
-        <updated>2023-12-10T07:15:08.353Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
 </feed>
