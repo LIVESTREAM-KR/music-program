@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-01-07T23:17:11.326Z</updated>
+    <updated>2024-01-08T01:13:20.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['8월의 크리스마스'의 정체는 제국의 아이들 김태헌!, MBC 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45399967</id>
+        <link href="https://tv.naver.com/v/45399967"/>
+        <updated>2024-01-08T01:13:19.971Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜매력 가득! 흥과 끼가 폭발한다💥 이번 주 짜릿한 무대의 주인공은?＞ 복면가왕 434회 예고, MBC 240114]]></title>
         <id>https://tv.naver.com/v/45383370</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45381423"/>
         <updated>2024-01-07T10:17:59.058Z</updated>
         <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명곡의 원곡 가수?! '별 요정'의 댓글 모음 힌트!, MBC 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45381258</id>
-        <link href="https://tv.naver.com/v/45381258"/>
-        <updated>2024-01-07T10:17:59.059Z</updated>
-        <content type="html"><![CDATA[01:41]]></content>
     </entry>
 </feed>
