@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-09T09:17:10.469Z</updated>
+    <updated>2024-01-09T10:18:41.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MC 성한빈이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/45485981</id>
+        <link href="https://tv.naver.com/v/45485981"/>
+        <updated>2024-01-09T10:18:17.747Z</updated>
+        <content type="html"><![CDATA[00:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['야망캐 재현 & 알잘딱깔센 소희' ♥두근두근♥ 엠카 NEW MC 사전 미팅 날]]></title>
         <id>https://tv.naver.com/v/45460240</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/42951311"/>
         <updated>2023-11-16T11:14:07.471Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT SOLO DEBUT' 방예담 - Miss You | Mnet 231116 방송]]></title>
-        <id>https://tv.naver.com/v/42951307</id>
-        <link href="https://tv.naver.com/v/42951307"/>
-        <updated>2023-11-16T11:14:07.471Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
