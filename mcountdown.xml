@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-09T02:31:04.019Z</updated>
+    <updated>2024-01-09T03:18:19.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['야망캐 재현 & 알잘딱깔센 소희' ♥두근두근♥ 엠카 NEW MC 사전 미팅 날]]></title>
+        <id>https://tv.naver.com/v/45460240</id>
+        <link href="https://tv.naver.com/v/45460240"/>
+        <updated>2024-01-09T03:17:58.824Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[1위] 'COMEBACK' 정국 - Standing Next to You | Mnet 231116 방송]]></title>
         <id>https://tv.naver.com/v/42952860</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/42951307"/>
         <updated>2023-11-16T11:14:07.471Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZEROBASEONE - CRUSH (가시) | Mnet 231116 방송]]></title>
-        <id>https://tv.naver.com/v/42951040</id>
-        <link href="https://tv.naver.com/v/42951040"/>
-        <updated>2023-11-16T11:14:07.471Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>

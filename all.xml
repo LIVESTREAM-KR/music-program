@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-09T02:31:04.020Z</updated>
+    <updated>2024-01-09T03:18:19.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Down - 동방신기 | KBS 240105 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['야망캐 재현 & 알잘딱깔센 소희' ♥두근두근♥ 엠카 NEW MC 사전 미팅 날 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/45460240</id>
+        <link href="https://tv.naver.com/v/45460240"/>
+        <updated>2024-01-09T03:17:58.824Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[1위] 'COMEBACK' 정국 - Standing Next to You | Mnet 231116 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/42952860</id>
         <link href="https://tv.naver.com/v/42952860"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/42951307"/>
         <updated>2023-11-16T11:14:07.471Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZEROBASEONE - CRUSH (가시) | Mnet 231116 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/42951040</id>
-        <link href="https://tv.naver.com/v/42951040"/>
-        <updated>2023-11-16T11:14:07.471Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
