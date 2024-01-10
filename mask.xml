@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-01-10T10:18:23.012Z</updated>
+    <updated>2024-01-10T11:15:36.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -27,25 +27,11 @@
         <content type="html"><![CDATA[02:48]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['인센스'의 가왕 방어전 무대 - 동경, MBC 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45382783</id>
-        <link href="https://tv.naver.com/v/45382783"/>
-        <updated>2024-01-07T11:14:08.390Z</updated>
-        <content type="html"><![CDATA[04:49]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['함박눈'의 정체는 프로미스나인 이서연!, MBC 240107 방송]]></title>
         <id>https://tv.naver.com/v/45382618</id>
         <link href="https://tv.naver.com/v/45382618"/>
         <updated>2024-01-07T11:14:08.392Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['함박눈' 3라운드 무대 - 불장난, MBC 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45382446</id>
-        <link href="https://tv.naver.com/v/45382446"/>
-        <updated>2024-01-07T11:14:08.393Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['중요한 건 꺾이지 않는 마음' 3라운드 무대 - My Way, MBC 240107 방송]]></title>
@@ -74,5 +60,19 @@
         <link href="https://tv.naver.com/v/45381423"/>
         <updated>2024-01-07T10:17:59.058Z</updated>
         <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명곡의 원곡 가수?! '별 요정'의 댓글 모음 힌트!, MBC 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45381258</id>
+        <link href="https://tv.naver.com/v/45381258"/>
+        <updated>2024-01-10T11:15:35.774Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['중요한 건 꺾이지 않는 마음' 2라운드 무대 - 형, MBC 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45381021</id>
+        <link href="https://tv.naver.com/v/45381021"/>
+        <updated>2024-01-10T11:15:35.775Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
