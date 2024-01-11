@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-01-11T04:21:06.340Z</updated>
+    <updated>2024-01-11T05:16:59.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 노래도 잘 부르고 야구도 잘하는 최준용😏이 부르는 《형》, 《My Way》ㅣ#최준용 MBC240107방송]]></title>
+        <id>https://tv.naver.com/v/45415522</id>
+        <link href="https://tv.naver.com/v/45415522"/>
+        <updated>2024-01-11T05:16:58.799Z</updated>
+        <content type="html"><![CDATA[18:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['8월의 크리스마스'의 정체는 제국의 아이들 김태헌!, MBC 240107 방송]]></title>
         <id>https://tv.naver.com/v/45399967</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45381663"/>
         <updated>2024-01-07T10:17:59.057Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['별 요정'의 정체는 가수 박정은!, MBC 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45381423</id>
-        <link href="https://tv.naver.com/v/45381423"/>
-        <updated>2024-01-07T10:17:59.058Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
     </entry>
 </feed>
