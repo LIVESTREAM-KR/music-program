@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-11T08:21:46.830Z</updated>
+    <updated>2024-01-11T09:17:30.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제발 한 번만 들어줨비비..비비비..비..🧟‍♀️]]></title>
+        <id>https://tv.naver.com/v/45481379</id>
+        <link href="https://tv.naver.com/v/45481379"/>
+        <updated>2024-01-11T09:17:18.913Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몬엑는 러브킬라..❤️‍🔥 (나는 그냥 에프킬라..🦟)]]></title>
         <id>https://tv.naver.com/v/45481295</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44724317"/>
         <updated>2023-12-25T12:29:59.112Z</updated>
         <content type="html"><![CDATA[00:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반묶음&프릴 콤보는 올려야해😘]]></title>
-        <id>https://tv.naver.com/v/44720224</id>
-        <link href="https://tv.naver.com/v/44720224"/>
-        <updated>2023-12-26T09:16:11.278Z</updated>
-        <content type="html"><![CDATA[00:32]]></content>
     </entry>
 </feed>
