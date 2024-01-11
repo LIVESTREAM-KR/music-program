@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-11T11:14:38.808Z</updated>
+    <updated>2024-01-11T12:31:46.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 동방신기 (TVXQ!) - Rebel | Mnet 240111 방송]]></title>
+        <id>https://tv.naver.com/v/45601373</id>
+        <link href="https://tv.naver.com/v/45601373"/>
+        <updated>2024-01-11T12:31:24.914Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 동방신기 (TVXQ!) - The Way U Are (Unplugged Ver.) | Mnet 240111 방송]]></title>
+        <id>https://tv.naver.com/v/45601064</id>
+        <link href="https://tv.naver.com/v/45601064"/>
+        <updated>2024-01-11T12:31:24.916Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 규현 (KYUHYUN) - 그렇지 않아 | Mnet 240111 방송]]></title>
+        <id>https://tv.naver.com/v/45600832</id>
+        <link href="https://tv.naver.com/v/45600832"/>
+        <updated>2024-01-11T12:31:24.917Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' B1A4 - REWIND | Mnet 240111 방송]]></title>
         <id>https://tv.naver.com/v/45600332</id>
@@ -25,13 +46,6 @@
         <link href="https://tv.naver.com/v/45600115"/>
         <updated>2024-01-11T11:14:15.560Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ITZY - UNTOUCHABLE | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45599951</id>
-        <link href="https://tv.naver.com/v/45599951"/>
-        <updated>2024-01-11T11:14:15.561Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' ITZY - BORN TO BE | Mnet 240111 방송]]></title>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/45599340"/>
         <updated>2024-01-11T11:14:15.568Z</updated>
         <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 8TURN(에잇턴) - RU-PUM PUM | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45598848</id>
-        <link href="https://tv.naver.com/v/45598848"/>
-        <updated>2024-01-11T11:14:15.569Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' ITZY with MIDZY♥ | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45598638</id>
-        <link href="https://tv.naver.com/v/45598638"/>
-        <updated>2024-01-11T11:14:15.571Z</updated>
-        <content type="html"><![CDATA[04:24]]></content>
     </entry>
 </feed>
