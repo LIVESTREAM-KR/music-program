@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-11T12:31:46.019Z</updated>
+    <updated>2024-01-11T13:20:45.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' ITZY - UNTOUCHABLE | Mnet 240111 방송]]></title>
+        <id>https://tv.naver.com/v/45599951</id>
+        <link href="https://tv.naver.com/v/45599951"/>
+        <updated>2024-01-11T13:20:21.698Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' ITZY - BORN TO BE | Mnet 240111 방송]]></title>
         <id>https://tv.naver.com/v/45599716</id>
         <link href="https://tv.naver.com/v/45599716"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45599521"/>
         <updated>2024-01-11T11:14:15.566Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' RIIZE - Love 119 | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45599340</id>
-        <link href="https://tv.naver.com/v/45599340"/>
-        <updated>2024-01-11T11:14:15.568Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
     </entry>
 </feed>
