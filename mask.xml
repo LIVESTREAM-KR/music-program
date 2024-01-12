@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-01-12T08:22:12.370Z</updated>
+    <updated>2024-01-12T09:17:37.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 랩부터 보컬까지🎤소화하는 올라운더✨프로미스나인 이서연의 무대 하이라이트!, MBC 240107 방송]]></title>
+        <id>https://tv.naver.com/v/45649553</id>
+        <link href="https://tv.naver.com/v/45649553"/>
+        <updated>2024-01-12T09:17:36.804Z</updated>
+        <content type="html"><![CDATA[10:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 노래도 잘 부르고 야구도 잘하는 최준용😏이 부르는 《형》, 《My Way》ㅣ#최준용 MBC240107방송]]></title>
         <id>https://tv.naver.com/v/45415522</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45381664"/>
         <updated>2024-01-07T10:17:59.054Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['8월의 크리스마스' 2라운드 무대 - 예술이야, MBC 240107 방송]]></title>
-        <id>https://tv.naver.com/v/45381663</id>
-        <link href="https://tv.naver.com/v/45381663"/>
-        <updated>2024-01-07T10:17:59.057Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
