@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-12T06:23:30.146Z</updated>
+    <updated>2024-01-12T07:16:31.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 00s.zip 📂 Show! Music Core born in 00s Group Special Compilation]]></title>
+        <id>https://tv.naver.com/v/44859524</id>
+        <link href="https://tv.naver.com/v/44859524"/>
+        <updated>2024-01-12T07:15:54.405Z</updated>
+        <content type="html"><![CDATA[01:10:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] New Year Song.zip 📂 Show! Music Core New Year's Song Special Compilation]]></title>
         <id>https://tv.naver.com/v/45311417</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44766501"/>
         <updated>2023-12-23T08:18:58.595Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔시티 127 - 불가사의; 不可思議 (NCT 127 - Fact Check ), MBC 231223 방송]]></title>
-        <id>https://tv.naver.com/v/44766343</id>
-        <link href="https://tv.naver.com/v/44766343"/>
-        <updated>2023-12-23T08:18:58.596Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
