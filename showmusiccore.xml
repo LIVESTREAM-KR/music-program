@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-13T10:17:23.795Z</updated>
+    <updated>2024-01-13T11:14:04.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] KYUHYUN- who Am I(규현 – 그렇지 않아) FanCam (Horizontal Ver.) | Show! MusicCore | MBC240113방송]]></title>
+        <id>https://tv.naver.com/v/45690512</id>
+        <link href="https://tv.naver.com/v/45690512"/>
+        <updated>2024-01-13T11:13:33.135Z</updated>
+        <content type="html"><![CDATA[04:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] B1A4 SANDEUL – REWIND(비원에이포 산들 - 리와인드) FanCam | Show! MusicCore | MBC240113방송]]></title>
         <id>https://tv.naver.com/v/45690227</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45689245"/>
         <updated>2024-01-13T10:16:47.542Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Geenius - Voyage(지니어스 – 보야지) FanCam | Show! MusicCore | MBC240113방송]]></title>
-        <id>https://tv.naver.com/v/45688501</id>
-        <link href="https://tv.naver.com/v/45688501"/>
-        <updated>2024-01-13T10:16:47.544Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
     </entry>
 </feed>
