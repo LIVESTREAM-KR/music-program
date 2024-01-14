@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-14T06:21:06.435Z</updated>
+    <updated>2024-01-14T07:15:21.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REWIND - B1A4 | KBS 240112 방송 (뮤직뱅크)]]></title>
@@ -145,6 +145,48 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[온리원오브(OnlyOneOf) - dOpamine | SBS 240114 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/45712444</id>
+        <link href="https://tv.naver.com/v/45712444"/>
+        <updated>2024-01-14T07:14:50.912Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLASS:y(클라씨) - Winter Bloom | SBS 240114 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/45712441</id>
+        <link href="https://tv.naver.com/v/45712441"/>
+        <updated>2024-01-14T07:14:50.914Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN(에잇턴) - RU-PUM PUM | SBS 240114 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/45712405</id>
+        <link href="https://tv.naver.com/v/45712405"/>
+        <updated>2024-01-14T07:14:50.918Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - TA-DA! | SBS 240114 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/45712228</id>
+        <link href="https://tv.naver.com/v/45712228"/>
+        <updated>2024-01-14T07:14:50.919Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - 으랏차차(GOTCHA) | SBS 240114 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/45712040</id>
+        <link href="https://tv.naver.com/v/45712040"/>
+        <updated>2024-01-14T07:14:50.921Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geenius - Voyage | SBS 240114 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/45711867</id>
+        <link href="https://tv.naver.com/v/45711867"/>
+        <updated>2024-01-14T07:14:50.922Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[동방신기(TVXQ!) - Rebel | SBS 240107 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/45377627</id>
         <link href="https://tv.naver.com/v/45377627"/>
@@ -171,48 +213,6 @@
         <link href="https://tv.naver.com/v/45377203"/>
         <updated>2024-01-07T08:19:59.029Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE - Love 119 | SBS 240107 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/45377057</id>
-        <link href="https://tv.naver.com/v/45377057"/>
-        <updated>2024-01-07T08:19:59.030Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경서 - 내 마음이 너에게 닿기를 | SBS 240107 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/45376927</id>
-        <link href="https://tv.naver.com/v/45376927"/>
-        <updated>2024-01-07T08:19:59.031Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정세운 - Quiz | SBS 240107 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/45376792</id>
-        <link href="https://tv.naver.com/v/45376792"/>
-        <updated>2024-01-07T08:19:59.033Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2Z - 너를 볼 때면 | SBS 240107 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/45376644</id>
-        <link href="https://tv.naver.com/v/45376644"/>
-        <updated>2024-01-07T08:19:59.034Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예빈나다(YEAHSHINE) - Stay with me | SBS 240107 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/45376463</id>
-        <link href="https://tv.naver.com/v/45376463"/>
-        <updated>2024-01-07T07:14:34.284Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - RU-PUM PUM | SBS 240107 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/45376285</id>
-        <link href="https://tv.naver.com/v/45376285"/>
-        <updated>2024-01-07T07:14:34.285Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' 동방신기 (TVXQ!) - Rebel | Mnet 240111 방송 (엠카운트다운)]]></title>
