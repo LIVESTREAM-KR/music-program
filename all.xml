@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-15T09:18:37.779Z</updated>
+    <updated>2024-01-15T10:19:46.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REWIND - B1A4 | KBS 240112 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ITZY RYUJIN - UNTOUCHABLE(있지 류진 - 언터처블) Close-up Cam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/45763897</id>
+        <link href="https://tv.naver.com/v/45763897"/>
+        <updated>2024-01-15T10:19:08.959Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] B1A4 SANDEUL - REWIND(비원에이포 산들 - 리와인드) Close-up Cam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/45763631</id>
+        <link href="https://tv.naver.com/v/45763631"/>
+        <updated>2024-01-15T10:19:08.967Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 에릭(더보이즈) X 설윤 X 이정하 , 1월 둘째 주 음악중심 MC 컷 모음! , MBC 240113 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/45748604</id>
         <link href="https://tv.naver.com/v/45748604"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/45689575"/>
         <updated>2024-01-13T10:16:47.538Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SF9 - BIBORA(에스에프나인 – 비보라) FanCam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/45689574</id>
-        <link href="https://tv.naver.com/v/45689574"/>
-        <updated>2024-01-13T10:16:47.540Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] JD1– who Am I(제이디원 - 후 엠 아이) FanCam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/45689246</id>
-        <link href="https://tv.naver.com/v/45689246"/>
-        <updated>2024-01-13T10:16:47.541Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[규현 - 그렇지 않아(The Story Behind) | SBS 240114 방송 (인기가요)]]></title>
