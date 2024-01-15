@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-15T08:23:12.542Z</updated>
+    <updated>2024-01-15T09:18:37.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REWIND - B1A4 | KBS 240112 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[4D로 느껴지는 형원의 무브 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/45759259</id>
+        <link href="https://tv.naver.com/v/45759259"/>
+        <updated>2024-01-15T09:18:25.166Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔시티드림과 쇼챔은 완벽한 궁합! 🫶 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/45640897</id>
         <link href="https://tv.naver.com/v/45640897"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/45197433"/>
         <updated>2024-01-06T09:14:55.266Z</updated>
         <content type="html"><![CDATA[00:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼챔지기 심장 심폐소생술 중⚡ (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/44975771</id>
-        <link href="https://tv.naver.com/v/44975771"/>
-        <updated>2023-12-29T09:16:36.097Z</updated>
-        <content type="html"><![CDATA[00:47]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] ❄️워너비 페스티벌 in 평창 2부❄️ 장르별 별들의 초특급 헌정 무대 ❤‍🔥 | KBS 방송 (불후의 명곡)]]></title>
