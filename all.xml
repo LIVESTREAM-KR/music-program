@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-15T12:32:57.996Z</updated>
+    <updated>2024-01-15T13:21:21.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REWIND - B1A4 | KBS 240112 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엠카운트다운 NEW MC ✨샤인멍또캣✨ 조합명 선정 과정 대공개💗 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/45774933</id>
+        <link href="https://tv.naver.com/v/45774933"/>
+        <updated>2024-01-15T13:20:59.627Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['COMEBACK' 동방신기 (TVXQ!) - Rebel | Mnet 240111 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/45601373</id>
         <link href="https://tv.naver.com/v/45601373"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/45599712"/>
         <updated>2024-01-11T11:14:15.565Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 정세운 - Quiz | Mnet 240111 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/45599521</id>
-        <link href="https://tv.naver.com/v/45599521"/>
-        <updated>2024-01-11T11:14:15.566Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>

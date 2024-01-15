@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-15T12:32:57.989Z</updated>
+    <updated>2024-01-15T13:21:21.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엠카운트다운 NEW MC ✨샤인멍또캣✨ 조합명 선정 과정 대공개💗]]></title>
+        <id>https://tv.naver.com/v/45774933</id>
+        <link href="https://tv.naver.com/v/45774933"/>
+        <updated>2024-01-15T13:20:59.627Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' 동방신기 (TVXQ!) - Rebel | Mnet 240111 방송]]></title>
         <id>https://tv.naver.com/v/45601373</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45599712"/>
         <updated>2024-01-11T11:14:15.565Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 정세운 - Quiz | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45599521</id>
-        <link href="https://tv.naver.com/v/45599521"/>
-        <updated>2024-01-11T11:14:15.566Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
