@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-16T11:14:43.813Z</updated>
+    <updated>2024-01-16T12:32:29.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RIIZE가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/45826373</id>
+        <link href="https://tv.naver.com/v/45826373"/>
+        <updated>2024-01-16T12:32:07.952Z</updated>
+        <content type="html"><![CDATA[00:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엠카운트다운 NEW MC ✨샤인멍또캣✨ 조합명 선정 과정 대공개💗]]></title>
         <id>https://tv.naver.com/v/45774933</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45599716"/>
         <updated>2024-01-11T11:14:15.563Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT DEBUT' THE BOYZ Special Unit - Honey | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45599712</id>
-        <link href="https://tv.naver.com/v/45599712"/>
-        <updated>2024-01-11T11:14:15.565Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
