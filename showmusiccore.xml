@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-16T07:16:16.172Z</updated>
+    <updated>2024-01-16T08:22:05.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠]THE BOYZ Special Unit ERIC-Honey(더보이즈 스페셜 유닛 에릭-허니)Close-upCam|Show! MusicCore|MBC240113방송]]></title>
+        <id>https://tv.naver.com/v/45796847</id>
+        <link href="https://tv.naver.com/v/45796847"/>
+        <updated>2024-01-16T08:21:30.153Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠]THE BOYZ Special Unit SUNWOO-Honey(더보이즈 스페셜 유닛 선우-허니) Close-upCam|Show!MusicCore |MBC240113방]]></title>
+        <id>https://tv.naver.com/v/45796846</id>
+        <link href="https://tv.naver.com/v/45796846"/>
+        <updated>2024-01-16T08:21:30.154Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] B1A4.zip 📂 O.K부터 REWIND까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/45749983</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/45763899"/>
         <updated>2024-01-16T02:30:07.430Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ITZY RYUJIN - UNTOUCHABLE(있지 류진 - 언터처블) Close-up Cam | Show! MusicCore | MBC240113방송]]></title>
-        <id>https://tv.naver.com/v/45763897</id>
-        <link href="https://tv.naver.com/v/45763897"/>
-        <updated>2024-01-15T10:19:08.959Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] B1A4 SANDEUL - REWIND(비원에이포 산들 - 리와인드) Close-up Cam | Show! MusicCore | MBC240113방송]]></title>
-        <id>https://tv.naver.com/v/45763631</id>
-        <link href="https://tv.naver.com/v/45763631"/>
-        <updated>2024-01-15T10:19:08.967Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
     </entry>
 </feed>
