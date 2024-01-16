@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-16T06:22:49.053Z</updated>
+    <updated>2024-01-16T07:16:16.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] B1A4.zip 📂 O.K부터 REWIND까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/45749983</id>
+        <link href="https://tv.naver.com/v/45749983"/>
+        <updated>2024-01-16T07:15:44.880Z</updated>
+        <content type="html"><![CDATA[59:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] RIIZE WONBIN - Love 119(라이즈 원빈 - 러브 119) Close-up Cam | Show! MusicCore | MBC240113방송]]></title>
         <id>https://tv.naver.com/v/45768346</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45763631"/>
         <updated>2024-01-15T10:19:08.967Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 에릭(더보이즈) X 설윤 X 이정하 , 1월 둘째 주 음악중심 MC 컷 모음! , MBC 240113 방송]]></title>
-        <id>https://tv.naver.com/v/45748604</id>
-        <link href="https://tv.naver.com/v/45748604"/>
-        <updated>2024-01-15T06:23:16.066Z</updated>
-        <content type="html"><![CDATA[15:59]]></content>
     </entry>
 </feed>

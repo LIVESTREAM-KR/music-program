@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-16T06:22:49.058Z</updated>
+    <updated>2024-01-16T07:16:16.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REWIND - B1A4 | KBS 240112 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] B1A4.zip 📂 O.K부터 REWIND까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/45749983</id>
+        <link href="https://tv.naver.com/v/45749983"/>
+        <updated>2024-01-16T07:15:44.880Z</updated>
+        <content type="html"><![CDATA[59:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] RIIZE WONBIN - Love 119(라이즈 원빈 - 러브 119) Close-up Cam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/45768346</id>
         <link href="https://tv.naver.com/v/45768346"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/45763631"/>
         <updated>2024-01-15T10:19:08.967Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 에릭(더보이즈) X 설윤 X 이정하 , 1월 둘째 주 음악중심 MC 컷 모음! , MBC 240113 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/45748604</id>
-        <link href="https://tv.naver.com/v/45748604"/>
-        <updated>2024-01-15T06:23:16.066Z</updated>
-        <content type="html"><![CDATA[15:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[규현 - 그렇지 않아(The Story Behind) | SBS 240114 방송 (인기가요)]]></title>
@@ -509,6 +509,13 @@
         <content type="html"><![CDATA[01:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[출연 소감 자작곡으로?! '희로애락도 락이다'의 상큼한 자작곡 무대🎶, MBC 240114 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/45720416</id>
+        <link href="https://tv.naver.com/v/45720416"/>
+        <updated>2024-01-16T07:16:15.518Z</updated>
+        <content type="html"><![CDATA[01:24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['오답도 답이다' VS '희로애락도 락이다'의 1라운드 무대 - 리듬 속에 그 춤을, MBC 240114 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/45720096</id>
         <link href="https://tv.naver.com/v/45720096"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/45718430"/>
         <updated>2024-01-14T10:17:23.727Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['통닭엔 맥주'의 정체는 코미디언 김승진!, MBC 240114 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/45718094</id>
-        <link href="https://tv.naver.com/v/45718094"/>
-        <updated>2024-01-16T02:30:40.699Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
