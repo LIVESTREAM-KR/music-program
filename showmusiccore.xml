@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-16T01:13:13.497Z</updated>
+    <updated>2024-01-16T02:30:41.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ITZY CHAERYEONG - BORN TO BE(있지 채령 - 본 투 비) Close-up Cam | Show! MusicCore | MBC240113방송]]></title>
+        <id>https://tv.naver.com/v/45763899</id>
+        <link href="https://tv.naver.com/v/45763899"/>
+        <updated>2024-01-16T02:30:07.430Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ITZY RYUJIN - UNTOUCHABLE(있지 류진 - 언터처블) Close-up Cam | Show! MusicCore | MBC240113방송]]></title>
         <id>https://tv.naver.com/v/45763897</id>
         <link href="https://tv.naver.com/v/45763897"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45748604"/>
         <updated>2024-01-15T06:23:16.066Z</updated>
         <content type="html"><![CDATA[15:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KYUHYUN- The Story Behind (규현 – 그렇지 않아) FanCam (Horizontal Ver.)|Show!MusicCore|MBC240113방송]]></title>
-        <id>https://tv.naver.com/v/45693629</id>
-        <link href="https://tv.naver.com/v/45693629"/>
-        <updated>2024-01-13T12:29:26.056Z</updated>
-        <content type="html"><![CDATA[04:26]]></content>
     </entry>
 </feed>

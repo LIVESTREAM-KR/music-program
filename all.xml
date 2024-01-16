@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-16T01:13:13.531Z</updated>
+    <updated>2024-01-16T02:30:41.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REWIND - B1A4 | KBS 240112 방송 (뮤직뱅크)]]></title>
@@ -117,6 +117,13 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ITZY CHAERYEONG - BORN TO BE(있지 채령 - 본 투 비) Close-up Cam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/45763899</id>
+        <link href="https://tv.naver.com/v/45763899"/>
+        <updated>2024-01-16T02:30:07.430Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ITZY RYUJIN - UNTOUCHABLE(있지 류진 - 언터처블) Close-up Cam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/45763897</id>
         <link href="https://tv.naver.com/v/45763897"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/45748604"/>
         <updated>2024-01-15T06:23:16.066Z</updated>
         <content type="html"><![CDATA[15:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KYUHYUN- The Story Behind (규현 – 그렇지 않아) FanCam (Horizontal Ver.)|Show!MusicCore|MBC240113방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/45693629</id>
-        <link href="https://tv.naver.com/v/45693629"/>
-        <updated>2024-01-13T12:29:26.056Z</updated>
-        <content type="html"><![CDATA[04:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[규현 - 그렇지 않아(The Story Behind) | SBS 240114 방송 (인기가요)]]></title>
@@ -509,13 +509,6 @@
         <content type="html"><![CDATA[01:11]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출연 소감 자작곡으로?! '희로애락도 락이다'의 상큼한 자작곡 무대🎶, MBC 240114 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/45720416</id>
-        <link href="https://tv.naver.com/v/45720416"/>
-        <updated>2024-01-14T11:14:00.718Z</updated>
-        <content type="html"><![CDATA[01:23]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['오답도 답이다' VS '희로애락도 락이다'의 1라운드 무대 - 리듬 속에 그 춤을, MBC 240114 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/45720096</id>
         <link href="https://tv.naver.com/v/45720096"/>
@@ -563,5 +556,12 @@
         <link href="https://tv.naver.com/v/45718430"/>
         <updated>2024-01-14T10:17:23.727Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['통닭엔 맥주'의 정체는 코미디언 김승진!, MBC 240114 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/45718094</id>
+        <link href="https://tv.naver.com/v/45718094"/>
+        <updated>2024-01-16T02:30:40.699Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>

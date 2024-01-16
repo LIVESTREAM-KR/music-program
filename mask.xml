@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-01-16T01:13:13.504Z</updated>
+    <updated>2024-01-16T02:30:41.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://tv.naver.com/v/45720829"/>
         <updated>2024-01-14T11:14:00.716Z</updated>
         <content type="html"><![CDATA[01:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출연 소감 자작곡으로?! '희로애락도 락이다'의 상큼한 자작곡 무대🎶, MBC 240114 방송]]></title>
-        <id>https://tv.naver.com/v/45720416</id>
-        <link href="https://tv.naver.com/v/45720416"/>
-        <updated>2024-01-14T11:14:00.718Z</updated>
-        <content type="html"><![CDATA[01:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['오답도 답이다' VS '희로애락도 락이다'의 1라운드 무대 - 리듬 속에 그 춤을, MBC 240114 방송]]></title>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/45718430"/>
         <updated>2024-01-14T10:17:23.727Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['통닭엔 맥주'의 정체는 코미디언 김승진!, MBC 240114 방송]]></title>
+        <id>https://tv.naver.com/v/45718094</id>
+        <link href="https://tv.naver.com/v/45718094"/>
+        <updated>2024-01-16T02:30:40.699Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
