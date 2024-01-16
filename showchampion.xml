@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-16T08:22:05.061Z</updated>
+    <updated>2024-01-16T09:17:35.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이름부터 주인공인 주연 등장✨]]></title>
+        <id>https://tv.naver.com/v/45759315</id>
+        <link href="https://tv.naver.com/v/45759315"/>
+        <updated>2024-01-16T09:17:24.155Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4D로 느껴지는 형원의 무브]]></title>
         <id>https://tv.naver.com/v/45759259</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45197475"/>
         <updated>2024-01-04T09:16:46.967Z</updated>
         <content type="html"><![CDATA[00:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예슈화 표정은..리얼 감동 실화 💖]]></title>
-        <id>https://tv.naver.com/v/45197433</id>
-        <link href="https://tv.naver.com/v/45197433"/>
-        <updated>2024-01-06T09:14:55.266Z</updated>
-        <content type="html"><![CDATA[00:15]]></content>
     </entry>
 </feed>
