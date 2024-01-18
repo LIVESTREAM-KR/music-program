@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-18T06:23:10.088Z</updated>
+    <updated>2024-01-18T07:16:51.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RIIZE.zip 📂 Get A Guitar부터 Love 119까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/45798866</id>
+        <link href="https://tv.naver.com/v/45798866"/>
+        <updated>2024-01-18T07:16:15.430Z</updated>
+        <content type="html"><![CDATA[13:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] FANTASY BOYS -  Get it on (판타지 보이즈 - 겟 잇 온)  | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/45860074</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45768082"/>
         <updated>2024-01-15T11:14:27.382Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE SHOTARO - Love 119(라이즈 쇼타로 - 러브 119) Close-up Cam | Show! MusicCore | MBC240113방송]]></title>
-        <id>https://tv.naver.com/v/45767839</id>
-        <link href="https://tv.naver.com/v/45767839"/>
-        <updated>2024-01-15T11:14:27.390Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
