@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-18T13:20:52.408Z</updated>
+    <updated>2024-01-18T14:16:26.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정세운 - Quiz | Mnet 240118 방송]]></title>
+        <id>https://tv.naver.com/v/45937678</id>
+        <link href="https://tv.naver.com/v/45937678"/>
+        <updated>2024-01-18T14:16:02.477Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8TURN(에잇턴) - RU-PUM PUM | Mnet 240118 방송]]></title>
         <id>https://tv.naver.com/v/45937396</id>
@@ -45,7 +52,7 @@
         <id>https://tv.naver.com/v/45931284</id>
         <link href="https://tv.naver.com/v/45931284"/>
         <updated>2024-01-18T12:31:39.775Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
+        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['컴백 인터뷰' with 씨스타19(SISTAR19) | Mnet 240118 방송]]></title>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/45930762</id>
         <link href="https://tv.naver.com/v/45930762"/>
         <updated>2024-01-18T12:31:39.780Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE - Love 119 | Mnet 240118 방송]]></title>
-        <id>https://tv.naver.com/v/45930293</id>
-        <link href="https://tv.naver.com/v/45930293"/>
-        <updated>2024-01-18T11:14:30.978Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
+        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
