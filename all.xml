@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-19T08:21:55.878Z</updated>
+    <updated>2024-01-19T09:17:29.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[who Am I - JD1 | KBS 240119 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/45975727</id>
+        <link href="https://tv.naver.com/v/45975727"/>
+        <updated>2024-01-19T09:16:51.932Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위로위로 (Go Up) - TRENDZ(트렌드지) | KBS 240119 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/45975531</id>
+        <link href="https://tv.naver.com/v/45975531"/>
+        <updated>2024-01-19T09:16:51.933Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winter Bloom - CLASS:y(클라씨) | KBS 240119 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/45975486</id>
+        <link href="https://tv.naver.com/v/45975486"/>
+        <updated>2024-01-19T09:16:51.933Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RU-PUM PUM - 8TURN (에잇턴) | KBS 240119 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/45975485</id>
+        <link href="https://tv.naver.com/v/45975485"/>
+        <updated>2024-01-19T09:16:51.933Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay with me - 예빈나다 | KBS 240119 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/45974780</id>
+        <link href="https://tv.naver.com/v/45974780"/>
+        <updated>2024-01-19T09:16:51.935Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[으랏차차(GOTCHA) - ALL(H)OURS (올아워즈) | KBS 240119 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/45974444</id>
+        <link href="https://tv.naver.com/v/45974444"/>
+        <updated>2024-01-19T09:16:51.937Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burn Up - DXMON(다이몬) | KBS 240119 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/45974440</id>
+        <link href="https://tv.naver.com/v/45974440"/>
+        <updated>2024-01-19T09:16:51.939Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Really Like You - 규빈 | KBS 240119 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/45974200</id>
+        <link href="https://tv.naver.com/v/45974200"/>
+        <updated>2024-01-19T09:16:51.940Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voyage - Geenius | KBS 240119 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/45974196</id>
+        <link href="https://tv.naver.com/v/45974196"/>
+        <updated>2024-01-19T09:16:51.941Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REWIND - B1A4 | KBS 240112 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/45651624</id>
         <link href="https://tv.naver.com/v/45651624"/>
         <updated>2024-01-12T10:18:02.705Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그렇지 않아 - 규현 (KYUHYUN) | KBS 240112 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/45651622</id>
-        <link href="https://tv.naver.com/v/45651622"/>
-        <updated>2024-01-12T10:18:02.707Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비보라 (BIBORA) - SF9 | KBS 240112 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/45651617</id>
-        <link href="https://tv.naver.com/v/45651617"/>
-        <updated>2024-01-12T10:18:02.707Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시간을 지나 마주한 너 - B1A4 | KBS 240112 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/45651384</id>
-        <link href="https://tv.naver.com/v/45651384"/>
-        <updated>2024-01-12T10:18:02.708Z</updated>
-        <content type="html"><![CDATA[01:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honey - 더보이즈(THE BOYZ) Special Unit | KBS 240112 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/45650904</id>
-        <link href="https://tv.naver.com/v/45650904"/>
-        <updated>2024-01-12T10:18:02.710Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNTOUCHABLE - ITZY | KBS 240112 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/45650898</id>
-        <link href="https://tv.naver.com/v/45650898"/>
-        <updated>2024-01-12T10:18:02.712Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BORN TO BE - ITZY | KBS 240112 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/45650889</id>
-        <link href="https://tv.naver.com/v/45650889"/>
-        <updated>2024-01-12T10:18:02.714Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiz - 정세운 | KBS 240112 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/45650448</id>
-        <link href="https://tv.naver.com/v/45650448"/>
-        <updated>2024-01-12T10:18:02.718Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[who Am I - JD1 | KBS 240112 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/45650401</id>
-        <link href="https://tv.naver.com/v/45650401"/>
-        <updated>2024-01-12T10:18:02.718Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter Bloom - CLASS:y(클라씨) | KBS 240112 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/45650124</id>
-        <link href="https://tv.naver.com/v/45650124"/>
-        <updated>2024-01-12T10:18:02.719Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] FANTASY BOYS - Potential  (판타지 보이즈 - 포텐셜)  | Show! Music Core (쇼! 음악중심)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[무섭게 역주행 한 옹동이 댄스🤍 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/45918952</id>
+        <link href="https://tv.naver.com/v/45918952"/>
+        <updated>2024-01-19T09:17:18.302Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[22일 컴백, 이븐의 세계로 right now!🔥 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/45759410</id>
         <link href="https://tv.naver.com/v/45759410"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/45197705"/>
         <updated>2024-01-05T09:16:35.424Z</updated>
         <content type="html"><![CDATA[00:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건물 사이에 피어난 장미들의 2주년🌹 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/45197624</id>
-        <link href="https://tv.naver.com/v/45197624"/>
-        <updated>2024-01-05T12:31:15.694Z</updated>
-        <content type="html"><![CDATA[00:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] K-POP을 이끌어갈 4세대 완성형 걸그룹 클라씨!❤  | KBS 방송 (불후의 명곡)]]></title>
