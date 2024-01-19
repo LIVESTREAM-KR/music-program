@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-01-19T07:16:14.247Z</updated>
+    <updated>2024-01-19T08:21:55.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] K-POP을 이끌어갈 4세대 완성형 걸그룹 클라씨!❤  | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/45971485</id>
+        <link href="https://tv.naver.com/v/45971485"/>
+        <updated>2024-01-19T08:21:50.092Z</updated>
+        <content type="html"><![CDATA[02:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] ❄️워너비 페스티벌 in 평창 2부❄️ 장르별 별들의 초특급 헌정 무대 ❤‍🔥 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/45692586</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45691373"/>
         <updated>2024-01-13T11:13:58.678Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JD1 - who Am I | KBS 240113 방송]]></title>
-        <id>https://tv.naver.com/v/45691348</id>
-        <link href="https://tv.naver.com/v/45691348"/>
-        <updated>2024-01-13T11:13:58.680Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
