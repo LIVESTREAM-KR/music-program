@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-01-20T11:14:12.552Z</updated>
+    <updated>2024-01-20T12:29:32.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 神인 걸그룹 아티스트 👑골든걸스 특집👑 어느때보다 파워풀한 무대들! 본방사수🔥 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/46014216</id>
+        <link href="https://tv.naver.com/v/46014216"/>
+        <updated>2024-01-20T12:29:26.439Z</updated>
+        <content type="html"><![CDATA[00:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김호중 - Nessun Dorma | KBS 240120 방송]]></title>
+        <id>https://tv.naver.com/v/46013805</id>
+        <link href="https://tv.naver.com/v/46013805"/>
+        <updated>2024-01-20T12:29:26.439Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김호중 - 나만의 길 | KBS 240120 방송]]></title>
+        <id>https://tv.naver.com/v/46013796</id>
+        <link href="https://tv.naver.com/v/46013796"/>
+        <updated>2024-01-20T12:29:26.440Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김호중 - Adoro  | KBS 240120 방송]]></title>
         <id>https://tv.naver.com/v/46013633</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/46013136"/>
         <updated>2024-01-20T11:14:06.156Z</updated>
         <content type="html"><![CDATA[04:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리베란테 - Altrove e qui | KBS 240120 방송]]></title>
-        <id>https://tv.naver.com/v/46013111</id>
-        <link href="https://tv.naver.com/v/46013111"/>
-        <updated>2024-01-20T11:14:06.158Z</updated>
-        <content type="html"><![CDATA[05:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리베란테 - Butterfly | KBS 240120 방송]]></title>
-        <id>https://tv.naver.com/v/46013104</id>
-        <link href="https://tv.naver.com/v/46013104"/>
-        <updated>2024-01-20T11:14:06.159Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리베란테 - 너라는 이야기 | KBS 240120 방송]]></title>
-        <id>https://tv.naver.com/v/46012697</id>
-        <link href="https://tv.naver.com/v/46012697"/>
-        <updated>2024-01-20T11:14:06.161Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
     </entry>
 </feed>
