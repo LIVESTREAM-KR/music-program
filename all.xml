@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-20T09:15:39.920Z</updated>
+    <updated>2024-01-20T10:16:54.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UNTOUCHABLE - ITZY | KBS 240119 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,62 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] HUI- Hmm BOP (후이 – 흠뻑) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46011114</id>
+        <link href="https://tv.naver.com/v/46011114"/>
+        <updated>2024-01-20T10:16:22.101Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] HUI- Hmm BOP (후이 – 흠뻑) FanCam (Horizontal Ver.) | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46011112</id>
+        <link href="https://tv.naver.com/v/46011112"/>
+        <updated>2024-01-20T10:16:22.103Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SISTAR19 BORA – SAUCY (씨스타19 보라 - 소우시) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46010828</id>
+        <link href="https://tv.naver.com/v/46010828"/>
+        <updated>2024-01-20T10:16:22.104Z</updated>
+        <content type="html"><![CDATA[01:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SISTAR19 HYOLYN – SAUCY(씨스타19 효린 - 소우시) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46010827</id>
+        <link href="https://tv.naver.com/v/46010827"/>
+        <updated>2024-01-20T10:16:22.104Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SISTAR19 – SAUCY (씨스타19 – 소우시) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46010824</id>
+        <link href="https://tv.naver.com/v/46010824"/>
+        <updated>2024-01-20T10:16:22.105Z</updated>
+        <content type="html"><![CDATA[01:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SISTAR19 HYOLYN – NO MORE (MA BOY)(씨스타19 효린 - 노 모어 (마 보이)) FanCam | Show! MusicCore | MBC24 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46010302</id>
+        <link href="https://tv.naver.com/v/46010302"/>
+        <updated>2024-01-20T10:16:22.110Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SISTAR19 BORA – NO MORE (MA BOY)(씨스타19 보라 - 노 모어 (마 보이)) FanCam | Show! MusicCore | MBC2401 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46010131</id>
+        <link href="https://tv.naver.com/v/46010131"/>
+        <updated>2024-01-20T10:16:22.112Z</updated>
+        <content type="html"><![CDATA[02:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SISTAR19 - NO MORE (MA BOY) (씨스타19 – 노 모어 (마 보이)) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46010128</id>
+        <link href="https://tv.naver.com/v/46010128"/>
+        <updated>2024-01-20T10:16:22.113Z</updated>
+        <content type="html"><![CDATA[02:12]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] NMIXX LILY – DASH (엔믹스 릴리 - 대시) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46007735</id>
         <link href="https://tv.naver.com/v/46007735"/>
@@ -87,62 +143,6 @@
         <link href="https://tv.naver.com/v/46007734"/>
         <updated>2024-01-20T08:19:51.738Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON – DASH (엔믹스 해원 - 대시) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46007699</id>
-        <link href="https://tv.naver.com/v/46007699"/>
-        <updated>2024-01-20T08:19:51.738Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX – DASH (엔믹스 – 대시) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46007580</id>
-        <link href="https://tv.naver.com/v/46007580"/>
-        <updated>2024-01-20T08:19:51.739Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON – DASH (엔믹스 설윤 - 대시) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46007579</id>
-        <link href="https://tv.naver.com/v/46007579"/>
-        <updated>2024-01-20T08:19:51.741Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX JIWOO – DASH (엔믹스 지우 - 대시) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46007575</id>
-        <link href="https://tv.naver.com/v/46007575"/>
-        <updated>2024-01-20T08:19:51.746Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX KYUJIN – DASH (엔믹스 규진 - 대시) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46007573</id>
-        <link href="https://tv.naver.com/v/46007573"/>
-        <updated>2024-01-20T08:19:51.748Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨스타19 - 노 모어 (SISTAR19 - NO MORE (MA BOY)), MBC 240120 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46007459</id>
-        <link href="https://tv.naver.com/v/46007459"/>
-        <updated>2024-01-20T08:19:51.749Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨스타19 - 소우시 (SISTAR19 - SAUCY), MBC 240120 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46007360</id>
-        <link href="https://tv.naver.com/v/46007360"/>
-        <updated>2024-01-20T08:19:51.750Z</updated>
-        <content type="html"><![CDATA[01:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비원에이포 - 리와인드 (B1A4 - REWIND), MBC 240120 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46007342</id>
-        <link href="https://tv.naver.com/v/46007342"/>
-        <updated>2024-01-20T08:19:51.751Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[규현 - 그렇지 않아(The Story Behind) | SBS 240114 방송 (인기가요)]]></title>
@@ -425,6 +425,27 @@
         <content type="html"><![CDATA[00:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코요태 - 순정 | KBS 240120 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46011589</id>
+        <link href="https://tv.naver.com/v/46011589"/>
+        <updated>2024-01-20T10:16:48.653Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이스하키 캡틴🏒공시완 선수& 코요태의 완벽했던 무대! 완벽 무대의 비밀은?😏 | KBS 240120 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46011313</id>
+        <link href="https://tv.naver.com/v/46011313"/>
+        <updated>2024-01-20T10:16:48.668Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코요태 & 공시완 - 우리의 꿈 | KBS 240120 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46010966</id>
+        <link href="https://tv.naver.com/v/46010966"/>
+        <updated>2024-01-20T10:16:48.668Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] K-POP을 이끌어갈 4세대 완성형 걸그룹 클라씨!❤  | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/45971485</id>
         <link href="https://tv.naver.com/v/45971485"/>
@@ -472,27 +493,6 @@
         <link href="https://tv.naver.com/v/45691857"/>
         <updated>2024-01-13T12:29:50.982Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛나는 청춘들에게 보내는✨️ 믿고 듣는 보컬 여제 윤하의 응원송은? | KBS 240113 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/45691499</id>
-        <link href="https://tv.naver.com/v/45691499"/>
-        <updated>2024-01-13T11:13:58.676Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하 - 비밀번호 486 | KBS 240113 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/45691496</id>
-        <link href="https://tv.naver.com/v/45691496"/>
-        <updated>2024-01-13T11:13:58.676Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JD1 - 슈퍼스타 | KBS 240113 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/45691373</id>
-        <link href="https://tv.naver.com/v/45691373"/>
-        <updated>2024-01-13T11:13:58.678Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 ＜솔로지옥＞, ＜피지컬: 100＞에서 남녀노소를 사로잡은💖댄서 차현승!, MBC 240114 방송 (복면가왕)]]></title>

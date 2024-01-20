@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-01-20T09:15:39.906Z</updated>
+    <updated>2024-01-20T10:16:54.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코요태 - 순정 | KBS 240120 방송]]></title>
+        <id>https://tv.naver.com/v/46011589</id>
+        <link href="https://tv.naver.com/v/46011589"/>
+        <updated>2024-01-20T10:16:48.653Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이스하키 캡틴🏒공시완 선수& 코요태의 완벽했던 무대! 완벽 무대의 비밀은?😏 | KBS 240120 방송]]></title>
+        <id>https://tv.naver.com/v/46011313</id>
+        <link href="https://tv.naver.com/v/46011313"/>
+        <updated>2024-01-20T10:16:48.668Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코요태 & 공시완 - 우리의 꿈 | KBS 240120 방송]]></title>
+        <id>https://tv.naver.com/v/46010966</id>
+        <link href="https://tv.naver.com/v/46010966"/>
+        <updated>2024-01-20T10:16:48.668Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] K-POP을 이끌어갈 4세대 완성형 걸그룹 클라씨!❤  | KBS 방송]]></title>
         <id>https://tv.naver.com/v/45971485</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/45691857"/>
         <updated>2024-01-13T12:29:50.982Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛나는 청춘들에게 보내는✨️ 믿고 듣는 보컬 여제 윤하의 응원송은? | KBS 240113 방송]]></title>
-        <id>https://tv.naver.com/v/45691499</id>
-        <link href="https://tv.naver.com/v/45691499"/>
-        <updated>2024-01-13T11:13:58.676Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하 - 비밀번호 486 | KBS 240113 방송]]></title>
-        <id>https://tv.naver.com/v/45691496</id>
-        <link href="https://tv.naver.com/v/45691496"/>
-        <updated>2024-01-13T11:13:58.676Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JD1 - 슈퍼스타 | KBS 240113 방송]]></title>
-        <id>https://tv.naver.com/v/45691373</id>
-        <link href="https://tv.naver.com/v/45691373"/>
-        <updated>2024-01-13T11:13:58.678Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
