@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-22T08:23:18.566Z</updated>
+    <updated>2024-01-22T09:18:56.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] YENA- Good Morning (최예나 – 굿모닝) Close-up Cam | Show! MusicCore | MBC240120방송]]></title>
+        <id>https://tv.naver.com/v/46082809</id>
+        <link href="https://tv.naver.com/v/46082809"/>
+        <updated>2024-01-22T09:18:22.864Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 1월 셋째 주 음악중심 MC 컷 모음!, MBC 240120 방송]]></title>
         <id>https://tv.naver.com/v/46061476</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46014920"/>
         <updated>2024-01-20T12:28:59.459Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] B1A4 CNU – REWIND(비원에이포 신우 - 리와인드) FanCam | Show! MusicCore | MBC240120방송]]></title>
-        <id>https://tv.naver.com/v/46014797</id>
-        <link href="https://tv.naver.com/v/46014797"/>
-        <updated>2024-01-20T12:28:59.461Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
