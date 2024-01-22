@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-22T02:35:03.523Z</updated>
+    <updated>2024-01-22T03:19:02.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UNTOUCHABLE - ITZY | KBS 240119 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 1월 셋째 주 음악중심 MC 컷 모음!, MBC 240120 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46061476</id>
+        <link href="https://tv.naver.com/v/46061476"/>
+        <updated>2024-01-22T03:18:27.663Z</updated>
+        <content type="html"><![CDATA[14:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ITZY RYUJIN – UNTOUCHABLE (있지 류진 - 언터처블) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46015283</id>
         <link href="https://tv.naver.com/v/46015283"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/46014797"/>
         <updated>2024-01-20T12:28:59.461Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] B1A4 SANDEUL – REWIND(비원에이포 산들 - 리와인드) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46014752</id>
-        <link href="https://tv.naver.com/v/46014752"/>
-        <updated>2024-01-20T12:28:59.462Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨스타19(SISTAR19) - NO MORE(MA BOY) | SBS 240121 방송 (인기가요)]]></title>
