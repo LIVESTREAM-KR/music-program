@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-22T09:18:56.088Z</updated>
+    <updated>2024-01-22T10:18:50.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1월 3주 1위 'RIIZE'의 'Love 119' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/46086881</id>
+        <link href="https://tv.naver.com/v/46086881"/>
+        <updated>2024-01-22T10:18:26.295Z</updated>
+        <content type="html"><![CDATA[05:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정세운 - Quiz | Mnet 240118 방송]]></title>
         <id>https://tv.naver.com/v/45937678</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45930766"/>
         <updated>2024-01-18T12:31:39.779Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY - UNTOUCHABLE | Mnet 240118 방송]]></title>
-        <id>https://tv.naver.com/v/45930762</id>
-        <link href="https://tv.naver.com/v/45930762"/>
-        <updated>2024-01-18T12:31:39.780Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
