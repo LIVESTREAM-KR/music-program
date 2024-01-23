@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-23T08:22:28.174Z</updated>
+    <updated>2024-01-23T09:17:39.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -10,6 +10,13 @@
         <id>https://tv.naver.com/v/46067976</id>
         <link href="https://tv.naver.com/v/46067976"/>
         <updated>2024-01-22T05:17:16.239Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[챙냥이는 쇼챔지기의 데칼코마니😸]]></title>
+        <id>https://tv.naver.com/v/45920346</id>
+        <link href="https://tv.naver.com/v/45920346"/>
+        <updated>2024-01-23T09:17:26.863Z</updated>
         <content type="html"><![CDATA[00:36]]></content>
     </entry>
     <entry>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45481564"/>
         <updated>2024-01-12T09:17:25.330Z</updated>
         <content type="html"><![CDATA[00:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제발 한 번만 들어줨비비..비비비..비..🧟‍♀️]]></title>
-        <id>https://tv.naver.com/v/45481379</id>
-        <link href="https://tv.naver.com/v/45481379"/>
-        <updated>2024-01-11T09:17:18.913Z</updated>
-        <content type="html"><![CDATA[00:42]]></content>
     </entry>
 </feed>
