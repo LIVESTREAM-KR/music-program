@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-23T07:17:01.481Z</updated>
+    <updated>2024-01-23T08:22:28.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX JIWOO – SOÑAR (BREAKER)(엔믹스 지우 - 소냐르(브레이커)) Close-up Cam | Show! MusicCore|MBC240120방]]></title>
+        <id>https://tv.naver.com/v/46134213</id>
+        <link href="https://tv.naver.com/v/46134213"/>
+        <updated>2024-01-23T08:21:56.600Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX BAE – SOÑAR (BREAKER)(엔믹스 배이 - 소냐르(브레이커)) Close-up Cam | Show! MusicCore | MBC240120방]]></title>
+        <id>https://tv.naver.com/v/46134210</id>
+        <link href="https://tv.naver.com/v/46134210"/>
+        <updated>2024-01-23T08:21:56.600Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX LILY – SOÑAR (BREAKER)(엔믹스 릴리 - 소냐르(브레이커)) Close-up Cam | Show! MusicCore |MBC240120방]]></title>
+        <id>https://tv.naver.com/v/46134208</id>
+        <link href="https://tv.naver.com/v/46134208"/>
+        <updated>2024-01-23T08:21:56.601Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON – DASH(엔믹스 설윤 - 대시) Close-up Cam | Show! MusicCore | MBC240120방송]]></title>
         <id>https://tv.naver.com/v/46085719</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/46015097"/>
         <updated>2024-01-20T12:28:59.451Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY YEJI – UNTOUCHABLE (있지 예지 - 언터처블) FanCam | Show! MusicCore | MBC240120방송]]></title>
-        <id>https://tv.naver.com/v/46015095</id>
-        <link href="https://tv.naver.com/v/46015095"/>
-        <updated>2024-01-20T12:28:59.451Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE - Love 119 (라이즈 – 러브 119) FanCam | Show! MusicCore | MBC240120방송]]></title>
-        <id>https://tv.naver.com/v/46015091</id>
-        <link href="https://tv.naver.com/v/46015091"/>
-        <updated>2024-01-20T12:28:59.451Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] B1A4 - REWIND(비원에이포 – 리와인드) FanCam | Show! MusicCore | MBC240120방송]]></title>
-        <id>https://tv.naver.com/v/46015090</id>
-        <link href="https://tv.naver.com/v/46015090"/>
-        <updated>2024-01-20T12:28:59.452Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>

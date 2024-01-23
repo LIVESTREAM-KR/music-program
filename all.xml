@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-23T07:17:01.487Z</updated>
+    <updated>2024-01-23T08:22:28.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UNTOUCHABLE - ITZY | KBS 240119 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX JIWOO – SOÑAR (BREAKER)(엔믹스 지우 - 소냐르(브레이커)) Close-up Cam | Show! MusicCore|MBC240120방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46134213</id>
+        <link href="https://tv.naver.com/v/46134213"/>
+        <updated>2024-01-23T08:21:56.600Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX BAE – SOÑAR (BREAKER)(엔믹스 배이 - 소냐르(브레이커)) Close-up Cam | Show! MusicCore | MBC240120방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46134210</id>
+        <link href="https://tv.naver.com/v/46134210"/>
+        <updated>2024-01-23T08:21:56.600Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX LILY – SOÑAR (BREAKER)(엔믹스 릴리 - 소냐르(브레이커)) Close-up Cam | Show! MusicCore |MBC240120방 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46134208</id>
+        <link href="https://tv.naver.com/v/46134208"/>
+        <updated>2024-01-23T08:21:56.601Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON – DASH(엔믹스 설윤 - 대시) Close-up Cam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46085719</id>
         <link href="https://tv.naver.com/v/46085719"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/46015097"/>
         <updated>2024-01-20T12:28:59.451Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY YEJI – UNTOUCHABLE (있지 예지 - 언터처블) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46015095</id>
-        <link href="https://tv.naver.com/v/46015095"/>
-        <updated>2024-01-20T12:28:59.451Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE - Love 119 (라이즈 – 러브 119) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46015091</id>
-        <link href="https://tv.naver.com/v/46015091"/>
-        <updated>2024-01-20T12:28:59.451Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] B1A4 - REWIND(비원에이포 – 리와인드) FanCam | Show! MusicCore | MBC240120방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46015090</id>
-        <link href="https://tv.naver.com/v/46015090"/>
-        <updated>2024-01-20T12:28:59.452Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨스타19(SISTAR19) - NO MORE(MA BOY) | SBS 240121 방송 (인기가요)]]></title>
