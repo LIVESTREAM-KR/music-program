@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-24T10:19:03.875Z</updated>
+    <updated>2024-01-24T11:14:55.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[SOLO HOT DEBUT] 후이(HUI) - 흠뻑 (Hmm BOP) l 240124]]></title>
+        <id>https://tv.naver.com/v/46205237</id>
+        <link href="https://tv.naver.com/v/46205237"/>
+        <updated>2024-01-24T11:14:44.625Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 최예나(YENA) - Good Morning l 240124]]></title>
+        <id>https://tv.naver.com/v/46204939</id>
+        <link href="https://tv.naver.com/v/46204939"/>
+        <updated>2024-01-24T11:14:44.626Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최예나(YENA) - Good Girls in the Dark l 240124]]></title>
         <id>https://tv.naver.com/v/46204446</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/46203076"/>
         <updated>2024-01-24T10:18:51.631Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HOT DEBUT] 규빈(GYUBIN) - Really Like You l 240124]]></title>
-        <id>https://tv.naver.com/v/46203073</id>
-        <link href="https://tv.naver.com/v/46203073"/>
-        <updated>2024-01-24T10:18:51.632Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HOT DEBUT] 올아워즈(ALL(H)OURS) - 으랏차차(GOTCHA) l 240124]]></title>
-        <id>https://tv.naver.com/v/46202838</id>
-        <link href="https://tv.naver.com/v/46202838"/>
-        <updated>2024-01-24T10:18:51.633Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
