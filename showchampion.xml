@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-24T11:14:55.411Z</updated>
+    <updated>2024-01-24T12:32:47.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 1월 4주 챔피언송 ＜NMIXX - DASH＞ 앵콜 Full ver. l Show Champion l EP.502 l 240124]]></title>
+        <id>https://tv.naver.com/v/46208951</id>
+        <link href="https://tv.naver.com/v/46208951"/>
+        <updated>2024-01-24T12:32:36.242Z</updated>
+        <content type="html"><![CDATA[05:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SOLO HOT DEBUT] 후이(HUI) - 흠뻑 (Hmm BOP) l 240124]]></title>
         <id>https://tv.naver.com/v/46205237</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46203345"/>
         <updated>2024-01-24T10:18:51.631Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'NMIXX' 나!왔어✋🏻 l 240124]]></title>
-        <id>https://tv.naver.com/v/46203076</id>
-        <link href="https://tv.naver.com/v/46203076"/>
-        <updated>2024-01-24T10:18:51.631Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
