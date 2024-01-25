@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-24T23:17:06.383Z</updated>
+    <updated>2024-01-25T01:14:58.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://tv.naver.com/v/46196808"/>
         <updated>2024-01-24T13:20:48.115Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX - Soñar (Breaker) (엔믹스 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124]]></title>
-        <id>https://tv.naver.com/v/46201609</id>
-        <link href="https://tv.naver.com/v/46201609"/>
-        <updated>2024-01-24T13:20:48.116Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX LILY - Soñar (Breaker) (엔믹스 릴리 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124]]></title>
@@ -69,10 +62,17 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX HAEWON - Soñar (Breaker) (엔믹스 해원 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124]]></title>
-        <id>https://tv.naver.com/v/46202177</id>
-        <link href="https://tv.naver.com/v/46202177"/>
-        <updated>2024-01-24T13:20:48.127Z</updated>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX SULLYOON - Soñar (Breaker) (엔믹스 설윤 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124]]></title>
+        <id>https://tv.naver.com/v/46201934</id>
+        <link href="https://tv.naver.com/v/46201934"/>
+        <updated>2024-01-25T01:14:47.192Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ALL(H)OURS - GOTCHA (올아워즈 - 으랏차차) | Show Champion | EP.502 | 240124]]></title>
+        <id>https://tv.naver.com/v/46186908</id>
+        <link href="https://tv.naver.com/v/46186908"/>
+        <updated>2024-01-25T01:14:47.193Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
