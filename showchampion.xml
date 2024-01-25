@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-25T07:16:32.106Z</updated>
+    <updated>2024-01-25T08:22:10.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] OnlyOneOf - d0pamine (온리원오브 - 도파민) | Show Champion | EP.502 | 240124]]></title>
+        <id>https://tv.naver.com/v/46247934</id>
+        <link href="https://tv.naver.com/v/46247934"/>
+        <updated>2024-01-25T08:21:59.862Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] YENA - Good Girls in the Dark (예나 - 굿 걸스 인 더 다크) | Show Champion | EP.502 | 240124]]></title>
+        <id>https://tv.naver.com/v/46247634</id>
+        <link href="https://tv.naver.com/v/46247634"/>
+        <updated>2024-01-25T08:21:59.863Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] JD1 - who Am I (제이디원 - 후엠아이) | Show Champion | EP.502 | 240124]]></title>
+        <id>https://tv.naver.com/v/46247329</id>
+        <link href="https://tv.naver.com/v/46247329"/>
+        <updated>2024-01-25T08:21:59.865Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] JD1- who Am I (제이디원 - 후엠아이) | Show Champion | EP.502 | 240124]]></title>
+        <id>https://tv.naver.com/v/46246258</id>
+        <link href="https://tv.naver.com/v/46246258"/>
+        <updated>2024-01-25T08:21:59.867Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] HUI- Hmm BOP (후이 - 흠뻑) | Show Champion | EP.502 | 240124]]></title>
         <id>https://tv.naver.com/v/46197166</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/46202784"/>
         <updated>2024-01-24T13:20:48.123Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX BAE - Soñar (Breaker) (엔믹스 배이 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124]]></title>
-        <id>https://tv.naver.com/v/46202489</id>
-        <link href="https://tv.naver.com/v/46202489"/>
-        <updated>2024-01-24T13:20:48.124Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX JIWOO - Soñar (Breaker) (엔믹스 지우 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124]]></title>
-        <id>https://tv.naver.com/v/46202484</id>
-        <link href="https://tv.naver.com/v/46202484"/>
-        <updated>2024-01-24T13:20:48.126Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ALL(H)OURS - GOTCHA (올아워즈 - 으랏차차) | Show Champion | EP.502 | 240124]]></title>
-        <id>https://tv.naver.com/v/46186908</id>
-        <link href="https://tv.naver.com/v/46186908"/>
-        <updated>2024-01-25T01:14:47.193Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] 8TURN MINHO - RU-PUM PUM (에잇턴 민호 - 러펌펌) | Show Champion | EP.502 | 240124]]></title>
-        <id>https://tv.naver.com/v/46190602</id>
-        <link href="https://tv.naver.com/v/46190602"/>
-        <updated>2024-01-25T03:17:53.963Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
