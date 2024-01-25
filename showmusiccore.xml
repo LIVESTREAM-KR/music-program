@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-25T06:22:32.425Z</updated>
+    <updated>2024-01-25T07:16:32.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SISTAR19.zip 📂 Ma Boy부터 NO MORE (MA BOY)까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/46185533</id>
+        <link href="https://tv.naver.com/v/46185533"/>
+        <updated>2024-01-25T07:15:57.844Z</updated>
+        <content type="html"><![CDATA[11:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NMIXX.zip 📂 O.O부터 DASH까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/46141792</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46061476"/>
         <updated>2024-01-22T03:18:27.663Z</updated>
         <content type="html"><![CDATA[14:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY RYUJIN – UNTOUCHABLE (있지 류진 - 언터처블) FanCam | Show! MusicCore | MBC240120방송]]></title>
-        <id>https://tv.naver.com/v/46015283</id>
-        <link href="https://tv.naver.com/v/46015283"/>
-        <updated>2024-01-20T12:28:59.451Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
