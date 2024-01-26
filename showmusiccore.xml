@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-26T06:21:10.820Z</updated>
+    <updated>2024-01-26T07:14:39.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] RIIZE - Love 119 (라이즈 – 러브 119) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/46283287</id>
+        <link href="https://tv.naver.com/v/46283287"/>
+        <updated>2024-01-26T07:14:05.381Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] SISTAR19.zip 📂 Ma Boy부터 NO MORE (MA BOY)까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/46185533</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46082809"/>
         <updated>2024-01-22T09:18:22.864Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 1월 셋째 주 음악중심 MC 컷 모음!, MBC 240120 방송]]></title>
-        <id>https://tv.naver.com/v/46061476</id>
-        <link href="https://tv.naver.com/v/46061476"/>
-        <updated>2024-01-22T03:18:27.663Z</updated>
-        <content type="html"><![CDATA[14:13]]></content>
     </entry>
 </feed>
