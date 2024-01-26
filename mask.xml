@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-01-26T09:16:57.649Z</updated>
+    <updated>2024-01-26T10:17:39.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 역주행 송🔥＜인사＞의 주인공!🔥누나 진주를 잇는 가수 범진 하이라이트!🎉, MBC 240121 방송]]></title>
+        <id>https://tv.naver.com/v/46311615</id>
+        <link href="https://tv.naver.com/v/46311615"/>
+        <updated>2024-01-26T10:17:39.030Z</updated>
+        <content type="html"><![CDATA[11:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 이게 무슨 일이야🙊 무대공포증은 있어도 가왕 3연승 성공한 B1A4 산들의 《바다아이》, 《동경》, 그리고 《너는 내 세상이었어》 |  #산들 MBC240121방]]></title>
         <id>https://tv.naver.com/v/46121608</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46039356"/>
         <updated>2024-01-21T10:18:23.955Z</updated>
         <content type="html"><![CDATA[02:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태권도 선수 출신?!🥋 박력 넘치는 '청룡열차'의 태권무 개인기, MBC 240121 방송]]></title>
-        <id>https://tv.naver.com/v/46039124</id>
-        <link href="https://tv.naver.com/v/46039124"/>
-        <updated>2024-01-21T10:18:23.958Z</updated>
-        <content type="html"><![CDATA[01:36]]></content>
     </entry>
 </feed>

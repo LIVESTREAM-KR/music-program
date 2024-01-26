@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-26T09:16:57.655Z</updated>
+    <updated>2024-01-26T10:17:39.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/46312057</id>
+        <link href="https://tv.naver.com/v/46312057"/>
+        <updated>2024-01-26T10:16:54.856Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[who Am I - JD1 | KBS 240126 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/46312044</id>
+        <link href="https://tv.naver.com/v/46312044"/>
+        <updated>2024-01-26T10:16:54.859Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suit Up - SUPER JUNIOR-L.S.S. | KBS 240126 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/46311624</id>
+        <link href="https://tv.naver.com/v/46311624"/>
+        <updated>2024-01-26T10:16:54.863Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NO MORE (MA BOY) - 씨스타19(SISTAR19) | KBS 240126 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/46311616</id>
+        <link href="https://tv.naver.com/v/46311616"/>
+        <updated>2024-01-26T10:16:54.863Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Without U - 설아(우주소녀) | KBS 240126 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/46311343</id>
+        <link href="https://tv.naver.com/v/46311343"/>
+        <updated>2024-01-26T10:16:54.863Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흠뻑 - 후이 | KBS 240126 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/46311095</id>
+        <link href="https://tv.naver.com/v/46311095"/>
+        <updated>2024-01-26T10:16:54.865Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mr. Vampire - ITZY | KBS 240126 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/46310850</id>
+        <link href="https://tv.naver.com/v/46310850"/>
+        <updated>2024-01-26T10:16:54.867Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponytail - 김재환 | KBS 240126 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/46310570</id>
+        <link href="https://tv.naver.com/v/46310570"/>
+        <updated>2024-01-26T10:16:54.868Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Morning - YENA(최예나) | KBS 240126 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/46310311</id>
+        <link href="https://tv.naver.com/v/46310311"/>
+        <updated>2024-01-26T10:16:54.869Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GRAB ME - AB6IX (에이비식스) | KBS 240126 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/46310119</id>
         <link href="https://tv.naver.com/v/46310119"/>
         <updated>2024-01-26T09:16:20.866Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh Mymy : 7s - TWS | KBS 240126 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46310054</id>
-        <link href="https://tv.naver.com/v/46310054"/>
-        <updated>2024-01-26T09:16:20.872Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lovers or Enemies - CIX(씨아이엑스) | KBS 240126 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46309853</id>
-        <link href="https://tv.naver.com/v/46309853"/>
-        <updated>2024-01-26T09:16:20.874Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 만남은 계획대로 되지 않아 - TWS | KBS 240126 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46309825</id>
-        <link href="https://tv.naver.com/v/46309825"/>
-        <updated>2024-01-26T09:16:20.875Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinkin’ About You - H1-KEY (하이키) | KBS 240126 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46309311</id>
-        <link href="https://tv.naver.com/v/46309311"/>
-        <updated>2024-01-26T09:16:20.876Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UGLY - EVNNE(이븐) | KBS 240126 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46309255</id>
-        <link href="https://tv.naver.com/v/46309255"/>
-        <updated>2024-01-26T09:16:20.877Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Door - tripleS Aria | KBS 240126 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46308464</id>
-        <link href="https://tv.naver.com/v/46308464"/>
-        <updated>2024-01-26T09:16:20.878Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dOpamine - 온리원오브(OnlyOneOf) | KBS 240126 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46308457</id>
-        <link href="https://tv.naver.com/v/46308457"/>
-        <updated>2024-01-26T09:16:20.880Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get ready, Set, Go! - 류지현(Ryu jihyun) | KBS 240126 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46308398</id>
-        <link href="https://tv.naver.com/v/46308398"/>
-        <updated>2024-01-26T09:16:20.881Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valentine - POW | KBS 240126 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46308063</id>
-        <link href="https://tv.naver.com/v/46308063"/>
-        <updated>2024-01-26T09:16:20.882Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] RIIZE - Love 119 (라이즈 – 러브 119) | Show! Music Core (쇼! 음악중심)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[04:44]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 역주행 송🔥＜인사＞의 주인공!🔥누나 진주를 잇는 가수 범진 하이라이트!🎉, MBC 240121 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/46311615</id>
+        <link href="https://tv.naver.com/v/46311615"/>
+        <updated>2024-01-26T10:17:39.030Z</updated>
+        <content type="html"><![CDATA[11:48]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#복면가왕] 이게 무슨 일이야🙊 무대공포증은 있어도 가왕 3연승 성공한 B1A4 산들의 《바다아이》, 《동경》, 그리고 《너는 내 세상이었어》 |  #산들 MBC240121방 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/46121608</id>
         <link href="https://tv.naver.com/v/46121608"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/46039356"/>
         <updated>2024-01-21T10:18:23.955Z</updated>
         <content type="html"><![CDATA[02:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태권도 선수 출신?!🥋 박력 넘치는 '청룡열차'의 태권무 개인기, MBC 240121 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/46039124</id>
-        <link href="https://tv.naver.com/v/46039124"/>
-        <updated>2024-01-21T10:18:23.958Z</updated>
-        <content type="html"><![CDATA[01:36]]></content>
     </entry>
 </feed>
