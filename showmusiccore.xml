@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-27T12:26:48.986Z</updated>
+    <updated>2024-01-27T13:16:12.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] AB6IX PARKWOOJIN – GRAB ME(에이비식스 박우진 - 그랩 미) FanCam | Show! MusicCore | MBC240113방송]]></title>
+        <id>https://tv.naver.com/v/46351790</id>
+        <link href="https://tv.naver.com/v/46351790"/>
+        <updated>2024-01-27T13:15:37.366Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] AB6IX DAEHWI – GRAB ME(에이비식스 이대휘 - 그랩 미) FanCam | Show! MusicCore | MBC240113방송]]></title>
+        <id>https://tv.naver.com/v/46351071</id>
+        <link href="https://tv.naver.com/v/46351071"/>
+        <updated>2024-01-27T13:15:37.367Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] tripleS Aria - Door(트리플에스 아리아 – 도어) FanCam | Show! MusicCore | MBC240127방송]]></title>
+        <id>https://tv.naver.com/v/46350572</id>
+        <link href="https://tv.naver.com/v/46350572"/>
+        <updated>2024-01-27T13:15:37.370Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] AB6IX - GRAB ME(에이비식스 – 그랩 미) FanCam | Show! MusicCore | MBC240113방송]]></title>
+        <id>https://tv.naver.com/v/46350407</id>
+        <link href="https://tv.naver.com/v/46350407"/>
+        <updated>2024-01-27T13:15:37.372Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NMIXX SULLYOON – DASH(엔믹스 설윤 - 대시) FanCam | Show! MusicCore | MBC240127방송]]></title>
+        <id>https://tv.naver.com/v/46350405</id>
+        <link href="https://tv.naver.com/v/46350405"/>
+        <updated>2024-01-27T13:15:37.373Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] HUI- Hmm BOP (후이 – 흠뻑) FanCam (Horizontal Ver.) | Show! MusicCore | MBC240127방송]]></title>
         <id>https://tv.naver.com/v/46350091</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/46349188"/>
         <updated>2024-01-27T12:26:14.024Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX LILY – DASH(엔믹스 릴리 - 대시) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46349054</id>
-        <link href="https://tv.naver.com/v/46349054"/>
-        <updated>2024-01-27T12:26:14.025Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX BAE – DASH(엔믹스 배이 - 대시) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46348748</id>
-        <link href="https://tv.naver.com/v/46348748"/>
-        <updated>2024-01-27T12:26:14.027Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EVNNE PARK HAN BIN – UGLY(이븐 박한빈 - 어글리) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46348444</id>
-        <link href="https://tv.naver.com/v/46348444"/>
-        <updated>2024-01-27T12:26:14.029Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EVNNE - UGLY(이븐 – 어글리) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46348442</id>
-        <link href="https://tv.naver.com/v/46348442"/>
-        <updated>2024-01-27T12:26:14.030Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ITZY - MR. VAMPIRE(있지 – 미스터 뱀파이어) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46348439</id>
-        <link href="https://tv.naver.com/v/46348439"/>
-        <updated>2024-01-27T12:26:14.032Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
