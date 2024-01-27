@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-27T10:16:21.067Z</updated>
+    <updated>2024-01-27T11:12:24.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] KIM JAE HWAN– Ponytail(김재환 - 포니테일) FanCam | Show! MusicCore | MBC240127방송]]></title>
+        <id>https://tv.naver.com/v/46347930</id>
+        <link href="https://tv.naver.com/v/46347930"/>
+        <updated>2024-01-27T11:11:49.651Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 있지 - 언터처블 (ITZY - UNTOUCHABLE), MBC 240120 방송]]></title>
         <id>https://tv.naver.com/v/46342566</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46341217"/>
         <updated>2024-01-27T08:18:29.091Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - 대시 (NMIXX - DASH), MBC 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46341037</id>
-        <link href="https://tv.naver.com/v/46341037"/>
-        <updated>2024-01-27T08:18:29.092Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>

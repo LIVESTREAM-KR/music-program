@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-27T10:16:21.073Z</updated>
+    <updated>2024-01-27T11:12:24.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] KIM JAE HWAN– Ponytail(김재환 - 포니테일) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46347930</id>
+        <link href="https://tv.naver.com/v/46347930"/>
+        <updated>2024-01-27T11:11:49.651Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜X교차》 있지 - 언터처블 (ITZY - UNTOUCHABLE), MBC 240120 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46342566</id>
         <link href="https://tv.naver.com/v/46342566"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/46341217"/>
         <updated>2024-01-27T08:18:29.091Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - 대시 (NMIXX - DASH), MBC 240127 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46341037</id>
-        <link href="https://tv.naver.com/v/46341037"/>
-        <updated>2024-01-27T08:18:29.092Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨스타19(SISTAR19) - NO MORE(MA BOY) | SBS 240121 방송 (인기가요)]]></title>
@@ -425,74 +425,74 @@
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[손준호&김소현의 진심이 담긴 선곡 & 대표 넘버 한 소절🎵♥️ | KBS 240127 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46347934</id>
+        <link href="https://tv.naver.com/v/46347934"/>
+        <updated>2024-01-27T11:12:18.122Z</updated>
+        <content type="html"><![CDATA[05:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집착하게 만드는 도입부💕 상상 그 이상을 보여준 에이머스의 무대 | KBS 240127 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46347290</id>
+        <link href="https://tv.naver.com/v/46347290"/>
+        <updated>2024-01-27T11:12:18.125Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이머스(AIMERS) - 집착 | KBS 240127 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46347199</id>
+        <link href="https://tv.naver.com/v/46347199"/>
+        <updated>2024-01-27T11:12:18.127Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[섹시미로 승부🔥 관객에게 집착할 예정인😆 에이머스의 선곡은? | KBS 240127 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46347197</id>
+        <link href="https://tv.naver.com/v/46347197"/>
+        <updated>2024-01-27T11:12:18.128Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[골든걸스의 멤버를 노리는 알리?! & 그 당시의 이은미를 떠올리게 한 솔지! | KBS 240127 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46347196</id>
+        <link href="https://tv.naver.com/v/46347196"/>
+        <updated>2024-01-27T11:12:18.131Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔지 - 기억 속으로 | KBS 240127 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46347174</id>
+        <link href="https://tv.naver.com/v/46347174"/>
+        <updated>2024-01-27T11:12:18.132Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노래가 끝나도 진정되지 않는 마음💧 추억에 잠기게 만드는 솔지의 무대 | KBS 240127 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46347172</id>
+        <link href="https://tv.naver.com/v/46347172"/>
+        <updated>2024-01-27T11:12:18.133Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팬심과 감성을 듬뿍 담을 솔지의 무대🍃 오늘의 선곡은? | KBS 240127 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46346796</id>
+        <link href="https://tv.naver.com/v/46346796"/>
+        <updated>2024-01-27T11:12:18.134Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알리 - 밤이면 밤마다 | KBS 240127 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/46346677</id>
+        <link href="https://tv.naver.com/v/46346677"/>
+        <updated>2024-01-27T11:12:18.136Z</updated>
+        <content type="html"><![CDATA[06:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[골든걸스 특집 포문을 열어줄 찐팬 알리💟 웃고 있는데 눈물이😭 | KBS 240127 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/46346251</id>
         <link href="https://tv.naver.com/v/46346251"/>
         <updated>2024-01-27T10:16:15.189Z</updated>
         <content type="html"><![CDATA[05:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만만치 않은 오늘의 승부🔥 솔지 vs 임한별 vs 트로트 걸스 vs 디바 걸스 | KBS 240127 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/46346250</id>
-        <link href="https://tv.naver.com/v/46346250"/>
-        <updated>2024-01-27T10:16:15.190Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신급의 조합! 골든걸스 찐팬 디바 걸스❤‍🔥 정영주&김영주&이영미&최현주 | KBS 240127 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/46346249</id>
-        <link href="https://tv.naver.com/v/46346249"/>
-        <updated>2024-01-27T10:16:15.193Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든걸스 - One Last Time | KBS 240127 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/46345616</id>
-        <link href="https://tv.naver.com/v/46345616"/>
-        <updated>2024-01-27T10:16:15.194Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 神인 걸그룹 아티스트 👑골든걸스 특집👑 어느때보다 파워풀한 무대들! 본방사수🔥 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/46014216</id>
-        <link href="https://tv.naver.com/v/46014216"/>
-        <updated>2024-01-20T12:29:26.439Z</updated>
-        <content type="html"><![CDATA[00:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 - Nessun Dorma | KBS 240120 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/46013805</id>
-        <link href="https://tv.naver.com/v/46013805"/>
-        <updated>2024-01-20T12:29:26.439Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 - 나만의 길 | KBS 240120 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/46013796</id>
-        <link href="https://tv.naver.com/v/46013796"/>
-        <updated>2024-01-20T12:29:26.440Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 - Adoro  | KBS 240120 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/46013633</id>
-        <link href="https://tv.naver.com/v/46013633"/>
-        <updated>2024-01-20T11:14:06.149Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정인 - 하늘을 달리다 | KBS 240120 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/46013629</id>
-        <link href="https://tv.naver.com/v/46013629"/>
-        <updated>2024-01-20T11:14:06.150Z</updated>
-        <content type="html"><![CDATA[04:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정인 - 오르막길 | KBS 240120 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/46013626</id>
-        <link href="https://tv.naver.com/v/46013626"/>
-        <updated>2024-01-20T11:14:06.150Z</updated>
-        <content type="html"><![CDATA[04:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 역주행 송🔥＜인사＞의 주인공!🔥누나 진주를 잇는 가수 범진 하이라이트!🎉, MBC 240121 방송 (복면가왕)]]></title>
