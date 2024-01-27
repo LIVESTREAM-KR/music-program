@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-27T13:16:12.342Z</updated>
+    <updated>2024-01-27T14:14:30.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] TWS SHINYU – Oh Mymy : 7s(투어스 신유 - 오 마마 : 7s) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46353107</id>
+        <link href="https://tv.naver.com/v/46353107"/>
+        <updated>2024-01-27T14:13:55.050Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TWS - Oh Mymy : 7s(투어스 – 오 마마 : 7s) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46352629</id>
+        <link href="https://tv.naver.com/v/46352629"/>
+        <updated>2024-01-27T14:13:55.051Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] AB6IX PARKWOOJIN – GRAB ME(에이비식스 박우진 - 그랩 미) FanCam | Show! MusicCore | MBC240113방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46351790</id>
         <link href="https://tv.naver.com/v/46351790"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/46349591"/>
         <updated>2024-01-27T12:26:14.020Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX JIWOO – DASH(엔믹스 지우 - 대시) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46349306</id>
-        <link href="https://tv.naver.com/v/46349306"/>
-        <updated>2024-01-27T12:26:14.021Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX KYUJIN – DASH(엔믹스 규진 - 대시) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46349188</id>
-        <link href="https://tv.naver.com/v/46349188"/>
-        <updated>2024-01-27T12:26:14.024Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨스타19(SISTAR19) - NO MORE(MA BOY) | SBS 240121 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이것이 K-POP 퍼포먼스다! (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/46353672</id>
+        <link href="https://tv.naver.com/v/46353672"/>
+        <updated>2024-01-27T14:14:18.507Z</updated>
+        <content type="html"><![CDATA[00:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔믹스를 위해서라면 권모술수 권민우 될게 💚 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/46312819</id>
         <link href="https://tv.naver.com/v/46312819"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/46196808"/>
         <updated>2024-01-24T13:20:48.115Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX LILY - Soñar (Breaker) (엔믹스 릴리 - 쏘냐르 (브레이커)) | Show Champion | EP.502 | 240124 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/46208020</id>
-        <link href="https://tv.naver.com/v/46208020"/>
-        <updated>2024-01-24T13:20:48.118Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 神인 걸그룹 아티스트 👑골든걸스 특집 2부👑 단 한 발작도 움직일 수 없다🔥 | KBS 방송 (불후의 명곡)]]></title>

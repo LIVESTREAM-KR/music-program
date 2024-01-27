@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-27T13:16:12.330Z</updated>
+    <updated>2024-01-27T14:14:30.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TWS SHINYU – Oh Mymy : 7s(투어스 신유 - 오 마마 : 7s) FanCam | Show! MusicCore | MBC240127방송]]></title>
+        <id>https://tv.naver.com/v/46353107</id>
+        <link href="https://tv.naver.com/v/46353107"/>
+        <updated>2024-01-27T14:13:55.050Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TWS - Oh Mymy : 7s(투어스 – 오 마마 : 7s) FanCam | Show! MusicCore | MBC240127방송]]></title>
+        <id>https://tv.naver.com/v/46352629</id>
+        <link href="https://tv.naver.com/v/46352629"/>
+        <updated>2024-01-27T14:13:55.051Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] AB6IX PARKWOOJIN – GRAB ME(에이비식스 박우진 - 그랩 미) FanCam | Show! MusicCore | MBC240113방송]]></title>
         <id>https://tv.naver.com/v/46351790</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/46349591"/>
         <updated>2024-01-27T12:26:14.020Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX JIWOO – DASH(엔믹스 지우 - 대시) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46349306</id>
-        <link href="https://tv.naver.com/v/46349306"/>
-        <updated>2024-01-27T12:26:14.021Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX KYUJIN – DASH(엔믹스 규진 - 대시) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46349188</id>
-        <link href="https://tv.naver.com/v/46349188"/>
-        <updated>2024-01-27T12:26:14.024Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
