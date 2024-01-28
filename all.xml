@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-28T06:19:20.854Z</updated>
+    <updated>2024-01-28T07:15:17.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -145,6 +145,62 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[H1-KEY(하이키) - Thinkin’ About You | SBS 240128 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46368979</id>
+        <link href="https://tv.naver.com/v/46368979"/>
+        <updated>2024-01-28T07:14:51.088Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWS - 첫 만남은 계획대로 되지 않아 | SBS 240128 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46368945</id>
+        <link href="https://tv.naver.com/v/46368945"/>
+        <updated>2024-01-28T07:14:51.088Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWS - Oh Mymy : 7s | SBS 240128 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46368816</id>
+        <link href="https://tv.naver.com/v/46368816"/>
+        <updated>2024-01-28T07:14:51.088Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS Aria - Door | SBS 240128 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46368676</id>
+        <link href="https://tv.naver.com/v/46368676"/>
+        <updated>2024-01-28T07:14:51.088Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[류지현  - Get ready, Set, Go! | SBS 240128 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46368382</id>
+        <link href="https://tv.naver.com/v/46368382"/>
+        <updated>2024-01-28T07:14:51.089Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVNNE - UGLY | SBS 240128 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46368380</id>
+        <link href="https://tv.naver.com/v/46368380"/>
+        <updated>2024-01-28T07:14:51.089Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POW - Valentine | SBS 240128 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46368372</id>
+        <link href="https://tv.naver.com/v/46368372"/>
+        <updated>2024-01-28T07:14:51.089Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - 으랏차차(GOTCHA) | SBS 240128 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/46368129</id>
+        <link href="https://tv.naver.com/v/46368129"/>
+        <updated>2024-01-28T07:14:51.097Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[씨스타19(SISTAR19) - NO MORE(MA BOY) | SBS 240121 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/46035732</id>
         <link href="https://tv.naver.com/v/46035732"/>
@@ -157,62 +213,6 @@
         <link href="https://tv.naver.com/v/46035731"/>
         <updated>2024-01-21T08:20:06.576Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YENA(최예나) - Good Morning | SBS 240121 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46035496</id>
-        <link href="https://tv.naver.com/v/46035496"/>
-        <updated>2024-01-21T08:20:06.576Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY - UNTOUCHABLE | SBS 240121 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46035362</id>
-        <link href="https://tv.naver.com/v/46035362"/>
-        <updated>2024-01-21T08:20:06.578Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정세운 - Quiz | SBS 240121 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46035359</id>
-        <link href="https://tv.naver.com/v/46035359"/>
-        <updated>2024-01-21T08:20:06.579Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - DASH | SBS 240121 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46035246</id>
-        <link href="https://tv.naver.com/v/46035246"/>
-        <updated>2024-01-21T08:20:06.580Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - Soñar(Breaker) | SBS 240121 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46035147</id>
-        <link href="https://tv.naver.com/v/46035147"/>
-        <updated>2024-01-21T08:20:06.582Z</updated>
-        <content type="html"><![CDATA[01:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후이(HUI) - 흠뻑 | SBS 240121 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46034982</id>
-        <link href="https://tv.naver.com/v/46034982"/>
-        <updated>2024-01-21T08:20:06.583Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - 위로위로(Go Up) | SBS 240121 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46034980</id>
-        <link href="https://tv.naver.com/v/46034980"/>
-        <updated>2024-01-21T08:20:06.584Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - RU-PUM PUM | SBS 240121 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/46034670</id>
-        <link href="https://tv.naver.com/v/46034670"/>
-        <updated>2024-01-21T07:14:43.585Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' SUPER JUNIOR-L.S.S. - Suit Up | Mnet 240125 방송 (엠카운트다운)]]></title>
