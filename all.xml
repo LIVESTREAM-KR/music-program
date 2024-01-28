@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-28T09:16:31.798Z</updated>
+    <updated>2024-01-28T10:16:52.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,41 @@
         <content type="html"><![CDATA[00:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[특유의 창법을 그대로 복사😲 '슬세권'의 자이언티 모창!, MBC 240128 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/46373594</id>
+        <link href="https://tv.naver.com/v/46373594"/>
+        <updated>2024-01-28T10:16:51.918Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여자 음역대에서도 완벽한 음정! '붕세권'의 소프라노 음역대로 성악곡 부르기🎵, MBC 240128 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/46373411</id>
+        <link href="https://tv.naver.com/v/46373411"/>
+        <updated>2024-01-28T10:16:51.919Z</updated>
+        <content type="html"><![CDATA[01:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붕세권' VS '슬세권'의 1라운드 무대 - 다시 사랑한다 말할까, MBC 240128 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/46373104</id>
+        <link href="https://tv.naver.com/v/46373104"/>
+        <updated>2024-01-28T10:16:51.920Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['장바구니'의 정체는 아일리원의 메인 보컬 나유!, MBC 240128 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/46373081</id>
+        <link href="https://tv.naver.com/v/46373081"/>
+        <updated>2024-01-28T10:16:51.921Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['장바구니' VS '쇼핑백'의 1라운드 무대 - 뮤지컬, MBC 240128 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/46372814</id>
+        <link href="https://tv.naver.com/v/46372814"/>
+        <updated>2024-01-28T10:16:51.923Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 역주행 송🔥＜인사＞의 주인공!🔥누나 진주를 잇는 가수 범진 하이라이트!🎉, MBC 240121 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/46311615</id>
         <link href="https://tv.naver.com/v/46311615"/>
@@ -528,40 +563,5 @@
         <link href="https://tv.naver.com/v/46040256"/>
         <updated>2024-01-21T11:13:32.139Z</updated>
         <content type="html"><![CDATA[04:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['후끈한 사우나'의 정체는 싱어송라이터 범진!, MBC 240121 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/46040121</id>
-        <link href="https://tv.naver.com/v/46040121"/>
-        <updated>2024-01-21T11:13:32.141Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['희로애락도 락이다' 3라운드 무대 - 피아니시모, MBC 240121 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/46039850</id>
-        <link href="https://tv.naver.com/v/46039850"/>
-        <updated>2024-01-21T11:13:32.142Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['후끈한 사우나' 3라운드 무대 - 명동콜링, MBC 240121 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/46039847</id>
-        <link href="https://tv.naver.com/v/46039847"/>
-        <updated>2024-01-21T11:13:32.144Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청룡열차'의 정체는 유키스 훈!, MBC 240121 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/46039502</id>
-        <link href="https://tv.naver.com/v/46039502"/>
-        <updated>2024-01-21T11:13:32.145Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['희로애락도 락이다' 지인 김재환의 전화 연결!📞 ＂그 정도로 친하지 않아서..＂, MBC 240121 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/46039356</id>
-        <link href="https://tv.naver.com/v/46039356"/>
-        <updated>2024-01-21T10:18:23.955Z</updated>
-        <content type="html"><![CDATA[02:13]]></content>
     </entry>
 </feed>
