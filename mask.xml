@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-01-29T16:19:30.219Z</updated>
+    <updated>2024-01-29T17:15:51.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[타이어를 허리에? 무려 120kg을 오직 팔 힘으로 버티는 '골목대장'의 완벽한 딥스💪, MBC 240128 방송]]></title>
+        <id>https://tv.naver.com/v/46439416</id>
+        <link href="https://tv.naver.com/v/46439416"/>
+        <updated>2024-01-29T17:15:51.092Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜최강 라인업으로 록 스피릿 폭발💥 대축제의 헤드라이너 등장까지?!＞ 복면가왕 437회 예고, MBC 240204 방송]]></title>
         <id>https://tv.naver.com/v/46375104</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46373721"/>
         <updated>2024-01-28T11:12:19.589Z</updated>
         <content type="html"><![CDATA[02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특유의 창법을 그대로 복사😲 '슬세권'의 자이언티 모창!, MBC 240128 방송]]></title>
-        <id>https://tv.naver.com/v/46373594</id>
-        <link href="https://tv.naver.com/v/46373594"/>
-        <updated>2024-01-28T10:16:51.918Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
     </entry>
 </feed>
