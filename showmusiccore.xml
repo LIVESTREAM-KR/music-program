@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-01-29T05:16:30.052Z</updated>
+    <updated>2024-01-29T06:20:47.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ] TWS JIHOON – Oh Mymy : 7s(투어스 지훈 - 오 마마 : 7s) Close-upCam|Show! MusicCore|MBC240127방송]]></title>
+        <id>https://tv.naver.com/v/46401975</id>
+        <link href="https://tv.naver.com/v/46401975"/>
+        <updated>2024-01-29T06:20:10.817Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU – Oh Mymy : 7s(투어스 신유 - 오 마마 : 7s) Close-upCam|Show!MusicCore |MBC240127방송]]></title>
+        <id>https://tv.naver.com/v/46401671</id>
+        <link href="https://tv.naver.com/v/46401671"/>
+        <updated>2024-01-29T06:20:10.817Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU – plot twist(투어스 신유 - 첫 만남은 계획대로 되지 않아) Close-upCam|Show!MusicCore |MBC240127방송]]></title>
+        <id>https://tv.naver.com/v/46401380</id>
+        <link href="https://tv.naver.com/v/46401380"/>
+        <updated>2024-01-29T06:20:10.817Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ] TWS DOHOON – plot twist(투어스 도훈 - 첫 만남은 계획대로 되지 않아) Close-upCam|Show! MusicCore|MBC240127방]]></title>
+        <id>https://tv.naver.com/v/46401124</id>
+        <link href="https://tv.naver.com/v/46401124"/>
+        <updated>2024-01-29T06:20:10.819Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TWS KYUNGMIN – plot twist(투어스 경민 - 첫 만남은 계획대로 되지 않아) FanCam | Show! MusicCore | MBC240127방송]]></title>
         <id>https://tv.naver.com/v/46354707</id>
@@ -45,34 +73,6 @@
         <id>https://tv.naver.com/v/46354507</id>
         <link href="https://tv.naver.com/v/46354507"/>
         <updated>2024-01-27T15:13:46.560Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS DOHOON – plot twist(투어스 도훈 - 첫 만남은 계획대로 되지 않아) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46354506</id>
-        <link href="https://tv.naver.com/v/46354506"/>
-        <updated>2024-01-27T15:13:46.562Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소 ] TWS - plot twist(투어스 – 첫 만남은 계획대로 되지 않아) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46354502</id>
-        <link href="https://tv.naver.com/v/46354502"/>
-        <updated>2024-01-27T15:13:46.563Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] POW HYUNBIN – Valentine(파우 현빈 - 발렌타인) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46354353</id>
-        <link href="https://tv.naver.com/v/46354353"/>
-        <updated>2024-01-27T15:13:46.564Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] POW YORCH – Valentine(파우 요치 - 발렌타인) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46354352</id>
-        <link href="https://tv.naver.com/v/46354352"/>
-        <updated>2024-01-27T15:13:46.565Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
