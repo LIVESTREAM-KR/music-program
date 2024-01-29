@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-29T06:20:47.172Z</updated>
+    <updated>2024-01-29T07:15:31.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 1월 넷째 주 음악중심 MC 컷 모음!, MBC 240127 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46403979</id>
+        <link href="https://tv.naver.com/v/46403979"/>
+        <updated>2024-01-29T07:14:59.598Z</updated>
+        <content type="html"><![CDATA[13:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ] TWS JIHOON – Oh Mymy : 7s(투어스 지훈 - 오 마마 : 7s) Close-upCam|Show! MusicCore|MBC240127방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46401975</id>
         <link href="https://tv.naver.com/v/46401975"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/46354666"/>
         <updated>2024-01-27T15:13:46.559Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS JIHOON – plot twist(투어스 지훈 - 첫 만남은 계획대로 되지 않아) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46354507</id>
-        <link href="https://tv.naver.com/v/46354507"/>
-        <updated>2024-01-27T15:13:46.560Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨스타19(SISTAR19) - NO MORE(MA BOY) | SBS 240128 방송 (인기가요)]]></title>
