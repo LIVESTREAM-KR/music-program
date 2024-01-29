@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-29T10:17:27.707Z</updated>
+    <updated>2024-01-29T11:14:06.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:10]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1월 마지막 주 1위 'NMIXX'의 'DASH' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/46422268</id>
+        <link href="https://tv.naver.com/v/46422268"/>
+        <updated>2024-01-29T11:13:42.743Z</updated>
+        <content type="html"><![CDATA[05:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' SUPER JUNIOR-L.S.S. - Suit Up | Mnet 240125 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/46263055</id>
         <link href="https://tv.naver.com/v/46263055"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/46262195"/>
         <updated>2024-01-25T11:14:22.312Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YENA (최예나) - Good Morning | Mnet 240125 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/46261782</id>
-        <link href="https://tv.naver.com/v/46261782"/>
-        <updated>2024-01-25T11:14:22.314Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
