@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-29T08:20:06.623Z</updated>
+    <updated>2024-01-29T09:16:43.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://tv.naver.com/v/46353672"/>
         <updated>2024-01-27T14:14:18.507Z</updated>
         <content type="html"><![CDATA[00:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[계속 생각나는 러펌펌펌!✨]]></title>
+        <id>https://tv.naver.com/v/46313794</id>
+        <link href="https://tv.naver.com/v/46313794"/>
+        <updated>2024-01-29T09:16:31.400Z</updated>
+        <content type="html"><![CDATA[00:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔믹스를 위해서라면 권모술수 권민우 될게 💚]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46242866"/>
         <updated>2024-01-26T09:16:46.687Z</updated>
         <content type="html"><![CDATA[00:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HUI- Hmm BOP (후이 - 흠뻑) | Show Champion | EP.502 | 240124]]></title>
-        <id>https://tv.naver.com/v/46197166</id>
-        <link href="https://tv.naver.com/v/46197166"/>
-        <updated>2024-01-24T13:20:48.112Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
