@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-30T07:16:32.965Z</updated>
+    <updated>2024-01-30T08:19:43.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TWS(투어스)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/46469757</id>
+        <link href="https://tv.naver.com/v/46469757"/>
+        <updated>2024-01-30T08:19:19.892Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1월 마지막 주 1위 'NMIXX'의 'DASH' 앵콜 무대! (Full ver.)]]></title>
         <id>https://tv.naver.com/v/46422268</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46262457"/>
         <updated>2024-01-25T11:14:22.311Z</updated>
         <content type="html"><![CDATA[04:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' AB6IX (에이비식스) - GRAB ME | Mnet 240125 방송]]></title>
-        <id>https://tv.naver.com/v/46262195</id>
-        <link href="https://tv.naver.com/v/46262195"/>
-        <updated>2024-01-25T11:14:22.312Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
