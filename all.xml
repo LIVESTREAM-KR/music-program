@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-31T14:14:34.791Z</updated>
+    <updated>2024-01-31T15:16:29.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -355,13 +355,6 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CIX - My name is shadow (씨아이엑스 - 그림자) | Show Champion | EP.503 | 240131 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/46537586</id>
-        <link href="https://tv.naver.com/v/46537586"/>
-        <updated>2024-01-31T13:17:43.201Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] CIX HYUNSUK - My name is shadow (씨아이엑스 현석 - 그림자) | Show Champion | EP.503 | 240131 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/46537945</id>
         <link href="https://tv.naver.com/v/46537945"/>
@@ -394,6 +387,13 @@
         <id>https://tv.naver.com/v/46537588</id>
         <link href="https://tv.naver.com/v/46537588"/>
         <updated>2024-01-31T13:17:43.210Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] CIX - My name is shadow (씨아이엑스 - 그림자) | Show Champion | EP.503 | 240131 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/46537586</id>
+        <link href="https://tv.naver.com/v/46537586"/>
+        <updated>2024-01-31T13:17:43.201Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>

@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-01-31T14:14:34.776Z</updated>
+    <updated>2024-01-31T15:16:29.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CIX - My name is shadow (씨아이엑스 - 그림자) | Show Champion | EP.503 | 240131]]></title>
-        <id>https://tv.naver.com/v/46537586</id>
-        <link href="https://tv.naver.com/v/46537586"/>
-        <updated>2024-01-31T13:17:43.201Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] CIX HYUNSUK - My name is shadow (씨아이엑스 현석 - 그림자) | Show Champion | EP.503 | 240131]]></title>
         <id>https://tv.naver.com/v/46537945</id>
@@ -45,6 +38,13 @@
         <id>https://tv.naver.com/v/46537588</id>
         <link href="https://tv.naver.com/v/46537588"/>
         <updated>2024-01-31T13:17:43.210Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] CIX - My name is shadow (씨아이엑스 - 그림자) | Show Champion | EP.503 | 240131]]></title>
+        <id>https://tv.naver.com/v/46537586</id>
+        <link href="https://tv.naver.com/v/46537586"/>
+        <updated>2024-01-31T13:17:43.201Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
