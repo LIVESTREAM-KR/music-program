@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-31T10:17:06.909Z</updated>
+    <updated>2024-01-31T11:14:29.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,20 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 1월 5주 챔피언송 ＜EVNNE - UGLY＞ 앵콜 Full ver. l Show Champion l EP.503 l 240131 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/46536842</id>
+        <link href="https://tv.naver.com/v/46536842"/>
+        <updated>2024-01-31T11:14:16.951Z</updated>
+        <content type="html"><![CDATA[04:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 씨아이엑스(CIX) - Lovers or Enemies l 240131 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/46534693</id>
+        <link href="https://tv.naver.com/v/46534693"/>
+        <updated>2024-01-31T11:14:16.955Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[씨아이엑스(CIX) - 그림자 l 240131 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/46534450</id>
         <link href="https://tv.naver.com/v/46534450"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/46533023"/>
         <updated>2024-01-31T10:16:53.944Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'CIX(씨아이엑스)' 나!왔어✋🏻 l 240131 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/46532829</id>
-        <link href="https://tv.naver.com/v/46532829"/>
-        <updated>2024-01-31T10:16:53.945Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - TA-DA! l 240131 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/46532826</id>
-        <link href="https://tv.naver.com/v/46532826"/>
-        <updated>2024-01-31T10:16:53.947Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 神인 걸그룹 아티스트 👑골든걸스 특집 2부👑 단 한 발작도 움직일 수 없다🔥 | KBS 방송 (불후의 명곡)]]></title>
