@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-01T06:21:48.733Z</updated>
+    <updated>2024-02-01T07:17:25.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] January TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/46459654</id>
+        <link href="https://tv.naver.com/v/46459654"/>
+        <updated>2024-02-01T07:16:49.828Z</updated>
+        <content type="html"><![CDATA[31:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 1월 넷째 주 음악중심 MC 컷 모음!, MBC 240127 방송]]></title>
         <id>https://tv.naver.com/v/46403979</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46354671"/>
         <updated>2024-01-27T15:13:46.554Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS JIHOON – Oh Mymy : 7s(투어스 지훈 - 오 마마 : 7s) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46354666</id>
-        <link href="https://tv.naver.com/v/46354666"/>
-        <updated>2024-01-27T15:13:46.559Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
