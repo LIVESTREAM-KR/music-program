@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-01T08:20:03.418Z</updated>
+    <updated>2024-02-01T09:17:43.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,20 @@
         <content type="html"><![CDATA[00:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 훈훈한💖피지컬에 반전의 노래 실력까지✨겸비한 에이전트H 하이라이트!, MBC 240128 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/46581704</id>
+        <link href="https://tv.naver.com/v/46581704"/>
+        <updated>2024-02-01T09:17:42.774Z</updated>
+        <content type="html"><![CDATA[12:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ＜아나까나＞로 결혼식 축가🎤기강 잡는 원조 개가수🔥조혜련 하이라이트!, MBC 240128 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/46581653</id>
+        <link href="https://tv.naver.com/v/46581653"/>
+        <updated>2024-02-01T09:17:42.775Z</updated>
+        <content type="html"><![CDATA[13:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#복면가왕] 시원시원한 보컬 실력을 개그우먼 조혜련💃의  《베사메무쵸》, 《사랑한 후에》 |  #조혜련 MBC240128방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/46476236</id>
         <link href="https://tv.naver.com/v/46476236"/>
@@ -549,19 +563,5 @@
         <link href="https://tv.naver.com/v/46374034"/>
         <updated>2024-01-28T11:12:19.584Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로커? 듀오? '배꼽 도둑'의 정체를 추리할 사진 힌트📷!, MBC 240128 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/46374032</id>
-        <link href="https://tv.naver.com/v/46374032"/>
-        <updated>2024-01-28T11:12:19.586Z</updated>
-        <content type="html"><![CDATA[01:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['골목대장' VS '배꼽 도둑'의 1라운드 무대 - 이별의 끝은 어디인가요, MBC 240128 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/46373910</id>
-        <link href="https://tv.naver.com/v/46373910"/>
-        <updated>2024-01-28T11:12:19.588Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
