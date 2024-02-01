@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-02-01T11:14:05.150Z</updated>
+    <updated>2024-02-01T12:28:50.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' (여자)아이들 - Super Lady | Mnet 240201 방송]]></title>
+        <id>https://tv.naver.com/v/46588549</id>
+        <link href="https://tv.naver.com/v/46588549"/>
+        <updated>2024-02-01T12:28:27.006Z</updated>
+        <content type="html"><![CDATA[04:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AB6IX (에이비식스) - GRAB ME | Mnet 240201 방송]]></title>
         <id>https://tv.naver.com/v/46588214</id>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NAVERLAND ♥) | Mnet 240201 방송]]></title>
+        <title type="html"><![CDATA['미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) | Mnet 240201 방송]]></title>
         <id>https://tv.naver.com/v/46587125</id>
         <link href="https://tv.naver.com/v/46587125"/>
         <updated>2024-02-01T11:13:40.995Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46586629"/>
         <updated>2024-02-01T11:13:40.998Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - RU-PUM PUM | Mnet 240201 방송]]></title>
-        <id>https://tv.naver.com/v/46586377</id>
-        <link href="https://tv.naver.com/v/46586377"/>
-        <updated>2024-02-01T11:13:40.999Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-01T11:14:05.127Z</updated>
+    <updated>2024-02-01T12:28:50.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:10]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' (여자)아이들 - Super Lady | Mnet 240201 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/46588549</id>
+        <link href="https://tv.naver.com/v/46588549"/>
+        <updated>2024-02-01T12:28:27.006Z</updated>
+        <content type="html"><![CDATA[04:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AB6IX (에이비식스) - GRAB ME | Mnet 240201 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/46588214</id>
         <link href="https://tv.naver.com/v/46588214"/>
@@ -257,7 +264,7 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NAVERLAND ♥) | Mnet 240201 방송 (엠카운트다운)]]></title>
+        <title type="html"><![CDATA['미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) | Mnet 240201 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/46587125</id>
         <link href="https://tv.naver.com/v/46587125"/>
         <updated>2024-02-01T11:13:40.995Z</updated>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/46586629"/>
         <updated>2024-02-01T11:13:40.998Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - RU-PUM PUM | Mnet 240201 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/46586377</id>
-        <link href="https://tv.naver.com/v/46586377"/>
-        <updated>2024-02-01T11:13:40.999Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
