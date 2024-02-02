@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-02T06:20:16.354Z</updated>
+    <updated>2024-02-02T07:14:36.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DASH - NMIXX | KBS 240126 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX - Soñar (Breaker) (엔믹스 – 쏘냐르(브레이커))  | Show! Music Core (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46530929</id>
+        <link href="https://tv.naver.com/v/46530929"/>
+        <updated>2024-02-02T07:14:02.843Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[직캠 보고서🔍] 드림이 해서 더 참을 수 없는 나이 토크... 😡😤 (???: 애기~~💚) #엔시티드림 #NCTDREAM #가요대제전 #직캠 #비하인드 #Shorts (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46616411</id>
         <link href="https://tv.naver.com/v/46616411"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/46354704"/>
         <updated>2024-01-27T15:13:46.551Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS YOUNGJAE – plot twist(투어스 영재 - 첫 만남은 계획대로 되지 않아) FanCam | Show! MusicCore | MBC240127방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46354703</id>
-        <link href="https://tv.naver.com/v/46354703"/>
-        <updated>2024-01-27T15:13:46.552Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨스타19(SISTAR19) - NO MORE(MA BOY) | SBS 240128 방송 (인기가요)]]></title>
