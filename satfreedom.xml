@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-02-02T09:17:16.307Z</updated>
+    <updated>2024-02-02T10:17:23.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 오늘의 특별 코너! 나의 노래방 필살기 송🎤 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/46637078</id>
+        <link href="https://tv.naver.com/v/46637078"/>
+        <updated>2024-02-02T10:17:16.956Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 지금까지의 개인기는 잊어라! ✨뮤지컬 넘버 메들리✨ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/46636815</id>
+        <link href="https://tv.naver.com/v/46636815"/>
+        <updated>2024-02-02T10:17:16.957Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 불후의 명곡을 위해 의기투합한 4인! 👍🏼트로트걸스의 트로트 메들리❤ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/46636810</id>
+        <link href="https://tv.naver.com/v/46636810"/>
+        <updated>2024-02-02T10:17:16.958Z</updated>
+        <content type="html"><![CDATA[01:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 神인 걸그룹 아티스트 👑골든걸스 특집 2부👑 단 한 발작도 움직일 수 없다🔥 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/46348756</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/46348104"/>
         <updated>2024-01-27T12:26:42.587Z</updated>
         <content type="html"><![CDATA[04:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손준호&김소현 - 아버지 | KBS 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46347967</id>
-        <link href="https://tv.naver.com/v/46347967"/>
-        <updated>2024-01-27T12:26:42.588Z</updated>
-        <content type="html"><![CDATA[05:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손준호&김소현의 진심이 담긴 선곡 & 대표 넘버 한 소절🎵♥️ | KBS 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46347934</id>
-        <link href="https://tv.naver.com/v/46347934"/>
-        <updated>2024-01-27T11:12:18.122Z</updated>
-        <content type="html"><![CDATA[05:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 642회 ＜골든걸스 특집 1부＞ 우승자 ⭐알리⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/46347523</id>
-        <link href="https://tv.naver.com/v/46347523"/>
-        <updated>2024-01-27T12:26:42.591Z</updated>
-        <content type="html"><![CDATA[00:53]]></content>
     </entry>
 </feed>
