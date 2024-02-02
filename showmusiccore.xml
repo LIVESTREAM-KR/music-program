@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-02T02:22:01.897Z</updated>
+    <updated>2024-02-02T03:17:26.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[직캠 보고서🔍] 드림이 해서 더 참을 수 없는 나이 토크... 😡😤 (???: 애기~~💚) #엔시티드림 #NCTDREAM #가요대제전 #직캠 #비하인드 #Shorts]]></title>
+        <id>https://tv.naver.com/v/46616411</id>
+        <link href="https://tv.naver.com/v/46616411"/>
+        <updated>2024-02-02T03:16:54.259Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] January TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/46459654</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46354703"/>
         <updated>2024-01-27T15:13:46.552Z</updated>
         <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS SHINYU – plot twist(투어스 신유 - 첫 만남은 계획대로 되지 않아) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46354671</id>
-        <link href="https://tv.naver.com/v/46354671"/>
-        <updated>2024-01-27T15:13:46.554Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
