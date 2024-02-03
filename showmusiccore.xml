@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-03T06:19:30.300Z</updated>
+    <updated>2024-02-03T07:15:10.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[류지현 - 겟 레디, 셋, 고! (Ryu jihyun - Get ready, Set, Go!), MBC 240203 방송]]></title>
+        <id>https://tv.naver.com/v/46669063</id>
+        <link href="https://tv.naver.com/v/46669063"/>
+        <updated>2024-02-03T07:14:33.997Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파우 - 발렌타인 (POW - Valentine), MBC 240203 방송]]></title>
+        <id>https://tv.naver.com/v/46668881</id>
+        <link href="https://tv.naver.com/v/46668881"/>
+        <updated>2024-02-03T07:14:33.999Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[규빈 - 리얼리 라이크 유 (Gyubin - Really Like You), MBC 240203 방송]]></title>
+        <id>https://tv.naver.com/v/46668880</id>
+        <link href="https://tv.naver.com/v/46668880"/>
+        <updated>2024-02-03T07:14:34.004Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김의영 - 혼자 걷지 마세요 (Kim Eui-Young - Don't walk alone), MBC 240203 방송]]></title>
+        <id>https://tv.naver.com/v/46668879</id>
+        <link href="https://tv.naver.com/v/46668879"/>
+        <updated>2024-02-03T07:14:34.006Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX - Soñar (Breaker) (엔믹스 – 쏘냐르(브레이커))  | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/46530929</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/46401671"/>
         <updated>2024-01-29T06:20:10.817Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU – plot twist(투어스 신유 - 첫 만남은 계획대로 되지 않아) Close-upCam|Show!MusicCore |MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46401380</id>
-        <link href="https://tv.naver.com/v/46401380"/>
-        <updated>2024-01-29T06:20:10.817Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ] TWS DOHOON – plot twist(투어스 도훈 - 첫 만남은 계획대로 되지 않아) Close-upCam|Show! MusicCore|MBC240127방]]></title>
-        <id>https://tv.naver.com/v/46401124</id>
-        <link href="https://tv.naver.com/v/46401124"/>
-        <updated>2024-01-29T06:20:10.819Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS KYUNGMIN – plot twist(투어스 경민 - 첫 만남은 계획대로 되지 않아) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46354707</id>
-        <link href="https://tv.naver.com/v/46354707"/>
-        <updated>2024-01-27T15:13:46.548Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS HANJIN – plot twist(투어스 한진 - 첫 만남은 계획대로 되지 않아) FanCam | Show! MusicCore | MBC240127방송]]></title>
-        <id>https://tv.naver.com/v/46354704</id>
-        <link href="https://tv.naver.com/v/46354704"/>
-        <updated>2024-01-27T15:13:46.551Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>
