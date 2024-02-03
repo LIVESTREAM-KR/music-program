@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-02-03T09:16:13.754Z</updated>
+    <updated>2024-02-03T10:15:39.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김연지 - 애인 있어요 | KBS 240203 방송]]></title>
+        <id>https://tv.naver.com/v/46674693</id>
+        <link href="https://tv.naver.com/v/46674693"/>
+        <updated>2024-02-03T10:15:34.040Z</updated>
+        <content type="html"><![CDATA[05:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명품 보컬리스트 김연지의 선곡❤️‍🔥 긴장을 풀어주는 이은미😭 | KBS 240203 방송]]></title>
+        <id>https://tv.naver.com/v/46674333</id>
+        <link href="https://tv.naver.com/v/46674333"/>
+        <updated>2024-02-03T10:15:34.040Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트로트 걸스 은가은&강예슬&정다경&홍지윤💟 디바걸스와의 차이점은?! | KBS 240203 방송]]></title>
+        <id>https://tv.naver.com/v/46674191</id>
+        <link href="https://tv.naver.com/v/46674191"/>
+        <updated>2024-02-03T10:15:34.042Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[완성형 보컬리스트✨️ 임한별에게 골든 걸스는? 이유있는 자신감🔥 | KBS 240203 방송]]></title>
+        <id>https://tv.naver.com/v/46674186</id>
+        <link href="https://tv.naver.com/v/46674186"/>
+        <updated>2024-02-03T10:15:34.044Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 오늘의 특별 코너! 나의 노래방 필살기 송🎤 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/46637078</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/46348408"/>
         <updated>2024-01-27T12:26:42.580Z</updated>
         <content type="html"><![CDATA[01:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HYNN(박혜원) - 행복 | KBS 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46348404</id>
-        <link href="https://tv.naver.com/v/46348404"/>
-        <updated>2024-01-27T12:26:42.581Z</updated>
-        <content type="html"><![CDATA[04:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두를 웃음 짓게 하는 행복☘️ 가창력의 작은 거인 HYNN(박혜원)의 무대 | KBS 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46348258</id>
-        <link href="https://tv.naver.com/v/46348258"/>
-        <updated>2024-01-27T12:26:42.583Z</updated>
-        <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골든걸스 막내자리를 위한 의지🔥 HYNN(박혜원)이 준비한 오늘의 선곡은? | KBS 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46348252</id>
-        <link href="https://tv.naver.com/v/46348252"/>
-        <updated>2024-01-27T12:26:42.584Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음속 떠오르는 그 얼굴, 모두를 눈물짓게 한😢 손준호&김소현의 무대 | KBS 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46348104</id>
-        <link href="https://tv.naver.com/v/46348104"/>
-        <updated>2024-01-27T12:26:42.587Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
     </entry>
 </feed>
