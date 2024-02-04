@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-02-04T09:15:32.823Z</updated>
+    <updated>2024-02-04T10:16:32.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['폭신폭신 롤케이크' 2라운드 무대 - 건물 사이에 피어난 장미, MBC 240204 방송]]></title>
+        <id>https://tv.naver.com/v/46700835</id>
+        <link href="https://tv.naver.com/v/46700835"/>
+        <updated>2024-02-04T10:16:32.167Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['배꼽 도둑' 2라운드 무대 - 아마도 그건, MBC 240204 방송]]></title>
+        <id>https://tv.naver.com/v/46700417</id>
+        <link href="https://tv.naver.com/v/46700417"/>
+        <updated>2024-02-04T10:16:32.170Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쇼핑백'의 정체는 가수 예빈나다!, MBC 240204 방송]]></title>
+        <id>https://tv.naver.com/v/46700135</id>
+        <link href="https://tv.naver.com/v/46700135"/>
+        <updated>2024-02-04T10:16:32.170Z</updated>
+        <content type="html"><![CDATA[01:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붕세권' 2라운드 무대 - 사랑하긴 했었나요 스쳐가는 인연이었나요 짧지않은 우리 함께했던 시간들이 자꾸 내 마음을 가둬두네, MBC 240204 방송]]></title>
+        <id>https://tv.naver.com/v/46699899</id>
+        <link href="https://tv.naver.com/v/46699899"/>
+        <updated>2024-02-04T10:16:32.174Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['쇼핑백' 2라운드 무대 - 그대만 있다면, MBC 240204 방송]]></title>
+        <id>https://tv.naver.com/v/46699868</id>
+        <link href="https://tv.naver.com/v/46699868"/>
+        <updated>2024-02-04T10:16:32.175Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 훈훈한💖피지컬에 반전의 노래 실력까지✨겸비한 에이전트H 하이라이트!, MBC 240128 방송]]></title>
         <id>https://tv.naver.com/v/46581704</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/46375104"/>
         <updated>2024-01-28T11:12:19.577Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쫀득쫀득 떡 케이크'의 정체는 코미디언 조혜련!, MBC 240128 방송]]></title>
-        <id>https://tv.naver.com/v/46374840</id>
-        <link href="https://tv.naver.com/v/46374840"/>
-        <updated>2024-01-28T11:12:19.578Z</updated>
-        <content type="html"><![CDATA[01:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[톱 아티스트들의 노래를 작곡?! '폭신폭신 롤케이크'의 지인 화사가 주는 힌트✨, MBC 240128 방송]]></title>
-        <id>https://tv.naver.com/v/46374633</id>
-        <link href="https://tv.naver.com/v/46374633"/>
-        <updated>2024-01-28T11:12:19.580Z</updated>
-        <content type="html"><![CDATA[01:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄정화와 절친한 사이인 '쫀득쫀득 떡 케이크'👀 본업은 30년 차 이상의 베테랑 연기자?!, MBC 240128 방송]]></title>
-        <id>https://tv.naver.com/v/46374632</id>
-        <link href="https://tv.naver.com/v/46374632"/>
-        <updated>2024-01-28T11:12:19.581Z</updated>
-        <content type="html"><![CDATA[01:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폭신폭신 롤케이크' VS '쫀득쫀득 떡 케이크'의 1라운드 무대 - 베사메무쵸, MBC 240128 방송]]></title>
-        <id>https://tv.naver.com/v/46374370</id>
-        <link href="https://tv.naver.com/v/46374370"/>
-        <updated>2024-01-28T11:12:19.583Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['골목대장'의 정체는 방송인 에이전트 H!, MBC 240128 방송]]></title>
-        <id>https://tv.naver.com/v/46374034</id>
-        <link href="https://tv.naver.com/v/46374034"/>
-        <updated>2024-01-28T11:12:19.584Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
