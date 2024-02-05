@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-05T05:17:08.777Z</updated>
+    <updated>2024-02-05T06:20:51.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE SHUHUA – Super Lady ((여자)아이들 슈화 - 슈퍼 레이디) Close-up Cam|Show!MusicCore|MBC240203방송]]></title>
+        <id>https://tv.naver.com/v/46730141</id>
+        <link href="https://tv.naver.com/v/46730141"/>
+        <updated>2024-02-05T06:20:19.624Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] (G)I-DLE MIYEON – Super Lady ((여자)아이들 미연 - 슈퍼 레이디) Close-up Cam|Show!MusicCore|MBC240203방송]]></title>
+        <id>https://tv.naver.com/v/46730136</id>
+        <link href="https://tv.naver.com/v/46730136"/>
+        <updated>2024-02-05T06:20:19.625Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU – plot twist(투어스 신유 - 첫 만남은 계획대로 되지 않아) Close-up Cam | Show! MusicCore | MBC2402]]></title>
+        <id>https://tv.naver.com/v/46727902</id>
+        <link href="https://tv.naver.com/v/46727902"/>
+        <updated>2024-02-05T06:20:19.628Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS HANJIN – plot twist(투어스 한진 - 첫 만남은 계획대로 되지 않아) Close-up Cam | Show! MusicCore | MBC2402]]></title>
+        <id>https://tv.naver.com/v/46727646</id>
+        <link href="https://tv.naver.com/v/46727646"/>
+        <updated>2024-02-05T06:20:19.629Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON – DASH (엔믹스 설윤 - 대시) Close-up Cam | Show! MusicCore | MBC240203방송]]></title>
         <id>https://tv.naver.com/v/46726047</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/46674185"/>
         <updated>2024-02-03T10:15:07.654Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] AB6IX - GRAB ME(에이비식스 – 그랩 미) FanCam | Show! MusicCore | MBC240203방송]]></title>
-        <id>https://tv.naver.com/v/46674181</id>
-        <link href="https://tv.naver.com/v/46674181"/>
-        <updated>2024-02-03T10:15:07.656Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EVNNE - UGLY(이븐 – 어글리) FanCam | Show! MusicCore | MBC240203방송]]></title>
-        <id>https://tv.naver.com/v/46674042</id>
-        <link href="https://tv.naver.com/v/46674042"/>
-        <updated>2024-02-03T10:15:07.657Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CIX - Lovers or Enemies(씨아이엑스 – 러버스 오어 에너미스) FanCam | Show! MusicCore | MBC240203방송]]></title>
-        <id>https://tv.naver.com/v/46673945</id>
-        <link href="https://tv.naver.com/v/46673945"/>
-        <updated>2024-02-03T10:15:07.658Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEOLA- Without U (설아 – 위드 아웃 유) FanCam | Show! MusicCore | MBC240203방송]]></title>
-        <id>https://tv.naver.com/v/46673594</id>
-        <link href="https://tv.naver.com/v/46673594"/>
-        <updated>2024-02-03T10:15:07.661Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
