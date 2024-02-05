@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-05T02:28:45.210Z</updated>
+    <updated>2024-02-05T03:18:43.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UGLY - EVNNE(이븐) | KBS 240202 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 도훈 , 2월 첫째 주 음악중심 MC 컷 모음!, MBC 240203 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46720418</id>
+        <link href="https://tv.naver.com/v/46720418"/>
+        <updated>2024-02-05T03:18:11.503Z</updated>
+        <content type="html"><![CDATA[10:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[라임라잇 - 타다! (LIMELIGHT - TA-DA!), MBC 240203 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46675844</id>
         <link href="https://tv.naver.com/v/46675844"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/46673348"/>
         <updated>2024-02-03T10:15:07.666Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] POW HONG – Valentine (파우 홍 - 발렌타인) FanCam | Show! MusicCore | MBC240203방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46673347</id>
-        <link href="https://tv.naver.com/v/46673347"/>
-        <updated>2024-02-03T10:15:07.667Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - Super Lady | SBS 240204 방송 (인기가요)]]></title>
