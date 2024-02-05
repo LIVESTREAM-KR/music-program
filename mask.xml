@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-02-05T07:16:23.491Z</updated>
+    <updated>2024-02-05T08:20:35.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/46703361"/>
         <updated>2024-02-04T12:26:57.308Z</updated>
         <content type="html"><![CDATA[00:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['붕세권'의 정체는 가수 진호!, MBC 240204 방송]]></title>
+        <id>https://tv.naver.com/v/46703023</id>
+        <link href="https://tv.naver.com/v/46703023"/>
+        <updated>2024-02-05T08:20:35.353Z</updated>
+        <content type="html"><![CDATA[02:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['배꼽 도둑' 지우와 DK의 스페셜 무대 - 발걸음, MBC 240204 방송]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46700835"/>
         <updated>2024-02-04T10:16:32.167Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['배꼽 도둑' 2라운드 무대 - 아마도 그건, MBC 240204 방송]]></title>
-        <id>https://tv.naver.com/v/46700417</id>
-        <link href="https://tv.naver.com/v/46700417"/>
-        <updated>2024-02-05T07:16:22.935Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
