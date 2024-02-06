@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-02-06T11:14:25.123Z</updated>
+    <updated>2024-02-06T12:29:48.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[픽스들 귓가에 Love love love love 💗]]></title>
+        <id>https://tv.naver.com/v/46765017</id>
+        <link href="https://tv.naver.com/v/46765017"/>
+        <updated>2024-02-06T12:29:37.988Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 기억해, 영원히 반짝일 우리의 첫 만남!]]></title>
         <id>https://tv.naver.com/v/46727652</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/46537878</id>
         <link href="https://tv.naver.com/v/46537878"/>
         <updated>2024-01-31T13:17:43.207Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] CIX BAE JINYOUNG - My name is shadow (씨아이엑스 배진영 - 그림자)| Show Champion | EP.503 | 240131]]></title>
-        <id>https://tv.naver.com/v/46537591</id>
-        <link href="https://tv.naver.com/v/46537591"/>
-        <updated>2024-01-31T13:17:43.209Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
