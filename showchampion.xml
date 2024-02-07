@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-02-07T11:14:15.582Z</updated>
+    <updated>2024-02-07T12:28:28.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://tv.naver.com/v/46839652"/>
         <updated>2024-02-07T11:14:03.239Z</updated>
         <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HOT DEBUT] TWS(투어스) - 첫 만남은 계획대로 되지 않아 l 240207]]></title>
+        <id>https://tv.naver.com/v/46839651</id>
+        <link href="https://tv.naver.com/v/46839651"/>
+        <updated>2024-02-07T12:28:16.357Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[엔딩원샷] 띄어쓰기의 중요성👀‍ EVNNE(이븐) 엔딩요정 주인공은 과연 누구? l 240207]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46838296"/>
         <updated>2024-02-07T10:17:28.486Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POW(파우) - Valentine l 240207]]></title>
-        <id>https://tv.naver.com/v/46838037</id>
-        <link href="https://tv.naver.com/v/46838037"/>
-        <updated>2024-02-07T10:17:28.490Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
     </entry>
 </feed>
