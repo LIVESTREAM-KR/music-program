@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-02-08T02:21:51.748Z</updated>
+    <updated>2024-02-08T03:17:54.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 현직 아이돌 최초로 팬텀 싱어😮 결승진출한 진호가 부르는 《사랑하긴 했었나요》, 《미안해》 |  #진호 MBC240204방송]]></title>
+        <id>https://tv.naver.com/v/46741616</id>
+        <link href="https://tv.naver.com/v/46741616"/>
+        <updated>2024-02-08T03:17:54.049Z</updated>
+        <content type="html"><![CDATA[14:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜설에도 계속되는 실력자들의 열정!🔥 가왕 '희로애락도 락이다'의 운명은?＞ 복면가왕 438회 예고, MBC 240211]]></title>
         <id>https://tv.naver.com/v/46703361</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46701479"/>
         <updated>2024-02-04T11:12:59.983Z</updated>
         <content type="html"><![CDATA[01:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폭신폭신 롤케이크' 2라운드 무대 - 건물 사이에 피어난 장미, MBC 240204 방송]]></title>
-        <id>https://tv.naver.com/v/46700835</id>
-        <link href="https://tv.naver.com/v/46700835"/>
-        <updated>2024-02-04T10:16:32.167Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
     </entry>
 </feed>
