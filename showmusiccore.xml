@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-09T05:15:00.474Z</updated>
+    <updated>2024-02-09T06:20:23.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Homecoming Drive.zip 📂 Show! Music Core Homecoming Drive Special Compilation]]></title>
+        <id>https://tv.naver.com/v/46773071</id>
+        <link href="https://tv.naver.com/v/46773071"/>
+        <updated>2024-02-09T06:19:48.909Z</updated>
+        <content type="html"><![CDATA[58:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] (G)I-DLE.zip 📂 LATATA부터 Super Lady까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/46742023</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46720418"/>
         <updated>2024-02-05T03:18:11.503Z</updated>
         <content type="html"><![CDATA[10:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라임라잇 - 타다! (LIMELIGHT - TA-DA!), MBC 240203 방송]]></title>
-        <id>https://tv.naver.com/v/46675844</id>
-        <link href="https://tv.naver.com/v/46675844"/>
-        <updated>2024-02-03T11:13:03.376Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
