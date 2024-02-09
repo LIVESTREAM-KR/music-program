@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-09T06:20:23.778Z</updated>
+    <updated>2024-02-09T07:14:25.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ITZY - UNTOUCHABLE(있지 – 언터처블) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/46634336</id>
+        <link href="https://tv.naver.com/v/46634336"/>
+        <updated>2024-02-09T07:13:49.090Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Homecoming Drive.zip 📂 Show! Music Core Homecoming Drive Special Compilation]]></title>
         <id>https://tv.naver.com/v/46773071</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46725608"/>
         <updated>2024-02-05T05:16:33.089Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 도훈 , 2월 첫째 주 음악중심 MC 컷 모음!, MBC 240203 방송]]></title>
-        <id>https://tv.naver.com/v/46720418</id>
-        <link href="https://tv.naver.com/v/46720418"/>
-        <updated>2024-02-05T03:18:11.503Z</updated>
-        <content type="html"><![CDATA[10:36]]></content>
     </entry>
 </feed>
