@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-02-10T09:15:32.599Z</updated>
+    <updated>2024-02-10T10:16:45.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[몽니 김신의가 생각하는 아티스트 조영남의 매력은?🎸 | KBS 240210 방송]]></title>
+        <id>https://tv.naver.com/v/46931341</id>
+        <link href="https://tv.naver.com/v/46931341"/>
+        <updated>2024-02-10T10:16:39.773Z</updated>
+        <content type="html"><![CDATA[01:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조영남 - 아리랑 + Amazing Grace | KBS 240210 방송]]></title>
+        <id>https://tv.naver.com/v/46931104</id>
+        <link href="https://tv.naver.com/v/46931104"/>
+        <updated>2024-02-10T10:16:39.773Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 원조 만능 엔터테이너 아티스트 🌹조영남 특집🌹 역대급 스케일의 무대들🔥 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/46677007</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/46676148"/>
         <updated>2024-02-03T11:13:31.426Z</updated>
         <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방예담만의 색깔로 재탄생! 풋사과 같았던 방예담의 무대🍏 | KBS 240203 방송]]></title>
-        <id>https://tv.naver.com/v/46676146</id>
-        <link href="https://tv.naver.com/v/46676146"/>
-        <updated>2024-02-03T11:13:31.426Z</updated>
-        <content type="html"><![CDATA[01:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방예담 불후 첫 출연💛 오늘의 선곡&목표는?🔥 | KBS 240203 방송]]></title>
-        <id>https://tv.naver.com/v/46675880</id>
-        <link href="https://tv.naver.com/v/46675880"/>
-        <updated>2024-02-03T11:13:31.428Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
