@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-11T05:14:30.224Z</updated>
+    <updated>2024-02-11T06:20:39.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Trot.zip 📂 Show! Music Core Trot Special Compilation]]></title>
+        <id>https://tv.naver.com/v/46817548</id>
+        <link href="https://tv.naver.com/v/46817548"/>
+        <updated>2024-02-11T06:20:03.454Z</updated>
+        <content type="html"><![CDATA[35:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ITZY - UNTOUCHABLE(있지 – 언터처블) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/46634336</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46725610"/>
         <updated>2024-02-05T05:16:33.085Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON – DASH(엔믹스 해원 - 대시) FanCam | Show! MusicCore | MBC240203방송]]></title>
-        <id>https://tv.naver.com/v/46725608</id>
-        <link href="https://tv.naver.com/v/46725608"/>
-        <updated>2024-02-05T05:16:33.089Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>

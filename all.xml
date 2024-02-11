@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-11T05:14:30.218Z</updated>
+    <updated>2024-02-11T06:20:39.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UGLY - EVNNE(이븐) | KBS 240202 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Trot.zip 📂 Show! Music Core Trot Special Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/46817548</id>
+        <link href="https://tv.naver.com/v/46817548"/>
+        <updated>2024-02-11T06:20:03.454Z</updated>
+        <content type="html"><![CDATA[35:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ITZY - UNTOUCHABLE(있지 – 언터처블) | Show! Music Core (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/46634336</id>
         <link href="https://tv.naver.com/v/46634336"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/46725610"/>
         <updated>2024-02-05T05:16:33.085Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NMIXX HAEWON – DASH(엔믹스 해원 - 대시) FanCam | Show! MusicCore | MBC240203방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/46725608</id>
-        <link href="https://tv.naver.com/v/46725608"/>
-        <updated>2024-02-05T05:16:33.089Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - Super Lady | SBS 240204 방송 (인기가요)]]></title>
