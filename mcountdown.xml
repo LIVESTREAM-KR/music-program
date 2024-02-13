@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-02-13T09:16:15.756Z</updated>
+    <updated>2024-02-13T10:17:04.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MC ✨샤인멍또캣✨이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/47017014</id>
+        <link href="https://tv.naver.com/v/47017014"/>
+        <updated>2024-02-13T10:16:40.718Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설아 (우주소녀) - Without U | Mnet 240208 방송]]></title>
         <id>https://tv.naver.com/v/46884032</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46883170"/>
         <updated>2024-02-08T11:13:25.323Z</updated>
         <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVNNE(이븐) - UGLY | Mnet 240208 방송]]></title>
-        <id>https://tv.naver.com/v/46883169</id>
-        <link href="https://tv.naver.com/v/46883169"/>
-        <updated>2024-02-08T11:13:25.325Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
