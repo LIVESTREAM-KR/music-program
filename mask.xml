@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-02-13T12:28:34.529Z</updated>
+    <updated>2024-02-13T13:19:57.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소화제'의 정체는 NCT 텐!, MBC 240211 방송]]></title>
+        <id>https://tv.naver.com/v/47026572</id>
+        <link href="https://tv.naver.com/v/47026572"/>
+        <updated>2024-02-13T13:19:56.989Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜'희로애락도 락이다'의 회심의 일격?!✨ 격이 다른 가왕석 추격전이 펼쳐진다!＞ 복면가왕 439회 예고, MBC 240218 방송]]></title>
         <id>https://tv.naver.com/v/46950920</id>
@@ -17,7 +24,7 @@
         <id>https://tv.naver.com/v/46950791</id>
         <link href="https://tv.naver.com/v/46950791"/>
         <updated>2024-02-11T11:13:39.708Z</updated>
-        <content type="html"><![CDATA[01:52]]></content>
+        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['비빔밥' VS '약밥'의 1라운드 무대 - 해야, MBC 240211 방송]]></title>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['소화제'의 정체는 NCT 텐!, MBC 240211 방송]]></title>
+        <title type="html"><![CDATA[NCT 텐의 솔로 가수 데뷔😍 솔로 가수 텐의 각오는?!, MBC 240211 방송]]></title>
         <id>https://tv.naver.com/v/46950277</id>
         <link href="https://tv.naver.com/v/46950277"/>
         <updated>2024-02-11T11:13:39.712Z</updated>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/46949569</id>
         <link href="https://tv.naver.com/v/46949569"/>
         <updated>2024-02-11T10:16:39.107Z</updated>
-        <content type="html"><![CDATA[01:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시원하게 뽑아내는 구성진 창법!😲 '그레텔'의 걸 그룹 노래 판소리로 부르기🎤, MBC 240211 방송]]></title>
-        <id>https://tv.naver.com/v/46949476</id>
-        <link href="https://tv.naver.com/v/46949476"/>
-        <updated>2024-02-11T10:16:39.108Z</updated>
-        <content type="html"><![CDATA[01:44]]></content>
+        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
