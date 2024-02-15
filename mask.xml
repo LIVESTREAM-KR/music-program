@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-02-15T02:22:47.630Z</updated>
+    <updated>2024-02-15T03:19:12.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 서울대 출신 엘리트💯 개그맨 출신 서경석🕺이 부르는 《해야》, 《널 그리며》 |  #서경석 MBC240211방송]]></title>
+        <id>https://tv.naver.com/v/47007762</id>
+        <link href="https://tv.naver.com/v/47007762"/>
+        <updated>2024-02-15T03:19:11.359Z</updated>
+        <content type="html"><![CDATA[17:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['소화제'의 정체는 NCT 텐!, MBC 240211 방송]]></title>
         <id>https://tv.naver.com/v/47026572</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46949706"/>
         <updated>2024-02-11T10:16:39.105Z</updated>
         <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['그레텔'의 정체는 배우 정소리!, MBC 240211 방송]]></title>
-        <id>https://tv.naver.com/v/46949569</id>
-        <link href="https://tv.naver.com/v/46949569"/>
-        <updated>2024-02-11T10:16:39.107Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
