@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-15T10:18:08.605Z</updated>
+    <updated>2024-02-15T11:14:47.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[UGLY - EVNNE(이븐) | KBS 240202 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,48 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[행복이 가득한 2월 특집] 방탄소년단 (BTS) - Yet To Come (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47118841</id>
+        <link href="https://tv.naver.com/v/47118841"/>
+        <updated>2024-02-15T11:14:26.385Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[행복이 가득한 2월 특집] (여자)아이들 ((G)I-DLE) - Super Lady (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47118569</id>
+        <link href="https://tv.naver.com/v/47118569"/>
+        <updated>2024-02-15T11:14:26.385Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[행복이 가득한 2월 특집] 부석순 (SEVENTEEN) - 파이팅 해야지 (Feat. 이영지) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47118353</id>
+        <link href="https://tv.naver.com/v/47118353"/>
+        <updated>2024-02-15T11:14:26.385Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[행복이 가득한 2월 특집] DAY6 (Even of Day) - 한 페이지가 될 수 있게 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47118049</id>
+        <link href="https://tv.naver.com/v/47118049"/>
+        <updated>2024-02-15T11:14:26.386Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[행복이 가득한 2월 특집] 키 (KEY) - Good & Great (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47117824</id>
+        <link href="https://tv.naver.com/v/47117824"/>
+        <updated>2024-02-15T11:14:26.387Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[행복이 가득한 2월 특집] ENHYPEN (엔하이픈) - Tamed-Dashed (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47117822</id>
+        <link href="https://tv.naver.com/v/47117822"/>
+        <updated>2024-02-15T11:14:26.388Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[행복이 가득한 2월 특집] TWS (투어스) - 첫 만남은 계획대로 되지 않아 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/47117636</id>
         <link href="https://tv.naver.com/v/47117636"/>
@@ -241,48 +283,6 @@
         <link href="https://tv.naver.com/v/47117079"/>
         <updated>2024-02-15T10:17:47.344Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] ITZY (있지) - CAKE (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47116863</id>
-        <link href="https://tv.naver.com/v/47116863"/>
-        <updated>2024-02-15T10:17:47.346Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] ZEROBASEONE (제로베이스원) - MELTING POINT (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47116862</id>
-        <link href="https://tv.naver.com/v/47116862"/>
-        <updated>2024-02-15T10:17:47.347Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] RIIZE (라이즈) - Love 119 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47116558</id>
-        <link href="https://tv.naver.com/v/47116558"/>
-        <updated>2024-02-15T10:17:47.349Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] 투모로우바이투게더 (TOMORROW X TOGEGHER) - Sugar Rush Ride (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47116288</id>
-        <link href="https://tv.naver.com/v/47116288"/>
-        <updated>2024-02-15T10:17:47.350Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] BOYNEXTDOOR (보이넥스트도어) - One and Only (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47116286</id>
-        <link href="https://tv.naver.com/v/47116286"/>
-        <updated>2024-02-15T10:17:47.352Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] 임영웅 (Lim Young Woong) - Do or Die (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47116058</id>
-        <link href="https://tv.naver.com/v/47116058"/>
-        <updated>2024-02-15T10:17:47.354Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
