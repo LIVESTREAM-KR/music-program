@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-16T08:20:02.146Z</updated>
+    <updated>2024-02-16T09:16:01.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[H! TEEN - 더윈드 (The Wind) | KBS 240216 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47168600</id>
+        <link href="https://tv.naver.com/v/47168600"/>
+        <updated>2024-02-16T09:15:20.007Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valentine - POW | KBS 240216 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47168056</id>
+        <link href="https://tv.naver.com/v/47168056"/>
+        <updated>2024-02-16T09:15:20.008Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WAO WAO - ALL(H)OURS (올아워즈) | KBS 240216 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47168045</id>
+        <link href="https://tv.naver.com/v/47168045"/>
+        <updated>2024-02-16T09:15:20.009Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Really Like You - 규빈 | KBS 240216 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47168042</id>
+        <link href="https://tv.naver.com/v/47168042"/>
+        <updated>2024-02-16T09:15:20.012Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Burn Up - DXMON(다이몬) | KBS 240216 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47167985</id>
+        <link href="https://tv.naver.com/v/47167985"/>
+        <updated>2024-02-16T09:15:20.012Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UGLY - EVNNE(이븐) | KBS 240202 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/46638201</id>
@@ -38,41 +73,6 @@
         <link href="https://tv.naver.com/v/46637543"/>
         <updated>2024-02-02T10:16:43.321Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Lady - (여자)아이들 | KBS 240202 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46637540</id>
-        <link href="https://tv.naver.com/v/46637540"/>
-        <updated>2024-02-02T10:16:43.323Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lovers or Enemies - CIX(씨아이엑스) | KBS 240202 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46637089</id>
-        <link href="https://tv.naver.com/v/46637089"/>
-        <updated>2024-02-02T10:16:43.324Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JACKPOT - VANNER(배너) | KBS 240202 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46637087</id>
-        <link href="https://tv.naver.com/v/46637087"/>
-        <updated>2024-02-02T10:16:43.326Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DASH - NMIXX | KBS 240202 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46636555</id>
-        <link href="https://tv.naver.com/v/46636555"/>
-        <updated>2024-02-02T10:16:43.328Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑 모두 거짓말 - A SIX | KBS 240202 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/46636346</id>
-        <link href="https://tv.naver.com/v/46636346"/>
-        <updated>2024-02-02T09:16:32.979Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX - DASH(엔믹스 - 대쉬) | Show! Music Core (쇼! 음악중심)]]></title>
