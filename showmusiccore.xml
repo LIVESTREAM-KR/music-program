@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-16T06:20:36.365Z</updated>
+    <updated>2024-02-16T07:15:21.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX - DASH(엔믹스 - 대쉬) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/47092693</id>
+        <link href="https://tv.naver.com/v/47092693"/>
+        <updated>2024-02-16T07:14:46.328Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Remake.zip 📂 Show! Music Core Remake song Special Compilation]]></title>
         <id>https://tv.naver.com/v/46823413</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46727646"/>
         <updated>2024-02-05T06:20:19.629Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON – DASH (엔믹스 설윤 - 대시) Close-up Cam | Show! MusicCore | MBC240203방송]]></title>
-        <id>https://tv.naver.com/v/46726047</id>
-        <link href="https://tv.naver.com/v/46726047"/>
-        <updated>2024-02-05T05:16:33.083Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
