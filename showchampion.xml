@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-02-17T08:18:59.156Z</updated>
+    <updated>2024-02-17T09:15:10.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쫑이를 보는 내 심장은 거렁뱅이.. ✨]]></title>
+        <id>https://tv.naver.com/v/47161758</id>
+        <link href="https://tv.naver.com/v/47161758"/>
+        <updated>2024-02-17T09:14:58.930Z</updated>
+        <content type="html"><![CDATA[00:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[배너 응원 가자! 질 수 없지!! 👊]]></title>
         <id>https://tv.naver.com/v/47062438</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46859472"/>
         <updated>2024-02-08T08:19:37.520Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] EVNNE YOO SEUNG EON - Festa (이븐 유승언 - 페스타) | Show Champion | EP.504 | 240207]]></title>
-        <id>https://tv.naver.com/v/46864264</id>
-        <link href="https://tv.naver.com/v/46864264"/>
-        <updated>2024-02-08T08:19:37.521Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
