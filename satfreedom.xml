@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-02-17T01:07:24.697Z</updated>
+    <updated>2024-02-17T02:20:27.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 내 생애 최고의 무대! | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/47177040</id>
-        <link href="https://tv.naver.com/v/47177040"/>
-        <updated>2024-02-16T12:29:18.213Z</updated>
-        <content type="html"><![CDATA[11:07]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 서도밴드의 ＜띵띵땅땅＞챌린지?!🎶 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/47176164</id>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/46932770"/>
         <updated>2024-02-10T12:27:06.238Z</updated>
         <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※결과 확인※ DK vs 라포엠! 명곡판정단의 마지막 선택, 결과는 과연? | KBS 240210 방송]]></title>
+        <id>https://tv.naver.com/v/46932767</id>
+        <link href="https://tv.naver.com/v/46932767"/>
+        <updated>2024-02-17T02:20:20.770Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
     </entry>
 </feed>
