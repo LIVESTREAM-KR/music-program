@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-18T06:20:15.428Z</updated>
+    <updated>2024-02-18T07:16:55.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Band Sound.zip 📂 Show! Music Core Heart-throbbing Band Sound Special Compilation]]></title>
+        <id>https://tv.naver.com/v/47095558</id>
+        <link href="https://tv.naver.com/v/47095558"/>
+        <updated>2024-02-18T07:16:23.309Z</updated>
+        <content type="html"><![CDATA[34:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] VANNER – JACKPOT (배너 – 잭팟) FanCam | Show! MusicCore | MBC240217방송]]></title>
         <id>https://tv.naver.com/v/47203845</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47203409"/>
         <updated>2024-02-17T10:15:21.890Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS DOHOON – plot twist (투어스 도훈 - 첫 만남은 계획대로 되지 않아) FanCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47203408</id>
-        <link href="https://tv.naver.com/v/47203408"/>
-        <updated>2024-02-17T10:15:21.891Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
