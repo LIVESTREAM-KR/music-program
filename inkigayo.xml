@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-02-18T07:16:55.122Z</updated>
+    <updated>2024-02-18T08:19:52.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[텐 - Nightwalker | SBS 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47229045</id>
+        <link href="https://tv.naver.com/v/47229045"/>
+        <updated>2024-02-18T08:19:22.270Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텐 - Water | SBS 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47228780</id>
+        <link href="https://tv.naver.com/v/47228780"/>
+        <updated>2024-02-18T08:19:22.280Z</updated>
+        <content type="html"><![CDATA[02:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비(BIBI) - 밤양갱 | SBS 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47228779</id>
+        <link href="https://tv.naver.com/v/47228779"/>
+        <updated>2024-02-18T08:19:22.280Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JOOCHAN - 어떤가요 | SBS 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47228745</id>
+        <link href="https://tv.naver.com/v/47228745"/>
+        <updated>2024-02-18T08:19:22.280Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - Run For Roses | SBS 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47228743</id>
+        <link href="https://tv.naver.com/v/47228743"/>
+        <updated>2024-02-18T08:19:22.280Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설아(우주소녀) - Without U | SBS 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47228566</id>
+        <link href="https://tv.naver.com/v/47228566"/>
+        <updated>2024-02-18T08:19:22.280Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P1Harmony - 때깔(Killin’ It) | SBS 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47228253</id>
+        <link href="https://tv.naver.com/v/47228253"/>
+        <updated>2024-02-18T08:19:22.282Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWS - 첫 만남은 계획대로 되지 않아 | SBS 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47228066</id>
+        <link href="https://tv.naver.com/v/47228066"/>
+        <updated>2024-02-18T08:19:22.283Z</updated>
+        <content type="html"><![CDATA[02:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Somebody | SBS 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47228061</id>
+        <link href="https://tv.naver.com/v/47228061"/>
+        <updated>2024-02-18T08:19:22.286Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A SIX - 사랑 모두 거짓말 | SBS 240218 방송]]></title>
         <id>https://tv.naver.com/v/47227759</id>
         <link href="https://tv.naver.com/v/47227759"/>
         <updated>2024-02-18T07:16:28.387Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - Happy & | SBS 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47227727</id>
-        <link href="https://tv.naver.com/v/47227727"/>
-        <updated>2024-02-18T07:16:28.387Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - H! TEEN | SBS 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47227547</id>
-        <link href="https://tv.naver.com/v/47227547"/>
-        <updated>2024-02-18T07:16:28.389Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - 나의 바다(Memories of us) | SBS 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47227546</id>
-        <link href="https://tv.naver.com/v/47227546"/>
-        <updated>2024-02-18T07:16:28.391Z</updated>
-        <content type="html"><![CDATA[01:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVNNE - K.O.(Keep On) | SBS 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47227222</id>
-        <link href="https://tv.naver.com/v/47227222"/>
-        <updated>2024-02-18T07:16:28.393Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POW - Valentine | SBS 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47226995</id>
-        <link href="https://tv.naver.com/v/47226995"/>
-        <updated>2024-02-18T07:16:28.394Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - WAO WAO | SBS 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47226993</id>
-        <link href="https://tv.naver.com/v/47226993"/>
-        <updated>2024-02-18T07:16:28.396Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DXMON(다이몬) - Burn Up | SBS 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47226732</id>
-        <link href="https://tv.naver.com/v/47226732"/>
-        <updated>2024-02-18T07:16:28.397Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규빈(Gyubin)  - Really Like You | SBS 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47226689</id>
-        <link href="https://tv.naver.com/v/47226689"/>
-        <updated>2024-02-18T07:16:28.399Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - Super Lady | SBS 240204 방송]]></title>
-        <id>https://tv.naver.com/v/46697178</id>
-        <link href="https://tv.naver.com/v/46697178"/>
-        <updated>2024-02-04T08:18:51.251Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
