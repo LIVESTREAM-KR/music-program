@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-02-19T05:16:13.203Z</updated>
+    <updated>2024-02-19T06:21:58.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 쇼챔 NEW MC 사랑하지 말라고? 그거 어떻게 하는 건데.. 사랑하지 않을 수가 없다고]]></title>
+        <id>https://tv.naver.com/v/47260945</id>
+        <link href="https://tv.naver.com/v/47260945"/>
+        <updated>2024-02-19T06:21:47.907Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쫑이를 보는 내 심장은 거렁뱅이.. ✨]]></title>
         <id>https://tv.naver.com/v/47161758</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/46859663</id>
         <link href="https://tv.naver.com/v/46859663"/>
         <updated>2024-02-08T08:19:37.519Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX LILY - DASH (엔믹스 릴리 - 대시) l Show Champion l EP.504 l 240207]]></title>
-        <id>https://tv.naver.com/v/46859472</id>
-        <link href="https://tv.naver.com/v/46859472"/>
-        <updated>2024-02-08T08:19:37.520Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
