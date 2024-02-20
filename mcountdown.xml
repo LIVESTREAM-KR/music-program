@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-02-20T09:16:25.969Z</updated>
+    <updated>2024-02-20T10:16:56.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NMIXX가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/47330194</id>
+        <link href="https://tv.naver.com/v/47330194"/>
+        <updated>2024-02-20T10:16:34.773Z</updated>
+        <content type="html"><![CDATA[00:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[행복이 가득한 2월 특집] 방탄소년단 (BTS) - Yet To Come]]></title>
         <id>https://tv.naver.com/v/47118841</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47117362"/>
         <updated>2024-02-15T10:17:47.344Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] AKMU (악뮤) - Love Lee]]></title>
-        <id>https://tv.naver.com/v/47117079</id>
-        <link href="https://tv.naver.com/v/47117079"/>
-        <updated>2024-02-15T10:17:47.344Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
