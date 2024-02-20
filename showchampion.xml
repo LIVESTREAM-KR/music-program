@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-02-20T08:20:15.533Z</updated>
+    <updated>2024-02-20T09:16:25.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[승언이가 보여주는 띄어쓰기의 중요성✨]]></title>
+        <id>https://tv.naver.com/v/47268155</id>
+        <link href="https://tv.naver.com/v/47268155"/>
+        <updated>2024-02-20T09:16:15.112Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이걸 보는 쇼챔지기 표정이 UGLY]]></title>
         <id>https://tv.naver.com/v/47267821</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/46859849</id>
         <link href="https://tv.naver.com/v/46859849"/>
         <updated>2024-02-08T08:19:37.515Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NMIXX BAE - DASH (엔믹스 배이 - 대시) l Show Champion l EP.504 l 240207]]></title>
-        <id>https://tv.naver.com/v/46859814</id>
-        <link href="https://tv.naver.com/v/46859814"/>
-        <updated>2024-02-08T08:19:37.517Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>

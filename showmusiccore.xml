@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-20T08:20:15.530Z</updated>
+    <updated>2024-02-20T09:16:25.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS DOHOON–plot twist(투어스 도훈-첫 만남은 계획대로 되지 않아) Close-upCam | Show! MusicCore | MBC240217방송]]></title>
+        <id>https://tv.naver.com/v/47325283</id>
+        <link href="https://tv.naver.com/v/47325283"/>
+        <updated>2024-02-20T09:15:54.444Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU–plot twist(투어스 신유-첫 만남은 계획대로 되지 않아) Close-upCam | Show! MusicCore | MBC240217방송]]></title>
+        <id>https://tv.naver.com/v/47325278</id>
+        <link href="https://tv.naver.com/v/47325278"/>
+        <updated>2024-02-20T09:15:54.445Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 2월 셋째 주 음악중심 MC 컷 모음!, MBC 240217 방송]]></title>
         <id>https://tv.naver.com/v/47258358</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/47203534"/>
         <updated>2024-02-17T10:15:21.882Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] n.SSign KAZUTA – Happy & (엔싸인 카즈타 - 해피 앤드) FanCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47203533</id>
-        <link href="https://tv.naver.com/v/47203533"/>
-        <updated>2024-02-17T10:15:21.883Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] n.SSign - Happy & (엔싸인 – 해피 앤드) FanCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47203436</id>
-        <link href="https://tv.naver.com/v/47203436"/>
-        <updated>2024-02-17T10:15:21.885Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
