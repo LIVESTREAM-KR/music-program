@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-02-20T10:16:56.064Z</updated>
+    <updated>2024-02-20T11:14:51.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/47332354</id>
+        <link href="https://tv.naver.com/v/47332354"/>
+        <updated>2024-02-20T11:14:33.054Z</updated>
+        <content type="html"><![CDATA[04:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEN - Nightwalker [THE SHOW 240220]]]></title>
+        <id>https://tv.naver.com/v/47332283</id>
+        <link href="https://tv.naver.com/v/47332283"/>
+        <updated>2024-02-20T11:14:33.054Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P1Harmony - 꿍꿍이 (Love Story) [THE SHOW 240220]]]></title>
+        <id>https://tv.naver.com/v/47332282</id>
+        <link href="https://tv.naver.com/v/47332282"/>
+        <updated>2024-02-20T11:14:33.055Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주찬 - 어떤가요 [THE SHOW 240220]]]></title>
+        <id>https://tv.naver.com/v/47332002</id>
+        <link href="https://tv.naver.com/v/47332002"/>
+        <updated>2024-02-20T11:14:33.057Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P1Harmony - 때깔 (Killin' It) [THE SHOW 240220]]]></title>
+        <id>https://tv.naver.com/v/47331998</id>
+        <link href="https://tv.naver.com/v/47331998"/>
+        <updated>2024-02-20T11:14:33.058Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWS - 첫 만남은 계획대로 되지 않아 [THE SHOW 240220]]]></title>
+        <id>https://tv.naver.com/v/47331350</id>
+        <link href="https://tv.naver.com/v/47331350"/>
+        <updated>2024-02-20T11:14:33.059Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWS - BFF [THE SHOW 240220]]]></title>
+        <id>https://tv.naver.com/v/47330981</id>
+        <link href="https://tv.naver.com/v/47330981"/>
+        <updated>2024-02-20T11:14:33.061Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VANNER(배너) - Be My Love [THE SHOW 240220]]]></title>
         <id>https://tv.naver.com/v/47330679</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/47330473"/>
         <updated>2024-02-20T10:16:39.900Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - H! TEEN [THE SHOW 240220]]]></title>
-        <id>https://tv.naver.com/v/47330470</id>
-        <link href="https://tv.naver.com/v/47330470"/>
-        <updated>2024-02-20T10:16:39.902Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규빈 - Really Like You [THE SHOW 240220]]]></title>
-        <id>https://tv.naver.com/v/47329804</id>
-        <link href="https://tv.naver.com/v/47329804"/>
-        <updated>2024-02-20T10:16:39.904Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Somebody [THE SHOW 240220]]]></title>
-        <id>https://tv.naver.com/v/47329803</id>
-        <link href="https://tv.naver.com/v/47329803"/>
-        <updated>2024-02-20T10:16:39.906Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X:IN - MY IDOL [THE SHOW 240220]]]></title>
-        <id>https://tv.naver.com/v/47329754</id>
-        <link href="https://tv.naver.com/v/47329754"/>
-        <updated>2024-02-20T10:16:39.908Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[내꾸하짤] MC 샤오쥔 & 텐(TEN) [THE SHOW 240220]]]></title>
-        <id>https://tv.naver.com/v/47329751</id>
-        <link href="https://tv.naver.com/v/47329751"/>
-        <updated>2024-02-20T10:16:39.909Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - Happy & [THE SHOW 240220]]]></title>
-        <id>https://tv.naver.com/v/47329479</id>
-        <link href="https://tv.naver.com/v/47329479"/>
-        <updated>2024-02-20T10:16:39.910Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BXB(비엑스비) - Airplane [THE SHOW 240220]]]></title>
-        <id>https://tv.naver.com/v/47328476</id>
-        <link href="https://tv.naver.com/v/47328476"/>
-        <updated>2024-02-20T10:16:39.911Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
