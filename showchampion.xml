@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-02-21T10:18:27.470Z</updated>
+    <updated>2024-02-21T11:14:41.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] P1Harmony(피원하모니) - 때깔 (Killin’ It) l 240221]]></title>
+        <id>https://tv.naver.com/v/47387013</id>
+        <link href="https://tv.naver.com/v/47387013"/>
+        <updated>2024-02-21T11:14:29.779Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[최초 공개] EPEX(이펙스) - 졸업식 l 240221]]></title>
         <id>https://tv.naver.com/v/47386795</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47385607"/>
         <updated>2024-02-21T10:18:15.718Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - 나의 바다 (Memories of us) l 240221]]></title>
-        <id>https://tv.naver.com/v/47385604</id>
-        <link href="https://tv.naver.com/v/47385604"/>
-        <updated>2024-02-21T10:18:15.720Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
     </entry>
 </feed>
