@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-21T06:21:13.713Z</updated>
+    <updated>2024-02-21T07:15:31.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Love Song.zip 📂 Show! Music Core Love Song Special Compilation]]></title>
+        <id>https://tv.naver.com/v/47313297</id>
+        <link href="https://tv.naver.com/v/47313297"/>
+        <updated>2024-02-21T07:14:57.323Z</updated>
+        <content type="html"><![CDATA[46:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TWS DOHOON–plot twist(투어스 도훈-첫 만남은 계획대로 되지 않아) Close-upCam | Show! MusicCore | MBC240217방송]]></title>
         <id>https://tv.naver.com/v/47325283</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47203645"/>
         <updated>2024-02-17T10:15:21.880Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] n.SSign HANJUN – Happy & (엔싸인 한준 - 해피 앤드) FanCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47203534</id>
-        <link href="https://tv.naver.com/v/47203534"/>
-        <updated>2024-02-17T10:15:21.882Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
