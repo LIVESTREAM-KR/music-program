@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-22T06:23:00.053Z</updated>
+    <updated>2024-02-22T07:16:10.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Talent Show.zip 📂 Show! Music Core K-POP Talent Show Special Compilation]]></title>
+        <id>https://tv.naver.com/v/47318606</id>
+        <link href="https://tv.naver.com/v/47318606"/>
+        <updated>2024-02-22T07:15:35.153Z</updated>
+        <content type="html"><![CDATA[01:24:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Love Song.zip 📂 Show! Music Core Love Song Special Compilation]]></title>
         <id>https://tv.naver.com/v/47313297</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47203646"/>
         <updated>2024-02-17T10:15:21.878Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEOLA- Without U (설아 – 위드 아웃 유) FanCam (Horizontal Ver.) | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47203645</id>
-        <link href="https://tv.naver.com/v/47203645"/>
-        <updated>2024-02-17T10:15:21.880Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>

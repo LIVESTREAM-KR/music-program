@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-22T06:23:00.060Z</updated>
+    <updated>2024-02-22T07:16:10.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[때깔 (Killin’ It) - P1Harmony | KBS 240216 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:45]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Talent Show.zip 📂 Show! Music Core K-POP Talent Show Special Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/47318606</id>
+        <link href="https://tv.naver.com/v/47318606"/>
+        <updated>2024-02-22T07:15:35.153Z</updated>
+        <content type="html"><![CDATA[01:24:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] Love Song.zip 📂 Show! Music Core Love Song Special Compilation (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/47313297</id>
         <link href="https://tv.naver.com/v/47313297"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/47203646"/>
         <updated>2024-02-17T10:15:21.878Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEOLA- Without U (설아 – 위드 아웃 유) FanCam (Horizontal Ver.) | Show! MusicCore | MBC240217방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/47203645</id>
-        <link href="https://tv.naver.com/v/47203645"/>
-        <updated>2024-02-17T10:15:21.880Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텐 - Nightwalker | SBS 240218 방송 (인기가요)]]></title>
