@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-02-22T07:16:10.393Z</updated>
+    <updated>2024-02-22T08:20:44.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 예선 탈락하던 소년에서 🔥가왕전까지 등극🔥 가수 김동현 하이라이트!, MBC 240218 방송]]></title>
+        <id>https://tv.naver.com/v/47430784</id>
+        <link href="https://tv.naver.com/v/47430784"/>
+        <updated>2024-02-22T08:20:43.586Z</updated>
+        <content type="html"><![CDATA[16:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 음악으로 위로를 전하는🎤 가수 길구 하이라이트!, MBC 240218 방송]]></title>
         <id>https://tv.naver.com/v/47424084</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47233595"/>
         <updated>2024-02-18T11:12:44.319Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비빔밥' 손정한의 스페셜 무대 - 너를 품에 안으면, MBC 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47233399</id>
-        <link href="https://tv.naver.com/v/47233399"/>
-        <updated>2024-02-18T11:12:44.321Z</updated>
-        <content type="html"><![CDATA[01:27]]></content>
     </entry>
 </feed>
