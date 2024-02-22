@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-22T05:17:07.316Z</updated>
+    <updated>2024-02-22T06:23:00.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[때깔 (Killin’ It) - P1Harmony | KBS 240216 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,20 @@
         <content type="html"><![CDATA[03:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 음악으로 위로를 전하는🎤 가수 길구 하이라이트!, MBC 240218 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/47424084</id>
+        <link href="https://tv.naver.com/v/47424084"/>
+        <updated>2024-02-22T06:22:59.477Z</updated>
+        <content type="html"><![CDATA[12:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 📽️아이돌에서 연기자로 인생 제2막 시작✨ AOA 도화 하이라이트!, MBC 240218 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/47423634</id>
+        <link href="https://tv.naver.com/v/47423634"/>
+        <updated>2024-02-22T06:22:59.478Z</updated>
+        <content type="html"><![CDATA[09:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#복면가왕] 국민가수 김동현(김구라 아들, 매미킴 아님)이 부르는 《All of My Life》, 《여전히 아름다운지》,《헤어지자 말해요》 |  #김동현 MBC240218방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/47303200</id>
         <link href="https://tv.naver.com/v/47303200"/>
@@ -549,19 +563,5 @@
         <link href="https://tv.naver.com/v/47233399"/>
         <updated>2024-02-18T11:12:44.321Z</updated>
         <content type="html"><![CDATA[01:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비빔밥'의 정체는 컬트 손정한!, MBC 240218 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/47233158</id>
-        <link href="https://tv.naver.com/v/47233158"/>
-        <updated>2024-02-18T11:12:44.322Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연인 사진과 컬투?👀 알쏭달쏭하게 만드는 '비빔밥'의 맛깔난 사진 힌트, MBC 240218 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/47232970</id>
-        <link href="https://tv.naver.com/v/47232970"/>
-        <updated>2024-02-18T11:12:44.323Z</updated>
-        <content type="html"><![CDATA[00:56]]></content>
     </entry>
 </feed>
