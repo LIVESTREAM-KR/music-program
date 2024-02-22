@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-02-22T09:17:27.482Z</updated>
+    <updated>2024-02-22T10:17:12.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - WAO WAO | Mnet 240222 방송]]></title>
+        <id>https://tv.naver.com/v/47436372</id>
+        <link href="https://tv.naver.com/v/47436372"/>
+        <updated>2024-02-22T10:16:52.288Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DXMON(다이몬) - SPARK | Mnet 240222 방송]]></title>
+        <id>https://tv.naver.com/v/47436175</id>
+        <link href="https://tv.naver.com/v/47436175"/>
+        <updated>2024-02-22T10:16:52.288Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 (The Wind) - H! TEEN | Mnet 240222 방송]]></title>
+        <id>https://tv.naver.com/v/47435946</id>
+        <link href="https://tv.naver.com/v/47435946"/>
+        <updated>2024-02-22T10:16:52.288Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X:IN - MY IDOL | Mnet 240222 방송]]></title>
+        <id>https://tv.naver.com/v/47435812</id>
+        <link href="https://tv.naver.com/v/47435812"/>
+        <updated>2024-02-22T10:16:52.288Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NMIXX가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/47330194</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/47117824"/>
         <updated>2024-02-15T11:14:26.387Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] ENHYPEN (엔하이픈) - Tamed-Dashed]]></title>
-        <id>https://tv.naver.com/v/47117822</id>
-        <link href="https://tv.naver.com/v/47117822"/>
-        <updated>2024-02-15T11:14:26.388Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] TWS (투어스) - 첫 만남은 계획대로 되지 않아]]></title>
-        <id>https://tv.naver.com/v/47117636</id>
-        <link href="https://tv.naver.com/v/47117636"/>
-        <updated>2024-02-15T10:17:47.342Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] EXO (엑소) - Cream Soda]]></title>
-        <id>https://tv.naver.com/v/47117370</id>
-        <link href="https://tv.naver.com/v/47117370"/>
-        <updated>2024-02-15T10:17:47.343Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[행복이 가득한 2월 특집] Stray Kids (스트레이 키즈) - CASE 143]]></title>
-        <id>https://tv.naver.com/v/47117362</id>
-        <link href="https://tv.naver.com/v/47117362"/>
-        <updated>2024-02-15T10:17:47.344Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
