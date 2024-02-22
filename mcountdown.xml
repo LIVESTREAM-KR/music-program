@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-02-22T11:13:45.269Z</updated>
+    <updated>2024-02-22T12:28:33.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 문별 (Moon Byul) - TOUCHIN&MOVIN | Mnet 240222 방송]]></title>
+        <id>https://tv.naver.com/v/47438382</id>
+        <link href="https://tv.naver.com/v/47438382"/>
+        <updated>2024-02-22T12:28:09.264Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 유겸 (YUGYEOM) - 1분만 | Mnet 240222 방송]]></title>
+        <id>https://tv.naver.com/v/47438373</id>
+        <link href="https://tv.naver.com/v/47438373"/>
+        <updated>2024-02-22T12:28:09.265Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' LE SSERAFIM - EASY | Mnet 240222 방송]]></title>
+        <id>https://tv.naver.com/v/47438110</id>
+        <link href="https://tv.naver.com/v/47438110"/>
+        <updated>2024-02-22T12:28:09.267Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' LE SSERAFIM - Swan Song | Mnet 240222 방송]]></title>
+        <id>https://tv.naver.com/v/47437955</id>
+        <link href="https://tv.naver.com/v/47437955"/>
+        <updated>2024-02-22T12:28:09.269Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 비비(BIBI) - 밤양갱 | Mnet 240222 방송]]></title>
+        <id>https://tv.naver.com/v/47437953</id>
+        <link href="https://tv.naver.com/v/47437953"/>
+        <updated>2024-02-22T12:28:09.270Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[P1Harmony - 때깔 (Killin' It) | Mnet 240222 방송]]></title>
         <id>https://tv.naver.com/v/47437542</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/47437141"/>
         <updated>2024-02-22T11:13:22.039Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 에이스 (A.C.E) - My Girl | Mnet 240222 방송]]></title>
-        <id>https://tv.naver.com/v/47437057</id>
-        <link href="https://tv.naver.com/v/47437057"/>
-        <updated>2024-02-22T11:13:22.040Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWS (투어스) - BFF | Mnet 240222 방송]]></title>
-        <id>https://tv.naver.com/v/47436973</id>
-        <link href="https://tv.naver.com/v/47436973"/>
-        <updated>2024-02-22T11:13:22.042Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWS (투어스) - 첫 만남은 계획대로 되지 않아 | Mnet 240222 방송]]></title>
-        <id>https://tv.naver.com/v/47436893</id>
-        <link href="https://tv.naver.com/v/47436893"/>
-        <updated>2024-02-22T11:13:22.043Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - Happy & | Mnet 240222 방송]]></title>
-        <id>https://tv.naver.com/v/47436789</id>
-        <link href="https://tv.naver.com/v/47436789"/>
-        <updated>2024-02-22T11:13:22.044Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 트라이비(TRI.BE) - Diamond | Mnet 240222 방송]]></title>
-        <id>https://tv.naver.com/v/47436679</id>
-        <link href="https://tv.naver.com/v/47436679"/>
-        <updated>2024-02-22T11:13:22.046Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
