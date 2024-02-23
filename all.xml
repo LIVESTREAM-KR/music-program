@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-23T08:20:32.585Z</updated>
+    <updated>2024-02-23T09:16:04.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[JACKPOT - VANNER(배너) | KBS 240223 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47485637</id>
+        <link href="https://tv.naver.com/v/47485637"/>
+        <updated>2024-02-23T09:15:23.507Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy & - n.SSign(엔싸인) | KBS 240223 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47485328</id>
+        <link href="https://tv.naver.com/v/47485328"/>
+        <updated>2024-02-23T09:15:23.511Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 바다 (Memories of us) - n.SSign(엔싸인) | KBS 240223 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47485312</id>
+        <link href="https://tv.naver.com/v/47485312"/>
+        <updated>2024-02-23T09:15:23.512Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diamond - 트라이비(TRI.BE) | KBS 240223 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47484793</id>
+        <link href="https://tv.naver.com/v/47484793"/>
+        <updated>2024-02-23T09:15:23.514Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Girl - 에이스 (A.C.E) | KBS 240223 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47484781</id>
+        <link href="https://tv.naver.com/v/47484781"/>
+        <updated>2024-02-23T09:15:23.516Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H! TEEN - 더윈드 (The Wind) | KBS 240223 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47484441</id>
+        <link href="https://tv.naver.com/v/47484441"/>
+        <updated>2024-02-23T09:15:23.517Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somebody - AIMERS | KBS 240223 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47484133</id>
+        <link href="https://tv.naver.com/v/47484133"/>
+        <updated>2024-02-23T09:15:23.519Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPARK - DXMON(다이몬) | KBS 240223 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/47483853</id>
+        <link href="https://tv.naver.com/v/47483853"/>
+        <updated>2024-02-23T09:15:23.521Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[때깔 (Killin’ It) - P1Harmony | KBS 240216 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/47170927</id>
@@ -17,62 +73,6 @@
         <link href="https://tv.naver.com/v/47170695"/>
         <updated>2024-02-16T10:16:56.115Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤가요 - JOOCHAN | KBS 240216 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47170692</id>
-        <link href="https://tv.naver.com/v/47170692"/>
-        <updated>2024-02-16T10:16:56.118Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JACKPOT - VANNER(배너) | KBS 240216 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47170193</id>
-        <link href="https://tv.naver.com/v/47170193"/>
-        <updated>2024-02-16T10:16:56.123Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤양갱 - 비비(BIBI) | KBS 240216 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47170190</id>
-        <link href="https://tv.naver.com/v/47170190"/>
-        <updated>2024-02-16T10:16:56.123Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run For Roses - NMIXX | KBS 240216 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47170185</id>
-        <link href="https://tv.naver.com/v/47170185"/>
-        <updated>2024-02-16T10:16:56.124Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy & - n.SSign(엔싸인) | KBS 240216 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47169671</id>
-        <link href="https://tv.naver.com/v/47169671"/>
-        <updated>2024-02-16T10:16:56.124Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somebody - AIMERS | KBS 240216 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47169148</id>
-        <link href="https://tv.naver.com/v/47169148"/>
-        <updated>2024-02-16T10:16:56.125Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K.O. (Keep On) - EVNNE(이븐) | KBS 240216 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47168940</id>
-        <link href="https://tv.naver.com/v/47168940"/>
-        <updated>2024-02-16T10:16:56.126Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 만남은 계획대로 되지 않아 - TWS | KBS 240216 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47168938</id>
-        <link href="https://tv.naver.com/v/47168938"/>
-        <updated>2024-02-16T10:16:56.127Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] TWS (투어스) - 첫 만남은 계획대로 되지 않아 | 쇼! 음악중심 (쇼! 음악중심)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전원 성인그룹된 이펙스의 졸업식🏫 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47479451</id>
+        <link href="https://tv.naver.com/v/47479451"/>
+        <updated>2024-02-23T09:15:52.794Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2월 3주 차 쇼챔피언 ＜금동현 & 가온 & 화랑＞ MC 컷 모음📁 | Show Champion | EP.506 | 240221 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/47425335</id>
         <link href="https://tv.naver.com/v/47425335"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/47409479"/>
         <updated>2024-02-22T08:20:32.685Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JOOCHAN- Still thinking about you (주찬 - 어떤가요) | Show Champion | EP.506 | 240221 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47388737</id>
-        <link href="https://tv.naver.com/v/47388737"/>
-        <updated>2024-02-21T13:18:06.356Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 645회 ＜설기획 아티스트 조영남 2부＞ 우승자 ⭐김기태⭐ | KBS 방송 (불후의 명곡)]]></title>
