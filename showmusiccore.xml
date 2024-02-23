@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-23T06:21:24.166Z</updated>
+    <updated>2024-02-23T07:16:24.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] TWS (투어스) - 첫 만남은 계획대로 되지 않아 | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/47434014</id>
+        <link href="https://tv.naver.com/v/47434014"/>
+        <updated>2024-02-23T07:15:52.835Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Talent Show.zip 📂 Show! Music Core K-POP Talent Show Special Compilation]]></title>
         <id>https://tv.naver.com/v/47318606</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47203648"/>
         <updated>2024-02-17T10:15:21.876Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEOLA- Without U (설아 – 위드 아웃 유) FanCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47203646</id>
-        <link href="https://tv.naver.com/v/47203646"/>
-        <updated>2024-02-17T10:15:21.878Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
