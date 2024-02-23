@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-02-23T01:06:20.266Z</updated>
+    <updated>2024-02-23T02:21:52.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2월 3주 차 쇼챔피언 ＜금동현 & 가온 & 화랑＞ MC 컷 모음📁 | Show Champion | EP.506 | 240221]]></title>
+        <id>https://tv.naver.com/v/47425335</id>
+        <link href="https://tv.naver.com/v/47425335"/>
+        <updated>2024-02-23T02:21:40.356Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony - Late Night Calls (피원하모니 - 레이트 나이트 콜스) | Show Champion | EP.506 | 240221]]></title>
         <id>https://tv.naver.com/v/47411070</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47388737"/>
         <updated>2024-02-21T13:18:06.356Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VANNER - JACKPOT (배너 - 잭팟) | Show Champion | EP.506 | 240221]]></title>
-        <id>https://tv.naver.com/v/47388482</id>
-        <link href="https://tv.naver.com/v/47388482"/>
-        <updated>2024-02-21T13:18:06.359Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
