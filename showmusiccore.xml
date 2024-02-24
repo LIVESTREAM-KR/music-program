@@ -2,36 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-24T10:18:26.299Z</updated>
+    <updated>2024-02-24T11:13:05.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS KYUNGMIN (투어스 경민) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47517131</id>
-        <link href="https://tv.naver.com/v/47517131"/>
-        <updated>2024-02-24T10:17:50.920Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
+        <title type="html"><![CDATA[[예능연구소] TEN (텐) – Nightwalker 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47518383</id>
+        <link href="https://tv.naver.com/v/47518383"/>
+        <updated>2024-02-24T11:12:30.708Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS DOHOON (투어스 도훈) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47517102</id>
-        <link href="https://tv.naver.com/v/47517102"/>
-        <updated>2024-02-24T10:17:50.920Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - EASY 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47517878</id>
+        <link href="https://tv.naver.com/v/47517878"/>
+        <updated>2024-02-24T11:12:30.710Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS JIHOON (투어스 지훈) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47516949</id>
-        <link href="https://tv.naver.com/v/47516949"/>
-        <updated>2024-02-24T10:17:50.922Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM KAZUHA (르세라핌 카즈하) - EASY 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47517618</id>
+        <link href="https://tv.naver.com/v/47517618"/>
+        <updated>2024-02-24T11:12:30.712Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS SHINYU (투어스 신유) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47516821</id>
-        <link href="https://tv.naver.com/v/47516821"/>
-        <updated>2024-02-24T10:17:50.927Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - EASY 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47517516</id>
+        <link href="https://tv.naver.com/v/47517516"/>
+        <updated>2024-02-24T11:12:30.715Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM SAKURA (르세라핌 사쿠라) - EASY 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47517514</id>
+        <link href="https://tv.naver.com/v/47517514"/>
+        <updated>2024-02-24T11:12:30.716Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - EASY 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47517481</id>
+        <link href="https://tv.naver.com/v/47517481"/>
+        <updated>2024-02-24T11:12:30.718Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼주니어-L.S.S. - 조크든요 (SUPER JUNIOR-L.S.S. - JOKE), MBC 240224 방송]]></title>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/47512898"/>
         <updated>2024-02-24T08:17:34.470Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문별 - 터친 앤 무빈 (Moon Byul - TOUCHIN&MOVIN), MBC 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47512897</id>
-        <link href="https://tv.naver.com/v/47512897"/>
-        <updated>2024-02-24T08:17:34.470Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피원하모니 - 때깔 (P1Harmony - Killin' It), MBC 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47512579</id>
-        <link href="https://tv.naver.com/v/47512579"/>
-        <updated>2024-02-24T08:17:34.471Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
