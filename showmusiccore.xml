@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-24T12:27:03.938Z</updated>
+    <updated>2024-02-24T13:17:07.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TWS (투어스) – BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47521109</id>
+        <link href="https://tv.naver.com/v/47521109"/>
+        <updated>2024-02-24T13:16:31.998Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TWS DOHOON (투어스 도훈) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
         <id>https://tv.naver.com/v/47520577</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47519930"/>
         <updated>2024-02-24T12:26:29.649Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM (르세라핌) – EASY 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47519905</id>
-        <link href="https://tv.naver.com/v/47519905"/>
-        <updated>2024-02-24T12:26:29.651Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
