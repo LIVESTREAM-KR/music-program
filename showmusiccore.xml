@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-24T07:15:46.238Z</updated>
+    <updated>2024-02-24T08:18:10.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈퍼주니어-L.S.S. - 조크든요 (SUPER JUNIOR-L.S.S. - JOKE), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47513223</id>
+        <link href="https://tv.naver.com/v/47513223"/>
+        <updated>2024-02-24T08:17:34.468Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유겸 - 1분만 (YUGYEOM - 1 MINUTE), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47513038</id>
+        <link href="https://tv.naver.com/v/47513038"/>
+        <updated>2024-02-24T08:17:34.468Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텐 - 나이트워커 (TEN - Nightwalker), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47513037</id>
+        <link href="https://tv.naver.com/v/47513037"/>
+        <updated>2024-02-24T08:17:34.469Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텐 - 워터 (TEN - Water), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47512898</id>
+        <link href="https://tv.naver.com/v/47512898"/>
+        <updated>2024-02-24T08:17:34.470Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문별 - 터친 앤 무빈 (Moon Byul - TOUCHIN&MOVIN), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47512897</id>
+        <link href="https://tv.naver.com/v/47512897"/>
+        <updated>2024-02-24T08:17:34.470Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피원하모니 - 때깔 (P1Harmony - Killin' It), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47512579</id>
+        <link href="https://tv.naver.com/v/47512579"/>
+        <updated>2024-02-24T08:17:34.471Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 - 이지 (LE SSERAFIM - EASY), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47512403</id>
+        <link href="https://tv.naver.com/v/47512403"/>
+        <updated>2024-02-24T08:17:34.473Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[르세라핌 - 스완 송 (LE SSERAFIM - Swan Song), MBC 240224 방송]]></title>
         <id>https://tv.naver.com/v/47512255</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/47512069"/>
         <updated>2024-02-24T07:15:11.698Z</updated>
         <content type="html"><![CDATA[02:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드 - 하이틴 (The Wind - H! TEEN), MBC 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47511953</id>
-        <link href="https://tv.naver.com/v/47511953"/>
-        <updated>2024-02-24T07:15:11.701Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투어스 - 비에프에프 (TWS - BFF), MBC 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47511841</id>
-        <link href="https://tv.naver.com/v/47511841"/>
-        <updated>2024-02-24T07:15:11.703Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인 - 해피 앤드 (n.SSign - Happy &), MBC 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47511819</id>
-        <link href="https://tv.naver.com/v/47511819"/>
-        <updated>2024-02-24T07:15:11.705Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트라이비 - 다이아몬드 (TRI.BE - Diamond), MBC 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47511673</id>
-        <link href="https://tv.naver.com/v/47511673"/>
-        <updated>2024-02-24T07:15:11.706Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이머스 - 썸바디 (AIMERS - Somebody), MBC 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47511671</id>
-        <link href="https://tv.naver.com/v/47511671"/>
-        <updated>2024-02-24T07:15:11.708Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이몬 - 번 업 (DXMON - Burn Up), MBC 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47511516</id>
-        <link href="https://tv.naver.com/v/47511516"/>
-        <updated>2024-02-24T07:15:11.709Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] TWS (투어스) - 첫 만남은 계획대로 되지 않아 | 쇼! 음악중심]]></title>
-        <id>https://tv.naver.com/v/47434014</id>
-        <link href="https://tv.naver.com/v/47434014"/>
-        <updated>2024-02-23T07:15:52.835Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
