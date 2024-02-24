@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-24T06:19:22.624Z</updated>
+    <updated>2024-02-24T07:15:46.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 - 스완 송 (LE SSERAFIM - Swan Song), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47512255</id>
+        <link href="https://tv.naver.com/v/47512255"/>
+        <updated>2024-02-24T07:15:11.695Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이스 - 마이 걸 (A.C.E - My Girl), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47512224</id>
+        <link href="https://tv.naver.com/v/47512224"/>
+        <updated>2024-02-24T07:15:11.695Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배너 - 잭팟 (VANNER - JACKPOT), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47512069</id>
+        <link href="https://tv.naver.com/v/47512069"/>
+        <updated>2024-02-24T07:15:11.698Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 - 하이틴 (The Wind - H! TEEN), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47511953</id>
+        <link href="https://tv.naver.com/v/47511953"/>
+        <updated>2024-02-24T07:15:11.701Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투어스 - 비에프에프 (TWS - BFF), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47511841</id>
+        <link href="https://tv.naver.com/v/47511841"/>
+        <updated>2024-02-24T07:15:11.703Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔싸인 - 해피 앤드 (n.SSign - Happy &), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47511819</id>
+        <link href="https://tv.naver.com/v/47511819"/>
+        <updated>2024-02-24T07:15:11.705Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트라이비 - 다이아몬드 (TRI.BE - Diamond), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47511673</id>
+        <link href="https://tv.naver.com/v/47511673"/>
+        <updated>2024-02-24T07:15:11.706Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이머스 - 썸바디 (AIMERS - Somebody), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47511671</id>
+        <link href="https://tv.naver.com/v/47511671"/>
+        <updated>2024-02-24T07:15:11.708Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다이몬 - 번 업 (DXMON - Burn Up), MBC 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47511516</id>
+        <link href="https://tv.naver.com/v/47511516"/>
+        <updated>2024-02-24T07:15:11.709Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] TWS (투어스) - 첫 만남은 계획대로 되지 않아 | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/47434014</id>
         <link href="https://tv.naver.com/v/47434014"/>
         <updated>2024-02-23T07:15:52.835Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Talent Show.zip 📂 Show! Music Core K-POP Talent Show Special Compilation]]></title>
-        <id>https://tv.naver.com/v/47318606</id>
-        <link href="https://tv.naver.com/v/47318606"/>
-        <updated>2024-02-22T07:15:35.153Z</updated>
-        <content type="html"><![CDATA[01:24:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Love Song.zip 📂 Show! Music Core Love Song Special Compilation]]></title>
-        <id>https://tv.naver.com/v/47313297</id>
-        <link href="https://tv.naver.com/v/47313297"/>
-        <updated>2024-02-21T07:14:57.323Z</updated>
-        <content type="html"><![CDATA[46:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS DOHOON–plot twist(투어스 도훈-첫 만남은 계획대로 되지 않아) Close-upCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47325283</id>
-        <link href="https://tv.naver.com/v/47325283"/>
-        <updated>2024-02-20T09:15:54.444Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU–plot twist(투어스 신유-첫 만남은 계획대로 되지 않아) Close-upCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47325278</id>
-        <link href="https://tv.naver.com/v/47325278"/>
-        <updated>2024-02-20T09:15:54.445Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 2월 셋째 주 음악중심 MC 컷 모음!, MBC 240217 방송]]></title>
-        <id>https://tv.naver.com/v/47258358</id>
-        <link href="https://tv.naver.com/v/47258358"/>
-        <updated>2024-02-19T05:15:38.983Z</updated>
-        <content type="html"><![CDATA[14:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Band Sound.zip 📂 Show! Music Core Heart-throbbing Band Sound Special Compilation]]></title>
-        <id>https://tv.naver.com/v/47095558</id>
-        <link href="https://tv.naver.com/v/47095558"/>
-        <updated>2024-02-18T07:16:23.309Z</updated>
-        <content type="html"><![CDATA[34:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] VANNER – JACKPOT (배너 – 잭팟) FanCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47203845</id>
-        <link href="https://tv.naver.com/v/47203845"/>
-        <updated>2024-02-17T10:15:21.873Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] EVNNE – K.O. (Keep On) (이븐 – 케이오) FanCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47203772</id>
-        <link href="https://tv.naver.com/v/47203772"/>
-        <updated>2024-02-17T10:15:21.875Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] POW – Valentine (파우 – 발렌타인) FanCam | Show! MusicCore | MBC240217방송]]></title>
-        <id>https://tv.naver.com/v/47203648</id>
-        <link href="https://tv.naver.com/v/47203648"/>
-        <updated>2024-02-17T10:15:21.876Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
