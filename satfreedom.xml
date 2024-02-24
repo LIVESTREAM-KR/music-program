@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-02-24T11:13:05.673Z</updated>
+    <updated>2024-02-24T12:27:03.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김범수 - 지나간다 | KBS 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47519204</id>
+        <link href="https://tv.naver.com/v/47519204"/>
+        <updated>2024-02-24T12:26:57.717Z</updated>
+        <content type="html"><![CDATA[05:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김범수가 본 서은광의 Rock Star🤘 무대는? 선후배 간 주고받는 하트💟 | KBS 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47519039</id>
+        <link href="https://tv.naver.com/v/47519039"/>
+        <updated>2024-02-24T12:26:57.719Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※결과 확인※ 포레스텔라 vs 서은광! 명곡판정단의 마지막 선택, 결과는 과연? | KBS 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47519035</id>
+        <link href="https://tv.naver.com/v/47519035"/>
+        <updated>2024-02-24T12:26:57.722Z</updated>
+        <content type="html"><![CDATA[01:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 646회  ＜아티스트 김범수＞ 우승자 ⭐서은광⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/47518642</id>
+        <link href="https://tv.naver.com/v/47518642"/>
+        <updated>2024-02-24T12:26:57.723Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전원 기립✨️ 이유 있는 자신감! 모두를 깜짝 놀라게 한 서은광의 무대🤘 | KBS 240224 방송]]></title>
+        <id>https://tv.naver.com/v/47518614</id>
+        <link href="https://tv.naver.com/v/47518614"/>
+        <updated>2024-02-24T12:26:57.724Z</updated>
+        <content type="html"><![CDATA[01:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애절함의 극치! 호소력이 담긴 애수의 하모니를 보여준 포레스텔라의 무대😭💖 | KBS 240224 방송]]></title>
         <id>https://tv.naver.com/v/47518503</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/47518168"/>
         <updated>2024-02-24T11:12:59.503Z</updated>
         <content type="html"><![CDATA[05:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고무신 그룹 포레스텔라🎵 3인조로 나서는 첫 경연... 선곡은 과연? | KBS 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47517887</id>
-        <link href="https://tv.naver.com/v/47517887"/>
-        <updated>2024-02-24T11:12:59.505Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인기 타임! 아이돌 선후배 간의 합동 댄스🕺💃 (ft. 조민규 vs 이찬원) | KBS 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47517884</id>
-        <link href="https://tv.naver.com/v/47517884"/>
-        <updated>2024-02-24T11:12:59.507Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김범수&어머니가 본 임한별의 무대! 어머님의 눈물💧 | KBS 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47517744</id>
-        <link href="https://tv.naver.com/v/47517744"/>
-        <updated>2024-02-24T11:12:59.509Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짐작조차 힘든 어머니의 마음 & 김범수의 빌보드 차트인 해명 스토리😆 | KBS 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47517524</id>
-        <link href="https://tv.naver.com/v/47517524"/>
-        <updated>2024-02-24T11:12:59.510Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임한별 - 하루 | KBS 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47517517</id>
-        <link href="https://tv.naver.com/v/47517517"/>
-        <updated>2024-02-24T11:12:59.511Z</updated>
-        <content type="html"><![CDATA[05:07]]></content>
     </entry>
 </feed>
