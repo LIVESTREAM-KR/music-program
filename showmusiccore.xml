@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-25T08:18:23.644Z</updated>
+    <updated>2024-02-25T09:14:34.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Way to Work.zip 📂 Show! Music Core Way to Work Special Compilation]]></title>
+        <id>https://tv.naver.com/v/47313768</id>
+        <link href="https://tv.naver.com/v/47313768"/>
+        <updated>2024-02-25T09:13:58.982Z</updated>
+        <content type="html"><![CDATA[52:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] TWS (투어스) – BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
         <id>https://tv.naver.com/v/47521109</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47520030"/>
         <updated>2024-02-24T12:26:29.649Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM (르세라핌) – Swan Song 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47519930</id>
-        <link href="https://tv.naver.com/v/47519930"/>
-        <updated>2024-02-24T12:26:29.649Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
