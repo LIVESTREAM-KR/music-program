@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-02-25T09:14:34.017Z</updated>
+    <updated>2024-02-25T10:15:50.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['크로플' VS '소금빵'의 1라운드 무대 - 비밀번호 486, MBC 240225 방송]]></title>
+        <id>https://tv.naver.com/v/47540365</id>
+        <link href="https://tv.naver.com/v/47540365"/>
+        <updated>2024-02-25T10:15:50.123Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빰빰빰빰빰 기상나팔'의 정체는 배우 박지훈!, MBC 240225 방송]]></title>
+        <id>https://tv.naver.com/v/47540238</id>
+        <link href="https://tv.naver.com/v/47540238"/>
+        <updated>2024-02-25T10:15:50.124Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['빰빰빰빰빰 기상나팔'은 시대극 전문 배우? 기상나팔의 연기력 폭발 배우 3인방 성대모사🔥, MBC 240225 방송]]></title>
+        <id>https://tv.naver.com/v/47540013</id>
+        <link href="https://tv.naver.com/v/47540013"/>
+        <updated>2024-02-25T10:15:50.127Z</updated>
+        <content type="html"><![CDATA[01:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[목소리만 들으면 손웅정 감독?! '땡땡땡 학교종'의 손웅정 감독 성대모사🤣, MBC 240225 방송]]></title>
+        <id>https://tv.naver.com/v/47539620</id>
+        <link href="https://tv.naver.com/v/47539620"/>
+        <updated>2024-02-25T10:15:50.128Z</updated>
+        <content type="html"><![CDATA[01:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['땡땡땡 학교종' VS '빰빰빰빰빰 기상나팔'의 1라운드 무대 - 사랑에 빠지고 싶다, MBC 240225 방송]]></title>
+        <id>https://tv.naver.com/v/47539610</id>
+        <link href="https://tv.naver.com/v/47539610"/>
+        <updated>2024-02-25T10:15:50.129Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 예선 탈락하던 소년에서 🔥가왕전까지 등극🔥 가수 김동현 하이라이트!, MBC 240218 방송]]></title>
         <id>https://tv.naver.com/v/47430784</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/47234606"/>
         <updated>2024-02-18T12:27:09.133Z</updated>
         <content type="html"><![CDATA[00:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소화기'의 정체는 가수 김동현!, MBC 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47234410</id>
-        <link href="https://tv.naver.com/v/47234410"/>
-        <updated>2024-02-18T12:27:09.133Z</updated>
-        <content type="html"><![CDATA[02:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['희로애락도 락이다'의 가왕 방어전 무대 - Death Note, MBC 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47234056</id>
-        <link href="https://tv.naver.com/v/47234056"/>
-        <updated>2024-02-18T11:12:44.316Z</updated>
-        <content type="html"><![CDATA[04:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헨젤'의 정체는 길구봉구 길구!, MBC 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47234055</id>
-        <link href="https://tv.naver.com/v/47234055"/>
-        <updated>2024-02-18T11:12:44.316Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소화기' 3라운드 무대 - 헤어지자 말해요, MBC 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47233738</id>
-        <link href="https://tv.naver.com/v/47233738"/>
-        <updated>2024-02-18T11:12:44.318Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헨젤' 3라운드 무대 - 만약에 말야, MBC 240218 방송]]></title>
-        <id>https://tv.naver.com/v/47233595</id>
-        <link href="https://tv.naver.com/v/47233595"/>
-        <updated>2024-02-18T11:12:44.319Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
