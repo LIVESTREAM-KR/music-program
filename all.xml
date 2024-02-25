@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-25T11:13:37.463Z</updated>
+    <updated>2024-02-25T12:26:48.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nightwalker - TEN | KBS 240223 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,20 @@
         <content type="html"><![CDATA[05:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[최장기 가왕 하현우가 알려주는 힌트👍 '후크 선장'은 페스티벌 최강자?, MBC 240225 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/47542720</id>
+        <link href="https://tv.naver.com/v/47542720"/>
+        <updated>2024-02-25T12:26:48.278Z</updated>
+        <content type="html"><![CDATA[01:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주변에 무서운 사람 So many?!😱 17세 MZ 교포 제니가 주는 '똑딱 악어' 힌트!, MBC 240225 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/47542580</id>
+        <link href="https://tv.naver.com/v/47542580"/>
+        <updated>2024-02-25T12:26:48.280Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['똑딱 악어' VS '후크 선장'의 1라운드 무대 - Perhaps Love (사랑인가요), MBC 240225 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/47542437</id>
         <link href="https://tv.naver.com/v/47542437"/>
@@ -549,19 +563,5 @@
         <link href="https://tv.naver.com/v/47540365"/>
         <updated>2024-02-25T10:15:50.123Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빰빰빰빰빰 기상나팔'의 정체는 배우 박지훈!, MBC 240225 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/47540238</id>
-        <link href="https://tv.naver.com/v/47540238"/>
-        <updated>2024-02-25T10:15:50.124Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['빰빰빰빰빰 기상나팔'은 시대극 전문 배우? '빰빰빰빰빰 기상나팔'의 연기력 폭발 배우 3인방 성대모사🔥, MBC 240225 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/47540013</id>
-        <link href="https://tv.naver.com/v/47540013"/>
-        <updated>2024-02-25T10:15:50.127Z</updated>
-        <content type="html"><![CDATA[01:29]]></content>
     </entry>
 </feed>
