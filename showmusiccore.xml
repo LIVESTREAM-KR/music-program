@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-26T09:17:34.756Z</updated>
+    <updated>2024-02-26T10:18:24.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - Swan Song | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47576000</id>
+        <link href="https://tv.naver.com/v/47576000"/>
+        <updated>2024-02-26T10:17:49.199Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) - Swan Song | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47575582</id>
+        <link href="https://tv.naver.com/v/47575582"/>
+        <updated>2024-02-26T10:17:49.199Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) - Swan Song | 쇼! 음악중심 | MBC240224방송]]></title>
         <id>https://tv.naver.com/v/47575359</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/47520577"/>
         <updated>2024-02-24T12:26:29.639Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS KYUNGMIN (투어스 경민) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47520465</id>
-        <link href="https://tv.naver.com/v/47520465"/>
-        <updated>2024-02-24T12:26:29.639Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] P1Harmony (피원하모니) – 때깔 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47520353</id>
-        <link href="https://tv.naver.com/v/47520353"/>
-        <updated>2024-02-24T12:26:29.642Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
