@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-02-26T08:20:24.481Z</updated>
+    <updated>2024-02-26T09:17:34.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[끝나지 않을 엔싸인의 HAPPY AND❤️]]></title>
+        <id>https://tv.naver.com/v/47571001</id>
+        <link href="https://tv.naver.com/v/47571001"/>
+        <updated>2024-02-26T09:17:22.974Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 그치, 맞지 이건 쇼챔만의 NEW THANG!]]></title>
         <id>https://tv.naver.com/v/47564053</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/47409482</id>
         <link href="https://tv.naver.com/v/47409482"/>
         <updated>2024-02-22T08:20:32.682Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] X:IN NOVA - MY IDOL (엑신 노바 - 마이 아이돌) | Show Champion | EP.506 | 240221]]></title>
-        <id>https://tv.naver.com/v/47409480</id>
-        <link href="https://tv.naver.com/v/47409480"/>
-        <updated>2024-02-22T08:20:32.683Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>

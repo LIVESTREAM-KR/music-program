@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-26T08:20:24.476Z</updated>
+    <updated>2024-02-26T09:17:34.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) - Swan Song | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47575359</id>
+        <link href="https://tv.naver.com/v/47575359"/>
+        <updated>2024-02-26T09:17:00.014Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - EASY | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47574917</id>
+        <link href="https://tv.naver.com/v/47574917"/>
+        <updated>2024-02-26T09:17:00.016Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - EASY | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47574734</id>
+        <link href="https://tv.naver.com/v/47574734"/>
+        <updated>2024-02-26T09:17:00.017Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - EASY | 쇼! 음악중심 | MBC240224방송]]></title>
+        <id>https://tv.naver.com/v/47574733</id>
+        <link href="https://tv.naver.com/v/47574733"/>
+        <updated>2024-02-26T09:17:00.018Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 2월 넷째 주 음악중심 MC 컷 모음!, MBC 240224 방송]]></title>
         <id>https://tv.naver.com/v/47568181</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/47520353"/>
         <updated>2024-02-24T12:26:29.642Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS JIHOON (투어스 지훈) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47520181</id>
-        <link href="https://tv.naver.com/v/47520181"/>
-        <updated>2024-02-24T12:26:29.642Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS HANJIN (투어스 한진) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47520180</id>
-        <link href="https://tv.naver.com/v/47520180"/>
-        <updated>2024-02-24T12:26:29.643Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS YOUNGJAE (투어스 영재) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47520179</id>
-        <link href="https://tv.naver.com/v/47520179"/>
-        <updated>2024-02-24T12:26:29.643Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS SHINYU (투어스 신유) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47520178</id>
-        <link href="https://tv.naver.com/v/47520178"/>
-        <updated>2024-02-24T12:26:29.648Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
