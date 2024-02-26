@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-26T06:22:21.168Z</updated>
+    <updated>2024-02-26T07:17:29.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nightwalker - TEN | KBS 240223 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 2월 넷째 주 음악중심 MC 컷 모음!, MBC 240224 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/47568181</id>
+        <link href="https://tv.naver.com/v/47568181"/>
+        <updated>2024-02-26T07:16:58.419Z</updated>
+        <content type="html"><![CDATA[17:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] Way to Work.zip 📂 Show! Music Core Way to Work Special Compilation (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/47313768</id>
         <link href="https://tv.naver.com/v/47313768"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/47520178"/>
         <updated>2024-02-24T12:26:29.648Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TEN (텐) – Nightwalker 직캠 (Horizontal Ver.) | 쇼! 음악중심 | MBC240224방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/47520030</id>
-        <link href="https://tv.naver.com/v/47520030"/>
-        <updated>2024-02-24T12:26:29.649Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문별(Moon Byul) - TOUCHIN&MOVIN | SBS 240225 방송 (인기가요)]]></title>
