@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-27T02:20:20.198Z</updated>
+    <updated>2024-02-27T03:17:50.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nightwalker - TEN | KBS 240223 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] TEN (텐) – Nightwalker | 쇼! 음악중심 | MBC240224방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/47604003</id>
+        <link href="https://tv.naver.com/v/47604003"/>
+        <updated>2024-02-27T03:17:15.746Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - Swan Song | 쇼! 음악중심 | MBC240224방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/47576000</id>
         <link href="https://tv.naver.com/v/47576000"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/47521109"/>
         <updated>2024-02-24T13:16:31.998Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TWS DOHOON (투어스 도훈) - BFF 직캠 | 쇼! 음악중심 | MBC240224방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/47520577</id>
-        <link href="https://tv.naver.com/v/47520577"/>
-        <updated>2024-02-24T12:26:29.639Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문별(Moon Byul) - TOUCHIN&MOVIN | SBS 240225 방송 (인기가요)]]></title>
