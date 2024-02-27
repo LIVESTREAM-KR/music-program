@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-02-27T10:18:29.846Z</updated>
+    <updated>2024-02-27T11:13:38.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LE SSERAFIM이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/47625961</id>
+        <link href="https://tv.naver.com/v/47625961"/>
+        <updated>2024-02-27T11:13:14.398Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 문별 (Moon Byul) - TOUCHIN&MOVIN | Mnet 240222 방송]]></title>
         <id>https://tv.naver.com/v/47438382</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47437194"/>
         <updated>2024-02-22T11:13:22.038Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' 투투 기념! 양자 택일! 엠카운트다운 출연진들의 선택은? | Mnet 240222 방송]]></title>
-        <id>https://tv.naver.com/v/47437141</id>
-        <link href="https://tv.naver.com/v/47437141"/>
-        <updated>2024-02-22T11:13:22.039Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>
