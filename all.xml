@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-28T10:19:04.808Z</updated>
+    <updated>2024-02-28T11:15:47.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nightwalker - TEN | KBS 240223 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,27 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔싸인(n.SSign) - Happy & l 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47671993</id>
+        <link href="https://tv.naver.com/v/47671993"/>
+        <updated>2024-02-28T11:15:35.871Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 문별(Moon Byul) - TOUCHIN&MOVIN l 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47669872</id>
+        <link href="https://tv.naver.com/v/47669872"/>
+        <updated>2024-02-28T11:15:35.872Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문별(Moon Byul) - Think About l 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47669696</id>
+        <link href="https://tv.naver.com/v/47669696"/>
+        <updated>2024-02-28T11:15:35.876Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 에이스(A.C.E) - My Girl l 240228 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/47669541</id>
         <link href="https://tv.naver.com/v/47669541"/>
@@ -401,28 +422,7 @@
         <id>https://tv.naver.com/v/47668213</id>
         <link href="https://tv.naver.com/v/47668213"/>
         <updated>2024-02-28T10:18:52.463Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬트(M.O.N.T) - 마음대로 해 (IDGAF) l 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47668174</id>
-        <link href="https://tv.naver.com/v/47668174"/>
-        <updated>2024-02-28T10:18:52.464Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 엑신(X:IN) - NO DOUBT l 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47668171</id>
-        <link href="https://tv.naver.com/v/47668171"/>
-        <updated>2024-02-28T10:18:52.466Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '문별(Moon Byul)' 나!왔어✋🏻 l 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47668003</id>
-        <link href="https://tv.naver.com/v/47668003"/>
-        <updated>2024-02-28T10:18:52.468Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
+        <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김범수 - 지나간다 | KBS 240224 방송 (불후의 명곡)]]></title>
