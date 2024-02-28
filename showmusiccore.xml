@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-02-28T06:21:04.732Z</updated>
+    <updated>2024-02-28T07:14:58.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Start of semester.zip 📂 Show! Music Core Start of semester Special Compilation]]></title>
+        <id>https://tv.naver.com/v/47657412</id>
+        <link href="https://tv.naver.com/v/47657412"/>
+        <updated>2024-02-28T07:14:27.988Z</updated>
+        <content type="html"><![CDATA[41:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TWS KYUNGMIN (투어스 경민) – BFF | 쇼! 음악중심 | MBC240224방송]]></title>
         <id>https://tv.naver.com/v/47614670</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47574734"/>
         <updated>2024-02-26T09:17:00.017Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - EASY | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47574733</id>
-        <link href="https://tv.naver.com/v/47574733"/>
-        <updated>2024-02-26T09:17:00.018Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
