@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-02-29T12:29:19.993Z</updated>
+    <updated>2024-02-29T13:18:22.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오로지 문별 생각뿐🌜✨]]></title>
+        <id>https://tv.naver.com/v/47707319</id>
+        <link href="https://tv.naver.com/v/47707319"/>
+        <updated>2024-02-29T13:18:11.477Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] M.O.N.T - IDGAF (몬트 - 마음대로 해) | Show Champion | EP.507 | 240228]]></title>
         <id>https://tv.naver.com/v/47666649</id>
         <link href="https://tv.naver.com/v/47666649"/>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony - Killin' It (피원하모니 - 때깔) | Show Champion | EP.507 | 240228]]></title>
         <id>https://tv.naver.com/v/47666421</id>
         <link href="https://tv.naver.com/v/47666421"/>
-        <updated>2024-02-28T13:17:12.298Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony INTAK - Killin' It (피원하모니 인탁 - 때깔) | Show Champion | EP.507 | 240228]]></title>
-        <id>https://tv.naver.com/v/47666229</id>
-        <link href="https://tv.naver.com/v/47666229"/>
         <updated>2024-02-28T13:17:12.298Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
     </entry>
