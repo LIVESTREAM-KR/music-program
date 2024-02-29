@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-02-29T09:17:15.258Z</updated>
+    <updated>2024-02-29T10:19:35.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 MBC 사내 커플💐 보컬 트레이닝만 3년 한🎤 아나운서 이휘준 하이라이트!, MBC 240225 방송]]></title>
+        <id>https://tv.naver.com/v/47713495</id>
+        <link href="https://tv.naver.com/v/47713495"/>
+        <updated>2024-02-29T10:19:34.660Z</updated>
+        <content type="html"><![CDATA[10:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🎤음치 이미지 타파하러 온 부캐 부자🔥 배우 지예은 하이라이트!, MBC 240225 방송]]></title>
+        <id>https://tv.naver.com/v/47713317</id>
+        <link href="https://tv.naver.com/v/47713317"/>
+        <updated>2024-02-29T10:19:34.662Z</updated>
+        <content type="html"><![CDATA[11:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🎤소울 가득한 음색이 매력적인✨ 방송인 파트리샤 하이라이트!, MBC 240225 방송]]></title>
+        <id>https://tv.naver.com/v/47713316</id>
+        <link href="https://tv.naver.com/v/47713316"/>
+        <updated>2024-02-29T10:19:34.663Z</updated>
+        <content type="html"><![CDATA[11:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 한예종 연기과 입학 전 뮤지컬🎶 전공했던 🌸지예은🌸의 《Perhaps Love》, 《Baby Baby》 무대 | #지예은 MBC240225방송]]></title>
         <id>https://tv.naver.com/v/47603406</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/47542437"/>
         <updated>2024-02-25T11:13:36.753Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바쁘다 바빠 현대 사회💦 '폭풍 야근' & '조기 퇴근'의 염원이 담긴 칼퇴근 댄스!, MBC 240225 방송]]></title>
-        <id>https://tv.naver.com/v/47541752</id>
-        <link href="https://tv.naver.com/v/47541752"/>
-        <updated>2024-02-25T11:13:36.754Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폭풍 야근'의 정체는 아나운서 이휘준!, MBC 240225 방송]]></title>
-        <id>https://tv.naver.com/v/47541749</id>
-        <link href="https://tv.naver.com/v/47541749"/>
-        <updated>2024-02-25T11:13:36.755Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['폭풍 야근' VS '조기 퇴근'의 1라운드 무대 - 우린 제법 잘 어울려요, MBC 240225 방송]]></title>
-        <id>https://tv.naver.com/v/47541485</id>
-        <link href="https://tv.naver.com/v/47541485"/>
-        <updated>2024-02-25T11:13:36.756Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
