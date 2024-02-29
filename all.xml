@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-29T13:18:22.818Z</updated>
+    <updated>2024-02-29T14:18:20.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nightwalker - TEN | KBS 240223 방송 (뮤직뱅크)]]></title>
@@ -222,6 +222,13 @@
         <content type="html"><![CDATA[04:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' TWCIE(트와이스) - I GOT YOU | Mnet 240229 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47715483</id>
+        <link href="https://tv.naver.com/v/47715483"/>
+        <updated>2024-02-29T14:17:57.899Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 태용 (TAEYONG) - TAP | Mnet 240229 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/47715304</id>
         <link href="https://tv.naver.com/v/47715304"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/47714659"/>
         <updated>2024-02-29T11:13:53.112Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' 태용(TAEYONG) (with NCTzen ♥) | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47714423</id>
-        <link href="https://tv.naver.com/v/47714423"/>
-        <updated>2024-02-29T11:13:53.114Z</updated>
-        <content type="html"><![CDATA[05:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>

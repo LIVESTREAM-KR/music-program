@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-02-29T13:18:22.813Z</updated>
+    <updated>2024-02-29T14:18:20.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/47715680"/>
         <updated>2024-02-29T11:13:53.100Z</updated>
         <content type="html"><![CDATA[04:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' TWCIE(트와이스) - I GOT YOU | Mnet 240229 방송]]></title>
+        <id>https://tv.naver.com/v/47715483</id>
+        <link href="https://tv.naver.com/v/47715483"/>
+        <updated>2024-02-29T14:17:57.899Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 태용 (TAEYONG) - TAP | Mnet 240229 방송]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47714659"/>
         <updated>2024-02-29T11:13:53.112Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' 태용(TAEYONG) (with NCTzen ♥) | Mnet 240229 방송]]></title>
-        <id>https://tv.naver.com/v/47714423</id>
-        <link href="https://tv.naver.com/v/47714423"/>
-        <updated>2024-02-29T11:13:53.114Z</updated>
-        <content type="html"><![CDATA[05:45]]></content>
     </entry>
 </feed>
