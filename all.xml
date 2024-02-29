@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-29T07:17:14.182Z</updated>
+    <updated>2024-02-29T08:19:37.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nightwalker - TEN | KBS 240223 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Way To Home.zip 📂 Show! Music Core Way To Home Special Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/47619419</id>
+        <link href="https://tv.naver.com/v/47619419"/>
+        <updated>2024-02-29T08:19:07.015Z</updated>
+        <content type="html"><![CDATA[40:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] Start of semester.zip 📂 Show! Music Core Start of semester Special Compilation (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/47657412</id>
         <link href="https://tv.naver.com/v/47657412"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/47574917"/>
         <updated>2024-02-26T09:17:00.016Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - EASY | 쇼! 음악중심 | MBC240224방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/47574734</id>
-        <link href="https://tv.naver.com/v/47574734"/>
-        <updated>2024-02-26T09:17:00.017Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문별(Moon Byul) - TOUCHIN&MOVIN | SBS 240225 방송 (인기가요)]]></title>
@@ -355,6 +355,55 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign - HAPPY & (엔싸인 - 해피 엔드) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47700591</id>
+        <link href="https://tv.naver.com/v/47700591"/>
+        <updated>2024-02-29T08:19:26.920Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign KAZUTA - Happy & (엔싸인 카즈타 - 해피 엔드) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47700366</id>
+        <link href="https://tv.naver.com/v/47700366"/>
+        <updated>2024-02-29T08:19:26.921Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign JUNHYEOK - Happy & (엔싸인 준혁 - 해피 엔드) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47696225</id>
+        <link href="https://tv.naver.com/v/47696225"/>
+        <updated>2024-02-29T08:19:26.922Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] A.C.E - Effortless (에이스 - 에포트리스) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47695777</id>
+        <link href="https://tv.naver.com/v/47695777"/>
+        <updated>2024-02-29T08:19:26.925Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] X:IN NOVA - NO DOUBT (엑신 노바 - 노 다웃) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47699544</id>
+        <link href="https://tv.naver.com/v/47699544"/>
+        <updated>2024-02-29T08:19:26.927Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] X:IN - NO DOUBT (엑신 - 노 다웃) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47695776</id>
+        <link href="https://tv.naver.com/v/47695776"/>
+        <updated>2024-02-29T08:19:26.928Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] X:IN ARIA - NO DOUBT (엑신 아리아 - 노 다웃) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47695774</id>
+        <link href="https://tv.naver.com/v/47695774"/>
+        <updated>2024-02-29T08:19:26.931Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] M.O.N.T - IDGAF (몬트 - 마음대로 해) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/47666649</id>
         <link href="https://tv.naver.com/v/47666649"/>
@@ -374,55 +423,6 @@
         <link href="https://tv.naver.com/v/47666229"/>
         <updated>2024-02-28T13:17:12.298Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony THEO - Killin' It (피원하모니 테오 - 때깔) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47666168</id>
-        <link href="https://tv.naver.com/v/47666168"/>
-        <updated>2024-02-28T13:17:12.304Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] MOONBYUL - Think About (문별 - 띵커바웃) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47666969</id>
-        <link href="https://tv.naver.com/v/47666969"/>
-        <updated>2024-02-28T13:17:12.304Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] MOONBYUL - Think About (문별 - 띵커바웃) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47666967</id>
-        <link href="https://tv.naver.com/v/47666967"/>
-        <updated>2024-02-28T13:17:12.304Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] MOONBYUL - Think About (문별 - 띵커바웃) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47666916</id>
-        <link href="https://tv.naver.com/v/47666916"/>
-        <updated>2024-02-28T13:17:12.305Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] A.C.E KIM BYEONGKWAN - My Girl (에이스 김병관 - 마이 걸) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47661629</id>
-        <link href="https://tv.naver.com/v/47661629"/>
-        <updated>2024-02-28T13:17:12.305Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] A.C.E - My Girl (에이스 - 마이 걸) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47661360</id>
-        <link href="https://tv.naver.com/v/47661360"/>
-        <updated>2024-02-28T13:17:12.307Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] A.C.E LEE DONGHUN - My Girl (에이스 이동훈 - 마이 걸) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47661356</id>
-        <link href="https://tv.naver.com/v/47661356"/>
-        <updated>2024-02-28T13:17:12.309Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김범수 - 지나간다 | KBS 240224 방송 (불후의 명곡)]]></title>
