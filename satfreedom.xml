@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-03-01T07:15:21.726Z</updated>
+    <updated>2024-03-01T08:20:30.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ZEROBASEONE이 준비한 개인기 타임🕺💟 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/47746259</id>
+        <link href="https://tv.naver.com/v/47746259"/>
+        <updated>2024-03-01T08:20:24.088Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김범수 - 지나간다 | KBS 240224 방송]]></title>
         <id>https://tv.naver.com/v/47519204</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47518386"/>
         <updated>2024-02-24T11:12:59.502Z</updated>
         <content type="html"><![CDATA[05:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육중완밴드 - 나타나 | KBS 240224 방송]]></title>
-        <id>https://tv.naver.com/v/47518168</id>
-        <link href="https://tv.naver.com/v/47518168"/>
-        <updated>2024-02-24T11:12:59.503Z</updated>
-        <content type="html"><![CDATA[05:40]]></content>
     </entry>
 </feed>
