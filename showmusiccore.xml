@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-01T06:21:29.503Z</updated>
+    <updated>2024-03-01T07:15:21.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] February TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/47694617</id>
+        <link href="https://tv.naver.com/v/47694617"/>
+        <updated>2024-03-01T07:14:47.087Z</updated>
+        <content type="html"><![CDATA[29:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Way To Home.zip 📂 Show! Music Core Way To Home Special Compilation]]></title>
         <id>https://tv.naver.com/v/47619419</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47575359"/>
         <updated>2024-02-26T09:17:00.014Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - EASY | 쇼! 음악중심 | MBC240224방송]]></title>
-        <id>https://tv.naver.com/v/47574917</id>
-        <link href="https://tv.naver.com/v/47574917"/>
-        <updated>2024-02-26T09:17:00.016Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
