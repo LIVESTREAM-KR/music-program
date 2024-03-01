@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-01T01:13:22.244Z</updated>
+    <updated>2024-03-01T02:26:03.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2월 4주 차 쇼챔피언 ＜금동현 & 가온 & 화랑＞ MC 컷 모음📁 | Show Champion | EP.507 | 240228]]></title>
+        <id>https://tv.naver.com/v/47673115</id>
+        <link href="https://tv.naver.com/v/47673115"/>
+        <updated>2024-03-01T02:25:51.806Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign - HAPPY & (엔싸인 - 해피 엔드) | Show Champion | EP.507 | 240228]]></title>
         <id>https://tv.naver.com/v/47700591</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47666649"/>
         <updated>2024-02-28T13:17:12.292Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony - Killin' It (피원하모니 - 때깔) | Show Champion | EP.507 | 240228]]></title>
-        <id>https://tv.naver.com/v/47666421</id>
-        <link href="https://tv.naver.com/v/47666421"/>
-        <updated>2024-02-28T13:17:12.298Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
