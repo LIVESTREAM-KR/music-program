@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-02T09:14:53.258Z</updated>
+    <updated>2024-03-02T10:15:23.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 3월 1주차 1위 르세라핌 - 이지 (LE SSERAFIM - EASY), MBC 240302 방송]]></title>
+        <id>https://tv.naver.com/v/47776055</id>
+        <link href="https://tv.naver.com/v/47776055"/>
+        <updated>2024-03-02T10:14:48.419Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#예능연구소] LE SSERAFIM (르세라핌) – EASY 1위 직캠 | 쇼! 음악중심 | MBC240302방송]]></title>
+        <id>https://tv.naver.com/v/47775663</id>
+        <link href="https://tv.naver.com/v/47775663"/>
+        <updated>2024-03-02T10:14:48.420Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 1주차 1위 르세라핌 - 이지 (LE SSERAFIM - EASY), MBC 240302 방송]]></title>
         <id>https://tv.naver.com/v/47773710</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/47773432"/>
         <updated>2024-03-02T08:18:21.228Z</updated>
         <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이스 - 마이 걸 (A.C.E - My Girl), MBC 240302 방송]]></title>
-        <id>https://tv.naver.com/v/47773309</id>
-        <link href="https://tv.naver.com/v/47773309"/>
-        <updated>2024-03-02T08:18:21.230Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인 - 해피 앤드 (n.SSign - Happy &), MBC 240302 방송]]></title>
-        <id>https://tv.naver.com/v/47773248</id>
-        <link href="https://tv.naver.com/v/47773248"/>
-        <updated>2024-03-02T08:18:21.231Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>

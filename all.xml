@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-02T09:14:53.265Z</updated>
+    <updated>2024-03-02T10:15:23.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ONE SPARK - TWICE | KBS 240301 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[미방분] 3월 1주차 1위 르세라핌 - 이지 (LE SSERAFIM - EASY), MBC 240302 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/47776055</id>
+        <link href="https://tv.naver.com/v/47776055"/>
+        <updated>2024-03-02T10:14:48.419Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#예능연구소] LE SSERAFIM (르세라핌) – EASY 1위 직캠 | 쇼! 음악중심 | MBC240302방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/47775663</id>
+        <link href="https://tv.naver.com/v/47775663"/>
+        <updated>2024-03-02T10:14:48.420Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3월 1주차 1위 르세라핌 - 이지 (LE SSERAFIM - EASY), MBC 240302 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/47773710</id>
         <link href="https://tv.naver.com/v/47773710"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/47773432"/>
         <updated>2024-03-02T08:18:21.228Z</updated>
         <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이스 - 마이 걸 (A.C.E - My Girl), MBC 240302 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/47773309</id>
-        <link href="https://tv.naver.com/v/47773309"/>
-        <updated>2024-03-02T08:18:21.230Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인 - 해피 앤드 (n.SSign - Happy &), MBC 240302 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/47773248</id>
-        <link href="https://tv.naver.com/v/47773248"/>
-        <updated>2024-03-02T08:18:21.231Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[문별(Moon Byul) - TOUCHIN&MOVIN | SBS 240225 방송 (인기가요)]]></title>
@@ -425,6 +425,48 @@
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[라포엠 - 주문(MIROTIC) | KBS 240302 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/47776678</id>
+        <link href="https://tv.naver.com/v/47776678"/>
+        <updated>2024-03-02T10:15:17.328Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SM의 길거리 캐스팅을 받았던 박기훈?! 라포엠의 선곡은 과연😆 | KBS 240302 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/47776671</id>
+        <link href="https://tv.naver.com/v/47776671"/>
+        <updated>2024-03-02T10:15:17.329Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 아이린&슬기가 보는 동방신기 듀오의 매력은?💕 | KBS 240302 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/47776542</id>
+        <link href="https://tv.naver.com/v/47776542"/>
+        <updated>2024-03-02T10:15:17.329Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카리스마 실력파 아이돌 온앤오프(ONF)의 패기🔥 오늘의 목표는? | KBS 240302 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/47776337</id>
+        <link href="https://tv.naver.com/v/47776337"/>
+        <updated>2024-03-02T10:15:17.330Z</updated>
+        <content type="html"><![CDATA[02:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제베원의 도전장을 받은 온앤오프❤️‍🔥 기대되는 오늘의 관전포인트 | KBS 240302 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/47776181</id>
+        <link href="https://tv.naver.com/v/47776181"/>
+        <updated>2024-03-02T10:15:17.331Z</updated>
+        <content type="html"><![CDATA[01:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동방신기(TVXQ!) - Rebel | KBS 240302 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/47776079</id>
+        <link href="https://tv.naver.com/v/47776079"/>
+        <updated>2024-03-02T10:15:17.333Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] ZEROBASEONE이 준비한 개인기 타임🕺💟 | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/47746259</id>
         <link href="https://tv.naver.com/v/47746259"/>
@@ -451,48 +493,6 @@
         <link href="https://tv.naver.com/v/47519035"/>
         <updated>2024-02-24T12:26:57.722Z</updated>
         <content type="html"><![CDATA[01:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 646회  ＜아티스트 김범수＞ 우승자 ⭐서은광⭐ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/47518642</id>
-        <link href="https://tv.naver.com/v/47518642"/>
-        <updated>2024-02-24T12:26:57.723Z</updated>
-        <content type="html"><![CDATA[01:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전원 기립✨️ 이유 있는 자신감! 모두를 깜짝 놀라게 한 서은광의 무대🤘 | KBS 240224 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/47518614</id>
-        <link href="https://tv.naver.com/v/47518614"/>
-        <updated>2024-02-24T12:26:57.724Z</updated>
-        <content type="html"><![CDATA[01:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애절함의 극치! 호소력이 담긴 애수의 하모니를 보여준 포레스텔라의 무대😭💖 | KBS 240224 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/47518503</id>
-        <link href="https://tv.naver.com/v/47518503"/>
-        <updated>2024-02-24T11:12:59.499Z</updated>
-        <content type="html"><![CDATA[01:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] K-POP 열풍의 선두 주자! ‘영원한 우리들의 아이돌’ 동방신기 편 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/47518491</id>
-        <link href="https://tv.naver.com/v/47518491"/>
-        <updated>2024-02-24T11:12:59.500Z</updated>
-        <content type="html"><![CDATA[00:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서은광 - Rock Star | KBS 240224 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/47518486</id>
-        <link href="https://tv.naver.com/v/47518486"/>
-        <updated>2024-02-24T11:12:59.500Z</updated>
-        <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포레스텔라 - 슬픔보다 더 슬픈 이야기 | KBS 240224 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/47518386</id>
-        <link href="https://tv.naver.com/v/47518386"/>
-        <updated>2024-02-24T11:12:59.502Z</updated>
-        <content type="html"><![CDATA[05:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 MBC 사내 커플💐 보컬 트레이닝만 3년 한🎤 아나운서 이휘준 하이라이트!, MBC 240225 방송 (복면가왕)]]></title>
