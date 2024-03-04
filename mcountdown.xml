@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-03-04T10:10:19.047Z</updated>
+    <updated>2024-03-04T12:00:50.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2월 마지막 주 1위 'LE SSERAFIM'의 'EASY' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/47840145</id>
+        <link href="https://tv.naver.com/v/47840145"/>
+        <updated>2024-03-04T12:00:26.525Z</updated>
+        <content type="html"><![CDATA[05:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' TWICE(트와이스) - ONE SPARK | Mnet 240229 방송]]></title>
         <id>https://tv.naver.com/v/47715680</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47714660"/>
         <updated>2024-02-29T11:13:53.111Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이스 (A.C.E) - My Girl | Mnet 240229 방송]]></title>
-        <id>https://tv.naver.com/v/47714659</id>
-        <link href="https://tv.naver.com/v/47714659"/>
-        <updated>2024-02-29T11:13:53.112Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>

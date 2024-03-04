@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-04T10:10:19.043Z</updated>
+    <updated>2024-03-04T12:00:50.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ONE SPARK - TWICE | KBS 240301 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2월 마지막 주 1위 'LE SSERAFIM'의 'EASY' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47840145</id>
+        <link href="https://tv.naver.com/v/47840145"/>
+        <updated>2024-03-04T12:00:26.525Z</updated>
+        <content type="html"><![CDATA[05:02]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' TWICE(트와이스) - ONE SPARK | Mnet 240229 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/47715680</id>
         <link href="https://tv.naver.com/v/47715680"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/47714660"/>
         <updated>2024-02-29T11:13:53.111Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이스 (A.C.E) - My Girl | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47714659</id>
-        <link href="https://tv.naver.com/v/47714659"/>
-        <updated>2024-02-29T11:13:53.112Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
