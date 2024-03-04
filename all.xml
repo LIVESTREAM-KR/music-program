@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-04T03:02:07.837Z</updated>
+    <updated>2024-03-04T04:49:39.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ONE SPARK - TWICE | KBS 240301 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 💥충격💥 보기만 해도 근심 타파, 피로회복되는 ‘비타민 쇼챔‘ 진짜 계심🤍 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/47820393</id>
+        <link href="https://tv.naver.com/v/47820393"/>
+        <updated>2024-03-04T04:49:27.074Z</updated>
+        <content type="html"><![CDATA[01:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2월 4주 차 쇼챔피언 ＜금동현 & 가온 & 화랑＞ MC 컷 모음📁 | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/47673115</id>
         <link href="https://tv.naver.com/v/47673115"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/47707319"/>
         <updated>2024-02-29T13:18:11.477Z</updated>
         <content type="html"><![CDATA[00:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] M.O.N.T - IDGAF (몬트 - 마음대로 해) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47666649</id>
-        <link href="https://tv.naver.com/v/47666649"/>
-        <updated>2024-02-28T13:17:12.292Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카디(KARDI)&JD1 vs ZEROBASEONE! 명곡판정단의 마지막 선택은? | KBS 240302 방송 (불후의 명곡)]]></title>
