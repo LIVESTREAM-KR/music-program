@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-04T05:52:42.131Z</updated>
+    <updated>2024-03-04T07:08:10.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 3월 첫째 주 음악중심 MC 컷 모음!, MBC 240302 방송]]></title>
+        <id>https://tv.naver.com/v/47825266</id>
+        <link href="https://tv.naver.com/v/47825266"/>
+        <updated>2024-03-04T07:07:35.040Z</updated>
+        <content type="html"><![CDATA[17:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] IAmKorean.zip 📂 Show! Music Core I Am Korean Special Compilation]]></title>
         <id>https://tv.naver.com/v/47780873</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47786916"/>
         <updated>2024-03-02T17:12:50.489Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY HYEONGJUN (크래비티 형준) - Love or Die 직캠 | Show! 쇼! 음악중심 | MBC240302방송]]></title>
-        <id>https://tv.naver.com/v/47786914</id>
-        <link href="https://tv.naver.com/v/47786914"/>
-        <updated>2024-03-02T17:12:50.490Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
