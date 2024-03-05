@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-04T23:18:44.600Z</updated>
+    <updated>2024-03-05T01:07:06.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM SAKURA - Swan Song FanCam | Show! MusicCore | MBC240302onair]]></title>
+        <id>https://tv.naver.com/v/47857831</id>
+        <link href="https://tv.naver.com/v/47857831"/>
+        <updated>2024-03-05T01:06:32.077Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) - EASY | 쇼! 음악중심 | MBC240302방송]]></title>
+        <id>https://tv.naver.com/v/47857808</id>
+        <link href="https://tv.naver.com/v/47857808"/>
+        <updated>2024-03-05T01:06:32.079Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - Swan Song | 쇼! 음악중심 | MBC240302방송]]></title>
+        <id>https://tv.naver.com/v/47857805</id>
+        <link href="https://tv.naver.com/v/47857805"/>
+        <updated>2024-03-05T01:06:32.080Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWICE NAYEON (트와이스 나연) - I GOT YOU | 쇼! 음악중심 | MBC240302방송]]></title>
+        <id>https://tv.naver.com/v/47857675</id>
+        <link href="https://tv.naver.com/v/47857675"/>
+        <updated>2024-03-05T01:06:32.089Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM KAZUHA (르세라핌 카즈하) - Swan Song 직캠 | Show! 쇼! 음악중심 | MBC240302방송]]></title>
+        <id>https://tv.naver.com/v/47857672</id>
+        <link href="https://tv.naver.com/v/47857672"/>
+        <updated>2024-03-05T01:06:32.090Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 3월 첫째 주 음악중심 MC 컷 모음!, MBC 240302 방송]]></title>
         <id>https://tv.naver.com/v/47825266</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/47786922"/>
         <updated>2024-03-02T17:12:50.482Z</updated>
         <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM KAZUHA (르세라핌 카즈하) - EASY 직캠 | 쇼! 음악중심 | MBC240302방송]]></title>
-        <id>https://tv.naver.com/v/47786921</id>
-        <link href="https://tv.naver.com/v/47786921"/>
-        <updated>2024-03-02T17:12:50.484Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - EASY 직캠 | 쇼! 음악중심 | MBC240302방송]]></title>
-        <id>https://tv.naver.com/v/47786920</id>
-        <link href="https://tv.naver.com/v/47786920"/>
-        <updated>2024-03-02T17:12:50.485Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - EASY 직캠 | 쇼! 음악중심 | MBC240302방송]]></title>
-        <id>https://tv.naver.com/v/47786919</id>
-        <link href="https://tv.naver.com/v/47786919"/>
-        <updated>2024-03-02T17:12:50.487Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM SAKURA (르세라핌 사쿠라) - EASY 직캠 | 쇼! 음악중심 | MBC240302방송]]></title>
-        <id>https://tv.naver.com/v/47786918</id>
-        <link href="https://tv.naver.com/v/47786918"/>
-        <updated>2024-03-02T17:12:50.488Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM (르세라핌) – EASY 직캠 | 쇼! 음악중심 | MBC240302방송]]></title>
-        <id>https://tv.naver.com/v/47786916</id>
-        <link href="https://tv.naver.com/v/47786916"/>
-        <updated>2024-03-02T17:12:50.489Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
