@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-05T08:20:58.521Z</updated>
+    <updated>2024-03-05T09:16:54.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트라이비로 인해 완성되는 다이아몬드💎]]></title>
+        <id>https://tv.naver.com/v/47880856</id>
+        <link href="https://tv.naver.com/v/47880856"/>
+        <updated>2024-03-05T09:16:43.546Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] EPEX YEWANG - Graduation Day (이펙스 예왕 - 졸업식) | Show Champion | EP.506 | 240221]]></title>
         <id>https://tv.naver.com/v/47833081</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/47695776</id>
         <link href="https://tv.naver.com/v/47695776"/>
         <updated>2024-02-29T08:19:26.928Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] X:IN ARIA - NO DOUBT (엑신 아리아 - 노 다웃) | Show Champion | EP.507 | 240228]]></title>
-        <id>https://tv.naver.com/v/47695774</id>
-        <link href="https://tv.naver.com/v/47695774"/>
-        <updated>2024-02-29T08:19:26.931Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
