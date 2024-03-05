@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-05T01:07:06.861Z</updated>
+    <updated>2024-03-05T02:22:17.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWICE TZUYU (트와이스 쯔위) - ONE SPARK | 쇼! 음악중심 | MBC240302방송]]></title>
+        <id>https://tv.naver.com/v/47858082</id>
+        <link href="https://tv.naver.com/v/47858082"/>
+        <updated>2024-03-05T02:21:44.244Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] LE SSERAFIM SAKURA - Swan Song FanCam | Show! MusicCore | MBC240302onair]]></title>
         <id>https://tv.naver.com/v/47857831</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47786947"/>
         <updated>2024-03-02T16:18:41.435Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM (르세라핌) – Swan Song 직캠 | 쇼! 음악중심 | MBC240302방송]]></title>
-        <id>https://tv.naver.com/v/47786922</id>
-        <link href="https://tv.naver.com/v/47786922"/>
-        <updated>2024-03-02T17:12:50.482Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
 </feed>
