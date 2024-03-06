@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-06T06:22:31.521Z</updated>
+    <updated>2024-03-06T07:15:29.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TWICE.zip 📂 Like OOH-AHH(OOH-AHH하게)부터 ONE SPARK까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/47879298</id>
+        <link href="https://tv.naver.com/v/47879298"/>
+        <updated>2024-03-06T07:14:58.868Z</updated>
+        <content type="html"><![CDATA[01:14:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TWICE TZUYU (트와이스 쯔위) - ONE SPARK | 쇼! 음악중심 | MBC240302방송]]></title>
         <id>https://tv.naver.com/v/47858082</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47786948"/>
         <updated>2024-03-02T16:18:41.435Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - EASY 직캠 | 쇼! 음악중심 | MBC240302방송]]></title>
-        <id>https://tv.naver.com/v/47786947</id>
-        <link href="https://tv.naver.com/v/47786947"/>
-        <updated>2024-03-02T16:18:41.435Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>
