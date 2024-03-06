@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-06T08:21:35.487Z</updated>
+    <updated>2024-03-06T09:16:54.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[swaggy 다른 막방 때깔 💜]]></title>
+        <id>https://tv.naver.com/v/47931373</id>
+        <link href="https://tv.naver.com/v/47931373"/>
+        <updated>2024-03-06T09:16:43.389Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트라이비로 인해 완성되는 다이아몬드💎]]></title>
         <id>https://tv.naver.com/v/47880856</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/47699544</id>
         <link href="https://tv.naver.com/v/47699544"/>
         <updated>2024-02-29T08:19:26.927Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] X:IN - NO DOUBT (엑신 - 노 다웃) | Show Champion | EP.507 | 240228]]></title>
-        <id>https://tv.naver.com/v/47695776</id>
-        <link href="https://tv.naver.com/v/47695776"/>
-        <updated>2024-02-29T08:19:26.928Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
