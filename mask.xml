@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-03-07T06:21:21.513Z</updated>
+    <updated>2024-03-07T07:13:20.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🎁국악의 현재이자 미래🎵 가수 신예주 하이라이트!, MBC 240303 방송]]></title>
+        <id>https://tv.naver.com/v/47976768</id>
+        <link href="https://tv.naver.com/v/47976768"/>
+        <updated>2024-03-07T07:13:20.165Z</updated>
+        <content type="html"><![CDATA[11:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 트로트계 독보적 감성을 가진💕 가수 송민준 하이라이트!, MBC 240303 방송]]></title>
+        <id>https://tv.naver.com/v/47976388</id>
+        <link href="https://tv.naver.com/v/47976388"/>
+        <updated>2024-03-07T07:13:20.167Z</updated>
+        <content type="html"><![CDATA[09:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 ✨페스티벌 섭외 0순위 밴드의 보컬🎤 로맨틱펀치 배인혁 하이라이트!, MBC 240303 방송]]></title>
         <id>https://tv.naver.com/v/47976110</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/47797807"/>
         <updated>2024-03-03T10:18:38.906Z</updated>
         <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조기 퇴근'의 정체는 유니스 임서원!, MBC 240303 방송]]></title>
-        <id>https://tv.naver.com/v/47797717</id>
-        <link href="https://tv.naver.com/v/47797717"/>
-        <updated>2024-03-03T10:18:38.907Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샘 해밍턴&김대호와 함께하는 '후크 선장'의 출항 전 댄스!🚢 '후크 선장'은 과연 MZ일까?🤔, MBC 240303 방송]]></title>
-        <id>https://tv.naver.com/v/47797515</id>
-        <link href="https://tv.naver.com/v/47797515"/>
-        <updated>2024-03-03T10:18:38.909Z</updated>
-        <content type="html"><![CDATA[01:35]]></content>
     </entry>
 </feed>

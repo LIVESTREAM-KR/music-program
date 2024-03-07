@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-07T06:21:21.486Z</updated>
+    <updated>2024-03-07T07:13:20.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소]Same Name Different Song.zip 📂 Show! Music Core Same Name Different Song Special Compilatio]]></title>
+        <id>https://tv.naver.com/v/47915471</id>
+        <link href="https://tv.naver.com/v/47915471"/>
+        <updated>2024-03-07T07:12:49.080Z</updated>
+        <content type="html"><![CDATA[01:14:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TWICE.zip 📂 Like OOH-AHH(OOH-AHH하게)부터 ONE SPARK까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/47879298</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47780873"/>
         <updated>2024-03-03T07:13:29.014Z</updated>
         <content type="html"><![CDATA[01:13:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MOONBYUL (문별) – TOUCHIN&MOVIN 직캠 (Horizontal Ver.) | 쇼! 음악중심 | MBC240302방송]]></title>
-        <id>https://tv.naver.com/v/47786948</id>
-        <link href="https://tv.naver.com/v/47786948"/>
-        <updated>2024-03-02T16:18:41.435Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-07T06:21:21.491Z</updated>
+    <updated>2024-03-07T07:13:20.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ONE SPARK - TWICE | KBS 240301 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소]Same Name Different Song.zip 📂 Show! Music Core Same Name Different Song Special Compilatio (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/47915471</id>
+        <link href="https://tv.naver.com/v/47915471"/>
+        <updated>2024-03-07T07:12:49.080Z</updated>
+        <content type="html"><![CDATA[01:14:20]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TWICE.zip 📂 Like OOH-AHH(OOH-AHH하게)부터 ONE SPARK까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/47879298</id>
         <link href="https://tv.naver.com/v/47879298"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/47780873"/>
         <updated>2024-03-03T07:13:29.014Z</updated>
         <content type="html"><![CDATA[01:13:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] MOONBYUL (문별) – TOUCHIN&MOVIN 직캠 (Horizontal Ver.) | 쇼! 음악중심 | MBC240302방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/47786948</id>
-        <link href="https://tv.naver.com/v/47786948"/>
-        <updated>2024-03-02T16:18:41.435Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TWICE(트와이스) - ONE SPARK | SBS 240303 방송 (인기가요)]]></title>
@@ -495,6 +495,20 @@
         <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 🎁국악의 현재이자 미래🎵 가수 신예주 하이라이트!, MBC 240303 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/47976768</id>
+        <link href="https://tv.naver.com/v/47976768"/>
+        <updated>2024-03-07T07:13:20.165Z</updated>
+        <content type="html"><![CDATA[11:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 트로트계 독보적 감성을 가진💕 가수 송민준 하이라이트!, MBC 240303 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/47976388</id>
+        <link href="https://tv.naver.com/v/47976388"/>
+        <updated>2024-03-07T07:13:20.167Z</updated>
+        <content type="html"><![CDATA[09:43]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 ✨페스티벌 섭외 0순위 밴드의 보컬🎤 로맨틱펀치 배인혁 하이라이트!, MBC 240303 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/47976110</id>
         <link href="https://tv.naver.com/v/47976110"/>
@@ -549,19 +563,5 @@
         <link href="https://tv.naver.com/v/47797807"/>
         <updated>2024-03-03T10:18:38.906Z</updated>
         <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조기 퇴근'의 정체는 유니스 임서원!, MBC 240303 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/47797717</id>
-        <link href="https://tv.naver.com/v/47797717"/>
-        <updated>2024-03-03T10:18:38.907Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샘 해밍턴&김대호와 함께하는 '후크 선장'의 출항 전 댄스!🚢 '후크 선장'은 과연 MZ일까?🤔, MBC 240303 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/47797515</id>
-        <link href="https://tv.naver.com/v/47797515"/>
-        <updated>2024-03-03T10:18:38.909Z</updated>
-        <content type="html"><![CDATA[01:35]]></content>
     </entry>
 </feed>
