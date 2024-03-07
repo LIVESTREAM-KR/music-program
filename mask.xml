@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-03-07T01:32:52.123Z</updated>
+    <updated>2024-03-07T02:18:49.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 페스티벌 섭외 0순위😮 배인혁이 부르는 《이브, 프시케 그리고 푸른 수염의 아내》 , 《돌덩이》  | #배인혁 MBC240303방송]]></title>
+        <id>https://tv.naver.com/v/47876716</id>
+        <link href="https://tv.naver.com/v/47876716"/>
+        <updated>2024-03-07T02:18:48.929Z</updated>
+        <content type="html"><![CDATA[15:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜상상도 못한 톱스타의 등장?!💥 반전을 거듭하는 광란의 대축제🎵＞ 복면가왕 442회 예고, MBC 240310]]></title>
         <id>https://tv.naver.com/v/47799198</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47797409"/>
         <updated>2024-03-03T10:18:38.911Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['조기 퇴근' 2라운드 무대 - 저곳으로, MBC 240303 방송]]></title>
-        <id>https://tv.naver.com/v/47797300</id>
-        <link href="https://tv.naver.com/v/47797300"/>
-        <updated>2024-03-03T10:18:38.912Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
