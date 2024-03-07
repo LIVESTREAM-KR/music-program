@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-07T12:28:59.024Z</updated>
+    <updated>2024-03-07T13:17:34.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ONE SPARK - TWICE | KBS 240301 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[태용 (TAEYONG) - APE | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47998528</id>
+        <link href="https://tv.naver.com/v/47998528"/>
+        <updated>2024-03-07T13:17:11.240Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIMERS - Somebody | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47998243</id>
+        <link href="https://tv.naver.com/v/47998243"/>
+        <updated>2024-03-07T13:17:11.241Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[X:IN - NO DOUBT | Mnet 240307 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/47998031</id>
         <link href="https://tv.naver.com/v/47998031"/>
@@ -269,20 +283,6 @@
         <link href="https://tv.naver.com/v/47992641"/>
         <updated>2024-03-07T11:13:38.357Z</updated>
         <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' BOY STORY - Alpha (Korean Ver.) | Mnet 240307 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47992399</id>
-        <link href="https://tv.naver.com/v/47992399"/>
-        <updated>2024-03-07T11:13:38.358Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NCT WISH - WISH (Korean Ver.) | Mnet 240307 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47992249</id>
-        <link href="https://tv.naver.com/v/47992249"/>
-        <updated>2024-03-07T11:13:38.359Z</updated>
-        <content type="html"><![CDATA[04:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
