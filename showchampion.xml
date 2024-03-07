@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-07T07:13:20.843Z</updated>
+    <updated>2024-03-07T08:17:03.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 3월 1주 챔피언송 ＜PLAVE - WAY 4 LUV＞ 수상소감 Full ver. l Show Champion l EP.508 l 240306]]></title>
+        <id>https://tv.naver.com/v/47982481</id>
+        <link href="https://tv.naver.com/v/47982481"/>
+        <updated>2024-03-07T08:16:52.174Z</updated>
+        <content type="html"><![CDATA[01:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[swaggy 다른 막방 때깔 💜]]></title>
         <id>https://tv.naver.com/v/47931373</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47695777"/>
         <updated>2024-02-29T08:19:26.925Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] X:IN NOVA - NO DOUBT (엑신 노바 - 노 다웃) | Show Champion | EP.507 | 240228]]></title>
-        <id>https://tv.naver.com/v/47699544</id>
-        <link href="https://tv.naver.com/v/47699544"/>
-        <updated>2024-02-29T08:19:26.927Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
