@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-07T09:14:29.483Z</updated>
+    <updated>2024-03-07T10:15:52.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ONE SPARK - TWICE | KBS 240301 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,55 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[트라이비(TRI.BE) - Diamond | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47991637</id>
+        <link href="https://tv.naver.com/v/47991637"/>
+        <updated>2024-03-07T10:15:29.117Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - Happy & | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47991636</id>
+        <link href="https://tv.naver.com/v/47991636"/>
+        <updated>2024-03-07T10:15:29.118Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 (The Wind) - H! TEEN | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47991073</id>
+        <link href="https://tv.naver.com/v/47991073"/>
+        <updated>2024-03-07T10:15:29.118Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['차차차' 내 팬이 한눈판다면? | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47990850</id>
+        <link href="https://tv.naver.com/v/47990850"/>
+        <updated>2024-03-07T10:15:29.120Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN' (아이칠린) - ON MY LIPS | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47990536</id>
+        <link href="https://tv.naver.com/v/47990536"/>
+        <updated>2024-03-07T10:15:29.122Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with NCT WISH (엔시티 위시) | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47990284</id>
+        <link href="https://tv.naver.com/v/47990284"/>
+        <updated>2024-03-07T10:15:29.124Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOMAD - No pressure | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47989720</id>
+        <link href="https://tv.naver.com/v/47989720"/>
+        <updated>2024-03-07T10:15:29.126Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TWICE(트와이스)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/47885407</id>
         <link href="https://tv.naver.com/v/47885407"/>
@@ -234,55 +283,6 @@
         <link href="https://tv.naver.com/v/47715680"/>
         <updated>2024-02-29T11:13:53.100Z</updated>
         <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' TWCIE(트와이스) - I GOT YOU | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47715483</id>
-        <link href="https://tv.naver.com/v/47715483"/>
-        <updated>2024-02-29T14:17:57.899Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 태용 (TAEYONG) - TAP | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47715304</id>
-        <link href="https://tv.naver.com/v/47715304"/>
-        <updated>2024-02-29T11:13:53.103Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 태용 (TAEYONG) - Moon Tour | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47715301</id>
-        <link href="https://tv.naver.com/v/47715301"/>
-        <updated>2024-02-29T11:13:53.103Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' TWICE(트와이스) (with ONCE ♥) | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47715165</id>
-        <link href="https://tv.naver.com/v/47715165"/>
-        <updated>2024-02-29T11:13:53.105Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 텐 - Nightwalker | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47714981</id>
-        <link href="https://tv.naver.com/v/47714981"/>
-        <updated>2024-02-29T11:13:53.107Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - EASY | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47714975</id>
-        <link href="https://tv.naver.com/v/47714975"/>
-        <updated>2024-02-29T11:13:53.108Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' LE SSERAFIM - Smart | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47714807</id>
-        <link href="https://tv.naver.com/v/47714807"/>
-        <updated>2024-02-29T11:13:53.110Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
