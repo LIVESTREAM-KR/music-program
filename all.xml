@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-08T09:15:59.464Z</updated>
+    <updated>2024-03-08T10:20:14.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240308 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48044760</id>
+        <link href="https://tv.naver.com/v/48044760"/>
+        <updated>2024-03-08T10:19:32.399Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Don’t Stop - xikers(싸이커스) | KBS 240308 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48044521</id>
+        <link href="https://tv.naver.com/v/48044521"/>
+        <updated>2024-03-08T10:19:32.402Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Sun - xikers(싸이커스) | KBS 240308 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48044518</id>
+        <link href="https://tv.naver.com/v/48044518"/>
+        <updated>2024-03-08T10:19:32.403Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smart - LE SSERAFIM | KBS 240308 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48044302</id>
+        <link href="https://tv.naver.com/v/48044302"/>
+        <updated>2024-03-08T10:19:32.404Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Girl - 에이스 (A.C.E) | KBS 240308 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48044243</id>
+        <link href="https://tv.naver.com/v/48044243"/>
+        <updated>2024-03-08T10:19:32.407Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha (Korean Ver.) - BOY STORY | KBS 240308 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48043480</id>
+        <link href="https://tv.naver.com/v/48043480"/>
+        <updated>2024-03-08T10:19:32.408Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diamond - 트라이비(TRI.BE) | KBS 240308 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48043095</id>
+        <link href="https://tv.naver.com/v/48043095"/>
+        <updated>2024-03-08T10:19:32.410Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WISH (Korean ver.) - NCT WISH | KBS 240308 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48043088</id>
+        <link href="https://tv.naver.com/v/48043088"/>
+        <updated>2024-03-08T10:19:32.411Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sail Away (Korean ver.) - NCT WISH | KBS 240308 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48042793</id>
+        <link href="https://tv.naver.com/v/48042793"/>
+        <updated>2024-03-08T10:19:32.412Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ON MY LIPS - ICHILLIN’ (아이칠린) | KBS 240308 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/48042553</id>
         <link href="https://tv.naver.com/v/48042553"/>
         <updated>2024-03-08T09:15:18.555Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기도 - 에스페로(Espero) | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48042227</id>
-        <link href="https://tv.naver.com/v/48042227"/>
-        <updated>2024-03-08T09:15:18.557Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H! TEEN - 더윈드 (The Wind) | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48041918</id>
-        <link href="https://tv.naver.com/v/48041918"/>
-        <updated>2024-03-08T09:15:18.560Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy & - n.SSign(엔싸인) | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48041636</id>
-        <link href="https://tv.naver.com/v/48041636"/>
-        <updated>2024-03-08T09:15:18.562Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUCKY - HORI7ON (호라이즌) | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48041335</id>
-        <link href="https://tv.naver.com/v/48041335"/>
-        <updated>2024-03-08T09:15:18.565Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NO DOUBT - X:IN | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48040741</id>
-        <link href="https://tv.naver.com/v/48040741"/>
-        <updated>2024-03-08T09:15:18.568Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No pressure - NOMAD | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48040361</id>
-        <link href="https://tv.naver.com/v/48040361"/>
-        <updated>2024-03-08T09:15:18.569Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋아해 - 여동생 | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48040335</id>
-        <link href="https://tv.naver.com/v/48040335"/>
-        <updated>2024-03-08T09:15:18.570Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE SPARK - TWICE | KBS 240301 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47750580</id>
-        <link href="https://tv.naver.com/v/47750580"/>
-        <updated>2024-03-01T10:16:42.421Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I GOT YOU - TWICE | KBS 240301 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/47750577</id>
-        <link href="https://tv.naver.com/v/47750577"/>
-        <updated>2024-03-01T10:16:42.421Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] LE SSERAFIM - Swan Song(르세라핌 - 스완 송) | Show! Music Core (쇼! 음악중심)]]></title>
