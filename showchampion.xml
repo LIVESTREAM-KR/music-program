@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-08T08:20:05.126Z</updated>
+    <updated>2024-03-08T09:15:59.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무엇을 원하냐구? 뱀뱀 원츄🩵]]></title>
+        <id>https://tv.naver.com/v/48041430</id>
+        <link href="https://tv.naver.com/v/48041430"/>
+        <updated>2024-03-08T09:15:47.410Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 1위] 3월 1주 챔피언송 ＜PLAVE - WAY 4 LUV＞ 수상소감 Full ver. l Show Champion l EP.508 l 240306]]></title>
         <id>https://tv.naver.com/v/47982481</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47696225"/>
         <updated>2024-02-29T08:19:26.922Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] A.C.E - Effortless (에이스 - 에포트리스) | Show Champion | EP.507 | 240228]]></title>
-        <id>https://tv.naver.com/v/47695777</id>
-        <link href="https://tv.naver.com/v/47695777"/>
-        <updated>2024-02-29T08:19:26.925Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
