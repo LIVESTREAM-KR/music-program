@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-08T01:07:03.438Z</updated>
+    <updated>2024-03-08T02:23:35.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[직캠 보고서🔍]  모두가 트와이스만 바라봐 👀💗 #쇼음악중심 #음중 #비하인드 #직캠 #lookatme #TWICE #트와이스 #ONESPARK #Shorts]]></title>
+        <id>https://tv.naver.com/v/47988780</id>
+        <link href="https://tv.naver.com/v/47988780"/>
+        <updated>2024-03-08T02:23:04.318Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소]Same Name Different Song.zip 📂 Show! Music Core Same Name Different Song Special Compilatio]]></title>
         <id>https://tv.naver.com/v/47915471</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47825266"/>
         <updated>2024-03-04T07:07:35.040Z</updated>
         <content type="html"><![CDATA[17:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IAmKorean.zip 📂 Show! Music Core I Am Korean Special Compilation]]></title>
-        <id>https://tv.naver.com/v/47780873</id>
-        <link href="https://tv.naver.com/v/47780873"/>
-        <updated>2024-03-03T07:13:29.014Z</updated>
-        <content type="html"><![CDATA[01:13:35]]></content>
     </entry>
 </feed>
