@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-09T11:15:22.182Z</updated>
+    <updated>2024-03-09T12:26:27.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] n.SSign KAZUTA (엔싸인 카즈타) - Happy & 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48077940</id>
+        <link href="https://tv.naver.com/v/48077940"/>
+        <updated>2024-03-09T12:25:52.332Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] LE SSERAFIM SAKURA (르세라핌 사쿠라) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
         <id>https://tv.naver.com/v/48077707</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48077381"/>
         <updated>2024-03-09T11:14:47.142Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kim Hee-jae (김희재) – 우야노 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48077380</id>
-        <link href="https://tv.naver.com/v/48077380"/>
-        <updated>2024-03-09T11:14:47.142Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
