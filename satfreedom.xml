@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-03-09T09:18:22.583Z</updated>
+    <updated>2024-03-09T10:18:30.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SG워너비의 후예 브로맨스(VROMANCE)! 앨범 발매가 걸린 무대?! | KBS 240309 방송]]></title>
+        <id>https://tv.naver.com/v/48075891</id>
+        <link href="https://tv.naver.com/v/48075891"/>
+        <updated>2024-03-09T10:18:24.181Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최강자들의 만남 이보람&안성훈! 이번 특집만은 놓치고 싶지 않은 이유❤‍🔥 | KBS 240309 방송]]></title>
+        <id>https://tv.naver.com/v/48075681</id>
+        <link href="https://tv.naver.com/v/48075681"/>
+        <updated>2024-03-09T10:18:24.184Z</updated>
+        <content type="html"><![CDATA[02:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티의 보컬라인 MZ워너비😆 석훈 선생님 앞에서 긴장한 학생들! | KBS 240309 방송]]></title>
+        <id>https://tv.naver.com/v/48075431</id>
+        <link href="https://tv.naver.com/v/48075431"/>
+        <updated>2024-03-09T10:18:24.187Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SG워너비 - 아리랑 | KBS 240309 방송]]></title>
+        <id>https://tv.naver.com/v/48075429</id>
+        <link href="https://tv.naver.com/v/48075429"/>
+        <updated>2024-03-09T10:18:24.187Z</updated>
+        <content type="html"><![CDATA[05:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카디(KARDI)&JD1 vs ZEROBASEONE! 명곡판정단의 마지막 선택은? | KBS 240302 방송]]></title>
         <id>https://tv.naver.com/v/47778875</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/47778307"/>
         <updated>2024-03-02T11:15:04.103Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JD1 - HUG(포옹) | KBS 240302 방송]]></title>
-        <id>https://tv.naver.com/v/47778305</id>
-        <link href="https://tv.naver.com/v/47778305"/>
-        <updated>2024-03-02T11:15:04.105Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프(ONF) - 왜(Keep Your Head Down) | KBS 240302 방송]]></title>
-        <id>https://tv.naver.com/v/47778125</id>
-        <link href="https://tv.naver.com/v/47778125"/>
-        <updated>2024-03-02T11:15:04.106Z</updated>
-        <content type="html"><![CDATA[04:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유노윤호의 ＂창민아 생일 축하한다＂ 비하인드! & 동방신기가 본 온앤오프 무대는? | KBS 240302 방송]]></title>
-        <id>https://tv.naver.com/v/47778124</id>
-        <link href="https://tv.naver.com/v/47778124"/>
-        <updated>2024-03-02T11:15:04.107Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최강창민의 성게 머리 비하인드⭐️ & 동방신기가 본 카디의 무대는?🤘  | KBS 240302 방송]]></title>
-        <id>https://tv.naver.com/v/47777952</id>
-        <link href="https://tv.naver.com/v/47777952"/>
-        <updated>2024-03-02T11:15:04.109Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
