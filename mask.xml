@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-03-10T12:26:35.859Z</updated>
+    <updated>2024-03-10T13:17:16.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[01:54]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['영양 만점 찬합 도시락' VS '정성 가득 캐릭터 도시락'의 1라운드 무대 - 한동안 뜸 했었지, MBC 240310 방송]]></title>
-        <id>https://tv.naver.com/v/48100819</id>
-        <link href="https://tv.naver.com/v/48100819"/>
-        <updated>2024-03-10T10:15:54.637Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['인생은 인형극'의 정체는 위클리 박소은!, MBC 240310 방송]]></title>
         <id>https://tv.naver.com/v/48100826</id>
         <link href="https://tv.naver.com/v/48100826"/>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/48100824"/>
         <updated>2024-03-10T10:15:54.634Z</updated>
         <content type="html"><![CDATA[02:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인생은 인형극' VS '현실은 서커스'의 1라운드 무대 - 초대, MBC 240310 방송]]></title>
+        <id>https://tv.naver.com/v/48100823</id>
+        <link href="https://tv.naver.com/v/48100823"/>
+        <updated>2024-03-10T13:17:16.233Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
