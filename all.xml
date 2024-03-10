@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-10T08:20:01.186Z</updated>
+    <updated>2024-03-10T09:16:53.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240308 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[어질어질하게 귀여운 하냥이!❤️ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/48041555</id>
+        <link href="https://tv.naver.com/v/48041555"/>
+        <updated>2024-03-10T09:16:42.180Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[무엇을 원하냐구? 뱀뱀 원츄🩵 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/48041430</id>
         <link href="https://tv.naver.com/v/48041430"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/47700591</id>
         <link href="https://tv.naver.com/v/47700591"/>
         <updated>2024-02-29T08:19:26.920Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign KAZUTA - Happy & (엔싸인 카즈타 - 해피 엔드) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47700366</id>
-        <link href="https://tv.naver.com/v/47700366"/>
-        <updated>2024-02-29T08:19:26.921Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>

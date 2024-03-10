@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-10T08:20:01.183Z</updated>
+    <updated>2024-03-10T09:16:53.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어질어질하게 귀여운 하냥이!❤️]]></title>
+        <id>https://tv.naver.com/v/48041555</id>
+        <link href="https://tv.naver.com/v/48041555"/>
+        <updated>2024-03-10T09:16:42.180Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무엇을 원하냐구? 뱀뱀 원츄🩵]]></title>
         <id>https://tv.naver.com/v/48041430</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/47700591</id>
         <link href="https://tv.naver.com/v/47700591"/>
         <updated>2024-02-29T08:19:26.920Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign KAZUTA - Happy & (엔싸인 카즈타 - 해피 엔드) | Show Champion | EP.507 | 240228]]></title>
-        <id>https://tv.naver.com/v/47700366</id>
-        <link href="https://tv.naver.com/v/47700366"/>
-        <updated>2024-02-29T08:19:26.921Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
