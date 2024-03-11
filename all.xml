@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-11T04:20:30.474Z</updated>
+    <updated>2024-03-11T05:16:37.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240308 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,62 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT WISH RIKU (엔시티 위시 리쿠) - Sail Away 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48127042</id>
+        <link href="https://tv.naver.com/v/48127042"/>
+        <updated>2024-03-11T05:16:02.903Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT WISH SION (엔시티 위시 시온) - Sail Away 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48127039</id>
+        <link href="https://tv.naver.com/v/48127039"/>
+        <updated>2024-03-11T05:16:02.904Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48126729</id>
+        <link href="https://tv.naver.com/v/48126729"/>
+        <updated>2024-03-11T05:16:02.905Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT WISH YUSHI (엔시티 위시 유우시) - Sail Away 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48126418</id>
+        <link href="https://tv.naver.com/v/48126418"/>
+        <updated>2024-03-11T05:16:02.906Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NCT WISH (엔시티 위시) – WISH 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48126161</id>
+        <link href="https://tv.naver.com/v/48126161"/>
+        <updated>2024-03-11T05:16:02.907Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48126156</id>
+        <link href="https://tv.naver.com/v/48126156"/>
+        <updated>2024-03-11T05:16:02.909Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM KAZUHA (르세라핌 카즈하) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48125782</id>
+        <link href="https://tv.naver.com/v/48125782"/>
+        <updated>2024-03-11T05:16:02.913Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48125781</id>
+        <link href="https://tv.naver.com/v/48125781"/>
+        <updated>2024-03-11T05:16:02.914Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] n.SSign KAZUTA (엔싸인 카즈타) - Happy & 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/48077940</id>
         <link href="https://tv.naver.com/v/48077940"/>
@@ -87,62 +143,6 @@
         <link href="https://tv.naver.com/v/48077707"/>
         <updated>2024-03-09T11:14:47.131Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEYONG (태용) – TAP 직캠 (Horizontal Ver.) | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48077706</id>
-        <link href="https://tv.naver.com/v/48077706"/>
-        <updated>2024-03-09T11:14:47.131Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Kim Hee-jae (김희재) – 우야노 직캠 (Horizontal Ver.) | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48077671</id>
-        <link href="https://tv.naver.com/v/48077671"/>
-        <updated>2024-03-09T11:14:47.131Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] xikers (싸이커스) – We Don’t Stop 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48077669</id>
-        <link href="https://tv.naver.com/v/48077669"/>
-        <updated>2024-03-09T11:14:47.131Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] n.SSign (엔싸인) - Happy & 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48077668</id>
-        <link href="https://tv.naver.com/v/48077668"/>
-        <updated>2024-03-09T11:14:47.132Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY (크래비티) – Love or Die 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48077528</id>
-        <link href="https://tv.naver.com/v/48077528"/>
-        <updated>2024-03-09T11:14:47.134Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TAEYONG (태용) – TAP 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48077526</id>
-        <link href="https://tv.naver.com/v/48077526"/>
-        <updated>2024-03-09T11:14:47.136Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT WISH SAKUYA (엔시티 위시 사쿠야) - Sail Away 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48077525</id>
-        <link href="https://tv.naver.com/v/48077525"/>
-        <updated>2024-03-09T11:14:47.137Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM (르세라핌) – Smart 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48077381</id>
-        <link href="https://tv.naver.com/v/48077381"/>
-        <updated>2024-03-09T11:14:47.142Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태용 - TAP | SBS 240310 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 쇼챔에 강림한 갓기천사들에게 집중👀 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/48125175</id>
+        <link href="https://tv.naver.com/v/48125175"/>
+        <updated>2024-03-11T05:16:25.786Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[어질어질하게 귀여운 하냥이!❤️ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/48041555</id>
         <link href="https://tv.naver.com/v/48041555"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/47673115"/>
         <updated>2024-03-01T02:25:51.806Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign - HAPPY & (엔싸인 - 해피 엔드) | Show Champion | EP.507 | 240228 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/47700591</id>
-        <link href="https://tv.naver.com/v/47700591"/>
-        <updated>2024-02-29T08:19:26.920Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[감전된 듯한 고음을 보여준 유태평양&김준수의 무대 (ft. 이석훈의 오디션 썰) | KBS 240309 방송 (불후의 명곡)]]></title>
