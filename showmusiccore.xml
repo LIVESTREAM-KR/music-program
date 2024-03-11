@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-11T08:21:23.312Z</updated>
+    <updated>2024-03-11T09:17:53.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT WISH RIKU (엔시티 위시 리쿠) - Sail Away | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48142914</id>
+        <link href="https://tv.naver.com/v/48142914"/>
+        <updated>2024-03-11T09:17:17.312Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT WISH YUSHI (엔시티 위시 유우시) – WISH | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48142910</id>
+        <link href="https://tv.naver.com/v/48142910"/>
+        <updated>2024-03-11T09:17:17.312Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT WISH SAKUYA (엔시티 위시 사쿠야) – WISH | 쇼! 음악중심 | MBC240309방송]]></title>
+        <id>https://tv.naver.com/v/48142607</id>
+        <link href="https://tv.naver.com/v/48142607"/>
+        <updated>2024-03-11T09:17:17.314Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 유아(오마이걸), 3월 둘째 주 음악중심 MC 컷 모음!, MBC 240309 방송]]></title>
+        <id>https://tv.naver.com/v/48142273</id>
+        <link href="https://tv.naver.com/v/48142273"/>
+        <updated>2024-03-11T09:17:17.314Z</updated>
+        <content type="html"><![CDATA[11:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) – Smart | 쇼! 음악중심 | MBC240309방송]]></title>
         <id>https://tv.naver.com/v/48130062</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/48126418"/>
         <updated>2024-03-11T05:16:02.906Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT WISH (엔시티 위시) – WISH 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48126161</id>
-        <link href="https://tv.naver.com/v/48126161"/>
-        <updated>2024-03-11T05:16:02.907Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM HONGEUNCHAE (르세라핌 홍은채) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48126156</id>
-        <link href="https://tv.naver.com/v/48126156"/>
-        <updated>2024-03-11T05:16:02.909Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM KAZUHA (르세라핌 카즈하) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48125782</id>
-        <link href="https://tv.naver.com/v/48125782"/>
-        <updated>2024-03-11T05:16:02.913Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM KIMCHAEWON (르세라핌 김채원) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48125781</id>
-        <link href="https://tv.naver.com/v/48125781"/>
-        <updated>2024-03-11T05:16:02.914Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
