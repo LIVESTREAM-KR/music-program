@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-03-11T09:17:53.263Z</updated>
+    <updated>2024-03-11T10:19:07.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 1주 1위 'LE SSERAFIM'의 'EASY' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/48147377</id>
+        <link href="https://tv.naver.com/v/48147377"/>
+        <updated>2024-03-11T10:18:43.827Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태용 (TAEYONG) - APE | Mnet 240307 방송]]></title>
         <id>https://tv.naver.com/v/47998528</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47992645"/>
         <updated>2024-03-07T11:13:38.354Z</updated>
         <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' LIM KIM - 궁 (ULT) | Mnet 240307 방송]]></title>
-        <id>https://tv.naver.com/v/47992641</id>
-        <link href="https://tv.naver.com/v/47992641"/>
-        <updated>2024-03-07T11:13:38.357Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
     </entry>
 </feed>
