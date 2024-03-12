@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-12T10:17:37.157Z</updated>
+    <updated>2024-03-12T11:13:26.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240308 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NCT WISH가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/48207462</id>
+        <link href="https://tv.naver.com/v/48207462"/>
+        <updated>2024-03-12T11:13:03.132Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3월 1주 1위 'LE SSERAFIM'의 'EASY' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/48147377</id>
         <link href="https://tv.naver.com/v/48147377"/>
@@ -278,11 +285,60 @@
         <content type="html"><![CDATA[04:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CRAVITY - Love or Die | Mnet 240307 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47992645</id>
-        <link href="https://tv.naver.com/v/47992645"/>
-        <updated>2024-03-07T11:13:38.354Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48206516</id>
+        <link href="https://tv.naver.com/v/48206516"/>
+        <updated>2024-03-12T11:13:09.161Z</updated>
+        <content type="html"><![CDATA[05:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - Love or Die [THE SHOW 240312] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48206042</id>
+        <link href="https://tv.naver.com/v/48206042"/>
+        <updated>2024-03-12T11:13:09.163Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - Red Sun [THE SHOW 240312] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48206031</id>
+        <link href="https://tv.naver.com/v/48206031"/>
+        <updated>2024-03-12T11:13:09.164Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - We Don't Stop [THE SHOW 240312] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48206030</id>
+        <link href="https://tv.naver.com/v/48206030"/>
+        <updated>2024-03-12T11:13:09.165Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김희재(Kim Hee Jae) - 우야노 (What should I do) [THE SHOW 240312] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48205754</id>
+        <link href="https://tv.naver.com/v/48205754"/>
+        <updated>2024-03-12T11:13:09.167Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT WISH - WISH (Korean Ver.) [THE SHOW 240312] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48205529</id>
+        <link href="https://tv.naver.com/v/48205529"/>
+        <updated>2024-03-12T11:13:09.168Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이스(A.C.E) - My Girl [THE SHOW 240312] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48205467</id>
+        <link href="https://tv.naver.com/v/48205467"/>
+        <updated>2024-03-12T11:13:09.172Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT WISH - Sail Away (Korean Ver.) [THE SHOW 240312] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48205189</id>
+        <link href="https://tv.naver.com/v/48205189"/>
+        <updated>2024-03-12T11:13:09.172Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트라이비(TRI.BE) - Diamond [THE SHOW 240312] (더쇼)]]></title>
@@ -297,62 +353,6 @@
         <link href="https://tv.naver.com/v/48204328"/>
         <updated>2024-03-12T10:17:20.959Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - Happy & [THE SHOW 240312] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48204326</id>
-        <link href="https://tv.naver.com/v/48204326"/>
-        <updated>2024-03-12T10:17:20.959Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X:IN - NO DOUBT [THE SHOW 240312] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48203730</id>
-        <link href="https://tv.naver.com/v/48203730"/>
-        <updated>2024-03-12T10:17:20.961Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬트(M.O.N.T) - 마음대로 해 (IDGAF) [THE SHOW 240312] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48203459</id>
-        <link href="https://tv.naver.com/v/48203459"/>
-        <updated>2024-03-12T10:17:20.962Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - Happy B Day [THE SHOW 240312] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48203455</id>
-        <link href="https://tv.naver.com/v/48203455"/>
-        <updated>2024-03-12T10:17:20.964Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[입덕짤] MC 샤오쥔 & NCT WISH [THE SHOW 240312] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48203454</id>
-        <link href="https://tv.naver.com/v/48203454"/>
-        <updated>2024-03-12T10:17:20.965Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HORI7ON(호라이즌) - LUCKY [THE SHOW 240312] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48202102</id>
-        <link href="https://tv.naver.com/v/48202102"/>
-        <updated>2024-03-12T10:17:20.967Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOMAD(노매드) - No pressure [THE SHOW 240312] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48202044</id>
-        <link href="https://tv.naver.com/v/48202044"/>
-        <updated>2024-03-12T10:17:20.968Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
-        <id>https://tv.naver.com/v/47885926</id>
-        <link href="https://tv.naver.com/v/47885926"/>
-        <updated>2024-03-05T11:15:51.939Z</updated>
-        <content type="html"><![CDATA[06:49]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팬텀싱어 TOP3의 자질을 제대로 보여준 무대🔥 (쇼챔피언)]]></title>
