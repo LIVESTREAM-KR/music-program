@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-13T10:17:25.695Z</updated>
+    <updated>2024-03-13T11:16:13.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔싸인(n.SSign) - Happy & l 240313]]></title>
+        <id>https://tv.naver.com/v/48264623</id>
+        <link href="https://tv.naver.com/v/48264623"/>
+        <updated>2024-03-13T11:16:01.885Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SOLO HOT DEBUT] 우석(WOOSEOK) - Navy Blue l 240313]]></title>
+        <id>https://tv.naver.com/v/48263299</id>
+        <link href="https://tv.naver.com/v/48263299"/>
+        <updated>2024-03-13T11:16:01.889Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 싸이커스(xikers) - We Don't Stop l 240313]]></title>
+        <id>https://tv.naver.com/v/48263296</id>
+        <link href="https://tv.naver.com/v/48263296"/>
+        <updated>2024-03-13T11:16:01.890Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HOT DEBUT] 엔시티 위시(NCT WISH) - WISH (Korean Ver.) l 240313]]></title>
+        <id>https://tv.naver.com/v/48263287</id>
+        <link href="https://tv.naver.com/v/48263287"/>
+        <updated>2024-03-13T11:16:01.892Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싸이커스(xikers) - Red Sun l 240313]]></title>
         <id>https://tv.naver.com/v/48262876</id>
@@ -34,45 +62,17 @@
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[COMEBACK] 아이칠린(ICHILLIN’) - ON MY LIPS l 240313]]></title>
+        <id>https://tv.naver.com/v/48261752</id>
+        <link href="https://tv.naver.com/v/48261752"/>
+        <updated>2024-03-13T11:16:01.899Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[더윈드(The Wind) - Happy B Day l 240313]]></title>
         <id>https://tv.naver.com/v/48261548</id>
         <link href="https://tv.naver.com/v/48261548"/>
         <updated>2024-03-13T10:17:13.961Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'xikers(싸이커스)' 나!왔어✋🏻 l 240313]]></title>
-        <id>https://tv.naver.com/v/48261401</id>
-        <link href="https://tv.naver.com/v/48261401"/>
-        <updated>2024-03-13T10:17:13.962Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPECIAL STAGE] 브로맨스(VROMANCE) - 아직 헤어지지 못했어 l 240313]]></title>
-        <id>https://tv.naver.com/v/48261396</id>
-        <link href="https://tv.naver.com/v/48261396"/>
-        <updated>2024-03-13T10:17:13.964Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호라이즌(HORI7ON) - LUCKY l 240313]]></title>
-        <id>https://tv.naver.com/v/48261149</id>
-        <link href="https://tv.naver.com/v/48261149"/>
-        <updated>2024-03-13T10:17:13.965Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'NCT WISH' 나!왔어✋🏻 l 240313]]></title>
-        <id>https://tv.naver.com/v/48260918</id>
-        <link href="https://tv.naver.com/v/48260918"/>
-        <updated>2024-03-13T10:17:13.967Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HOT DEBUT] 노매드(NOMAD) - No pressure l 240313]]></title>
-        <id>https://tv.naver.com/v/48260915</id>
-        <link href="https://tv.naver.com/v/48260915"/>
-        <updated>2024-03-13T10:17:13.969Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
