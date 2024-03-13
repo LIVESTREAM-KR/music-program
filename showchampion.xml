@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-13T11:16:13.931Z</updated>
+    <updated>2024-03-13T12:29:29.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 3월 2주 챔피언송 ＜NCT WISH - WISH (Korean Ver.)＞ 앵콜 Full ver. l Show Champion l EP.509 l 240313]]></title>
+        <id>https://tv.naver.com/v/48267966</id>
+        <link href="https://tv.naver.com/v/48267966"/>
+        <updated>2024-03-13T12:29:17.871Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔싸인(n.SSign) - Happy & l 240313]]></title>
         <id>https://tv.naver.com/v/48264623</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48261752"/>
         <updated>2024-03-13T11:16:01.899Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - Happy B Day l 240313]]></title>
-        <id>https://tv.naver.com/v/48261548</id>
-        <link href="https://tv.naver.com/v/48261548"/>
-        <updated>2024-03-13T10:17:13.961Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>

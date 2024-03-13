@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-13T11:16:13.940Z</updated>
+    <updated>2024-03-13T12:29:29.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240308 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 3월 2주 챔피언송 ＜NCT WISH - WISH (Korean Ver.)＞ 앵콜 Full ver. l Show Champion l EP.509 l 240313 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/48267966</id>
+        <link href="https://tv.naver.com/v/48267966"/>
+        <updated>2024-03-13T12:29:17.871Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔싸인(n.SSign) - Happy & l 240313 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/48264623</id>
         <link href="https://tv.naver.com/v/48264623"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/48261752"/>
         <updated>2024-03-13T11:16:01.899Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - Happy B Day l 240313 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/48261548</id>
-        <link href="https://tv.naver.com/v/48261548"/>
-        <updated>2024-03-13T10:17:13.961Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[감전된 듯한 고음을 보여준 유태평양&김준수의 무대 (ft. 이석훈의 오디션 썰) | KBS 240309 방송 (불후의 명곡)]]></title>
@@ -495,6 +495,20 @@
         <content type="html"><![CDATA[04:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 🎤트로트계 입성한 만능 엔터테이너🔥 코미디언 이상민 하이라이트!, MBC 240310 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/48267960</id>
+        <link href="https://tv.naver.com/v/48267960"/>
+        <updated>2024-03-13T12:29:29.228Z</updated>
+        <content type="html"><![CDATA[09:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨다채로운 매력으로 신인상 휩쓴💐 위클리 박소은 하이라이트!, MBC 240310 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/48267114</id>
+        <link href="https://tv.naver.com/v/48267114"/>
+        <updated>2024-03-13T12:29:29.229Z</updated>
+        <content type="html"><![CDATA[08:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#복면가왕] 트로트계의 싸이🕺가 되고 싶은 개그맨 겸 가수 이상민🎤이 부르는 《오늘도 난》 , 《질풍가도》 | #이상민 MBC240310방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/48173798</id>
         <link href="https://tv.naver.com/v/48173798"/>
@@ -549,19 +563,5 @@
         <link href="https://tv.naver.com/v/48101109"/>
         <updated>2024-03-10T11:13:45.735Z</updated>
         <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인생은 인형극'의 정체는 위클리 박소은!, MBC 240310 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/48100826</id>
-        <link href="https://tv.naver.com/v/48100826"/>
-        <updated>2024-03-10T10:15:54.633Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 편의 뮤지컬 같은 무대😍 '인생은 인형극'X'현실은 서커스'의 위대한 쇼맨 합동 댄스🙊, MBC 240310 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/48100824</id>
-        <link href="https://tv.naver.com/v/48100824"/>
-        <updated>2024-03-10T10:15:54.634Z</updated>
-        <content type="html"><![CDATA[02:02]]></content>
     </entry>
 </feed>
