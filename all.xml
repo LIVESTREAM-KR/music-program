@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-13T06:21:10.195Z</updated>
+    <updated>2024-03-13T07:15:12.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240308 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] PLAVE.zip 📂 기다릴게부터 WAY 4 LUV까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48137515</id>
+        <link href="https://tv.naver.com/v/48137515"/>
+        <updated>2024-03-13T07:14:37.018Z</updated>
+        <content type="html"><![CDATA[14:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT WISH RIKU (엔시티 위시 리쿠) - Sail Away | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/48142914</id>
         <link href="https://tv.naver.com/v/48142914"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/48126729"/>
         <updated>2024-03-11T05:16:02.905Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT WISH YUSHI (엔시티 위시 유우시) - Sail Away 직캠 | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48126418</id>
-        <link href="https://tv.naver.com/v/48126418"/>
-        <updated>2024-03-11T05:16:02.906Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태용 - TAP | SBS 240310 방송 (인기가요)]]></title>
