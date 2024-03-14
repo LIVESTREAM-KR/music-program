@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-14T06:20:55.953Z</updated>
+    <updated>2024-03-14T07:18:09.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] White Day.zip 📂 Show! Music Core White Day Special Compilation]]></title>
+        <id>https://tv.naver.com/v/48189220</id>
+        <link href="https://tv.naver.com/v/48189220"/>
+        <updated>2024-03-14T07:17:38.974Z</updated>
+        <content type="html"><![CDATA[40:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] PLAVE.zip 📂 기다릴게부터 WAY 4 LUV까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/48137515</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48127039"/>
         <updated>2024-03-11T05:16:02.904Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] LE SSERAFIM HUHYUNJIN (르세라핌 허윤진) - Smart 직캠 | 쇼! 음악중심 | MBC240309방송]]></title>
-        <id>https://tv.naver.com/v/48126729</id>
-        <link href="https://tv.naver.com/v/48126729"/>
-        <updated>2024-03-11T05:16:02.905Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
