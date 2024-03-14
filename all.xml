@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-14T12:31:13.963Z</updated>
+    <updated>2024-03-14T13:18:51.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240308 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[VVUP(비비업) - Doo Doom Chit | Mnet 240314 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/48325984</id>
+        <link href="https://tv.naver.com/v/48325984"/>
+        <updated>2024-03-14T13:18:30.552Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN' (아이칠린) - ON MY LIPS | Mnet 240314 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/48325983</id>
+        <link href="https://tv.naver.com/v/48325983"/>
+        <updated>2024-03-14T13:18:30.552Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 황민현 - Lullaby | Mnet 240314 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/48322428</id>
         <link href="https://tv.naver.com/v/48322428"/>
@@ -269,20 +283,6 @@
         <link href="https://tv.naver.com/v/48320383"/>
         <updated>2024-03-14T11:13:50.023Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' TEMPEST(템페스트) - LIGHTHOUSE | Mnet 240314 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/48320102</id>
-        <link href="https://tv.naver.com/v/48320102"/>
-        <updated>2024-03-14T11:13:50.024Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' 황민현 (with 황도 ♥) | Mnet 240314 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/48320098</id>
-        <link href="https://tv.naver.com/v/48320098"/>
-        <updated>2024-03-14T11:13:50.026Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
