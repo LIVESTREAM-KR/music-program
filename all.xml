@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-15T06:21:36.140Z</updated>
+    <updated>2024-03-15T07:17:27.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240308 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] LE SSERAFIM (르세라핌) - EASY (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/48121181</id>
+        <link href="https://tv.naver.com/v/48121181"/>
+        <updated>2024-03-15T07:16:56.028Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] PLAVE Noah - (플레이브 노아) - WAY 4 LUV | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/48344204</id>
         <link href="https://tv.naver.com/v/48344204"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/48142914"/>
         <updated>2024-03-11T09:17:17.312Z</updated>
         <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT WISH YUSHI (엔시티 위시 유우시) – WISH | 쇼! 음악중심 | MBC240309방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/48142910</id>
-        <link href="https://tv.naver.com/v/48142910"/>
-        <updated>2024-03-11T09:17:17.312Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태용 - TAP | SBS 240310 방송 (인기가요)]]></title>
