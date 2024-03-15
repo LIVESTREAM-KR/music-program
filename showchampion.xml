@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-15T01:08:10.677Z</updated>
+    <updated>2024-03-15T02:22:53.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.509 | 240313]]></title>
+        <id>https://tv.naver.com/v/48314849</id>
+        <link href="https://tv.naver.com/v/48314849"/>
+        <updated>2024-03-15T02:22:41.922Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] X:IN - NO DOUBT (엑신 - 노 다웃) | Show Champion | EP.509 | 240313]]></title>
         <id>https://tv.naver.com/v/48296748</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/48265290</id>
         <link href="https://tv.naver.com/v/48265290"/>
         <updated>2024-03-13T13:17:53.462Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] WOOSEOK - Navy Blue (우석 - 네이비 블루) | Show Champion | EP.509 | 240313]]></title>
-        <id>https://tv.naver.com/v/48265289</id>
-        <link href="https://tv.naver.com/v/48265289"/>
-        <updated>2024-03-13T13:17:53.463Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
