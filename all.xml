@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-15T08:21:10.020Z</updated>
+    <updated>2024-03-15T09:16:18.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[LIGHTHOUSE - TEMPEST(템페스트) | KBS 240315 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48372448</id>
+        <link href="https://tv.naver.com/v/48372448"/>
+        <updated>2024-03-15T09:15:38.688Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ON MY LIPS - ICHILLIN’ (아이칠린) | KBS 240315 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48372122</id>
+        <link href="https://tv.naver.com/v/48372122"/>
+        <updated>2024-03-15T09:15:38.689Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Don’t Stop - xikers(싸이커스) | KBS 240315 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48372094</id>
+        <link href="https://tv.naver.com/v/48372094"/>
+        <updated>2024-03-15T09:15:38.690Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PASTEL - LUN8(루네이트) | KBS 240315 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48371484</id>
+        <link href="https://tv.naver.com/v/48371484"/>
+        <updated>2024-03-15T09:15:38.694Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California love - NOMAD | KBS 240315 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48371045</id>
+        <link href="https://tv.naver.com/v/48371045"/>
+        <updated>2024-03-15T09:15:38.696Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where We Go - AIMERS | KBS 240315 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48371038</id>
+        <link href="https://tv.naver.com/v/48371038"/>
+        <updated>2024-03-15T09:15:38.699Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doo Doom Chit - VVUP | KBS 240315 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48370355</id>
+        <link href="https://tv.naver.com/v/48370355"/>
+        <updated>2024-03-15T09:15:38.701Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우야노 - 김희재 | KBS 240315 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/48370281</id>
+        <link href="https://tv.naver.com/v/48370281"/>
+        <updated>2024-03-15T09:15:38.702Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 240308 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/48044760</id>
@@ -17,62 +73,6 @@
         <link href="https://tv.naver.com/v/48044521"/>
         <updated>2024-03-08T10:19:32.402Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Sun - xikers(싸이커스) | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48044518</id>
-        <link href="https://tv.naver.com/v/48044518"/>
-        <updated>2024-03-08T10:19:32.403Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart - LE SSERAFIM | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48044302</id>
-        <link href="https://tv.naver.com/v/48044302"/>
-        <updated>2024-03-08T10:19:32.404Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Girl - 에이스 (A.C.E) | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48044243</id>
-        <link href="https://tv.naver.com/v/48044243"/>
-        <updated>2024-03-08T10:19:32.407Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha (Korean Ver.) - BOY STORY | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48043480</id>
-        <link href="https://tv.naver.com/v/48043480"/>
-        <updated>2024-03-08T10:19:32.408Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diamond - 트라이비(TRI.BE) | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48043095</id>
-        <link href="https://tv.naver.com/v/48043095"/>
-        <updated>2024-03-08T10:19:32.410Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WISH (Korean ver.) - NCT WISH | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48043088</id>
-        <link href="https://tv.naver.com/v/48043088"/>
-        <updated>2024-03-08T10:19:32.411Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sail Away (Korean ver.) - NCT WISH | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48042793</id>
-        <link href="https://tv.naver.com/v/48042793"/>
-        <updated>2024-03-08T10:19:32.412Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ON MY LIPS - ICHILLIN’ (아이칠린) | KBS 240308 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/48042553</id>
-        <link href="https://tv.naver.com/v/48042553"/>
-        <updated>2024-03-08T09:15:18.555Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] LE SSERAFIM (르세라핌) - EASY (쇼! 음악중심)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[밴드의 시대가 도래했다. 🎸 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/48363904</id>
+        <link href="https://tv.naver.com/v/48363904"/>
+        <updated>2024-03-15T09:16:06.977Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.509 | 240313 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/48314849</id>
         <link href="https://tv.naver.com/v/48314849"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/48286941"/>
         <updated>2024-03-14T08:19:54.188Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] WOOSEOK - Navy Blue (우석 - 네이비 블루) | Show Champion | EP.509 | 240313 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/48265290</id>
-        <link href="https://tv.naver.com/v/48265290"/>
-        <updated>2024-03-13T13:17:53.462Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[감전된 듯한 고음을 보여준 유태평양&김준수의 무대 (ft. 이석훈의 오디션 썰) | KBS 240309 방송 (불후의 명곡)]]></title>

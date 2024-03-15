@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-15T08:21:10.004Z</updated>
+    <updated>2024-03-15T09:16:18.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밴드의 시대가 도래했다. 🎸]]></title>
+        <id>https://tv.naver.com/v/48363904</id>
+        <link href="https://tv.naver.com/v/48363904"/>
+        <updated>2024-03-15T09:16:06.977Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.509 | 240313]]></title>
         <id>https://tv.naver.com/v/48314849</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48286941"/>
         <updated>2024-03-14T08:19:54.188Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] WOOSEOK - Navy Blue (우석 - 네이비 블루) | Show Champion | EP.509 | 240313]]></title>
-        <id>https://tv.naver.com/v/48265290</id>
-        <link href="https://tv.naver.com/v/48265290"/>
-        <updated>2024-03-13T13:17:53.462Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
