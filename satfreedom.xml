@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-03-16T11:12:32.964Z</updated>
+    <updated>2024-03-16T12:30:19.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[숨이 멎을 듯한 짙은 감동💓 가슴속에 각인될 한혜진&신유의 피날레 무대 | KBS 240316 방송]]></title>
+        <id>https://tv.naver.com/v/48409275</id>
+        <link href="https://tv.naver.com/v/48409275"/>
+        <updated>2024-03-16T12:30:13.787Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※결과 확인※ 조항조&김범룡 vs 한혜진&신유! 명곡판정단의 마지막 선택은? | KBS 240316 방송]]></title>
+        <id>https://tv.naver.com/v/48409269</id>
+        <link href="https://tv.naver.com/v/48409269"/>
+        <updated>2024-03-16T12:30:13.793Z</updated>
+        <content type="html"><![CDATA[01:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] 🔥트로트 절친 최강 대전 2부🔥 어디서도 볼 수 없는 절친들의 대결💟 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/48409174</id>
+        <link href="https://tv.naver.com/v/48409174"/>
+        <updated>2024-03-16T12:30:13.793Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명불허전! 조항조&김범룡의 반칙 조합🤘 듀엣 결성 계기는?✨️ | KBS 240316 방송]]></title>
+        <id>https://tv.naver.com/v/48409161</id>
+        <link href="https://tv.naver.com/v/48409161"/>
+        <updated>2024-03-16T12:30:13.793Z</updated>
+        <content type="html"><![CDATA[04:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한혜진x신유 - 가시나무새 | KBS 240316 방송]]></title>
         <id>https://tv.naver.com/v/48409127</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/48408402"/>
         <updated>2024-03-16T11:12:27.399Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불후 최고의 개인기는?🎸🤣 (ft. 에녹, 박현호&김중연, 황민우, 김수찬) | KBS 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48408377</id>
-        <link href="https://tv.naver.com/v/48408377"/>
-        <updated>2024-03-16T11:12:27.401Z</updated>
-        <content type="html"><![CDATA[04:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[듀엣의 여운! 과거와👧 미래의 모습을 보여준 김용임&김태연의 무대 | KBS 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48408229</id>
-        <link href="https://tv.naver.com/v/48408229"/>
-        <updated>2024-03-16T11:12:27.402Z</updated>
-        <content type="html"><![CDATA[01:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김용임x김태연 - 추억의 소야곡 | KBS 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48408225</id>
-        <link href="https://tv.naver.com/v/48408225"/>
-        <updated>2024-03-16T11:12:27.403Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세대를 뛰어넘은 신동 절친! 김용임&김태연의 선곡은 과연💟 | KBS 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48408008</id>
-        <link href="https://tv.naver.com/v/48408008"/>
-        <updated>2024-03-16T11:12:27.405Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
