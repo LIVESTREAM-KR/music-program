@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-17T06:19:38.011Z</updated>
+    <updated>2024-03-17T07:13:54.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 2020 KPOP Reminder.zip 📂 Show! Music Core 2020 KPOP HIT SONG Special Compilation]]></title>
+        <id>https://tv.naver.com/v/48146618</id>
+        <link href="https://tv.naver.com/v/48146618"/>
+        <updated>2024-03-17T07:13:23.757Z</updated>
+        <content type="html"><![CDATA[01:06:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] KIM HEEJAE (김희재) – 우야노 직캠 (Horizontal Ver.) | 쇼! 음악중심 | MBC240316방송]]></title>
         <id>https://tv.naver.com/v/48406107</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/48405495</id>
         <link href="https://tv.naver.com/v/48405495"/>
         <updated>2024-03-16T09:14:40.855Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] HIGHLIGHT (하이라이트) – BODY 직캠 | 쇼! 음악중심 | MBC240316방송]]></title>
-        <id>https://tv.naver.com/v/48405370</id>
-        <link href="https://tv.naver.com/v/48405370"/>
-        <updated>2024-03-16T09:14:40.859Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
     </entry>
 </feed>
