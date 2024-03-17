@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-03-17T10:15:49.417Z</updated>
+    <updated>2024-03-17T11:14:30.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['모발이 빼곡빼곡'의 정체는 가수 지세희!, MBC 240317 방송]]></title>
+        <id>https://tv.naver.com/v/48435283</id>
+        <link href="https://tv.naver.com/v/48435283"/>
+        <updated>2024-03-17T11:14:29.566Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['희로애락도 락이다'의 가왕 방어전 무대 - 베르사이유의 장미, MBC 240317 방송]]></title>
+        <id>https://tv.naver.com/v/48434836</id>
+        <link href="https://tv.naver.com/v/48434836"/>
+        <updated>2024-03-17T11:14:29.568Z</updated>
+        <content type="html"><![CDATA[04:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현실은 서커스'의 정체는 가수 황우림!, MBC 240317 방송]]></title>
+        <id>https://tv.naver.com/v/48434556</id>
+        <link href="https://tv.naver.com/v/48434556"/>
+        <updated>2024-03-17T11:14:29.569Z</updated>
+        <content type="html"><![CDATA[02:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['모발이 빼곡빼곡' 3라운드 무대 - 스물다섯, 스물하나, MBC 240317 방송]]></title>
+        <id>https://tv.naver.com/v/48434432</id>
+        <link href="https://tv.naver.com/v/48434432"/>
+        <updated>2024-03-17T11:14:29.571Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['현실은 서커스' 3라운드 무대 - 열애중, MBC 240317 방송]]></title>
+        <id>https://tv.naver.com/v/48434304</id>
+        <link href="https://tv.naver.com/v/48434304"/>
+        <updated>2024-03-17T11:14:29.573Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['영양 만점 찬합 도시락'의 정체는 윈디시티 김반장!, MBC 240317 방송]]></title>
         <id>https://tv.naver.com/v/48433986</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/48433218"/>
         <updated>2024-03-17T10:15:48.794Z</updated>
         <content type="html"><![CDATA[01:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['만년 과장'의 정체는 코미디언 이상호!, MBC 240317 방송]]></title>
-        <id>https://tv.naver.com/v/48432911</id>
-        <link href="https://tv.naver.com/v/48432911"/>
-        <updated>2024-03-17T10:15:48.796Z</updated>
-        <content type="html"><![CDATA[01:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['현실은 서커스' 2라운드 무대 - 사랑이 아니라 말하지 말아요, MBC 240317 방송]]></title>
-        <id>https://tv.naver.com/v/48432725</id>
-        <link href="https://tv.naver.com/v/48432725"/>
-        <updated>2024-03-17T10:15:48.797Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['만년 과장' 2라운드 무대 - 마지막 승부, MBC 240317 방송]]></title>
-        <id>https://tv.naver.com/v/48432548</id>
-        <link href="https://tv.naver.com/v/48432548"/>
-        <updated>2024-03-17T10:15:48.799Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 🎤트로트계 입성한 만능 엔터테이너🔥 코미디언 이상민 하이라이트!, MBC 240310 방송]]></title>
-        <id>https://tv.naver.com/v/48267960</id>
-        <link href="https://tv.naver.com/v/48267960"/>
-        <updated>2024-03-13T12:29:29.228Z</updated>
-        <content type="html"><![CDATA[09:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 ✨다채로운 매력으로 신인상 휩쓴💐 위클리 박소은 하이라이트!, MBC 240310 방송]]></title>
-        <id>https://tv.naver.com/v/48267114</id>
-        <link href="https://tv.naver.com/v/48267114"/>
-        <updated>2024-03-13T12:29:29.229Z</updated>
-        <content type="html"><![CDATA[08:41]]></content>
     </entry>
 </feed>
