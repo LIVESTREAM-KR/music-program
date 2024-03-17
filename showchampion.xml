@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-17T08:18:55.809Z</updated>
+    <updated>2024-03-17T09:15:03.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유우시 엔딩 직관, 위시리스트 하나 완료🫶]]></title>
+        <id>https://tv.naver.com/v/48371476</id>
+        <link href="https://tv.naver.com/v/48371476"/>
+        <updated>2024-03-17T09:14:53.512Z</updated>
+        <content type="html"><![CDATA[00:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6명의 큐피드 💘]]></title>
         <id>https://tv.naver.com/v/48371362</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48288215"/>
         <updated>2024-03-14T08:19:54.184Z</updated>
         <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HORI7ON KYLER - LUCKY (호라이즌 카일러 - 럭키) | Show Champion | EP.509 | 240313]]></title>
-        <id>https://tv.naver.com/v/48296421</id>
-        <link href="https://tv.naver.com/v/48296421"/>
-        <updated>2024-03-14T08:19:54.185Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
