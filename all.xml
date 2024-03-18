@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-18T08:20:14.438Z</updated>
+    <updated>2024-03-18T09:17:49.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BODY - 하이라이트 | KBS 240315 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 소원? WISH만 믿어👼 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/48477173</id>
+        <link href="https://tv.naver.com/v/48477173"/>
+        <updated>2024-03-18T09:17:39.074Z</updated>
+        <content type="html"><![CDATA[01:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유우시 엔딩 직관, 위시리스트 하나 완료🫶 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/48371476</id>
         <link href="https://tv.naver.com/v/48371476"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/48288815"/>
         <updated>2024-03-14T08:19:54.183Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ICHILLIN' - ON MY LIPS (아이칠린 - 온 마이 립스) | Show Champion | EP.509 | 240313 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/48288215</id>
-        <link href="https://tv.naver.com/v/48288215"/>
-        <updated>2024-03-14T08:19:54.184Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[숨이 멎을 듯한 짙은 감동💓 가슴속에 각인될 한혜진&신유의 피날레 무대 | KBS 240316 방송 (불후의 명곡)]]></title>

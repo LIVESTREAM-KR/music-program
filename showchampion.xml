@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-18T08:20:14.427Z</updated>
+    <updated>2024-03-18T09:17:49.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 소원? WISH만 믿어👼]]></title>
+        <id>https://tv.naver.com/v/48477173</id>
+        <link href="https://tv.naver.com/v/48477173"/>
+        <updated>2024-03-18T09:17:39.074Z</updated>
+        <content type="html"><![CDATA[01:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유우시 엔딩 직관, 위시리스트 하나 완료🫶]]></title>
         <id>https://tv.naver.com/v/48371476</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48288815"/>
         <updated>2024-03-14T08:19:54.183Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ICHILLIN' - ON MY LIPS (아이칠린 - 온 마이 립스) | Show Champion | EP.509 | 240313]]></title>
-        <id>https://tv.naver.com/v/48288215</id>
-        <link href="https://tv.naver.com/v/48288215"/>
-        <updated>2024-03-14T08:19:54.184Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
     </entry>
 </feed>
