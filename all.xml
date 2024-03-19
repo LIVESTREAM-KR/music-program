@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-19T10:17:19.924Z</updated>
+    <updated>2024-03-19T11:14:37.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BODY - 하이라이트 | KBS 240315 방송 (뮤직뱅크)]]></title>
@@ -285,6 +285,48 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48544966</id>
+        <link href="https://tv.naver.com/v/48544966"/>
+        <updated>2024-03-19T11:14:22.718Z</updated>
+        <content type="html"><![CDATA[05:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이라이트 - Switch on [THE SHOW 240319] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48544730</id>
+        <link href="https://tv.naver.com/v/48544730"/>
+        <updated>2024-03-19T11:14:22.718Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이라이트 - Body [THE SHOW 240319] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48544478</id>
+        <link href="https://tv.naver.com/v/48544478"/>
+        <updated>2024-03-19T11:14:22.718Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유아(YooA) - Rooftop [THE SHOW 240319] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48544468</id>
+        <link href="https://tv.naver.com/v/48544468"/>
+        <updated>2024-03-19T11:14:22.721Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST(템페스트) - LIGHTHOUSE [THE SHOW 240319] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48544466</id>
+        <link href="https://tv.naver.com/v/48544466"/>
+        <updated>2024-03-19T11:14:22.722Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - Love or Die [THE SHOW 240319] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/48544170</id>
+        <link href="https://tv.naver.com/v/48544170"/>
+        <updated>2024-03-19T11:14:22.724Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BAE173 - Fifty-Fifty [THE SHOW 240319] (더쇼)]]></title>
         <id>https://tv.naver.com/v/48543337</id>
         <link href="https://tv.naver.com/v/48543337"/>
@@ -310,48 +352,6 @@
         <id>https://tv.naver.com/v/48543091</id>
         <link href="https://tv.naver.com/v/48543091"/>
         <updated>2024-03-19T10:17:02.390Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - PASTEL [THE SHOW 240319] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48543088</id>
-        <link href="https://tv.naver.com/v/48543088"/>
-        <updated>2024-03-19T10:17:02.391Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - ON MY LIPS [THE SHOW 240319] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48542316</id>
-        <link href="https://tv.naver.com/v/48542316"/>
-        <updated>2024-03-19T10:17:02.395Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권의빈 - 조금만 더 [THE SHOW 240319] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48542116</id>
-        <link href="https://tv.naver.com/v/48542116"/>
-        <updated>2024-03-19T10:17:02.395Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VVUP(비비업) - Doo Doom Chit [THE SHOW 240319] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48542115</id>
-        <link href="https://tv.naver.com/v/48542115"/>
-        <updated>2024-03-19T10:17:02.396Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XODIAC - HEYDAY [THE SHOW 240319] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48542111</id>
-        <link href="https://tv.naver.com/v/48542111"/>
-        <updated>2024-03-19T10:17:02.398Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIMERS - Where We Go [THE SHOW 240319] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/48541370</id>
-        <link href="https://tv.naver.com/v/48541370"/>
-        <updated>2024-03-19T10:17:02.399Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
