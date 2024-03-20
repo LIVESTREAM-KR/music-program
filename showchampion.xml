@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-20T10:16:55.908Z</updated>
+    <updated>2024-03-20T11:15:18.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 하이라이트(HIGHLIGHT) - BODY l 240320]]></title>
+        <id>https://tv.naver.com/v/48605902</id>
+        <link href="https://tv.naver.com/v/48605902"/>
+        <updated>2024-03-20T11:15:08.205Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트(HIGHLIGHT) - Switch On l 240320]]></title>
         <id>https://tv.naver.com/v/48605689</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48603898"/>
         <updated>2024-03-20T10:16:46.231Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이스토리(BOY STORY) - Alpha (Korean Ver.) l 240320]]></title>
-        <id>https://tv.naver.com/v/48603895</id>
-        <link href="https://tv.naver.com/v/48603895"/>
-        <updated>2024-03-20T10:16:46.233Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
