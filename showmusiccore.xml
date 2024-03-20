@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-20T07:16:44.356Z</updated>
+    <updated>2024-03-20T08:20:43.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] CHUNG HA.zip 📂 Why Don't You Know부터 EENIE MEENIE까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/48475270</id>
+        <link href="https://tv.naver.com/v/48475270"/>
+        <updated>2024-03-20T08:20:12.024Z</updated>
+        <content type="html"><![CDATA[34:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 3월 셋째 주 음악중심 MC 컷 모음!, MBC 240316 방송]]></title>
         <id>https://tv.naver.com/v/48464032</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48405700"/>
         <updated>2024-03-16T09:14:40.850Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CHUNGHA (청하) – EENIE MEENIE 직캠 (Horizontal Ver.) | 쇼! 음악중심 | MBC240316방송]]></title>
-        <id>https://tv.naver.com/v/48405498</id>
-        <link href="https://tv.naver.com/v/48405498"/>
-        <updated>2024-03-16T09:14:40.852Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
 </feed>
