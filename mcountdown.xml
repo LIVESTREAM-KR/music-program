@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-03-21T09:16:10.026Z</updated>
+    <updated>2024-03-21T10:16:59.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT WISH - WISH (Korean Ver.) | Mnet 240321 방송]]></title>
+        <id>https://tv.naver.com/v/48661855</id>
+        <link href="https://tv.naver.com/v/48661855"/>
+        <updated>2024-03-21T10:16:32.939Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['차차차' ★엠카배 팀 대항전★ 볼과 볼 사이 물건 맞히기! | Mnet 240321 방송]]></title>
+        <id>https://tv.naver.com/v/48661515</id>
+        <link href="https://tv.naver.com/v/48661515"/>
+        <updated>2024-03-21T10:16:32.940Z</updated>
+        <content type="html"><![CDATA[05:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - FUNK JAM | Mnet 240321 방송]]></title>
+        <id>https://tv.naver.com/v/48661207</id>
+        <link href="https://tv.naver.com/v/48661207"/>
+        <updated>2024-03-21T10:16:32.940Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' YOUNG POSSE(영파씨) - XXL | Mnet 240321 방송]]></title>
+        <id>https://tv.naver.com/v/48661023</id>
+        <link href="https://tv.naver.com/v/48661023"/>
+        <updated>2024-03-21T10:16:32.942Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with DAY6 (데이식스) | Mnet 240321 방송]]></title>
+        <id>https://tv.naver.com/v/48660731</id>
+        <link href="https://tv.naver.com/v/48660731"/>
+        <updated>2024-03-21T10:16:32.944Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - SUPER POWER | Mnet 240321 방송]]></title>
+        <id>https://tv.naver.com/v/48660494</id>
+        <link href="https://tv.naver.com/v/48660494"/>
+        <updated>2024-03-21T10:16:32.947Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VVUP(비비업) - Doo Doom Chit | Mnet 240321 방송]]></title>
+        <id>https://tv.naver.com/v/48660058</id>
+        <link href="https://tv.naver.com/v/48660058"/>
+        <updated>2024-03-21T10:16:32.948Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xikesr(싸이커스)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/48548223</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/48325983"/>
         <updated>2024-03-14T13:18:30.552Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 황민현 - Lullaby | Mnet 240314 방송]]></title>
-        <id>https://tv.naver.com/v/48322428</id>
-        <link href="https://tv.naver.com/v/48322428"/>
-        <updated>2024-03-14T12:30:53.923Z</updated>
-        <content type="html"><![CDATA[05:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 하이라이트 - BODY | Mnet 240314 방송]]></title>
-        <id>https://tv.naver.com/v/48321414</id>
-        <link href="https://tv.naver.com/v/48321414"/>
-        <updated>2024-03-14T12:30:53.923Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 하이라이트 - Switch On | Mnet 240314 방송]]></title>
-        <id>https://tv.naver.com/v/48321412</id>
-        <link href="https://tv.naver.com/v/48321412"/>
-        <updated>2024-03-14T12:30:53.925Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 웬디 - Wish You Hell | Mnet 240314 방송]]></title>
-        <id>https://tv.naver.com/v/48321201</id>
-        <link href="https://tv.naver.com/v/48321201"/>
-        <updated>2024-03-14T11:13:50.017Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 하이라이트 (HIGHLIGHT) | Mnet 240314 방송]]></title>
-        <id>https://tv.naver.com/v/48320880</id>
-        <link href="https://tv.naver.com/v/48320880"/>
-        <updated>2024-03-14T11:13:50.017Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 유아 (YooA) - Rooftop | Mnet 240314 방송]]></title>
-        <id>https://tv.naver.com/v/48320591</id>
-        <link href="https://tv.naver.com/v/48320591"/>
-        <updated>2024-03-14T11:13:50.018Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Love or Die | Mnet 240314 방송]]></title>
-        <id>https://tv.naver.com/v/48320587</id>
-        <link href="https://tv.naver.com/v/48320587"/>
-        <updated>2024-03-14T11:13:50.022Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
     </entry>
 </feed>
