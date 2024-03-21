@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-21T08:19:57.146Z</updated>
+    <updated>2024-03-21T09:16:10.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC ZAYYAN - HEYDAY (소디엑 자얀 - 헤이데이) | Show Champion | EP.510 | 240320]]></title>
+        <id>https://tv.naver.com/v/48648291</id>
+        <link href="https://tv.naver.com/v/48648291"/>
+        <updated>2024-03-21T09:15:58.025Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] HIGHLIGHT LEE GIKWANG - Switch On (하이라이트 이기광 - 스위치 온) | Show Champion | EP.510 | 240320]]></title>
         <id>https://tv.naver.com/v/48651156</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48631454"/>
         <updated>2024-03-21T08:19:46.260Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ICHILLIN' EJI - ON MY LIPS (아이칠린 이지 - 온 마이 립스) | Show Champion | EP.510 | 240320]]></title>
-        <id>https://tv.naver.com/v/48648554</id>
-        <link href="https://tv.naver.com/v/48648554"/>
-        <updated>2024-03-21T08:19:46.262Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
