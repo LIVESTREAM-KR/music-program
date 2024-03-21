@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-21T06:21:21.790Z</updated>
+    <updated>2024-03-21T07:15:40.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Wolf.zip 📂 Show! Music Core Wolf Special Compilation]]></title>
+        <id>https://tv.naver.com/v/48364292</id>
+        <link href="https://tv.naver.com/v/48364292"/>
+        <updated>2024-03-21T07:15:05.966Z</updated>
+        <content type="html"><![CDATA[37:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] CHUNG HA.zip 📂 Why Don't You Know부터 EENIE MEENIE까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/48475270</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48405830"/>
         <updated>2024-03-16T09:14:40.849Z</updated>
         <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT WISH (엔시티 위시) – WISH 직캠 | 쇼! 음악중심 | MBC240316방송]]></title>
-        <id>https://tv.naver.com/v/48405700</id>
-        <link href="https://tv.naver.com/v/48405700"/>
-        <updated>2024-03-16T09:14:40.850Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
