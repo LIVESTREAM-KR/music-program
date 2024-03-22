@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-22T08:20:44.890Z</updated>
+    <updated>2024-03-22T09:19:21.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐릭캐릭체인지 세라가 생각나는 유아..🖤]]></title>
+        <id>https://tv.naver.com/v/48712820</id>
+        <link href="https://tv.naver.com/v/48712820"/>
+        <updated>2024-03-22T09:19:09.638Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 3주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.510 | 240320]]></title>
         <id>https://tv.naver.com/v/48643980</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48631851"/>
         <updated>2024-03-21T08:19:46.257Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST HANBIN - There (템페스트 한빈 - 데어) | Show Champion | EP.510 | 240320]]></title>
-        <id>https://tv.naver.com/v/48646928</id>
-        <link href="https://tv.naver.com/v/48646928"/>
-        <updated>2024-03-21T08:19:46.258Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
