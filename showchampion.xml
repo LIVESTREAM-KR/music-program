@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-22T01:08:12.080Z</updated>
+    <updated>2024-03-22T02:22:04.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 3주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.510 | 240320]]></title>
+        <id>https://tv.naver.com/v/48643980</id>
+        <link href="https://tv.naver.com/v/48643980"/>
+        <updated>2024-03-22T02:21:54.611Z</updated>
+        <content type="html"><![CDATA[04:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC ZAYYAN - HEYDAY (소디엑 자얀 - 헤이데이) | Show Champion | EP.510 | 240320]]></title>
         <id>https://tv.naver.com/v/48648291</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/48646928</id>
         <link href="https://tv.naver.com/v/48646928"/>
         <updated>2024-03-21T08:19:46.258Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TEMPEST - There (템페스트 - 데어) | Show Champion | EP.510 | 240320]]></title>
-        <id>https://tv.naver.com/v/48631454</id>
-        <link href="https://tv.naver.com/v/48631454"/>
-        <updated>2024-03-21T08:19:46.260Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
