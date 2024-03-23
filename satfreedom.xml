@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-03-22T23:16:04.123Z</updated>
+    <updated>2024-03-23T01:06:34.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -10,13 +10,6 @@
         <id>https://tv.naver.com/v/48724809</id>
         <link href="https://tv.naver.com/v/48724809"/>
         <updated>2024-03-22T12:29:09.613Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] ✨태주와 민호가 준비한 특별한 무대 & 김의영의 노래방 Time🎵✨ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/48722395</id>
-        <link href="https://tv.naver.com/v/48722395"/>
-        <updated>2024-03-22T11:13:59.595Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
     </entry>
     <entry>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/48408405"/>
         <updated>2024-03-16T11:12:27.397Z</updated>
         <content type="html"><![CDATA[02:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박현호x김중연 - 네가 왜 거기서 나와 | KBS 240316 방송]]></title>
+        <id>https://tv.naver.com/v/48408403</id>
+        <link href="https://tv.naver.com/v/48408403"/>
+        <updated>2024-03-23T01:06:28.989Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
