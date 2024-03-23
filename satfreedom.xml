@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-03-23T09:15:51.467Z</updated>
+    <updated>2024-03-23T10:16:39.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나태주x김수찬 - Touch My Body + Ma Boy | KBS 240323 방송]]></title>
+        <id>https://tv.naver.com/v/48758095</id>
+        <link href="https://tv.naver.com/v/48758095"/>
+        <updated>2024-03-23T10:16:33.363Z</updated>
+        <content type="html"><![CDATA[05:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제대로 보여준 고관절 댄스💞 눈과 귀를 즐겁게 했던 나태주&김수찬의 무대 | KBS 240323 방송]]></title>
+        <id>https://tv.naver.com/v/48758089</id>
+        <link href="https://tv.naver.com/v/48758089"/>
+        <updated>2024-03-23T10:16:33.364Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼포먼스 장인 나태주&김수찬! 파격적 선곡? 고관절 퍼포먼스 예열 중❤‍🔥 | KBS 240323 방송]]></title>
+        <id>https://tv.naver.com/v/48757829</id>
+        <link href="https://tv.naver.com/v/48757829"/>
+        <updated>2024-03-23T10:16:33.365Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트로트계 핫 스타 남신즈 손태진&신성&에녹✨️ 영혼까지 갈아 넣을 무대🔥 | KBS 240323 방송]]></title>
+        <id>https://tv.naver.com/v/48757538</id>
+        <link href="https://tv.naver.com/v/48757538"/>
+        <updated>2024-03-23T10:16:33.369Z</updated>
+        <content type="html"><![CDATA[01:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1부 우승자 한혜진&신유💐 구절친들의(?) 심술🤣 | KBS 240323 방송]]></title>
+        <id>https://tv.naver.com/v/48757535</id>
+        <link href="https://tv.naver.com/v/48757535"/>
+        <updated>2024-03-23T10:16:33.371Z</updated>
+        <content type="html"><![CDATA[02:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] ✨태주와 민호가 준비한 특별한 무대 & 김의영의 노래방 Time🎵✨ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/48724809</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/48409161"/>
         <updated>2024-03-16T12:30:13.793Z</updated>
         <content type="html"><![CDATA[04:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한혜진x신유 - 가시나무새 | KBS 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48409127</id>
-        <link href="https://tv.naver.com/v/48409127"/>
-        <updated>2024-03-16T11:12:27.393Z</updated>
-        <content type="html"><![CDATA[05:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조항조x김범룡 - 내 마음 당신 곁으로 | KBS 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48409013</id>
-        <link href="https://tv.naver.com/v/48409013"/>
-        <updated>2024-03-16T11:12:27.395Z</updated>
-        <content type="html"><![CDATA[05:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불꽃은 안 꺼졌다🔥 모두를 긴장하게 만드는 조항조&김범룡의 선전포고! | KBS 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48408731</id>
-        <link href="https://tv.naver.com/v/48408731"/>
-        <updated>2024-03-16T11:12:27.395Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것이 트로트계 젊은 피🎇 준비한 만큼 폭죽처럼 반짝였던 박현호&김중연의 무대 | KBS 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48408405</id>
-        <link href="https://tv.naver.com/v/48408405"/>
-        <updated>2024-03-16T11:12:27.397Z</updated>
-        <content type="html"><![CDATA[02:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박현호x김중연 - 네가 왜 거기서 나와 | KBS 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48408403</id>
-        <link href="https://tv.naver.com/v/48408403"/>
-        <updated>2024-03-23T01:06:28.989Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
