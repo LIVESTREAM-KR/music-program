@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-23T08:18:42.842Z</updated>
+    <updated>2024-03-23T09:15:51.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[흔들리는 건 바디가 아닌 라이트 심장💓]]></title>
+        <id>https://tv.naver.com/v/48714240</id>
+        <link href="https://tv.naver.com/v/48714240"/>
+        <updated>2024-03-23T09:15:39.792Z</updated>
+        <content type="html"><![CDATA[00:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[캐릭캐릭체인지 세라가 생각나는 유아..🖤]]></title>
         <id>https://tv.naver.com/v/48712820</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48633263"/>
         <updated>2024-03-21T08:19:46.255Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] SEVENUS - Want you back (세븐어스 - 원트 유 백) | Show Champion | EP.510 | 240320]]></title>
-        <id>https://tv.naver.com/v/48631851</id>
-        <link href="https://tv.naver.com/v/48631851"/>
-        <updated>2024-03-21T08:19:46.257Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
