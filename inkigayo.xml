@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-03-24T06:21:14.638Z</updated>
+    <updated>2024-03-24T07:14:39.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE NEW SIX - FUEGO | SBS 240324 방송]]></title>
+        <id>https://tv.naver.com/v/48783445</id>
+        <link href="https://tv.naver.com/v/48783445"/>
+        <updated>2024-03-24T07:14:13.374Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT WISH - WISH (Korean ver.) | SBS 240324 방송]]></title>
+        <id>https://tv.naver.com/v/48783444</id>
+        <link href="https://tv.naver.com/v/48783444"/>
+        <updated>2024-03-24T07:14:13.375Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - SUPER POWER | SBS 240324 방송]]></title>
+        <id>https://tv.naver.com/v/48783314</id>
+        <link href="https://tv.naver.com/v/48783314"/>
+        <updated>2024-03-24T07:14:13.384Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - FUNK JAM | SBS 240324 방송]]></title>
+        <id>https://tv.naver.com/v/48783157</id>
+        <link href="https://tv.naver.com/v/48783157"/>
+        <updated>2024-03-24T07:14:13.385Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영파씨(YOUNG POSSE) - XXL | SBS 240324 방송]]></title>
+        <id>https://tv.naver.com/v/48782986</id>
+        <link href="https://tv.naver.com/v/48782986"/>
+        <updated>2024-03-24T07:14:13.385Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VVUP(비비업) - Doo Doom Chit | SBS 240324 방송]]></title>
+        <id>https://tv.naver.com/v/48782829</id>
+        <link href="https://tv.naver.com/v/48782829"/>
+        <updated>2024-03-24T07:14:13.385Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트 - BODY | SBS 240317 방송]]></title>
         <id>https://tv.naver.com/v/48429803</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/48429486"/>
         <updated>2024-03-17T08:18:29.647Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Love or Die | SBS 240317 방송]]></title>
-        <id>https://tv.naver.com/v/48429318</id>
-        <link href="https://tv.naver.com/v/48429318"/>
-        <updated>2024-03-17T08:18:29.648Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하(CHUNG HA) - EENIE MEENIE (feat. 홍중(ATEEZ)) | SBS 240317 방송]]></title>
-        <id>https://tv.naver.com/v/48429151</id>
-        <link href="https://tv.naver.com/v/48429151"/>
-        <updated>2024-03-17T08:18:29.649Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEMPEST(템페스트) - LIGHTHOUSE | SBS 240317 방송]]></title>
-        <id>https://tv.naver.com/v/48428998</id>
-        <link href="https://tv.naver.com/v/48428998"/>
-        <updated>2024-03-17T08:18:29.650Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - ON MY LIPS | SBS 240317 방송]]></title>
-        <id>https://tv.naver.com/v/48428817</id>
-        <link href="https://tv.naver.com/v/48428817"/>
-        <updated>2024-03-17T08:18:29.654Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - We Don’t Stop | SBS 240317 방송]]></title>
-        <id>https://tv.naver.com/v/48428458</id>
-        <link href="https://tv.naver.com/v/48428458"/>
-        <updated>2024-03-17T08:18:29.656Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - WISH (Korean ver.) | SBS 240317 방송]]></title>
-        <id>https://tv.naver.com/v/48428414</id>
-        <link href="https://tv.naver.com/v/48428414"/>
-        <updated>2024-03-17T08:18:29.657Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
