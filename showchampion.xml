@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-24T08:18:48.817Z</updated>
+    <updated>2024-03-24T09:17:11.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[군대에서 칭찬받을 법한 각📐이다..]]></title>
+        <id>https://tv.naver.com/v/48714397</id>
+        <link href="https://tv.naver.com/v/48714397"/>
+        <updated>2024-03-24T09:16:59.839Z</updated>
+        <content type="html"><![CDATA[00:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흔들리는 건 바디가 아닌 라이트 심장💓]]></title>
         <id>https://tv.naver.com/v/48714240</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/48650290</id>
         <link href="https://tv.naver.com/v/48650290"/>
         <updated>2024-03-21T08:19:46.254Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HIGHLIGHT - Switch On (하이라이트 - 스위치 온) | Show Champion | EP.510 | 240320]]></title>
-        <id>https://tv.naver.com/v/48633263</id>
-        <link href="https://tv.naver.com/v/48633263"/>
-        <updated>2024-03-21T08:19:46.255Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
