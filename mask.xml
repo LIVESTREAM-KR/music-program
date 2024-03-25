@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-03-25T08:21:43.304Z</updated>
+    <updated>2024-03-25T09:16:45.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 이 바보야 진짜 아니야..★ 가수 해도 손색없는 목소리 & 선곡 센스 가진 조진세😎의 《삭제》, 《응급실》 | #조진세 MBC240324방송]]></title>
+        <id>https://tv.naver.com/v/48837669</id>
+        <link href="https://tv.naver.com/v/48837669"/>
+        <updated>2024-03-25T09:16:44.739Z</updated>
+        <content type="html"><![CDATA[15:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜호락호락하지 않은 실력자들의 무대!😎 장기 가왕은 계속 탄탄대로를 이어갈 수 있을까?🎤＞ 복면가왕 445회 예고, MBC 240331 방송]]></title>
         <id>https://tv.naver.com/v/48791639</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48789875"/>
         <updated>2024-03-24T10:16:22.896Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['민들레'의 정체는 템페스트 혁!, MBC 240324 방송]]></title>
-        <id>https://tv.naver.com/v/48789307</id>
-        <link href="https://tv.naver.com/v/48789307"/>
-        <updated>2024-03-24T10:16:22.897Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>

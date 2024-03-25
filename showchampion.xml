@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-25T08:21:43.301Z</updated>
+    <updated>2024-03-25T09:16:45.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 꿈에서도 원했던 쇼챔행 항해 ⛵우리가 데려가 줄게]]></title>
+        <id>https://tv.naver.com/v/48830525</id>
+        <link href="https://tv.naver.com/v/48830525"/>
+        <updated>2024-03-25T09:16:33.446Z</updated>
+        <content type="html"><![CDATA[01:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14년차 짬빠 어디 안간다🖤]]></title>
+        <id>https://tv.naver.com/v/48832992</id>
+        <link href="https://tv.naver.com/v/48832992"/>
+        <updated>2024-03-25T09:16:33.447Z</updated>
+        <content type="html"><![CDATA[00:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군대에서 칭찬받을 법한 각📐이다..]]></title>
         <id>https://tv.naver.com/v/48714397</id>
@@ -59,20 +73,6 @@
         <id>https://tv.naver.com/v/48650782</id>
         <link href="https://tv.naver.com/v/48650782"/>
         <updated>2024-03-21T08:19:46.252Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HIGHLIGHT SON DONGWOON - Switch On (하이라이트 손동운 - 스위치 온) | Show Champion | EP.510 | 240320]]></title>
-        <id>https://tv.naver.com/v/48650515</id>
-        <link href="https://tv.naver.com/v/48650515"/>
-        <updated>2024-03-21T08:19:46.253Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] HIGHLIGHT YOON DUJUN - Switch On (하이라이트 윤두준 - 스위치 온) | Show Champion | EP.510 | 240320]]></title>
-        <id>https://tv.naver.com/v/48650290</id>
-        <link href="https://tv.naver.com/v/48650290"/>
-        <updated>2024-03-21T08:19:46.254Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
