@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-26T10:18:27.115Z</updated>
+    <updated>2024-03-26T11:14:30.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BODY - 하이라이트 | KBS 240322 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DAY6가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/48914511</id>
+        <link href="https://tv.naver.com/v/48914511"/>
+        <updated>2024-03-26T11:14:09.679Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[하이라이트 - BODY | Mnet 240321 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/48665307</id>
         <link href="https://tv.naver.com/v/48665307"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/48663542"/>
         <updated>2024-03-21T11:13:56.986Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' 더보이즈(THE BOYZ) (with THE B ♥) | Mnet 240321 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/48663370</id>
-        <link href="https://tv.naver.com/v/48663370"/>
-        <updated>2024-03-21T11:13:56.988Z</updated>
-        <content type="html"><![CDATA[04:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
