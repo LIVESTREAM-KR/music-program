@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-26T08:20:09.135Z</updated>
+    <updated>2024-03-26T09:17:05.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나나 미모 감상 타임💗]]></title>
+        <id>https://tv.naver.com/v/48905217</id>
+        <link href="https://tv.naver.com/v/48905217"/>
+        <updated>2024-03-26T09:16:53.627Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 꿈에서도 원했던 쇼챔행 항해 ⛵우리가 데려가 줄게]]></title>
         <id>https://tv.naver.com/v/48830525</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[쇼챔직캠 4K] HIGHLIGHT YOON DUJUN - Switch On (하이라이트 윤두준 - 스위치 온) | Show Champion | EP.510 | 240320]]></title>
         <id>https://tv.naver.com/v/48650785</id>
         <link href="https://tv.naver.com/v/48650785"/>
-        <updated>2024-03-21T08:19:46.252Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HIGHLIGHT YANG YOSEOP - Switch On (하이라이트 양요섭 - 스위치 온) | Show Champion | EP.510 | 240320]]></title>
-        <id>https://tv.naver.com/v/48650782</id>
-        <link href="https://tv.naver.com/v/48650782"/>
         <updated>2024-03-21T08:19:46.252Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>

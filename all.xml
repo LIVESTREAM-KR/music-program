@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-26T08:20:09.132Z</updated>
+    <updated>2024-03-26T09:17:05.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BODY - 하이라이트 | KBS 240322 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나나 미모 감상 타임💗 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/48905217</id>
+        <link href="https://tv.naver.com/v/48905217"/>
+        <updated>2024-03-26T09:16:53.627Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 꿈에서도 원했던 쇼챔행 항해 ⛵우리가 데려가 줄게 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/48830525</id>
         <link href="https://tv.naver.com/v/48830525"/>
@@ -414,13 +421,6 @@
         <title type="html"><![CDATA[[쇼챔직캠 4K] HIGHLIGHT YOON DUJUN - Switch On (하이라이트 윤두준 - 스위치 온) | Show Champion | EP.510 | 240320 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/48650785</id>
         <link href="https://tv.naver.com/v/48650785"/>
-        <updated>2024-03-21T08:19:46.252Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HIGHLIGHT YANG YOSEOP - Switch On (하이라이트 양요섭 - 스위치 온) | Show Champion | EP.510 | 240320 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/48650782</id>
-        <link href="https://tv.naver.com/v/48650782"/>
         <updated>2024-03-21T08:19:46.252Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
