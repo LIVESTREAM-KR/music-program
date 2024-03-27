@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-03-27T10:18:03.878Z</updated>
+    <updated>2024-03-27T11:13:56.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[템페스트(TEMPEST) - LIGHTHOUSE l 240327]]></title>
+        <id>https://tv.naver.com/v/48974925</id>
+        <link href="https://tv.naver.com/v/48974925"/>
+        <updated>2024-03-27T11:13:45.139Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 더뉴식스(THE NEW SIX) - FUEGO l 240327]]></title>
+        <id>https://tv.naver.com/v/48974691</id>
+        <link href="https://tv.naver.com/v/48974691"/>
+        <updated>2024-03-27T11:13:45.142Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비에이이일칠삼(BAE173) - Fifty-Fifty l 240327]]></title>
         <id>https://tv.naver.com/v/48974397</id>
@@ -27,18 +41,11 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[COMEBACK] 퍼플키스(PURPLE KISS) - BBB l 240327]]></title>
+        <title type="html"><![CDATA[[COMEBACK] 퍼플키스(PURPLE KISS) - Intro : Crush + BBB l 240327]]></title>
         <id>https://tv.naver.com/v/48973473</id>
         <link href="https://tv.naver.com/v/48973473"/>
         <updated>2024-03-27T10:17:52.283Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - Intro : Crush l 240327]]></title>
-        <id>https://tv.naver.com/v/48972906</id>
-        <link href="https://tv.naver.com/v/48972906"/>
-        <updated>2024-03-27T10:17:52.284Z</updated>
-        <content type="html"><![CDATA[01:18]]></content>
+        <content type="html"><![CDATA[04:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔싸인(n.SSign) - FUNK JAM l 240327]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48972593"/>
         <updated>2024-03-27T10:17:52.290Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 영파씨(YOUNG POSSE) - XXL l 240327]]></title>
-        <id>https://tv.naver.com/v/48972266</id>
-        <link href="https://tv.naver.com/v/48972266"/>
-        <updated>2024-03-27T10:17:52.292Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
 </feed>
