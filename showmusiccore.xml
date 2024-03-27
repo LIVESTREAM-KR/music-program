@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-27T07:14:59.842Z</updated>
+    <updated>2024-03-27T08:21:35.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] A shower song.zip 📂 Show! Music Core A shower song Special Compilation]]></title>
+        <id>https://tv.naver.com/v/48474663</id>
+        <link href="https://tv.naver.com/v/48474663"/>
+        <updated>2024-03-27T08:21:03.185Z</updated>
+        <content type="html"><![CDATA[01:08:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Wolf.zip 📂 Show! Music Core Wolf Special Compilation]]></title>
         <id>https://tv.naver.com/v/48364292</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48405965"/>
         <updated>2024-03-16T09:14:40.847Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CHUNGHA (청하) – EENIE MEENIE 직캠 | 쇼! 음악중심 | MBC240316방송]]></title>
-        <id>https://tv.naver.com/v/48405830</id>
-        <link href="https://tv.naver.com/v/48405830"/>
-        <updated>2024-03-16T09:14:40.849Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
     </entry>
 </feed>
