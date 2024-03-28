@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-28T16:21:06.178Z</updated>
+    <updated>2024-03-28T17:16:28.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BODY - 하이라이트 | KBS 240322 방송 (뮤직뱅크)]]></title>
@@ -236,6 +236,13 @@
         <content type="html"><![CDATA[02:36]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' NCT DREAM - Smoothie | Mnet 240328 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/49034267</id>
+        <link href="https://tv.naver.com/v/49034267"/>
+        <updated>2024-03-28T17:16:07.005Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' NCT DREAM - UNKNOWN | Mnet 240328 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/49034045</id>
         <link href="https://tv.naver.com/v/49034045"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/49033161"/>
         <updated>2024-03-28T11:14:10.950Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' NCT DREAM(엔시티 드림) (with NCTzen ♥) | Mnet 240328 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/49032342</id>
-        <link href="https://tv.naver.com/v/49032342"/>
-        <updated>2024-03-28T16:20:43.550Z</updated>
-        <content type="html"><![CDATA[05:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
