@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-28T09:17:10.891Z</updated>
+    <updated>2024-03-28T10:17:08.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BODY - 하이라이트 | KBS 240322 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,41 @@
         <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - FUNK JAM | Mnet 240328 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/49030435</id>
+        <link href="https://tv.naver.com/v/49030435"/>
+        <updated>2024-03-28T10:16:47.588Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with UNIS(유니스) | Mnet 240328 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/49030153</id>
+        <link href="https://tv.naver.com/v/49030153"/>
+        <updated>2024-03-28T10:16:47.592Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' Candy Shop - Good Girl | Mnet 240328 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/49029660</id>
+        <link href="https://tv.naver.com/v/49029660"/>
+        <updated>2024-03-28T10:16:47.593Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한음 - Florist | Mnet 240328 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/49029434</id>
+        <link href="https://tv.naver.com/v/49029434"/>
+        <updated>2024-03-28T10:16:47.594Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세븐어스 - Want you back | Mnet 240328 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/49029258</id>
+        <link href="https://tv.naver.com/v/49029258"/>
+        <updated>2024-03-28T10:16:47.595Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DAY6가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/48914511</id>
         <link href="https://tv.naver.com/v/48914511"/>
@@ -248,41 +283,6 @@
         <link href="https://tv.naver.com/v/48664853"/>
         <updated>2024-03-21T12:28:21.688Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유아 (YooA) - Rooftop | Mnet 240321 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/48664509</id>
-        <link href="https://tv.naver.com/v/48664509"/>
-        <updated>2024-03-21T11:13:56.975Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - 나는 아픈 건 딱 질색이니까 | Mnet 240321 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/48664499</id>
-        <link href="https://tv.naver.com/v/48664499"/>
-        <updated>2024-03-21T11:13:56.978Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 더보이즈(THE BOYZ) - Nectar | Mnet 240321 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/48664224</id>
-        <link href="https://tv.naver.com/v/48664224"/>
-        <updated>2024-03-21T11:13:56.983Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하 - EENIE MEENIE (Feat. 홍중(ATEEZ)) | Mnet 240321 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/48663771</id>
-        <link href="https://tv.naver.com/v/48663771"/>
-        <updated>2024-03-21T11:13:56.984Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Love or Die | Mnet 240321 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/48663542</id>
-        <link href="https://tv.naver.com/v/48663542"/>
-        <updated>2024-03-21T11:13:56.986Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
