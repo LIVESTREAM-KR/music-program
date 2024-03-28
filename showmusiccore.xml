@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-28T06:20:57.446Z</updated>
+    <updated>2024-03-28T07:15:21.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] K-POP Boy Bands in Drama.zip 📂 Show! Music Core K-POP in Drama Special Compilation]]></title>
+        <id>https://tv.naver.com/v/48884887</id>
+        <link href="https://tv.naver.com/v/48884887"/>
+        <updated>2024-03-28T07:14:50.563Z</updated>
+        <content type="html"><![CDATA[46:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] A shower song.zip 📂 Show! Music Core A shower song Special Compilation]]></title>
         <id>https://tv.naver.com/v/48474663</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48405968"/>
         <updated>2024-03-16T09:14:40.845Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT WISH RIKU (엔시티 위시 리쿠) - WISH 직캠 | 쇼! 음악중심 | MBC240316방송]]></title>
-        <id>https://tv.naver.com/v/48405965</id>
-        <link href="https://tv.naver.com/v/48405965"/>
-        <updated>2024-03-16T09:14:40.847Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
     </entry>
 </feed>
