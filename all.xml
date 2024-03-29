@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-29T09:15:59.606Z</updated>
+    <updated>2024-03-29T10:18:04.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Nectar - 더보이즈(THE BOYZ) | KBS 240329 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/49088496</id>
+        <link href="https://tv.naver.com/v/49088496"/>
+        <updated>2024-03-29T10:17:23.578Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoothie - NCT DREAM | KBS 240329 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/49087949</id>
+        <link href="https://tv.naver.com/v/49087949"/>
+        <updated>2024-03-29T10:17:23.580Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정말, 없니? (Emptiness) - BoA | KBS 240329 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/49087743</id>
+        <link href="https://tv.naver.com/v/49087743"/>
+        <updated>2024-03-29T10:17:23.580Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNKNOWN - NCT DREAM | KBS 240329 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/49087437</id>
+        <link href="https://tv.naver.com/v/49087437"/>
+        <updated>2024-03-29T10:17:23.581Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fifty-Fiifty - BAE173 | KBS 240329 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/49087128</id>
+        <link href="https://tv.naver.com/v/49087128"/>
+        <updated>2024-03-29T10:17:23.582Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUEGO - THE NEW SIX | KBS 240329 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/49086480</id>
+        <link href="https://tv.naver.com/v/49086480"/>
+        <updated>2024-03-29T10:17:23.584Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBB - 퍼플키스(PURPLE KISS) | KBS 240329 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/49086478</id>
+        <link href="https://tv.naver.com/v/49086478"/>
+        <updated>2024-03-29T10:17:23.585Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HYPERTONIC - TAN(티에이엔) | KBS 240329 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/49086472</id>
+        <link href="https://tv.naver.com/v/49086472"/>
+        <updated>2024-03-29T10:17:23.587Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken Heart - 앰퍼샌드원 (AMPERS&ONE) | KBS 240329 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/49086157</id>
+        <link href="https://tv.naver.com/v/49086157"/>
+        <updated>2024-03-29T10:17:23.589Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magnetic - 아일릿(ILLIT) | KBS 240329 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/49085823</id>
         <link href="https://tv.naver.com/v/49085823"/>
         <updated>2024-03-29T09:15:19.789Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XXL - 영파씨(YOUNG POSSE) | KBS 240329 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49085820</id>
-        <link href="https://tv.naver.com/v/49085820"/>
-        <updated>2024-03-29T09:15:19.789Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My World - 아일릿(ILLIT) | KBS 240329 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49085540</id>
-        <link href="https://tv.naver.com/v/49085540"/>
-        <updated>2024-03-29T09:15:19.793Z</updated>
-        <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPERWOMAN - UNIS(유니스) | KBS 240329 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49085493</id>
-        <link href="https://tv.naver.com/v/49085493"/>
-        <updated>2024-03-29T09:15:19.793Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEAD LOVE - 민서 | KBS 240329 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49085215</id>
-        <link href="https://tv.naver.com/v/49085215"/>
-        <updated>2024-03-29T09:15:19.794Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPER POWER - LUN8(루네이트) | KBS 240329 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49085205</id>
-        <link href="https://tv.naver.com/v/49085205"/>
-        <updated>2024-03-29T09:15:19.798Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Girl - Candy Shop | KBS 240329 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49084925</id>
-        <link href="https://tv.naver.com/v/49084925"/>
-        <updated>2024-03-29T09:15:19.799Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UhUh - RESCENE (리센느) | KBS 240329 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49084623</id>
-        <link href="https://tv.naver.com/v/49084623"/>
-        <updated>2024-03-29T09:15:19.800Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마의 손편지 - 정혜린 | KBS 240329 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49084014</id>
-        <link href="https://tv.naver.com/v/49084014"/>
-        <updated>2024-03-29T09:15:19.801Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조사하면 다 나온다 - 윤태화 | KBS 240329 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/49083625</id>
-        <link href="https://tv.naver.com/v/49083625"/>
-        <updated>2024-03-29T09:15:19.802Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] K-POP Boy Bands in Drama.zip 📂 Show! Music Core K-POP in Drama Special Compilation (쇼! 음악중심)]]></title>
