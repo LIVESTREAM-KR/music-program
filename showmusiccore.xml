@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-30T14:13:37.586Z</updated>
+    <updated>2024-03-30T15:17:04.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] THE BOYZ SUNWOO (더보이즈 선우) - Nectar 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49131022</id>
+        <link href="https://tv.naver.com/v/49131022"/>
+        <updated>2024-03-30T15:16:29.641Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] THE BOYZ YOUNGHOON (더보이즈 영훈) - Nectar 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49131021</id>
+        <link href="https://tv.naver.com/v/49131021"/>
+        <updated>2024-03-30T15:16:29.642Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] THE BOYZ JUYEON (더보이즈 주연) - Nectar 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49130587</id>
+        <link href="https://tv.naver.com/v/49130587"/>
+        <updated>2024-03-30T15:16:29.642Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] THE BOYZ HYUNJAE (더보이즈 현재) - Nectar 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49130584</id>
+        <link href="https://tv.naver.com/v/49130584"/>
+        <updated>2024-03-30T15:16:29.643Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] THE BOYZ SANGYEON (더보이즈 상연) - Nectar 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
         <id>https://tv.naver.com/v/49130542</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/49121432"/>
         <updated>2024-03-30T10:16:37.370Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT IROHA (아일릿 이로하) - Magnetic 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49121430</id>
-        <link href="https://tv.naver.com/v/49121430"/>
-        <updated>2024-03-30T10:16:37.373Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT MINJU (아일릿 민주) - Magnetic 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49121345</id>
-        <link href="https://tv.naver.com/v/49121345"/>
-        <updated>2024-03-30T10:16:37.377Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT MOKA (아일릿 모카) - Magnetic 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49121344</id>
-        <link href="https://tv.naver.com/v/49121344"/>
-        <updated>2024-03-30T10:16:37.378Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT YUNAH (아일릿 윤아) - Magnetic 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49121217</id>
-        <link href="https://tv.naver.com/v/49121217"/>
-        <updated>2024-03-30T10:16:37.380Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
