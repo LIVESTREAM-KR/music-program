@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-30T13:18:19.617Z</updated>
+    <updated>2024-03-30T14:13:37.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] THE BOYZ SANGYEON (더보이즈 상연) - Nectar 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49130542</id>
+        <link href="https://tv.naver.com/v/49130542"/>
+        <updated>2024-03-30T14:13:07.429Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] THE BOYZ (더보이즈) – Nectar 풀캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49129381</id>
+        <link href="https://tv.naver.com/v/49129381"/>
+        <updated>2024-03-30T14:13:07.429Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] THE BOYZ (더보이즈) – Nectar 1위 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
         <id>https://tv.naver.com/v/49121679</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/49121217"/>
         <updated>2024-03-30T10:16:37.380Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT (아일릿) – Magnetic 풀캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49121152</id>
-        <link href="https://tv.naver.com/v/49121152"/>
-        <updated>2024-03-30T10:16:37.381Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] UNIS (유니스) – SUPERWOMAN 풀캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49120673</id>
-        <link href="https://tv.naver.com/v/49120673"/>
-        <updated>2024-03-30T09:14:49.680Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
