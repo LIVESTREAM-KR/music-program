@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-30T08:20:21.802Z</updated>
+    <updated>2024-03-30T09:15:24.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] UNIS (유니스) – SUPERWOMAN 풀캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49120673</id>
+        <link href="https://tv.naver.com/v/49120673"/>
+        <updated>2024-03-30T09:14:49.680Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BoA (보아) – Emptiness 풀캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49120671</id>
+        <link href="https://tv.naver.com/v/49120671"/>
+        <updated>2024-03-30T09:14:49.682Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 5주차 1위 더보이즈 - 넥타 (THE BOYZ - Nectar), MBC 240330 방송]]></title>
         <id>https://tv.naver.com/v/49118698</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/49117661"/>
         <updated>2024-03-30T08:19:48.032Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일릿 - 마그네틱 (ILLIT - Magnetic), MBC 240330 방송]]></title>
-        <id>https://tv.naver.com/v/49117424</id>
-        <link href="https://tv.naver.com/v/49117424"/>
-        <updated>2024-03-30T07:15:55.815Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스 - 비비비 (PURPLE KISS - BBB), MBC 240330 방송]]></title>
-        <id>https://tv.naver.com/v/49117399</id>
-        <link href="https://tv.naver.com/v/49117399"/>
-        <updated>2024-03-30T07:15:55.821Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
     </entry>
 </feed>
