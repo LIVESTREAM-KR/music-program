@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-03-31T06:20:35.440Z</updated>
+    <updated>2024-03-31T07:15:12.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE NEW SIX - FUEGO | SBS 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49146315</id>
+        <link href="https://tv.naver.com/v/49146315"/>
+        <updated>2024-03-31T07:14:43.069Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMPERS&ONE - Broken Heart | SBS 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49146147</id>
+        <link href="https://tv.naver.com/v/49146147"/>
+        <updated>2024-03-31T07:14:43.069Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민서 - DEAD LOVE | SBS 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49146145</id>
+        <link href="https://tv.naver.com/v/49146145"/>
+        <updated>2024-03-31T07:14:43.070Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN’(아이칠린) - ON MY LIPS | SBS 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49146008</id>
+        <link href="https://tv.naver.com/v/49146008"/>
+        <updated>2024-03-31T07:14:43.071Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Candy Shop - Good Girl | SBS 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49145843</id>
+        <link href="https://tv.naver.com/v/49145843"/>
+        <updated>2024-03-31T07:14:43.071Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HORI7ON(호라이즌) - LUCKY | SBS 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49145715</id>
+        <link href="https://tv.naver.com/v/49145715"/>
+        <updated>2024-03-31T07:14:43.072Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이라이트 - BODY | SBS 240324 방송]]></title>
         <id>https://tv.naver.com/v/48785442</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/48784935"/>
         <updated>2024-03-24T08:18:22.967Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하(CHUNG HA) - EENIE MEENIE (feat. 홍중(ATEEZ)) | SBS 240324 방송]]></title>
-        <id>https://tv.naver.com/v/48784593</id>
-        <link href="https://tv.naver.com/v/48784593"/>
-        <updated>2024-03-24T08:18:22.969Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(여자)아이들 - 나는 아픈 건 딱 질색이니까 | SBS 240324 방송]]></title>
-        <id>https://tv.naver.com/v/48784383</id>
-        <link href="https://tv.naver.com/v/48784383"/>
-        <updated>2024-03-24T08:18:22.972Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주(Apink) - BAD | SBS 240324 방송]]></title>
-        <id>https://tv.naver.com/v/48784376</id>
-        <link href="https://tv.naver.com/v/48784376"/>
-        <updated>2024-03-24T08:18:22.972Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유아(YooA) - Rooftop | SBS 240324 방송]]></title>
-        <id>https://tv.naver.com/v/48784375</id>
-        <link href="https://tv.naver.com/v/48784375"/>
-        <updated>2024-03-24T08:18:22.972Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - BBB | SBS 240324 방송]]></title>
-        <id>https://tv.naver.com/v/48784056</id>
-        <link href="https://tv.naver.com/v/48784056"/>
-        <updated>2024-03-24T08:18:22.974Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Love or Die | SBS 240324 방송]]></title>
-        <id>https://tv.naver.com/v/48784024</id>
-        <link href="https://tv.naver.com/v/48784024"/>
-        <updated>2024-03-24T08:18:22.975Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
 </feed>
