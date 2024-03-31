@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-03-31T09:16:17.881Z</updated>
+    <updated>2024-03-31T10:16:57.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UNIS(유니스) - SUPERWOMAN | SBS 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49146846</id>
+        <link href="https://tv.naver.com/v/49146846"/>
+        <updated>2024-03-31T10:16:28.859Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - BBB | SBS 240331 방송]]></title>
         <id>https://tv.naver.com/v/49146843</id>
         <link href="https://tv.naver.com/v/49146843"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49146634"/>
         <updated>2024-03-31T08:19:55.303Z</updated>
         <content type="html"><![CDATA[01:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAN - HYPER TONIC | SBS 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49146338</id>
-        <link href="https://tv.naver.com/v/49146338"/>
-        <updated>2024-03-31T08:19:55.304Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
