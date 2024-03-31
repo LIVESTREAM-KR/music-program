@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-03-31T07:15:12.036Z</updated>
+    <updated>2024-03-31T08:20:24.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NCT WISH - WISH (엔시티 위시 - 위시) | Show! Music Core]]></title>
+        <id>https://tv.naver.com/v/49117063</id>
+        <link href="https://tv.naver.com/v/49117063"/>
+        <updated>2024-03-31T08:19:49.471Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DREAM JISUNG (엔시티 드림 지성) - Smoothie 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
         <id>https://tv.naver.com/v/49146313</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/49145742</id>
         <link href="https://tv.naver.com/v/49145742"/>
         <updated>2024-03-31T07:14:37.479Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM MARK (엔시티 드림 마크) - Smoothie 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49145739</id>
-        <link href="https://tv.naver.com/v/49145739"/>
-        <updated>2024-03-31T07:14:37.481Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
