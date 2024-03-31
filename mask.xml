@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-03-31T10:16:57.764Z</updated>
+    <updated>2024-03-31T11:14:02.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜거물급 복면 가수의 등장?! 복면가왕 9주년 특집🌟＞ 복면가왕 446회 예고, MBC 240407]]></title>
+        <id>https://tv.naver.com/v/49154506</id>
+        <link href="https://tv.naver.com/v/49154506"/>
+        <updated>2024-03-31T11:14:01.792Z</updated>
+        <content type="html"><![CDATA[00:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['벌처럼 쏜다'의 정체는 가수 전상근!, MBC 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49154062</id>
+        <link href="https://tv.naver.com/v/49154062"/>
+        <updated>2024-03-31T11:14:01.795Z</updated>
+        <content type="html"><![CDATA[02:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['희로애락도 락이다'의 가왕 방어전 무대 - 생각이나, MBC 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49153535</id>
+        <link href="https://tv.naver.com/v/49153535"/>
+        <updated>2024-03-31T11:14:01.796Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['홀씨'의 정체는 가수 김소연!, MBC 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49153321</id>
+        <link href="https://tv.naver.com/v/49153321"/>
+        <updated>2024-03-31T11:14:01.797Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['벌처럼 쏜다' 3라운드 무대 - 멀어지다, MBC 240331 방송]]></title>
         <id>https://tv.naver.com/v/49152700</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/49151621"/>
         <updated>2024-03-31T10:16:57.170Z</updated>
         <content type="html"><![CDATA[01:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홀씨'가 재해석한 아이유의 홀씨✨ 홀씨의 정체는 싱어송라이터 우효?!, MBC 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49151458</id>
-        <link href="https://tv.naver.com/v/49151458"/>
-        <updated>2024-03-31T10:16:57.172Z</updated>
-        <content type="html"><![CDATA[02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비슷한 수준이 아니라 그냥 이홍기! '서울의 봄'의 싱크로율 100% 이홍기 모창🎙, MBC 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49151333</id>
-        <link href="https://tv.naver.com/v/49151333"/>
-        <updated>2024-03-31T10:16:57.173Z</updated>
-        <content type="html"><![CDATA[01:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['홀씨' 2라운드 무대 - 구애, MBC 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49151300</id>
-        <link href="https://tv.naver.com/v/49151300"/>
-        <updated>2024-03-31T10:16:57.174Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄' 2라운드 무대 - 내 눈물 속의 그대, MBC 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49151291</id>
-        <link href="https://tv.naver.com/v/49151291"/>
-        <updated>2024-03-31T10:16:57.176Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
