@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-01T13:17:53.813Z</updated>
+    <updated>2024-04-01T14:15:53.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ SUNWOO (더보이즈 선우) - Nectar | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49215621</id>
+        <link href="https://tv.naver.com/v/49215621"/>
+        <updated>2024-04-01T14:15:18.407Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ HYUNJAE (더보이즈 현재) – Nectar | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49215616</id>
+        <link href="https://tv.naver.com/v/49215616"/>
+        <updated>2024-04-01T14:15:18.407Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ Q (더보이즈 큐) - Nectar | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49215277</id>
+        <link href="https://tv.naver.com/v/49215277"/>
+        <updated>2024-04-01T14:15:18.408Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ YOUNGHOON (더보이즈 영훈) - Nectar | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49215276</id>
+        <link href="https://tv.naver.com/v/49215276"/>
+        <updated>2024-04-01T14:15:18.410Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ NEW (더보이즈 뉴) - Nectar | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49214999</id>
+        <link href="https://tv.naver.com/v/49214999"/>
+        <updated>2024-04-01T14:15:18.412Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) - Nectar | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49214997</id>
+        <link href="https://tv.naver.com/v/49214997"/>
+        <updated>2024-04-01T14:15:18.414Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN (엔시티 드림 재민) - Smoothie | 쇼! 음악중심 | MBC240330방송]]></title>
         <id>https://tv.naver.com/v/49196289</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/49195650"/>
         <updated>2024-04-01T08:21:58.508Z</updated>
         <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JENO (엔시티 드림 제노) - UNKNOWN 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49195647</id>
-        <link href="https://tv.naver.com/v/49195647"/>
-        <updated>2024-04-01T08:21:58.510Z</updated>
-        <content type="html"><![CDATA[04:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM MARK (엔시티 드림 마크) - UNKNOWN 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49195343</id>
-        <link href="https://tv.naver.com/v/49195343"/>
-        <updated>2024-04-01T08:21:58.512Z</updated>
-        <content type="html"><![CDATA[04:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JAEMIN (엔시티 드림 재민) - UNKNOWN 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49195051</id>
-        <link href="https://tv.naver.com/v/49195051"/>
-        <updated>2024-04-01T08:21:58.517Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM RENJUN (엔시티 드림 런쥔) - UNKNOWN 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49195049</id>
-        <link href="https://tv.naver.com/v/49195049"/>
-        <updated>2024-04-01T08:21:58.519Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] March TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
-        <id>https://tv.naver.com/v/49085812</id>
-        <link href="https://tv.naver.com/v/49085812"/>
-        <updated>2024-04-01T07:15:08.485Z</updated>
-        <content type="html"><![CDATA[31:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] NCT WISH - WISH (엔시티 위시 - 위시) | Show! Music Core]]></title>
-        <id>https://tv.naver.com/v/49117063</id>
-        <link href="https://tv.naver.com/v/49117063"/>
-        <updated>2024-03-31T08:19:49.471Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
