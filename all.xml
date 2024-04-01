@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-01T08:22:32.373Z</updated>
+    <updated>2024-04-01T09:18:33.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nectar - 더보이즈(THE BOYZ) | KBS 240329 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN (엔시티 드림 재민) - Smoothie | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49196289</id>
+        <link href="https://tv.naver.com/v/49196289"/>
+        <updated>2024-04-01T09:17:59.300Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JISUNG (엔시티 드림 지성) - UNKNOWN | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49196284</id>
+        <link href="https://tv.naver.com/v/49196284"/>
+        <updated>2024-04-01T09:17:59.301Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DREAM HAECHAN (엔시티 드림 해찬) - UNKNOWN | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/49195982</id>
         <link href="https://tv.naver.com/v/49195982"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/49117063"/>
         <updated>2024-03-31T08:19:49.471Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JISUNG (엔시티 드림 지성) - Smoothie 직캠 | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49146313</id>
-        <link href="https://tv.naver.com/v/49146313"/>
-        <updated>2024-03-31T07:14:37.466Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JAEMIN (엔시티 드림 재민) - Smoothie 직캠 | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49146312</id>
-        <link href="https://tv.naver.com/v/49146312"/>
-        <updated>2024-03-31T07:14:37.467Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BoA - 정말, 없니? (Emptiness) | SBS 240331 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 쇼챔은 배짱이지 so Let’s go Let’s go (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/49181789</id>
+        <link href="https://tv.naver.com/v/49181789"/>
+        <updated>2024-04-01T09:18:21.614Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3월 4주 차 쇼챔피언 ＜가온 & 정수＞ MC 컷 모음📁 | Show Champion | EP.511 | 240327 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/49009210</id>
         <link href="https://tv.naver.com/v/49009210"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/48969210"/>
         <updated>2024-03-27T13:18:15.634Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8 - SUPER POWER (루네이트 - 슈퍼 파워) | Show Champion | EP.511 | 240327 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/48963398</id>
-        <link href="https://tv.naver.com/v/48963398"/>
-        <updated>2024-03-27T13:18:15.635Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 651회  ＜명사 특집 최수종＞ 우승자 ⭐라키⭐ | KBS 방송 (불후의 명곡)]]></title>

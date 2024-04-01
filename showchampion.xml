@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-01T08:22:32.367Z</updated>
+    <updated>2024-04-01T09:18:33.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 쇼챔은 배짱이지 so Let’s go Let’s go]]></title>
+        <id>https://tv.naver.com/v/49181789</id>
+        <link href="https://tv.naver.com/v/49181789"/>
+        <updated>2024-04-01T09:18:21.614Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 4주 차 쇼챔피언 ＜가온 & 정수＞ MC 컷 모음📁 | Show Champion | EP.511 | 240327]]></title>
         <id>https://tv.naver.com/v/49009210</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48969210"/>
         <updated>2024-03-27T13:18:15.634Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8 - SUPER POWER (루네이트 - 슈퍼 파워) | Show Champion | EP.511 | 240327]]></title>
-        <id>https://tv.naver.com/v/48963398</id>
-        <link href="https://tv.naver.com/v/48963398"/>
-        <updated>2024-03-27T13:18:15.635Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
