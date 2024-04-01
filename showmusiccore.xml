@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-01T06:22:17.240Z</updated>
+    <updated>2024-04-01T07:15:43.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] March TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/49085812</id>
+        <link href="https://tv.naver.com/v/49085812"/>
+        <updated>2024-04-01T07:15:08.485Z</updated>
+        <content type="html"><![CDATA[31:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NCT WISH - WISH (엔시티 위시 - 위시) | Show! Music Core]]></title>
         <id>https://tv.naver.com/v/49117063</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49145878"/>
         <updated>2024-03-31T07:14:37.478Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM HAECHAN (엔시티 드림 해찬) - Smoothie 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49145742</id>
-        <link href="https://tv.naver.com/v/49145742"/>
-        <updated>2024-03-31T07:14:37.479Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
