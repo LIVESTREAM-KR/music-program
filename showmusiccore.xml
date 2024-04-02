@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-02T07:17:23.389Z</updated>
+    <updated>2024-04-02T08:21:24.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 3월 다섯째 주 음악중심 MC 컷 모음!, MBC 240330 방송]]></title>
+        <id>https://tv.naver.com/v/49250840</id>
+        <link href="https://tv.naver.com/v/49250840"/>
+        <updated>2024-04-02T08:20:50.850Z</updated>
+        <content type="html"><![CDATA[19:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] UNIS SEOWON (유니스 임서원) - SUPERWOMAN | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49250231</id>
+        <link href="https://tv.naver.com/v/49250231"/>
+        <updated>2024-04-02T08:20:50.850Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] UNIS ELISIA (유니스 엘리시아) - SUPERWOMAN 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49249333</id>
+        <link href="https://tv.naver.com/v/49249333"/>
+        <updated>2024-04-02T08:20:50.852Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] UNIS GEHLEE (유니스 젤리당카) - SUPERWOMAN 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49248765</id>
+        <link href="https://tv.naver.com/v/49248765"/>
+        <updated>2024-04-02T08:20:50.852Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ILLIT MOKA (아일릿 모카) - Magnetic | 쇼! 음악중심 | MBC240330방송]]></title>
         <id>https://tv.naver.com/v/49246485</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/49215276"/>
         <updated>2024-04-01T14:15:18.410Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ NEW (더보이즈 뉴) - Nectar | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49214999</id>
-        <link href="https://tv.naver.com/v/49214999"/>
-        <updated>2024-04-01T14:15:18.412Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) - Nectar | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49214997</id>
-        <link href="https://tv.naver.com/v/49214997"/>
-        <updated>2024-04-01T14:15:18.414Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN (엔시티 드림 재민) - Smoothie | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49196289</id>
-        <link href="https://tv.naver.com/v/49196289"/>
-        <updated>2024-04-01T09:17:59.300Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JISUNG (엔시티 드림 지성) - UNKNOWN | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49196284</id>
-        <link href="https://tv.naver.com/v/49196284"/>
-        <updated>2024-04-01T09:17:59.301Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
     </entry>
 </feed>
