@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-04-02T08:21:24.460Z</updated>
+    <updated>2024-04-02T09:17:26.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ↗️3옥타브 초고음 전문 발라더🎤 가수 전상근 하이라이트!, MBC 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49255569</id>
+        <link href="https://tv.naver.com/v/49255569"/>
+        <updated>2024-04-02T09:17:25.975Z</updated>
+        <content type="html"><![CDATA[12:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🎤＜Say Yes＞ 고음의 주인공🔥 활밴드 김명기 하이라이트!, MBC 240331 방송]]></title>
+        <id>https://tv.naver.com/v/49255566</id>
+        <link href="https://tv.naver.com/v/49255566"/>
+        <updated>2024-04-02T09:17:25.975Z</updated>
+        <content type="html"><![CDATA[11:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜거물급 복면 가수의 등장?! 복면가왕 9주년 특집🌟＞ 복면가왕 446회 예고, MBC 240407]]></title>
         <id>https://tv.naver.com/v/49154506</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/49152051"/>
         <updated>2024-03-31T10:16:57.168Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가왕 안 되면 우엉 우엉' 2라운드 무대 - 내가 저지른 사랑, MBC 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49151799</id>
-        <link href="https://tv.naver.com/v/49151799"/>
-        <updated>2024-03-31T10:16:57.169Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄'의 정체는 가수 김윤오!, MBC 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49151621</id>
-        <link href="https://tv.naver.com/v/49151621"/>
-        <updated>2024-03-31T10:16:57.170Z</updated>
-        <content type="html"><![CDATA[01:38]]></content>
     </entry>
 </feed>

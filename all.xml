@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-02T08:21:24.468Z</updated>
+    <updated>2024-04-02T09:17:26.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nectar - 더보이즈(THE BOYZ) | KBS 240329 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[티저] 쇼! 음악중심 in JAPAN🎤, MBC 2024 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49251140</id>
+        <link href="https://tv.naver.com/v/49251140"/>
+        <updated>2024-04-02T09:16:55.818Z</updated>
+        <content type="html"><![CDATA[00:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 3월 다섯째 주 음악중심 MC 컷 모음!, MBC 240330 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/49250840</id>
         <link href="https://tv.naver.com/v/49250840"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/49215277"/>
         <updated>2024-04-01T14:15:18.408Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ YOUNGHOON (더보이즈 영훈) - Nectar | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49215276</id>
-        <link href="https://tv.naver.com/v/49215276"/>
-        <updated>2024-04-01T14:15:18.410Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BoA - 정말, 없니? (Emptiness) | SBS 240331 방송 (인기가요)]]></title>
@@ -495,6 +495,20 @@
         <content type="html"><![CDATA[04:10]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 ↗️3옥타브 초고음 전문 발라더🎤 가수 전상근 하이라이트!, MBC 240331 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/49255569</id>
+        <link href="https://tv.naver.com/v/49255569"/>
+        <updated>2024-04-02T09:17:25.975Z</updated>
+        <content type="html"><![CDATA[12:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🎤＜Say Yes＞ 고음의 주인공🔥 활밴드 김명기 하이라이트!, MBC 240331 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/49255566</id>
+        <link href="https://tv.naver.com/v/49255566"/>
+        <updated>2024-04-02T09:17:25.975Z</updated>
+        <content type="html"><![CDATA[11:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[＜거물급 복면 가수의 등장?! 복면가왕 9주년 특집🌟＞ 복면가왕 446회 예고, MBC 240407 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/49154506</id>
         <link href="https://tv.naver.com/v/49154506"/>
@@ -549,19 +563,5 @@
         <link href="https://tv.naver.com/v/49152051"/>
         <updated>2024-03-31T10:16:57.168Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['가왕 안 되면 우엉 우엉' 2라운드 무대 - 내가 저지른 사랑, MBC 240331 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/49151799</id>
-        <link href="https://tv.naver.com/v/49151799"/>
-        <updated>2024-03-31T10:16:57.169Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['서울의 봄'의 정체는 가수 김윤오!, MBC 240331 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/49151621</id>
-        <link href="https://tv.naver.com/v/49151621"/>
-        <updated>2024-03-31T10:16:57.170Z</updated>
-        <content type="html"><![CDATA[01:38]]></content>
     </entry>
 </feed>
