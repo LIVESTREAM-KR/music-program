@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-02T06:21:23.269Z</updated>
+    <updated>2024-04-02T07:17:23.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ILLIT MOKA (아일릿 모카) - Magnetic | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49246485</id>
+        <link href="https://tv.naver.com/v/49246485"/>
+        <updated>2024-04-02T07:16:49.688Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ILLIT WONHEE (아일릿 원희) – Magnetic | 쇼! 음악중심 | MBC240330방송]]></title>
+        <id>https://tv.naver.com/v/49245921</id>
+        <link href="https://tv.naver.com/v/49245921"/>
+        <updated>2024-04-02T07:16:49.688Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] THE BOYZ SUNWOO (더보이즈 선우) - Nectar | 쇼! 음악중심 | MBC240330방송]]></title>
         <id>https://tv.naver.com/v/49215621</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/49196284"/>
         <updated>2024-04-01T09:17:59.301Z</updated>
         <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM HAECHAN (엔시티 드림 해찬) - UNKNOWN | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49195982</id>
-        <link href="https://tv.naver.com/v/49195982"/>
-        <updated>2024-04-01T08:21:58.506Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM CHENLE (엔시티 드림 천러) - UNKNOWN 직캠 | 쇼! 음악중심 | MBC240330방송]]></title>
-        <id>https://tv.naver.com/v/49195650</id>
-        <link href="https://tv.naver.com/v/49195650"/>
-        <updated>2024-04-01T08:21:58.508Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
