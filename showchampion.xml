@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-03T10:18:41.632Z</updated>
+    <updated>2024-04-03T11:14:10.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 피원하모니(P1Harmony) - If You Call Me l 240403]]></title>
+        <id>https://tv.naver.com/v/49317979</id>
+        <link href="https://tv.naver.com/v/49317979"/>
+        <updated>2024-04-03T11:13:57.895Z</updated>
+        <content type="html"><![CDATA[15:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SOLO HOT DEBUT] 루카스(LUCAS) - Renegade l 240403]]></title>
+        <id>https://tv.naver.com/v/49316544</id>
+        <link href="https://tv.naver.com/v/49316544"/>
+        <updated>2024-04-03T11:13:57.896Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루카스(LUCAS) - Crushing On You l 240403]]></title>
+        <id>https://tv.naver.com/v/49316486</id>
+        <link href="https://tv.naver.com/v/49316486"/>
+        <updated>2024-04-03T11:13:57.896Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - BBB l 240403]]></title>
         <id>https://tv.naver.com/v/49315351</id>
         <link href="https://tv.naver.com/v/49315351"/>
         <updated>2024-04-03T10:18:29.884Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비에이이일칠삼(BAE173) - Fifty-Fifty l 240403]]></title>
+        <id>https://tv.naver.com/v/49314930</id>
+        <link href="https://tv.naver.com/v/49314930"/>
+        <updated>2024-04-03T11:13:57.898Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[MC석 코너] 'LUCAS'가 이번 솔로 앨범 'Renegade'을 통해 담고 싶었던 메세지는?! l 240403]]></title>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/49314287"/>
         <updated>2024-04-03T10:18:29.891Z</updated>
         <content type="html"><![CDATA[02:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더뉴식스(THE NEW SIX) - FUEGO l 240403]]></title>
-        <id>https://tv.naver.com/v/49314014</id>
-        <link href="https://tv.naver.com/v/49314014"/>
-        <updated>2024-04-03T10:18:29.893Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인(n.SSign) - FUNK JAM l 240403]]></title>
-        <id>https://tv.naver.com/v/49313737</id>
-        <link href="https://tv.naver.com/v/49313737"/>
-        <updated>2024-04-03T10:18:29.894Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 앰퍼샌드원(AMPERS&ONE) - Broken Heart l 240403]]></title>
-        <id>https://tv.naver.com/v/49313735</id>
-        <link href="https://tv.naver.com/v/49313735"/>
-        <updated>2024-04-03T10:18:29.895Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 데뷔 인터뷰! 'UNIS(유니스)' 나!왔어✋🏻 l 240403]]></title>
-        <id>https://tv.naver.com/v/49313252</id>
-        <link href="https://tv.naver.com/v/49313252"/>
-        <updated>2024-04-03T10:18:29.897Z</updated>
-        <content type="html"><![CDATA[02:06]]></content>
     </entry>
 </feed>
