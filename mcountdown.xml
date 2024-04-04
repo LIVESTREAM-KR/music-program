@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-04T11:14:35.191Z</updated>
+    <updated>2024-04-04T12:29:52.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT DREAM - Smoothie | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49378566</id>
+        <link href="https://tv.naver.com/v/49378566"/>
+        <updated>2024-04-04T12:29:27.791Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 투모로우바이투게더 - Deja Vu | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49378124</id>
+        <link href="https://tv.naver.com/v/49378124"/>
+        <updated>2024-04-04T12:29:27.792Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 투모로우바이투게더 - 내일에서 기다릴게 (I'll See You There Tomorrow) | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49378123</id>
+        <link href="https://tv.naver.com/v/49378123"/>
+        <updated>2024-04-04T12:29:27.792Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['먼슬리 엠카PICK' 3월의 엠카PICK 송 & 스테이지는? | Mnet 240404 방송]]></title>
         <id>https://tv.naver.com/v/49377777</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/49375969"/>
         <updated>2024-04-04T11:14:14.026Z</updated>
         <content type="html"><![CDATA[05:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE NEW SIX - FUEGO | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49375791</id>
-        <link href="https://tv.naver.com/v/49375791"/>
-        <updated>2024-04-04T11:14:14.027Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' 엠카 출연진 중 신문지 게임왕은? | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49375536</id>
-        <link href="https://tv.naver.com/v/49375536"/>
-        <updated>2024-04-04T11:14:14.029Z</updated>
-        <content type="html"><![CDATA[05:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAN - HYPERTONIC | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49375315</id>
-        <link href="https://tv.naver.com/v/49375315"/>
-        <updated>2024-04-04T11:14:14.030Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
