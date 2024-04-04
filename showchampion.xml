@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-04T07:16:20.287Z</updated>
+    <updated>2024-04-04T08:21:30.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign - FUNK JAM (엔싸인 - 펑크 잼) | Show Champion | EP.512 | 240403]]></title>
+        <id>https://tv.naver.com/v/49365019</id>
+        <link href="https://tv.naver.com/v/49365019"/>
+        <updated>2024-04-04T08:21:18.684Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ILLIT IROHA - My World (아일릿 이로하 - 마이 월드) | Show Champion | EP.512 | 240403]]></title>
+        <id>https://tv.naver.com/v/49355968</id>
+        <link href="https://tv.naver.com/v/49355968"/>
+        <updated>2024-04-04T08:21:18.687Z</updated>
+        <content type="html"><![CDATA[01:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ILLIT YUNAH - My World (아일릿 윤아 - 마이 월드) | Show Champion | EP.512 | 240403]]></title>
+        <id>https://tv.naver.com/v/49355686</id>
+        <link href="https://tv.naver.com/v/49355686"/>
+        <updated>2024-04-04T08:21:18.687Z</updated>
+        <content type="html"><![CDATA[01:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ILLIT MOKA - My World (아일릿 모카 - 마이 월드) | Show Champion | EP.512 | 240403]]></title>
+        <id>https://tv.naver.com/v/49355395</id>
+        <link href="https://tv.naver.com/v/49355395"/>
+        <updated>2024-04-04T08:21:18.689Z</updated>
+        <content type="html"><![CDATA[01:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ILLIT WONHEE - Magnetic (아일릿 원희 - 마그네틱) | Show Champion | EP.512 | 240403]]></title>
+        <id>https://tv.naver.com/v/49346437</id>
+        <link href="https://tv.naver.com/v/49346437"/>
+        <updated>2024-04-04T08:21:18.692Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ILLIT MINJU - Magnetic (아일릿 민주 - 마그네틱) | Show Champion | EP.512 | 240403]]></title>
+        <id>https://tv.naver.com/v/49346404</id>
+        <link href="https://tv.naver.com/v/49346404"/>
+        <updated>2024-04-04T08:21:18.692Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ILLIT MOKA - Magnetic (아일릿 모카 - 마그네틱) | Show Champion | EP.512 | 240403]]></title>
+        <id>https://tv.naver.com/v/49346197</id>
+        <link href="https://tv.naver.com/v/49346197"/>
+        <updated>2024-04-04T08:21:18.694Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] LUCAS - Crushing On You (루카스 - 크러싱 온 유) | Show Champion | EP.512 | 240403]]></title>
         <id>https://tv.naver.com/v/49325311</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/49323618"/>
         <updated>2024-04-03T13:19:30.640Z</updated>
         <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ILLIT WONHEE - My World (아일릿 원희 - 마이 월드) | Show Champion | EP.512 | 240403]]></title>
-        <id>https://tv.naver.com/v/49323615</id>
-        <link href="https://tv.naver.com/v/49323615"/>
-        <updated>2024-04-03T13:19:30.641Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ILLIT YUNAH - My World (아일릿 윤아 - 마이 월드) | Show Champion | EP.512 | 240403]]></title>
-        <id>https://tv.naver.com/v/49322691</id>
-        <link href="https://tv.naver.com/v/49322691"/>
-        <updated>2024-04-03T13:19:30.642Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ILLIT MINJU - My World (아일릿 민주 - 마이 월드) | Show Champion | EP.512 | 240403]]></title>
-        <id>https://tv.naver.com/v/49322689</id>
-        <link href="https://tv.naver.com/v/49322689"/>
-        <updated>2024-04-03T13:19:30.644Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ILLIT - My World (아일릿 - 마이 월드) l Show Champion l EP.512 l 240403]]></title>
-        <id>https://tv.naver.com/v/49322688</id>
-        <link href="https://tv.naver.com/v/49322688"/>
-        <updated>2024-04-03T13:19:30.646Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ILLIT MOKA - My World (아일릿 모카 - 마이 월드) | Show Champion | EP.512 | 240403]]></title>
-        <id>https://tv.naver.com/v/49322399</id>
-        <link href="https://tv.naver.com/v/49322399"/>
-        <updated>2024-04-03T13:19:30.648Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] AMPERS&ONE JIHO - Broken Heart (앰퍼샌드원 최지호 - 브로큰 하트) | Show Champion | EP.512 | 240403]]></title>
-        <id>https://tv.naver.com/v/49320635</id>
-        <link href="https://tv.naver.com/v/49320635"/>
-        <updated>2024-04-03T13:19:30.650Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] AMPERS&ONE KAMDEN - Broken Heart (앰퍼샌드원 나캠든 - 브로큰 하트) | Show Champion | EP.512 | 240403]]></title>
-        <id>https://tv.naver.com/v/49320327</id>
-        <link href="https://tv.naver.com/v/49320327"/>
-        <updated>2024-04-03T13:19:30.651Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
