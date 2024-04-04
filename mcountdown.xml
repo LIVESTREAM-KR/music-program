@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-04T13:18:22.097Z</updated>
+    <updated>2024-04-04T14:17:05.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[앰퍼샌드원 (AMPERS&ONE) - Broken Heart | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49386734</id>
+        <link href="https://tv.naver.com/v/49386734"/>
+        <updated>2024-04-04T14:16:42.120Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VVUP(비비업) - Locked On | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49386311</id>
+        <link href="https://tv.naver.com/v/49386311"/>
+        <updated>2024-04-04T14:16:42.123Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - Smoothie | Mnet 240404 방송]]></title>
         <id>https://tv.naver.com/v/49378566</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/49376702"/>
         <updated>2024-04-04T11:14:14.023Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - BBB | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49376212</id>
-        <link href="https://tv.naver.com/v/49376212"/>
-        <updated>2024-04-04T11:14:14.025Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' 투모로우바이투게더 (TOMORROW X TOGETHER) (with MOA ♥) | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49375969</id>
-        <link href="https://tv.naver.com/v/49375969"/>
-        <updated>2024-04-04T11:14:14.026Z</updated>
-        <content type="html"><![CDATA[05:32]]></content>
     </entry>
 </feed>
