@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-04T09:17:10.501Z</updated>
+    <updated>2024-04-04T10:17:29.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' KISS OF LIFE - Midas Touch | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49375107</id>
+        <link href="https://tv.naver.com/v/49375107"/>
+        <updated>2024-04-04T10:17:06.558Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - Red Sun | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49374737</id>
+        <link href="https://tv.naver.com/v/49374737"/>
+        <updated>2024-04-04T10:17:06.559Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' NOWADAYS - OoWee | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49374499</id>
+        <link href="https://tv.naver.com/v/49374499"/>
+        <updated>2024-04-04T10:17:06.559Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOUNG POSSE (영파씨) - XXL | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49374301</id>
+        <link href="https://tv.naver.com/v/49374301"/>
+        <updated>2024-04-04T10:17:06.559Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with NOWADAYS(나우어데이즈) | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49374004</id>
+        <link href="https://tv.naver.com/v/49374004"/>
+        <updated>2024-04-04T10:17:06.559Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BAE173 - Fifty-Fifty | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49373691</id>
+        <link href="https://tv.naver.com/v/49373691"/>
+        <updated>2024-04-04T10:17:06.559Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIS(유니스) - SUPERWOMAN | Mnet 240404 방송]]></title>
+        <id>https://tv.naver.com/v/49373153</id>
+        <link href="https://tv.naver.com/v/49373153"/>
+        <updated>2024-04-04T10:17:06.561Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/49264367</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/49036201"/>
         <updated>2024-03-28T12:30:33.911Z</updated>
         <content type="html"><![CDATA[05:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNG POSSE(영파씨) - XXL | Mnet 240328 방송]]></title>
-        <id>https://tv.naver.com/v/49036198</id>
-        <link href="https://tv.naver.com/v/49036198"/>
-        <updated>2024-03-28T12:30:33.913Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NCT DREAM - Smoothie | Mnet 240328 방송]]></title>
-        <id>https://tv.naver.com/v/49034267</id>
-        <link href="https://tv.naver.com/v/49034267"/>
-        <updated>2024-03-28T17:16:07.005Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NCT DREAM - UNKNOWN | Mnet 240328 방송]]></title>
-        <id>https://tv.naver.com/v/49034045</id>
-        <link href="https://tv.naver.com/v/49034045"/>
-        <updated>2024-03-28T11:14:10.944Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김남주 (Apink) - BAD | Mnet 240328 방송]]></title>
-        <id>https://tv.naver.com/v/49033686</id>
-        <link href="https://tv.naver.com/v/49033686"/>
-        <updated>2024-03-28T11:14:10.944Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' 〈Build Up〉 훈민제빛 - Flower | Mnet 240328 방송]]></title>
-        <id>https://tv.naver.com/v/49033682</id>
-        <link href="https://tv.naver.com/v/49033682"/>
-        <updated>2024-03-28T11:14:10.945Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) - Nectar | Mnet 240328 방송]]></title>
-        <id>https://tv.naver.com/v/49033205</id>
-        <link href="https://tv.naver.com/v/49033205"/>
-        <updated>2024-03-28T11:14:10.947Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - BBB | Mnet 240328 방송]]></title>
-        <id>https://tv.naver.com/v/49033162</id>
-        <link href="https://tv.naver.com/v/49033162"/>
-        <updated>2024-03-28T11:14:10.948Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
 </feed>
