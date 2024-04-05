@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-04-05T06:21:23.721Z</updated>
+    <updated>2024-04-05T07:15:52.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개]✨ 에이스(A.C.E)가 보여주는 NCT U의 Baggy Jeans 개인기🎵✨ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/49418732</id>
+        <link href="https://tv.naver.com/v/49418732"/>
+        <updated>2024-04-05T07:15:46.318Z</updated>
+        <content type="html"><![CDATA[01:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 651회  ＜명사 특집 최수종＞ 우승자 ⭐라키⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/49124614</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49123580"/>
         <updated>2024-03-30T11:14:31.075Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유가 있는 반짝이 의상✨️ 젊은 패기가 담긴 라키의 각오 한마디🔥 | KBS 240330 방송]]></title>
-        <id>https://tv.naver.com/v/49123570</id>
-        <link href="https://tv.naver.com/v/49123570"/>
-        <updated>2024-03-30T11:14:31.078Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
     </entry>
 </feed>
