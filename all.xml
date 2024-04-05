@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-05T05:16:43.544Z</updated>
+    <updated>2024-04-05T06:21:23.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nectar - 더보이즈(THE BOYZ) | KBS 240329 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] ???: 천러가 몇 장이었지? YO~ DREAM!💚#NCTDREAM 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49415784</id>
+        <link href="https://tv.naver.com/v/49415784"/>
+        <updated>2024-04-05T06:20:49.719Z</updated>
+        <content type="html"><![CDATA[05:45]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[티저] 쇼! 음악중심 in JAPAN🎤, MBC 2024 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/49251140</id>
         <link href="https://tv.naver.com/v/49251140"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/49215616"/>
         <updated>2024-04-01T14:15:18.407Z</updated>
         <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ Q (더보이즈 큐) - Nectar | 쇼! 음악중심 | MBC240330방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49215277</id>
-        <link href="https://tv.naver.com/v/49215277"/>
-        <updated>2024-04-01T14:15:18.408Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BoA - 정말, 없니? (Emptiness) | SBS 240331 방송 (인기가요)]]></title>
