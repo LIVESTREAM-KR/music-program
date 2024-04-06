@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-06T08:19:40.828Z</updated>
+    <updated>2024-04-06T09:16:21.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Smoothie - NCT DREAM | KBS 240405 방송 (뮤직뱅크)]]></title>
@@ -96,6 +96,13 @@
         <content type="html"><![CDATA[02:59]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[투모로우바이투게더 - 내일에서 기다릴게 (TXT - I'll See You There Tomorrow), MBC 240406 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49461884</id>
+        <link href="https://tv.naver.com/v/49461884"/>
+        <updated>2024-04-06T09:15:46.240Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[드리핀 - 뷰티풀 메이즈 (DRIPPIN - Beautiful MAZE), MBC 240406 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/49461570</id>
         <link href="https://tv.naver.com/v/49461570"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/49460679"/>
         <updated>2024-04-06T07:14:32.435Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이커스 - 레드 선 (xikers - Red Sun), MBC 240406 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49460677</id>
-        <link href="https://tv.naver.com/v/49460677"/>
-        <updated>2024-04-06T07:14:32.436Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BoA - 정말, 없니? (Emptiness) | SBS 240331 방송 (인기가요)]]></title>

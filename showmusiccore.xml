@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-06T08:19:40.812Z</updated>
+    <updated>2024-04-06T09:16:21.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/49461885"/>
         <updated>2024-04-06T08:19:06.499Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더 - 내일에서 기다릴게 (TXT - I'll See You There Tomorrow), MBC 240406 방송]]></title>
+        <id>https://tv.naver.com/v/49461884</id>
+        <link href="https://tv.naver.com/v/49461884"/>
+        <updated>2024-04-06T09:15:46.240Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드리핀 - 뷰티풀 메이즈 (DRIPPIN - Beautiful MAZE), MBC 240406 방송]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49460679"/>
         <updated>2024-04-06T07:14:32.435Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이커스 - 레드 선 (xikers - Red Sun), MBC 240406 방송]]></title>
-        <id>https://tv.naver.com/v/49460677</id>
-        <link href="https://tv.naver.com/v/49460677"/>
-        <updated>2024-04-06T07:14:32.436Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
