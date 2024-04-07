@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-04-07T06:20:11.254Z</updated>
+    <updated>2024-04-07T07:14:16.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NOWADAYS - OoWee | SBS 240407 방송]]></title>
+        <id>https://tv.naver.com/v/49488590</id>
+        <link href="https://tv.naver.com/v/49488590"/>
+        <updated>2024-04-07T07:13:50.846Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMPERS&ONE - Broken Heart | SBS 240407 방송]]></title>
+        <id>https://tv.naver.com/v/49488438</id>
+        <link href="https://tv.naver.com/v/49488438"/>
+        <updated>2024-04-07T07:13:50.848Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - FUNK JAM | SBS 240407 방송]]></title>
+        <id>https://tv.naver.com/v/49488141</id>
+        <link href="https://tv.naver.com/v/49488141"/>
+        <updated>2024-04-07T07:13:50.851Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIS(유니스) - SUPERWOMAN | SBS 240407 방송]]></title>
+        <id>https://tv.naver.com/v/49488139</id>
+        <link href="https://tv.naver.com/v/49488139"/>
+        <updated>2024-04-07T07:13:50.853Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영파씨(YOUNG POSSE) - XXL | SBS 240407 방송]]></title>
+        <id>https://tv.naver.com/v/49487950</id>
+        <link href="https://tv.naver.com/v/49487950"/>
+        <updated>2024-04-07T07:13:50.854Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Candy Shop - Good Girl | SBS 240407 방송]]></title>
+        <id>https://tv.naver.com/v/49487949</id>
+        <link href="https://tv.naver.com/v/49487949"/>
+        <updated>2024-04-07T07:13:50.856Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BoA - 정말, 없니? (Emptiness) | SBS 240331 방송]]></title>
         <id>https://tv.naver.com/v/49148437</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/49147537"/>
         <updated>2024-03-31T08:19:55.294Z</updated>
         <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) - Nectar | SBS 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49147351</id>
-        <link href="https://tv.naver.com/v/49147351"/>
-        <updated>2024-03-31T08:19:55.295Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAE173 - Fifty-Fifty | SBS 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49147347</id>
-        <link href="https://tv.naver.com/v/49147347"/>
-        <updated>2024-03-31T08:19:55.299Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNIS(유니스) - SUPERWOMAN | SBS 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49146846</id>
-        <link href="https://tv.naver.com/v/49146846"/>
-        <updated>2024-03-31T10:16:28.859Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - BBB | SBS 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49146843</id>
-        <link href="https://tv.naver.com/v/49146843"/>
-        <updated>2024-03-31T08:19:55.301Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILLIT - Magnetic | SBS 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49146798</id>
-        <link href="https://tv.naver.com/v/49146798"/>
-        <updated>2024-03-31T08:19:55.302Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILLIT - My World | SBS 240331 방송]]></title>
-        <id>https://tv.naver.com/v/49146634</id>
-        <link href="https://tv.naver.com/v/49146634"/>
-        <updated>2024-03-31T08:19:55.303Z</updated>
-        <content type="html"><![CDATA[01:46]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-07T06:20:11.250Z</updated>
+    <updated>2024-04-07T07:14:16.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Cherry Blossom.zip 📂 Show! Music Core Cherry Blossom Special Compilation]]></title>
+        <id>https://tv.naver.com/v/48140186</id>
+        <link href="https://tv.naver.com/v/48140186"/>
+        <updated>2024-04-07T07:13:45.681Z</updated>
+        <content type="html"><![CDATA[34:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] NCT DREAM JISUNG (엔시티 드림 지성) - Smoothie 직캠 | 쇼! 음악중심 | MBC240406방송]]></title>
         <id>https://tv.naver.com/v/49466987</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49466449"/>
         <updated>2024-04-06T11:12:42.303Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT MINJU (아일릿 민주) - Magnetic 직캠 | 쇼! 음악중심 | MBC240406방송]]></title>
-        <id>https://tv.naver.com/v/49466287</id>
-        <link href="https://tv.naver.com/v/49466287"/>
-        <updated>2024-04-06T11:12:42.304Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
