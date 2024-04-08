@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-08T10:20:15.642Z</updated>
+    <updated>2024-04-08T11:14:35.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월 1주 1위 'NCT DREAM'의 'Smoothie' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/49544480</id>
+        <link href="https://tv.naver.com/v/49544480"/>
+        <updated>2024-04-08T11:14:14.149Z</updated>
+        <content type="html"><![CDATA[06:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앰퍼샌드원 (AMPERS&ONE) - Broken Heart | Mnet 240404 방송]]></title>
         <id>https://tv.naver.com/v/49386734</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49376945"/>
         <updated>2024-04-04T11:14:14.021Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' DRIPPIN - Beautiful MAZE | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49376702</id>
-        <link href="https://tv.naver.com/v/49376702"/>
-        <updated>2024-04-04T11:14:14.023Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
