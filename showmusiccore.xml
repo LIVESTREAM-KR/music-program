@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-08T06:22:28.656Z</updated>
+    <updated>2024-04-08T07:17:36.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 범규(TXT) , 4월 첫째 주 음악중심 MC 컷 모음!, MBC 240406 방송]]></title>
+        <id>https://tv.naver.com/v/49528396</id>
+        <link href="https://tv.naver.com/v/49528396"/>
+        <updated>2024-04-08T07:17:02.618Z</updated>
+        <content type="html"><![CDATA[18:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TOMORROW X TOGETHER YEONJUN (투모로우바이투게더 연준) - Deja Vu | 쇼! 음악중심 | MBC240406방송]]></title>
         <id>https://tv.naver.com/v/49527094</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49466574"/>
         <updated>2024-04-06T11:12:42.300Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT WONHEE (아일릿 원희) - Magnetic 직캠 | 쇼! 음악중심 | MBC240406방송]]></title>
-        <id>https://tv.naver.com/v/49466478</id>
-        <link href="https://tv.naver.com/v/49466478"/>
-        <updated>2024-04-06T11:12:42.301Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-08T06:22:28.669Z</updated>
+    <updated>2024-04-08T07:17:36.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Smoothie - NCT DREAM | KBS 240405 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:58]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 범규(TXT) , 4월 첫째 주 음악중심 MC 컷 모음!, MBC 240406 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49528396</id>
+        <link href="https://tv.naver.com/v/49528396"/>
+        <updated>2024-04-08T07:17:02.618Z</updated>
+        <content type="html"><![CDATA[18:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] TOMORROW X TOGETHER YEONJUN (투모로우바이투게더 연준) - Deja Vu | 쇼! 음악중심 | MBC240406방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/49527094</id>
         <link href="https://tv.naver.com/v/49527094"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/49466574"/>
         <updated>2024-04-06T11:12:42.300Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT WONHEE (아일릿 원희) - Magnetic 직캠 | 쇼! 음악중심 | MBC240406방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49466478</id>
-        <link href="https://tv.naver.com/v/49466478"/>
-        <updated>2024-04-06T11:12:42.301Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - Smoothie  | SBS 240407 방송 (인기가요)]]></title>
