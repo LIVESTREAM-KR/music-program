@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-08T05:17:11.065Z</updated>
+    <updated>2024-04-08T06:22:28.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TOMORROW X TOGETHER YEONJUN (투모로우바이투게더 연준) - Deja Vu | 쇼! 음악중심 | MBC240406방송]]></title>
+        <id>https://tv.naver.com/v/49527094</id>
+        <link href="https://tv.naver.com/v/49527094"/>
+        <updated>2024-04-08T06:21:56.692Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Cherry Blossom.zip 📂 Show! Music Core Cherry Blossom Special Compilation]]></title>
         <id>https://tv.naver.com/v/48140186</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49466478"/>
         <updated>2024-04-06T11:12:42.301Z</updated>
         <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT MOKA (아일릿 모카) - Magnetic 직캠 | 쇼! 음악중심 | MBC240406방송]]></title>
-        <id>https://tv.naver.com/v/49466449</id>
-        <link href="https://tv.naver.com/v/49466449"/>
-        <updated>2024-04-06T11:12:42.303Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
