@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-08T09:18:12.035Z</updated>
+    <updated>2024-04-08T10:20:15.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JISUNG (엔시티 드림 지성) - Smoothie | 쇼! 음악중심 | MBC240406방송]]></title>
+        <id>https://tv.naver.com/v/49541274</id>
+        <link href="https://tv.naver.com/v/49541274"/>
+        <updated>2024-04-08T10:19:41.082Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ILLIT MINJU (아일릿 민주) - Magnetic | 쇼! 음악중심 | MBC240406방송]]></title>
+        <id>https://tv.naver.com/v/49540990</id>
+        <link href="https://tv.naver.com/v/49540990"/>
+        <updated>2024-04-08T10:19:41.083Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TOMORROW X TOGETHER SOOBIN (투모로우바이투게더 수빈) - I’ll See You There Tomorrow | 쇼! 음악중심 | MBC2404]]></title>
+        <id>https://tv.naver.com/v/49540675</id>
+        <link href="https://tv.naver.com/v/49540675"/>
+        <updated>2024-04-08T10:19:41.083Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 범규(TXT) , 4월 첫째 주 음악중심 MC 컷 모음!, MBC 240406 방송]]></title>
         <id>https://tv.naver.com/v/49528396</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/49466885"/>
         <updated>2024-04-06T11:12:42.294Z</updated>
         <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] UNIS (유니스) – SUPERWOMAN 풀캠 | 쇼! 음악중심 | MBC240406방송]]></title>
-        <id>https://tv.naver.com/v/49466718</id>
-        <link href="https://tv.naver.com/v/49466718"/>
-        <updated>2024-04-06T11:12:42.296Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM MARK (엔시티 드림 마크) - Smoothie 직캠 | 쇼! 음악중심 | MBC240406방송]]></title>
-        <id>https://tv.naver.com/v/49466714</id>
-        <link href="https://tv.naver.com/v/49466714"/>
-        <updated>2024-04-06T11:12:42.298Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT YUNAH (아일릿 윤아) - Magnetic 직캠 | 쇼! 음악중심 | MBC240406방송]]></title>
-        <id>https://tv.naver.com/v/49466574</id>
-        <link href="https://tv.naver.com/v/49466574"/>
-        <updated>2024-04-06T11:12:42.300Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
