@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-10T08:23:57.280Z</updated>
+    <updated>2024-04-10T09:18:32.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Smoothie - NCT DREAM | KBS 240405 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[만능돌하면 임서원이지!🫶 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/49598023</id>
+        <link href="https://tv.naver.com/v/49598023"/>
+        <updated>2024-04-10T09:18:20.068Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[세상 이쁜 유니스를 보여줄 타이밍 🩷 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/49598005</id>
         <link href="https://tv.naver.com/v/49598005"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/49355686</id>
         <link href="https://tv.naver.com/v/49355686"/>
         <updated>2024-04-04T08:21:18.687Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] ILLIT MOKA - My World (아일릿 모카 - 마이 월드) | Show Champion | EP.512 | 240403 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/49355395</id>
-        <link href="https://tv.naver.com/v/49355395"/>
-        <updated>2024-04-04T08:21:18.689Z</updated>
         <content type="html"><![CDATA[01:49]]></content>
     </entry>
     <entry>
