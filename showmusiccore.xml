@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-10T06:22:20.801Z</updated>
+    <updated>2024-04-10T07:18:11.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 2020 K-POP DEBUT SONG.zip 📂 Show! Music Core 2020 KPOP DEBUT SONG Special Compilation]]></title>
+        <id>https://tv.naver.com/v/48899889</id>
+        <link href="https://tv.naver.com/v/48899889"/>
+        <updated>2024-04-10T07:17:36.118Z</updated>
+        <content type="html"><![CDATA[57:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DREAM JISUNG (엔시티 드림 지성) - Smoothie | 쇼! 음악중심 | MBC240406방송]]></title>
         <id>https://tv.naver.com/v/49541274</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49466887"/>
         <updated>2024-04-06T11:12:42.293Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM (엔시티 드림) – Smoothie 풀캠 | 쇼! 음악중심 | MBC240406방송]]></title>
-        <id>https://tv.naver.com/v/49466885</id>
-        <link href="https://tv.naver.com/v/49466885"/>
-        <updated>2024-04-06T11:12:42.294Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
     </entry>
 </feed>
