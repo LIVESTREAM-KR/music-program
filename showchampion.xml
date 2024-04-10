@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-10T10:19:18.062Z</updated>
+    <updated>2024-04-10T11:16:41.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 피원하모니(P1Harmony) - 끝장내 (End It) l 240410]]></title>
+        <id>https://tv.naver.com/v/49645753</id>
+        <link href="https://tv.naver.com/v/49645753"/>
+        <updated>2024-04-10T11:16:31.437Z</updated>
+        <content type="html"><![CDATA[11:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루카스(LUCAS) - Renegade l 240410]]></title>
         <id>https://tv.naver.com/v/49644506</id>
@@ -48,6 +55,13 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아일릿(ILLIT) - Magnetic l 240410]]></title>
+        <id>https://tv.naver.com/v/49643599</id>
+        <link href="https://tv.naver.com/v/49643599"/>
+        <updated>2024-04-10T11:16:31.450Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔싸인(n.SSign) - FUNK JAM l 240410]]></title>
         <id>https://tv.naver.com/v/49643598</id>
         <link href="https://tv.naver.com/v/49643598"/>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/49643205"/>
         <updated>2024-04-10T10:19:06.703Z</updated>
         <content type="html"><![CDATA[02:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티에이엔(TAN) - HYPERTONIC l 240410]]></title>
-        <id>https://tv.naver.com/v/49643171</id>
-        <link href="https://tv.naver.com/v/49643171"/>
-        <updated>2024-04-10T10:19:06.704Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HOT DEBUT] 나우어데이즈(NOWADAYS) - OoWee l 240410]]></title>
-        <id>https://tv.naver.com/v/49643169</id>
-        <link href="https://tv.naver.com/v/49643169"/>
-        <updated>2024-04-10T10:19:06.706Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
