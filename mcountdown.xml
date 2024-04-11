@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-11T09:17:37.894Z</updated>
+    <updated>2024-04-11T10:18:30.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경서 - 칵테일 사랑 | Mnet 240411 방송]]></title>
+        <id>https://tv.naver.com/v/49693661</id>
+        <link href="https://tv.naver.com/v/49693661"/>
+        <updated>2024-04-11T10:18:08.065Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with BABYMONSTER (베이비몬스터) | Mnet 240411 방송]]></title>
+        <id>https://tv.naver.com/v/49693659</id>
+        <link href="https://tv.naver.com/v/49693659"/>
+        <updated>2024-04-11T10:18:08.065Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIS(유니스) - SUPERWOMAN | Mnet 240411 방송]]></title>
+        <id>https://tv.naver.com/v/49692910</id>
+        <link href="https://tv.naver.com/v/49692910"/>
+        <updated>2024-04-11T10:18:08.065Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VVUP(비비업) - Locked On | Mnet 240411 방송]]></title>
+        <id>https://tv.naver.com/v/49692714</id>
+        <link href="https://tv.naver.com/v/49692714"/>
+        <updated>2024-04-11T10:18:08.065Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김초월 - 신기루정원 | Mnet 240411 방송]]></title>
+        <id>https://tv.naver.com/v/49692710</id>
+        <link href="https://tv.naver.com/v/49692710"/>
+        <updated>2024-04-11T10:18:08.065Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/49606148</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/49378566"/>
         <updated>2024-04-04T12:29:27.791Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 투모로우바이투게더 - Deja Vu | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49378124</id>
-        <link href="https://tv.naver.com/v/49378124"/>
-        <updated>2024-04-04T12:29:27.792Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 투모로우바이투게더 - 내일에서 기다릴게 (I'll See You There Tomorrow) | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49378123</id>
-        <link href="https://tv.naver.com/v/49378123"/>
-        <updated>2024-04-04T12:29:27.792Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['먼슬리 엠카PICK' 3월의 엠카PICK 송 & 스테이지는? | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49377777</id>
-        <link href="https://tv.naver.com/v/49377777"/>
-        <updated>2024-04-04T11:14:14.017Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콜라주 M' 임슬옹 X 이성경 - 이별이 다시 우릴 비춰주길 | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49377491</id>
-        <link href="https://tv.naver.com/v/49377491"/>
-        <updated>2024-04-04T11:14:14.018Z</updated>
-        <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SOLO DEBUT' 루카스 (LUCAS) - Renegade | Mnet 240404 방송]]></title>
-        <id>https://tv.naver.com/v/49377252</id>
-        <link href="https://tv.naver.com/v/49377252"/>
-        <updated>2024-04-04T11:14:14.019Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
