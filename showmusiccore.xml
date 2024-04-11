@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-11T06:21:35.905Z</updated>
+    <updated>2024-04-11T07:16:47.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] REFRESH K-POP.zip 📂 Show! Music Core REFRESH K-POP Special Compilation]]></title>
+        <id>https://tv.naver.com/v/49550627</id>
+        <link href="https://tv.naver.com/v/49550627"/>
+        <updated>2024-04-11T07:16:12.782Z</updated>
+        <content type="html"><![CDATA[01:37:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] 2020 K-POP DEBUT SONG.zip 📂 Show! Music Core 2020 KPOP DEBUT SONG Special Compilation]]></title>
         <id>https://tv.naver.com/v/48899889</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49466986"/>
         <updated>2024-04-06T11:12:42.293Z</updated>
         <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM HAECHAN (엔시티 드림 해찬) - Smoothie 직캠 | 쇼! 음악중심 | MBC240406방송]]></title>
-        <id>https://tv.naver.com/v/49466887</id>
-        <link href="https://tv.naver.com/v/49466887"/>
-        <updated>2024-04-06T11:12:42.293Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
     </entry>
 </feed>
