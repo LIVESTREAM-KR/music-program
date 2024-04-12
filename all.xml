@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-12T06:21:43.509Z</updated>
+    <updated>2024-04-12T07:18:37.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Smoothie - NCT DREAM | KBS 240405 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:58]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NCT DREAM (엔시티 드림) - Smoothie | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49693468</id>
+        <link href="https://tv.naver.com/v/49693468"/>
+        <updated>2024-04-12T07:18:03.225Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 🦊YA YA~ 투바투 비하인드 왔다~🧡 핫한 무대 위로 키오프가 날아다닙니다😽 #TXT #KISSOFLIFE 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/49700014</id>
         <link href="https://tv.naver.com/v/49700014"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/48140186"/>
         <updated>2024-04-07T07:13:45.681Z</updated>
         <content type="html"><![CDATA[34:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JISUNG (엔시티 드림 지성) - Smoothie 직캠 | 쇼! 음악중심 | MBC240406방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49466987</id>
-        <link href="https://tv.naver.com/v/49466987"/>
-        <updated>2024-04-06T11:12:42.293Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - Smoothie  | SBS 240407 방송 (인기가요)]]></title>
