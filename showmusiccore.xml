@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-12T03:18:18.516Z</updated>
+    <updated>2024-04-12T04:20:58.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 🦊YA YA~ 투바투 비하인드 왔다~🧡 핫한 무대 위로 키오프가 날아다닙니다😽 #TXT #KISSOFLIFE 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/49700014</id>
+        <link href="https://tv.naver.com/v/49700014"/>
+        <updated>2024-04-12T04:20:24.632Z</updated>
+        <content type="html"><![CDATA[07:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] REFRESH K-POP.zip 📂 Show! Music Core REFRESH K-POP Special Compilation]]></title>
         <id>https://tv.naver.com/v/49550627</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49466987"/>
         <updated>2024-04-06T11:12:42.293Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] NCT DREAM JAEMIN (엔시티 드림 재민) - Smoothie 직캠 | 쇼! 음악중심 | MBC240406방송]]></title>
-        <id>https://tv.naver.com/v/49466986</id>
-        <link href="https://tv.naver.com/v/49466986"/>
-        <updated>2024-04-06T11:12:42.293Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
     </entry>
 </feed>
