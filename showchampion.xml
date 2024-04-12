@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-12T01:09:55.141Z</updated>
+    <updated>2024-04-12T02:28:37.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.513 | 240410]]></title>
+        <id>https://tv.naver.com/v/49647791</id>
+        <link href="https://tv.naver.com/v/49647791"/>
+        <updated>2024-04-12T02:28:27.029Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] xikers - Red Sun (싸이커스 - 레드 선) | Show Champion | EP.513 | 240410]]></title>
         <id>https://tv.naver.com/v/49669115</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49680497"/>
         <updated>2024-04-11T08:25:09.463Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUCAS - Renegade (루카스 - 레니게이드) | Show Champion | EP.513 | 240410]]></title>
-        <id>https://tv.naver.com/v/49646474</id>
-        <link href="https://tv.naver.com/v/49646474"/>
-        <updated>2024-04-11T08:25:09.466Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
