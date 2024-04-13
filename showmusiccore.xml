@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-13T13:16:40.334Z</updated>
+    <updated>2024-04-13T14:14:56.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예능연구소] TOMORROW X TOGETHER TAEHYUN(투모로우바이투게더 태현) - Deja Vu 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788341</id>
-        <link href="https://tv.naver.com/v/49788341"/>
-        <updated>2024-04-13T11:11:41.707Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[미방분] 4월 2주차 1위 아일릿 - 마그네틱 (ILLIT - Magnetic), MBC 240413 방송]]></title>
         <id>https://tv.naver.com/v/49788353</id>
         <link href="https://tv.naver.com/v/49788353"/>
@@ -53,6 +46,13 @@
         <link href="https://tv.naver.com/v/49788352"/>
         <updated>2024-04-13T11:11:41.706Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] TOMORROW X TOGETHER TAEHYUN(투모로우바이투게더 태현) - Deja Vu 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
+        <id>https://tv.naver.com/v/49788341</id>
+        <link href="https://tv.naver.com/v/49788341"/>
+        <updated>2024-04-13T11:11:41.707Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ILLIT MOKA (아일릿 모카) - Magnetic 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
