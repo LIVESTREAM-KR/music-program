@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-04-13T11:12:16.184Z</updated>
+    <updated>2024-04-13T12:26:30.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 달달함 초과 💞세기의 사랑꾼 편💞 이찬원의 특별 무대까지? 본방사수💘 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/49789387</id>
+        <link href="https://tv.naver.com/v/49789387"/>
+        <updated>2024-04-13T12:26:24.745Z</updated>
+        <content type="html"><![CDATA[00:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정선아 - Into the Unknown | KBS 240413 방송]]></title>
+        <id>https://tv.naver.com/v/49789376</id>
+        <link href="https://tv.naver.com/v/49789376"/>
+        <updated>2024-04-13T12:26:24.749Z</updated>
+        <content type="html"><![CDATA[04:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼어붙을 듯한 고음, 여왕의 모습을👑 증명한 정선아의 무대 | KBS 240413 방송]]></title>
+        <id>https://tv.naver.com/v/49789242</id>
+        <link href="https://tv.naver.com/v/49789242"/>
+        <updated>2024-04-13T12:26:24.751Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[※결과 확인※ 김연지 vs 정선아! 명곡판정단의 마지막 선택은 과연? | KBS 240413 방송]]></title>
+        <id>https://tv.naver.com/v/49789226</id>
+        <link href="https://tv.naver.com/v/49789226"/>
+        <updated>2024-04-13T12:26:24.751Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진심이 담긴 떨림, 감동을 전해준 이소정의 무대😭 (ft. 나얼의 응원 메세지) | KBS 240413 방송]]></title>
         <id>https://tv.naver.com/v/49788503</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/49787729"/>
         <updated>2024-04-13T11:12:09.834Z</updated>
         <content type="html"><![CDATA[01:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박기영 - Love Poem | KBS 240413 방송]]></title>
-        <id>https://tv.naver.com/v/49787725</id>
-        <link href="https://tv.naver.com/v/49787725"/>
-        <updated>2024-04-13T11:12:09.835Z</updated>
-        <content type="html"><![CDATA[05:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 목표는 오직 우승! 국가대표 디바👑 박기영의 선곡은? | KBS 240413 방송]]></title>
-        <id>https://tv.naver.com/v/49787724</id>
-        <link href="https://tv.naver.com/v/49787724"/>
-        <updated>2024-04-13T11:12:09.836Z</updated>
-        <content type="html"><![CDATA[01:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이예준의 눈물💧 하늘이 열리는 듯한 열창을 보여준 양지은의 무대 | KBS 240413 방송]]></title>
-        <id>https://tv.naver.com/v/49787107</id>
-        <link href="https://tv.naver.com/v/49787107"/>
-        <updated>2024-04-13T11:12:09.839Z</updated>
-        <content type="html"><![CDATA[02:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음색 여신 이소정✨ 선곡으로 던지는 엄청난 승부수?! | KBS 240413 방송]]></title>
-        <id>https://tv.naver.com/v/49787105</id>
-        <link href="https://tv.naver.com/v/49787105"/>
-        <updated>2024-04-13T11:12:09.841Z</updated>
-        <content type="html"><![CDATA[01:48]]></content>
     </entry>
 </feed>
