@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-14T11:23:36.398Z</updated>
+    <updated>2024-04-14T14:47:20.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Deja Vu - 투모로우바이투게더 | KBS 240412 방송 (뮤직뱅크)]]></title>
@@ -537,18 +537,18 @@
         <content type="html"><![CDATA[01:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['진실된 구라'의 정체는 방송인 샘 해밍턴!, MBC 240414 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/49818279</id>
-        <link href="https://tv.naver.com/v/49818279"/>
-        <updated>2024-04-14T11:23:35.832Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[복면가왕 명예소방관 '쩐 없는 구준표'의 깜찍한 하트 댄스💗, MBC 240414 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/49818277</id>
         <link href="https://tv.naver.com/v/49818277"/>
         <updated>2024-04-14T11:23:35.834Z</updated>
         <content type="html"><![CDATA[01:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['진실된 구라'의 정체는 방송인 샘 해밍턴!, MBC 240414 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/49818279</id>
+        <link href="https://tv.naver.com/v/49818279"/>
+        <updated>2024-04-14T11:23:35.832Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['쩐 없는 구준표' VS '진실된 구라'의 1라운드 무대 - 이태원 프리덤, MBC 240414 방송 (복면가왕)]]></title>
