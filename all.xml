@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-15T05:14:31.631Z</updated>
+    <updated>2024-04-15T06:20:52.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Deja Vu - 투모로우바이투게더 | KBS 240412 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 원희(ILLIT) X 은석(RIIZE) , 4월 둘째 주 음악중심 MC 컷 모음!, MBC 240413 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/49851325</id>
+        <link href="https://tv.naver.com/v/49851325"/>
+        <updated>2024-04-15T06:20:18.673Z</updated>
+        <content type="html"><![CDATA[16:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ILLIT (아일릿) – Magnetic 1위 직캠 | 쇼! 음악중심 | MBC240413방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/49788671</id>
         <link href="https://tv.naver.com/v/49788671"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/49788193"/>
         <updated>2024-04-13T11:11:41.710Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT (아일릿) – Magnetic 풀캠 | 쇼! 음악중심 | MBC240413방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/49788036</id>
-        <link href="https://tv.naver.com/v/49788036"/>
-        <updated>2024-04-13T11:11:41.712Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[투모로우바이투게더 - Deja Vu | SBS 240414 방송 (인기가요)]]></title>
