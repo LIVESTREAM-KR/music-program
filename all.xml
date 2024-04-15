@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-15T12:30:13.085Z</updated>
+    <updated>2024-04-15T13:18:15.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Deja Vu - 투모로우바이투게더 | KBS 240412 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[4월 2주 1위 '투모로우바이투게더'의 'Deja Vu' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/49875152</id>
+        <link href="https://tv.naver.com/v/49875152"/>
+        <updated>2024-04-15T13:17:51.112Z</updated>
+        <content type="html"><![CDATA[05:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투모로우바이투게더 - Deja Vu | Mnet 240411 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/49698003</id>
         <link href="https://tv.naver.com/v/49698003"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/49696462"/>
         <updated>2024-04-11T11:14:57.990Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - Red Sun | Mnet 240411 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/49696113</id>
-        <link href="https://tv.naver.com/v/49696113"/>
-        <updated>2024-04-11T11:14:57.990Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
