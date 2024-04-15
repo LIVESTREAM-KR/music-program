@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-15T06:20:52.160Z</updated>
+    <updated>2024-04-15T07:13:29.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TOMORROW X TOGETHER SOOBIN (투모로우바이투게더 수빈) - Deja Vu | 쇼! 음악중심 | MBC240413방송]]></title>
+        <id>https://tv.naver.com/v/49855053</id>
+        <link href="https://tv.naver.com/v/49855053"/>
+        <updated>2024-04-15T07:12:55.010Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TOMORROW X TOGETHER YEONJUN (투모로우바이투게더 연준) - Deja Vu | 쇼! 음악중심 | MBC240413방송]]></title>
+        <id>https://tv.naver.com/v/49854667</id>
+        <link href="https://tv.naver.com/v/49854667"/>
+        <updated>2024-04-15T07:12:55.010Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 원희(ILLIT) X 은석(RIIZE) , 4월 둘째 주 음악중심 MC 컷 모음!, MBC 240413 방송]]></title>
         <id>https://tv.naver.com/v/49851325</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/49788341"/>
         <updated>2024-04-13T11:11:41.707Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT MOKA (아일릿 모카) - Magnetic 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788211</id>
-        <link href="https://tv.naver.com/v/49788211"/>
-        <updated>2024-04-13T11:11:41.709Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT YUNAH (아일릿 윤아) - Magnetic 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788193</id>
-        <link href="https://tv.naver.com/v/49788193"/>
-        <updated>2024-04-13T11:11:41.710Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
