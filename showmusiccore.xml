@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-15T07:13:29.568Z</updated>
+    <updated>2024-04-15T08:17:24.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ILLIT MOKA (아일릿 모카) - Magnetic | 쇼! 음악중심 | MBC240413방송]]></title>
+        <id>https://tv.naver.com/v/49858594</id>
+        <link href="https://tv.naver.com/v/49858594"/>
+        <updated>2024-04-15T08:16:49.527Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TOMORROW X TOGETHER SOOBIN (투모로우바이투게더 수빈) - Deja Vu | 쇼! 음악중심 | MBC240413방송]]></title>
         <id>https://tv.naver.com/v/49855053</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49788352"/>
         <updated>2024-04-13T11:11:41.706Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] TOMORROW X TOGETHER TAEHYUN(투모로우바이투게더 태현) - Deja Vu 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788341</id>
-        <link href="https://tv.naver.com/v/49788341"/>
-        <updated>2024-04-13T11:11:41.707Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
