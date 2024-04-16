@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-04-16T10:17:40.110Z</updated>
+    <updated>2024-04-16T11:14:26.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/49935349</id>
+        <link href="https://tv.naver.com/v/49935349"/>
+        <updated>2024-04-16T11:14:09.655Z</updated>
+        <content type="html"><![CDATA[07:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster [THE SHOW 240416]]]></title>
+        <id>https://tv.naver.com/v/49934752</id>
+        <link href="https://tv.naver.com/v/49934752"/>
+        <updated>2024-04-16T11:14:09.657Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루카스 - Renegade [THE SHOW 240416]]]></title>
+        <id>https://tv.naver.com/v/49934428</id>
+        <link href="https://tv.naver.com/v/49934428"/>
+        <updated>2024-04-16T11:14:09.659Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - C'est La Vie [THE SHOW 240416]]]></title>
+        <id>https://tv.naver.com/v/49933874</id>
+        <link href="https://tv.naver.com/v/49933874"/>
+        <updated>2024-04-16T11:14:09.663Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIPPIN  - Beautiful MAZE [THE SHOW 240416]]]></title>
+        <id>https://tv.naver.com/v/49933872</id>
+        <link href="https://tv.naver.com/v/49933872"/>
+        <updated>2024-04-16T11:14:09.667Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - Red Sun [THE SHOW 240416]]]></title>
+        <id>https://tv.naver.com/v/49933799</id>
+        <link href="https://tv.naver.com/v/49933799"/>
+        <updated>2024-04-16T11:14:09.667Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPEX(이펙스) - 청춘에게(Youth2Youth) [THE SHOW 240416]]]></title>
+        <id>https://tv.naver.com/v/49933554</id>
+        <link href="https://tv.naver.com/v/49933554"/>
+        <updated>2024-04-16T11:14:09.667Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EPEX(이펙스) - Breathe in Love [THE SHOW 240416]]]></title>
         <id>https://tv.naver.com/v/49933274</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/49933270"/>
         <updated>2024-04-16T10:17:23.338Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNIS(유니스) - SUPERWOMAN [THE SHOW 240416]]]></title>
-        <id>https://tv.naver.com/v/49932979</id>
-        <link href="https://tv.naver.com/v/49932979"/>
-        <updated>2024-04-16T10:17:23.343Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNIS(유니스) - Dopamine(UNIS Ver.) [THE SHOW 240416]]]></title>
-        <id>https://tv.naver.com/v/49932721</id>
-        <link href="https://tv.naver.com/v/49932721"/>
-        <updated>2024-04-16T10:17:23.345Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앰퍼샌드원(AMPERS&ONE) - Someday [THE SHOW 240416]]]></title>
-        <id>https://tv.naver.com/v/49932717</id>
-        <link href="https://tv.naver.com/v/49932717"/>
-        <updated>2024-04-16T10:17:23.347Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - Nothing [THE SHOW 240416]]]></title>
-        <id>https://tv.naver.com/v/49932172</id>
-        <link href="https://tv.naver.com/v/49932172"/>
-        <updated>2024-04-16T10:17:23.349Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOWADAYS - OoWee [THE SHOW 240416]]]></title>
-        <id>https://tv.naver.com/v/49931818</id>
-        <link href="https://tv.naver.com/v/49931818"/>
-        <updated>2024-04-16T10:17:23.350Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔카이브(NCHIVE) - Racer [THE SHOW 240416]]]></title>
-        <id>https://tv.naver.com/v/49931480</id>
-        <link href="https://tv.naver.com/v/49931480"/>
-        <updated>2024-04-16T10:17:23.354Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Candy Shop  - Good Girl [THE SHOW 240416]]]></title>
-        <id>https://tv.naver.com/v/49931205</id>
-        <link href="https://tv.naver.com/v/49931205"/>
-        <updated>2024-04-16T10:17:23.354Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
     </entry>
 </feed>
