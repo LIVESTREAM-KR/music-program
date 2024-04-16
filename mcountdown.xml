@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-16T11:14:26.509Z</updated>
+    <updated>2024-04-16T12:30:36.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아일릿(ILLIT)이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/49937659</id>
+        <link href="https://tv.naver.com/v/49937659"/>
+        <updated>2024-04-16T12:30:13.767Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월 2주 1위 '투모로우바이투게더'의 'Deja Vu' 앵콜 무대! (Full ver.)]]></title>
         <id>https://tv.naver.com/v/49875152</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49696691"/>
         <updated>2024-04-11T11:14:57.989Z</updated>
         <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' EPEX (이펙스) - 청춘에게 (Youth2Youth) | Mnet 240411 방송]]></title>
-        <id>https://tv.naver.com/v/49696462</id>
-        <link href="https://tv.naver.com/v/49696462"/>
-        <updated>2024-04-11T11:14:57.990Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
