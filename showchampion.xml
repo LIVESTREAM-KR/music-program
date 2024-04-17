@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-17T10:18:34.441Z</updated>
+    <updated>2024-04-17T11:16:22.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 피원하모니(P1Harmony) - Fall In Love Again l 240417]]></title>
+        <id>https://tv.naver.com/v/49996943</id>
+        <link href="https://tv.naver.com/v/49996943"/>
+        <updated>2024-04-17T11:16:10.176Z</updated>
+        <content type="html"><![CDATA[10:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루카스(LUCAS) - Renegade l 240417]]></title>
         <id>https://tv.naver.com/v/49995975</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49994388"/>
         <updated>2024-04-17T10:18:22.658Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐치더영(Catch The Young) - Voyager l 240417]]></title>
-        <id>https://tv.naver.com/v/49994125</id>
-        <link href="https://tv.naver.com/v/49994125"/>
-        <updated>2024-04-17T10:18:22.659Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
