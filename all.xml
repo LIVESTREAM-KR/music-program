@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-17T03:17:48.785Z</updated>
+    <updated>2024-04-17T04:21:13.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Deja Vu - 투모로우바이투게더 | KBS 240412 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[01:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#복면가왕] 복가 9주년, 9시 9분 출생? 이거 운명이잖아..⭐크래비티 정모가 부르는 《널 생각해》, 《스토커》 | #크래비티 #정모 MBC240414방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/49918415</id>
+        <link href="https://tv.naver.com/v/49918415"/>
+        <updated>2024-04-17T04:21:12.953Z</updated>
+        <content type="html"><![CDATA[12:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 🎸한국 록의 대들보 베이시스트🔥 YB 박태희 하이라이트!, MBC 240414 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/49931139</id>
         <link href="https://tv.naver.com/v/49931139"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/49818608"/>
         <updated>2024-04-14T11:23:35.831Z</updated>
         <content type="html"><![CDATA[01:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복면가왕 명예소방관 '쩐 없는 구준표'의 깜찍한 하트 댄스💗, MBC 240414 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/49818277</id>
-        <link href="https://tv.naver.com/v/49818277"/>
-        <updated>2024-04-14T11:23:35.834Z</updated>
-        <content type="html"><![CDATA[01:22]]></content>
     </entry>
 </feed>
