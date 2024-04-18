@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-18T06:22:20.414Z</updated>
+    <updated>2024-04-18T07:16:29.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] 2021 K-POP DEBUT SONG.zip 📂 Show! Music Core 2021 KPOP DEBUT SONG Special Compilation]]></title>
+        <id>https://tv.naver.com/v/50030897</id>
+        <link href="https://tv.naver.com/v/50030897"/>
+        <updated>2024-04-18T07:15:53.839Z</updated>
+        <content type="html"><![CDATA[36:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼! 음악중심] 클래식과 케이팝의 황금비율을 말아옴🎼 #ONF #Shorts]]></title>
+        <id>https://tv.naver.com/v/49916731</id>
+        <link href="https://tv.naver.com/v/49916731"/>
+        <updated>2024-04-18T07:15:53.839Z</updated>
+        <content type="html"><![CDATA[00:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ILLIT MOKA (아일릿 모카) - Magnetic | 쇼! 음악중심 | MBC240413방송]]></title>
         <id>https://tv.naver.com/v/49858594</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/49788662"/>
         <updated>2024-04-13T11:11:41.703Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미방분] 4월 2주차 1위 아일릿 - 마그네틱 (ILLIT - Magnetic), MBC 240413 방송]]></title>
-        <id>https://tv.naver.com/v/49788353</id>
-        <link href="https://tv.naver.com/v/49788353"/>
-        <updated>2024-04-13T11:11:41.705Z</updated>
-        <content type="html"><![CDATA[04:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ILLIT WONHEE (아일릿 원희) - Magnetic 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788352</id>
-        <link href="https://tv.naver.com/v/49788352"/>
-        <updated>2024-04-13T11:11:41.706Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
