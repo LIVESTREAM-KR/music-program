@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-18T11:14:39.246Z</updated>
+    <updated>2024-04-18T12:29:46.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' SUPER JUNIOR-D&E - GGB | Mnet 240418 방송]]></title>
+        <id>https://tv.naver.com/v/50061896</id>
+        <link href="https://tv.naver.com/v/50061896"/>
+        <updated>2024-04-18T12:29:24.675Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' BOYNEXTDOOR - Earth, Wind & Fire | Mnet 240418 방송]]></title>
+        <id>https://tv.naver.com/v/50061602</id>
+        <link href="https://tv.naver.com/v/50061602"/>
+        <updated>2024-04-18T12:29:24.681Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' BOYNEXTDOOR - OUR | Mnet 240418 방송]]></title>
+        <id>https://tv.naver.com/v/50061599</id>
+        <link href="https://tv.naver.com/v/50061599"/>
+        <updated>2024-04-18T12:29:24.682Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' RIIZE - Impossible | Mnet 240418 방송]]></title>
+        <id>https://tv.naver.com/v/50061213</id>
+        <link href="https://tv.naver.com/v/50061213"/>
+        <updated>2024-04-18T12:29:24.682Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' LAY ZHANG - PSYCHIC (Korean Ver.) | Mnet 240418 방송]]></title>
+        <id>https://tv.naver.com/v/50060721</id>
+        <link href="https://tv.naver.com/v/50060721"/>
+        <updated>2024-04-18T12:29:24.682Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster | Mnet 240418 방송]]></title>
+        <id>https://tv.naver.com/v/50060411</id>
+        <link href="https://tv.naver.com/v/50060411"/>
+        <updated>2024-04-18T12:29:24.682Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['샤인멍또캣 100일 잔치' ❤️우정 테스트❤️ | Mnet 240418 방송]]></title>
+        <id>https://tv.naver.com/v/50060394</id>
+        <link href="https://tv.naver.com/v/50060394"/>
+        <updated>2024-04-18T12:29:24.685Z</updated>
+        <content type="html"><![CDATA[04:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미니 팬미팅' with RIIZE (라이즈) (with BRIIZE) | Mnet 240418 방송]]></title>
         <id>https://tv.naver.com/v/50059815</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/50058970"/>
         <updated>2024-04-18T11:14:17.559Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루카스 (LUCAS) - Renegade | Mnet 240418 방송]]></title>
-        <id>https://tv.naver.com/v/50058969</id>
-        <link href="https://tv.naver.com/v/50058969"/>
-        <updated>2024-04-18T11:14:17.560Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' with BOYNEXTDOOR (보이넥스트도어) (with ONEDOOR (원도어) ❤️) | Mnet 240418 방송]]></title>
-        <id>https://tv.naver.com/v/50058667</id>
-        <link href="https://tv.naver.com/v/50058667"/>
-        <updated>2024-04-18T11:14:17.561Z</updated>
-        <content type="html"><![CDATA[06:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - C'est La Vie | Mnet 240418 방송]]></title>
-        <id>https://tv.naver.com/v/50058208</id>
-        <link href="https://tv.naver.com/v/50058208"/>
-        <updated>2024-04-18T11:14:17.563Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX (이펙스) - 청춘에게 (Youth2Youth) | Mnet 240418 방송]]></title>
-        <id>https://tv.naver.com/v/50057665</id>
-        <link href="https://tv.naver.com/v/50057665"/>
-        <updated>2024-04-18T11:14:17.564Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOOAH (우아) - BLUSH | Mnet 240418 방송]]></title>
-        <id>https://tv.naver.com/v/50057663</id>
-        <link href="https://tv.naver.com/v/50057663"/>
-        <updated>2024-04-18T11:14:17.566Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['샤인멍또캣 100일 잔치' 무엇이든 물어보세요🎤 | Mnet 240418 방송]]></title>
-        <id>https://tv.naver.com/v/50057474</id>
-        <link href="https://tv.naver.com/v/50057474"/>
-        <updated>2024-04-18T11:14:17.568Z</updated>
-        <content type="html"><![CDATA[05:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원위(ONEWE) - 추억의 소각장 | Mnet 240418 방송]]></title>
-        <id>https://tv.naver.com/v/50057192</id>
-        <link href="https://tv.naver.com/v/50057192"/>
-        <updated>2024-04-18T10:19:29.985Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
