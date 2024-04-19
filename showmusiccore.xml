@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-19T07:18:19.318Z</updated>
+    <updated>2024-04-19T11:15:21.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] TOMORROW X TOGETHER (투모로우바이투게더) - Deja Vu | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/49927883</id>
+        <link href="https://tv.naver.com/v/49927883"/>
+        <updated>2024-04-19T11:14:49.865Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 크래ㅂㅣ티 지금 몇 시야?⏰ Super 이끌리는 아일릿💖 Ya야야~ 미카엘 투바투의 등장이라...🪽 #CRAVITY #ILLIT #TXT 사전녹화 비하인드]]></title>
+        <id>https://tv.naver.com/v/50107007</id>
+        <link href="https://tv.naver.com/v/50107007"/>
+        <updated>2024-04-19T11:14:49.867Z</updated>
+        <content type="html"><![CDATA[11:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] 2021 K-POP DEBUT SONG.zip 📂 Show! Music Core 2021 KPOP DEBUT SONG Special Compilation]]></title>
         <id>https://tv.naver.com/v/50030897</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/49788668"/>
         <updated>2024-04-13T11:11:41.698Z</updated>
         <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] CRAVITY HYEONGJUN (크래비티 형준) – C’est La Vie 직캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788665</id>
-        <link href="https://tv.naver.com/v/49788665"/>
-        <updated>2024-04-13T11:11:41.701Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] UNIS (유니스) – SUPERWOMAN 풀캠 | 쇼! 음악중심 | MBC240413방송]]></title>
-        <id>https://tv.naver.com/v/49788662</id>
-        <link href="https://tv.naver.com/v/49788662"/>
-        <updated>2024-04-13T11:11:41.703Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>

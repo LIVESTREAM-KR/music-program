@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-04-19T07:18:19.295Z</updated>
+    <updated>2024-04-19T11:15:21.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개]✨점핑 스승 김혜선과 일일 수강생 원혁&조항리 (feat. 바지터짐)🎵✨ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/50107013</id>
+        <link href="https://tv.naver.com/v/50107013"/>
+        <updated>2024-04-19T11:15:15.204Z</updated>
+        <content type="html"><![CDATA[02:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 달달함 초과 💞세기의 사랑꾼 편💞 이찬원의 특별 무대까지? 본방사수💘 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/49789387</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49788194"/>
         <updated>2024-04-13T11:12:09.833Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘몰아치는 감정, 날개를 펼치는 듯한👼 고음을 보여준 박기영의 무대 | KBS 240413 방송]]></title>
-        <id>https://tv.naver.com/v/49787729</id>
-        <link href="https://tv.naver.com/v/49787729"/>
-        <updated>2024-04-13T11:12:09.834Z</updated>
-        <content type="html"><![CDATA[01:31]]></content>
     </entry>
 </feed>
