@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-19T06:23:45.634Z</updated>
+    <updated>2024-04-19T07:18:34.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Deja Vu - 투모로우바이투게더 | KBS 240412 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[💌쇼챔피언은 오후 5시 every 1과 M 동시 생방송을 선택했습니다. (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/50105059</id>
+        <link href="https://tv.naver.com/v/50105059"/>
+        <updated>2024-04-19T07:18:07.857Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[4월 3주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.514 | 240417 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/50024776</id>
         <link href="https://tv.naver.com/v/50024776"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/50042701"/>
         <updated>2024-04-18T08:21:31.494Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUCAS - Renegade (루카스 - 레니게이드) | Show Champion | EP.514 | 240417 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/49990945</id>
-        <link href="https://tv.naver.com/v/49990945"/>
-        <updated>2024-04-17T13:18:29.643Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 달달함 초과 💞세기의 사랑꾼 편💞 이찬원의 특별 무대까지? 본방사수💘 | KBS 방송 (불후의 명곡)]]></title>

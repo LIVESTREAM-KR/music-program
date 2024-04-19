@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-19T06:23:45.617Z</updated>
+    <updated>2024-04-19T07:18:19.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[💌쇼챔피언은 오후 5시 every 1과 M 동시 생방송을 선택했습니다.]]></title>
+        <id>https://tv.naver.com/v/50105059</id>
+        <link href="https://tv.naver.com/v/50105059"/>
+        <updated>2024-04-19T07:18:07.857Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월 3주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.514 | 240417]]></title>
         <id>https://tv.naver.com/v/50024776</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50042701"/>
         <updated>2024-04-18T08:21:31.494Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUCAS - Renegade (루카스 - 레니게이드) | Show Champion | EP.514 | 240417]]></title>
-        <id>https://tv.naver.com/v/49990945</id>
-        <link href="https://tv.naver.com/v/49990945"/>
-        <updated>2024-04-17T13:18:29.643Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
