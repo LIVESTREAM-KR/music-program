@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-19T01:10:33.953Z</updated>
+    <updated>2024-04-19T02:27:06.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월 3주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.514 | 240417]]></title>
+        <id>https://tv.naver.com/v/50024776</id>
+        <link href="https://tv.naver.com/v/50024776"/>
+        <updated>2024-04-19T02:26:54.748Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] NOWADAYS YEONWOO - OoWee (나우어데이즈 연우 - 우위) | Show Champion | EP.514 | 240417]]></title>
         <id>https://tv.naver.com/v/50051148</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/49990945"/>
         <updated>2024-04-17T13:18:29.643Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX WISH - Breathe in Love (이펙스 위시 - 브레스 인 러브) | Show Champion | EP.514 | 240417]]></title>
-        <id>https://tv.naver.com/v/49992566</id>
-        <link href="https://tv.naver.com/v/49992566"/>
-        <updated>2024-04-17T13:18:29.645Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
