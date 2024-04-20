@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-20T08:19:47.575Z</updated>
+    <updated>2024-04-20T09:15:13.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 4월 3주차 1위 아일릿 - Magnetic (ILLIT - Magnetic), MBC 240420 방송]]></title>
+        <id>https://tv.naver.com/v/50153862</id>
+        <link href="https://tv.naver.com/v/50153862"/>
+        <updated>2024-04-20T09:14:41.867Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월 3주차 1위 아일릿 - Magnetic (ILLIT - Magnetic), MBC 240420 방송]]></title>
         <id>https://tv.naver.com/v/50152327</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50151254"/>
         <updated>2024-04-20T08:19:13.291Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀 - Beautiful MAZE (DRIPPIN - Beautiful MAZE), MBC 240420 방송]]></title>
-        <id>https://tv.naver.com/v/50150742</id>
-        <link href="https://tv.naver.com/v/50150742"/>
-        <updated>2024-04-20T08:19:13.294Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
