@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-04-21T07:15:51.139Z</updated>
+    <updated>2024-04-21T08:19:37.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster | SBS 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50187305</id>
+        <link href="https://tv.naver.com/v/50187305"/>
+        <updated>2024-04-21T08:19:08.686Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY - C'est La Vie | SBS 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50187302</id>
+        <link href="https://tv.naver.com/v/50187302"/>
+        <updated>2024-04-21T08:19:08.687Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LAY ZHANG - PSYCHIC (Korean Ver.) | SBS 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50187111</id>
+        <link href="https://tv.naver.com/v/50187111"/>
+        <updated>2024-04-21T08:19:08.688Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR - Earth, Wind & Fire | SBS 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50186740</id>
+        <link href="https://tv.naver.com/v/50186740"/>
+        <updated>2024-04-21T08:19:08.690Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR - OUR | SBS 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50186487</id>
+        <link href="https://tv.naver.com/v/50186487"/>
+        <updated>2024-04-21T08:19:08.692Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIIZE - Impossible | SBS 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50186483</id>
+        <link href="https://tv.naver.com/v/50186483"/>
+        <updated>2024-04-21T08:19:08.701Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOOAH - BLUSH | SBS 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50186049</id>
+        <link href="https://tv.naver.com/v/50186049"/>
+        <updated>2024-04-21T08:19:08.702Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ILLIT - Lucky Girl Syndrome | SBS 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50185841</id>
+        <link href="https://tv.naver.com/v/50185841"/>
+        <updated>2024-04-21T08:19:08.702Z</updated>
+        <content type="html"><![CDATA[02:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIPPIN - Beautiful MAZE | SBS 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50185833</id>
+        <link href="https://tv.naver.com/v/50185833"/>
+        <updated>2024-04-21T08:19:08.703Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BABYMONSTER - SHEESH | SBS 240421 방송]]></title>
         <id>https://tv.naver.com/v/50185470</id>
         <link href="https://tv.naver.com/v/50185470"/>
         <updated>2024-04-21T07:15:21.620Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 청춘에게 (Youth2Youth) | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50185428</id>
-        <link href="https://tv.naver.com/v/50185428"/>
-        <updated>2024-04-21T07:15:21.622Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - Midas Touch | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50185200</id>
-        <link href="https://tv.naver.com/v/50185200"/>
-        <updated>2024-04-21T07:15:21.622Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - Red Sun | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50184964</id>
-        <link href="https://tv.naver.com/v/50184964"/>
-        <updated>2024-04-21T07:15:21.622Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원위(ONEWE) - 추억의 소각장(Beautiful Ashes) | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50184792</id>
-        <link href="https://tv.naver.com/v/50184792"/>
-        <updated>2024-04-21T07:15:21.624Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPIA(수피아) - Daddy’s little gir | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50184558</id>
-        <link href="https://tv.naver.com/v/50184558"/>
-        <updated>2024-04-21T07:15:21.625Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOWADAYS - OoWee | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50184556</id>
-        <link href="https://tv.naver.com/v/50184556"/>
-        <updated>2024-04-21T07:15:21.626Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEWAVE - SING ! | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50184259</id>
-        <link href="https://tv.naver.com/v/50184259"/>
-        <updated>2024-04-21T07:15:21.628Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Candy Shop - Good Girl | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50184196</id>
-        <link href="https://tv.naver.com/v/50184196"/>
-        <updated>2024-04-21T07:15:21.629Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 - Deja Vu | SBS 240414 방송]]></title>
-        <id>https://tv.naver.com/v/49812306</id>
-        <link href="https://tv.naver.com/v/49812306"/>
-        <updated>2024-04-14T08:15:10.486Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
