@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-04-21T10:16:28.877Z</updated>
+    <updated>2024-04-21T11:13:28.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['은하철도 999'의 정체는 뮤지컬 배우 김수하!, MBC 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50193717</id>
+        <link href="https://tv.naver.com/v/50193717"/>
+        <updated>2024-04-21T11:13:27.699Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['희로애락도 락이다'의 가왕 방어전 무대 - 야래향, MBC 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50193233</id>
+        <link href="https://tv.naver.com/v/50193233"/>
+        <updated>2024-04-21T11:13:27.700Z</updated>
+        <content type="html"><![CDATA[05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['승승장구'의 정체는 가수 민서!, MBC 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50192826</id>
+        <link href="https://tv.naver.com/v/50192826"/>
+        <updated>2024-04-21T11:13:27.700Z</updated>
+        <content type="html"><![CDATA[01:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['은하철도 999' 3라운드 무대 - 흰수염고래, MBC 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50192657</id>
+        <link href="https://tv.naver.com/v/50192657"/>
+        <updated>2024-04-21T11:13:27.702Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['승승장구' 3라운드 무대 - 첫눈처럼 너에게 가겠다, MBC 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50192499</id>
+        <link href="https://tv.naver.com/v/50192499"/>
+        <updated>2024-04-21T11:13:27.703Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['쩐 없는 구준표'의 정체는 래퍼 한해!, MBC 240421 방송]]></title>
         <id>https://tv.naver.com/v/50192152</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/50191353"/>
         <updated>2024-04-21T10:16:28.188Z</updated>
         <content type="html"><![CDATA[01:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['승승장구'는 남다른 춤선의 액션 배우?! '승승장구'X'히죽히죽 백구'의 합동 댄스!💞, MBC 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50191190</id>
-        <link href="https://tv.naver.com/v/50191190"/>
-        <updated>2024-04-21T10:16:28.190Z</updated>
-        <content type="html"><![CDATA[01:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['히죽히죽 백구' 2라운드 무대 - 서울사람들, MBC 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50191043</id>
-        <link href="https://tv.naver.com/v/50191043"/>
-        <updated>2024-04-21T10:16:28.191Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['승승장구' 2라운드 무대 - 숲, MBC 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50190857</id>
-        <link href="https://tv.naver.com/v/50190857"/>
-        <updated>2024-04-21T10:16:28.192Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMK의 스페셜 무대 - Fly Me To The Moon, MBC 240421방송]]></title>
-        <id>https://tv.naver.com/v/50190696</id>
-        <link href="https://tv.naver.com/v/50190696"/>
-        <updated>2024-04-21T10:16:28.194Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#복면가왕] 복가 9주년, 9시 9분 출생? 이거 운명이잖아..⭐크래비티 정모가 부르는 《널 생각해》, 《스토커》 | #크래비티 #정모 MBC240414방송]]></title>
-        <id>https://tv.naver.com/v/49918415</id>
-        <link href="https://tv.naver.com/v/49918415"/>
-        <updated>2024-04-17T04:21:12.953Z</updated>
-        <content type="html"><![CDATA[12:32]]></content>
     </entry>
 </feed>
