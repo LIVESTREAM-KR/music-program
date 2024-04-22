@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-22T11:14:10.919Z</updated>
+    <updated>2024-04-22T12:31:58.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월 3주 1위 '아일릿{(ILLIT)'의 'Magnetic' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/50248206</id>
+        <link href="https://tv.naver.com/v/50248206"/>
+        <updated>2024-04-22T12:31:35.018Z</updated>
+        <content type="html"><![CDATA[05:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' SUPER JUNIOR-D&E - GGB | Mnet 240418 방송]]></title>
         <id>https://tv.naver.com/v/50061896</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50059203"/>
         <updated>2024-04-18T11:14:17.557Z</updated>
         <content type="html"><![CDATA[02:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BABYMONSTER - SHEESH | Mnet 240418 방송]]></title>
-        <id>https://tv.naver.com/v/50058970</id>
-        <link href="https://tv.naver.com/v/50058970"/>
-        <updated>2024-04-18T11:14:17.559Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
 </feed>
