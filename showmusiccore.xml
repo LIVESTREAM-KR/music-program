@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-22T04:20:02.631Z</updated>
+    <updated>2024-04-22T05:16:59.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 에릭(THE BOYZ) , 4월 셋째 주 음악중심 MC 컷 모음!, MBC 240420 방송]]></title>
+        <id>https://tv.naver.com/v/50223785</id>
+        <link href="https://tv.naver.com/v/50223785"/>
+        <updated>2024-04-22T05:16:24.029Z</updated>
+        <content type="html"><![CDATA[15:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ILLIT (아일릿) – Magnetic 1위 직캠 | 쇼! 음악중심 | MBC240420방송]]></title>
         <id>https://tv.naver.com/v/50159281</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50158605"/>
         <updated>2024-04-20T11:13:31.375Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] RIIZE SUNGCHAN (라이즈 성찬) – Impossible FanCam | Show! MusicCore | MBC240420방송]]></title>
-        <id>https://tv.naver.com/v/50158430</id>
-        <link href="https://tv.naver.com/v/50158430"/>
-        <updated>2024-04-20T11:13:31.376Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
