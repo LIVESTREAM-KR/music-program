@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-04-23T10:17:33.965Z</updated>
+    <updated>2024-04-23T11:15:04.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/50308900</id>
+        <link href="https://tv.naver.com/v/50308900"/>
+        <updated>2024-04-23T11:14:46.836Z</updated>
+        <content type="html"><![CDATA[04:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR  - Earth, Wind & Fire [THE SHOW 240423]]]></title>
+        <id>https://tv.naver.com/v/50308634</id>
+        <link href="https://tv.naver.com/v/50308634"/>
+        <updated>2024-04-23T11:14:46.836Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR  - OUR [THE SHOW 240423]]]></title>
+        <id>https://tv.naver.com/v/50308366</id>
+        <link href="https://tv.naver.com/v/50308366"/>
+        <updated>2024-04-23T11:14:46.837Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루셈블(Loossemble) - Girls’ Night [THE SHOW 240423]]]></title>
+        <id>https://tv.naver.com/v/50308363</id>
+        <link href="https://tv.naver.com/v/50308363"/>
+        <updated>2024-04-23T11:14:46.837Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일릿(ILLIT) - Lucky Girl Syndrome [THE SHOW 240423]]]></title>
+        <id>https://tv.naver.com/v/50308162</id>
+        <link href="https://tv.naver.com/v/50308162"/>
+        <updated>2024-04-23T11:14:46.840Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루셈블(Loossemble) - Moonlight [THE SHOW 240423]]]></title>
+        <id>https://tv.naver.com/v/50308117</id>
+        <link href="https://tv.naver.com/v/50308117"/>
+        <updated>2024-04-23T11:14:46.841Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[챌린딩] MC 샤오쥔, 형준 & BOYNEXTDOOR [THE SHOW 240423]]]></title>
+        <id>https://tv.naver.com/v/50307520</id>
+        <link href="https://tv.naver.com/v/50307520"/>
+        <updated>2024-04-23T11:14:46.841Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIPPIN - Beautiful MAZE [THE SHOW 240423]]]></title>
+        <id>https://tv.naver.com/v/50307301</id>
+        <link href="https://tv.naver.com/v/50307301"/>
+        <updated>2024-04-23T11:14:46.842Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이찬원 - 하늘 여행 [THE SHOW 240423]]]></title>
+        <id>https://tv.naver.com/v/50307246</id>
+        <link href="https://tv.naver.com/v/50307246"/>
+        <updated>2024-04-23T11:14:46.843Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EPEX(이펙스) - 청춘에게(Youth2Youth) [THE SHOW 240423]]]></title>
         <id>https://tv.naver.com/v/50306730</id>
         <link href="https://tv.naver.com/v/50306730"/>
         <updated>2024-04-23T10:17:16.475Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원위(ONEWE) - 추억의 소각장 [THE SHOW 240423]]]></title>
-        <id>https://tv.naver.com/v/50306547</id>
-        <link href="https://tv.naver.com/v/50306547"/>
-        <updated>2024-04-23T10:17:16.475Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOWADAYS - OoWee [THE SHOW 240423]]]></title>
-        <id>https://tv.naver.com/v/50306495</id>
-        <link href="https://tv.naver.com/v/50306495"/>
-        <updated>2024-04-23T10:17:16.476Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔카이브(NCHIVE) - Racer [THE SHOW 240423]]]></title>
-        <id>https://tv.naver.com/v/50306249</id>
-        <link href="https://tv.naver.com/v/50306249"/>
-        <updated>2024-04-23T10:17:16.477Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BEWAVE  - SING ! [THE SHOW 240423]]]></title>
-        <id>https://tv.naver.com/v/50305988</id>
-        <link href="https://tv.naver.com/v/50305988"/>
-        <updated>2024-04-23T10:17:16.478Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니코드(UNICODE) - 돌아봐줄래 (Prod.by 진영) [THE SHOW 240423]]]></title>
-        <id>https://tv.naver.com/v/50305764</id>
-        <link href="https://tv.naver.com/v/50305764"/>
-        <updated>2024-04-23T10:17:16.483Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캐치더영(Catch The Young) - Voyager [THE SHOW 240423]]]></title>
-        <id>https://tv.naver.com/v/50305410</id>
-        <link href="https://tv.naver.com/v/50305410"/>
-        <updated>2024-04-23T10:17:16.483Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별은 - 다시 시작된 꿈처럼 [THE SHOW 240423]]]></title>
-        <id>https://tv.naver.com/v/50305042</id>
-        <link href="https://tv.naver.com/v/50305042"/>
-        <updated>2024-04-23T10:17:16.488Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
-        <id>https://tv.naver.com/v/49935349</id>
-        <link href="https://tv.naver.com/v/49935349"/>
-        <updated>2024-04-16T11:14:09.655Z</updated>
-        <content type="html"><![CDATA[07:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster [THE SHOW 240416]]]></title>
-        <id>https://tv.naver.com/v/49934752</id>
-        <link href="https://tv.naver.com/v/49934752"/>
-        <updated>2024-04-16T11:14:09.657Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
     </entry>
 </feed>
