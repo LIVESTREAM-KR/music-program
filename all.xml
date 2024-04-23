@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-23T11:15:04.130Z</updated>
+    <updated>2024-04-23T12:32:07.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Deja Vu - 투모로우바이투게더 | KBS 240412 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/50311112</id>
+        <link href="https://tv.naver.com/v/50311112"/>
+        <updated>2024-04-23T12:31:46.476Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[4월 3주 1위 '아일릿{(ILLIT)'의 'Magnetic' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/50248206</id>
         <link href="https://tv.naver.com/v/50248206"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/50059815"/>
         <updated>2024-04-18T11:14:17.557Z</updated>
         <content type="html"><![CDATA[05:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일릿(ILLIT) - Lucky Girl Syndrome | Mnet 240418 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/50059203</id>
-        <link href="https://tv.naver.com/v/50059203"/>
-        <updated>2024-04-18T11:14:17.557Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
