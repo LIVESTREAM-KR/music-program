@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-23T09:17:18.976Z</updated>
+    <updated>2024-04-23T10:17:33.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Deja Vu - 투모로우바이투게더 | KBS 240412 방송 (뮤직뱅크)]]></title>
@@ -285,6 +285,62 @@
         <content type="html"><![CDATA[02:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EPEX(이펙스) - 청춘에게(Youth2Youth) [THE SHOW 240423] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/50306730</id>
+        <link href="https://tv.naver.com/v/50306730"/>
+        <updated>2024-04-23T10:17:16.475Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원위(ONEWE) - 추억의 소각장 [THE SHOW 240423] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/50306547</id>
+        <link href="https://tv.naver.com/v/50306547"/>
+        <updated>2024-04-23T10:17:16.475Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOWADAYS - OoWee [THE SHOW 240423] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/50306495</id>
+        <link href="https://tv.naver.com/v/50306495"/>
+        <updated>2024-04-23T10:17:16.476Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔카이브(NCHIVE) - Racer [THE SHOW 240423] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/50306249</id>
+        <link href="https://tv.naver.com/v/50306249"/>
+        <updated>2024-04-23T10:17:16.477Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEWAVE  - SING ! [THE SHOW 240423] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/50305988</id>
+        <link href="https://tv.naver.com/v/50305988"/>
+        <updated>2024-04-23T10:17:16.478Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유니코드(UNICODE) - 돌아봐줄래 (Prod.by 진영) [THE SHOW 240423] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/50305764</id>
+        <link href="https://tv.naver.com/v/50305764"/>
+        <updated>2024-04-23T10:17:16.483Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐치더영(Catch The Young) - Voyager [THE SHOW 240423] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/50305410</id>
+        <link href="https://tv.naver.com/v/50305410"/>
+        <updated>2024-04-23T10:17:16.483Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별은 - 다시 시작된 꿈처럼 [THE SHOW 240423] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/50305042</id>
+        <link href="https://tv.naver.com/v/50305042"/>
+        <updated>2024-04-23T10:17:16.488Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
         <id>https://tv.naver.com/v/49935349</id>
         <link href="https://tv.naver.com/v/49935349"/>
@@ -297,62 +353,6 @@
         <link href="https://tv.naver.com/v/49934752"/>
         <updated>2024-04-16T11:14:09.657Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루카스 - Renegade [THE SHOW 240416] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/49934428</id>
-        <link href="https://tv.naver.com/v/49934428"/>
-        <updated>2024-04-16T11:14:09.659Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - C'est La Vie [THE SHOW 240416] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/49933874</id>
-        <link href="https://tv.naver.com/v/49933874"/>
-        <updated>2024-04-16T11:14:09.663Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN  - Beautiful MAZE [THE SHOW 240416] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/49933872</id>
-        <link href="https://tv.naver.com/v/49933872"/>
-        <updated>2024-04-16T11:14:09.667Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - Red Sun [THE SHOW 240416] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/49933799</id>
-        <link href="https://tv.naver.com/v/49933799"/>
-        <updated>2024-04-16T11:14:09.667Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - 청춘에게(Youth2Youth) [THE SHOW 240416] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/49933554</id>
-        <link href="https://tv.naver.com/v/49933554"/>
-        <updated>2024-04-16T11:14:09.667Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - Breathe in Love [THE SHOW 240416] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/49933274</id>
-        <link href="https://tv.naver.com/v/49933274"/>
-        <updated>2024-04-16T10:17:23.336Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - Midas Touch [THE SHOW 240416] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/49933273</id>
-        <link href="https://tv.naver.com/v/49933273"/>
-        <updated>2024-04-16T10:17:23.337Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챌린딩] MC 형준 & 아일릿(ILLIT) [THE SHOW 240416] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/49933270</id>
-        <link href="https://tv.naver.com/v/49933270"/>
-        <updated>2024-04-16T10:17:23.338Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 쇼챔 본방사수 제발 저요 이번 주 쇼챔이 아니면 안 돼요 오직 이 날을 위해서 지금까지 살아왔어요 제발요 (쇼챔피언)]]></title>
