@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-04-24T07:15:47.644Z</updated>
+    <updated>2024-04-24T08:22:16.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥예능 블루칩! 다재다능 아티스트🎤 래퍼 한해 하이라이트!, MBC 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50359142</id>
+        <link href="https://tv.naver.com/v/50359142"/>
+        <updated>2024-04-24T08:22:15.893Z</updated>
+        <content type="html"><![CDATA[09:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨여자 뮤지컬 배우 최초로 영국 데뷔🔥 뮤지컬 배우 김수하 하이라이트!, MBC 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50359136</id>
+        <link href="https://tv.naver.com/v/50359136"/>
+        <updated>2024-04-24T08:22:15.899Z</updated>
+        <content type="html"><![CDATA[12:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 💕애틋한 음색의 감성 보컬✨ 가수 민서 하이라이트!, MBC 240421 방송]]></title>
+        <id>https://tv.naver.com/v/50358076</id>
+        <link href="https://tv.naver.com/v/50358076"/>
+        <updated>2024-04-24T08:22:15.900Z</updated>
+        <content type="html"><![CDATA[10:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 삐빅- 남창희 아니고 본업 천재 한해입니다. 🎤 래퍼 한해가 부르는 《이태원 프리덤》, 《그냥 그렇게》 | #한해 MBC240421방송]]></title>
         <id>https://tv.naver.com/v/50235957</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/50192499"/>
         <updated>2024-04-21T11:13:27.703Z</updated>
         <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쩐 없는 구준표'의 정체는 래퍼 한해!, MBC 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50192152</id>
-        <link href="https://tv.naver.com/v/50192152"/>
-        <updated>2024-04-21T10:16:28.185Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최초와 글로벌이 키워드? '은하철도 999' 지인 김호영의 힌트🌟, MBC 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50192149</id>
-        <link href="https://tv.naver.com/v/50192149"/>
-        <updated>2024-04-21T10:16:28.185Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['은하철도 999' 2라운드 무대 - strawberry moon, MBC 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50191574</id>
-        <link href="https://tv.naver.com/v/50191574"/>
-        <updated>2024-04-21T10:16:28.186Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
