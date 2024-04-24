@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-04-24T03:19:11.191Z</updated>
+    <updated>2024-04-24T04:19:48.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 삐빅- 남창희 아니고 본업 천재 한해입니다. 🎤 래퍼 한해가 부르는 《이태원 프리덤》, 《그냥 그렇게》 | #한해 MBC240421방송]]></title>
+        <id>https://tv.naver.com/v/50235957</id>
+        <link href="https://tv.naver.com/v/50235957"/>
+        <updated>2024-04-24T04:19:47.683Z</updated>
+        <content type="html"><![CDATA[16:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜가왕급 실력자의 등장?!💥 예측불가 '희로애락도 락이다'의 8연승 도전🔥＞ 복면가왕 448회 예고, MBC 240428]]></title>
         <id>https://tv.naver.com/v/50193997</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50191574"/>
         <updated>2024-04-21T10:16:28.186Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쩐 없는 구준표' 2라운드 무대 - 그냥 그렇게, MBC 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50191356</id>
-        <link href="https://tv.naver.com/v/50191356"/>
-        <updated>2024-04-21T10:16:28.187Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
