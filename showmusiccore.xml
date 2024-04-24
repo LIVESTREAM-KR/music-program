@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-24T06:24:49.424Z</updated>
+    <updated>2024-04-24T07:15:47.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ONF.zip 📂 ON/OFF부터 Bye My Monster까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/50228529</id>
+        <link href="https://tv.naver.com/v/50228529"/>
+        <updated>2024-04-24T07:15:11.667Z</updated>
+        <content type="html"><![CDATA[46:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 에릭(THE BOYZ) , 4월 셋째 주 음악중심 MC 컷 모음!, MBC 240420 방송]]></title>
         <id>https://tv.naver.com/v/50223785</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50158608"/>
         <updated>2024-04-20T11:13:31.374Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BOYNEXTDOOR WOONHAK (보이넥스트도어 운학) – OUR 직캠 | 쇼! 음악중심 | MBC240420방송]]></title>
-        <id>https://tv.naver.com/v/50158605</id>
-        <link href="https://tv.naver.com/v/50158605"/>
-        <updated>2024-04-20T11:13:31.375Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
