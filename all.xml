@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-25T12:26:03.375Z</updated>
+    <updated>2024-04-25T13:15:03.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Deja Vu - 투모로우바이투게더 | KBS 240412 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['COMEBACK' 김우진 - I Like the Way | Mnet 240425 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/50434977</id>
+        <link href="https://tv.naver.com/v/50434977"/>
+        <updated>2024-04-25T13:14:42.011Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 도영 (DOYOUNG) - 반딧불 (Little Light) | Mnet 240425 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/50430540</id>
         <link href="https://tv.naver.com/v/50430540"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/50429146"/>
         <updated>2024-04-25T11:14:25.077Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with ZEROBASEONE (제로베이스원) | Mnet 240425 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/50428872</id>
-        <link href="https://tv.naver.com/v/50428872"/>
-        <updated>2024-04-25T11:14:25.079Z</updated>
-        <content type="html"><![CDATA[05:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
