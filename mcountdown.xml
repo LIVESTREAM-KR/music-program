@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-25T10:18:00.908Z</updated>
+    <updated>2024-04-25T11:14:49.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['솔로 데뷔 인터뷰' 도영 (DOYOUNG) | Mnet 240425 방송]]></title>
+        <id>https://tv.naver.com/v/50429814</id>
+        <link href="https://tv.naver.com/v/50429814"/>
+        <updated>2024-04-25T11:14:25.073Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 우기 ((여자)아이들) - FREAK | Mnet 240425 방송]]></title>
+        <id>https://tv.naver.com/v/50429552</id>
+        <link href="https://tv.naver.com/v/50429552"/>
+        <updated>2024-04-25T11:14:25.073Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIIZE - Impossible | Mnet 240425 방송]]></title>
+        <id>https://tv.naver.com/v/50429338</id>
+        <link href="https://tv.naver.com/v/50429338"/>
+        <updated>2024-04-25T11:14:25.074Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR - Earth, Wind & Fire | Mnet 240425 방송]]></title>
+        <id>https://tv.naver.com/v/50429336</id>
+        <link href="https://tv.naver.com/v/50429336"/>
+        <updated>2024-04-25T11:14:25.076Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOOAH (우아) - BLUSH | Mnet 240425 방송]]></title>
+        <id>https://tv.naver.com/v/50429146</id>
+        <link href="https://tv.naver.com/v/50429146"/>
+        <updated>2024-04-25T11:14:25.077Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with ZEROBASEONE (제로베이스원) | Mnet 240425 방송]]></title>
+        <id>https://tv.naver.com/v/50428872</id>
+        <link href="https://tv.naver.com/v/50428872"/>
+        <updated>2024-04-25T11:14:25.079Z</updated>
+        <content type="html"><![CDATA[05:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BABYMONSTER - SHEESH(BAND ver.) | Mnet 240425 방송]]></title>
+        <id>https://tv.naver.com/v/50428636</id>
+        <link href="https://tv.naver.com/v/50428636"/>
+        <updated>2024-04-25T11:14:25.080Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPEX (이펙스) - 청춘에게 (Youth2Youth) | Mnet 240425 방송]]></title>
+        <id>https://tv.naver.com/v/50427576</id>
+        <link href="https://tv.naver.com/v/50427576"/>
+        <updated>2024-04-25T11:14:25.081Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BE'O (비오) - 밤새 | Mnet 240425 방송]]></title>
         <id>https://tv.naver.com/v/50427328</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/50427157"/>
         <updated>2024-04-25T10:17:35.623Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - Beautiful MAZE | Mnet 240425 방송]]></title>
-        <id>https://tv.naver.com/v/50427149</id>
-        <link href="https://tv.naver.com/v/50427149"/>
-        <updated>2024-04-25T10:17:35.624Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' 💙 사랑 가득 짝꿍 줄넘기 💙 | Mnet 240425 방송]]></title>
-        <id>https://tv.naver.com/v/50426577</id>
-        <link href="https://tv.naver.com/v/50426577"/>
-        <updated>2024-04-25T10:17:35.624Z</updated>
-        <content type="html"><![CDATA[05:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) -Love, Love, Love Love Love! | Mnet 240425 방송]]></title>
-        <id>https://tv.naver.com/v/50426032</id>
-        <link href="https://tv.naver.com/v/50426032"/>
-        <updated>2024-04-25T10:17:35.627Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['솔로 데뷔 인터뷰' with 우기 ((여자)아이들) | Mnet 240425 방송]]></title>
-        <id>https://tv.naver.com/v/50426025</id>
-        <link href="https://tv.naver.com/v/50426025"/>
-        <updated>2024-04-25T10:17:35.629Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIOT (티아이오티) - ROCK THANG | Mnet 240425 방송]]></title>
-        <id>https://tv.naver.com/v/50425723</id>
-        <link href="https://tv.naver.com/v/50425723"/>
-        <updated>2024-04-25T10:17:35.631Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOWADAYS - OoWee | Mnet 240425 방송]]></title>
-        <id>https://tv.naver.com/v/50425437</id>
-        <link href="https://tv.naver.com/v/50425437"/>
-        <updated>2024-04-25T10:17:35.632Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catch The Young(캐치더영) - Voyager | Mnet 240425 방송]]></title>
-        <id>https://tv.naver.com/v/50425137</id>
-        <link href="https://tv.naver.com/v/50425137"/>
-        <updated>2024-04-25T10:17:35.634Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYNEXTDOOR가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/50311112</id>
-        <link href="https://tv.naver.com/v/50311112"/>
-        <updated>2024-04-23T12:31:46.476Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
     </entry>
 </feed>
