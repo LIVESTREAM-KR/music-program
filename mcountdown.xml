@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-04-25T14:13:22.197Z</updated>
+    <updated>2024-04-25T15:18:26.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[04:52]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster | Mnet 240425 방송]]></title>
-        <id>https://tv.naver.com/v/50430031</id>
-        <link href="https://tv.naver.com/v/50430031"/>
-        <updated>2024-04-25T12:25:38.960Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['최초 공개' ZEROBASEONE - SWEAT | Mnet 240425 방송]]></title>
         <id>https://tv.naver.com/v/50430036</id>
         <link href="https://tv.naver.com/v/50430036"/>
         <updated>2024-04-25T12:25:38.960Z</updated>
         <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster | Mnet 240425 방송]]></title>
+        <id>https://tv.naver.com/v/50430031</id>
+        <link href="https://tv.naver.com/v/50430031"/>
+        <updated>2024-04-25T12:25:38.960Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['솔로 데뷔 인터뷰' 도영 (DOYOUNG) | Mnet 240425 방송]]></title>
