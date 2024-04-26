@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-26T08:21:24.807Z</updated>
+    <updated>2024-04-26T09:18:01.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["어 예뻐~ 어 예뻐"로 플러팅하는 보넥도💗]]></title>
+        <id>https://tv.naver.com/v/50469965</id>
+        <link href="https://tv.naver.com/v/50469965"/>
+        <updated>2024-04-26T09:17:50.731Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월 4주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.515 | 240424]]></title>
         <id>https://tv.naver.com/v/50366708</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50393119"/>
         <updated>2024-04-25T08:22:12.591Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BOYNEXTDOOR LEEHAN - OUR (보이넥스트도어 이한- 오유알) | ShowChampion | EP.515 | 240424]]></title>
-        <id>https://tv.naver.com/v/50392982</id>
-        <link href="https://tv.naver.com/v/50392982"/>
-        <updated>2024-04-25T08:22:12.593Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
