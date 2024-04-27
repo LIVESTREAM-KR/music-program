@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-27T07:14:22.305Z</updated>
+    <updated>2024-04-27T08:20:38.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[도영 - 반딧불 (DOYOUNG - Little Light), MBC 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50516746</id>
+        <link href="https://tv.naver.com/v/50516746"/>
+        <updated>2024-04-27T08:20:07.517Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도영 - 나의 바다에게 (DOYOUNG - From Little Wave), MBC 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50516517</id>
+        <link href="https://tv.naver.com/v/50516517"/>
+        <updated>2024-04-27T08:20:07.517Z</updated>
+        <content type="html"><![CDATA[02:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우기 - FREAK (YUQI - FREAK), MBC 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50516510</id>
+        <link href="https://tv.naver.com/v/50516510"/>
+        <updated>2024-04-27T08:20:07.519Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이즈 - Impossible (RIIZE - Impossible), MBC 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50516281</id>
+        <link href="https://tv.naver.com/v/50516281"/>
+        <updated>2024-04-27T08:20:07.520Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이넥스트도어 - Earth, Wind & Fire (BOYNEXTDOOR - Earth, Wind & Fire), MBC 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50516103</id>
+        <link href="https://tv.naver.com/v/50516103"/>
+        <updated>2024-04-27T08:20:07.522Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 - SWEAT (ZEROBASEONE - SWEAT), MBC 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50515911</id>
+        <link href="https://tv.naver.com/v/50515911"/>
+        <updated>2024-04-27T08:20:07.523Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원위 - 추억의 소각장 (ONEWE - Beautiful Ashes), MBC 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50515734</id>
+        <link href="https://tv.naver.com/v/50515734"/>
+        <updated>2024-04-27T08:20:07.524Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비오 - 밤새 (BE'O - All Night), MBC 240427 방송]]></title>
         <id>https://tv.naver.com/v/50515424</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/50515385"/>
         <updated>2024-04-27T07:13:45.408Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이펙스 - 청춘에게 (EPEX - Youth2Youth), MBC 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50515197</id>
-        <link href="https://tv.naver.com/v/50515197"/>
-        <updated>2024-04-27T07:13:45.409Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지 보이즈 - 분명 그녀가 나를 보고 웃잖아 (FANTASY BOYS - Pitter-Patter-Love), MBC 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50515041</id>
-        <link href="https://tv.naver.com/v/50515041"/>
-        <updated>2024-04-27T07:13:45.410Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지 보이즈 - 몰랐어 첫사랑인지 스쳐가는 감정인 건지 (FANTASY BOYS - Make Sunshine), MBC 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50514855</id>
-        <link href="https://tv.naver.com/v/50514855"/>
-        <updated>2024-04-27T07:13:45.411Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라포엠 - 미로 (LA POEM - Mirror), MBC 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50514684</id>
-        <link href="https://tv.naver.com/v/50514684"/>
-        <updated>2024-04-27T07:13:45.413Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티아이오티 - ROCK THANG (TIOT - ROCK THANG), MBC 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50514681</id>
-        <link href="https://tv.naver.com/v/50514681"/>
-        <updated>2024-04-27T07:13:45.414Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔카이브 - 레이서 (NCHIVE - Racer), MBC 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50514533</id>
-        <link href="https://tv.naver.com/v/50514533"/>
-        <updated>2024-04-27T07:13:45.416Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인 - Love, Love, Love Love Love! (n.SSign - Love, Love, Love Love Love!), MBC 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50514409</id>
-        <link href="https://tv.naver.com/v/50514409"/>
-        <updated>2024-04-27T07:13:45.417Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
