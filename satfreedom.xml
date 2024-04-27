@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-04-27T09:16:11.535Z</updated>
+    <updated>2024-04-27T10:18:17.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올킬 도전🔥 모두의 견제를 받고 있는 유회승! 선곡은 과연? | KBS 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50522008</id>
+        <link href="https://tv.naver.com/v/50522008"/>
+        <updated>2024-04-27T10:18:12.109Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑디즈의 한계 없는 고음 예고😲🔥 오늘의 관전 포인트는? | KBS 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50521829</id>
+        <link href="https://tv.naver.com/v/50521829"/>
+        <updated>2024-04-27T10:18:12.110Z</updated>
+        <content type="html"><![CDATA[01:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김신의와 김경호의 특별한 인연💕 노래방 번호까지 암기한 DK? | KBS 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50521660</id>
+        <link href="https://tv.naver.com/v/50521660"/>
+        <updated>2024-04-27T10:18:12.112Z</updated>
+        <content type="html"><![CDATA[01:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김경호 - Shout | KBS 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50521276</id>
+        <link href="https://tv.naver.com/v/50521276"/>
+        <updated>2024-04-27T10:18:12.114Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가로] 배혜지♡조항리 - 대화가 필요해 | KBS 240420 방송]]></title>
         <id>https://tv.naver.com/v/50162395</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/50159715"/>
         <updated>2024-04-20T12:28:11.042Z</updated>
         <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국 터져버린 감정들, 모두를 행복하게 만드는 송지은❤박위의 진심 | KBS 240420 방송]]></title>
-        <id>https://tv.naver.com/v/50159493</id>
-        <link href="https://tv.naver.com/v/50159493"/>
-        <updated>2024-04-20T12:28:11.042Z</updated>
-        <content type="html"><![CDATA[02:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어려운 상황 속 희망을 전하고 싶었던 서정희❤김태현, 두 사람의 깜짝 손님?!  | KBS 240420 방송]]></title>
-        <id>https://tv.naver.com/v/50159491</id>
-        <link href="https://tv.naver.com/v/50159491"/>
-        <updated>2024-04-20T12:28:11.043Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송지은x박위 - 감사 | KBS 240420 방송]]></title>
-        <id>https://tv.naver.com/v/50159490</id>
-        <link href="https://tv.naver.com/v/50159490"/>
-        <updated>2024-04-20T12:28:11.044Z</updated>
-        <content type="html"><![CDATA[04:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선곡에 담긴 송지은❤박위의 진심💌 미라클 커플이 전하고 싶은 마음은 | KBS 240420 방송]]></title>
-        <id>https://tv.naver.com/v/50159488</id>
-        <link href="https://tv.naver.com/v/50159488"/>
-        <updated>2024-04-20T12:28:11.046Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
