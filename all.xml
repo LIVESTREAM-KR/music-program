@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-27T10:18:17.760Z</updated>
+    <updated>2024-04-27T11:13:14.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Earth, Wind & Fire - BOYNEXTDOOR | KBS 240426 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Lee ChanWon (이찬원) – 하늘 여행 직캠 | 쇼! 음악중심 | MBC240427방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/50522007</id>
+        <link href="https://tv.naver.com/v/50522007"/>
+        <updated>2024-04-27T11:12:43.758Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Lee ChanWon (이찬원) – 하늘 여행 풀캠 | 쇼! 음악중심 | MBC240427방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/50522006</id>
+        <link href="https://tv.naver.com/v/50522006"/>
+        <updated>2024-04-27T11:12:43.759Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] YUQI (우기) – FREAK 직캠 | 쇼! 음악중심 | MBC240427방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/50521648</id>
         <link href="https://tv.naver.com/v/50521648"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/50519685"/>
         <updated>2024-04-27T09:15:36.190Z</updated>
         <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DOYOUNG (도영) – 반딧불 (Little Light) 풀캠 | 쇼! 음악중심 | MBC240427방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/50519684</id>
-        <link href="https://tv.naver.com/v/50519684"/>
-        <updated>2024-04-27T09:15:36.190Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DOYOUNG (도영) – 나의 바다에게 (From Little Wave) 직캠 | 쇼! 음악중심 | MBC240427방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/50519490</id>
-        <link href="https://tv.naver.com/v/50519490"/>
-        <updated>2024-04-27T09:15:36.191Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster | SBS 240421 방송 (인기가요)]]></title>
@@ -425,6 +425,62 @@
         <content type="html"><![CDATA[02:52]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[20년 롱런 비결은 금전거래를 하지 않는 것💸 선곡에 묻어나는 몽니의 팬심💖 | KBS 240427 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/50523423</id>
+        <link href="https://tv.naver.com/v/50523423"/>
+        <updated>2024-04-27T11:13:09.292Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김경호의 사랑스러운 댄스 챌린지💗 & 애증의 곡〈NOW〉비하인드 | KBS 240427 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/50523110</id>
+        <link href="https://tv.naver.com/v/50523110"/>
+        <updated>2024-04-27T11:13:09.293Z</updated>
+        <content type="html"><![CDATA[02:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청소년 유해 가수(?) 판단을 받았던 김경호🚨 비하인드 스토리 | KBS 240427 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/50522952</id>
+        <link href="https://tv.naver.com/v/50522952"/>
+        <updated>2024-04-27T11:13:09.294Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경호 형님을 향한 주연의 일방적(?) 사랑💖 욕망 가득 담긴 오늘의 선곡은? | KBS 240427 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/50522950</id>
+        <link href="https://tv.naver.com/v/50522950"/>
+        <updated>2024-04-27T11:13:09.295Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST(템페스트) - Now | KBS 240427 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/50522675</id>
+        <link href="https://tv.naver.com/v/50522675"/>
+        <updated>2024-04-27T11:13:09.297Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[날카로운 춤 선에 담아낸 록 스피릿🤘 압도적 분위기를 보여준 템페스트의 무대 | KBS 240427 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/50522670</id>
+        <link href="https://tv.naver.com/v/50522670"/>
+        <updated>2024-04-27T11:13:09.298Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김경호의 짜릿한 보컬에 매료된 템페스트💘 숙소 이사&한우가 달린 오늘의 승부?! | KBS 240427 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/50522520</id>
+        <link href="https://tv.naver.com/v/50522520"/>
+        <updated>2024-04-27T11:13:09.299Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유회승 - 나를 슬프게 하는 사람들 | KBS 240427 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/50522136</id>
+        <link href="https://tv.naver.com/v/50522136"/>
+        <updated>2024-04-27T11:13:09.300Z</updated>
+        <content type="html"><![CDATA[04:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[올킬 도전🔥 모두의 견제를 받고 있는 유회승! 선곡은 과연? | KBS 240427 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/50522008</id>
         <link href="https://tv.naver.com/v/50522008"/>
@@ -437,62 +493,6 @@
         <link href="https://tv.naver.com/v/50521829"/>
         <updated>2024-04-27T10:18:12.110Z</updated>
         <content type="html"><![CDATA[01:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김신의와 김경호의 특별한 인연💕 노래방 번호까지 암기한 DK? | KBS 240427 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/50521660</id>
-        <link href="https://tv.naver.com/v/50521660"/>
-        <updated>2024-04-27T10:18:12.112Z</updated>
-        <content type="html"><![CDATA[01:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김경호 - Shout | KBS 240427 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/50521276</id>
-        <link href="https://tv.naver.com/v/50521276"/>
-        <updated>2024-04-27T10:18:12.114Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로] 배혜지♡조항리 - 대화가 필요해 | KBS 240420 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/50162395</id>
-        <link href="https://tv.naver.com/v/50162395"/>
-        <updated>2024-04-20T12:28:11.034Z</updated>
-        <content type="html"><![CDATA[05:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 654회  ＜세기의 사랑꾼 특집＞ 우승자 ⭐송지은♥박위⭐ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/50160569</id>
-        <link href="https://tv.naver.com/v/50160569"/>
-        <updated>2024-04-20T12:28:11.035Z</updated>
-        <content type="html"><![CDATA[01:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달아오른 분위기🔥 에너지로 무대를 찢어놓은 김혜선❤스테판의 무대! | KBS 240420 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/50159900</id>
-        <link href="https://tv.naver.com/v/50159900"/>
-        <updated>2024-04-20T12:28:11.036Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김혜선x스테판 - 압구정 날라리 | KBS 240420 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/50159898</id>
-        <link href="https://tv.naver.com/v/50159898"/>
-        <updated>2024-04-20T12:28:11.038Z</updated>
-        <content type="html"><![CDATA[04:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 대한민국 록의 자존심 🔥록의 神 김경호 편🔥 국가대표 고음 보컬들 총출동🤘 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/50159717</id>
-        <link href="https://tv.naver.com/v/50159717"/>
-        <updated>2024-04-20T12:28:11.041Z</updated>
-        <content type="html"><![CDATA[00:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※결과 확인※ 송지은❤박위 vs 김혜선❤스테판! 명곡판정단의 마지막 선택은 과연? | KBS 240420 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/50159715</id>
-        <link href="https://tv.naver.com/v/50159715"/>
-        <updated>2024-04-20T12:28:11.042Z</updated>
-        <content type="html"><![CDATA[01:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 🔥예능 블루칩! 다재다능 아티스트🎤 래퍼 한해 하이라이트!, MBC 240421 방송 (복면가왕)]]></title>
