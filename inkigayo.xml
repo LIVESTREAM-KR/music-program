@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-04-28T06:21:54.325Z</updated>
+    <updated>2024-04-28T07:15:15.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[조아서 - 가시나요 | SBS 240428 방송]]></title>
+        <id>https://tv.naver.com/v/50547490</id>
+        <link href="https://tv.naver.com/v/50547490"/>
+        <updated>2024-04-28T07:14:45.750Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pagaehun(박태훈), 깐병(KKANBYEONGZ) - Play With Me | SBS 240428 방송]]></title>
+        <id>https://tv.naver.com/v/50547463</id>
+        <link href="https://tv.naver.com/v/50547463"/>
+        <updated>2024-04-28T07:14:45.750Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김우진 - I Like The Way | SBS 240428 방송]]></title>
+        <id>https://tv.naver.com/v/50547307</id>
+        <link href="https://tv.naver.com/v/50547307"/>
+        <updated>2024-04-28T07:14:45.754Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BE’O(비오) - 밤새 | SBS 240428 방송]]></title>
+        <id>https://tv.naver.com/v/50547305</id>
+        <link href="https://tv.naver.com/v/50547305"/>
+        <updated>2024-04-28T07:14:45.755Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOWADAYS - OoWee | SBS 240428 방송]]></title>
+        <id>https://tv.naver.com/v/50547164</id>
+        <link href="https://tv.naver.com/v/50547164"/>
+        <updated>2024-04-28T07:14:45.757Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MC 문성현X이서X한유진 - 첫 사랑니 (원곡: f(x)) | SBS 240428 방송]]></title>
+        <id>https://tv.naver.com/v/50546798</id>
+        <link href="https://tv.naver.com/v/50546798"/>
+        <updated>2024-04-28T07:14:45.758Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프(ONF) - Bye My Monster | SBS 240421 방송]]></title>
         <id>https://tv.naver.com/v/50187305</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/50186740"/>
         <updated>2024-04-21T08:19:08.690Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYNEXTDOOR - OUR | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50186487</id>
-        <link href="https://tv.naver.com/v/50186487"/>
-        <updated>2024-04-21T08:19:08.692Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE - Impossible | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50186483</id>
-        <link href="https://tv.naver.com/v/50186483"/>
-        <updated>2024-04-21T08:19:08.701Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOOAH - BLUSH | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50186049</id>
-        <link href="https://tv.naver.com/v/50186049"/>
-        <updated>2024-04-21T08:19:08.702Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILLIT - Lucky Girl Syndrome | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50185841</id>
-        <link href="https://tv.naver.com/v/50185841"/>
-        <updated>2024-04-21T08:19:08.702Z</updated>
-        <content type="html"><![CDATA[02:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - Beautiful MAZE | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50185833</id>
-        <link href="https://tv.naver.com/v/50185833"/>
-        <updated>2024-04-21T08:19:08.703Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BABYMONSTER - SHEESH | SBS 240421 방송]]></title>
-        <id>https://tv.naver.com/v/50185470</id>
-        <link href="https://tv.naver.com/v/50185470"/>
-        <updated>2024-04-21T07:15:21.620Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>

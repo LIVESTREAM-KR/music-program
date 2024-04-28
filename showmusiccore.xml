@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-28T06:21:54.315Z</updated>
+    <updated>2024-04-28T07:15:15.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Siren.zip 📂 Show! Music Core Siren Special Compilation]]></title>
+        <id>https://tv.naver.com/v/50333122</id>
+        <link href="https://tv.naver.com/v/50333122"/>
+        <updated>2024-04-28T07:14:39.785Z</updated>
+        <content type="html"><![CDATA[47:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Lee ChanWon (이찬원) – 하늘 여행 직캠 | 쇼! 음악중심 | MBC240427방송]]></title>
         <id>https://tv.naver.com/v/50522007</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50520660"/>
         <updated>2024-04-27T10:17:46.761Z</updated>
         <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DOYOUNG (도영) – 반딧불 (Little Light) 직캠 | 쇼! 음악중심 | MBC240427방송]]></title>
-        <id>https://tv.naver.com/v/50519685</id>
-        <link href="https://tv.naver.com/v/50519685"/>
-        <updated>2024-04-27T09:15:36.190Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
     </entry>
 </feed>
