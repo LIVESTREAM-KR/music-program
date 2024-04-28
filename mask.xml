@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-04-28T11:13:23.249Z</updated>
+    <updated>2024-04-28T12:30:59.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[01:20]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['야간개장' VS '자개장'의 1라운드 무대 - 애정표현, MBC 240428 방송]]></title>
-        <id>https://tv.naver.com/v/50554539</id>
-        <link href="https://tv.naver.com/v/50554539"/>
-        <updated>2024-04-28T11:13:22.696Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[배우 곽동연이 주는 절친 '야간개장'의 힌트! 여진구와 이도현이 대학 동문?🧐, MBC 240428 방송]]></title>
         <id>https://tv.naver.com/v/50554545</id>
         <link href="https://tv.naver.com/v/50554545"/>
         <updated>2024-04-28T11:13:22.697Z</updated>
         <content type="html"><![CDATA[01:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['야간개장' VS '자개장'의 1라운드 무대 - 애정표현, MBC 240428 방송]]></title>
+        <id>https://tv.naver.com/v/50554539</id>
+        <link href="https://tv.naver.com/v/50554539"/>
+        <updated>2024-04-28T11:13:22.696Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['포케 몬스터'의 정체는 배우 판유걸!, MBC 240428 방송]]></title>
