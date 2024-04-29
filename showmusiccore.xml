@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-29T05:19:24.649Z</updated>
+    <updated>2024-04-29T06:23:23.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 4월 넷째 주 음악중심 MC 컷 모음!, MBC 240427 방송]]></title>
+        <id>https://tv.naver.com/v/50587164</id>
+        <link href="https://tv.naver.com/v/50587164"/>
+        <updated>2024-04-29T06:22:49.003Z</updated>
+        <content type="html"><![CDATA[17:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[나는 가수다🎤] 임재범 레전드 무대 모음.zip]]></title>
+        <id>https://tv.naver.com/v/50584631</id>
+        <link href="https://tv.naver.com/v/50584631"/>
+        <updated>2024-04-29T06:22:49.004Z</updated>
+        <content type="html"><![CDATA[16:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Siren.zip 📂 Show! Music Core Siren Special Compilation]]></title>
         <id>https://tv.naver.com/v/50333122</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/50521112"/>
         <updated>2024-04-27T10:17:46.758Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS LEE HANBIN (판타지보이즈 이한빈) - 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240427방송]]></title>
-        <id>https://tv.naver.com/v/50521109</id>
-        <link href="https://tv.naver.com/v/50521109"/>
-        <updated>2024-04-27T10:17:46.760Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS (판타지보이즈) – 분명 그녀가 나를 보고 웃잖아 풀캠 | 쇼! 음악중심 | MBC240427방송]]></title>
-        <id>https://tv.naver.com/v/50520660</id>
-        <link href="https://tv.naver.com/v/50520660"/>
-        <updated>2024-04-27T10:17:46.761Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
     </entry>
 </feed>
