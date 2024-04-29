@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-04-29T08:22:51.347Z</updated>
+    <updated>2024-04-29T09:18:59.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 어리고 부끄럽고 바보 같은 쇼챔이지만 본방 사수 해줄 거지?👀]]></title>
+        <id>https://tv.naver.com/v/50583005</id>
+        <link href="https://tv.naver.com/v/50583005"/>
+        <updated>2024-04-29T09:18:48.148Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보넥도의 개수작 파트💘]]></title>
         <id>https://tv.naver.com/v/50470018</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/50416757</id>
         <link href="https://tv.naver.com/v/50416757"/>
         <updated>2024-04-25T08:22:12.589Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BOYNEXTDOOR TAESAN - OUR (보이넥스트도어 태산 - 오유알) | ShowChampion | EP.515 | 240424]]></title>
-        <id>https://tv.naver.com/v/50393315</id>
-        <link href="https://tv.naver.com/v/50393315"/>
-        <updated>2024-04-25T08:22:12.590Z</updated>
         <content type="html"><![CDATA[02:52]]></content>
     </entry>
 </feed>

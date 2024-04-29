@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-04-29T08:22:51.338Z</updated>
+    <updated>2024-04-29T09:18:59.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) - SWEAT | 쇼! 음악중심 | MBC240427방송]]></title>
+        <id>https://tv.naver.com/v/50595376</id>
+        <link href="https://tv.naver.com/v/50595376"/>
+        <updated>2024-04-29T09:18:25.274Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) - SWEAT | 쇼! 음악중심 | MBC240427방송]]></title>
+        <id>https://tv.naver.com/v/50595163</id>
+        <link href="https://tv.naver.com/v/50595163"/>
+        <updated>2024-04-29T09:18:25.275Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) - SWEAT | 쇼! 음악중심 | MBC240427방송]]></title>
+        <id>https://tv.naver.com/v/50595159</id>
+        <link href="https://tv.naver.com/v/50595159"/>
+        <updated>2024-04-29T09:18:25.275Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) - SWEAT | 쇼! 음악중심 | MBC240427방송]]></title>
+        <id>https://tv.naver.com/v/50595156</id>
+        <link href="https://tv.naver.com/v/50595156"/>
+        <updated>2024-04-29T09:18:25.276Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 4월 넷째 주 음악중심 MC 컷 모음!, MBC 240427 방송]]></title>
         <id>https://tv.naver.com/v/50587164</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/50521648"/>
         <updated>2024-04-27T10:17:46.755Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YUQI (우기) – FREAK 풀캠 | 쇼! 음악중심 | MBC240427방송]]></title>
-        <id>https://tv.naver.com/v/50521458</id>
-        <link href="https://tv.naver.com/v/50521458"/>
-        <updated>2024-04-27T10:17:46.756Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS (판타지보이즈) – 몰랐어 첫사랑인지 스쳐가는 감정인 건지 풀캠 | 쇼! 음악중심 | MBC240427방송]]></title>
-        <id>https://tv.naver.com/v/50521272</id>
-        <link href="https://tv.naver.com/v/50521272"/>
-        <updated>2024-04-27T10:17:46.757Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS HONG SUNGMIN (판타지보이즈 홍성민) - 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240427방송]]></title>
-        <id>https://tv.naver.com/v/50521113</id>
-        <link href="https://tv.naver.com/v/50521113"/>
-        <updated>2024-04-27T10:17:46.757Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] FANTASY BOYS KIM WOOSEOK (판타지보이즈 김우석) - 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240427방송]]></title>
-        <id>https://tv.naver.com/v/50521112</id>
-        <link href="https://tv.naver.com/v/50521112"/>
-        <updated>2024-04-27T10:17:46.758Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
