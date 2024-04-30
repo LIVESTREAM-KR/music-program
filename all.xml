@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-30T11:16:23.403Z</updated>
+    <updated>2024-04-30T12:30:46.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Earth, Wind & Fire - BOYNEXTDOOR | KBS 240426 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RIIZE가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/50664799</id>
+        <link href="https://tv.naver.com/v/50664799"/>
+        <updated>2024-04-30T12:30:25.023Z</updated>
+        <content type="html"><![CDATA[01:07]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['COMEBACK' 김우진 - I Like the Way | Mnet 240425 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/50434977</id>
         <link href="https://tv.naver.com/v/50434977"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/50429336"/>
         <updated>2024-04-25T11:14:25.076Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOOAH (우아) - BLUSH | Mnet 240425 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/50429146</id>
-        <link href="https://tv.naver.com/v/50429146"/>
-        <updated>2024-04-25T11:14:25.077Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
