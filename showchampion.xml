@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-01T07:19:30.110Z</updated>
+    <updated>2024-05-01T08:25:18.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔카이브(NCHIVE) - Racer l 240501]]></title>
+        <id>https://tv.naver.com/v/50705315</id>
+        <link href="https://tv.naver.com/v/50705315"/>
+        <updated>2024-05-01T08:25:05.880Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두 귓가에 미미의 생일이 들려🎉]]></title>
         <id>https://tv.naver.com/v/50654346</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50418683"/>
         <updated>2024-04-25T08:22:12.588Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEWE - Beautiful Ashes (원위 - 추억의 소각장) | Show Champion | EP.515 | 240424]]></title>
-        <id>https://tv.naver.com/v/50417107</id>
-        <link href="https://tv.naver.com/v/50417107"/>
-        <updated>2024-04-25T08:22:12.588Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
