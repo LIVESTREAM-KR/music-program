@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-02T07:17:15.296Z</updated>
+    <updated>2024-05-02T08:22:44.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] RESCENE(리센느) - YoYo | Show Champion | EP.516 | 240501]]></title>
+        <id>https://tv.naver.com/v/50759160</id>
+        <link href="https://tv.naver.com/v/50759160"/>
+        <updated>2024-05-02T08:22:32.978Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보이넥스트도어(BOYNEXTDOOR) - Earth, Wind & Fire l 240501]]></title>
         <id>https://tv.naver.com/v/50721235</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/50710846</id>
         <link href="https://tv.naver.com/v/50710846"/>
         <updated>2024-05-01T13:18:07.638Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign EDDIE(엔싸인 에디) - Love, Love, Love Love Love! | Show Champion | EP.516 | 240501]]></title>
-        <id>https://tv.naver.com/v/50710844</id>
-        <link href="https://tv.naver.com/v/50710844"/>
-        <updated>2024-05-01T13:18:07.639Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
