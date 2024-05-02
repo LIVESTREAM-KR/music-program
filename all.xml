@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-02T06:22:29.904Z</updated>
+    <updated>2024-05-02T07:17:15.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Earth, Wind & Fire - BOYNEXTDOOR | KBS 240426 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] LeeChanWon.zip 📂 진또배기부터 하늘 여행까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/50660425</id>
+        <link href="https://tv.naver.com/v/50660425"/>
+        <updated>2024-05-02T07:16:41.022Z</updated>
+        <content type="html"><![CDATA[20:18]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] April TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/50661933</id>
         <link href="https://tv.naver.com/v/50661933"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/50598437"/>
         <updated>2024-04-29T10:18:23.409Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) - SWEAT | 쇼! 음악중심 | MBC240427방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/50595376</id>
-        <link href="https://tv.naver.com/v/50595376"/>
-        <updated>2024-04-29T09:18:25.274Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도영 - 반딧불 (Little Light) | SBS 240428 방송 (인기가요)]]></title>
