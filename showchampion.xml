@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-03T01:13:40.231Z</updated>
+    <updated>2024-05-03T02:29:35.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.516 | 240501]]></title>
+        <id>https://tv.naver.com/v/50711911</id>
+        <link href="https://tv.naver.com/v/50711911"/>
+        <updated>2024-05-03T02:29:24.591Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] KIMWOOJIN(김우진) - I Like The Way | Show Champion | EP.516 | 240501]]></title>
         <id>https://tv.naver.com/v/50759822</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50711174"/>
         <updated>2024-05-01T13:18:07.634Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign SUNGYUN(엔싸인 성윤) - Love, Love, Love Love Love! | Show Champion | EP.516 | 240501]]></title>
-        <id>https://tv.naver.com/v/50711111</id>
-        <link href="https://tv.naver.com/v/50711111"/>
-        <updated>2024-05-01T13:18:07.636Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
