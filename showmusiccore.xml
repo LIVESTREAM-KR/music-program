@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-03T03:21:15.254Z</updated>
+    <updated>2024-05-03T04:21:26.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 세트에서 잭*니엘도 나오고... 두리안도 나오고... 제베원도 나오는💙 #ZEROBASEONE 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/50764063</id>
+        <link href="https://tv.naver.com/v/50764063"/>
+        <updated>2024-05-03T04:20:56.110Z</updated>
+        <content type="html"><![CDATA[05:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] LeeChanWon.zip 📂 진또배기부터 하늘 여행까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/50660425</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50634061"/>
         <updated>2024-04-30T05:15:54.390Z</updated>
         <content type="html"><![CDATA[00:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] DOYOUNG (도영) - 반딧불 (Little Light) | 쇼! 음악중심 | MBC240427방송]]></title>
-        <id>https://tv.naver.com/v/50598437</id>
-        <link href="https://tv.naver.com/v/50598437"/>
-        <updated>2024-04-29T10:18:23.409Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>
