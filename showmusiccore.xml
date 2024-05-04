@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-04T07:15:40.543Z</updated>
+    <updated>2024-05-04T08:20:14.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 - MAESTRO (SEVENTEEN - MAESTRO), MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50859215</id>
+        <link href="https://tv.naver.com/v/50859215"/>
+        <updated>2024-05-04T08:19:38.487Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5월 1주차 1위 이찬원 - 하늘 여행 (Lee Chan Won - a travel to the sky), MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50859214</id>
+        <link href="https://tv.naver.com/v/50859214"/>
+        <updated>2024-05-04T08:19:38.488Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도영 - 반딧불 (DOYOUNG - Little Light), MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50858844</id>
+        <link href="https://tv.naver.com/v/50858844"/>
+        <updated>2024-05-04T08:19:38.488Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우기 - FREAK (YUQI - FREAK), MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50858439</id>
+        <link href="https://tv.naver.com/v/50858439"/>
+        <updated>2024-05-04T08:19:38.489Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔라 - But I (Solar - But I), MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50858274</id>
+        <link href="https://tv.naver.com/v/50858274"/>
+        <updated>2024-05-04T08:19:38.492Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이브 - 해야 (IVE - HEYA), MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50858232</id>
+        <link href="https://tv.naver.com/v/50858232"/>
+        <updated>2024-05-04T08:19:38.493Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이넥스트도어 - Earth, Wind & Fire (BOYNEXTDOOR - Earth, Wind & Fire), MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50858038</id>
+        <link href="https://tv.naver.com/v/50858038"/>
+        <updated>2024-05-04T08:19:38.494Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엑스디너리 히어로즈 - 어리고 부끄럽고 바보 같은 (Xdinary Heroes - Little Things), MBC 240504 방송]]></title>
         <id>https://tv.naver.com/v/50857731</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/50857688"/>
         <updated>2024-05-04T07:15:09.792Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원 - 하늘 여행 (Lee Chan Won - a travel to the sky), MBC 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50857380</id>
-        <link href="https://tv.naver.com/v/50857380"/>
-        <updated>2024-05-04T07:15:09.795Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라포엠 - 미로 (LA POEM - Mirror), MBC 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50857279</id>
-        <link href="https://tv.naver.com/v/50857279"/>
-        <updated>2024-05-04T07:15:09.796Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 킹덤 - Flip that Coin (The KingDom - Flip that Coin), MBC 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50857242</id>
-        <link href="https://tv.naver.com/v/50857242"/>
-        <updated>2024-05-04T07:15:09.796Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티투메이저 - 촉 (82MAJOR - Choke), MBC 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50857061</id>
-        <link href="https://tv.naver.com/v/50857061"/>
-        <updated>2024-05-04T07:15:09.798Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스트샤인 - Heartthrob (EASTSHINE - Heartthrob), MBC 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50857059</id>
-        <link href="https://tv.naver.com/v/50857059"/>
-        <updated>2024-05-04T07:15:09.799Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니코드 - 돌아봐줄래 (UNICODE - Let me Love), MBC 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50856913</id>
-        <link href="https://tv.naver.com/v/50856913"/>
-        <updated>2024-05-04T07:15:09.800Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#직캠보고서🔍] 세트에서 잭*니엘도 나오고... 두리안도 나오고... 제베원도 나오는💙 #ZEROBASEONE 사전녹화 비하인드⏯️]]></title>
-        <id>https://tv.naver.com/v/50764063</id>
-        <link href="https://tv.naver.com/v/50764063"/>
-        <updated>2024-05-03T04:20:56.110Z</updated>
-        <content type="html"><![CDATA[05:42]]></content>
     </entry>
 </feed>
