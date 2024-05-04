@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-04T09:18:05.743Z</updated>
+    <updated>2024-05-04T10:16:30.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#예능연구소] SEVENTEEN (세븐틴) – MAESTRO 풀캠 | 쇼! 음악중심 | MBC240504방송]]></title>
+        <id>https://tv.naver.com/v/50863589</id>
+        <link href="https://tv.naver.com/v/50863589"/>
+        <updated>2024-05-04T10:15:55.569Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 5월 1주차 1위 이찬원 - 하늘 여행 (Lee Chan Won - a travel to the sky), MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50863406</id>
+        <link href="https://tv.naver.com/v/50863406"/>
+        <updated>2024-05-04T10:15:55.570Z</updated>
+        <content type="html"><![CDATA[05:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 - MAESTRO (SEVENTEEN - MAESTRO), MBC 240504 방송]]></title>
         <id>https://tv.naver.com/v/50859215</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/50857731"/>
         <updated>2024-05-04T07:15:09.792Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유나이트 - GEEKIN (YOUNITE - GEEKIN), MBC 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50857728</id>
-        <link href="https://tv.naver.com/v/50857728"/>
-        <updated>2024-05-04T07:15:09.792Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지 보이즈 - 분명 그녀가 나를 보고 웃잖아 (FANTASY BOYS - Pitter-Patter-Love), MBC 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50857688</id>
-        <link href="https://tv.naver.com/v/50857688"/>
-        <updated>2024-05-04T07:15:09.792Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>

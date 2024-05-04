@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-05-04T09:18:05.761Z</updated>
+    <updated>2024-05-04T10:16:30.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민 부장님🤘 젊은 ROCK으로 재탄생할 권인하의 선곡은? | KBS 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50863553</id>
+        <link href="https://tv.naver.com/v/50863553"/>
+        <updated>2024-05-04T10:16:24.331Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍서범 - 시절인연 | KBS 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50863421</id>
+        <link href="https://tv.naver.com/v/50863421"/>
+        <updated>2024-05-04T10:16:24.332Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃중년 특집 오늘의 라인업🌹 꽃중년 특집에 초청된 소감은?  | KBS 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50862631</id>
+        <link href="https://tv.naver.com/v/50862631"/>
+        <updated>2024-05-04T10:16:24.333Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올킬 도전🔥 원조 종합예술인 홍서범의 선곡은? (ft. 깜짝 놀란 찬또) | KBS 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50862629</id>
+        <link href="https://tv.naver.com/v/50862629"/>
+        <updated>2024-05-04T10:16:24.335Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 원조 꽃미남이 불후에 떴다! 🌹꽃중년 특집🌹 놓치지 마세요💖 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/50524790</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/50524413"/>
         <updated>2024-04-27T12:28:04.752Z</updated>
         <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - 금지된 사랑 | KBS 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50524263</id>
-        <link href="https://tv.naver.com/v/50524263"/>
-        <updated>2024-04-27T12:28:04.753Z</updated>
-        <content type="html"><![CDATA[06:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽니&김경호의 특별한 인연💕 (ft. 김경호의 장발이 불러온 사건들😂) | KBS 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50523958</id>
-        <link href="https://tv.naver.com/v/50523958"/>
-        <updated>2024-04-27T12:28:04.755Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몽니 - 와인 | KBS 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50523567</id>
-        <link href="https://tv.naver.com/v/50523567"/>
-        <updated>2024-04-27T12:28:04.756Z</updated>
-        <content type="html"><![CDATA[05:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20년 롱런 비결은 금전거래를 하지 않는 것💸 선곡에 묻어나는 몽니의 팬심💖 | KBS 240427 방송]]></title>
-        <id>https://tv.naver.com/v/50523423</id>
-        <link href="https://tv.naver.com/v/50523423"/>
-        <updated>2024-04-27T11:13:09.292Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
