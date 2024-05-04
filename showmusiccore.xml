@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-04T12:28:37.922Z</updated>
+    <updated>2024-05-04T13:18:16.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/50866724"/>
         <updated>2024-05-04T12:28:07.420Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] BOYNEXTDOOR WOONHAK (보이넥스트도어 운학) - Earth, Wind & Fire 직캠 | 쇼! 음악중심 | MBC240504방송]]></title>
+        <id>https://tv.naver.com/v/50866688</id>
+        <link href="https://tv.naver.com/v/50866688"/>
+        <updated>2024-05-04T12:28:07.431Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] YUQI (우기) – FREAK 직캠 | 쇼! 음악중심 | MBC240504방송]]></title>
@@ -60,13 +67,6 @@
         <link href="https://tv.naver.com/v/50866681"/>
         <updated>2024-05-04T12:28:07.430Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BOYNEXTDOOR WOONHAK (보이넥스트도어 운학) - Earth, Wind & Fire 직캠 | 쇼! 음악중심 | MBC240504방송]]></title>
-        <id>https://tv.naver.com/v/50866688</id>
-        <link href="https://tv.naver.com/v/50866688"/>
-        <updated>2024-05-04T12:28:07.431Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] DOYOUNG (도영) – 반딧불 풀캠 | 쇼! 음악중심 | MBC240504방송]]></title>
