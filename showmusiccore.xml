@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-04T10:16:30.700Z</updated>
+    <updated>2024-05-04T11:13:10.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[#예능연구소] SEVENTEEN (세븐틴) – MAESTRO 풀캠 | 쇼! 음악중심 | MBC240504방송]]></title>
-        <id>https://tv.naver.com/v/50863589</id>
-        <link href="https://tv.naver.com/v/50863589"/>
-        <updated>2024-05-04T10:15:55.569Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분] 5월 1주차 1위 이찬원 - 하늘 여행 (Lee Chan Won - a travel to the sky), MBC 240504 방송]]></title>
         <id>https://tv.naver.com/v/50863406</id>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/50857731"/>
         <updated>2024-05-04T07:15:09.792Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유나이트 - GEEKIN (YOUNITE - GEEKIN), MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50857728</id>
+        <link href="https://tv.naver.com/v/50857728"/>
+        <updated>2024-05-04T11:12:36.589Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>
