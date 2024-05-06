@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-06T08:22:15.318Z</updated>
+    <updated>2024-05-06T09:19:16.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 쇼챔 방송날까지 이틀이나 남았다는 건 본방 사수를 준비할 시간이 충분히 남았다는 거잖아? 그런 의미로 우린 완전 럭키잖아!🍀😚]]></title>
+        <id>https://tv.naver.com/v/50924030</id>
+        <link href="https://tv.naver.com/v/50924030"/>
+        <updated>2024-05-06T09:19:06.326Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주창욱 업고 튀어💘]]></title>
+        <id>https://tv.naver.com/v/50816596</id>
+        <link href="https://tv.naver.com/v/50816596"/>
+        <updated>2024-05-06T09:19:06.328Z</updated>
+        <content type="html"><![CDATA[00:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이게 산탄이 아니면 뭐야🖤]]></title>
         <id>https://tv.naver.com/v/50816571</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/50709898"/>
         <updated>2024-05-01T13:18:07.630Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign HUIWON(엔싸인 희원) - Love, Love, Love Love Love! | Show Champion | EP.516 | 240501]]></title>
-        <id>https://tv.naver.com/v/50711600</id>
-        <link href="https://tv.naver.com/v/50711600"/>
-        <updated>2024-05-01T13:18:07.631Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign(엔싸인) - Love, Love, Love Love Love! | Show Champion | EP.516 | 240501]]></title>
-        <id>https://tv.naver.com/v/50711175</id>
-        <link href="https://tv.naver.com/v/50711175"/>
-        <updated>2024-05-01T13:18:07.632Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
