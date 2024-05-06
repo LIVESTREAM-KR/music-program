@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-06T04:21:16.144Z</updated>
+    <updated>2024-05-06T05:18:28.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – 해야 (HEYA) | 쇼! 음악중심 | MBC240504방송]]></title>
+        <id>https://tv.naver.com/v/50871633</id>
+        <link href="https://tv.naver.com/v/50871633"/>
+        <updated>2024-05-06T05:17:53.495Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) – 해야 (HEYA) | 쇼! 음악중심 | MBC240504방송]]></title>
+        <id>https://tv.naver.com/v/50871598</id>
+        <link href="https://tv.naver.com/v/50871598"/>
+        <updated>2024-05-06T05:17:53.496Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] BOYNEXTDOOR (보이넥스트도어) – Earth, Wind & Fire 풀캠 | 쇼! 음악중심 | MBC240504방송]]></title>
         <id>https://tv.naver.com/v/50866729</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/50866682"/>
         <updated>2024-05-04T12:28:07.428Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO (아이브 이서) - 해야 (HEYA) 직캠 | 쇼! 음악중심 | MBC240504방송]]></title>
-        <id>https://tv.naver.com/v/50866681</id>
-        <link href="https://tv.naver.com/v/50866681"/>
-        <updated>2024-05-04T12:28:07.430Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DOYOUNG (도영) – 반딧불 풀캠 | 쇼! 음악중심 | MBC240504방송]]></title>
-        <id>https://tv.naver.com/v/50866492</id>
-        <link href="https://tv.naver.com/v/50866492"/>
-        <updated>2024-05-04T12:28:07.432Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
