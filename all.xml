@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-07T11:17:19.762Z</updated>
+    <updated>2024-05-07T12:32:50.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하늘 여행 - 이찬원 | KBS 240503 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:41]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[샤인멍또캣이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/50996229</id>
+        <link href="https://tv.naver.com/v/50996229"/>
+        <updated>2024-05-07T12:32:28.934Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 세븐틴 (SEVENTEEN) - MAESTRO | Mnet 240502 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/50771086</id>
         <link href="https://tv.naver.com/v/50771086"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/50768190"/>
         <updated>2024-05-02T11:13:50.777Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' Xdinary Heroes - 어리고 부끄럽고 바보 같은 | Mnet 240502 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/50767976</id>
-        <link href="https://tv.naver.com/v/50767976"/>
-        <updated>2024-05-02T11:13:50.777Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[솔라(Solar)  - But I [THE SHOW 240507] (더쇼)]]></title>
