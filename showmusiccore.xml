@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-07T06:23:05.606Z</updated>
+    <updated>2024-05-07T07:23:20.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 박건욱(ZB1) X 설윤 X 김규빈(ZB1) , 5월 첫째 주 음악중심 MC 컷 모음!, MBC 240504 방송]]></title>
+        <id>https://tv.naver.com/v/50976884</id>
+        <link href="https://tv.naver.com/v/50976884"/>
+        <updated>2024-05-07T07:22:46.364Z</updated>
+        <content type="html"><![CDATA[18:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – 해야 (HEYA) | 쇼! 음악중심 | MBC240504방송]]></title>
         <id>https://tv.naver.com/v/50871633</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50866683"/>
         <updated>2024-05-04T12:28:07.427Z</updated>
         <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Xdinary Heroes (엑스디너리 히어로즈) – 어리고 부끄럽고 바보 같은 풀캠 | 쇼! 음악중심 | MBC240504방송]]></title>
-        <id>https://tv.naver.com/v/50866682</id>
-        <link href="https://tv.naver.com/v/50866682"/>
-        <updated>2024-05-04T12:28:07.428Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
