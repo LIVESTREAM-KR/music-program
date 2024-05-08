@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-08T10:19:11.712Z</updated>
+    <updated>2024-05-08T11:16:34.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[판타지 보이즈(FANTASY BOYS) - 몰랐어 첫사랑인지 스쳐가는 감정인 건지 l 240508]]></title>
+        <id>https://tv.naver.com/v/51048424</id>
+        <link href="https://tv.naver.com/v/51048424"/>
+        <updated>2024-05-08T11:16:22.823Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 솔라(Solar) - But I l 240508]]></title>
         <id>https://tv.naver.com/v/51045429</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51044209"/>
         <updated>2024-05-08T09:17:38.762Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 비하인드 스토리가 한가득✨ 'Xdinary Heroes' 퍼스널컬러 쇼챔🎨 l 240508]]></title>
-        <id>https://tv.naver.com/v/51043879</id>
-        <link href="https://tv.naver.com/v/51043879"/>
-        <updated>2024-05-08T09:17:38.765Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
