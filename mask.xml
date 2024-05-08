@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-05-08T03:21:41.225Z</updated>
+    <updated>2024-05-08T04:18:26.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 팬텀싱어 TOP3 크레즐의 리더! 노래 천재 연기 천재 😇 뮤지컬 배우 임규형이 부르는 《애정표현》, 《Run》 등 | #크레즐 #임규형 MBC240505방송]]></title>
+        <id>https://tv.naver.com/v/50976534</id>
+        <link href="https://tv.naver.com/v/50976534"/>
+        <updated>2024-05-08T04:18:25.637Z</updated>
+        <content type="html"><![CDATA[23:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜'희로애락도 락이다'의 9연승 도전🎤 매서운 기세로 몰아치는 실력자들의 무대까지💥＞ 복면가왕 450회 예고, MBC 240512 방송]]></title>
         <id>https://tv.naver.com/v/50899580</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50897484"/>
         <updated>2024-05-05T10:17:40.556Z</updated>
         <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['칼로리 폭탄 버거' 2라운드 무대 - 눈,코,입, MBC 240505 방송]]></title>
-        <id>https://tv.naver.com/v/50897356</id>
-        <link href="https://tv.naver.com/v/50897356"/>
-        <updated>2024-05-05T10:17:40.557Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
