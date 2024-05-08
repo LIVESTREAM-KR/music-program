@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-08T06:20:24.832Z</updated>
+    <updated>2024-05-08T07:17:54.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하늘 여행 - 이찬원 | KBS 240503 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE.zip 📂 ELEVEN부터 해야(HEYA)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/50998508</id>
+        <link href="https://tv.naver.com/v/50998508"/>
+        <updated>2024-05-08T07:17:19.024Z</updated>
+        <content type="html"><![CDATA[30:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 박건욱(ZB1) X 설윤 X 김규빈(ZB1) , 5월 첫째 주 음악중심 MC 컷 모음!, MBC 240504 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/50976884</id>
         <link href="https://tv.naver.com/v/50976884"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/50866685"/>
         <updated>2024-05-04T12:28:07.424Z</updated>
         <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] DOYOUNG (도영) – 반딧불 직캠 | 쇼! 음악중심 | MBC240504방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/50866683</id>
-        <link href="https://tv.naver.com/v/50866683"/>
-        <updated>2024-05-04T12:28:07.427Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - MAESTRO | SBS 240505 방송 (인기가요)]]></title>
