@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-05-08T09:17:50.835Z</updated>
+    <updated>2024-05-08T10:19:11.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥열정 가득한 노래 천재&연기 천재✨ 뮤지컬 배우 임규형 하이라이트!, MBC 240505 방송]]></title>
+        <id>https://tv.naver.com/v/51046405</id>
+        <link href="https://tv.naver.com/v/51046405"/>
+        <updated>2024-05-08T10:19:11.132Z</updated>
+        <content type="html"><![CDATA[13:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🎤짙은 감성과 애절한 목소리의✨ 바버렛츠 써니 하이라이트!, MBC 240505 방송]]></title>
+        <id>https://tv.naver.com/v/51045703</id>
+        <link href="https://tv.naver.com/v/51045703"/>
+        <updated>2024-05-08T10:19:11.135Z</updated>
+        <content type="html"><![CDATA[10:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 💕청아한 음색의 올라운더 뮤지션🎶 가수 규빈 하이라이트!, MBC 240505 방송]]></title>
+        <id>https://tv.naver.com/v/51045698</id>
+        <link href="https://tv.naver.com/v/51045698"/>
+        <updated>2024-05-08T10:19:11.135Z</updated>
+        <content type="html"><![CDATA[09:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 팬텀싱어 TOP3 크레즐의 리더! 노래 천재 연기 천재 😇 뮤지컬 배우 임규형이 부르는 《애정표현》, 《Run》 등 | #크레즐 #임규형 MBC240505방송]]></title>
         <id>https://tv.naver.com/v/50976534</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/50898369"/>
         <updated>2024-05-05T11:14:09.432Z</updated>
         <content type="html"><![CDATA[04:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['칼로리 폭탄 버거'의 정체는 가수 전지윤!, MBC 240505 방송]]></title>
-        <id>https://tv.naver.com/v/50897850</id>
-        <link href="https://tv.naver.com/v/50897850"/>
-        <updated>2024-05-05T10:17:40.555Z</updated>
-        <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야간개장'의 SNS를 뜨겁게 달군 오페라🎶 '야간개장'은 손승연과 같이 작품 한 뮤지컬 배우?!, MBC 240505 방송]]></title>
-        <id>https://tv.naver.com/v/50897811</id>
-        <link href="https://tv.naver.com/v/50897811"/>
-        <updated>2024-05-05T10:17:40.555Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야간개장' 2라운드 무대 - Run, MBC 240505 방송]]></title>
-        <id>https://tv.naver.com/v/50897484</id>
-        <link href="https://tv.naver.com/v/50897484"/>
-        <updated>2024-05-05T10:17:40.556Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
     </entry>
 </feed>

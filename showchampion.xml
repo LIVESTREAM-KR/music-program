@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-08T09:17:50.823Z</updated>
+    <updated>2024-05-08T10:19:11.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 솔라(Solar) - But I l 240508]]></title>
+        <id>https://tv.naver.com/v/51045429</id>
+        <link href="https://tv.naver.com/v/51045429"/>
+        <updated>2024-05-08T10:18:59.620Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '키노(KINO)' & '솔라(Solar)' 나!왔어✋🏻 l 240508]]></title>
+        <id>https://tv.naver.com/v/51045426</id>
+        <link href="https://tv.naver.com/v/51045426"/>
+        <updated>2024-05-08T10:18:59.621Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔라(Solar) - Colors l 240508]]></title>
         <id>https://tv.naver.com/v/51044948</id>
@@ -55,24 +69,10 @@
         <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[COMEBACK] 더킹덤(The KingDom) - Flip that Coin l 240508]]></title>
-        <id>https://tv.naver.com/v/51043874</id>
-        <link href="https://tv.naver.com/v/51043874"/>
-        <updated>2024-05-08T09:17:38.764Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[MC석 코너] 비하인드 스토리가 한가득✨ 'Xdinary Heroes' 퍼스널컬러 쇼챔🎨 l 240508]]></title>
         <id>https://tv.naver.com/v/51043879</id>
         <link href="https://tv.naver.com/v/51043879"/>
         <updated>2024-05-08T09:17:38.765Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 에이티투메이저(82MAJOR) - 촉(Choke) l 240508]]></title>
-        <id>https://tv.naver.com/v/51043622</id>
-        <link href="https://tv.naver.com/v/51043622"/>
-        <updated>2024-05-08T09:17:38.766Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-08T09:17:50.830Z</updated>
+    <updated>2024-05-08T10:19:11.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하늘 여행 - 이찬원 | KBS 240503 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,20 @@
         <content type="html"><![CDATA[03:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[COMEBACK] 솔라(Solar) - But I l 240508 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/51045429</id>
+        <link href="https://tv.naver.com/v/51045429"/>
+        <updated>2024-05-08T10:18:59.620Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '키노(KINO)' & '솔라(Solar)' 나!왔어✋🏻 l 240508 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/51045426</id>
+        <link href="https://tv.naver.com/v/51045426"/>
+        <updated>2024-05-08T10:18:59.621Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[솔라(Solar) - Colors l 240508 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/51044948</id>
         <link href="https://tv.naver.com/v/51044948"/>
@@ -404,25 +418,11 @@
         <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[COMEBACK] 더킹덤(The KingDom) - Flip that Coin l 240508 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/51043874</id>
-        <link href="https://tv.naver.com/v/51043874"/>
-        <updated>2024-05-08T09:17:38.764Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[MC석 코너] 비하인드 스토리가 한가득✨ 'Xdinary Heroes' 퍼스널컬러 쇼챔🎨 l 240508 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/51043879</id>
         <link href="https://tv.naver.com/v/51043879"/>
         <updated>2024-05-08T09:17:38.765Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 에이티투메이저(82MAJOR) - 촉(Choke) l 240508 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/51043622</id>
-        <link href="https://tv.naver.com/v/51043622"/>
-        <updated>2024-05-08T09:17:38.766Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 트로트 영 레전드 특집 | KBS 방송 (불후의 명곡)]]></title>
@@ -495,6 +495,27 @@
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥열정 가득한 노래 천재&연기 천재✨ 뮤지컬 배우 임규형 하이라이트!, MBC 240505 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/51046405</id>
+        <link href="https://tv.naver.com/v/51046405"/>
+        <updated>2024-05-08T10:19:11.132Z</updated>
+        <content type="html"><![CDATA[13:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🎤짙은 감성과 애절한 목소리의✨ 바버렛츠 써니 하이라이트!, MBC 240505 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/51045703</id>
+        <link href="https://tv.naver.com/v/51045703"/>
+        <updated>2024-05-08T10:19:11.135Z</updated>
+        <content type="html"><![CDATA[10:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 💕청아한 음색의 올라운더 뮤지션🎶 가수 규빈 하이라이트!, MBC 240505 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/51045698</id>
+        <link href="https://tv.naver.com/v/51045698"/>
+        <updated>2024-05-08T10:19:11.135Z</updated>
+        <content type="html"><![CDATA[09:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#복면가왕] 팬텀싱어 TOP3 크레즐의 리더! 노래 천재 연기 천재 😇 뮤지컬 배우 임규형이 부르는 《애정표현》, 《Run》 등 | #크레즐 #임규형 MBC240505방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/50976534</id>
         <link href="https://tv.naver.com/v/50976534"/>
@@ -542,26 +563,5 @@
         <link href="https://tv.naver.com/v/50898369"/>
         <updated>2024-05-05T11:14:09.432Z</updated>
         <content type="html"><![CDATA[04:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['칼로리 폭탄 버거'의 정체는 가수 전지윤!, MBC 240505 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/50897850</id>
-        <link href="https://tv.naver.com/v/50897850"/>
-        <updated>2024-05-05T10:17:40.555Z</updated>
-        <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야간개장'의 SNS를 뜨겁게 달군 오페라🎶 '야간개장'은 손승연과 같이 작품 한 뮤지컬 배우?!, MBC 240505 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/50897811</id>
-        <link href="https://tv.naver.com/v/50897811"/>
-        <updated>2024-05-05T10:17:40.555Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야간개장' 2라운드 무대 - Run, MBC 240505 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/50897484</id>
-        <link href="https://tv.naver.com/v/50897484"/>
-        <updated>2024-05-05T10:17:40.556Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
     </entry>
 </feed>
