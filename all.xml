@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-08T07:17:54.096Z</updated>
+    <updated>2024-05-08T08:19:48.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하늘 여행 - 이찬원 | KBS 240503 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] SEVENTEEN (세븐틴) – MAESTRO 풀캠 | 쇼! 음악중심 | MBC240504방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51041800</id>
+        <link href="https://tv.naver.com/v/51041800"/>
+        <updated>2024-05-08T08:19:17.908Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] IVE.zip 📂 ELEVEN부터 해야(HEYA)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/50998508</id>
         <link href="https://tv.naver.com/v/50998508"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/50866687"/>
         <updated>2024-05-04T12:28:07.422Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lee ChanWon (이찬원) – 하늘 여행 직캠 | 쇼! 음악중심 | MBC240504방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/50866685</id>
-        <link href="https://tv.naver.com/v/50866685"/>
-        <updated>2024-05-04T12:28:07.424Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - MAESTRO | SBS 240505 방송 (인기가요)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 트로트 영 레전드 특집 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/51039140</id>
+        <link href="https://tv.naver.com/v/51039140"/>
+        <updated>2024-05-08T08:19:43.115Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 656회 ＜꽃중년 특집＞  우승자 ⭐최성수⭐ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/50866690</id>
         <link href="https://tv.naver.com/v/50866690"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/50865256"/>
         <updated>2024-05-04T11:13:04.105Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명불허전 한국의 마이클 잭슨🕺 꽃중년의 열정을 제대로 보여준 박남정의 무대 | KBS 240504 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/50864895</id>
-        <link href="https://tv.naver.com/v/50864895"/>
-        <updated>2024-05-04T11:13:04.105Z</updated>
-        <content type="html"><![CDATA[01:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 팬텀싱어 TOP3 크레즐의 리더! 노래 천재 연기 천재 😇 뮤지컬 배우 임규형이 부르는 《애정표현》, 《Run》 등 | #크레즐 #임규형 MBC240505방송 (복면가왕)]]></title>

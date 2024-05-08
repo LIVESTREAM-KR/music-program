@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-05-08T07:17:54.084Z</updated>
+    <updated>2024-05-08T08:19:48.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 트로트 영 레전드 특집 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/51039140</id>
+        <link href="https://tv.naver.com/v/51039140"/>
+        <updated>2024-05-08T08:19:43.115Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 656회 ＜꽃중년 특집＞  우승자 ⭐최성수⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/50866690</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50865256"/>
         <updated>2024-05-04T11:13:04.105Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명불허전 한국의 마이클 잭슨🕺 꽃중년의 열정을 제대로 보여준 박남정의 무대 | KBS 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50864895</id>
-        <link href="https://tv.naver.com/v/50864895"/>
-        <updated>2024-05-04T11:13:04.105Z</updated>
-        <content type="html"><![CDATA[01:08]]></content>
     </entry>
 </feed>
