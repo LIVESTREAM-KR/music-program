@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-05-09T10:20:07.568Z</updated>
+    <updated>2024-05-09T11:15:09.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[SHINE STAGE 특집] 세븐틴 (SEVENTEEN) - MAESTRO | Mnet 240509 방송]]></title>
+        <id>https://tv.naver.com/v/51106234</id>
+        <link href="https://tv.naver.com/v/51106234"/>
+        <updated>2024-05-09T11:14:46.447Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SHINE STAGE 특집] 태용 (TAEYONG) - TAP | Mnet 240509 방송]]></title>
+        <id>https://tv.naver.com/v/51106231</id>
+        <link href="https://tv.naver.com/v/51106231"/>
+        <updated>2024-05-09T11:14:46.448Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SHINE STAGE 특집] NCT DREAM (엔시티 드림) - Smoothie | Mnet 240509 방송]]></title>
+        <id>https://tv.naver.com/v/51105923</id>
+        <link href="https://tv.naver.com/v/51105923"/>
+        <updated>2024-05-09T11:14:46.448Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SHINE STAGE 특집] IVE (아이브) - 해야 (HEYA) | Mnet 240509 방송]]></title>
+        <id>https://tv.naver.com/v/51105919</id>
+        <link href="https://tv.naver.com/v/51105919"/>
+        <updated>2024-05-09T11:14:46.449Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SHINE STAGE 특집] 투모로우바이투게더 (TOMORROW X TOGETHER) - Deja Vu | Mnet 240509 방송]]></title>
         <id>https://tv.naver.com/v/51105661</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/51104918"/>
         <updated>2024-05-09T10:19:46.388Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SHINE STAGE 특집] DAY6 (데이식스) - Welcome to the Show | Mnet 240509 방송]]></title>
-        <id>https://tv.naver.com/v/51104917</id>
-        <link href="https://tv.naver.com/v/51104917"/>
-        <updated>2024-05-09T10:19:46.389Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SHINE STAGE 특집] (여자)아이들 ((G)I-DLE) - 나는 아픈 건 딱 질색이니까 | Mnet 240509 방송]]></title>
-        <id>https://tv.naver.com/v/51104612</id>
-        <link href="https://tv.naver.com/v/51104612"/>
-        <updated>2024-05-09T10:19:46.390Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SHINE STAGE 특집] ZEROBASEONE (제로베이스원) - SWEAT | Mnet 240509 방송]]></title>
-        <id>https://tv.naver.com/v/51104353</id>
-        <link href="https://tv.naver.com/v/51104353"/>
-        <updated>2024-05-09T10:19:46.393Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SHINE STAGE 특집] RIIZE (라이즈) - Impossible | Mnet 240509 방송]]></title>
-        <id>https://tv.naver.com/v/51104350</id>
-        <link href="https://tv.naver.com/v/51104350"/>
-        <updated>2024-05-09T10:19:46.394Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
