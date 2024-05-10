@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-10T01:12:38.861Z</updated>
+    <updated>2024-05-10T02:32:34.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.517 | 240508]]></title>
+        <id>https://tv.naver.com/v/51087235</id>
+        <link href="https://tv.naver.com/v/51087235"/>
+        <updated>2024-05-10T02:32:23.481Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Solar(솔라) - Colors | Show Champion | EP.517 | 240508]]></title>
         <id>https://tv.naver.com/v/51073434</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51050328"/>
         <updated>2024-05-08T13:20:34.570Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Xdinary Heroes Jun Han(엑스디너리 히어로즈 준한) - 꿈을 꾸는 소녀 | Show Champion | EP.517 | 240508]]></title>
-        <id>https://tv.naver.com/v/51049962</id>
-        <link href="https://tv.naver.com/v/51049962"/>
-        <updated>2024-05-08T13:20:34.572Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
