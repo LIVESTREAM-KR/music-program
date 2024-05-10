@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-10T07:18:08.787Z</updated>
+    <updated>2024-05-10T08:21:54.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] IVE💓사녹현장을 볼 수 있다니 완전 럭키음중이잖앙🍀락스타를 사랑하세요...🎸엑디즈 붐은 온다🤟 #IVE #XdinaryHeroes 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/51138965</id>
+        <link href="https://tv.naver.com/v/51138965"/>
+        <updated>2024-05-10T08:21:23.088Z</updated>
+        <content type="html"><![CDATA[11:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼! 음악중심] 숨 안 넘어가고 응원법하는 팬들도 신기함💦 #SEVENTEEN #Shorts]]></title>
         <id>https://tv.naver.com/v/51137443</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50866726"/>
         <updated>2024-05-04T12:28:07.419Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Lee ChanWon (이찬원) – 하늘 여행 풀캠 | 쇼! 음악중심 | MBC240504방송]]></title>
-        <id>https://tv.naver.com/v/50866724</id>
-        <link href="https://tv.naver.com/v/50866724"/>
-        <updated>2024-05-04T12:28:07.420Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
     </entry>
 </feed>

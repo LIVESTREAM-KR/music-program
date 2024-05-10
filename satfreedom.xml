@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-05-10T07:18:08.724Z</updated>
+    <updated>2024-05-10T08:21:54.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 박현호&김중연의 ＜SHEESH＞개인기 타임! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/51157116</id>
+        <link href="https://tv.naver.com/v/51157116"/>
+        <updated>2024-05-10T08:21:48.259Z</updated>
+        <content type="html"><![CDATA[01:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 트로트 영 레전드 특집 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/51039140</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50865441"/>
         <updated>2024-05-04T11:13:04.104Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댄신킹 vs 천둥호랑이🔥 시은의 조언을 받아 무대를 준비한 박남정! 그 결과는? | KBS 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50865256</id>
-        <link href="https://tv.naver.com/v/50865256"/>
-        <updated>2024-05-04T11:13:04.105Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
