@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-10T03:18:37.671Z</updated>
+    <updated>2024-05-10T04:20:17.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 도영 덕분에 2주동안 음중은 청춘 그 자체였다..✨🌿 #DOYOUNG 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/51138359</id>
+        <link href="https://tv.naver.com/v/51138359"/>
+        <updated>2024-05-10T04:19:41.801Z</updated>
+        <content type="html"><![CDATA[10:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] SEVENTEEN (세븐틴) – MAESTRO 풀캠 | 쇼! 음악중심 | MBC240504방송]]></title>
         <id>https://tv.naver.com/v/51041800</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/50866688"/>
         <updated>2024-05-04T12:28:07.431Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YUQI (우기) – FREAK 직캠 | 쇼! 음악중심 | MBC240504방송]]></title>
-        <id>https://tv.naver.com/v/50866687</id>
-        <link href="https://tv.naver.com/v/50866687"/>
-        <updated>2024-05-04T12:28:07.422Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
