@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-10T06:22:52.002Z</updated>
+    <updated>2024-05-10T07:18:08.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하늘 여행 - 이찬원 | KBS 240503 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼! 음악중심] 숨 안 넘어가고 응원법하는 팬들도 신기함💦 #SEVENTEEN #Shorts (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51137443</id>
+        <link href="https://tv.naver.com/v/51137443"/>
+        <updated>2024-05-10T07:17:37.171Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 도영 덕분에 2주동안 음중은 청춘 그 자체였다..✨🌿 #DOYOUNG 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/51138359</id>
         <link href="https://tv.naver.com/v/51138359"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/50866724"/>
         <updated>2024-05-04T12:28:07.420Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BOYNEXTDOOR WOONHAK (보이넥스트도어 운학) - Earth, Wind & Fire 직캠 | 쇼! 음악중심 | MBC240504방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/50866688</id>
-        <link href="https://tv.naver.com/v/50866688"/>
-        <updated>2024-05-04T12:28:07.431Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - MAESTRO | SBS 240505 방송 (인기가요)]]></title>
