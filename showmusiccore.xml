@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-11T10:18:12.780Z</updated>
+    <updated>2024-05-11T11:13:36.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEVENTEEN (세븐틴) – MAESTRO 풀캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51203603</id>
-        <link href="https://tv.naver.com/v/51203603"/>
-        <updated>2024-05-11T09:17:23.936Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] KIM JAEHWAN (김재환) – 나만큼 풀캠 | 쇼! 음악중심 | MBC240511방송]]></title>
         <id>https://tv.naver.com/v/51203606</id>
         <link href="https://tv.naver.com/v/51203606"/>
         <updated>2024-05-11T09:17:23.936Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SEVENTEEN (세븐틴) – MAESTRO 풀캠 | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51203603</id>
+        <link href="https://tv.naver.com/v/51203603"/>
+        <updated>2024-05-11T09:17:23.936Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소]YOOK SUNGJAE (육성재) – BE SOMEBODY 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
