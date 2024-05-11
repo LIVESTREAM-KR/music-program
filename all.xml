@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-11T03:19:39.060Z</updated>
+    <updated>2024-05-11T04:20:27.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[MAESTRO - 세븐틴 (SEVENTEEN) | KBS 240510 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:52]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] RIIZE (라이즈) - Impossible | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51191217</id>
+        <link href="https://tv.naver.com/v/51191217"/>
+        <updated>2024-05-11T04:19:52.320Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] IVE💓사녹현장을 볼 수 있다니 완전 럭키음중이잖앙🍀락스타를 사랑하세요...🎸엑디즈 붐은 온다🤟 #IVE #XdinaryHeroes 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/51138965</id>
         <link href="https://tv.naver.com/v/51138965"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/50866729"/>
         <updated>2024-05-04T12:28:07.419Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] YUQI (우기) – FREAK 풀캠 | 쇼! 음악중심 | MBC240504방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/50866726</id>
-        <link href="https://tv.naver.com/v/50866726"/>
-        <updated>2024-05-04T12:28:07.419Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - MAESTRO | SBS 240505 방송 (인기가요)]]></title>
