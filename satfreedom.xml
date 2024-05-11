@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-05-11T09:17:59.914Z</updated>
+    <updated>2024-05-11T10:18:12.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김준수 - 눈물비 | KBS 240511 방송]]></title>
+        <id>https://tv.naver.com/v/51205522</id>
+        <link href="https://tv.naver.com/v/51205522"/>
+        <updated>2024-05-11T10:18:07.017Z</updated>
+        <content type="html"><![CDATA[05:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상의 모든 어머니들께, 어머니에 대한 마음이 담긴 김준수의 선곡 | KBS 240511 방송]]></title>
+        <id>https://tv.naver.com/v/51205202</id>
+        <link href="https://tv.naver.com/v/51205202"/>
+        <updated>2024-05-11T10:18:07.018Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 포문의 주인공 김준수✨ 30대의 나이에 리어왕 발탁? 연기 짧게 미리 보기 | KBS 240511 방송]]></title>
+        <id>https://tv.naver.com/v/51205201</id>
+        <link href="https://tv.naver.com/v/51205201"/>
+        <updated>2024-05-11T10:18:07.020Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올라운더 아이돌 라키! 모두를 놀라게 한 현란한 스텝 (ft. 박기훈&손태진🤣) | KBS 240511 방송]]></title>
+        <id>https://tv.naver.com/v/51205011</id>
+        <link href="https://tv.naver.com/v/51205011"/>
+        <updated>2024-05-11T10:18:07.021Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1등 수집가 손태진😎 오늘의 관전 포인트! 라포엠보다 춤은 자신 있다🔥 | KBS 240511 방송]]></title>
+        <id>https://tv.naver.com/v/51204838</id>
+        <link href="https://tv.naver.com/v/51204838"/>
+        <updated>2024-05-11T10:18:07.023Z</updated>
+        <content type="html"><![CDATA[01:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 박현호&김중연의 ＜SHEESH＞개인기 타임! | KBS 방송]]></title>
         <id>https://tv.naver.com/v/51157116</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/50866091"/>
         <updated>2024-05-04T12:28:32.332Z</updated>
         <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 ‘꽃중년’인 이유🌹 + 권인하가 부러웠던 성대미남 최성수?✨ | KBS 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50866087</id>
-        <link href="https://tv.naver.com/v/50866087"/>
-        <updated>2024-05-04T12:28:32.332Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심신 - 황홀한 고백 | KBS 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50865864</id>
-        <link href="https://tv.naver.com/v/50865864"/>
-        <updated>2024-05-04T12:28:32.333Z</updated>
-        <content type="html"><![CDATA[05:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑의 총알 장전 완료!💕 정열을 폭발시킬 심신의 선곡은? | KBS 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50865648</id>
-        <link href="https://tv.naver.com/v/50865648"/>
-        <updated>2024-05-04T12:28:32.333Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두를 놀라게 한 최성수의 선곡! 원조 귀공자🌹의 무대 관전 포인트는? | KBS 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50865643</id>
-        <link href="https://tv.naver.com/v/50865643"/>
-        <updated>2024-05-04T12:28:32.334Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레전드 노래방🎙️ 변함없는 방부제 목소리😭(ft.이현우-꿈, 홍서범-김삿갓)  | KBS 240504 방송]]></title>
-        <id>https://tv.naver.com/v/50865441</id>
-        <link href="https://tv.naver.com/v/50865441"/>
-        <updated>2024-05-04T11:13:04.104Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
     </entry>
 </feed>
