@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-13T09:19:11.011Z</updated>
+    <updated>2024-05-13T10:19:03.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – 해야 (HEYA) | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51286997</id>
+        <link href="https://tv.naver.com/v/51286997"/>
+        <updated>2024-05-13T10:18:28.242Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) - 해야 (HEYA)  | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51286786</id>
+        <link href="https://tv.naver.com/v/51286786"/>
+        <updated>2024-05-13T10:18:28.242Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN HOSHI (세븐틴 호시) - MAESTRO | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51286784</id>
+        <link href="https://tv.naver.com/v/51286784"/>
+        <updated>2024-05-13T10:18:28.244Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN JUN (세븐틴 준) - MAESTRO | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51286783</id>
+        <link href="https://tv.naver.com/v/51286783"/>
+        <updated>2024-05-13T10:18:28.245Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN WONWOO (세븐틴 원우) - MAESTRO | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51286737</id>
+        <link href="https://tv.naver.com/v/51286737"/>
+        <updated>2024-05-13T10:18:28.247Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE LIZ (아이브 리즈) – 해야 (HEYA) | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51286732</id>
+        <link href="https://tv.naver.com/v/51286732"/>
+        <updated>2024-05-13T10:18:28.248Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE LEESEO (아이브 이서) - 해야 (HEYA) 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51286489</id>
+        <link href="https://tv.naver.com/v/51286489"/>
+        <updated>2024-05-13T10:18:28.252Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] IVE REI (아이브 레이) - 해야 (HEYA) 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51286484</id>
+        <link href="https://tv.naver.com/v/51286484"/>
+        <updated>2024-05-13T10:18:28.254Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] IVE GAEUL (아이브 가을) - 해야 (HEYA) 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
         <id>https://tv.naver.com/v/51285979</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/51275618"/>
         <updated>2024-05-13T07:16:26.623Z</updated>
         <content type="html"><![CDATA[16:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] KIM JAEHWAN (김재환) – 나만큼 풀캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51203606</id>
-        <link href="https://tv.naver.com/v/51203606"/>
-        <updated>2024-05-11T09:17:23.936Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEVENTEEN (세븐틴) – MAESTRO 풀캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51203603</id>
-        <link href="https://tv.naver.com/v/51203603"/>
-        <updated>2024-05-11T09:17:23.936Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소]YOOK SUNGJAE (육성재) – BE SOMEBODY 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51203575</id>
-        <link href="https://tv.naver.com/v/51203575"/>
-        <updated>2024-05-11T09:17:23.936Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEVENTEEN SEUNGKWAN(세븐틴 승관) - MAESTRO 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51203400</id>
-        <link href="https://tv.naver.com/v/51203400"/>
-        <updated>2024-05-11T09:17:23.937Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEVENTEEN VERNON (세븐틴 버논) - MAESTRO 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51203397</id>
-        <link href="https://tv.naver.com/v/51203397"/>
-        <updated>2024-05-11T09:17:23.940Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE (아이브) – 해야 (HEYA) 풀캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51203396</id>
-        <link href="https://tv.naver.com/v/51203396"/>
-        <updated>2024-05-11T09:17:23.941Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEVENTEEN JUN (세븐틴 준) - MAESTRO | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51203248</id>
-        <link href="https://tv.naver.com/v/51203248"/>
-        <updated>2024-05-11T09:17:23.943Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEVENTEEN DINO (세븐틴 디노) - MAESTRO 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51203108</id>
-        <link href="https://tv.naver.com/v/51203108"/>
-        <updated>2024-05-11T09:17:23.945Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>

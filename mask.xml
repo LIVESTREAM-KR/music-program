@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-05-13T09:19:10.989Z</updated>
+    <updated>2024-05-13T10:19:03.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨록의 전설! ＜세븐돌핀스＞ 보컬🎤 가수 김충훈 하이라이트!, MBC 240512 방송]]></title>
+        <id>https://tv.naver.com/v/51287559</id>
+        <link href="https://tv.naver.com/v/51287559"/>
+        <updated>2024-05-13T10:19:02.866Z</updated>
+        <content type="html"><![CDATA[10:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥상위 일프로의 진한 감성 보컬🎵 트로트 가수 일민 하이라이트!, MBC 240512 방송]]></title>
+        <id>https://tv.naver.com/v/51287555</id>
+        <link href="https://tv.naver.com/v/51287555"/>
+        <updated>2024-05-13T10:19:02.866Z</updated>
+        <content type="html"><![CDATA[09:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜새 역사를 가로막는 실력자들의 파격적인 무대🎤 '희로애락도 락이다'의 9연승 도전👊 결과는?＞ 복면가왕 451회 예고, MBC 240519 방송]]></title>
         <id>https://tv.naver.com/v/51239963</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/51238368"/>
         <updated>2024-05-12T11:14:07.706Z</updated>
         <content type="html"><![CDATA[01:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크리스피 통삼겹' VS '스모크 통닭'의 1라운드 무대 - 여자이니까, MBC 240512 방송]]></title>
-        <id>https://tv.naver.com/v/51238094</id>
-        <link href="https://tv.naver.com/v/51238094"/>
-        <updated>2024-05-12T10:16:39.602Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['모래놀이'의 정체는 배우 김민아!, MBC 240512 방송]]></title>
-        <id>https://tv.naver.com/v/51238061</id>
-        <link href="https://tv.naver.com/v/51238061"/>
-        <updated>2024-05-12T10:16:39.604Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
 </feed>
