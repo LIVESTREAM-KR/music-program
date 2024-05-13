@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-13T10:19:03.465Z</updated>
+    <updated>2024-05-13T11:14:43.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN MINGYU (세븐틴 민규) - MAESTRO | 쇼! 음악중심 | MBC240511방송]]></title>
+        <id>https://tv.naver.com/v/51290354</id>
+        <link href="https://tv.naver.com/v/51290354"/>
+        <updated>2024-05-13T11:14:08.181Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – 해야 (HEYA) | 쇼! 음악중심 | MBC240511방송]]></title>
         <id>https://tv.naver.com/v/51286997</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51285979"/>
         <updated>2024-05-13T09:18:36.739Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 레이(IVE) X 설윤 X 리즈(IVE), 5월 둘째 주 음악중심 MC 컷 모음!, MBC 240511 방송]]></title>
-        <id>https://tv.naver.com/v/51275618</id>
-        <link href="https://tv.naver.com/v/51275618"/>
-        <updated>2024-05-13T07:16:26.623Z</updated>
-        <content type="html"><![CDATA[16:14]]></content>
     </entry>
 </feed>
