@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-13T06:23:58.407Z</updated>
+    <updated>2024-05-13T07:17:01.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 레이(IVE) X 설윤 X 리즈(IVE), 5월 둘째 주 음악중심 MC 컷 모음!, MBC 240511 방송]]></title>
+        <id>https://tv.naver.com/v/51275618</id>
+        <link href="https://tv.naver.com/v/51275618"/>
+        <updated>2024-05-13T07:16:26.623Z</updated>
+        <content type="html"><![CDATA[16:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] KIM JAEHWAN (김재환) – 나만큼 풀캠 | 쇼! 음악중심 | MBC240511방송]]></title>
         <id>https://tv.naver.com/v/51203606</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51203107"/>
         <updated>2024-05-11T09:17:23.946Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SEVENTEEN JEONGHAN (세븐틴 정한) - MAESTRO 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51202876</id>
-        <link href="https://tv.naver.com/v/51202876"/>
-        <updated>2024-05-11T09:17:23.948Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
