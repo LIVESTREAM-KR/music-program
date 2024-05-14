@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-05-14T10:20:49.008Z</updated>
+    <updated>2024-05-14T11:14:47.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김재환 - 나만큼 (Amaid) (Prod. Dynamicduo, Padi) [THE SHOW 240514]]]></title>
+        <id>https://tv.naver.com/v/51352561</id>
+        <link href="https://tv.naver.com/v/51352561"/>
+        <updated>2024-05-14T11:14:30.194Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/51352293</id>
+        <link href="https://tv.naver.com/v/51352293"/>
+        <updated>2024-05-14T11:14:30.194Z</updated>
+        <content type="html"><![CDATA[02:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키노(KINO) - Solo [THE SHOW 240514]]]></title>
+        <id>https://tv.naver.com/v/51352290</id>
+        <link href="https://tv.naver.com/v/51352290"/>
+        <updated>2024-05-14T11:14:30.195Z</updated>
+        <content type="html"><![CDATA[02:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE - GEEKIN [THE SHOW 240514]]]></title>
+        <id>https://tv.naver.com/v/51352285</id>
+        <link href="https://tv.naver.com/v/51352285"/>
+        <updated>2024-05-14T11:14:30.195Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS - Girls Never Die [THE SHOW 240514]]]></title>
+        <id>https://tv.naver.com/v/51352282</id>
+        <link href="https://tv.naver.com/v/51352282"/>
+        <updated>2024-05-14T11:14:30.197Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS - Non Scale [THE SHOW 240514]]]></title>
+        <id>https://tv.naver.com/v/51352280</id>
+        <link href="https://tv.naver.com/v/51352280"/>
+        <updated>2024-05-14T11:14:30.202Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FANTASY BOYS - 분명 그녀가 나를 보고 웃잖아 [THE SHOW 240514]]]></title>
+        <id>https://tv.naver.com/v/51351545</id>
+        <link href="https://tv.naver.com/v/51351545"/>
+        <updated>2024-05-14T11:14:30.203Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김우진 - I Like The Way [THE SHOW 240514]]]></title>
         <id>https://tv.naver.com/v/51351099</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/51350778"/>
         <updated>2024-05-14T10:20:33.022Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The KingDom(더킹덤) - Flip that Coin [THE SHOW 240514]]]></title>
-        <id>https://tv.naver.com/v/51350770</id>
-        <link href="https://tv.naver.com/v/51350770"/>
-        <updated>2024-05-14T10:20:33.022Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리오(LEO) - Come Closer [THE SHOW 240514]]]></title>
-        <id>https://tv.naver.com/v/51350458</id>
-        <link href="https://tv.naver.com/v/51350458"/>
-        <updated>2024-05-14T10:20:33.022Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E'LAST(엘라스트) - Gasoline [THE SHOW 240514]]]></title>
-        <id>https://tv.naver.com/v/51350229</id>
-        <link href="https://tv.naver.com/v/51350229"/>
-        <updated>2024-05-14T10:20:33.024Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나태주  - 용됐구나 [THE SHOW 240514]]]></title>
-        <id>https://tv.naver.com/v/51349825</id>
-        <link href="https://tv.naver.com/v/51349825"/>
-        <updated>2024-05-14T10:20:33.025Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[82MAJOR - 촉(Choke) [THE SHOW 240514]]]></title>
-        <id>https://tv.naver.com/v/51349822</id>
-        <link href="https://tv.naver.com/v/51349822"/>
-        <updated>2024-05-14T10:20:33.026Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOZ(티오지) - NU SHOES [THE SHOW 240514]]]></title>
-        <id>https://tv.naver.com/v/51349820</id>
-        <link href="https://tv.naver.com/v/51349820"/>
-        <updated>2024-05-14T10:20:33.028Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어센트(ASC2NT) - LOVE ME DO [THE SHOW 240514]]]></title>
-        <id>https://tv.naver.com/v/51348516</id>
-        <link href="https://tv.naver.com/v/51348516"/>
-        <updated>2024-05-14T10:20:33.029Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
