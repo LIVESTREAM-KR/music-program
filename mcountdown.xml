@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-05-14T11:14:47.726Z</updated>
+    <updated>2024-05-14T12:33:35.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IVE가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/51354230</id>
+        <link href="https://tv.naver.com/v/51354230"/>
+        <updated>2024-05-14T12:33:13.830Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SHINE STAGE 특집] 세븐틴 (SEVENTEEN) - MAESTRO | Mnet 240509 방송]]></title>
         <id>https://tv.naver.com/v/51106234</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51105088"/>
         <updated>2024-05-09T10:19:46.387Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SHINE STAGE 특집] TWICE(트와이스) - ONE SPARK | Mnet 240509 방송]]></title>
-        <id>https://tv.naver.com/v/51104918</id>
-        <link href="https://tv.naver.com/v/51104918"/>
-        <updated>2024-05-09T10:19:46.388Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>

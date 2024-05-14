@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-14T11:14:47.743Z</updated>
+    <updated>2024-05-14T12:33:35.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[MAESTRO - 세븐틴 (SEVENTEEN) | KBS 240510 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IVE가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51354230</id>
+        <link href="https://tv.naver.com/v/51354230"/>
+        <updated>2024-05-14T12:33:13.830Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SHINE STAGE 특집] 세븐틴 (SEVENTEEN) - MAESTRO | Mnet 240509 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/51106234</id>
         <link href="https://tv.naver.com/v/51106234"/>
@@ -278,11 +285,11 @@
         <content type="html"><![CDATA[03:52]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[SHINE STAGE 특집] TWICE(트와이스) - ONE SPARK | Mnet 240509 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51104918</id>
-        <link href="https://tv.naver.com/v/51104918"/>
-        <updated>2024-05-09T10:19:46.388Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
+        <title type="html"><![CDATA[[챌린딩] MC 샤오쥔 & ASMRZ(다나카&닛몰캐쉬) [THE SHOW 240514] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/51354472</id>
+        <link href="https://tv.naver.com/v/51354472"/>
+        <updated>2024-05-14T12:33:18.989Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김재환 - 나만큼 (Amaid) (Prod. Dynamicduo, Padi) [THE SHOW 240514] (더쇼)]]></title>
@@ -296,7 +303,7 @@
         <id>https://tv.naver.com/v/51352293</id>
         <link href="https://tv.naver.com/v/51352293"/>
         <updated>2024-05-14T11:14:30.194Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
+        <content type="html"><![CDATA[06:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키노(KINO) - Solo [THE SHOW 240514] (더쇼)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://tv.naver.com/v/51351031"/>
         <updated>2024-05-14T10:20:33.020Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASMRZ(다나카&닛몰캐쉬) - 잘자요 아가씨 [THE SHOW 240514] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/51350778</id>
-        <link href="https://tv.naver.com/v/51350778"/>
-        <updated>2024-05-14T10:20:33.022Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[락스타로 파격 변신한 솔라🫶 (쇼챔피언)]]></title>

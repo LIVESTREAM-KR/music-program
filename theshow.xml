@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-05-14T11:14:47.734Z</updated>
+    <updated>2024-05-14T12:33:35.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[챌린딩] MC 샤오쥔 & ASMRZ(다나카&닛몰캐쉬) [THE SHOW 240514]]]></title>
+        <id>https://tv.naver.com/v/51354472</id>
+        <link href="https://tv.naver.com/v/51354472"/>
+        <updated>2024-05-14T12:33:18.989Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재환 - 나만큼 (Amaid) (Prod. Dynamicduo, Padi) [THE SHOW 240514]]]></title>
         <id>https://tv.naver.com/v/51352561</id>
@@ -17,7 +24,7 @@
         <id>https://tv.naver.com/v/51352293</id>
         <link href="https://tv.naver.com/v/51352293"/>
         <updated>2024-05-14T11:14:30.194Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
+        <content type="html"><![CDATA[06:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키노(KINO) - Solo [THE SHOW 240514]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51351031"/>
         <updated>2024-05-14T10:20:33.020Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASMRZ(다나카&닛몰캐쉬) - 잘자요 아가씨 [THE SHOW 240514]]]></title>
-        <id>https://tv.naver.com/v/51350778</id>
-        <link href="https://tv.naver.com/v/51350778"/>
-        <updated>2024-05-14T10:20:33.022Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
     </entry>
 </feed>
