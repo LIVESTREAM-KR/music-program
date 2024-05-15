@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-05-15T03:22:14.531Z</updated>
+    <updated>2024-05-15T04:21:31.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 노래 실력도 NCT 정우 판박이네...⭐ 배우 김민아가 부르는 《꽃길》, 《Love Me Love Me》 등 | #김민아 MBC240512방송]]></title>
+        <id>https://tv.naver.com/v/51281418</id>
+        <link href="https://tv.naver.com/v/51281418"/>
+        <updated>2024-05-15T04:21:31.113Z</updated>
+        <content type="html"><![CDATA[14:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 ✨록의 전설! ＜세븐돌핀스＞ 보컬🎤 가수 김충훈 하이라이트!, MBC 240512 방송]]></title>
         <id>https://tv.naver.com/v/51287559</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51238658"/>
         <updated>2024-05-12T11:14:07.702Z</updated>
         <content type="html"><![CDATA[01:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오페라에 온 듯한 화려한 기교! '크리스피 통삼겹'의 성악 발성 세레나데🎶, MBC 240512 방송]]></title>
-        <id>https://tv.naver.com/v/51238368</id>
-        <link href="https://tv.naver.com/v/51238368"/>
-        <updated>2024-05-12T11:14:07.706Z</updated>
-        <content type="html"><![CDATA[01:43]]></content>
     </entry>
 </feed>
