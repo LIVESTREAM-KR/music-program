@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-16T10:18:12.983Z</updated>
+    <updated>2024-05-16T11:15:20.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Real Eclipse.zip 📂 Show! Music Core Eclipse Special Compilation]]></title>
+        <id>https://tv.naver.com/v/51447188</id>
+        <link href="https://tv.naver.com/v/51447188"/>
+        <updated>2024-05-16T11:14:49.000Z</updated>
+        <content type="html"><![CDATA[01:11:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 본업천재 & 얼굴천재 육성재가 허당미까지 있는 경우🦊⚡(+보너스 최애직캠💖) #YOOKSUNGJAE 사전녹화 비하인드⏯]]></title>
         <id>https://tv.naver.com/v/51444779</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51286489"/>
         <updated>2024-05-13T10:18:28.252Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE REI (아이브 레이) - 해야 (HEYA) 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51286484</id>
-        <link href="https://tv.naver.com/v/51286484"/>
-        <updated>2024-05-13T10:18:28.254Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-16T10:18:12.984Z</updated>
+    <updated>2024-05-16T11:15:20.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[MAESTRO - 세븐틴 (SEVENTEEN) | KBS 240510 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:52]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Real Eclipse.zip 📂 Show! Music Core Eclipse Special Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51447188</id>
+        <link href="https://tv.naver.com/v/51447188"/>
+        <updated>2024-05-16T11:14:49.000Z</updated>
+        <content type="html"><![CDATA[01:11:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 본업천재 & 얼굴천재 육성재가 허당미까지 있는 경우🦊⚡(+보너스 최애직캠💖) #YOOKSUNGJAE 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/51444779</id>
         <link href="https://tv.naver.com/v/51444779"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/51286489"/>
         <updated>2024-05-13T10:18:28.252Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE REI (아이브 레이) - 해야 (HEYA) 직캠 | 쇼! 음악중심 | MBC240511방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/51286484</id>
-        <link href="https://tv.naver.com/v/51286484"/>
-        <updated>2024-05-13T10:18:28.254Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴(SEVENTEEN) - MAESTRO | SBS 240512 방송 (인기가요)]]></title>
@@ -215,74 +215,74 @@
         <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YOUNITE - GEEKIN | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51446990</id>
-        <link href="https://tv.naver.com/v/51446990"/>
-        <updated>2024-05-16T10:17:50.324Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
+        <title type="html"><![CDATA['최초 공개' aespa - Supernova | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51450186</id>
+        <link href="https://tv.naver.com/v/51450186"/>
+        <updated>2024-05-16T11:14:59.219Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FANTASY BOYS - 분명 그녀가 나를 보고 웃잖아 | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51446694</id>
-        <link href="https://tv.naver.com/v/51446694"/>
-        <updated>2024-05-16T10:17:50.325Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
+        <title type="html"><![CDATA['COMEBACK' 김재환 - 나만큼 (Amaid) (Prod. Dynamicduo, Padi) | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51449799</id>
+        <link href="https://tv.naver.com/v/51449799"/>
+        <updated>2024-05-16T11:14:59.221Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - 설레는 마음으로 | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51446692</id>
-        <link href="https://tv.naver.com/v/51446692"/>
-        <updated>2024-05-16T10:17:50.327Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
+        <title type="html"><![CDATA['컴백 인터뷰' with aespa (에스파) | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51449793</id>
+        <link href="https://tv.naver.com/v/51449793"/>
+        <updated>2024-05-16T11:14:59.221Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NOWADAYS - TICKET | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51446451</id>
-        <link href="https://tv.naver.com/v/51446451"/>
-        <updated>2024-05-16T10:17:50.328Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
+        <title type="html"><![CDATA['최초 공개' IVE - Accendio | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51449483</id>
+        <link href="https://tv.naver.com/v/51449483"/>
+        <updated>2024-05-16T11:14:59.222Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WHIB - KICK IT | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51446449</id>
-        <link href="https://tv.naver.com/v/51446449"/>
-        <updated>2024-05-16T10:17:50.330Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
+        <title type="html"><![CDATA['최초 공개' ZEROBASEONE - Feel the POP | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51449206</id>
+        <link href="https://tv.naver.com/v/51449206"/>
+        <updated>2024-05-16T11:14:59.223Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['UP NEXT' ZEROBASEONE (제로베이스원) | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51445709</id>
-        <link href="https://tv.naver.com/v/51445709"/>
-        <updated>2024-05-16T10:17:50.332Z</updated>
-        <content type="html"><![CDATA[00:41]]></content>
+        <title type="html"><![CDATA['COMEBACK' ZEROBASEONE - SWEAT | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51448918</id>
+        <link href="https://tv.naver.com/v/51448918"/>
+        <updated>2024-05-16T11:14:59.224Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['COMEBACK' DXMON(다이몬) - 소년…소녀를 만나다 (Girls, Love boys, Love girls) | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51445516</id>
-        <link href="https://tv.naver.com/v/51445516"/>
-        <updated>2024-05-16T10:17:50.334Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
+        <title type="html"><![CDATA['COMEBACK' YAOCHEN - TURN UP (Korean Ver.) | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51448914</id>
+        <link href="https://tv.naver.com/v/51448914"/>
+        <updated>2024-05-16T11:14:59.226Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리오(LEO) - Come Closer | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51445514</id>
-        <link href="https://tv.naver.com/v/51445514"/>
-        <updated>2024-05-16T10:17:50.336Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
+        <title type="html"><![CDATA['미니 팬미팅' ZEROBASEONE (제로베이스원) (with ZEROSE♥) | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51448660</id>
+        <link href="https://tv.naver.com/v/51448660"/>
+        <updated>2024-05-16T11:14:59.227Z</updated>
+        <content type="html"><![CDATA[07:47]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어센트(ASC2NT) - LOVE ME DO | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51445203</id>
-        <link href="https://tv.naver.com/v/51445203"/>
-        <updated>2024-05-16T10:17:50.337Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
+        <title type="html"><![CDATA[Xdinary Heroes - 어리고 부끄럽고 바보 같은 | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51447733</id>
+        <link href="https://tv.naver.com/v/51447733"/>
+        <updated>2024-05-16T11:14:59.229Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IVE가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51354230</id>
-        <link href="https://tv.naver.com/v/51354230"/>
-        <updated>2024-05-14T12:33:13.830Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
+        <title type="html"><![CDATA['차차차' 🍿오늘은 내가 팝콘 왕🍿 IVE VS BOYNEXTDOOR VS Xdinary Heroes! | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51447729</id>
+        <link href="https://tv.naver.com/v/51447729"/>
+        <updated>2024-05-16T11:14:59.230Z</updated>
+        <content type="html"><![CDATA[04:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[챌린딩] MC 샤오쥔 & ASMRZ(다나카&닛몰캐쉬) [THE SHOW 240514] (더쇼)]]></title>
