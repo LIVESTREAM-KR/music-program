@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-05-16T11:15:20.861Z</updated>
+    <updated>2024-05-16T12:32:59.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 (SEVENTEEN) - MAESTRO | Mnet 240516 방송]]></title>
+        <id>https://tv.naver.com/v/51450717</id>
+        <link href="https://tv.naver.com/v/51450717"/>
+        <updated>2024-05-16T12:32:37.239Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' aespa - Supernova | Mnet 240516 방송]]></title>
         <id>https://tv.naver.com/v/51450186</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51447733"/>
         <updated>2024-05-16T11:14:59.229Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' 🍿오늘은 내가 팝콘 왕🍿 IVE VS BOYNEXTDOOR VS Xdinary Heroes! | Mnet 240516 방송]]></title>
-        <id>https://tv.naver.com/v/51447729</id>
-        <link href="https://tv.naver.com/v/51447729"/>
-        <updated>2024-05-16T11:14:59.230Z</updated>
-        <content type="html"><![CDATA[04:46]]></content>
     </entry>
 </feed>
