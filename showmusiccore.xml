@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-16T09:18:23.519Z</updated>
+    <updated>2024-05-16T10:18:12.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 본업천재 & 얼굴천재 육성재가 허당미까지 있는 경우🦊⚡(+보너스 최애직캠💖) #YOOKSUNGJAE 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/51444779</id>
+        <link href="https://tv.naver.com/v/51444779"/>
+        <updated>2024-05-16T10:17:39.113Z</updated>
+        <content type="html"><![CDATA[07:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] SEVENTEEN MINGYU (세븐틴 민규) - MAESTRO | 쇼! 음악중심 | MBC240511방송]]></title>
         <id>https://tv.naver.com/v/51290354</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51286484"/>
         <updated>2024-05-13T10:18:28.254Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE GAEUL (아이브 가을) - 해야 (HEYA) 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51285979</id>
-        <link href="https://tv.naver.com/v/51285979"/>
-        <updated>2024-05-13T09:18:36.739Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
