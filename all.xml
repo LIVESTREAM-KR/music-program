@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-17T11:15:55.579Z</updated>
+    <updated>2024-05-17T12:32:02.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supernova - aespa | KBS 240517 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 손태진&정다경&이찬원&정서주 노래방 대결🎤 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/51509328</id>
+        <link href="https://tv.naver.com/v/51509328"/>
+        <updated>2024-05-17T12:31:56.893Z</updated>
+        <content type="html"><![CDATA[06:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 불후 최초 전설끼리의 작곡 경쟁! ✨트로트 영 레전드 특집 2부✨  | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/51208998</id>
         <link href="https://tv.naver.com/v/51208998"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/51208010"/>
         <updated>2024-05-11T12:29:26.531Z</updated>
         <content type="html"><![CDATA[02:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독 첫 출연부터 댄스 장전 완료🔥 올라운더 아티스트 손태진의 선곡은? | KBS 240511 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51207898</id>
-        <link href="https://tv.naver.com/v/51207898"/>
-        <updated>2024-05-11T12:29:26.533Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 노래 실력도 NCT 정우 판박이네...⭐ 배우 김민아가 부르는 《꽃길》, 《Love Me Love Me》 등 | #김민아 MBC240512방송 (복면가왕)]]></title>

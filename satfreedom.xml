@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-05-17T11:15:55.574Z</updated>
+    <updated>2024-05-17T12:32:02.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 손태진&정다경&이찬원&정서주 노래방 대결🎤 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/51509328</id>
+        <link href="https://tv.naver.com/v/51509328"/>
+        <updated>2024-05-17T12:31:56.893Z</updated>
+        <content type="html"><![CDATA[06:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 불후 최초 전설끼리의 작곡 경쟁! ✨트로트 영 레전드 특집 2부✨  | KBS 방송]]></title>
         <id>https://tv.naver.com/v/51208998</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51208010"/>
         <updated>2024-05-11T12:29:26.531Z</updated>
         <content type="html"><![CDATA[02:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단독 첫 출연부터 댄스 장전 완료🔥 올라운더 아티스트 손태진의 선곡은? | KBS 240511 방송]]></title>
-        <id>https://tv.naver.com/v/51207898</id>
-        <link href="https://tv.naver.com/v/51207898"/>
-        <updated>2024-05-11T12:29:26.533Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
