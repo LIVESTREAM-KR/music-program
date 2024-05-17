@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-17T06:24:04.397Z</updated>
+    <updated>2024-05-17T07:16:45.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] SEVENTEEN.zip 📂 아낀다부터 MAESTRO까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/51473055</id>
+        <link href="https://tv.naver.com/v/51473055"/>
+        <updated>2024-05-17T07:16:09.456Z</updated>
+        <content type="html"><![CDATA[55:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Real Eclipse.zip 📂 Show! Music Core Eclipse Special Compilation]]></title>
         <id>https://tv.naver.com/v/51447188</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51286732"/>
         <updated>2024-05-13T10:18:28.248Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] IVE LEESEO (아이브 이서) - 해야 (HEYA) 직캠 | 쇼! 음악중심 | MBC240511방송]]></title>
-        <id>https://tv.naver.com/v/51286489</id>
-        <link href="https://tv.naver.com/v/51286489"/>
-        <updated>2024-05-13T10:18:28.252Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
     </entry>
 </feed>
