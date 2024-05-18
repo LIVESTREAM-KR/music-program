@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-18T11:13:15.868Z</updated>
+    <updated>2024-05-18T12:29:59.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[바람까지 유시아가 지배해..💗]]></title>
+        <id>https://tv.naver.com/v/51491211</id>
+        <link href="https://tv.naver.com/v/51491211"/>
+        <updated>2024-05-18T12:29:47.952Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다나카상의 못말리는 아.가.씨🌹]]></title>
         <id>https://tv.naver.com/v/51491182</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51073431"/>
         <updated>2024-05-09T08:21:35.520Z</updated>
         <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Xdinary Heroes GAON(엑스디너리 히어로즈 가온) - 꿈을 꾸는 소녀 | Show Champion | EP.517 | 240508]]></title>
-        <id>https://tv.naver.com/v/51051195</id>
-        <link href="https://tv.naver.com/v/51051195"/>
-        <updated>2024-05-08T13:20:34.567Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
