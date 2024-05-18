@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-05-18T09:18:38.161Z</updated>
+    <updated>2024-05-18T10:16:40.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박현호X김중연 - 찐이야 | KBS 240518 방송]]></title>
+        <id>https://tv.naver.com/v/51539846</id>
+        <link href="https://tv.naver.com/v/51539846"/>
+        <updated>2024-05-18T10:16:34.558Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신유와 특별한 인연!🌹 꽃미남 듀오의 선곡은? | KBS 240518 방송]]></title>
+        <id>https://tv.naver.com/v/51539657</id>
+        <link href="https://tv.naver.com/v/51539657"/>
+        <updated>2024-05-18T10:16:34.563Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정서주X배아현X오유진 - 꽃물 | KBS 240518 방송]]></title>
+        <id>https://tv.naver.com/v/51539655</id>
+        <link href="https://tv.naver.com/v/51539655"/>
+        <updated>2024-05-18T10:16:34.564Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미스트롯3 진선미가 모였다! 정서주의 볼빵빵 복화술 개인기😲 | KBS 240518 방송]]></title>
+        <id>https://tv.naver.com/v/51539148</id>
+        <link href="https://tv.naver.com/v/51539148"/>
+        <updated>2024-05-18T10:16:34.564Z</updated>
+        <content type="html"><![CDATA[05:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 손태진&정다경&이찬원&정서주 노래방 대결🎤 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/51509328</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/51208457"/>
         <updated>2024-05-11T12:29:26.526Z</updated>
         <content type="html"><![CDATA[01:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곡 수정만 40번?! 〈서울의 달🎵〉 제작 비하인드 & 팀 결성 이유! | KBS 240511 방송]]></title>
-        <id>https://tv.naver.com/v/51208456</id>
-        <link href="https://tv.naver.com/v/51208456"/>
-        <updated>2024-05-11T12:29:26.527Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨길 수 없는 우승 욕망🔥 트로트 끼쟁이 정다경의 선곡은? | KBS 240511 방송]]></title>
-        <id>https://tv.naver.com/v/51208427</id>
-        <link href="https://tv.naver.com/v/51208427"/>
-        <updated>2024-05-11T12:29:26.528Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Young 해진 스타일?!✨ 재즈로 완벽 변신한 성악 어벤저스 라포엠의 무대🎷 | KBS 240511 방송]]></title>
-        <id>https://tv.naver.com/v/51208014</id>
-        <link href="https://tv.naver.com/v/51208014"/>
-        <updated>2024-05-11T12:29:26.530Z</updated>
-        <content type="html"><![CDATA[01:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멈추지 않는 함성! 납득이 가는 댄스 퍼포먼스를🕺 제대로 보여준 손태진의 무대 | KBS 240511 방송]]></title>
-        <id>https://tv.naver.com/v/51208010</id>
-        <link href="https://tv.naver.com/v/51208010"/>
-        <updated>2024-05-11T12:29:26.531Z</updated>
-        <content type="html"><![CDATA[02:02]]></content>
     </entry>
 </feed>
