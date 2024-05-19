@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-19T08:20:25.984Z</updated>
+    <updated>2024-05-19T09:19:05.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미모의 축복이 끝이 없는 1분 모아보기💐]]></title>
+        <id>https://tv.naver.com/v/51491276</id>
+        <link href="https://tv.naver.com/v/51491276"/>
+        <updated>2024-05-19T09:18:53.650Z</updated>
+        <content type="html"><![CDATA[00:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바람까지 유시아가 지배해..💗]]></title>
         <id>https://tv.naver.com/v/51491211</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51073161"/>
         <updated>2024-05-09T08:21:35.518Z</updated>
         <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] FANTASY BOYS(판타지 보이즈) - 몰랐어 첫사랑인지 스쳐가는 감정인 건지 | Show Champion | EP.517 | 240508]]></title>
-        <id>https://tv.naver.com/v/51073431</id>
-        <link href="https://tv.naver.com/v/51073431"/>
-        <updated>2024-05-09T08:21:35.520Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
     </entry>
 </feed>
