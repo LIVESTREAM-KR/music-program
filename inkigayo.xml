@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-05-19T07:15:26.289Z</updated>
+    <updated>2024-05-19T08:20:25.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[aespa - Supernova | SBS 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51565805</id>
+        <link href="https://tv.naver.com/v/51565805"/>
+        <updated>2024-05-19T08:19:58.141Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김재환 - 나만큼 (Amaid) (Prod. Dynamicduo, Padi) | SBS 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51565538</id>
+        <link href="https://tv.naver.com/v/51565538"/>
+        <updated>2024-05-19T08:19:58.141Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IVE - Accendio | SBS 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51565535</id>
+        <link href="https://tv.naver.com/v/51565535"/>
+        <updated>2024-05-19T08:19:58.147Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - Feel the POP | SBS 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51565378</id>
+        <link href="https://tv.naver.com/v/51565378"/>
+        <updated>2024-05-19T08:19:58.149Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The KingDom(더킹덤) - Flip that Coin | SBS 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51565089</id>
+        <link href="https://tv.naver.com/v/51565089"/>
+        <updated>2024-05-19T08:19:58.150Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes - 어리고 부끄럽고 바보 같은 | SBS 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51565088</id>
+        <link href="https://tv.naver.com/v/51565088"/>
+        <updated>2024-05-19T08:19:58.151Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOUNITE - GEEKIN | SBS 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51564908</id>
+        <link href="https://tv.naver.com/v/51564908"/>
+        <updated>2024-05-19T08:19:58.155Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS - Girls Never Die | SBS 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51564759</id>
+        <link href="https://tv.naver.com/v/51564759"/>
+        <updated>2024-05-19T08:19:58.156Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FANTASY BOYS - 분명 그녀가 나를 보고 웃잖아 | SBS 240519 방송]]></title>
         <id>https://tv.naver.com/v/51564651</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/51564625"/>
         <updated>2024-05-19T07:14:56.690Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[82MAJOR - 촉(Choke) | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51564487</id>
-        <link href="https://tv.naver.com/v/51564487"/>
-        <updated>2024-05-19T07:14:56.690Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DXMON(다이몬) - 소년…소녀를 만나다 (Girls, Love boys, Love girls) | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51564345</id>
-        <link href="https://tv.naver.com/v/51564345"/>
-        <updated>2024-05-19T07:14:56.690Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TOZ(티오지) - NU SHOES | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51564200</id>
-        <link href="https://tv.naver.com/v/51564200"/>
-        <updated>2024-05-19T07:14:56.690Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E’LAST(엘라스트) - Gasoline | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51563988</id>
-        <link href="https://tv.naver.com/v/51563988"/>
-        <updated>2024-05-19T07:14:56.690Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOWADAYS - TICKET | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51563785</id>
-        <link href="https://tv.naver.com/v/51563785"/>
-        <updated>2024-05-19T07:14:56.690Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIOT(티아이오티) - ROCK THANG | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51563641</id>
-        <link href="https://tv.naver.com/v/51563641"/>
-        <updated>2024-05-19T07:14:56.691Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어센트(ASC2NT) - LOVE ME DO | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51563611</id>
-        <link href="https://tv.naver.com/v/51563611"/>
-        <updated>2024-05-19T07:14:56.692Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유다연 - KEEP IT LOW | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51563439</id>
-        <link href="https://tv.naver.com/v/51563439"/>
-        <updated>2024-05-19T07:14:56.693Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
     </entry>
 </feed>
