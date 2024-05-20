@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-20T08:22:55.014Z</updated>
+    <updated>2024-05-20T09:21:39.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 나는 2학년 쇼챔이 본방사수반의 친구 춤추고 랩하는 걸 좋아하는 친구]]></title>
+        <id>https://tv.naver.com/v/51606849</id>
+        <link href="https://tv.naver.com/v/51606849"/>
+        <updated>2024-05-20T09:21:27.048Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선업튀, 이승협 본업 모먼트🤍]]></title>
         <id>https://tv.naver.com/v/51491344</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51073432"/>
         <updated>2024-05-09T08:21:35.515Z</updated>
         <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KINO(키노) - Solo | Show Champion | EP.517 | 240508]]></title>
-        <id>https://tv.naver.com/v/51073162</id>
-        <link href="https://tv.naver.com/v/51073162"/>
-        <updated>2024-05-09T08:21:35.517Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
     </entry>
 </feed>

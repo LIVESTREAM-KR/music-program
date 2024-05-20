@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-20T08:22:55.024Z</updated>
+    <updated>2024-05-20T09:21:39.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) - Feel the POP | 쇼! 음악중심 | MBC240518방송]]></title>
+        <id>https://tv.naver.com/v/51613835</id>
+        <link href="https://tv.naver.com/v/51613835"/>
+        <updated>2024-05-20T09:21:03.675Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) - Feel the POP | 쇼! 음악중심 | MBC240518방송]]></title>
         <id>https://tv.naver.com/v/51613504</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51540617"/>
         <updated>2024-05-18T11:12:40.844Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] Cho Hyeryeon (조혜련) – 빠나나날라 풀캠 | 쇼! 음악중심 | MBC240518방송]]></title>
-        <id>https://tv.naver.com/v/51540469</id>
-        <link href="https://tv.naver.com/v/51540469"/>
-        <updated>2024-05-18T11:12:40.844Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
 </feed>
