@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-05-20T09:21:39.111Z</updated>
+    <updated>2024-05-20T10:19:32.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨독보적인 감각의 이날치 보컬🎤 가수 신유진 하이라이트!, MBC 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51618981</id>
+        <link href="https://tv.naver.com/v/51618981"/>
+        <updated>2024-05-20T10:19:31.941Z</updated>
+        <content type="html"><![CDATA[09:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 💕청량한 음색 요정 그리고 명창 고양이🐱 아이브 리즈 하이라이트!, MBC 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51618978</id>
+        <link href="https://tv.naver.com/v/51618978"/>
+        <updated>2024-05-20T10:19:31.942Z</updated>
+        <content type="html"><![CDATA[11:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ⚡전율 돋는 호랑이 창법 장인🐯 가수 리누 하이라이트!, MBC 240519 방송]]></title>
+        <id>https://tv.naver.com/v/51618976</id>
+        <link href="https://tv.naver.com/v/51618976"/>
+        <updated>2024-05-20T10:19:31.942Z</updated>
+        <content type="html"><![CDATA[11:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 우리 진실게임 하자... 좋아하는 음색 요정 있어? 난 리즈. 🐱 아이브 리즈가 부르는 《꽃길》 《분홍신》 | #리즈 #아이브 MBC240519방송]]></title>
         <id>https://tv.naver.com/v/51602226</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/51570259"/>
         <updated>2024-05-19T11:14:46.561Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['금쪽같은 딸내미' 3라운드 무대 - 달빛에 그려지는, MBC 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51570110</id>
-        <link href="https://tv.naver.com/v/51570110"/>
-        <updated>2024-05-19T11:14:46.564Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스모크 통닭'의 정체는 트라이비 송선!, MBC 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51569814</id>
-        <link href="https://tv.naver.com/v/51569814"/>
-        <updated>2024-05-19T10:16:40.288Z</updated>
-        <content type="html"><![CDATA[01:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['럭키박스' 2라운드 무대 - 중독된 사랑, MBC 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51569645</id>
-        <link href="https://tv.naver.com/v/51569645"/>
-        <updated>2024-05-19T10:16:40.289Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
 </feed>
