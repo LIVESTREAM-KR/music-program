@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-20T07:18:11.721Z</updated>
+    <updated>2024-05-20T08:22:55.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supernova - aespa | KBS 240517 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,34 @@
         <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) - Feel the POP | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51613504</id>
+        <link href="https://tv.naver.com/v/51613504"/>
+        <updated>2024-05-20T08:22:20.118Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE KIM GYUVIN (제로베이스원 김규빈) - Feel the POP | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51613501</id>
+        <link href="https://tv.naver.com/v/51613501"/>
+        <updated>2024-05-20T08:22:20.118Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) - Feel the POP | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51613496</id>
+        <link href="https://tv.naver.com/v/51613496"/>
+        <updated>2024-05-20T08:22:20.121Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING (에스파 닝닝) - Supernova | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51609405</id>
+        <link href="https://tv.naver.com/v/51609405"/>
+        <updated>2024-05-20T08:22:20.122Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] aespa WINTER (에스파 윈터) - Supernova | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/51609119</id>
         <link href="https://tv.naver.com/v/51609119"/>
@@ -115,34 +143,6 @@
         <link href="https://tv.naver.com/v/51540469"/>
         <updated>2024-05-18T11:12:40.844Z</updated>
         <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] tripleS (트리플에스) – Girls Never Die 풀캠 | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/51540468</id>
-        <link href="https://tv.naver.com/v/51540468"/>
-        <updated>2024-05-18T11:12:40.844Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM GYUVIN (제로베이스원 김규빈) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/51540466</id>
-        <link href="https://tv.naver.com/v/51540466"/>
-        <updated>2024-05-18T11:12:40.846Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/51540349</id>
-        <link href="https://tv.naver.com/v/51540349"/>
-        <updated>2024-05-18T11:12:40.847Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SEOK MATTHEW (제로베이스원 석매튜) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/51540348</id>
-        <link href="https://tv.naver.com/v/51540348"/>
-        <updated>2024-05-18T11:12:40.849Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240519 방송 (인기가요)]]></title>
