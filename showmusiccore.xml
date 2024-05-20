@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-20T04:21:31.535Z</updated>
+    <updated>2024-05-20T05:19:27.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 김규빈(ZB1) X 이정하 , 5월 셋째 주 음악중심 MC 컷 모음!, MBC 240518 방송]]></title>
+        <id>https://tv.naver.com/v/51601633</id>
+        <link href="https://tv.naver.com/v/51601633"/>
+        <updated>2024-05-20T05:18:52.972Z</updated>
+        <content type="html"><![CDATA[18:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ZEROBASEONE RICKY (제로베이스원 리키) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240518방송]]></title>
         <id>https://tv.naver.com/v/51540617</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51540214"/>
         <updated>2024-05-18T11:12:40.854Z</updated>
         <content type="html"><![CDATA[04:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240518방송]]></title>
-        <id>https://tv.naver.com/v/51540085</id>
-        <link href="https://tv.naver.com/v/51540085"/>
-        <updated>2024-05-18T11:12:40.855Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>
