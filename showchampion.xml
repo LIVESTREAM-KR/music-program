@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-20T02:32:20.743Z</updated>
+    <updated>2024-05-20T03:19:58.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[선업튀, 이승협 본업 모먼트🤍]]></title>
+        <id>https://tv.naver.com/v/51491344</id>
+        <link href="https://tv.naver.com/v/51491344"/>
+        <updated>2024-05-20T03:19:46.355Z</updated>
+        <content type="html"><![CDATA[00:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미모의 축복이 끝이 없는 1분 모아보기💐]]></title>
         <id>https://tv.naver.com/v/51491276</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/51073162</id>
         <link href="https://tv.naver.com/v/51073162"/>
         <updated>2024-05-09T08:21:35.517Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KINO(키노) - Solo | Show Champion | EP.517 | 240508]]></title>
-        <id>https://tv.naver.com/v/51073161</id>
-        <link href="https://tv.naver.com/v/51073161"/>
-        <updated>2024-05-09T08:21:35.518Z</updated>
         <content type="html"><![CDATA[02:20]]></content>
     </entry>
 </feed>
