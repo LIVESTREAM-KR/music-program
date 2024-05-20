@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-05-20T06:25:15.680Z</updated>
+    <updated>2024-05-20T07:18:11.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 우리 진실게임 하자... 좋아하는 음색 요정 있어? 난 리즈. 🐱 아이브 리즈가 부르는 《꽃길》 《분홍신》 | #리즈 #아이브 MBC240519방송]]></title>
+        <id>https://tv.naver.com/v/51602226</id>
+        <link href="https://tv.naver.com/v/51602226"/>
+        <updated>2024-05-20T07:18:11.157Z</updated>
+        <content type="html"><![CDATA[21:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분 공개] 아이브 리즈 3R 리허설 무대 영상 - 만약에, MBC 240519 방송]]></title>
         <id>https://tv.naver.com/v/51571623</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51569645"/>
         <updated>2024-05-19T10:16:40.289Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스모크 통닭' 2라운드 무대 - 한번 더 이별, MBC 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51569499</id>
-        <link href="https://tv.naver.com/v/51569499"/>
-        <updated>2024-05-19T10:16:40.291Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
