@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-21T11:16:05.269Z</updated>
+    <updated>2024-05-21T12:32:26.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supernova - aespa | KBS 240517 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ZEROBASEONE이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51685703</id>
+        <link href="https://tv.naver.com/v/51685703"/>
+        <updated>2024-05-21T12:32:02.415Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[세븐틴 (SEVENTEEN) - MAESTRO | Mnet 240516 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/51450717</id>
         <link href="https://tv.naver.com/v/51450717"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/51448660"/>
         <updated>2024-05-16T11:14:59.227Z</updated>
         <content type="html"><![CDATA[07:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - 어리고 부끄럽고 바보 같은 | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51447733</id>
-        <link href="https://tv.naver.com/v/51447733"/>
-        <updated>2024-05-16T11:14:59.229Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[춤 잘추고 예쁘기로 소문난 댄동 선배 바이브🧡 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/51673037</id>
+        <link href="https://tv.naver.com/v/51673037"/>
+        <updated>2024-05-21T12:32:14.114Z</updated>
+        <content type="html"><![CDATA[00:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 나는 2학년 쇼챔이 본방사수반의 친구 춤추고 랩하는 걸 좋아하는 친구 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/51606849</id>
         <link href="https://tv.naver.com/v/51606849"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/51145062"/>
         <updated>2024-05-11T12:29:20.985Z</updated>
         <content type="html"><![CDATA[00:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.517 | 240508 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/51087235</id>
-        <link href="https://tv.naver.com/v/51087235"/>
-        <updated>2024-05-10T02:32:23.481Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 658회 ＜신유X알고보니 혼수상태 2부＞ 우승자 ⭐라키⭐ | KBS 방송 (불후의 명곡)]]></title>

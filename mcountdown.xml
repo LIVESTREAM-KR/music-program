@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-05-21T11:16:05.272Z</updated>
+    <updated>2024-05-21T12:32:26.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/51685703</id>
+        <link href="https://tv.naver.com/v/51685703"/>
+        <updated>2024-05-21T12:32:02.415Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세븐틴 (SEVENTEEN) - MAESTRO | Mnet 240516 방송]]></title>
         <id>https://tv.naver.com/v/51450717</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51448660"/>
         <updated>2024-05-16T11:14:59.227Z</updated>
         <content type="html"><![CDATA[07:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - 어리고 부끄럽고 바보 같은 | Mnet 240516 방송]]></title>
-        <id>https://tv.naver.com/v/51447733</id>
-        <link href="https://tv.naver.com/v/51447733"/>
-        <updated>2024-05-16T11:14:59.229Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
