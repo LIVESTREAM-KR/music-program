@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-21T09:19:43.231Z</updated>
+    <updated>2024-05-21T10:18:28.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) – Accendio (Accendio) | 쇼! 음악중심 | MBC240518방송]]></title>
+        <id>https://tv.naver.com/v/51677731</id>
+        <link href="https://tv.naver.com/v/51677731"/>
+        <updated>2024-05-21T10:17:53.845Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE REI (아이브 레이) – Accendio (Accendio) | 쇼! 음악중심 | MBC240518방송]]></title>
+        <id>https://tv.naver.com/v/51677726</id>
+        <link href="https://tv.naver.com/v/51677726"/>
+        <updated>2024-05-21T10:17:53.845Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – Accendio | 쇼! 음악중심 | MBC240518방송]]></title>
+        <id>https://tv.naver.com/v/51677723</id>
+        <link href="https://tv.naver.com/v/51677723"/>
+        <updated>2024-05-21T10:17:53.845Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] tripleS Kim ChaeYeon (트리플에스 김채연) - Girls Never Die | 쇼! 음악중심 | MBC240518방송]]></title>
         <id>https://tv.naver.com/v/51620947</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/51609405"/>
         <updated>2024-05-20T08:22:20.122Z</updated>
         <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa WINTER (에스파 윈터) - Supernova | 쇼! 음악중심 | MBC240518방송]]></title>
-        <id>https://tv.naver.com/v/51609119</id>
-        <link href="https://tv.naver.com/v/51609119"/>
-        <updated>2024-05-20T07:17:36.316Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa KARINA (에스파 카리나) - Supernova | 쇼! 음악중심 | MBC240518방송]]></title>
-        <id>https://tv.naver.com/v/51609114</id>
-        <link href="https://tv.naver.com/v/51609114"/>
-        <updated>2024-05-20T07:17:36.318Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa GISELLE (에스파 지젤) - Supernova | 쇼! 음악중심 | MBC240518방송]]></title>
-        <id>https://tv.naver.com/v/51608870</id>
-        <link href="https://tv.naver.com/v/51608870"/>
-        <updated>2024-05-20T07:17:36.318Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
