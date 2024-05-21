@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-21T08:23:26.129Z</updated>
+    <updated>2024-05-21T09:19:43.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supernova - aespa | KBS 240517 방송 (뮤직뱅크)]]></title>
@@ -383,6 +383,13 @@
         <content type="html"><![CDATA[00:58]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[까꿍하는 핑크 밤비🩷 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/51491245</id>
+        <link href="https://tv.naver.com/v/51491245"/>
+        <updated>2024-05-21T09:19:31.602Z</updated>
+        <content type="html"><![CDATA[00:27]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[바람까지 유시아가 지배해..💗 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/51491211</id>
         <link href="https://tv.naver.com/v/51491211"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/51087235"/>
         <updated>2024-05-10T02:32:23.481Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Solar(솔라) - Colors | Show Champion | EP.517 | 240508 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/51073434</id>
-        <link href="https://tv.naver.com/v/51073434"/>
-        <updated>2024-05-09T08:21:35.514Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 658회 ＜신유X알고보니 혼수상태 2부＞ 우승자 ⭐라키⭐ | KBS 방송 (불후의 명곡)]]></title>

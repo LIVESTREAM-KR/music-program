@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-21T08:23:26.134Z</updated>
+    <updated>2024-05-21T09:19:43.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://tv.naver.com/v/51491276"/>
         <updated>2024-05-19T09:18:53.650Z</updated>
         <content type="html"><![CDATA[00:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[까꿍하는 핑크 밤비🩷]]></title>
+        <id>https://tv.naver.com/v/51491245</id>
+        <link href="https://tv.naver.com/v/51491245"/>
+        <updated>2024-05-21T09:19:31.602Z</updated>
+        <content type="html"><![CDATA[00:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바람까지 유시아가 지배해..💗]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51087235"/>
         <updated>2024-05-10T02:32:23.481Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Solar(솔라) - Colors | Show Champion | EP.517 | 240508]]></title>
-        <id>https://tv.naver.com/v/51073434</id>
-        <link href="https://tv.naver.com/v/51073434"/>
-        <updated>2024-05-09T08:21:35.514Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
     </entry>
 </feed>
