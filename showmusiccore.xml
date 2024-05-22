@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-22T07:16:44.438Z</updated>
+    <updated>2024-05-22T08:23:02.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE.zip 📂In Bloom부터 Feel the POP까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/51611511</id>
+        <link href="https://tv.naver.com/v/51611511"/>
+        <updated>2024-05-22T08:22:27.376Z</updated>
+        <content type="html"><![CDATA[19:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) – Accendio (Accendio) | 쇼! 음악중심 | MBC240518방송]]></title>
         <id>https://tv.naver.com/v/51677731</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51613496"/>
         <updated>2024-05-20T08:22:20.121Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING (에스파 닝닝) - Supernova | 쇼! 음악중심 | MBC240518방송]]></title>
-        <id>https://tv.naver.com/v/51609405</id>
-        <link href="https://tv.naver.com/v/51609405"/>
-        <updated>2024-05-20T08:22:20.122Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
     </entry>
 </feed>
