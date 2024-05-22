@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-22T09:20:11.158Z</updated>
+    <updated>2024-05-22T10:18:53.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 5월 4주 챔피언송 ＜ZEROBASEONE - Feel the POP＞ 앵콜 Full ver. l Show Champion l EP.518 l 240522]]></title>
+        <id>https://tv.naver.com/v/51736793</id>
+        <link href="https://tv.naver.com/v/51736793"/>
+        <updated>2024-05-22T10:18:41.642Z</updated>
+        <content type="html"><![CDATA[04:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 제로베이스원(ZEROBASEONE) - Feel the POP l 240522]]></title>
+        <id>https://tv.naver.com/v/51734851</id>
+        <link href="https://tv.naver.com/v/51734851"/>
+        <updated>2024-05-22T10:18:41.644Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원(ZEROBASEONE) - SWEAT l 240522]]></title>
+        <id>https://tv.naver.com/v/51734848</id>
+        <link href="https://tv.naver.com/v/51734848"/>
+        <updated>2024-05-22T10:18:41.645Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박제업(PARK JEUP) - My Everything l 240522]]></title>
         <id>https://tv.naver.com/v/51734409</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/51733115"/>
         <updated>2024-05-22T09:19:59.057Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'ZEROBASEONE' 나!왔어✋🏻 l 240522]]></title>
-        <id>https://tv.naver.com/v/51733112</id>
-        <link href="https://tv.naver.com/v/51733112"/>
-        <updated>2024-05-22T09:19:59.059Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SOLO HOT DEBUT] 리오(LEO) - Come Closer l 240522]]></title>
-        <id>https://tv.naver.com/v/51732820</id>
-        <link href="https://tv.naver.com/v/51732820"/>
-        <updated>2024-05-22T09:19:59.061Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 다이몬(DXMON) - 소년…소녀를 만나다 (Girls, Love boys, Love girls) l 240522]]></title>
-        <id>https://tv.naver.com/v/51732818</id>
-        <link href="https://tv.naver.com/v/51732818"/>
-        <updated>2024-05-22T09:19:59.062Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
