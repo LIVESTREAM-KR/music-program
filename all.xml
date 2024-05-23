@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-23T05:19:28.845Z</updated>
+    <updated>2024-05-23T06:25:02.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supernova - aespa | KBS 240517 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] ???: 유진이는 놀이동산 안 가도 되겠는데?🎈 행복한 주말 만들어준 #ZEROBASEONE 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/51722603</id>
+        <link href="https://tv.naver.com/v/51722603"/>
+        <updated>2024-05-23T06:24:27.353Z</updated>
+        <content type="html"><![CDATA[08:12]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예능연구소] ZEROBASEONE.zip 📂In Bloom부터 Feel the POP까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/51611511</id>
         <link href="https://tv.naver.com/v/51611511"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/51613501"/>
         <updated>2024-05-20T08:22:20.118Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) - Feel the POP | 쇼! 음악중심 | MBC240518방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/51613496</id>
-        <link href="https://tv.naver.com/v/51613496"/>
-        <updated>2024-05-20T08:22:20.121Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240519 방송 (인기가요)]]></title>
