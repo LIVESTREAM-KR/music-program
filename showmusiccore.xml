@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-24T04:21:31.715Z</updated>
+    <updated>2024-05-24T05:17:27.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] OMG 지민언니 TALMO...?! 짱스파 비하인드 들고 왔수수수수 Supernova💫❇ #aespa 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/51801780</id>
+        <link href="https://tv.naver.com/v/51801780"/>
+        <updated>2024-05-24T05:16:56.294Z</updated>
+        <content type="html"><![CDATA[05:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] ???: 유진이는 놀이동산 안 가도 되겠는데?🎈 행복한 주말 만들어준 #ZEROBASEONE 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/51722603</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51613504"/>
         <updated>2024-05-20T08:22:20.118Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE KIM GYUVIN (제로베이스원 김규빈) - Feel the POP | 쇼! 음악중심 | MBC240518방송]]></title>
-        <id>https://tv.naver.com/v/51613501</id>
-        <link href="https://tv.naver.com/v/51613501"/>
-        <updated>2024-05-20T08:22:20.118Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
