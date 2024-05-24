@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-05-24T07:16:04.258Z</updated>
+    <updated>2024-05-24T08:22:14.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 김담현 군이 준비한 바이올린 솔로 무대! ❤ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/51840747</id>
+        <link href="https://tv.naver.com/v/51840747"/>
+        <updated>2024-05-24T08:22:07.812Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 658회 ＜신유X알고보니 혼수상태 2부＞ 우승자 ⭐라키⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/51542660</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51541174"/>
         <updated>2024-05-18T11:13:09.762Z</updated>
         <content type="html"><![CDATA[05:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[절절한 곰탕 보이스 홍자의 무대! + 연기 포인트 | KBS 240518 방송]]></title>
-        <id>https://tv.naver.com/v/51541010</id>
-        <link href="https://tv.naver.com/v/51541010"/>
-        <updated>2024-05-18T11:13:09.763Z</updated>
-        <content type="html"><![CDATA[01:27]]></content>
     </entry>
 </feed>
