@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-25T12:31:18.408Z</updated>
+    <updated>2024-05-25T13:17:47.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supernova - aespa | KBS 240524 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[가로 직캠] 최은영&손준호 - 나는 나는 음악 | KBS 240525 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/51887280</id>
+        <link href="https://tv.naver.com/v/51887280"/>
+        <updated>2024-05-25T13:17:41.954Z</updated>
+        <content type="html"><![CDATA[05:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[가로 직캠] 정초하&키노 -  Baggy Jeans | KBS 240525 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/51887138</id>
         <link href="https://tv.naver.com/v/51887138"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/51884873"/>
         <updated>2024-05-25T11:15:15.110Z</updated>
         <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감성 가득♪ 말문이 막히는 〈사모곡〉무대 감상😲 | KBS 240525 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51884730</id>
-        <link href="https://tv.naver.com/v/51884730"/>
-        <updated>2024-05-25T11:15:15.112Z</updated>
-        <content type="html"><![CDATA[01:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 ✨독보적인 감각의 이날치 보컬🎤 가수 신유진 하이라이트!, MBC 240519 방송 (복면가왕)]]></title>
