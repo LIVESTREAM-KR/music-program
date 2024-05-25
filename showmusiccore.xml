@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-25T08:21:31.272Z</updated>
+    <updated>2024-05-25T09:17:16.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] NEXZ (넥스지) – Ride the Vibe 풀캠 | 쇼! 음악중심 | MBC240525방송]]></title>
+        <id>https://tv.naver.com/v/51881971</id>
+        <link href="https://tv.naver.com/v/51881971"/>
+        <updated>2024-05-25T09:16:41.801Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] JO1 JUNKI (제이오원 준키) - Love seeker 직캠 | 쇼! 음악중심 | MBC240525방송]]></title>
+        <id>https://tv.naver.com/v/51881800</id>
+        <link href="https://tv.naver.com/v/51881800"/>
+        <updated>2024-05-25T09:16:41.801Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ONEUS (원어스) – Now (Original by Fin.K.L) 풀캠 | 쇼! 음악중심 | MBC240525방송]]></title>
+        <id>https://tv.naver.com/v/51881659</id>
+        <link href="https://tv.naver.com/v/51881659"/>
+        <updated>2024-05-25T09:16:41.802Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] JO1 TAKUMI (제이오원 타쿠미) - Love seeker 직캠 | 쇼! 음악중심 | MBC240525방송]]></title>
+        <id>https://tv.naver.com/v/51881658</id>
+        <link href="https://tv.naver.com/v/51881658"/>
+        <updated>2024-05-25T09:16:41.803Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] JO1 (제이오원) – Love seeker 풀캠 | 쇼! 음악중심 | MBC240525방송]]></title>
+        <id>https://tv.naver.com/v/51881506</id>
+        <link href="https://tv.naver.com/v/51881506"/>
+        <updated>2024-05-25T09:16:41.805Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 5월 4주차 1위 에스파 - Supernova (aespa - Supernova), MBC 240525 방송]]></title>
+        <id>https://tv.naver.com/v/51881033</id>
+        <link href="https://tv.naver.com/v/51881033"/>
+        <updated>2024-05-25T09:16:41.806Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa (에스파) – Supernova 1위 직캠 | 쇼! 음악중심 | MBC240525방송]]></title>
+        <id>https://tv.naver.com/v/51880817</id>
+        <link href="https://tv.naver.com/v/51880817"/>
+        <updated>2024-05-25T09:16:41.808Z</updated>
+        <content type="html"><![CDATA[05:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5월 4주차 1위 에스파 - Supernova (aespa - Supernova), MBC 240525 방송]]></title>
         <id>https://tv.naver.com/v/51879904</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/51879623"/>
         <updated>2024-05-25T08:20:56.569Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엠씨엔디 - X10 (MCND - X10), MBC 240525 방송]]></title>
-        <id>https://tv.naver.com/v/51879622</id>
-        <link href="https://tv.naver.com/v/51879622"/>
-        <updated>2024-05-25T08:20:56.574Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스 - Now (Original by Fin.K.L) (ONEUS - Now (Original by Fin.K.L)), MBC 240525 방송]]></title>
-        <id>https://tv.naver.com/v/51879496</id>
-        <link href="https://tv.naver.com/v/51879496"/>
-        <updated>2024-05-25T08:20:56.574Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리플에스 - Girls Never Die (tripleS - Girls Never Die), MBC 240525 방송]]></title>
-        <id>https://tv.naver.com/v/51879238</id>
-        <link href="https://tv.naver.com/v/51879238"/>
-        <updated>2024-05-25T08:20:56.575Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이디원 - ERROR 405 (JD1 - ERROR 405), MBC 240525 방송]]></title>
-        <id>https://tv.naver.com/v/51879079</id>
-        <link href="https://tv.naver.com/v/51879079"/>
-        <updated>2024-05-25T08:20:56.575Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥스지 - Ride the Vibe (NEXZ - Ride the Vibe), MBC 240525 방송]]></title>
-        <id>https://tv.naver.com/v/51878941</id>
-        <link href="https://tv.naver.com/v/51878941"/>
-        <updated>2024-05-25T08:20:56.575Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조혜련 - 빠나나날라 (Cho Hyeryeon - BANANA NALLA), MBC 240525 방송]]></title>
-        <id>https://tv.naver.com/v/51878939</id>
-        <link href="https://tv.naver.com/v/51878939"/>
-        <updated>2024-05-25T08:20:56.576Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이몬 - 소년...소녀를 만나다 (DXMON - Girls, Love boys, Love girls), MBC 240525 방송]]></title>
-        <id>https://tv.naver.com/v/51878794</id>
-        <link href="https://tv.naver.com/v/51878794"/>
-        <updated>2024-05-25T07:15:53.442Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
