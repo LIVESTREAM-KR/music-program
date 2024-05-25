@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-05-25T09:17:16.218Z</updated>
+    <updated>2024-05-25T10:17:49.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1억 5천만 뷰의 주인공! 케이팝 신동🎧️ 정초하, 키노의 케미👖 | KBS 240525 방송]]></title>
+        <id>https://tv.naver.com/v/51883364</id>
+        <link href="https://tv.naver.com/v/51883364"/>
+        <updated>2024-05-25T10:17:42.769Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[황민호x김수찬 - 사모곡 | KBS 240525 방송]]></title>
+        <id>https://tv.naver.com/v/51883228</id>
+        <link href="https://tv.naver.com/v/51883228"/>
+        <updated>2024-05-25T10:17:42.770Z</updated>
+        <content type="html"><![CDATA[05:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국악 요정 구민정의 판소리 한가락!🎼 | KBS 240525 방송]]></title>
+        <id>https://tv.naver.com/v/51882811</id>
+        <link href="https://tv.naver.com/v/51882811"/>
+        <updated>2024-05-25T10:17:42.772Z</updated>
+        <content type="html"><![CDATA[02:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찬원 형이라 불러요...?😯 바이올린 영재🎻 김담현과 뮤지컬 샛별 최은영🌟 | KBS 240525 방송]]></title>
+        <id>https://tv.naver.com/v/51882809</id>
+        <link href="https://tv.naver.com/v/51882809"/>
+        <updated>2024-05-25T10:17:42.773Z</updated>
+        <content type="html"><![CDATA[05:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 이토록 감미로운 밤양갱은 없었다! 김담현X오은철❤ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/51840747</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/51541980"/>
         <updated>2024-05-18T12:29:53.588Z</updated>
         <content type="html"><![CDATA[01:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 신동들의 불꽃튀는 경쟁! 😆2024 뉴키즈 온더 명곡😆 | KBS 240518 방송]]></title>
-        <id>https://tv.naver.com/v/51541808</id>
-        <link href="https://tv.naver.com/v/51541808"/>
-        <updated>2024-05-18T12:29:53.589Z</updated>
-        <content type="html"><![CDATA[00:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈물의 동료애를 보여준 알고보니 혼수상태🤗 곡 비하인드 | KBS 240518 방송]]></title>
-        <id>https://tv.naver.com/v/51541534</id>
-        <link href="https://tv.naver.com/v/51541534"/>
-        <updated>2024-05-18T12:29:53.591Z</updated>
-        <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후배들에게 전하는 감사함♥ 최종 우승은!? | KBS 240518 방송]]></title>
-        <id>https://tv.naver.com/v/51541509</id>
-        <link href="https://tv.naver.com/v/51541509"/>
-        <updated>2024-05-18T12:29:53.593Z</updated>
-        <content type="html"><![CDATA[01:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍자 - 고맙소 | KBS 240518 방송]]></title>
-        <id>https://tv.naver.com/v/51541174</id>
-        <link href="https://tv.naver.com/v/51541174"/>
-        <updated>2024-05-18T11:13:09.762Z</updated>
-        <content type="html"><![CDATA[05:32]]></content>
     </entry>
 </feed>
