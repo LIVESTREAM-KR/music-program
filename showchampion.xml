@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-26T11:14:37.938Z</updated>
+    <updated>2024-05-26T12:30:25.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너무 핫해서 SWEAT이난다..💧]]></title>
+        <id>https://tv.naver.com/v/51836202</id>
+        <link href="https://tv.naver.com/v/51836202"/>
+        <updated>2024-05-26T12:30:13.711Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 영상을 보면 서연이에게 빠지고 말껄?🫶]]></title>
         <id>https://tv.naver.com/v/51836031</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51766812"/>
         <updated>2024-05-23T08:21:27.981Z</updated>
         <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ZEROBASEONE HAN YUJIN(제로베이스원 한유진) - SWEAT | Show Champion | EP.518 | 240522]]></title>
-        <id>https://tv.naver.com/v/51743830</id>
-        <link href="https://tv.naver.com/v/51743830"/>
-        <updated>2024-05-22T13:19:55.983Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>

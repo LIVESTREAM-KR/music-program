@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-05-26T11:14:37.900Z</updated>
+    <updated>2024-05-26T12:30:25.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최은영×손준호 - 나는 나는 음악 | KBS 240525 방송]]></title>
+        <id>https://tv.naver.com/v/51919315</id>
+        <link href="https://tv.naver.com/v/51919315"/>
+        <updated>2024-05-26T12:30:19.364Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정초하×키노 - Baggy Jeans | KBS 240525 방송]]></title>
+        <id>https://tv.naver.com/v/51919309</id>
+        <link href="https://tv.naver.com/v/51919309"/>
+        <updated>2024-05-26T12:30:19.365Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가로 직캠] 최은영&손준호 - 나는 나는 음악 | KBS 240525 방송]]></title>
         <id>https://tv.naver.com/v/51887280</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/51885214"/>
         <updated>2024-05-25T12:31:12.756Z</updated>
         <content type="html"><![CDATA[06:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출연진들이 본 김담현의 바이올린 무대는🎶 새로운 1승?! | KBS 240525 방송]]></title>
-        <id>https://tv.naver.com/v/51885077</id>
-        <link href="https://tv.naver.com/v/51885077"/>
-        <updated>2024-05-25T11:15:15.108Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김담현 군의 선곡 이유는? 폭풍 같은! 바이올린 독주 예고🎻🌪️ | KBS 240525 방송]]></title>
-        <id>https://tv.naver.com/v/51884873</id>
-        <link href="https://tv.naver.com/v/51884873"/>
-        <updated>2024-05-25T11:15:15.110Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
     </entry>
 </feed>
