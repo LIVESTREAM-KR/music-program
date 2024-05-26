@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-05-26T06:22:47.754Z</updated>
+    <updated>2024-05-26T07:16:18.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NEXZ - Ride the Vibe | SBS 240526 방송]]></title>
+        <id>https://tv.naver.com/v/51909621</id>
+        <link href="https://tv.naver.com/v/51909621"/>
+        <updated>2024-05-26T07:15:48.587Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOWADAYS - TICKET | SBS 240526 방송]]></title>
+        <id>https://tv.naver.com/v/51909613</id>
+        <link href="https://tv.naver.com/v/51909613"/>
+        <updated>2024-05-26T07:15:48.587Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정혜린 - 엄마의 손편지 | SBS 240526 방송]]></title>
+        <id>https://tv.naver.com/v/51909270</id>
+        <link href="https://tv.naver.com/v/51909270"/>
+        <updated>2024-05-26T07:15:48.587Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RESCENE(리센느) - YoYo | SBS 240526 방송]]></title>
+        <id>https://tv.naver.com/v/51909238</id>
+        <link href="https://tv.naver.com/v/51909238"/>
+        <updated>2024-05-26T07:15:48.588Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리오(LEO) - Come Closer | SBS 240526 방송]]></title>
+        <id>https://tv.naver.com/v/51909237</id>
+        <link href="https://tv.naver.com/v/51909237"/>
+        <updated>2024-05-26T07:15:48.589Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We;Na - Baby Step | SBS 240526 방송]]></title>
+        <id>https://tv.naver.com/v/51909071</id>
+        <link href="https://tv.naver.com/v/51909071"/>
+        <updated>2024-05-26T07:15:48.592Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240519 방송]]></title>
         <id>https://tv.naver.com/v/51565805</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/51565378"/>
         <updated>2024-05-19T08:19:58.149Z</updated>
         <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The KingDom(더킹덤) - Flip that Coin | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51565089</id>
-        <link href="https://tv.naver.com/v/51565089"/>
-        <updated>2024-05-19T08:19:58.150Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xdinary Heroes - 어리고 부끄럽고 바보 같은 | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51565088</id>
-        <link href="https://tv.naver.com/v/51565088"/>
-        <updated>2024-05-19T08:19:58.151Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNITE - GEEKIN | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51564908</id>
-        <link href="https://tv.naver.com/v/51564908"/>
-        <updated>2024-05-19T08:19:58.155Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tripleS - Girls Never Die | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51564759</id>
-        <link href="https://tv.naver.com/v/51564759"/>
-        <updated>2024-05-19T08:19:58.156Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FANTASY BOYS - 분명 그녀가 나를 보고 웃잖아 | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51564651</id>
-        <link href="https://tv.naver.com/v/51564651"/>
-        <updated>2024-05-19T07:14:56.679Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHIB - KICK IT | SBS 240519 방송]]></title>
-        <id>https://tv.naver.com/v/51564625</id>
-        <link href="https://tv.naver.com/v/51564625"/>
-        <updated>2024-05-19T07:14:56.690Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>

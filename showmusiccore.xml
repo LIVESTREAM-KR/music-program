@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-26T06:22:47.751Z</updated>
+    <updated>2024-05-26T07:16:18.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Masked Singer ZZZ Special.zip 📂 Masked Singer ZZZ Special Compilation]]></title>
+        <id>https://tv.naver.com/v/51730886</id>
+        <link href="https://tv.naver.com/v/51730886"/>
+        <updated>2024-05-26T07:15:42.608Z</updated>
+        <content type="html"><![CDATA[50:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] aespa NINGNING (에스파 닝닝) - Supernova 직캠 | 쇼! 음악중심 | MBC240525방송]]></title>
         <id>https://tv.naver.com/v/51886178</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51885819"/>
         <updated>2024-05-25T12:30:47.565Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM JIWOONG (제로베이스원 김지웅) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240525방송]]></title>
-        <id>https://tv.naver.com/v/51885815</id>
-        <link href="https://tv.naver.com/v/51885815"/>
-        <updated>2024-05-25T12:30:47.567Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
