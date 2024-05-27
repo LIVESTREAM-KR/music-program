@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-27T11:16:29.770Z</updated>
+    <updated>2024-05-27T12:33:01.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://tv.naver.com/v/51948020"/>
         <updated>2024-05-27T09:20:12.190Z</updated>
         <content type="html"><![CDATA[00:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[규빈이가 당황한 이유는?! 한빈이의 표정 때문?! 🫢]]></title>
+        <id>https://tv.naver.com/v/51836297</id>
+        <link href="https://tv.naver.com/v/51836297"/>
+        <updated>2024-05-27T12:32:48.721Z</updated>
+        <content type="html"><![CDATA[00:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZERO에 POP한 스푼을 더하면? 제로즈가 되💘]]></title>
+        <id>https://tv.naver.com/v/51836240</id>
+        <link href="https://tv.naver.com/v/51836240"/>
+        <updated>2024-05-27T12:32:48.722Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[너무 핫해서 SWEAT이난다..💧]]></title>
@@ -59,20 +73,6 @@
         <id>https://tv.naver.com/v/51767416</id>
         <link href="https://tv.naver.com/v/51767416"/>
         <updated>2024-05-23T08:21:27.977Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Yoon SeoYeon (트리플에스 윤서연) - Non Scale | Show Champion | EP.518 | 240522]]></title>
-        <id>https://tv.naver.com/v/51767115</id>
-        <link href="https://tv.naver.com/v/51767115"/>
-        <updated>2024-05-23T08:21:27.977Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Park SoHyun (트리플에스 박소현) - Non Scale | Show Champion | EP.518 | 240522]]></title>
-        <id>https://tv.naver.com/v/51767114</id>
-        <link href="https://tv.naver.com/v/51767114"/>
-        <updated>2024-05-23T08:21:27.978Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
