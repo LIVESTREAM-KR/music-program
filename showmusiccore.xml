@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-27T02:32:17.318Z</updated>
+    <updated>2024-05-27T03:20:36.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 5월 넷째 주 음악중심 MC 컷 모음!, MBC 240525 방송]]></title>
+        <id>https://tv.naver.com/v/51941809</id>
+        <link href="https://tv.naver.com/v/51941809"/>
+        <updated>2024-05-27T03:20:01.671Z</updated>
+        <content type="html"><![CDATA[15:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] Masked Singer ZZZ Special.zip 📂 Masked Singer ZZZ Special Compilation]]></title>
         <id>https://tv.naver.com/v/51730886</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51885820"/>
         <updated>2024-05-25T12:30:47.563Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM TAERAE (제로베이스원 김태래) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240525방송]]></title>
-        <id>https://tv.naver.com/v/51885819</id>
-        <link href="https://tv.naver.com/v/51885819"/>
-        <updated>2024-05-25T12:30:47.565Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
