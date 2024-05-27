@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-27T08:22:32.982Z</updated>
+    <updated>2024-05-27T09:20:24.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 선배! 쇼챔 사주세요! ‘그래 가자‘ 어? 그럼 본방사수도? 그럼 제가 선배 맘에 본 본 본방사수 본 본 본 본방사수]]></title>
+        <id>https://tv.naver.com/v/51948020</id>
+        <link href="https://tv.naver.com/v/51948020"/>
+        <updated>2024-05-27T09:20:12.190Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[너무 핫해서 SWEAT이난다..💧]]></title>
         <id>https://tv.naver.com/v/51836202</id>
         <link href="https://tv.naver.com/v/51836202"/>
         <updated>2024-05-26T12:30:13.711Z</updated>
         <content type="html"><![CDATA[00:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비만큼 분위기 작살나는 나경의 표정🩷]]></title>
+        <id>https://tv.naver.com/v/51836158</id>
+        <link href="https://tv.naver.com/v/51836158"/>
+        <updated>2024-05-27T09:20:12.193Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 영상을 보면 서연이에게 빠지고 말껄?🫶]]></title>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/51767114"/>
         <updated>2024-05-23T08:21:27.978Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Kim YooYeon (트리플에스 김유연) - Non Scale | Show Champion | EP.518 | 240522]]></title>
-        <id>https://tv.naver.com/v/51766586</id>
-        <link href="https://tv.naver.com/v/51766586"/>
-        <updated>2024-05-23T08:21:27.980Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LEO(리오) - Come Closer | Show Champion | EP.518 | 240522]]></title>
-        <id>https://tv.naver.com/v/51766812</id>
-        <link href="https://tv.naver.com/v/51766812"/>
-        <updated>2024-05-23T08:21:27.981Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
     </entry>
 </feed>
