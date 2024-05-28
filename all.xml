@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-28T08:23:49.045Z</updated>
+    <updated>2024-05-28T09:18:54.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supernova - aespa | KBS 240524 방송 (뮤직뱅크)]]></title>
@@ -390,6 +390,13 @@
         <content type="html"><![CDATA[00:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[무대 아래에서 끼부리는 트리플에스 막내🤍 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/51836130</id>
+        <link href="https://tv.naver.com/v/51836130"/>
+        <updated>2024-05-28T09:18:43.710Z</updated>
+        <content type="html"><![CDATA[00:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이 영상을 보면 서연이에게 빠지고 말껄?🫶 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/51836031</id>
         <link href="https://tv.naver.com/v/51836031"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/51737946"/>
         <updated>2024-05-24T02:30:22.416Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS(트리플에스) - Non Scale | Show Champion | EP.518 | 240522 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/51767416</id>
-        <link href="https://tv.naver.com/v/51767416"/>
-        <updated>2024-05-23T08:21:27.977Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최은영×손준호 - 나는 나는 음악 | KBS 240525 방송 (불후의 명곡)]]></title>
