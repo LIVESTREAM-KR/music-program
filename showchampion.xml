@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-29T09:20:45.199Z</updated>
+    <updated>2024-05-29T10:20:31.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다이몬(DXMON) - 소년…소녀를 만나다 (Girls, Love boys, Love girls) l 240529]]></title>
+        <id>https://tv.naver.com/v/52075089</id>
+        <link href="https://tv.naver.com/v/52075089"/>
+        <updated>2024-05-29T10:20:19.052Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 원어스(ONEUS) - Now (Original by Fin.K.L) l 240529]]></title>
+        <id>https://tv.naver.com/v/52072588</id>
+        <link href="https://tv.naver.com/v/52072588"/>
+        <updated>2024-05-29T10:20:19.054Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 제이오원(JO1) - Love seeker l 240529]]></title>
+        <id>https://tv.naver.com/v/52072581</id>
+        <link href="https://tv.naver.com/v/52072581"/>
+        <updated>2024-05-29T10:20:19.056Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[당신은 누구신가온] K-POP 아티스트들의 추리 토크쇼🔍 ZEROBASEONE(제로베이스원) 편 l 240529]]></title>
+        <id>https://tv.naver.com/v/52072579</id>
+        <link href="https://tv.naver.com/v/52072579"/>
+        <updated>2024-05-29T10:20:19.057Z</updated>
+        <content type="html"><![CDATA[08:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로베이스원(ZEROBASEONE) - Feel the POP l 240529]]></title>
         <id>https://tv.naver.com/v/52071838</id>
@@ -41,38 +69,10 @@
         <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엘라스트(E''LAST) - Gasoline l 240529]]></title>
+        <title type="html"><![CDATA[엘라스트(E'LAST) - Gasoline l 240529]]></title>
         <id>https://tv.naver.com/v/52069665</id>
         <link href="https://tv.naver.com/v/52069665"/>
         <updated>2024-05-29T09:20:33.303Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘브(WHIB) - KICK IT l 240529]]></title>
-        <id>https://tv.naver.com/v/52069664</id>
-        <link href="https://tv.naver.com/v/52069664"/>
-        <updated>2024-05-29T09:20:33.304Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태호(TAEHO) - 너의 찬란한 내일을 위해 l 240529]]></title>
-        <id>https://tv.naver.com/v/52069293</id>
-        <link href="https://tv.naver.com/v/52069293"/>
-        <updated>2024-05-29T09:20:33.306Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! ''NEXZ'' 나!왔어✋🏻 l 240529]]></title>
-        <id>https://tv.naver.com/v/52069033</id>
-        <link href="https://tv.naver.com/v/52069033"/>
-        <updated>2024-05-29T09:20:33.307Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어센트(ASC2NT) - LOVE ME DO l 240529]]></title>
-        <id>https://tv.naver.com/v/52068966</id>
-        <link href="https://tv.naver.com/v/52068966"/>
-        <updated>2024-05-29T09:20:33.309Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
