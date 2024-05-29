@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-05-29T08:23:48.867Z</updated>
+    <updated>2024-05-29T09:20:45.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 짜스 짜스~😆우일이 형 노래 부르는 폼 美쳤다. 코미디언 임우일이 부르는 《바람아 멈추어다오》 《오직 하나뿐인 그대》 | #코미디언 #임우일 MBC240526방송]]></title>
+        <id>https://tv.naver.com/v/51949451</id>
+        <link href="https://tv.naver.com/v/51949451"/>
+        <updated>2024-05-29T09:20:44.544Z</updated>
+        <content type="html"><![CDATA[19:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 ✨예능 치트키 유도 은메달리스트🥈 전 유도 선수 조준현 하이라이트!, MBC 240526 방송]]></title>
         <id>https://tv.naver.com/v/52022341</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51917072"/>
         <updated>2024-05-26T11:14:37.261Z</updated>
         <content type="html"><![CDATA[01:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마치 머라이어 캐리 같은 '크리스탈'의 돌고래🐬 창법 고음 챌린지, MBC 240526 방송]]></title>
-        <id>https://tv.naver.com/v/51917069</id>
-        <link href="https://tv.naver.com/v/51917069"/>
-        <updated>2024-05-26T11:14:37.263Z</updated>
-        <content type="html"><![CDATA[01:40]]></content>
     </entry>
 </feed>
