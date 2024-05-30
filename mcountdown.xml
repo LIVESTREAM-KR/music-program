@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-05-30T10:19:20.713Z</updated>
+    <updated>2024-05-30T11:14:52.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' 박재범 (Jay Park) | Mnet 240530 방송]]></title>
+        <id>https://tv.naver.com/v/52137753</id>
+        <link href="https://tv.naver.com/v/52137753"/>
+        <updated>2024-05-30T11:14:31.007Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' ENHYPEN(엔하이픈) - Fatal Trouble | Mnet 240530 방송]]></title>
+        <id>https://tv.naver.com/v/52137491</id>
+        <link href="https://tv.naver.com/v/52137491"/>
+        <updated>2024-05-30T11:14:31.010Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - Feel the POP | Mnet 240530 방송]]></title>
+        <id>https://tv.naver.com/v/52137274</id>
+        <link href="https://tv.naver.com/v/52137274"/>
+        <updated>2024-05-30T11:14:31.011Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스(ONEUS) - Now (Original by Fin.K.L) | Mnet 240530 방송]]></title>
+        <id>https://tv.naver.com/v/52137121</id>
+        <link href="https://tv.naver.com/v/52137121"/>
+        <updated>2024-05-30T11:14:31.012Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미니 팬미팅' with TREASURE (트레저) (with 트레저 메이커(TREASURE MAKER)♥) | Mnet 240530 방송]]></title>
+        <id>https://tv.naver.com/v/52136888</id>
+        <link href="https://tv.naver.com/v/52136888"/>
+        <updated>2024-05-30T11:14:31.014Z</updated>
+        <content type="html"><![CDATA[05:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' APOKI - Nu Boo (feat. SOMIN of KARD) | Mnet 240530 방송]]></title>
+        <id>https://tv.naver.com/v/52136500</id>
+        <link href="https://tv.naver.com/v/52136500"/>
+        <updated>2024-05-30T11:14:31.015Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCND - X10 | Mnet 240530 방송]]></title>
+        <id>https://tv.naver.com/v/52136251</id>
+        <link href="https://tv.naver.com/v/52136251"/>
+        <updated>2024-05-30T11:14:31.016Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' 〈I-LAND2 : N/a〉 Part.2 진출자 - IWALY | Mnet 240530 방송]]></title>
+        <id>https://tv.naver.com/v/52136081</id>
+        <link href="https://tv.naver.com/v/52136081"/>
+        <updated>2024-05-30T11:14:31.018Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' XG - WOKE UP | Mnet 240530 방송]]></title>
         <id>https://tv.naver.com/v/52135288</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/52135041"/>
         <updated>2024-05-30T10:18:57.743Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' ZEROBASEONE 𝘷𝘴 tripleS 𝘷𝘴 NEXZ! | Mnet 240530 방송]]></title>
-        <id>https://tv.naver.com/v/52134845</id>
-        <link href="https://tv.naver.com/v/52134845"/>
-        <updated>2024-05-30T10:18:57.748Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yves (이브) - LOOP (feat. Lil Cherry) | Mnet 240530 방송]]></title>
-        <id>https://tv.naver.com/v/52134631</id>
-        <link href="https://tv.naver.com/v/52134631"/>
-        <updated>2024-05-30T10:18:57.749Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with aespa (에스파) | Mnet 240530 방송]]></title>
-        <id>https://tv.naver.com/v/52134343</id>
-        <link href="https://tv.naver.com/v/52134343"/>
-        <updated>2024-05-30T10:18:57.750Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WATERFIRE - POSSIBLE | Mnet 240530 방송]]></title>
-        <id>https://tv.naver.com/v/52134340</id>
-        <link href="https://tv.naver.com/v/52134340"/>
-        <updated>2024-05-30T10:18:57.751Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DXMON(다이몬) - 소년…소녀를 만나다 (Girls, Love boys, Love girls) | Mnet 240530 방송]]></title>
-        <id>https://tv.naver.com/v/52133981</id>
-        <link href="https://tv.naver.com/v/52133981"/>
-        <updated>2024-05-30T10:18:57.753Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키코 (Kik5o) - Pretty Revenge | Mnet 240530 방송]]></title>
-        <id>https://tv.naver.com/v/52133730</id>
-        <link href="https://tv.naver.com/v/52133730"/>
-        <updated>2024-05-30T10:18:57.754Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZEROBASEONE이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/52034134</id>
-        <link href="https://tv.naver.com/v/52034134"/>
-        <updated>2024-05-28T16:21:13.309Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 4주 1위 'aespa'의 'Supernova' 앵콜 무대! (Full ver.)]]></title>
-        <id>https://tv.naver.com/v/51959465</id>
-        <link href="https://tv.naver.com/v/51959465"/>
-        <updated>2024-05-27T09:19:59.229Z</updated>
-        <content type="html"><![CDATA[05:56]]></content>
     </entry>
 </feed>

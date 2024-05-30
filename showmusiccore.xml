@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-30T10:19:20.704Z</updated>
+    <updated>2024-05-30T11:14:52.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 풋풋한 갓기 신인 NEXZ가 웃수저인 경우🤣 기쁘다 짱오원 음중 오셨네💖 #NEXZ #JO1 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/52136080</id>
+        <link href="https://tv.naver.com/v/52136080"/>
+        <updated>2024-05-30T11:14:20.612Z</updated>
+        <content type="html"><![CDATA[08:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[직캠 보고서🔍] 제이오원의 한국어 도전기🤟 #JO1 #shorts]]></title>
         <id>https://tv.naver.com/v/52132549</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51962168"/>
         <updated>2024-05-27T10:19:13.513Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) - Feel the POP | 쇼! 음악중심 | MBC240525방송]]></title>
-        <id>https://tv.naver.com/v/51959715</id>
-        <link href="https://tv.naver.com/v/51959715"/>
-        <updated>2024-05-27T09:19:47.829Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
