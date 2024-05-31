@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-31T01:15:55.576Z</updated>
+    <updated>2024-05-31T02:32:46.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 5주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.519 | 240529]]></title>
+        <id>https://tv.naver.com/v/52103592</id>
+        <link href="https://tv.naver.com/v/52103592"/>
+        <updated>2024-05-31T02:32:36.008Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] SOOJIN(수진) - MONA LISA | Show Champion | EP.519 | 240529]]></title>
         <id>https://tv.naver.com/v/52075855</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52075859"/>
         <updated>2024-05-29T13:19:57.290Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] E''LAST ROMIN(엘라스트 로민) - Gasoline | Show Champion | EP.519 | 240529]]></title>
-        <id>https://tv.naver.com/v/52074617</id>
-        <link href="https://tv.naver.com/v/52074617"/>
-        <updated>2024-05-29T13:19:57.291Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
