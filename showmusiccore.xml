@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-05-31T09:19:46.081Z</updated>
+    <updated>2024-05-31T10:19:21.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] ae쇠일러문spa Supernova💫 고양이 엔딩요정 보고가세요😻 #aespa 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/52171364</id>
+        <link href="https://tv.naver.com/v/52171364"/>
+        <updated>2024-05-31T10:18:50.298Z</updated>
+        <content type="html"><![CDATA[06:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] SEVENTEEN (세븐틴) - MAESTRO | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/52117374</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51962172"/>
         <updated>2024-05-27T10:19:13.510Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa WINTER (에스파 윈터) - Supernova | 쇼! 음악중심 | MBC240525방송]]></title>
-        <id>https://tv.naver.com/v/51962171</id>
-        <link href="https://tv.naver.com/v/51962171"/>
-        <updated>2024-05-27T10:19:13.512Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
