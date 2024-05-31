@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-05-31T08:23:06.498Z</updated>
+    <updated>2024-05-31T09:19:46.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/52103592"/>
         <updated>2024-05-31T02:32:36.008Z</updated>
         <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고혹美 풀장착하고 돌아온 수진🤎]]></title>
+        <id>https://tv.naver.com/v/52126781</id>
+        <link href="https://tv.naver.com/v/52126781"/>
+        <updated>2024-05-31T09:19:34.164Z</updated>
+        <content type="html"><![CDATA[00:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] SOOJIN(수진) - MONA LISA | Show Champion | EP.519 | 240529]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52076080"/>
         <updated>2024-05-29T13:19:57.288Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS SEOHO - Now (Original by Fin.K.L) (원어스 서호 - 나우) | Show Champion | EP.519 | 240529]]></title>
-        <id>https://tv.naver.com/v/52075859</id>
-        <link href="https://tv.naver.com/v/52075859"/>
-        <updated>2024-05-29T13:19:57.290Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
