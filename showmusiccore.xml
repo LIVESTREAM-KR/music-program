@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-01T08:21:30.057Z</updated>
+    <updated>2024-06-01T09:20:41.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 6월 1주차 1위 에스파 - Supernova (aespa - Supernova), MBC 240601 방송]]></title>
+        <id>https://tv.naver.com/v/52226199</id>
+        <link href="https://tv.naver.com/v/52226199"/>
+        <updated>2024-06-01T09:20:08.667Z</updated>
+        <content type="html"><![CDATA[04:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa (에스파) – Supernova 1위 직캠 | 쇼! 음악중심 | MBC240601방송]]></title>
+        <id>https://tv.naver.com/v/52225975</id>
+        <link href="https://tv.naver.com/v/52225975"/>
+        <updated>2024-06-01T09:20:08.667Z</updated>
+        <content type="html"><![CDATA[05:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 에스파 - Supernova (aespa - Supernova), MBC 240525 방송]]></title>
+        <id>https://tv.naver.com/v/52225945</id>
+        <link href="https://tv.naver.com/v/52225945"/>
+        <updated>2024-06-01T09:20:08.669Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스파 - Armageddon (aespa - Armageddon), MBC 240601 방송]]></title>
         <id>https://tv.naver.com/v/52224335</id>
@@ -13,7 +34,7 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6월 1주차 1위 에스파 - Armageddon (aespa - Armageddon), MBC 240601 방송]]></title>
+        <title type="html"><![CDATA[6월 1주차 1위 에스파 - Supernova (aespa - Supernova), MBC 240601 방송]]></title>
         <id>https://tv.naver.com/v/52224192</id>
         <link href="https://tv.naver.com/v/52224192"/>
         <updated>2024-06-01T08:20:55.909Z</updated>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/52223541"/>
         <updated>2024-06-01T08:20:55.917Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이브 - LOOP (Yves - LOOP), MBC 240601 방송]]></title>
-        <id>https://tv.naver.com/v/52223415</id>
-        <link href="https://tv.naver.com/v/52223415"/>
-        <updated>2024-06-01T08:20:55.919Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤아 - 장밋빛 인생 (Kim Yuna - La Vie Rosée), MBC 240601 방송]]></title>
-        <id>https://tv.naver.com/v/52223413</id>
-        <link href="https://tv.naver.com/v/52223413"/>
-        <updated>2024-06-01T08:20:55.921Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이디원 - ERROR 405 (JD1 - ERROR 405), MBC 240601 방송]]></title>
-        <id>https://tv.naver.com/v/52223299</id>
-        <link href="https://tv.naver.com/v/52223299"/>
-        <updated>2024-06-01T07:15:13.150Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
 </feed>
