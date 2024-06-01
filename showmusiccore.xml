@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-01T04:21:01.948Z</updated>
+    <updated>2024-06-01T05:18:09.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] May TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/52209771</id>
+        <link href="https://tv.naver.com/v/52209771"/>
+        <updated>2024-06-01T05:17:38.606Z</updated>
+        <content type="html"><![CDATA[33:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] ae쇠일러문spa Supernova💫 고양이 엔딩요정 보고가세요😻 #aespa 사전녹화 비하인드⏯]]></title>
         <id>https://tv.naver.com/v/52171364</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/51962391"/>
         <updated>2024-05-27T10:19:13.508Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] JD1 (제이디원) - ERROR 405 | 쇼! 음악중심 | MBC240525방송]]></title>
-        <id>https://tv.naver.com/v/51962172</id>
-        <link href="https://tv.naver.com/v/51962172"/>
-        <updated>2024-05-27T10:19:13.510Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
