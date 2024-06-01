@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-01T14:16:24.833Z</updated>
+    <updated>2024-06-01T15:17:15.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Armageddon - aespa | KBS 240531 방송 (뮤직뱅크)]]></title>
@@ -460,13 +460,6 @@
         <content type="html"><![CDATA[01:18]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김연지 - 개여울 | KBS 240601 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/52229565</id>
-        <link href="https://tv.naver.com/v/52229565"/>
-        <updated>2024-06-01T11:18:25.625Z</updated>
-        <content type="html"><![CDATA[04:52]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[수준급 후배들과 리메이크 비하인드💾 | KBS 240601 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/52229571</id>
         <link href="https://tv.naver.com/v/52229571"/>
@@ -479,6 +472,13 @@
         <link href="https://tv.naver.com/v/52229566"/>
         <updated>2024-06-01T11:18:25.623Z</updated>
         <content type="html"><![CDATA[01:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연지 - 개여울 | KBS 240601 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/52229565</id>
+        <link href="https://tv.naver.com/v/52229565"/>
+        <updated>2024-06-01T11:18:25.625Z</updated>
+        <content type="html"><![CDATA[04:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이유 리메이크 이곡! 모두가 궁금했던 김연지 선곡 이유는? 🎵 | KBS 240601 방송 (불후의 명곡)]]></title>
