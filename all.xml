@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-01T09:20:41.407Z</updated>
+    <updated>2024-06-01T10:18:51.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Armageddon - aespa | KBS 240531 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,41 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa NINGNING (에스파 닝닝) - Armageddon 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227872</id>
+        <link href="https://tv.naver.com/v/52227872"/>
+        <updated>2024-06-01T10:18:17.737Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa KARINA (에스파 카리나) - Armageddon 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227871</id>
+        <link href="https://tv.naver.com/v/52227871"/>
+        <updated>2024-06-01T10:18:17.739Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa WINTER (에스파 윈터) - Armageddon 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227745</id>
+        <link href="https://tv.naver.com/v/52227745"/>
+        <updated>2024-06-01T10:18:17.743Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa GISELLE (에스파 지젤) - Armageddon 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227744</id>
+        <link href="https://tv.naver.com/v/52227744"/>
+        <updated>2024-06-01T10:18:17.745Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] aespa (에스파) – Armageddon 풀캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52227565</id>
+        <link href="https://tv.naver.com/v/52227565"/>
+        <updated>2024-06-01T10:18:17.746Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[미방분] 6월 1주차 1위 에스파 - Supernova (aespa - Supernova), MBC 240601 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/52226199</id>
         <link href="https://tv.naver.com/v/52226199"/>
@@ -108,41 +143,6 @@
         <link href="https://tv.naver.com/v/52224192"/>
         <updated>2024-06-01T08:20:55.909Z</updated>
         <content type="html"><![CDATA[02:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 - WORK (ATEEZ - WORK), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52224151</id>
-        <link href="https://tv.naver.com/v/52224151"/>
-        <updated>2024-06-01T08:20:55.909Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈 - Empty Box (ATEEZ - Empty Box), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52223999</id>
-        <link href="https://tv.naver.com/v/52223999"/>
-        <updated>2024-06-01T08:20:55.910Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첸 - 빈 집 (CHEN - Empty), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52223820</id>
-        <link href="https://tv.naver.com/v/52223820"/>
-        <updated>2024-06-01T08:20:55.912Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로베이스원 - Feel the POP (ZEROBASEONE - Feel the POP), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52223663</id>
-        <link href="https://tv.naver.com/v/52223663"/>
-        <updated>2024-06-01T08:20:55.915Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스 - Now (Original by Fin.K.L) (ONEUS - Now (Original by Fin.K.L)), MBC 240601 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52223541</id>
-        <link href="https://tv.naver.com/v/52223541"/>
-        <updated>2024-06-01T08:20:55.917Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240526 방송 (인기가요)]]></title>
@@ -425,6 +425,62 @@
         <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[수준급 비유?! 김동현의 선곡 비하인드😲 | KBS 240601 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/52228423</id>
+        <link href="https://tv.naver.com/v/52228423"/>
+        <updated>2024-06-01T10:18:45.293Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이세준의 새로운 음악 프로젝트? 💿️ 승연의 웃음벨이 된 신승태 스타일🤣 | KBS 240601 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/52228422</id>
+        <link href="https://tv.naver.com/v/52228422"/>
+        <updated>2024-06-01T10:18:45.299Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정미조의 엄마의 봄 비하인드🌸 다시 노래하게 된 계기😢 | KBS 240601 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/52228278</id>
+        <link href="https://tv.naver.com/v/52228278"/>
+        <updated>2024-06-01T10:18:45.300Z</updated>
+        <content type="html"><![CDATA[05:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신승태 - 사랑과 계절 | KBS 240601 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/52228143</id>
+        <link href="https://tv.naver.com/v/52228143"/>
+        <updated>2024-06-01T10:18:45.301Z</updated>
+        <content type="html"><![CDATA[04:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥주현 - 아직도 기억하고 있어요 | KBS 240601 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/52228141</id>
+        <link href="https://tv.naver.com/v/52228141"/>
+        <updated>2024-06-01T10:18:45.302Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보컬들의 적 손승연?! 트로트 야생마 신승태의 선곡🤵‍♂ | KBS 240601 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/52227882</id>
+        <link href="https://tv.naver.com/v/52227882"/>
+        <updated>2024-06-01T10:18:45.304Z</updated>
+        <content type="html"><![CDATA[05:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정미조 - 엄마의 봄 | KBS 240601 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/52227750</id>
+        <link href="https://tv.naver.com/v/52227750"/>
+        <updated>2024-06-01T10:18:45.305Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[순식간에 배역에 몰입하는🔥 뮤지컬 디바 옥주현🌟 | KBS 240601 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/52227603</id>
+        <link href="https://tv.naver.com/v/52227603"/>
+        <updated>2024-06-01T10:18:45.306Z</updated>
+        <content type="html"><![CDATA[01:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[최은영×손준호 - 나는 나는 음악 | KBS 240525 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/51919315</id>
         <link href="https://tv.naver.com/v/51919315"/>
@@ -437,62 +493,6 @@
         <link href="https://tv.naver.com/v/51919309"/>
         <updated>2024-05-26T12:30:19.365Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 최은영&손준호 - 나는 나는 음악 | KBS 240525 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51887280</id>
-        <link href="https://tv.naver.com/v/51887280"/>
-        <updated>2024-05-25T13:17:41.954Z</updated>
-        <content type="html"><![CDATA[05:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 정초하&키노 -  Baggy Jeans | KBS 240525 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51887138</id>
-        <link href="https://tv.naver.com/v/51887138"/>
-        <updated>2024-05-25T12:31:12.746Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명곡판정단이 어렵게 고른 뉴키즈 최종 승자는?!🏆️   | KBS 240525 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51885545</id>
-        <link href="https://tv.naver.com/v/51885545"/>
-        <updated>2024-05-25T12:31:12.746Z</updated>
-        <content type="html"><![CDATA[01:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 전설의 열기는 식지 않았다! 아티스트 정미조 편🌹 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51885543</id>
-        <link href="https://tv.naver.com/v/51885543"/>
-        <updated>2024-05-25T12:31:12.751Z</updated>
-        <content type="html"><![CDATA[00:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출연자 막내🐥 천지호 양과 케이의 무대 소감 | KBS 240525 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51885409</id>
-        <link href="https://tv.naver.com/v/51885409"/>
-        <updated>2024-05-25T12:31:12.753Z</updated>
-        <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대를 날아다닌 치어리딩 요정🦋 무대 감상평 | KBS 240525 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51885405</id>
-        <link href="https://tv.naver.com/v/51885405"/>
-        <updated>2024-05-25T12:31:12.754Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천지호x케이 - 비밀번호 486 | KBS 240525 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51885229</id>
-        <link href="https://tv.naver.com/v/51885229"/>
-        <updated>2024-05-25T12:31:12.755Z</updated>
-        <content type="html"><![CDATA[04:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김담현x김기태x오은철 - 시작 | KBS 240525 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/51885214</id>
-        <link href="https://tv.naver.com/v/51885214"/>
-        <updated>2024-05-25T12:31:12.756Z</updated>
-        <content type="html"><![CDATA[06:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 짜스 짜스~😆우일이 형 노래 부르는 폼 美쳤다. 코미디언 임우일이 부르는 《바람아 멈추어다오》 《오직 하나뿐인 그대》 | #코미디언 #임우일 MBC240526방송 (복면가왕)]]></title>
