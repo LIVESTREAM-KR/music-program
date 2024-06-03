@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-06-03T07:17:25.466Z</updated>
+    <updated>2024-06-03T08:23:31.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 하현우 이후 최초 9연승을 한 가왕 정체는?! 터치드 윤민과 그를 이긴 헤라클레스의 《좋은 날》 《아마추어》 | #터치드 #윤민 MBC240602방송]]></title>
+        <id>https://tv.naver.com/v/52299046</id>
+        <link href="https://tv.naver.com/v/52299046"/>
+        <updated>2024-06-03T08:23:30.979Z</updated>
+        <content type="html"><![CDATA[24:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜9연승 가왕을 꺾은 '헤라클레스'✨ 첫 방어전은 성공할 수 있을지? 진정한 승부는 지금부터!＞ 복면가왕 454회 예고, MBC 240609]]></title>
         <id>https://tv.naver.com/v/52260972</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52258972"/>
         <updated>2024-06-02T10:17:43.476Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크리스탈' 2라운드 무대 - 마리아, MBC 240602 방송]]></title>
-        <id>https://tv.naver.com/v/52258969</id>
-        <link href="https://tv.naver.com/v/52258969"/>
-        <updated>2024-06-02T10:17:43.478Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
