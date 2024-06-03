@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-03T02:33:47.899Z</updated>
+    <updated>2024-06-03T03:21:50.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 설윤 X 영훈 X 윈터(aespa) , 6월 첫째 주 음악중심 MC 컷 모음!, MBC 240601 방송]]></title>
+        <id>https://tv.naver.com/v/52283621</id>
+        <link href="https://tv.naver.com/v/52283621"/>
+        <updated>2024-06-03T03:21:15.516Z</updated>
+        <content type="html"><![CDATA[15:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ZEROBASEONE (제로베이스원) – Feel the POP 풀캠 | 쇼! 음악중심 | MBC240601방송]]></title>
         <id>https://tv.naver.com/v/52230545</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52230275"/>
         <updated>2024-06-01T12:31:09.172Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ SAN (에이티즈 산) – Empty Box 직캠 | 쇼! 음악중심 | MBC240601방송]]></title>
-        <id>https://tv.naver.com/v/52230272</id>
-        <link href="https://tv.naver.com/v/52230272"/>
-        <updated>2024-06-01T12:31:09.174Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>
