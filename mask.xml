@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-06-04T09:20:37.003Z</updated>
+    <updated>2024-06-04T10:19:43.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥파워풀한 목소리의 9연승 가왕! Rock will never die🎸 터치드 윤민 하이라이트!, MBC 240602 방송]]></title>
+        <id>https://tv.naver.com/v/52364804</id>
+        <link href="https://tv.naver.com/v/52364804"/>
+        <updated>2024-06-04T10:19:43.034Z</updated>
+        <content type="html"><![CDATA[15:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨독보적 개성으로 청춘을 노래하는🎶 나상현씨밴드 나상현 하이라이트!, MBC 240602 방송]]></title>
+        <id>https://tv.naver.com/v/52364024</id>
+        <link href="https://tv.naver.com/v/52364024"/>
+        <updated>2024-06-04T10:19:43.036Z</updated>
+        <content type="html"><![CDATA[11:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 하현우 이후 최초 9연승을 한 가왕 정체는?! 터치드 윤민과 그를 이긴 헤라클레스의 《좋은 날》 《아마추어》 | #터치드 #윤민 MBC240602방송]]></title>
         <id>https://tv.naver.com/v/52299046</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/52259426"/>
         <updated>2024-06-02T10:17:43.474Z</updated>
         <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팜유 왕자 이장우가 주는 '헤라클레스'의 힌트! 이장우와 버금가는 먹성의 '헤라클레스'?!, MBC 240602 방송]]></title>
-        <id>https://tv.naver.com/v/52259103</id>
-        <link href="https://tv.naver.com/v/52259103"/>
-        <updated>2024-06-02T10:17:43.475Z</updated>
-        <content type="html"><![CDATA[01:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['헤라클레스' 2라운드 무대 - 너무 아픈 사랑은 사랑이 아니었음을, MBC 240602 방송]]></title>
-        <id>https://tv.naver.com/v/52258972</id>
-        <link href="https://tv.naver.com/v/52258972"/>
-        <updated>2024-06-02T10:17:43.476Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
     </entry>
 </feed>
