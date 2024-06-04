@@ -2,22 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-06-04T10:19:43.665Z</updated>
+    <updated>2024-06-04T11:16:09.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/52366772</id>
+        <link href="https://tv.naver.com/v/52366772"/>
+        <updated>2024-06-04T11:15:52.101Z</updated>
+        <content type="html"><![CDATA[05:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈) - Empty Box [THE SHOW 240604]]]></title>
+        <id>https://tv.naver.com/v/52366730</id>
+        <link href="https://tv.naver.com/v/52366730"/>
+        <updated>2024-06-04T11:15:52.101Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈) - WORK [THE SHOW 240604]]]></title>
+        <id>https://tv.naver.com/v/52366551</id>
+        <link href="https://tv.naver.com/v/52366551"/>
+        <updated>2024-06-04T11:15:52.102Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WayV - Give Me That (Korean Ver.) [THE SHOW 240604]]]></title>
+        <id>https://tv.naver.com/v/52366356</id>
+        <link href="https://tv.naver.com/v/52366356"/>
+        <updated>2024-06-04T11:15:52.102Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WayV - She A Wolf [THE SHOW 240604]]]></title>
+        <id>https://tv.naver.com/v/52366139</id>
+        <link href="https://tv.naver.com/v/52366139"/>
+        <updated>2024-06-04T11:15:52.109Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WayV - New Ride(浪漫公路) [THE SHOW 240604]]]></title>
+        <id>https://tv.naver.com/v/52366136</id>
+        <link href="https://tv.naver.com/v/52366136"/>
+        <updated>2024-06-04T11:15:52.110Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HYNN(박혜원) - 가장 찬란한 빛으로 쏟아지는 [THE SHOW 240604]]]></title>
+        <id>https://tv.naver.com/v/52365948</id>
+        <link href="https://tv.naver.com/v/52365948"/>
+        <updated>2024-06-04T11:15:52.110Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARTMS - Virtual Angel [THE SHOW 240604]]]></title>
         <id>https://tv.naver.com/v/52365212</id>
         <link href="https://tv.naver.com/v/52365212"/>
         <updated>2024-06-04T10:19:27.603Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yves(이브) - LOOP (feat.Lil Cherry) [THE SHOW 240604]]]></title>
-        <id>https://tv.naver.com/v/52364992</id>
-        <link href="https://tv.naver.com/v/52364992"/>
-        <updated>2024-06-04T10:19:27.606Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ARTMS - Sparkle [THE SHOW 240604]]]></title>
@@ -27,52 +69,10 @@
         <content type="html"><![CDATA[02:44]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XG - WOKE UP [THE SHOW 240604]]]></title>
-        <id>https://tv.naver.com/v/52364806</id>
-        <link href="https://tv.naver.com/v/52364806"/>
-        <updated>2024-06-04T10:19:27.610Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JD1 - ERROR 405 [THE SHOW 240604]]]></title>
-        <id>https://tv.naver.com/v/52364530</id>
-        <link href="https://tv.naver.com/v/52364530"/>
-        <updated>2024-06-04T10:19:27.611Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DXMON(다이몬) - 소년...소녀를 만나다(Girls, Love boys, Love girls) [THE SHOW 240604]]]></title>
-        <id>https://tv.naver.com/v/52364528</id>
-        <link href="https://tv.naver.com/v/52364528"/>
-        <updated>2024-06-04T10:19:27.615Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHIB - KICK IT [THE SHOW 240604]]]></title>
-        <id>https://tv.naver.com/v/52364296</id>
-        <link href="https://tv.naver.com/v/52364296"/>
-        <updated>2024-06-04T10:19:27.616Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챌린딩] MC 샤오쥔 & ATEEZ(에이티즈) [THE SHOW 240604]]]></title>
-        <id>https://tv.naver.com/v/52364081</id>
-        <link href="https://tv.naver.com/v/52364081"/>
-        <updated>2024-06-04T10:19:27.616Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WATERFIRE - POSSIBLE [THE SHOW 240604]]]></title>
-        <id>https://tv.naver.com/v/52363253</id>
-        <link href="https://tv.naver.com/v/52363253"/>
-        <updated>2024-06-04T10:19:27.617Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPIA(수피아) - Deeeep [THE SHOW 240604]]]></title>
-        <id>https://tv.naver.com/v/52362934</id>
-        <link href="https://tv.naver.com/v/52362934"/>
-        <updated>2024-06-04T10:19:27.618Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
+        <title type="html"><![CDATA[Yves(이브) - LOOP (feat.Lil Cherry) [THE SHOW 240604]]]></title>
+        <id>https://tv.naver.com/v/52364992</id>
+        <link href="https://tv.naver.com/v/52364992"/>
+        <updated>2024-06-04T10:19:27.606Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
