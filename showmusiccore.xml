@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-05T07:18:14.142Z</updated>
+    <updated>2024-06-05T08:22:45.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ.zip 📂WORK부터 해적왕(Pirate King)까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/52306076</id>
+        <link href="https://tv.naver.com/v/52306076"/>
+        <updated>2024-06-05T08:22:09.158Z</updated>
+        <content type="html"><![CDATA[01:08:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ARTMS HeeJin (아르테미스 희진) - Virtual Angel | 쇼! 음악중심 | MBC240601방송]]></title>
         <id>https://tv.naver.com/v/52356394</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52355445"/>
         <updated>2024-06-04T08:21:52.483Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240601방송]]></title>
-        <id>https://tv.naver.com/v/52355100</id>
-        <link href="https://tv.naver.com/v/52355100"/>
-        <updated>2024-06-04T08:21:52.484Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>

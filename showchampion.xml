@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-05T07:18:14.129Z</updated>
+    <updated>2024-06-05T08:22:45.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔엔디(NND) - 처음(First) l 240605]]></title>
+        <id>https://tv.naver.com/v/52569595</id>
+        <link href="https://tv.naver.com/v/52569595"/>
+        <updated>2024-06-05T08:22:32.898Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] ＂국가권력급 쇼챔 라인업＂]]></title>
         <id>https://tv.naver.com/v/52293203</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52076609"/>
         <updated>2024-05-29T13:19:57.284Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS LEEDO - Now (Original by Fin.K.L) (원어스 이도 - 나우) | Show Champion | EP.519 | 240529]]></title>
-        <id>https://tv.naver.com/v/52076365</id>
-        <link href="https://tv.naver.com/v/52076365"/>
-        <updated>2024-05-29T13:19:57.287Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>

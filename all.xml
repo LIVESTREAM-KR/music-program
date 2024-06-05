@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-05T07:18:14.116Z</updated>
+    <updated>2024-06-05T08:22:45.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Armageddon - aespa | KBS 240531 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] ATEEZ.zip 📂WORK부터 해적왕(Pirate King)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52306076</id>
+        <link href="https://tv.naver.com/v/52306076"/>
+        <updated>2024-06-05T08:22:09.158Z</updated>
+        <content type="html"><![CDATA[01:08:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ARTMS HeeJin (아르테미스 희진) - Virtual Angel | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/52356394</id>
         <link href="https://tv.naver.com/v/52356394"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/52355445"/>
         <updated>2024-06-04T08:21:52.483Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52355100</id>
-        <link href="https://tv.naver.com/v/52355100"/>
-        <updated>2024-06-04T08:21:52.484Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240526 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[02:58]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔엔디(NND) - 처음(First) l 240605 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/52569595</id>
+        <link href="https://tv.naver.com/v/52569595"/>
+        <updated>2024-06-05T08:22:32.898Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] ＂국가권력급 쇼챔 라인업＂ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/52293203</id>
         <link href="https://tv.naver.com/v/52293203"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/52076609"/>
         <updated>2024-05-29T13:19:57.284Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ONEUS LEEDO - Now (Original by Fin.K.L) (원어스 이도 - 나우) | Show Champion | EP.519 | 240529 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/52076365</id>
-        <link href="https://tv.naver.com/v/52076365"/>
-        <updated>2024-05-29T13:19:57.287Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 660회 ＜아티스트 정미조＞  우승자 ⭐김연지⭐ | KBS 방송 (불후의 명곡)]]></title>
