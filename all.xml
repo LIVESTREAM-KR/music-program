@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-06T11:15:33.328Z</updated>
+    <updated>2024-06-06T12:34:32.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Armageddon - aespa | KBS 240531 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['COMEBACK' ATEEZ (에이티즈) - WORK | Mnet 240606 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/52757377</id>
+        <link href="https://tv.naver.com/v/52757377"/>
+        <updated>2024-06-06T12:34:08.179Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 수호(SUHO) - 점선면 (1 to 3) | Mnet 240606 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/52745902</id>
         <link href="https://tv.naver.com/v/52745902"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/52739646"/>
         <updated>2024-06-06T11:15:10.241Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 한승우 - Blooming | Mnet 240606 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/52739639</id>
-        <link href="https://tv.naver.com/v/52739639"/>
-        <updated>2024-06-06T11:15:10.242Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
