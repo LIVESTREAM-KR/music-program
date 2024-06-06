@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-06-06T09:20:51.327Z</updated>
+    <updated>2024-06-06T10:19:10.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[예고] 👑단 하나의 왕좌에 도전한다👑 2024 상반기 왕중왕전! | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/52704729</id>
-        <link href="https://tv.naver.com/v/52704729"/>
-        <updated>2024-06-06T08:22:27.857Z</updated>
-        <content type="html"><![CDATA[00:50]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 660회 ＜아티스트 정미조＞  우승자 ⭐김연지⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/52230551</id>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/52229248"/>
         <updated>2024-06-01T11:18:25.626Z</updated>
         <content type="html"><![CDATA[01:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이세준 - 불꽃 | KBS 240601 방송]]></title>
+        <id>https://tv.naver.com/v/52229215</id>
+        <link href="https://tv.naver.com/v/52229215"/>
+        <updated>2024-06-06T10:19:04.462Z</updated>
+        <content type="html"><![CDATA[05:57]]></content>
     </entry>
 </feed>
