@@ -2,8 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-07T08:22:41.538Z</updated>
+    <updated>2024-06-07T09:19:36.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[BADVILLAIN - BADVILLAIN(배드빌런) | KBS 240607 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/53003361</id>
+        <link href="https://tv.naver.com/v/53003361"/>
+        <updated>2024-06-07T09:18:59.081Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야호 (BADTITUDE) - BADVILLAIN(배드빌런) | KBS 240607 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/53002501</id>
+        <link href="https://tv.naver.com/v/53002501"/>
+        <updated>2024-06-07T09:18:59.081Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtual Angel - ARTMS | KBS 240607 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/53002490</id>
+        <link href="https://tv.naver.com/v/53002490"/>
+        <updated>2024-06-07T09:18:59.088Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOKE UP - XG | KBS 240607 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/53002222</id>
+        <link href="https://tv.naver.com/v/53002222"/>
+        <updated>2024-06-07T09:18:59.089Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소년...소녀를 만나다 (Girls, Love boys, Love girls) - DXMON(다이몬) | KBS 240607 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/53001211</id>
+        <link href="https://tv.naver.com/v/53001211"/>
+        <updated>2024-06-07T09:18:59.091Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretty Revenge - 키코 (Kik5o) | KBS 240607 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/52999153</id>
+        <link href="https://tv.naver.com/v/52999153"/>
+        <updated>2024-06-07T09:18:59.093Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deeeep - SPIA(수피아) | KBS 240607 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/52997821</id>
+        <link href="https://tv.naver.com/v/52997821"/>
+        <updated>2024-06-07T09:18:59.093Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POSSIBLE - WATERFIRE(워터파이어) | KBS 240607 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/52996844</id>
+        <link href="https://tv.naver.com/v/52996844"/>
+        <updated>2024-06-07T09:18:59.094Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고맙습니다 - 김연자 | KBS 240607 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/52996835</id>
+        <link href="https://tv.naver.com/v/52996835"/>
+        <updated>2024-06-07T09:18:59.095Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Armageddon - aespa | KBS 240531 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/52189686</id>
@@ -12,67 +75,11 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Sweet - 뉴진스(NewJeans) | KBS 240531 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/52189673</id>
-        <link href="https://tv.naver.com/v/52189673"/>
-        <updated>2024-05-31T10:18:45.164Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장밋빛 인생 - 김윤아 | KBS 240531 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/52189088</id>
-        <link href="https://tv.naver.com/v/52189088"/>
-        <updated>2024-05-31T10:18:45.164Z</updated>
-        <content type="html"><![CDATA[05:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taxi Blurr (Feat. 나띠 of KISS OF LIFE) - 박재범 | KBS 240531 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/52188830</id>
-        <link href="https://tv.naver.com/v/52188830"/>
-        <updated>2024-05-31T10:18:45.168Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WORK - ATEEZ | KBS 240531 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/52188322</id>
-        <link href="https://tv.naver.com/v/52188322"/>
-        <updated>2024-05-31T10:18:45.169Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empty Box - ATEEZ | KBS 240531 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/52188257</id>
-        <link href="https://tv.naver.com/v/52188257"/>
-        <updated>2024-05-31T10:18:45.171Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈 집 (Empty) - 첸 (CHEN) | KBS 240531 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/52188247</id>
-        <link href="https://tv.naver.com/v/52188247"/>
-        <updated>2024-05-31T10:18:45.173Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ERROR 405 - JD1 | KBS 240531 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/52187582</id>
-        <link href="https://tv.naver.com/v/52187582"/>
-        <updated>2024-05-31T09:19:05.467Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Now (Original by Fin.K.L) - 원어스(ONEUS) | KBS 240531 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/52187333</id>
-        <link href="https://tv.naver.com/v/52187333"/>
-        <updated>2024-05-31T09:19:05.467Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel the POP - ZEROBASEONE | KBS 240531 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/52186986</id>
-        <link href="https://tv.naver.com/v/52186986"/>
-        <updated>2024-05-31T09:19:05.468Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 성화가 말하는 에이티즈가 성공 할 수 있었던 이유🐰 #ATEEZ 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/52994625</id>
+        <link href="https://tv.naver.com/v/52994625"/>
+        <updated>2024-06-07T09:19:04.379Z</updated>
+        <content type="html"><![CDATA[09:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ATEEZ.zip 📂해적왕(Pirate King)부터 WORK까지 | Show! MusicCore (쇼! 음악중심)]]></title>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/52355446"/>
         <updated>2024-06-04T08:21:52.481Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240601방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/52355445</id>
-        <link href="https://tv.naver.com/v/52355445"/>
-        <updated>2024-06-04T08:21:52.483Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240526 방송 (인기가요)]]></title>

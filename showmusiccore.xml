@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-07T08:22:41.527Z</updated>
+    <updated>2024-06-07T09:19:36.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 성화가 말하는 에이티즈가 성공 할 수 있었던 이유🐰 #ATEEZ 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/52994625</id>
+        <link href="https://tv.naver.com/v/52994625"/>
+        <updated>2024-06-07T09:19:04.379Z</updated>
+        <content type="html"><![CDATA[09:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ATEEZ.zip 📂해적왕(Pirate King)부터 WORK까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/52306076</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52355446"/>
         <updated>2024-06-04T08:21:52.481Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240601방송]]></title>
-        <id>https://tv.naver.com/v/52355445</id>
-        <link href="https://tv.naver.com/v/52355445"/>
-        <updated>2024-06-04T08:21:52.483Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
