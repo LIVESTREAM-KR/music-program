@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-06-07T07:17:22.495Z</updated>
+    <updated>2024-06-07T08:22:41.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 정준일&이준형의 ＜안아줘＞스페셜 무대! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/52985011</id>
+        <link href="https://tv.naver.com/v/52985011"/>
+        <updated>2024-06-07T08:22:35.223Z</updated>
+        <content type="html"><![CDATA[01:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최은영×손준호 - 나는 나는 음악 | KBS 240525 방송]]></title>
         <id>https://tv.naver.com/v/52905660</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52229566"/>
         <updated>2024-06-01T11:18:25.623Z</updated>
         <content type="html"><![CDATA[01:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김연지 - 개여울 | KBS 240601 방송]]></title>
-        <id>https://tv.naver.com/v/52229565</id>
-        <link href="https://tv.naver.com/v/52229565"/>
-        <updated>2024-06-01T11:18:25.625Z</updated>
-        <content type="html"><![CDATA[04:52]]></content>
     </entry>
 </feed>
