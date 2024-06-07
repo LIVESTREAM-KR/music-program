@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-07T10:19:07.825Z</updated>
+    <updated>2024-06-07T11:16:37.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 다중우주🪐를 보여줘도 핑크빛 사랑🩷만 주는 마이들과 티키타카 완벽한 #aespa 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/53023717</id>
+        <link href="https://tv.naver.com/v/53023717"/>
+        <updated>2024-06-07T11:16:02.315Z</updated>
+        <content type="html"><![CDATA[10:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 성화가 말하는 에이티즈가 성공 할 수 있었던 이유🐰 #ATEEZ 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/52994625</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52355785"/>
         <updated>2024-06-04T08:21:52.480Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ZEROBASEONE KIM GYUVIN (제로베이스원 김규빈) - Feel the POP 직캠 | 쇼! 음악중심 | MBC240601방송]]></title>
-        <id>https://tv.naver.com/v/52355446</id>
-        <link href="https://tv.naver.com/v/52355446"/>
-        <updated>2024-06-04T08:21:52.481Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
