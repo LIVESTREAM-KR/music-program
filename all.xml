@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-08T09:19:44.073Z</updated>
+    <updated>2024-06-08T10:18:54.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[점선면 (1 to 3) - 수호 | KBS 240607 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er (케플러) – Shooting Star 풀캠 | 쇼! 음악중심 | MBC240608방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/53284747</id>
+        <link href="https://tv.naver.com/v/53284747"/>
+        <updated>2024-06-08T10:18:18.353Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[수호 - 점선면 (SUHO - 1 to 3), MBC 240608 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/53258029</id>
         <link href="https://tv.naver.com/v/53258029"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/53250102"/>
         <updated>2024-06-08T07:16:38.509Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이몬 - 소년...소녀를 만나다 (DXMON - Girls, Love boys, Love girls), MBC 240608 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/53250092</id>
-        <link href="https://tv.naver.com/v/53250092"/>
-        <updated>2024-06-08T07:16:38.511Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240526 방송 (인기가요)]]></title>
@@ -425,6 +425,55 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[솔직한 정준일의 피드백🤣 실화 반영?! 〈이별택시〉비하인드💿️ | KBS 240608 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/53285686</id>
+        <link href="https://tv.naver.com/v/53285686"/>
+        <updated>2024-06-08T10:18:48.018Z</updated>
+        <content type="html"><![CDATA[05:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정인 – 이별택시 | KBS 240608 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/53284779</id>
+        <link href="https://tv.naver.com/v/53284779"/>
+        <updated>2024-06-08T10:18:48.018Z</updated>
+        <content type="html"><![CDATA[04:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유다빈밴드 – 고속도로 로맨스 | KBS 240608 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/53283199</id>
+        <link href="https://tv.naver.com/v/53283199"/>
+        <updated>2024-06-08T10:18:48.019Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러브스토리가 담긴 〈오르막길〉비하인드💘 국민 노래 선곡 이유?! | KBS 240608 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/53282249</id>
+        <link href="https://tv.naver.com/v/53282249"/>
+        <updated>2024-06-08T10:18:48.020Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유다빈밴드의 상큼한 첫인사🖐️ 여름 대표곡🌴 선곡 이유는? | KBS 240608 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/53282245</id>
+        <link href="https://tv.naver.com/v/53282245"/>
+        <updated>2024-06-08T10:18:48.021Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤종신 최애 가수 정준일😍 둘의 반전 첫인상😱 | KBS 240608 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/53282232</id>
+        <link href="https://tv.naver.com/v/53282232"/>
+        <updated>2024-06-08T10:18:48.023Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트레스 제로! 스윗 선배님 윤종신과 보컬 퀸 정인과의 인연은? | KBS 240608 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/53280250</id>
+        <link href="https://tv.naver.com/v/53280250"/>
+        <updated>2024-06-08T10:18:48.025Z</updated>
+        <content type="html"><![CDATA[01:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] 정준일&이준형의 ＜안아줘＞스페셜 무대! | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/52985011</id>
         <link href="https://tv.naver.com/v/52985011"/>
@@ -444,55 +493,6 @@
         <link href="https://tv.naver.com/v/52741574"/>
         <updated>2024-06-06T11:15:26.859Z</updated>
         <content type="html"><![CDATA[00:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 660회 ＜아티스트 정미조＞  우승자 ⭐김연지⭐ | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/52230551</id>
-        <link href="https://tv.naver.com/v/52230551"/>
-        <updated>2024-06-01T12:31:37.486Z</updated>
-        <content type="html"><![CDATA[00:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괴물 보컬들의 전쟁터였던... 오늘 최종 승자는?!🌠 | KBS 240601 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/52229957</id>
-        <link href="https://tv.naver.com/v/52229957"/>
-        <updated>2024-06-01T11:18:25.619Z</updated>
-        <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 싱어송라이터들의 롤 모델🌟 아티스트 윤종신 편! | KBS 240601 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/52229938</id>
-        <link href="https://tv.naver.com/v/52229938"/>
-        <updated>2024-06-01T11:18:25.619Z</updated>
-        <content type="html"><![CDATA[00:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순간순간을 행복하게 만들었던 후배들의 무대📕💧 | KBS 240601 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/52229937</id>
-        <link href="https://tv.naver.com/v/52229937"/>
-        <updated>2024-06-01T11:18:25.619Z</updated>
-        <content type="html"><![CDATA[01:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정미조가 본 김연지의 〈개여울〉 무대평!😲 | KBS 240601 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/52229590</id>
-        <link href="https://tv.naver.com/v/52229590"/>
-        <updated>2024-06-01T11:18:25.620Z</updated>
-        <content type="html"><![CDATA[01:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수준급 후배들과 리메이크 비하인드💾 | KBS 240601 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/52229571</id>
-        <link href="https://tv.naver.com/v/52229571"/>
-        <updated>2024-06-01T11:18:25.622Z</updated>
-        <content type="html"><![CDATA[02:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물결치는 그리움🌊 감정을 완벽하게 선보인 김연지의 무대 | KBS 240601 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/52229566</id>
-        <link href="https://tv.naver.com/v/52229566"/>
-        <updated>2024-06-01T11:18:25.623Z</updated>
-        <content type="html"><![CDATA[01:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 🔥파워풀한 목소리의 9연승 가왕! Rock will never die🎸 터치드 윤민 하이라이트!, MBC 240602 방송 (복면가왕)]]></title>

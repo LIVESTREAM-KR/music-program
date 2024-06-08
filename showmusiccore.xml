@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-08T09:19:44.069Z</updated>
+    <updated>2024-06-08T10:18:54.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예능연구소] Kep1er (케플러) – Shooting Star 풀캠 | 쇼! 음악중심 | MBC240608방송]]></title>
+        <id>https://tv.naver.com/v/53284747</id>
+        <link href="https://tv.naver.com/v/53284747"/>
+        <updated>2024-06-08T10:18:18.353Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수호 - 점선면 (SUHO - 1 to 3), MBC 240608 방송]]></title>
         <id>https://tv.naver.com/v/53258029</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/53250102"/>
         <updated>2024-06-08T07:16:38.509Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이몬 - 소년...소녀를 만나다 (DXMON - Girls, Love boys, Love girls), MBC 240608 방송]]></title>
-        <id>https://tv.naver.com/v/53250092</id>
-        <link href="https://tv.naver.com/v/53250092"/>
-        <updated>2024-06-08T07:16:38.511Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
