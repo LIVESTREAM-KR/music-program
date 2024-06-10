@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-10T07:17:52.955Z</updated>
+    <updated>2024-06-10T08:23:38.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[점선면 (1 to 3) - 수호 | KBS 240607 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS DOHOON (투어스 도훈) - hey! hey! | 쇼! 음악중심 | MBC240608방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/53787324</id>
+        <link href="https://tv.naver.com/v/53787324"/>
+        <updated>2024-06-10T08:23:01.976Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU (투어스 신유) - hey! hey! | 쇼! 음악중심 | MBC240608방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/53787319</id>
+        <link href="https://tv.naver.com/v/53787319"/>
+        <updated>2024-06-10T08:23:01.976Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] WayV TEN (웨이션브이 텐) - Give Me That | 쇼! 음악중심 | MBC240608방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/53784004</id>
+        <link href="https://tv.naver.com/v/53784004"/>
+        <updated>2024-06-10T08:23:01.976Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 6월 둘째 주 음악중심 MC 컷 모음!, MBC 240608 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/53704950</id>
         <link href="https://tv.naver.com/v/53704950"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/53297369"/>
         <updated>2024-06-08T12:30:17.307Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] SUHO (수호) – 점선면(1 TO 3) 풀캠 | 쇼! 음악중심 | MBC240608방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/53297360</id>
-        <link href="https://tv.naver.com/v/53297360"/>
-        <updated>2024-06-08T12:30:17.308Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BADVILLAIN HU’E (배드빌런 휴이) - BADVILLAIN 직캠 | 쇼! 음악중심 | MBC240608방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/53296563</id>
-        <link href="https://tv.naver.com/v/53296563"/>
-        <updated>2024-06-08T11:14:23.716Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] BADVILLAIN EMMA (배드빌런 엠마) - BADVILLAIN 직캠 | 쇼! 음악중심 | MBC240608방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/53296555</id>
-        <link href="https://tv.naver.com/v/53296555"/>
-        <updated>2024-06-08T11:14:23.716Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240526 방송 (인기가요)]]></title>
