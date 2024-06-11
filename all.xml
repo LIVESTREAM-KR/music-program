@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-11T09:20:45.067Z</updated>
+    <updated>2024-06-11T10:20:01.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[점선면 (1 to 3) - 수호 | KBS 240607 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/53995308</id>
+        <link href="https://tv.naver.com/v/53995308"/>
+        <updated>2024-06-11T10:19:38.057Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['COMEBACK' ATEEZ (에이티즈) - WORK | Mnet 240606 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/52757377</id>
         <link href="https://tv.naver.com/v/52757377"/>
@@ -278,81 +285,74 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with ATEEZ (에이티즈) | Mnet 240606 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/52739646</id>
-        <link href="https://tv.naver.com/v/52739646"/>
-        <updated>2024-06-06T11:15:10.241Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
+        <title type="html"><![CDATA[니콜 (NICOLE) - 5!6!7!8! [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53996310</id>
+        <link href="https://tv.naver.com/v/53996310"/>
+        <updated>2024-06-11T10:19:43.687Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52366772</id>
-        <link href="https://tv.naver.com/v/52366772"/>
-        <updated>2024-06-04T11:15:52.101Z</updated>
-        <content type="html"><![CDATA[05:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ(에이티즈) - Empty Box [THE SHOW 240604] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52366730</id>
-        <link href="https://tv.naver.com/v/52366730"/>
-        <updated>2024-06-04T11:15:52.101Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATEEZ(에이티즈) - WORK [THE SHOW 240604] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52366551</id>
-        <link href="https://tv.naver.com/v/52366551"/>
-        <updated>2024-06-04T11:15:52.102Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WayV - Give Me That (Korean Ver.) [THE SHOW 240604] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52366356</id>
-        <link href="https://tv.naver.com/v/52366356"/>
-        <updated>2024-06-04T11:15:52.102Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WayV - She A Wolf [THE SHOW 240604] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52366139</id>
-        <link href="https://tv.naver.com/v/52366139"/>
-        <updated>2024-06-04T11:15:52.109Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WayV - New Ride(浪漫公路) [THE SHOW 240604] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52366136</id>
-        <link href="https://tv.naver.com/v/52366136"/>
-        <updated>2024-06-04T11:15:52.110Z</updated>
+        <title type="html"><![CDATA[한승우 - Blooming [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53996106</id>
+        <link href="https://tv.naver.com/v/53996106"/>
+        <updated>2024-06-11T10:19:43.689Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HYNN(박혜원) - 가장 찬란한 빛으로 쏟아지는 [THE SHOW 240604] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52365948</id>
-        <link href="https://tv.naver.com/v/52365948"/>
-        <updated>2024-06-04T11:15:52.110Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
+        <title type="html"><![CDATA[[챌린딩] MC 형준 & WayV [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53995289</id>
+        <link href="https://tv.naver.com/v/53995289"/>
+        <updated>2024-06-11T10:19:43.690Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARTMS - Virtual Angel [THE SHOW 240604] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52365212</id>
-        <link href="https://tv.naver.com/v/52365212"/>
-        <updated>2024-06-04T10:19:27.603Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
+        <title type="html"><![CDATA[TWS - hey! hey! [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53995265</id>
+        <link href="https://tv.naver.com/v/53995265"/>
+        <updated>2024-06-11T10:19:43.692Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARTMS - Sparkle [THE SHOW 240604] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52364993</id>
-        <link href="https://tv.naver.com/v/52364993"/>
-        <updated>2024-06-04T10:19:27.606Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
+        <title type="html"><![CDATA[cignature(시그니처) - 풍덩 [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53995258</id>
+        <link href="https://tv.naver.com/v/53995258"/>
+        <updated>2024-06-11T10:19:43.693Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yves(이브) - LOOP (feat.Lil Cherry) [THE SHOW 240604] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/52364992</id>
-        <link href="https://tv.naver.com/v/52364992"/>
-        <updated>2024-06-04T10:19:27.606Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
+        <title type="html"><![CDATA[cignature(시그니처) - I like I like [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53993422</id>
+        <link href="https://tv.naver.com/v/53993422"/>
+        <updated>2024-06-11T10:19:43.695Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BADVILLAIN (배드빌런) - BADVILLAIN [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53993418</id>
+        <link href="https://tv.naver.com/v/53993418"/>
+        <updated>2024-06-11T10:19:43.696Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSR(첫사랑) - Pretty mob [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53990525</id>
+        <link href="https://tv.naver.com/v/53990525"/>
+        <updated>2024-06-11T10:19:43.697Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[챌린딩] MC 나나 & 케플러(Kep1er) [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53989442</id>
+        <link href="https://tv.naver.com/v/53989442"/>
+        <updated>2024-06-11T10:19:43.699Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE PACT(원팩트) - 꺼져 [THE SHOW 240611] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/53989436</id>
+        <link href="https://tv.naver.com/v/53989436"/>
+        <updated>2024-06-11T10:19:43.705Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] WayV를 믿기 vs 쇼챔피언을 믿기 (쇼챔피언)]]></title>

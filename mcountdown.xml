@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-06-11T09:20:45.051Z</updated>
+    <updated>2024-06-11T10:20:01.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ATEEZ(에이티즈)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/53995308</id>
+        <link href="https://tv.naver.com/v/53995308"/>
+        <updated>2024-06-11T10:19:38.057Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' ATEEZ (에이티즈) - WORK | Mnet 240606 방송]]></title>
         <id>https://tv.naver.com/v/52757377</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52740420"/>
         <updated>2024-06-06T11:15:10.239Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with ATEEZ (에이티즈) | Mnet 240606 방송]]></title>
-        <id>https://tv.naver.com/v/52739646</id>
-        <link href="https://tv.naver.com/v/52739646"/>
-        <updated>2024-06-06T11:15:10.241Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
