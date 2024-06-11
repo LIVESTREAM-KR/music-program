@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-06-11T10:20:01.880Z</updated>
+    <updated>2024-06-11T11:16:59.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/54004590</id>
+        <link href="https://tv.naver.com/v/54004590"/>
+        <updated>2024-06-11T11:16:42.405Z</updated>
+        <content type="html"><![CDATA[05:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WayV - Give Me That (Korean Ver.) [THE SHOW 240611]]]></title>
+        <id>https://tv.naver.com/v/54002712</id>
+        <link href="https://tv.naver.com/v/54002712"/>
+        <updated>2024-06-11T11:16:42.406Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVERGLOW(에버글로우) - ZOMBIE [THE SHOW 240611]]]></title>
+        <id>https://tv.naver.com/v/54001739</id>
+        <link href="https://tv.naver.com/v/54001739"/>
+        <updated>2024-06-11T11:16:42.408Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러(Kep1er) - Shooting Star [THE SHOW 240611]]]></title>
+        <id>https://tv.naver.com/v/54001727</id>
+        <link href="https://tv.naver.com/v/54001727"/>
+        <updated>2024-06-11T11:16:42.410Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[니콜 (NICOLE) - 5!6!7!8! [THE SHOW 240611]]]></title>
         <id>https://tv.naver.com/v/53996310</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/53993422"/>
         <updated>2024-06-11T10:19:43.695Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BADVILLAIN (배드빌런) - BADVILLAIN [THE SHOW 240611]]]></title>
-        <id>https://tv.naver.com/v/53993418</id>
-        <link href="https://tv.naver.com/v/53993418"/>
-        <updated>2024-06-11T10:19:43.696Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSR(첫사랑) - Pretty mob [THE SHOW 240611]]]></title>
-        <id>https://tv.naver.com/v/53990525</id>
-        <link href="https://tv.naver.com/v/53990525"/>
-        <updated>2024-06-11T10:19:43.697Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챌린딩] MC 나나 & 케플러(Kep1er) [THE SHOW 240611]]]></title>
-        <id>https://tv.naver.com/v/53989442</id>
-        <link href="https://tv.naver.com/v/53989442"/>
-        <updated>2024-06-11T10:19:43.699Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE PACT(원팩트) - 꺼져 [THE SHOW 240611]]]></title>
-        <id>https://tv.naver.com/v/53989436</id>
-        <link href="https://tv.naver.com/v/53989436"/>
-        <updated>2024-06-11T10:19:43.705Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
