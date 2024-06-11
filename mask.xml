@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-06-11T08:23:06.597Z</updated>
+    <updated>2024-06-11T09:20:45.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 💥절도 있는 춤선의 매력 부자✨ R.ef 성대현 하이라이트!, MBC 240609 방송]]></title>
+        <id>https://tv.naver.com/v/53984236</id>
+        <link href="https://tv.naver.com/v/53984236"/>
+        <updated>2024-06-11T09:20:44.479Z</updated>
+        <content type="html"><![CDATA[13:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥파워풀한 댄스 속 섬세한 목소리🎶 가수 노태현 하이라이트!, MBC 240609 방송]]></title>
+        <id>https://tv.naver.com/v/53983247</id>
+        <link href="https://tv.naver.com/v/53983247"/>
+        <updated>2024-06-11T09:20:44.486Z</updated>
+        <content type="html"><![CDATA[08:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ⚽스포테이너로 돌아온 국가대표 골키퍼🔥 전 축구 선수 김영광 하이라이트!, MBC 240609 방송]]></title>
+        <id>https://tv.naver.com/v/53983239</id>
+        <link href="https://tv.naver.com/v/53983239"/>
+        <updated>2024-06-11T09:20:44.487Z</updated>
+        <content type="html"><![CDATA[10:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90년대 아이돌 라이브 폼 미쳤다!, MBC 240609 방송]]></title>
+        <id>https://tv.naver.com/v/53968177</id>
+        <link href="https://tv.naver.com/v/53968177"/>
+        <updated>2024-06-11T09:20:44.488Z</updated>
+        <content type="html"><![CDATA[00:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜가왕 '헤라클레스'의 첫 방어전🦁 징크스를 뚫고 연승에 성공할 수 있을지?!🤔＞ 복면가왕 455회 예고, MBC 240616 방송]]></title>
         <id>https://tv.naver.com/v/53553493</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/53548424"/>
         <updated>2024-06-09T11:14:16.513Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['체육 선생님'의 정체는 전 축구 선수 김영광!, MBC 240609 방송]]></title>
-        <id>https://tv.naver.com/v/53546452</id>
-        <link href="https://tv.naver.com/v/53546452"/>
-        <updated>2024-06-09T10:17:54.558Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '파묘'의 한 장면을 성대모사하는 '음악 선생님'?!👻 김구라와 듀엣 성사까지🤣, MBC 240609 방송]]></title>
-        <id>https://tv.naver.com/v/53544858</id>
-        <link href="https://tv.naver.com/v/53544858"/>
-        <updated>2024-06-09T10:17:54.562Z</updated>
-        <content type="html"><![CDATA[01:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼굴 천재 서강준이 주는 '체육 선생님'의 힌트! 큰 손으로 대한민국을 들었다 놨다 했던 '체육 선생님'?!, MBC 240609 방송]]></title>
-        <id>https://tv.naver.com/v/53543790</id>
-        <link href="https://tv.naver.com/v/53543790"/>
-        <updated>2024-06-09T10:17:54.562Z</updated>
-        <content type="html"><![CDATA[01:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['체육 선생님' VS '음악 선생님'의 1라운드 무대 - 나와 같다면, MBC 240609 방송]]></title>
-        <id>https://tv.naver.com/v/53541970</id>
-        <link href="https://tv.naver.com/v/53541970"/>
-        <updated>2024-06-09T10:17:54.562Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>

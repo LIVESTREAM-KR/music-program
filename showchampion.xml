@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-11T08:23:06.579Z</updated>
+    <updated>2024-06-11T09:20:45.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/53773623"/>
         <updated>2024-06-10T09:20:32.632Z</updated>
         <content type="html"><![CDATA[01:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JD1의 data 405% 수집중💓]]></title>
+        <id>https://tv.naver.com/v/53705374</id>
+        <link href="https://tv.naver.com/v/53705374"/>
+        <updated>2024-06-11T09:20:32.910Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.520 | 240605]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/52594323"/>
         <updated>2024-06-06T08:22:22.271Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] WayV TEN(웨이션브이 텐) - She A Wolf | Show Champion | EP.520 | 240605]]></title>
-        <id>https://tv.naver.com/v/52599657</id>
-        <link href="https://tv.naver.com/v/52599657"/>
-        <updated>2024-06-06T08:22:22.273Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
