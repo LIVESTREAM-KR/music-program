@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-12T11:17:45.093Z</updated>
+    <updated>2024-06-12T12:34:19.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/54249335"/>
         <updated>2024-06-12T09:19:41.816Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[땀 닦는 모습도 멋진 신유🩵]]></title>
+        <id>https://tv.naver.com/v/54247862</id>
+        <link href="https://tv.naver.com/v/54247862"/>
+        <updated>2024-06-12T12:34:08.261Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 케플러(Kep1er) - Shooting Star l 240612]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/54244725"/>
         <updated>2024-06-12T09:19:41.823Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'Kep1er' 나!왔어✋🏻 l 240612]]></title>
-        <id>https://tv.naver.com/v/54243670</id>
-        <link href="https://tv.naver.com/v/54243670"/>
-        <updated>2024-06-12T09:19:41.824Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
     </entry>
 </feed>
