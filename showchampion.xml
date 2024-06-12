@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-12T09:19:54.032Z</updated>
+    <updated>2024-06-12T10:19:11.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 6월 2주 챔피언송 ＜Kep1er - Shooting Star＞ 앵콜 Full ver. l Show Champion l EP.521 l 240612]]></title>
+        <id>https://tv.naver.com/v/54261061</id>
+        <link href="https://tv.naver.com/v/54261061"/>
+        <updated>2024-06-12T10:19:01.299Z</updated>
+        <content type="html"><![CDATA[05:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웨이션브이(WayV) - Give Me That (Korean Ver.) l 240612]]></title>
         <id>https://tv.naver.com/v/54249341</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/54243670"/>
         <updated>2024-06-12T09:19:41.824Z</updated>
         <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이브(Yves) - LOOP (feat. Lil Cherry) l 240612]]></title>
-        <id>https://tv.naver.com/v/54242567</id>
-        <link href="https://tv.naver.com/v/54242567"/>
-        <updated>2024-06-12T09:19:41.825Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
     </entry>
 </feed>
