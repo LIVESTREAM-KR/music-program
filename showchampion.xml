@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-12T07:17:22.282Z</updated>
+    <updated>2024-06-12T08:22:43.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수피아(SPIA) - Deeeep l 240612]]></title>
+        <id>https://tv.naver.com/v/54239553</id>
+        <link href="https://tv.naver.com/v/54239553"/>
+        <updated>2024-06-12T08:22:31.452Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이몬드(I:MOND) - Slippery l 240612]]></title>
+        <id>https://tv.naver.com/v/54238630</id>
+        <link href="https://tv.naver.com/v/54238630"/>
+        <updated>2024-06-12T08:22:31.453Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] WayV를 믿기 vs 쇼챔피언을 믿기]]></title>
         <id>https://tv.naver.com/v/53773623</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/52594317"/>
         <updated>2024-06-06T08:22:22.269Z</updated>
         <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JD1(제이디원) - ERROR 405 | Show Champion | EP.520 | 240605]]></title>
-        <id>https://tv.naver.com/v/52594327</id>
-        <link href="https://tv.naver.com/v/52594327"/>
-        <updated>2024-06-06T08:22:22.270Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JD1(제이디원) - ERROR 405 | Show Champion | EP.520 | 240605]]></title>
-        <id>https://tv.naver.com/v/52594323</id>
-        <link href="https://tv.naver.com/v/52594323"/>
-        <updated>2024-06-06T08:22:22.271Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>

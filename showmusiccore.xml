@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-12T07:17:22.307Z</updated>
+    <updated>2024-06-12T08:22:43.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] IVE (아이브) - HEYA | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/53975260</id>
+        <link href="https://tv.naver.com/v/53975260"/>
+        <updated>2024-06-12T08:22:05.883Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예능연구소] ATEEZ JONGHO (에이티즈 종호) - WORK 직캠 | 쇼! 음악중심 | MBC240608방송]]></title>
         <id>https://tv.naver.com/v/53946116</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/53876915"/>
         <updated>2024-06-11T02:33:52.650Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS DOHOON (투어스 도훈) - hey! hey! | 쇼! 음악중심 | MBC240608방송]]></title>
-        <id>https://tv.naver.com/v/53787324</id>
-        <link href="https://tv.naver.com/v/53787324"/>
-        <updated>2024-06-10T08:23:01.976Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
 </feed>
