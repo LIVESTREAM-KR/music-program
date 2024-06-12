@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-12T03:20:33.051Z</updated>
+    <updated>2024-06-12T04:21:26.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[점선면 (1 to 3) - 수호 | KBS 240607 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[04:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#복면가왕] 남다른 독기로 무대까지 접수한 서바이벌 장인 🥊 가수 노태현이 부르는 《씨스루》 《미워요》 | #노태현 #엠비셔 MBC240609방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/53761320</id>
+        <link href="https://tv.naver.com/v/53761320"/>
+        <updated>2024-06-12T04:21:26.065Z</updated>
+        <content type="html"><![CDATA[15:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미안해.. 댄서라고만 생각해서.., MBC 240609 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/53969212</id>
         <link href="https://tv.naver.com/v/53969212"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/53551086"/>
         <updated>2024-06-09T11:14:16.509Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['플로피디스크'의 정체는 가수 노태현!, MBC 240609 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/53550095</id>
-        <link href="https://tv.naver.com/v/53550095"/>
-        <updated>2024-06-09T11:14:16.510Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
