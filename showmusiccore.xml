@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-13T08:22:53.368Z</updated>
+    <updated>2024-06-13T09:20:12.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[직캠 보고서🔍] '새장 안에 갇힌 새' 아는 밈 천재 5세대 아이돌🐤 #TWS #shorts]]></title>
+        <id>https://tv.naver.com/v/54471013</id>
+        <link href="https://tv.naver.com/v/54471013"/>
+        <updated>2024-06-13T09:19:40.731Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 웨이즈니의 사랑이자 자랑인 웨이션브이가 뜨면 비가 멈추고 해가 뜬다☀️ #WayV 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/54424456</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/53944291"/>
         <updated>2024-06-11T06:24:06.850Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ HONGJOONG (에이티즈 홍중) - WORK 직캠 | 쇼! 음악중심 | MBC240608방송]]></title>
-        <id>https://tv.naver.com/v/53944284</id>
-        <link href="https://tv.naver.com/v/53944284"/>
-        <updated>2024-06-11T06:24:06.851Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
