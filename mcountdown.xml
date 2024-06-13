@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-06-13T11:16:49.893Z</updated>
+    <updated>2024-06-13T12:33:58.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -69,10 +69,10 @@
         <content type="html"><![CDATA[02:44]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - GLOW | Mnet 240613 방송]]></title>
-        <id>https://tv.naver.com/v/54476092</id>
-        <link href="https://tv.naver.com/v/54476092"/>
-        <updated>2024-06-13T11:16:26.551Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
+        <title type="html"><![CDATA[케플러 (Kep1er) - Shooting Star | Mnet 240613 방송]]></title>
+        <id>https://tv.naver.com/v/54476096</id>
+        <link href="https://tv.naver.com/v/54476096"/>
+        <updated>2024-06-13T12:33:34.821Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
