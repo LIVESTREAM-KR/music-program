@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-14T07:18:06.144Z</updated>
+    <updated>2024-06-14T08:22:02.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] aespa (에스파) - Supernova | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/54221542</id>
+        <link href="https://tv.naver.com/v/54221542"/>
+        <updated>2024-06-14T08:21:26.171Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] Shooting Star💫처럼 반짝이는 짱플러의 순간을 담아따랏따따따아아📸 #Kep1er 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/54474176</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/53945175"/>
         <updated>2024-06-11T06:24:06.845Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ATEEZ SEONGHWA (에이티즈 성화) - WORK | 쇼! 음악중심 | MBC240608방송]]></title>
-        <id>https://tv.naver.com/v/53945171</id>
-        <link href="https://tv.naver.com/v/53945171"/>
-        <updated>2024-06-11T06:24:06.848Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
