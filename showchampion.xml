@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-14T01:16:01.896Z</updated>
+    <updated>2024-06-14T02:34:48.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.521 | 240612]]></title>
+        <id>https://tv.naver.com/v/54405211</id>
+        <link href="https://tv.naver.com/v/54405211"/>
+        <updated>2024-06-14T02:34:36.982Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] cignature(시그니처) - I like I like | Show Champion | EP.521 | 240612]]></title>
         <id>https://tv.naver.com/v/54455528</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/54252399"/>
         <updated>2024-06-12T13:21:06.435Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BADVILLAIN HU'E(배드빌런 휴이) - BADVILLAIN | Show Champion | EP.521 | 240612]]></title>
-        <id>https://tv.naver.com/v/54252396</id>
-        <link href="https://tv.naver.com/v/54252396"/>
-        <updated>2024-06-12T13:21:06.436Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
