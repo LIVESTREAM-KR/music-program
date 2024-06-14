@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-14T04:21:45.543Z</updated>
+    <updated>2024-06-14T05:17:30.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] Shooting Star💫처럼 반짝이는 짱플러의 순간을 담아따랏따따따아아📸 #Kep1er 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/54474176</id>
+        <link href="https://tv.naver.com/v/54474176"/>
+        <updated>2024-06-14T05:16:55.507Z</updated>
+        <content type="html"><![CDATA[07:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] Super Shy 내향어스의 음중 사녹 도전기😂💖 #TWS 사전녹화 비하인드⏯]]></title>
         <id>https://tv.naver.com/v/54471659</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/53945171</id>
         <link href="https://tv.naver.com/v/53945171"/>
         <updated>2024-06-11T06:24:06.848Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예능연구소] ATEEZ YEOSANG (에이티즈 여상) - WORK 직캠 | 쇼! 음악중심 | MBC240608방송]]></title>
-        <id>https://tv.naver.com/v/53944300</id>
-        <link href="https://tv.naver.com/v/53944300"/>
-        <updated>2024-06-11T06:24:06.849Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
