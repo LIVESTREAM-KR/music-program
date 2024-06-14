@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-06-13T23:18:09.120Z</updated>
+    <updated>2024-06-14T01:16:01.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,20 +11,6 @@
         <link href="https://tv.naver.com/v/53761320"/>
         <updated>2024-06-12T04:21:26.065Z</updated>
         <content type="html"><![CDATA[15:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미안해.. 댄서라고만 생각해서.., MBC 240609 방송]]></title>
-        <id>https://tv.naver.com/v/53969212</id>
-        <link href="https://tv.naver.com/v/53969212"/>
-        <updated>2024-06-12T03:20:32.479Z</updated>
-        <content type="html"><![CDATA[00:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태양의 춤 선생님(?) 최신 근황, MBC 240609 방송]]></title>
-        <id>https://tv.naver.com/v/53969207</id>
-        <link href="https://tv.naver.com/v/53969207"/>
-        <updated>2024-06-11T23:17:36.102Z</updated>
-        <content type="html"><![CDATA[00:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 💥절도 있는 춤선의 매력 부자✨ R.ef 성대현 하이라이트!, MBC 240609 방송]]></title>
@@ -48,13 +34,6 @@
         <content type="html"><![CDATA[10:11]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[90년대 아이돌 라이브 폼 미쳤다!, MBC 240609 방송]]></title>
-        <id>https://tv.naver.com/v/53968177</id>
-        <link href="https://tv.naver.com/v/53968177"/>
-        <updated>2024-06-11T09:20:44.488Z</updated>
-        <content type="html"><![CDATA[00:58]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[＜가왕 '헤라클레스'의 첫 방어전🦁 징크스를 뚫고 연승에 성공할 수 있을지?!🤔＞ 복면가왕 455회 예고, MBC 240616 방송]]></title>
         <id>https://tv.naver.com/v/53553493</id>
         <link href="https://tv.naver.com/v/53553493"/>
@@ -74,5 +53,26 @@
         <link href="https://tv.naver.com/v/53551086"/>
         <updated>2024-06-09T11:14:16.509Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['플로피디스크'의 정체는 가수 노태현!, MBC 240609 방송]]></title>
+        <id>https://tv.naver.com/v/53550095</id>
+        <link href="https://tv.naver.com/v/53550095"/>
+        <updated>2024-06-14T01:16:01.326Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그 시절 감성이 물씬! '플로피디스크' & '비디오테이프'가 보여주는 합동 복고 댄스🕺, MBC 240609 방송]]></title>
+        <id>https://tv.naver.com/v/53550090</id>
+        <link href="https://tv.naver.com/v/53550090"/>
+        <updated>2024-06-14T01:16:01.328Z</updated>
+        <content type="html"><![CDATA[01:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['플로피디스크' VS '비디오테이프'의 1라운드 무대 - 씨스루, MBC 240609 방송]]></title>
+        <id>https://tv.naver.com/v/53548424</id>
+        <link href="https://tv.naver.com/v/53548424"/>
+        <updated>2024-06-14T01:16:01.329Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
