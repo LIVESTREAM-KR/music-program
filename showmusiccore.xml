@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-15T07:18:09.949Z</updated>
+    <updated>2024-06-15T08:21:57.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 에이티즈 - WORK (ATEEZ - WORK), MBC 240608 방송]]></title>
+        <id>https://tv.naver.com/v/54795066</id>
+        <link href="https://tv.naver.com/v/54795066"/>
+        <updated>2024-06-15T08:21:22.147Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜X교차》 제로베이스원 - Feel the POP (ZEROBASEONE - Feel the POP), MBC 240601 방송]]></title>
+        <id>https://tv.naver.com/v/54795053</id>
+        <link href="https://tv.naver.com/v/54795053"/>
+        <updated>2024-06-15T08:21:22.148Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼주니어 - Show Time (SUPER JUNIOR - Show Time), MBC 240615 방송]]></title>
+        <id>https://tv.naver.com/v/54792142</id>
+        <link href="https://tv.naver.com/v/54792142"/>
+        <updated>2024-06-15T08:21:22.148Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선미 - Balloon in Love (SUNMI - Balloon in Love), MBC 240615 방송]]></title>
+        <id>https://tv.naver.com/v/54791240</id>
+        <link href="https://tv.naver.com/v/54791240"/>
+        <updated>2024-06-15T08:21:22.149Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나연 - ABCD (NAYEON - ABCD), MBC 240615 방송]]></title>
+        <id>https://tv.naver.com/v/54789636</id>
+        <link href="https://tv.naver.com/v/54789636"/>
+        <updated>2024-06-15T08:21:22.149Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웨이션브이 - Give Me That (Korean Ver.) (WayV - Give Me That (Korean Ver.)), MBC 240615 방송]]></title>
+        <id>https://tv.naver.com/v/54789632</id>
+        <link href="https://tv.naver.com/v/54789632"/>
+        <updated>2024-06-15T08:21:22.149Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니콜 - 5!6!7!8! (NICOLE - 5!6!7!8!), MBC 240615 방송]]></title>
+        <id>https://tv.naver.com/v/54788492</id>
+        <link href="https://tv.naver.com/v/54788492"/>
+        <updated>2024-06-15T08:21:22.152Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에버글로우 - ZOMBIE (EVERGLOW - ZOMBIE), MBC 240615 방송]]></title>
+        <id>https://tv.naver.com/v/54788484</id>
+        <link href="https://tv.naver.com/v/54788484"/>
+        <updated>2024-06-15T08:21:22.153Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엠씨엔디 - X10 (MCND - X10), MBC 240615 방송]]></title>
         <id>https://tv.naver.com/v/54786696</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/54785883"/>
         <updated>2024-06-15T07:17:34.519Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이브 - LOOP (Yves - LOOP), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54785864</id>
-        <link href="https://tv.naver.com/v/54785864"/>
-        <updated>2024-06-15T07:17:34.521Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시그니처 - 풍덩 (cignature - Poongdung), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54785848</id>
-        <link href="https://tv.naver.com/v/54785848"/>
-        <updated>2024-06-15T07:17:34.522Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판타지 보이즈 - 분명 그녀가 나를 보고 웃잖아 (FANTASY BOYS - Pitter-Patter-Love), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54784929</id>
-        <link href="https://tv.naver.com/v/54784929"/>
-        <updated>2024-06-15T07:17:34.524Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배드빌런 - BADVILLAIN (BADVILLAIN - BADVILLAIN), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54783236</id>
-        <link href="https://tv.naver.com/v/54783236"/>
-        <updated>2024-06-15T07:17:34.526Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박혜원 - 가장 찬란한 빛으로 쏟아지는 (HYNN - Glowing Light), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54782328</id>
-        <link href="https://tv.naver.com/v/54782328"/>
-        <updated>2024-06-15T07:17:34.527Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘브 - KICK IT (WHIB - KICK IT), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54782317</id>
-        <link href="https://tv.naver.com/v/54782317"/>
-        <updated>2024-06-15T07:17:34.529Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트렌드지 - GLOW (TRENDZ - GLOW), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54781412</id>
-        <link href="https://tv.naver.com/v/54781412"/>
-        <updated>2024-06-15T07:17:34.530Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캔디샵 - Don't Cry (Candy Shop - Don't Cry), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54781404</id>
-        <link href="https://tv.naver.com/v/54781404"/>
-        <updated>2024-06-15T07:17:34.532Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
     </entry>
 </feed>
