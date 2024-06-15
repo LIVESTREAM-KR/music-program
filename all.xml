@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-15T12:32:07.979Z</updated>
+    <updated>2024-06-15T13:19:11.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송 (뮤직뱅크)]]></title>
@@ -117,18 +117,18 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#음중풀캠] MCND (엠씨엔디) – X10 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54825807</id>
-        <link href="https://tv.naver.com/v/54825807"/>
-        <updated>2024-06-15T11:14:50.708Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[#음중직캠] FANTASY BOYS KIM WOOSEOK (판타지 보이즈 김우석) – 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/54825809</id>
         <link href="https://tv.naver.com/v/54825809"/>
         <updated>2024-06-15T11:14:50.707Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중풀캠] MCND (엠씨엔디) – X10 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/54825807</id>
+        <link href="https://tv.naver.com/v/54825807"/>
+        <updated>2024-06-15T11:14:50.708Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] BADVILLAIN Chloe Young (배드빌런 클로이 영) - BADVILLAIN 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
