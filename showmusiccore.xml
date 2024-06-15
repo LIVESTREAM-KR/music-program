@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-15T08:21:57.004Z</updated>
+    <updated>2024-06-15T09:18:15.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] NAYEON (나연) – ABCD 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/54808236</id>
+        <link href="https://tv.naver.com/v/54808236"/>
+        <updated>2024-06-15T09:17:40.922Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[음중풀캠] NAYEON (나연) – ABCD 풀캠 | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/54808234</id>
+        <link href="https://tv.naver.com/v/54808234"/>
+        <updated>2024-06-15T09:17:40.922Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중풀캠] SUPER JUNIOR (슈퍼주니어) – Show Time 풀캠 | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/54805666</id>
+        <link href="https://tv.naver.com/v/54805666"/>
+        <updated>2024-06-15T09:17:40.924Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜X교차》 에이티즈 - WORK (ATEEZ - WORK), MBC 240608 방송]]></title>
         <id>https://tv.naver.com/v/54795066</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/54788492"/>
         <updated>2024-06-15T08:21:22.152Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에버글로우 - ZOMBIE (EVERGLOW - ZOMBIE), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54788484</id>
-        <link href="https://tv.naver.com/v/54788484"/>
-        <updated>2024-06-15T08:21:22.153Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엠씨엔디 - X10 (MCND - X10), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54786696</id>
-        <link href="https://tv.naver.com/v/54786696"/>
-        <updated>2024-06-15T07:17:34.517Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 - Shooting Star (Kep1er - Shooting Star), MBC 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54785883</id>
-        <link href="https://tv.naver.com/v/54785883"/>
-        <updated>2024-06-15T07:17:34.519Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
