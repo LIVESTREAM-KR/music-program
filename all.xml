@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-15T14:16:47.227Z</updated>
+    <updated>2024-06-15T15:19:03.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#음중직캠] Kep1er HUENING BAHIYYIH (케플러 휴닝바히에) - Shooting Star 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/54865132</id>
+        <link href="https://tv.naver.com/v/54865132"/>
+        <updated>2024-06-15T15:18:28.714Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중풀캠] BADVILLAIN (배드빌런) – BADVILLAIN 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/54864131</id>
+        <link href="https://tv.naver.com/v/54864131"/>
+        <updated>2024-06-15T15:18:28.718Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] Kep1er XIAOTING (케플러 샤오팅) - Shooting Star | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/54837281</id>
         <link href="https://tv.naver.com/v/54837281"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/54825807"/>
         <updated>2024-06-15T11:14:50.708Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] BADVILLAIN Chloe Young (배드빌런 클로이 영) - BADVILLAIN 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54819320</id>
-        <link href="https://tv.naver.com/v/54819320"/>
-        <updated>2024-06-15T10:18:50.333Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] BADVILLAIN EMMA (배드빌런 엠마) - BADVILLAIN 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54819313</id>
-        <link href="https://tv.naver.com/v/54819313"/>
-        <updated>2024-06-15T10:18:50.334Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240526 방송 (인기가요)]]></title>
