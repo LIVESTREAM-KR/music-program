@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-15T11:15:25.731Z</updated>
+    <updated>2024-06-15T12:32:07.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,41 @@
         <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] Kep1er XIAOTING (케플러 샤오팅) - Shooting Star | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/54837281</id>
+        <link href="https://tv.naver.com/v/54837281"/>
+        <updated>2024-06-15T12:31:36.153Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중풀캠] Kep1er (케플러) – Shooting Star 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/54837276</id>
+        <link href="https://tv.naver.com/v/54837276"/>
+        <updated>2024-06-15T12:31:36.154Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Kep1er MASHIRO (케플러 마시로) - Shooting Star 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/54836375</id>
+        <link href="https://tv.naver.com/v/54836375"/>
+        <updated>2024-06-15T12:31:36.155Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Kep1er YUJIN (케플러 최유진) - Shooting Star 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/54836372</id>
+        <link href="https://tv.naver.com/v/54836372"/>
+        <updated>2024-06-15T12:31:36.157Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] FANTASY BOYS HONG SUNGMIN (판타지 보이즈 홍성민) - 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/54831586</id>
+        <link href="https://tv.naver.com/v/54831586"/>
+        <updated>2024-06-15T12:31:36.158Z</updated>
+        <content type="html"><![CDATA[04:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중풀캠] FANTASY BOYS (판타지 보이즈) – FANTASY BOYS 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/54827037</id>
         <link href="https://tv.naver.com/v/54827037"/>
@@ -82,18 +117,18 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#음중직캠] FANTASY BOYS KIM WOOSEOK (판타지 보이즈 김우석) – 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54825809</id>
-        <link href="https://tv.naver.com/v/54825809"/>
-        <updated>2024-06-15T11:14:50.707Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[#음중풀캠] MCND (엠씨엔디) – X10 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/54825807</id>
         <link href="https://tv.naver.com/v/54825807"/>
         <updated>2024-06-15T11:14:50.708Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] FANTASY BOYS KIM WOOSEOK (판타지 보이즈 김우석) – 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/54825809</id>
+        <link href="https://tv.naver.com/v/54825809"/>
+        <updated>2024-06-15T11:14:50.707Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] BADVILLAIN Chloe Young (배드빌런 클로이 영) - BADVILLAIN 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
@@ -108,41 +143,6 @@
         <link href="https://tv.naver.com/v/54819313"/>
         <updated>2024-06-15T10:18:50.334Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] WayV (웨이션브이) – Give Me That 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54813321</id>
-        <link href="https://tv.naver.com/v/54813321"/>
-        <updated>2024-06-15T10:18:50.335Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠8K] SUNMI (선미) – Balloon in Love 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54811795</id>
-        <link href="https://tv.naver.com/v/54811795"/>
-        <updated>2024-06-15T10:18:50.335Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NAYEON (나연) – ABCD 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54808236</id>
-        <link href="https://tv.naver.com/v/54808236"/>
-        <updated>2024-06-15T09:17:40.922Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] NAYEON (나연) – ABCD 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54808234</id>
-        <link href="https://tv.naver.com/v/54808234"/>
-        <updated>2024-06-15T09:17:40.922Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] SUPER JUNIOR (슈퍼주니어) – Show Time 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54805666</id>
-        <link href="https://tv.naver.com/v/54805666"/>
-        <updated>2024-06-15T09:17:40.924Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[aespa - Supernova | SBS 240526 방송 (인기가요)]]></title>
@@ -362,6 +362,13 @@
         <content type="html"><![CDATA[00:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2세대 아이돌의 성숙미 제대로 뽐낸 니콜의 무대🌈 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/54519093</id>
+        <link href="https://tv.naver.com/v/54519093"/>
+        <updated>2024-06-15T12:31:57.005Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[6월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.521 | 240612 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/54405211</id>
         <link href="https://tv.naver.com/v/54405211"/>
@@ -418,11 +425,53 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BADVILLAIN INA(배드빌런 이나) - BADVILLAIN | Show Champion | EP.521 | 240612 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/54253117</id>
-        <link href="https://tv.naver.com/v/54253117"/>
-        <updated>2024-06-12T13:21:06.435Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 662회 ＜아티스트 윤종신2＞  우승자 ⭐정준일⭐ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/54834414</id>
+        <link href="https://tv.naver.com/v/54834414"/>
+        <updated>2024-06-15T12:32:02.103Z</updated>
+        <content type="html"><![CDATA[00:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] 스크린을 넘어 무대로! 여름특집 1탄✨ 배우의 명곡! | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/54830644</id>
+        <link href="https://tv.naver.com/v/54830644"/>
+        <updated>2024-06-15T12:32:02.109Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주인을 찾아간 곡 비하인드🎧 윤종신이 전하는 메시지✉️ | KBS 240615 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/54829952</id>
+        <link href="https://tv.naver.com/v/54829952"/>
+        <updated>2024-06-15T12:32:02.110Z</updated>
+        <content type="html"><![CDATA[05:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정준일 – 넌 감동이었어 | KBS 240615 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/54829734</id>
+        <link href="https://tv.naver.com/v/54829734"/>
+        <updated>2024-06-15T12:32:02.112Z</updated>
+        <content type="html"><![CDATA[05:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼키지 못한 정준일의 눈물😭 온전한 떨림이 닿은 무대! | KBS 240615 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/54828678</id>
+        <link href="https://tv.naver.com/v/54828678"/>
+        <updated>2024-06-15T12:32:02.113Z</updated>
+        <content type="html"><![CDATA[02:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노래로 다시 무대에 서는 정준일의 각오! 선곡과 피아노 연주까지🎹 | KBS 240615 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/54828663</id>
+        <link href="https://tv.naver.com/v/54828663"/>
+        <updated>2024-06-15T12:32:02.114Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종호(ATEEZ) – 내일 할 일 | KBS 240615 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/54828655</id>
+        <link href="https://tv.naver.com/v/54828655"/>
+        <updated>2024-06-15T12:32:02.115Z</updated>
+        <content type="html"><![CDATA[04:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[호소력 짙은 종호의 무대😍 윤종신이 본 세 버전의 〈내일 할 일〉 | KBS 240615 방송 (불후의 명곡)]]></title>
@@ -444,55 +493,6 @@
         <link href="https://tv.naver.com/v/54826888"/>
         <updated>2024-06-15T11:15:19.365Z</updated>
         <content type="html"><![CDATA[06:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군대에서 성사된 계약 비하인드? 마음을 울리는 포르테나 보이스💓 | KBS 240615 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/54825889</id>
-        <link href="https://tv.naver.com/v/54825889"/>
-        <updated>2024-06-15T11:15:19.366Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칭찬 일색? 정준일의 포르테나 무대 감상평🤣 | KBS 240615 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/54825837</id>
-        <link href="https://tv.naver.com/v/54825837"/>
-        <updated>2024-06-15T11:15:19.367Z</updated>
-        <content type="html"><![CDATA[01:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금의 포르테나를 만든 종신의 힘? 포르테나의 선곡🎼 | KBS 240615 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/54823281</id>
-        <link href="https://tv.naver.com/v/54823281"/>
-        <updated>2024-06-15T11:15:19.368Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JD1과 오스틴의 팔씨름 대회 스타트! 완력킹 종호😮 | KBS 240615 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/54820920</id>
-        <link href="https://tv.naver.com/v/54820920"/>
-        <updated>2024-06-15T11:15:19.369Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤비급 MC 김준현과의 팔씨름 배틀💪🏻 과연 승자는?! | KBS 240615 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/54820908</id>
-        <link href="https://tv.naver.com/v/54820908"/>
-        <updated>2024-06-15T11:15:19.372Z</updated>
-        <content type="html"><![CDATA[01:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해피 바이러스 육중완!😄 작업 욕심나는 솔지의 무대 감상평🔥 | KBS 240615 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/54820163</id>
-        <link href="https://tv.naver.com/v/54820163"/>
-        <updated>2024-06-15T10:19:19.502Z</updated>
-        <content type="html"><![CDATA[05:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔지 오빠를 찾아라?! 우승 유력 후보가 된 솔지의 무대!♪♬ | KBS 240615 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/54819544</id>
-        <link href="https://tv.naver.com/v/54819544"/>
-        <updated>2024-06-15T10:19:19.504Z</updated>
-        <content type="html"><![CDATA[01:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 남다른 독기로 무대까지 접수한 서바이벌 장인 🥊 가수 노태현이 부르는 《씨스루》 《미워요》 | #노태현 #엠비셔 MBC240609방송 (복면가왕)]]></title>

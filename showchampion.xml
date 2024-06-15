@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-15T11:15:25.725Z</updated>
+    <updated>2024-06-15T12:32:07.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/54519163"/>
         <updated>2024-06-14T12:33:36.387Z</updated>
         <content type="html"><![CDATA[00:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2세대 아이돌의 성숙미 제대로 뽐낸 니콜의 무대🌈]]></title>
+        <id>https://tv.naver.com/v/54519093</id>
+        <link href="https://tv.naver.com/v/54519093"/>
+        <updated>2024-06-15T12:31:57.005Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.521 | 240612]]></title>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/54254111</id>
         <link href="https://tv.naver.com/v/54254111"/>
         <updated>2024-06-12T13:21:06.434Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BADVILLAIN INA(배드빌런 이나) - BADVILLAIN | Show Champion | EP.521 | 240612]]></title>
-        <id>https://tv.naver.com/v/54253117</id>
-        <link href="https://tv.naver.com/v/54253117"/>
-        <updated>2024-06-12T13:21:06.435Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>

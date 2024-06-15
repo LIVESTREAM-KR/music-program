@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-15T11:15:25.746Z</updated>
+    <updated>2024-06-15T12:32:07.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Kep1er XIAOTING (케플러 샤오팅) - Shooting Star | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/54837281</id>
+        <link href="https://tv.naver.com/v/54837281"/>
+        <updated>2024-06-15T12:31:36.153Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중풀캠] Kep1er (케플러) – Shooting Star 풀캠 | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/54837276</id>
+        <link href="https://tv.naver.com/v/54837276"/>
+        <updated>2024-06-15T12:31:36.154Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Kep1er MASHIRO (케플러 마시로) - Shooting Star 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/54836375</id>
+        <link href="https://tv.naver.com/v/54836375"/>
+        <updated>2024-06-15T12:31:36.155Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Kep1er YUJIN (케플러 최유진) - Shooting Star 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/54836372</id>
+        <link href="https://tv.naver.com/v/54836372"/>
+        <updated>2024-06-15T12:31:36.157Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] FANTASY BOYS HONG SUNGMIN (판타지 보이즈 홍성민) - 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/54831586</id>
+        <link href="https://tv.naver.com/v/54831586"/>
+        <updated>2024-06-15T12:31:36.158Z</updated>
+        <content type="html"><![CDATA[04:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중풀캠] FANTASY BOYS (판타지 보이즈) – FANTASY BOYS 풀캠 | 쇼! 음악중심 | MBC240615방송]]></title>
         <id>https://tv.naver.com/v/54827037</id>
@@ -13,18 +48,18 @@
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#음중직캠] FANTASY BOYS KIM WOOSEOK (판타지 보이즈 김우석) – 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
-        <id>https://tv.naver.com/v/54825809</id>
-        <link href="https://tv.naver.com/v/54825809"/>
-        <updated>2024-06-15T11:14:50.707Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[#음중풀캠] MCND (엠씨엔디) – X10 풀캠 | 쇼! 음악중심 | MBC240615방송]]></title>
         <id>https://tv.naver.com/v/54825807</id>
         <link href="https://tv.naver.com/v/54825807"/>
         <updated>2024-06-15T11:14:50.708Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] FANTASY BOYS KIM WOOSEOK (판타지 보이즈 김우석) – 분명 그녀가 나를 보고 웃잖아 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/54825809</id>
+        <link href="https://tv.naver.com/v/54825809"/>
+        <updated>2024-06-15T11:14:50.707Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] BADVILLAIN Chloe Young (배드빌런 클로이 영) - BADVILLAIN 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/54819313"/>
         <updated>2024-06-15T10:18:50.334Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] WayV (웨이션브이) – Give Me That 풀캠 | 쇼! 음악중심 | MBC240615방송]]></title>
-        <id>https://tv.naver.com/v/54813321</id>
-        <link href="https://tv.naver.com/v/54813321"/>
-        <updated>2024-06-15T10:18:50.335Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠8K] SUNMI (선미) – Balloon in Love 풀캠 | 쇼! 음악중심 | MBC240615방송]]></title>
-        <id>https://tv.naver.com/v/54811795</id>
-        <link href="https://tv.naver.com/v/54811795"/>
-        <updated>2024-06-15T10:18:50.335Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NAYEON (나연) – ABCD 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
-        <id>https://tv.naver.com/v/54808236</id>
-        <link href="https://tv.naver.com/v/54808236"/>
-        <updated>2024-06-15T09:17:40.922Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] NAYEON (나연) – ABCD 풀캠 | 쇼! 음악중심 | MBC240615방송]]></title>
-        <id>https://tv.naver.com/v/54808234</id>
-        <link href="https://tv.naver.com/v/54808234"/>
-        <updated>2024-06-15T09:17:40.922Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] SUPER JUNIOR (슈퍼주니어) – Show Time 풀캠 | 쇼! 음악중심 | MBC240615방송]]></title>
-        <id>https://tv.naver.com/v/54805666</id>
-        <link href="https://tv.naver.com/v/54805666"/>
-        <updated>2024-06-15T09:17:40.924Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
