@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-17T08:23:39.677Z</updated>
+    <updated>2024-06-17T09:20:22.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고]  난 쇼챔을 보면 티라미수 케잌~]]></title>
+        <id>https://tv.naver.com/v/55264269</id>
+        <link href="https://tv.naver.com/v/55264269"/>
+        <updated>2024-06-17T09:20:10.494Z</updated>
+        <content type="html"><![CDATA[00:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스우파 출신 엠마의 독보적인 춤선🔥]]></title>
         <id>https://tv.naver.com/v/54519163</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/54256288</id>
         <link href="https://tv.naver.com/v/54256288"/>
         <updated>2024-06-12T13:21:06.430Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BADVILLAIN KELLY(배드빌런 켈리) - BADVILLAIN | Show Champion | EP.521 | 240612]]></title>
-        <id>https://tv.naver.com/v/54254111</id>
-        <link href="https://tv.naver.com/v/54254111"/>
-        <updated>2024-06-12T13:21:06.434Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
