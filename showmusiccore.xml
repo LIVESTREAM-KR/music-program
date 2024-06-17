@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-17T09:20:22.842Z</updated>
+    <updated>2024-06-17T10:20:44.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NAYEON (나연) – ABCD | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/55307389</id>
+        <link href="https://tv.naver.com/v/55307389"/>
+        <updated>2024-06-17T10:20:12.922Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] WayV XIAOJUN (웨이션브이 샤오쥔) - Give Me That 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
         <id>https://tv.naver.com/v/55278045</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/54864131"/>
         <updated>2024-06-15T15:18:28.718Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] Kep1er XIAOTING (케플러 샤오팅) - Shooting Star | 쇼! 음악중심 | MBC240615방송]]></title>
-        <id>https://tv.naver.com/v/54837281</id>
-        <link href="https://tv.naver.com/v/54837281"/>
-        <updated>2024-06-15T12:31:36.153Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
