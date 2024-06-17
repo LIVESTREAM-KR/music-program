@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-17T04:22:36.391Z</updated>
+    <updated>2024-06-17T05:21:07.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 , 6월 셋째 주 음악중심 MC 컷 모음!, MBC 240615 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/55243694</id>
+        <link href="https://tv.naver.com/v/55243694"/>
+        <updated>2024-06-17T05:20:31.334Z</updated>
+        <content type="html"><![CDATA[14:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] Kep1er HUENING BAHIYYIH (케플러 휴닝바히에) - Shooting Star 직캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/54865132</id>
         <link href="https://tv.naver.com/v/54865132"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/54825809"/>
         <updated>2024-06-15T11:14:50.707Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] MCND (엠씨엔디) – X10 풀캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/54825807</id>
-        <link href="https://tv.naver.com/v/54825807"/>
-        <updated>2024-06-15T11:14:50.708Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼주니어 - Show Time | SBS 240616 방송 (인기가요)]]></title>
