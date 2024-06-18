@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-18T11:16:17.588Z</updated>
+    <updated>2024-06-18T12:34:18.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[케플러(Kep1er)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/55594524</id>
+        <link href="https://tv.naver.com/v/55594524"/>
+        <updated>2024-06-18T12:33:54.628Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 선미 - Balloon in Love | Mnet 240613 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/54478082</id>
         <link href="https://tv.naver.com/v/54478082"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/54476304"/>
         <updated>2024-06-13T11:16:26.550Z</updated>
         <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 (Kep1er) - Shooting Star | Mnet 240613 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/54476096</id>
-        <link href="https://tv.naver.com/v/54476096"/>
-        <updated>2024-06-13T12:33:34.821Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
