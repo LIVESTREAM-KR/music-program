@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-06-19T08:23:30.392Z</updated>
+    <updated>2024-06-19T09:22:35.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥압도적인 성량과 유니크한 목소리✨ 가수 키코 하이라이트!, MBC 240616 방송]]></title>
+        <id>https://tv.naver.com/v/55811125</id>
+        <link href="https://tv.naver.com/v/55811125"/>
+        <updated>2024-06-19T09:22:35.289Z</updated>
+        <content type="html"><![CDATA[12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 💕맑고 청아한 음색의 인간 비타민🍓 가수 츄 하이라이트!, MBC 240616 방송]]></title>
+        <id>https://tv.naver.com/v/55811115</id>
+        <link href="https://tv.naver.com/v/55811115"/>
+        <updated>2024-06-19T09:22:35.293Z</updated>
+        <content type="html"><![CDATA[10:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨국내 최초 콘트랄토 성악가🎵 포르테나 오스틴킴 하이라이트!, MBC 240616 방송]]></title>
+        <id>https://tv.naver.com/v/55811111</id>
+        <link href="https://tv.naver.com/v/55811111"/>
+        <updated>2024-06-19T09:22:35.293Z</updated>
+        <content type="html"><![CDATA[11:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 보기만 해도 상큼함 1020배 😆 가수 츄가 부르는 《날 위한 이별》 《환생》 | #츄 #김지우 MBC240616방송]]></title>
         <id>https://tv.naver.com/v/55259285</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/55061591"/>
         <updated>2024-06-16T10:19:00.327Z</updated>
         <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비디오테이프'의 정체는 가수 가희!, MBC 240616 방송]]></title>
-        <id>https://tv.naver.com/v/55061568</id>
-        <link href="https://tv.naver.com/v/55061568"/>
-        <updated>2024-06-16T10:19:00.334Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개그 코너 ＜키 컸으면＞과 관련된 '여왕의 기품'?😲 최측근 이영지가 주는 힌트, MBC 240616 방송]]></title>
-        <id>https://tv.naver.com/v/55060565</id>
-        <link href="https://tv.naver.com/v/55060565"/>
-        <updated>2024-06-16T10:19:00.334Z</updated>
-        <content type="html"><![CDATA[01:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감각적인 포즈✨ '비디오테이프'의 모델 포즈 댄스, MBC 240616 방송]]></title>
-        <id>https://tv.naver.com/v/55060557</id>
-        <link href="https://tv.naver.com/v/55060557"/>
-        <updated>2024-06-16T10:19:00.334Z</updated>
-        <content type="html"><![CDATA[01:22]]></content>
     </entry>
 </feed>
