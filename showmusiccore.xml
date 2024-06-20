@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-20T04:20:34.657Z</updated>
+    <updated>2024-06-20T05:17:25.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[직캠보고서 미리보기🔍] 이게 트와이스야~ 나연웅니 응원하러 온 지효☘️]]></title>
+        <id>https://tv.naver.com/v/56018028</id>
+        <link href="https://tv.naver.com/v/56018028"/>
+        <updated>2024-06-20T05:16:53.566Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] tripleS (트리플에스) - Girls Never Die | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/55781615</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/55243694"/>
         <updated>2024-06-17T05:20:31.334Z</updated>
         <content type="html"><![CDATA[14:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Kep1er HUENING BAHIYYIH (케플러 휴닝바히에) - Shooting Star 직캠 | 쇼! 음악중심 | MBC240615방송]]></title>
-        <id>https://tv.naver.com/v/54865132</id>
-        <link href="https://tv.naver.com/v/54865132"/>
-        <updated>2024-06-15T15:18:28.714Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
