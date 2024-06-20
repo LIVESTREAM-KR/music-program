@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-20T05:17:25.153Z</updated>
+    <updated>2024-06-20T06:24:56.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 역대급 돌판 센터 퀸나연의 컴백이라😎 (+지효 응원왔죠💖) #NAYEON 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/56020013</id>
+        <link href="https://tv.naver.com/v/56020013"/>
+        <updated>2024-06-20T06:24:22.911Z</updated>
+        <content type="html"><![CDATA[07:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[직캠보고서 미리보기🔍] 이게 트와이스야~ 나연웅니 응원하러 온 지효☘️ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/56018028</id>
         <link href="https://tv.naver.com/v/56018028"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/55269999"/>
         <updated>2024-06-17T07:17:17.521Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 , 6월 셋째 주 음악중심 MC 컷 모음!, MBC 240615 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/55243694</id>
-        <link href="https://tv.naver.com/v/55243694"/>
-        <updated>2024-06-17T05:20:31.334Z</updated>
-        <content type="html"><![CDATA[14:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼주니어 - Show Time | SBS 240616 방송 (인기가요)]]></title>
