@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-21T05:18:49.021Z</updated>
+    <updated>2024-06-21T06:25:40.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[#직캠보고서🔍] 웨이션브이 귀엽다고 말해. ???: 귀엽다고. 잘생긴 남자들이 계속 애교부리고 플러팅함🩷 #WayV 사전녹화 비하인드⏯️]]></title>
-        <id>https://tv.naver.com/v/56049530</id>
-        <link href="https://tv.naver.com/v/56049530"/>
-        <updated>2024-06-21T04:21:25.187Z</updated>
-        <content type="html"><![CDATA[10:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 역대급 돌판 센터 퀸나연의 컴백이라😎 (+지효 응원왔죠💖) #NAYEON 사전녹화 비하인드⏯]]></title>
         <id>https://tv.naver.com/v/56020013</id>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/55276030"/>
         <updated>2024-06-17T07:17:17.518Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] MCND WIN (엠씨엔디 윈) – X10 | 쇼! 음악중심 | MBC240615방송]]></title>
+        <id>https://tv.naver.com/v/55269999</id>
+        <link href="https://tv.naver.com/v/55269999"/>
+        <updated>2024-06-21T06:25:05.446Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
