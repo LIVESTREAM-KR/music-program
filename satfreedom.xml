@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-06-21T07:17:48.769Z</updated>
+    <updated>2024-06-21T08:22:27.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 박호산&김준현의 스페셜 무대!🎤 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/56288709</id>
+        <link href="https://tv.naver.com/v/56288709"/>
+        <updated>2024-06-21T08:22:21.208Z</updated>
+        <content type="html"><![CDATA[01:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 662회 ＜아티스트 윤종신2＞  우승자 ⭐정준일⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/54834414</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/54827043"/>
         <updated>2024-06-15T11:15:19.364Z</updated>
         <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테나 – 배웅 | KBS 240615 방송]]></title>
-        <id>https://tv.naver.com/v/54826888</id>
-        <link href="https://tv.naver.com/v/54826888"/>
-        <updated>2024-06-15T11:15:19.365Z</updated>
-        <content type="html"><![CDATA[06:37]]></content>
     </entry>
 </feed>

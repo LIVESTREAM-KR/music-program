@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T07:17:48.773Z</updated>
+    <updated>2024-06-21T08:22:27.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 박호산&김준현의 스페셜 무대!🎤 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/56288709</id>
+        <link href="https://tv.naver.com/v/56288709"/>
+        <updated>2024-06-21T08:22:21.208Z</updated>
+        <content type="html"><![CDATA[01:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 662회 ＜아티스트 윤종신2＞  우승자 ⭐정준일⭐ | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/54834414</id>
         <link href="https://tv.naver.com/v/54834414"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/54827043"/>
         <updated>2024-06-15T11:15:19.364Z</updated>
         <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테나 – 배웅 | KBS 240615 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/54826888</id>
-        <link href="https://tv.naver.com/v/54826888"/>
-        <updated>2024-06-15T11:15:19.365Z</updated>
-        <content type="html"><![CDATA[06:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 🔥압도적인 성량과 유니크한 목소리✨ 가수 키코 하이라이트!, MBC 240616 방송 (복면가왕)]]></title>
