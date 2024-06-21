@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T06:25:40.269Z</updated>
+    <updated>2024-06-21T07:17:48.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Give Me That (Korean Ver.) - WayV | KBS 240614 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ZEROBASEONE (제로베이스원) - Feel the POP | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/55783739</id>
+        <link href="https://tv.naver.com/v/55783739"/>
+        <updated>2024-06-21T07:17:12.815Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 웨이션브이 귀엽다고 말해. ???: 귀엽다고. 잘생긴 남자들이 계속 애교부리고 플러팅함🩷 #WayV 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/56274995</id>
+        <link href="https://tv.naver.com/v/56274995"/>
+        <updated>2024-06-21T07:17:12.815Z</updated>
+        <content type="html"><![CDATA[10:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 역대급 돌판 센터 퀸나연의 컴백이라😎 (+지효 응원왔죠💖) #NAYEON 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/56020013</id>
         <link href="https://tv.naver.com/v/56020013"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/55276033"/>
         <updated>2024-06-17T07:17:17.515Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] WayV KUN (웨이션브이 쿤) - Give Me That 세로캠 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/55276030</id>
-        <link href="https://tv.naver.com/v/55276030"/>
-        <updated>2024-06-17T07:17:17.518Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] MCND WIN (엠씨엔디 윈) – X10 | 쇼! 음악중심 | MBC240615방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/55269999</id>
-        <link href="https://tv.naver.com/v/55269999"/>
-        <updated>2024-06-21T06:25:05.446Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[슈퍼주니어 - Show Time | SBS 240616 방송 (인기가요)]]></title>
