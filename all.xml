@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T11:15:49.440Z</updated>
+    <updated>2024-06-21T12:33:04.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ABCD - 나연(TWICE) | KBS 240621 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[명창 댕댕이의 애드리브 파트🤍💚 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/56022900</id>
+        <link href="https://tv.naver.com/v/56022900"/>
+        <updated>2024-06-21T12:32:52.576Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고]  난 쇼챔을 보면 티라미수 케잌~ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/55264269</id>
         <link href="https://tv.naver.com/v/55264269"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/54264505"/>
         <updated>2024-06-12T13:21:06.429Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BADVILLAIN Chloe Young(배드빌런 클로이 영) - BADVILLAIN | Show Champion | EP.521 | 240612 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/54256288</id>
-        <link href="https://tv.naver.com/v/54256288"/>
-        <updated>2024-06-12T13:21:06.430Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 박호산&김준현의 스페셜 무대!🎤 | KBS 방송 (불후의 명곡)]]></title>
