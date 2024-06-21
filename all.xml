@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T09:19:20.068Z</updated>
+    <updated>2024-06-21T10:19:44.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[ABCD - 나연(TWICE) | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56294088</id>
+        <link href="https://tv.naver.com/v/56294088"/>
+        <updated>2024-06-21T10:19:03.912Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She A Wolf - WayV | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293874</id>
+        <link href="https://tv.naver.com/v/56293874"/>
+        <updated>2024-06-21T10:19:03.916Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SABOTAGE - 권은비 | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293564</id>
+        <link href="https://tv.naver.com/v/56293564"/>
+        <updated>2024-06-21T10:19:03.916Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZOMBIE - EVERGLOW | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293355</id>
+        <link href="https://tv.naver.com/v/56293355"/>
+        <updated>2024-06-21T10:19:03.916Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POM POM POM - WOOAH (우아) | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293352</id>
+        <link href="https://tv.naver.com/v/56293352"/>
+        <updated>2024-06-21T10:19:03.917Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHAT - BAE173 | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56293099</id>
+        <link href="https://tv.naver.com/v/56293099"/>
+        <updated>2024-06-21T10:19:03.917Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Badder Love - EVNNE(이븐) | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56292589</id>
+        <link href="https://tv.naver.com/v/56292589"/>
+        <updated>2024-06-21T10:19:03.917Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boom Boom Bass - RIIZE | KBS 240621 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/56292587</id>
+        <link href="https://tv.naver.com/v/56292587"/>
+        <updated>2024-06-21T10:19:03.918Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shooting Star - 케플러(Kep1er) | KBS 240621 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/56292375</id>
@@ -17,62 +73,6 @@
         <link href="https://tv.naver.com/v/56292321"/>
         <updated>2024-06-21T09:18:32.554Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풍덩 - cignature(시그니처) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291790</id>
-        <link href="https://tv.naver.com/v/56291790"/>
-        <updated>2024-06-21T09:18:32.554Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLOW - TRENDZ(트렌드지) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291785</id>
-        <link href="https://tv.naver.com/v/56291785"/>
-        <updated>2024-06-21T09:18:32.555Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꺼져 - ONE PACT (원팩트) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291544</id>
-        <link href="https://tv.naver.com/v/56291544"/>
-        <updated>2024-06-21T09:18:32.556Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BADVILLAIN - BADVILLAIN(배드빌런) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291535</id>
-        <link href="https://tv.naver.com/v/56291535"/>
-        <updated>2024-06-21T09:18:32.557Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPERPOWER - 블리처스 (BLITZERS) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291210</id>
-        <link href="https://tv.naver.com/v/56291210"/>
-        <updated>2024-06-21T09:18:32.560Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t Cry - Candy Shop | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56291187</id>
-        <link href="https://tv.naver.com/v/56291187"/>
-        <updated>2024-06-21T09:18:32.560Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deeeep - SPIA(수피아) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56290567</id>
-        <link href="https://tv.naver.com/v/56290567"/>
-        <updated>2024-06-21T09:18:32.562Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freyja - 프림로즈(PRIMROSE) | KBS 240621 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/56289951</id>
-        <link href="https://tv.naver.com/v/56289951"/>
-        <updated>2024-06-21T09:18:32.563Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ZEROBASEONE (제로베이스원) - Feel the POP | 쇼! 음악중심 (쇼! 음악중심)]]></title>
