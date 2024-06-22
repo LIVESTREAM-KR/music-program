@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-22T07:17:56.173Z</updated>
+    <updated>2024-06-22T08:21:46.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라이즈 - Boom Boom Bass (RIIZE - Boom Boom Bass), MBC 240622 방송]]></title>
+        <id>https://tv.naver.com/v/56329357</id>
+        <link href="https://tv.naver.com/v/56329357"/>
+        <updated>2024-06-22T08:21:14.532Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나연 - ABCD (NAYEON - ABCD), MBC 240622 방송]]></title>
+        <id>https://tv.naver.com/v/56329355</id>
+        <link href="https://tv.naver.com/v/56329355"/>
+        <updated>2024-06-22T08:21:14.536Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에버글로우 - ZOMBIE (EVERGLOW - ZOMBIE), MBC 240622 방송]]></title>
+        <id>https://tv.naver.com/v/56329160</id>
+        <link href="https://tv.naver.com/v/56329160"/>
+        <updated>2024-06-22T08:21:14.537Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권은비 - SABOTAGE (KWON EUNBI - SABOTAGE), MBC 240622 방송]]></title>
+        <id>https://tv.naver.com/v/56328939</id>
+        <link href="https://tv.naver.com/v/56328939"/>
+        <updated>2024-06-22T08:21:14.538Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비에이이일칠삼 - WHAT (BAE173 - WHAT), MBC 240622 방송]]></title>
+        <id>https://tv.naver.com/v/56328936</id>
+        <link href="https://tv.naver.com/v/56328936"/>
+        <updated>2024-06-22T08:21:14.539Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우아 - POM POM POM (WOOAH - POM POM POM), MBC 240622 방송]]></title>
+        <id>https://tv.naver.com/v/56328718</id>
+        <link href="https://tv.naver.com/v/56328718"/>
+        <updated>2024-06-22T08:21:14.540Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시그니처 - 풍덩 (cignature - Poongdung), MBC 240622 방송]]></title>
+        <id>https://tv.naver.com/v/56328462</id>
+        <link href="https://tv.naver.com/v/56328462"/>
+        <updated>2024-06-22T08:21:14.542Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러 - Shooting Star (Kep1er - Shooting Star), MBC 240622 방송]]></title>
+        <id>https://tv.naver.com/v/56328310</id>
+        <link href="https://tv.naver.com/v/56328310"/>
+        <updated>2024-06-22T08:21:14.543Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트렌드지 - GLOW (TRENDZ - GLOW), MBC 240622 방송]]></title>
         <id>https://tv.naver.com/v/56328178</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/56327967"/>
         <updated>2024-06-22T07:17:20.847Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이키 - 뜨거워지자 (H1-KEY - Let It Burn), MBC 240622 방송]]></title>
-        <id>https://tv.naver.com/v/56327966</id>
-        <link href="https://tv.naver.com/v/56327966"/>
-        <updated>2024-06-22T07:17:20.850Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원팩트 - 꺼져 (ONE PACT - FXXOFF), MBC 240622 방송]]></title>
-        <id>https://tv.naver.com/v/56327759</id>
-        <link href="https://tv.naver.com/v/56327759"/>
-        <updated>2024-06-22T07:17:20.851Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배드빌런 - BADVILLAIN (BADVILLAIN - BADVILLAIN), MBC 240622 방송]]></title>
-        <id>https://tv.naver.com/v/56327438</id>
-        <link href="https://tv.naver.com/v/56327438"/>
-        <updated>2024-06-22T07:17:20.852Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이븐 - Badder Love (EVNNE - Badder Love), MBC 240622 방송]]></title>
-        <id>https://tv.naver.com/v/56327433</id>
-        <link href="https://tv.naver.com/v/56327433"/>
-        <updated>2024-06-22T07:17:20.856Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스 - SUPERPOWER (BLITZERS - SUPERPOWER), MBC 240622 방송]]></title>
-        <id>https://tv.naver.com/v/56327303</id>
-        <link href="https://tv.naver.com/v/56327303"/>
-        <updated>2024-06-22T07:17:20.856Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캔디샵 - Don't Cry (Candy Shop - Don't Cry), MBC 240622 방송]]></title>
-        <id>https://tv.naver.com/v/56327133</id>
-        <link href="https://tv.naver.com/v/56327133"/>
-        <updated>2024-06-22T07:17:20.857Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] ZEROBASEONE (제로베이스원) - Feel the POP | 쇼! 음악중심]]></title>
-        <id>https://tv.naver.com/v/55783739</id>
-        <link href="https://tv.naver.com/v/55783739"/>
-        <updated>2024-06-21T07:17:12.815Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#직캠보고서🔍] 웨이션브이 귀엽다고 말해. ???: 귀엽다고. 잘생긴 남자들이 계속 애교부리고 플러팅함🩷 #WayV 사전녹화 비하인드⏯️]]></title>
-        <id>https://tv.naver.com/v/56274995</id>
-        <link href="https://tv.naver.com/v/56274995"/>
-        <updated>2024-06-21T07:17:12.815Z</updated>
-        <content type="html"><![CDATA[10:30]]></content>
     </entry>
 </feed>
