@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-06-22T11:14:05.995Z</updated>
+    <updated>2024-06-22T12:31:22.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 663회 ＜2024 배우 특집＞ 우승자 ⭐박호산⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/56336020</id>
+        <link href="https://tv.naver.com/v/56336020"/>
+        <updated>2024-06-22T12:31:15.935Z</updated>
+        <content type="html"><![CDATA[01:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] HOT한 가요계 절친들이 모였다🌟 여름 특집 2탄! 더 프렌즈 편🔥 | KBS 240622 방송]]></title>
+        <id>https://tv.naver.com/v/56335573</id>
+        <link href="https://tv.naver.com/v/56335573"/>
+        <updated>2024-06-22T12:31:15.936Z</updated>
+        <content type="html"><![CDATA[00:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박호산 – 사랑하기 때문에 | KBS 240622 방송]]></title>
         <id>https://tv.naver.com/v/56335295</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/56334164"/>
         <updated>2024-06-22T11:13:59.720Z</updated>
         <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카레이싱에 각종 자격증 수집가?! 조재윤의 불후 도전까지🔥 | KBS 240622 방송]]></title>
-        <id>https://tv.naver.com/v/56334163</id>
-        <link href="https://tv.naver.com/v/56334163"/>
-        <updated>2024-06-22T11:13:59.723Z</updated>
-        <content type="html"><![CDATA[02:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부담감에 성대결절이 온 이철민? 박자를 갖고 노는 무대🤣 | KBS 240622 방송]]></title>
-        <id>https://tv.naver.com/v/56334042</id>
-        <link href="https://tv.naver.com/v/56334042"/>
-        <updated>2024-06-22T11:13:59.724Z</updated>
-        <content type="html"><![CDATA[04:26]]></content>
     </entry>
 </feed>
