@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-23T11:13:45.693Z</updated>
+    <updated>2024-06-23T12:31:58.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/56023419"/>
         <updated>2024-06-22T09:18:39.121Z</updated>
         <content type="html"><![CDATA[00:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뿌까머리로 레전드 찍은 나나💜]]></title>
+        <id>https://tv.naver.com/v/56023290</id>
+        <link href="https://tv.naver.com/v/56023290"/>
+        <updated>2024-06-23T12:31:46.253Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[명창 댕댕이의 애드리브 파트🤍💚]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/54457405"/>
         <updated>2024-06-13T08:22:41.269Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] WayV TEN(웨이션브이 텐) - Give Me That (Korean Ver.) | Show Champion | EP.521 | 240612]]></title>
-        <id>https://tv.naver.com/v/54267067</id>
-        <link href="https://tv.naver.com/v/54267067"/>
-        <updated>2024-06-12T13:21:06.425Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
