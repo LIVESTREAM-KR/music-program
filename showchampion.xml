@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-24T08:23:50.658Z</updated>
+    <updated>2024-06-24T09:21:29.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 이번 주 쇼챔 ＂이것 뭐에요~??＂]]></title>
+        <id>https://tv.naver.com/v/56403794</id>
+        <link href="https://tv.naver.com/v/56403794"/>
+        <updated>2024-06-24T09:21:16.642Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[워터밤 여신의 쇼챔 컴백 대기중 🌊💥❤️‍🔥]]></title>
         <id>https://tv.naver.com/v/56023419</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/54455528"/>
         <updated>2024-06-13T08:22:41.266Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Nicole(니콜) - 5!6!7!8! | Show Champion | EP.521 | 240612]]></title>
-        <id>https://tv.naver.com/v/54457405</id>
-        <link href="https://tv.naver.com/v/54457405"/>
-        <updated>2024-06-13T08:22:41.269Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
