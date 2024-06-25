@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-25T12:34:35.266Z</updated>
+    <updated>2024-06-25T13:21:08.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ABCD - 나연(TWICE) | KBS 240621 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RIIZE가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56498972</id>
+        <link href="https://tv.naver.com/v/56498972"/>
+        <updated>2024-06-25T13:20:45.510Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 정한 X 원우 (SEVENTEEN) - 어젯밤 (Guitar by 박주원) | Mnet 240620 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/56095988</id>
         <link href="https://tv.naver.com/v/56095988"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/56090963"/>
         <updated>2024-06-20T12:33:13.897Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' WOOAH(우아) - POM POM POM | Mnet 240620 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56090954</id>
-        <link href="https://tv.naver.com/v/56090954"/>
-        <updated>2024-06-20T12:33:13.898Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
