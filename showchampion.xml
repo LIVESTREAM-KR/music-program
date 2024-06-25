@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-25T08:23:21.347Z</updated>
+    <updated>2024-06-25T09:19:24.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[후니 엔딩보려고 저 끝에서 달려옴🐺]]></title>
+        <id>https://tv.naver.com/v/56484168</id>
+        <link href="https://tv.naver.com/v/56484168"/>
+        <updated>2024-06-25T09:19:12.551Z</updated>
+        <content type="html"><![CDATA[00:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 이번 주 쇼챔 ＂이것 뭐에요~??＂]]></title>
         <id>https://tv.naver.com/v/56403794</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/54405211"/>
         <updated>2024-06-14T02:34:36.982Z</updated>
         <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] cignature(시그니처) - I like I like | Show Champion | EP.521 | 240612]]></title>
-        <id>https://tv.naver.com/v/54455528</id>
-        <link href="https://tv.naver.com/v/54455528"/>
-        <updated>2024-06-13T08:22:41.266Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
