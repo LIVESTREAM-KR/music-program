@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-26T06:26:31.669Z</updated>
+    <updated>2024-06-26T07:17:04.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ATEEZ (에이티즈) - WORK | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/55782612</id>
+        <link href="https://tv.naver.com/v/55782612"/>
+        <updated>2024-06-26T07:16:32.639Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] WOOAH NANA (우아 나나) – POM POM POM | 쇼! 음악중심 | MBC240622방송]]></title>
         <id>https://tv.naver.com/v/56424421</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56392542"/>
         <updated>2024-06-24T06:24:45.386Z</updated>
         <content type="html"><![CDATA[16:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Kep1er (케플러) – Shooting Star | 쇼! 음악중심 | MBC240622방송]]></title>
-        <id>https://tv.naver.com/v/56332065</id>
-        <link href="https://tv.naver.com/v/56332065"/>
-        <updated>2024-06-22T09:18:16.629Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
