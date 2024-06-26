@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-26T07:17:04.672Z</updated>
+    <updated>2024-06-26T08:23:41.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ABCD - 나연(TWICE) | KBS 240621 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,20 @@
         <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[원팩트(ONE PACT) - 꺼져 l 240626 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/56548133</id>
+        <link href="https://tv.naver.com/v/56548133"/>
+        <updated>2024-06-26T08:23:28.936Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캔디샵(Candy Shop) - Don't Cry l 240626 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/56547564</id>
+        <link href="https://tv.naver.com/v/56547564"/>
+        <updated>2024-06-26T08:23:28.936Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[후니 엔딩보려고 저 끝에서 달려옴🐺 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/56484168</id>
         <link href="https://tv.naver.com/v/56484168"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/54519163"/>
         <updated>2024-06-14T12:33:36.387Z</updated>
         <content type="html"><![CDATA[00:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2세대 아이돌의 성숙미 제대로 뽐낸 니콜의 무대🌈 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/54519093</id>
-        <link href="https://tv.naver.com/v/54519093"/>
-        <updated>2024-06-15T12:31:57.005Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.521 | 240612 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/54405211</id>
-        <link href="https://tv.naver.com/v/54405211"/>
-        <updated>2024-06-14T02:34:36.982Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 663회 ＜2024 배우 특집＞ 우승자 ⭐박호산⭐ | KBS 방송 (불후의 명곡)]]></title>
