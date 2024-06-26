@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-26T03:21:08.238Z</updated>
+    <updated>2024-06-26T04:23:08.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ABCD - 나연(TWICE) | KBS 240621 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[02:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#복면가왕] 원곡자 김종서 앞에서도 떨지 않는 록강아지훈🐶 칭찬해요 🫳🏻 트레저 지훈이 부르는 《직감》 《대답 없는 너》 | #지훈 #트레저 MBC240623방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/56407490</id>
+        <link href="https://tv.naver.com/v/56407490"/>
+        <updated>2024-06-26T04:23:08.406Z</updated>
+        <content type="html"><![CDATA[16:18]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 💎독보적인 음악성을 가진 올라운더✨ 트레저 지훈 하이라이트!, MBC 240623 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/56460573</id>
         <link href="https://tv.naver.com/v/56460573"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/56367320"/>
         <updated>2024-06-23T11:13:45.030Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원곡 가수 성대현과 함께하는 '급찐급빠'의 다이어트 댄스🕺, MBC 240623 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/56367148</id>
-        <link href="https://tv.naver.com/v/56367148"/>
-        <updated>2024-06-23T11:13:45.031Z</updated>
-        <content type="html"><![CDATA[02:02]]></content>
     </entry>
 </feed>
