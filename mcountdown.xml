@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-06-27T09:19:36.616Z</updated>
+    <updated>2024-06-27T10:21:03.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['HOT DEBUT' IS:SUE - CONNECT (Korean Ver.) | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56618029</id>
+        <link href="https://tv.naver.com/v/56618029"/>
+        <updated>2024-06-27T10:20:38.765Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H1-KEY (하이키) - 뜨거워지자 (Let It Burn) | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56617859</id>
+        <link href="https://tv.naver.com/v/56617859"/>
+        <updated>2024-06-27T10:20:38.766Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B.D.U - My One | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56617574</id>
+        <link href="https://tv.naver.com/v/56617574"/>
+        <updated>2024-06-27T10:20:38.767Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 규빈 - Satellite | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56616434</id>
+        <link href="https://tv.naver.com/v/56616434"/>
+        <updated>2024-06-27T10:20:38.769Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAXY(크랙시) - STUPIDZ | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56616155</id>
+        <link href="https://tv.naver.com/v/56616155"/>
+        <updated>2024-06-27T10:20:38.770Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RIIZE가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/56498972</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/56094488"/>
         <updated>2024-06-20T12:33:13.889Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' 나연 (TWICE) | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56094466</id>
-        <link href="https://tv.naver.com/v/56094466"/>
-        <updated>2024-06-20T12:33:13.891Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 권은비 - SABOTAGE | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56094454</id>
-        <link href="https://tv.naver.com/v/56094454"/>
-        <updated>2024-06-20T12:33:13.893Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WayV - She A Wolf | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56093472</id>
-        <link href="https://tv.naver.com/v/56093472"/>
-        <updated>2024-06-20T12:33:13.894Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' BABYMONSTER 𝘷𝘴 MC 샤인멍또캣 𝘷𝘴 TREASURE (트레저)! 오늘은 내가 촉감 왕👑 | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56092928</id>
-        <link href="https://tv.naver.com/v/56092928"/>
-        <updated>2024-06-20T12:33:13.895Z</updated>
-        <content type="html"><![CDATA[05:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAE173 - WHAT | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56090963</id>
-        <link href="https://tv.naver.com/v/56090963"/>
-        <updated>2024-06-20T12:33:13.897Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
