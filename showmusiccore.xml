@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-06-27T06:26:20.746Z</updated>
+    <updated>2024-06-27T07:17:00.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] WayV (웨이션브이) - Give Me That (Korean Ver.) | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/56589389</id>
+        <link href="https://tv.naver.com/v/56589389"/>
+        <updated>2024-06-27T07:16:25.408Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼! 음악중심] 소녀들 쓰러지는 ＂그 파트＂🔥 #RIIZE #라이즈 #Shorts]]></title>
+        <id>https://tv.naver.com/v/56521546</id>
+        <link href="https://tv.naver.com/v/56521546"/>
+        <updated>2024-06-27T07:16:25.409Z</updated>
+        <content type="html"><![CDATA[00:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ATEEZ (에이티즈) - WORK | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/55782612</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/56423522"/>
         <updated>2024-06-24T10:20:33.972Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NAYEON (나연) – ABCD | 쇼! 음악중심 | MBC240622방송]]></title>
-        <id>https://tv.naver.com/v/56402008</id>
-        <link href="https://tv.naver.com/v/56402008"/>
-        <updated>2024-06-24T05:17:08.500Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 나연(TWICE) X 이정하 , 6월 넷째 주 음악중심 MC 컷 모음!, MBC 240622 방송]]></title>
-        <id>https://tv.naver.com/v/56392542</id>
-        <link href="https://tv.naver.com/v/56392542"/>
-        <updated>2024-06-24T06:24:45.386Z</updated>
-        <content type="html"><![CDATA[16:32]]></content>
     </entry>
 </feed>
