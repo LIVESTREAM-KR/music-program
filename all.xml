@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-27T10:21:03.034Z</updated>
+    <updated>2024-06-27T11:15:29.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ABCD - 나연(TWICE) | KBS 240621 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['차차차' RIIZE 𝘷𝘴 WayV 𝘷𝘴 EVNNE(이븐)! 오늘은 내가 왕이다람쥐🐿️👑 | Mnet 240627 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56619931</id>
+        <link href="https://tv.naver.com/v/56619931"/>
+        <updated>2024-06-27T11:15:07.902Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVNNE(이븐) - Badder Love | Mnet 240627 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56619421</id>
+        <link href="https://tv.naver.com/v/56619421"/>
+        <updated>2024-06-27T11:15:07.902Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' Red Velvet (레드벨벳) | Mnet 240627 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56618671</id>
+        <link href="https://tv.naver.com/v/56618671"/>
+        <updated>2024-06-27T11:15:07.903Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BAE173 - WHAT | Mnet 240627 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56618224</id>
+        <link href="https://tv.naver.com/v/56618224"/>
+        <updated>2024-06-27T11:15:07.904Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['HOT DEBUT' IS:SUE - CONNECT (Korean Ver.) | Mnet 240627 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/56618029</id>
         <link href="https://tv.naver.com/v/56618029"/>
@@ -255,34 +283,6 @@
         <link href="https://tv.naver.com/v/56498972"/>
         <updated>2024-06-25T13:20:45.510Z</updated>
         <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 정한 X 원우 (SEVENTEEN) - 어젯밤 (Guitar by 박주원) | Mnet 240620 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56095988</id>
-        <link href="https://tv.naver.com/v/56095988"/>
-        <updated>2024-06-20T12:33:13.887Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 나연 (TWICE) - ABCD | Mnet 240620 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56095972</id>
-        <link href="https://tv.naver.com/v/56095972"/>
-        <updated>2024-06-20T12:33:13.887Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' RIIZE - Boom Boom Bass | Mnet 240620 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56095287</id>
-        <link href="https://tv.naver.com/v/56095287"/>
-        <updated>2024-06-20T12:33:13.888Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 (Kep1er) - Shooting Star | Mnet 240620 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56094488</id>
-        <link href="https://tv.naver.com/v/56094488"/>
-        <updated>2024-06-20T12:33:13.889Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
