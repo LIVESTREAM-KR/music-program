@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-27T12:34:30.667Z</updated>
+    <updated>2024-06-27T13:20:28.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM에는 도입부 장인이 있는게 분명해❤️‍🔥]]></title>
+        <id>https://tv.naver.com/v/56608418</id>
+        <link href="https://tv.naver.com/v/56608418"/>
+        <updated>2024-06-27T13:20:16.841Z</updated>
+        <content type="html"><![CDATA[00:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] KWON EUN BI(권은비) - SABOTAGE | Show Champion | EP.523 | 240626]]></title>
         <id>https://tv.naver.com/v/56561637</id>
         <link href="https://tv.naver.com/v/56561637"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56561410"/>
         <updated>2024-06-26T13:20:20.571Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] WOOAH MINSEO(우아 민서) - POM POM POM | Show Champion | EP.523 | 240626]]></title>
-        <id>https://tv.naver.com/v/56555374</id>
-        <link href="https://tv.naver.com/v/56555374"/>
-        <updated>2024-06-26T13:20:20.572Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>

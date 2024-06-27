@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-27T12:34:30.651Z</updated>
+    <updated>2024-06-27T13:20:28.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ABCD - 나연(TWICE) | KBS 240621 방송 (뮤직뱅크)]]></title>
@@ -404,6 +404,13 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SM에는 도입부 장인이 있는게 분명해❤️‍🔥 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/56608418</id>
+        <link href="https://tv.naver.com/v/56608418"/>
+        <updated>2024-06-27T13:20:16.841Z</updated>
+        <content type="html"><![CDATA[00:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] KWON EUN BI(권은비) - SABOTAGE | Show Champion | EP.523 | 240626 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/56561637</id>
         <link href="https://tv.naver.com/v/56561637"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/56561410"/>
         <updated>2024-06-26T13:20:20.571Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] WOOAH MINSEO(우아 민서) - POM POM POM | Show Champion | EP.523 | 240626 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/56555374</id>
-        <link href="https://tv.naver.com/v/56555374"/>
-        <updated>2024-06-26T13:20:20.572Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 663회 ＜2024 배우 특집＞ 우승자 ⭐박호산⭐ | KBS 방송 (불후의 명곡)]]></title>
