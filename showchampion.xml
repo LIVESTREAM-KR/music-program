@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-28T01:16:30.868Z</updated>
+    <updated>2024-06-28T02:36:12.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6월 4주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.523 | 240626]]></title>
+        <id>https://tv.naver.com/v/56603569</id>
+        <link href="https://tv.naver.com/v/56603569"/>
+        <updated>2024-06-28T02:35:59.773Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE JI YUN SEO(이븐 지윤서) - I ＜3 U (I love U) | Show Champion | EP.523 | 240626]]></title>
         <id>https://tv.naver.com/v/56585108</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56561637"/>
         <updated>2024-06-26T13:20:20.571Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KWON EUN BI(권은비) - SABOTAGE | Show Champion | EP.523 | 240626]]></title>
-        <id>https://tv.naver.com/v/56561410</id>
-        <link href="https://tv.naver.com/v/56561410"/>
-        <updated>2024-06-26T13:20:20.571Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
