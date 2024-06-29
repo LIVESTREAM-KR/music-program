@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-29T11:16:17.679Z</updated>
+    <updated>2024-06-29T12:32:34.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[썸머퀸의 등장으로 심장에 사보타지 발동💥]]></title>
+        <id>https://tv.naver.com/v/56608661</id>
+        <link href="https://tv.naver.com/v/56608661"/>
+        <updated>2024-06-29T12:32:23.390Z</updated>
+        <content type="html"><![CDATA[00:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[마이크도 빛의 속도로 지켜 츄🍓🩷]]></title>
         <id>https://tv.naver.com/v/56608514</id>
         <link href="https://tv.naver.com/v/56608514"/>
         <updated>2024-06-29T09:19:50.167Z</updated>
         <content type="html"><![CDATA[00:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막내의 부름에 군무 시작하는 라이즈 엉아들✨]]></title>
-        <id>https://tv.naver.com/v/56608458</id>
-        <link href="https://tv.naver.com/v/56608458"/>
-        <updated>2024-06-28T03:21:07.063Z</updated>
-        <content type="html"><![CDATA[00:57]]></content>
     </entry>
 </feed>
