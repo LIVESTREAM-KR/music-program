@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-06-30T11:14:13.059Z</updated>
+    <updated>2024-06-30T12:32:39.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[댕댕이가 남자가 되는 순간🐕💙]]></title>
+        <id>https://tv.naver.com/v/56608694</id>
+        <link href="https://tv.naver.com/v/56608694"/>
+        <updated>2024-06-30T12:32:26.988Z</updated>
+        <content type="html"><![CDATA[00:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[썸머퀸의 등장으로 심장에 사보타지 발동💥]]></title>
         <id>https://tv.naver.com/v/56608661</id>
         <link href="https://tv.naver.com/v/56608661"/>
         <updated>2024-06-29T12:32:23.390Z</updated>
         <content type="html"><![CDATA[00:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸크러시로 강렬하게 돌아온 우아!🩷💥]]></title>
-        <id>https://tv.naver.com/v/56608538</id>
-        <link href="https://tv.naver.com/v/56608538"/>
-        <updated>2024-06-30T09:21:16.056Z</updated>
-        <content type="html"><![CDATA[00:44]]></content>
     </entry>
 </feed>
