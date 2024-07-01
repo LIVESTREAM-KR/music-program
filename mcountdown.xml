@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-07-01T09:23:49.176Z</updated>
+    <updated>2024-07-01T10:22:25.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[6월 마지막 주 1위 'RIIZE'의 'Boom Boom Bass' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/56799556</id>
+        <link href="https://tv.naver.com/v/56799556"/>
+        <updated>2024-07-01T10:22:00.577Z</updated>
+        <content type="html"><![CDATA[05:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' Red Velvet - Cosmic | Mnet 240627 방송]]></title>
         <id>https://tv.naver.com/v/56622825</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56621356"/>
         <updated>2024-06-27T12:34:05.900Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' RIIZE 𝘷𝘴 WayV 𝘷𝘴 EVNNE(이븐)! 오늘은 내가 왕이다람쥐🐿️👑 | Mnet 240627 방송]]></title>
-        <id>https://tv.naver.com/v/56619931</id>
-        <link href="https://tv.naver.com/v/56619931"/>
-        <updated>2024-06-27T11:15:07.902Z</updated>
-        <content type="html"><![CDATA[04:48]]></content>
     </entry>
 </feed>
