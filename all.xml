@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-01T04:22:13.859Z</updated>
+    <updated>2024-07-01T05:18:27.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cosmic - 레드벨벳 | KBS 240628 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[June TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/56529950</id>
+        <link href="https://tv.naver.com/v/56529950"/>
+        <updated>2024-07-01T05:17:52.168Z</updated>
+        <content type="html"><![CDATA[33:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] WayV (웨이션브이) - Give Me That (Korean Ver.) | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/56589389</id>
         <link href="https://tv.naver.com/v/56589389"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/56423525"/>
         <updated>2024-06-24T10:20:33.970Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE SHOTARO (라이즈 쇼타로) – Boom Boom Bass | 쇼! 음악중심 | MBC240622방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/56423522</id>
-        <link href="https://tv.naver.com/v/56423522"/>
-        <updated>2024-06-24T10:20:33.972Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Cosmic  | SBS 240630 방송 (인기가요)]]></title>
