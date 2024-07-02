@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-02T10:19:41.332Z</updated>
+    <updated>2024-07-02T11:15:56.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cosmic - 레드벨벳 | KBS 240628 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TWS(투어스)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56863745</id>
+        <link href="https://tv.naver.com/v/56863745"/>
+        <updated>2024-07-02T11:15:32.657Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[6월 마지막 주 1위 'RIIZE'의 'Boom Boom Bass' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/56799556</id>
         <link href="https://tv.naver.com/v/56799556"/>
@@ -278,11 +285,39 @@
         <content type="html"><![CDATA[04:35]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WOOAH(우아) - POM POM POM | Mnet 240627 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56621356</id>
-        <link href="https://tv.naver.com/v/56621356"/>
-        <updated>2024-06-27T12:34:05.900Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/56863734</id>
+        <link href="https://tv.naver.com/v/56863734"/>
+        <updated>2024-07-02T11:15:38.501Z</updated>
+        <content type="html"><![CDATA[05:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWS - If I'm S, Can You Be My N? (TWS, 내가 S면 넌 나의 N이 되어줘) [THE SHOW 240702] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/56863531</id>
+        <link href="https://tv.naver.com/v/56863531"/>
+        <updated>2024-07-02T11:15:38.502Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHUU - Strawberry Rush (츄, Strawberry Rush) [THE SHOW 240702] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/56863296</id>
+        <link href="https://tv.naver.com/v/56863296"/>
+        <updated>2024-07-02T11:15:38.502Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWS - Double Take [THE SHOW 240702] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/56862890</id>
+        <link href="https://tv.naver.com/v/56862890"/>
+        <updated>2024-07-02T11:15:38.504Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H1-KEY - Let It Burn (하이키, 뜨거워지자) [THE SHOW 240702] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/56862836</id>
+        <link href="https://tv.naver.com/v/56862836"/>
+        <updated>2024-07-02T11:15:38.506Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EVNNE - Badder Love (이븐, Badder Love) [THE SHOW 240702] (더쇼)]]></title>
@@ -318,41 +353,6 @@
         <link href="https://tv.naver.com/v/56861794"/>
         <updated>2024-07-02T10:19:25.712Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLITZERS - SUPERPOWER (블리처스, SUPERPOWER) [THE SHOW 240702] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/56861792</id>
-        <link href="https://tv.naver.com/v/56861792"/>
-        <updated>2024-07-02T10:19:25.713Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Ocean, BLOW (빅오션, BLOW) [THE SHOW 240702] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/56861025</id>
-        <link href="https://tv.naver.com/v/56861025"/>
-        <updated>2024-07-02T10:19:25.715Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챌린딩] TWS [THE SHOW 240702] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/56861021</id>
-        <link href="https://tv.naver.com/v/56861021"/>
-        <updated>2024-07-02T10:19:25.717Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUNGMO, ASPIRIN (정모, 아스피린) [THE SHOW 240702] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/56861018</id>
-        <link href="https://tv.naver.com/v/56861018"/>
-        <updated>2024-07-02T10:19:25.720Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAXY, STUPIDZ [THE SHOW 240702] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/56860757</id>
-        <link href="https://tv.naver.com/v/56860757"/>
-        <updated>2024-07-02T10:19:25.720Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 내가 쇼챔이면 넌 나의 본방사수가 되어줘🧲🤍🩵 (쇼챔피언)]]></title>

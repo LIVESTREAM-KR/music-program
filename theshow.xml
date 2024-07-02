@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-07-02T10:19:41.331Z</updated>
+    <updated>2024-07-02T11:15:56.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는?]]></title>
+        <id>https://tv.naver.com/v/56863734</id>
+        <link href="https://tv.naver.com/v/56863734"/>
+        <updated>2024-07-02T11:15:38.501Z</updated>
+        <content type="html"><![CDATA[05:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWS - If I'm S, Can You Be My N? (TWS, 내가 S면 넌 나의 N이 되어줘) [THE SHOW 240702]]]></title>
+        <id>https://tv.naver.com/v/56863531</id>
+        <link href="https://tv.naver.com/v/56863531"/>
+        <updated>2024-07-02T11:15:38.502Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHUU - Strawberry Rush (츄, Strawberry Rush) [THE SHOW 240702]]]></title>
+        <id>https://tv.naver.com/v/56863296</id>
+        <link href="https://tv.naver.com/v/56863296"/>
+        <updated>2024-07-02T11:15:38.502Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TWS - Double Take [THE SHOW 240702]]]></title>
+        <id>https://tv.naver.com/v/56862890</id>
+        <link href="https://tv.naver.com/v/56862890"/>
+        <updated>2024-07-02T11:15:38.504Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H1-KEY - Let It Burn (하이키, 뜨거워지자) [THE SHOW 240702]]]></title>
+        <id>https://tv.naver.com/v/56862836</id>
+        <link href="https://tv.naver.com/v/56862836"/>
+        <updated>2024-07-02T11:15:38.506Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVNNE - Badder Love (이븐, Badder Love) [THE SHOW 240702]]]></title>
         <id>https://tv.naver.com/v/56862095</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/56861794"/>
         <updated>2024-07-02T10:19:25.712Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLITZERS - SUPERPOWER (블리처스, SUPERPOWER) [THE SHOW 240702]]]></title>
-        <id>https://tv.naver.com/v/56861792</id>
-        <link href="https://tv.naver.com/v/56861792"/>
-        <updated>2024-07-02T10:19:25.713Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Ocean, BLOW (빅오션, BLOW) [THE SHOW 240702]]]></title>
-        <id>https://tv.naver.com/v/56861025</id>
-        <link href="https://tv.naver.com/v/56861025"/>
-        <updated>2024-07-02T10:19:25.715Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챌린딩] TWS [THE SHOW 240702]]]></title>
-        <id>https://tv.naver.com/v/56861021</id>
-        <link href="https://tv.naver.com/v/56861021"/>
-        <updated>2024-07-02T10:19:25.717Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JUNGMO, ASPIRIN (정모, 아스피린) [THE SHOW 240702]]]></title>
-        <id>https://tv.naver.com/v/56861018</id>
-        <link href="https://tv.naver.com/v/56861018"/>
-        <updated>2024-07-02T10:19:25.720Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAXY, STUPIDZ [THE SHOW 240702]]]></title>
-        <id>https://tv.naver.com/v/56860757</id>
-        <link href="https://tv.naver.com/v/56860757"/>
-        <updated>2024-07-02T10:19:25.720Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>

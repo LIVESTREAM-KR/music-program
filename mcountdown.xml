@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-07-02T10:19:41.338Z</updated>
+    <updated>2024-07-02T11:15:56.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TWS(투어스)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/56863745</id>
+        <link href="https://tv.naver.com/v/56863745"/>
+        <updated>2024-07-02T11:15:32.657Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6월 마지막 주 1위 'RIIZE'의 'Boom Boom Bass' 앵콜 무대! (Full ver.)]]></title>
         <id>https://tv.naver.com/v/56799556</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56621375"/>
         <updated>2024-06-27T12:34:05.899Z</updated>
         <content type="html"><![CDATA[04:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WOOAH(우아) - POM POM POM | Mnet 240627 방송]]></title>
-        <id>https://tv.naver.com/v/56621356</id>
-        <link href="https://tv.naver.com/v/56621356"/>
-        <updated>2024-06-27T12:34:05.900Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
