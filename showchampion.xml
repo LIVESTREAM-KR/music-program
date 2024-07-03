@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-03T09:20:10.386Z</updated>
+    <updated>2024-07-03T10:21:10.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 7월 1주 챔피언송 ＜TWS - 내가 S면 넌 나의 N이 되어줘＞ 앵콜 Full ver. l Show Champion l EP.524 l 240703]]></title>
+        <id>https://tv.naver.com/v/56921254</id>
+        <link href="https://tv.naver.com/v/56921254"/>
+        <updated>2024-07-03T10:20:58.046Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 투어스(TWS) - 내가 S면 넌 나의 N이 되어줘 l 240703]]></title>
+        <id>https://tv.naver.com/v/56919816</id>
+        <link href="https://tv.naver.com/v/56919816"/>
+        <updated>2024-07-03T10:20:58.047Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 투어스(TWS) - Double Take l 240703]]></title>
         <id>https://tv.naver.com/v/56919221</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/56917322"/>
         <updated>2024-07-03T09:19:59.749Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박제업(PARK JE UP) - 우리가 사랑했던 시간 l 240703]]></title>
-        <id>https://tv.naver.com/v/56917246</id>
-        <link href="https://tv.naver.com/v/56917246"/>
-        <updated>2024-07-03T09:19:59.751Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'TWS' 나!왔어✋🏻 l 240703]]></title>
-        <id>https://tv.naver.com/v/56917240</id>
-        <link href="https://tv.naver.com/v/56917240"/>
-        <updated>2024-07-03T09:19:59.752Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
     </entry>
 </feed>
