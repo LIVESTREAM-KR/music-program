@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-03T03:20:18.760Z</updated>
+    <updated>2024-07-03T04:21:14.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cosmic - 레드벨벳 | KBS 240628 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[04:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#복면가왕] 발라드의 神 윤민수의 대를 이은 폭발적인 가창력! 💣 포멘 요셉이 부르는 《취중진담》 《그대의 향기》 | #포맨 #요셉 MBC240630방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/56830701</id>
+        <link href="https://tv.naver.com/v/56830701"/>
+        <updated>2024-07-03T04:21:13.927Z</updated>
+        <content type="html"><![CDATA[21:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 🎵허스키한 음색과 감각적인 음악이 빛나는✨ 가수 장한나 하이라이트!, MBC 240630 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/56801889</id>
         <link href="https://tv.naver.com/v/56801889"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/56749034"/>
         <updated>2024-06-30T10:17:46.128Z</updated>
         <content type="html"><![CDATA[04:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['근손실'의 정체는 배우 박효준!, MBC 240630 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/56748813</id>
-        <link href="https://tv.naver.com/v/56748813"/>
-        <updated>2024-06-30T10:17:46.128Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
 </feed>
