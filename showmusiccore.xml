@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-03T04:21:14.536Z</updated>
+    <updated>2024-07-03T05:18:36.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 January - June Hit Song.zip 📂 Show! Music Core Hit Song Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/56850211</id>
+        <link href="https://tv.naver.com/v/56850211"/>
+        <updated>2024-07-03T05:18:04.231Z</updated>
+        <content type="html"><![CDATA[56:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 티모시 앤라메: 오늘 크롭티일 줄 알았나요.. ?🤔  - ̗̀ 🧡알잘딱깔센🖤  ̖́-하게 말아 온 #RIIZE 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/56850544</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56423915"/>
         <updated>2024-06-24T10:20:33.967Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE WONBIN (라이즈 원빈) – Boom Boom Bass | 쇼! 음악중심 | MBC240622방송]]></title>
-        <id>https://tv.naver.com/v/56423913</id>
-        <link href="https://tv.naver.com/v/56423913"/>
-        <updated>2024-06-24T10:20:33.969Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
