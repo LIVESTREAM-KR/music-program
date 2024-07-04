@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-04T06:26:08.587Z</updated>
+    <updated>2024-07-04T07:18:45.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Summer K-POP.zip 📂 Show! Music Core Summer K-POP Special Compilation]]></title>
+        <id>https://tv.naver.com/v/56955076</id>
+        <link href="https://tv.naver.com/v/56955076"/>
+        <updated>2024-07-04T07:18:08.586Z</updated>
+        <content type="html"><![CDATA[01:34:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 January - June Hit Song.zip 📂 Show! Music Core Hit Song Stages Compilation]]></title>
         <id>https://tv.naver.com/v/56850211</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56423918"/>
         <updated>2024-06-24T10:20:33.965Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] RIIZE SOHEE (라이즈 소희) – Boom Boom Bass | 쇼! 음악중심 | MBC240622방송]]></title>
-        <id>https://tv.naver.com/v/56423915</id>
-        <link href="https://tv.naver.com/v/56423915"/>
-        <updated>2024-06-24T10:20:33.967Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
