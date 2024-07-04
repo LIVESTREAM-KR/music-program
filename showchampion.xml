@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-04T07:18:45.056Z</updated>
+    <updated>2024-07-04T08:23:12.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] CHUU(츄) - Strawberry Rush | Show Champion | EP.524 | 240703]]></title>
+        <id>https://tv.naver.com/v/56956916</id>
+        <link href="https://tv.naver.com/v/56956916"/>
+        <updated>2024-07-04T08:23:00.339Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] CHUU(츄) - Strawberry Rush | Show Champion | EP.524 | 240703]]></title>
+        <id>https://tv.naver.com/v/56956844</id>
+        <link href="https://tv.naver.com/v/56956844"/>
+        <updated>2024-07-04T08:23:00.339Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] WOOAH NANA(우아 나나) - POM POM POM | Show Champion | EP.524 | 240703]]></title>
+        <id>https://tv.naver.com/v/56956550</id>
+        <link href="https://tv.naver.com/v/56956550"/>
+        <updated>2024-07-04T08:23:00.339Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] WOOAH(우아) - POM POM POM | Show Champion | EP.524 | 240703]]></title>
+        <id>https://tv.naver.com/v/56956229</id>
+        <link href="https://tv.naver.com/v/56956229"/>
+        <updated>2024-07-04T08:23:00.340Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] CRAXY(크랙시) - STUPIDZ | Show Champion | EP.524 | 240703]]></title>
+        <id>https://tv.naver.com/v/56956227</id>
+        <link href="https://tv.naver.com/v/56956227"/>
+        <updated>2024-07-04T08:23:00.343Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] H1-KEY(하이키) - 뜨거워지자 | Show Champion | EP.524 | 240703]]></title>
         <id>https://tv.naver.com/v/56924889</id>
@@ -38,41 +73,6 @@
         <id>https://tv.naver.com/v/56926788</id>
         <link href="https://tv.naver.com/v/56926788"/>
         <updated>2024-07-03T13:20:41.978Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TWS YOUNGJAE(투어스 영재) - Double Take | Show Champion | EP.524 | 240703]]></title>
-        <id>https://tv.naver.com/v/56926527</id>
-        <link href="https://tv.naver.com/v/56926527"/>
-        <updated>2024-07-03T13:20:41.980Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TWS SHINYU(투어스 신유) - Double Take | Show Champion | EP.524 | 240703]]></title>
-        <id>https://tv.naver.com/v/56926285</id>
-        <link href="https://tv.naver.com/v/56926285"/>
-        <updated>2024-07-03T13:20:41.981Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TWS DOHOON(투어스 도훈) - Double Take | Show Champion | EP.524 | 240703]]></title>
-        <id>https://tv.naver.com/v/56925649</id>
-        <link href="https://tv.naver.com/v/56925649"/>
-        <updated>2024-07-03T13:20:41.983Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] TWS DOHOON(투어스 도훈) - Double Take | Show Champion | EP.524 | 240703]]></title>
-        <id>https://tv.naver.com/v/56925646</id>
-        <link href="https://tv.naver.com/v/56925646"/>
-        <updated>2024-07-03T13:20:41.984Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TWS KYUNGMIN(투어스 경민) - Double Take | Show Champion | EP.524 | 240703]]></title>
-        <id>https://tv.naver.com/v/56925592</id>
-        <link href="https://tv.naver.com/v/56925592"/>
-        <updated>2024-07-03T13:20:41.985Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
