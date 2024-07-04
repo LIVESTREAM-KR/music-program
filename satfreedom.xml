@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-07-04T04:21:06.107Z</updated>
+    <updated>2024-07-04T05:18:56.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 불후의 명곡 2024 상반기 왕중왕전!  | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/56961644</id>
+        <link href="https://tv.naver.com/v/56961644"/>
+        <updated>2024-07-04T05:18:49.965Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 664회 ＜2024 더 프렌즈 특집＞ 우승자 ⭐진호&후이⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/56715870</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56714104"/>
         <updated>2024-06-29T11:16:11.414Z</updated>
         <content type="html"><![CDATA[06:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로피가 보였던 감동의 무대😭 여기서 불후 안방마님의 등장이요..? | KBS 240629 방송]]></title>
-        <id>https://tv.naver.com/v/56714099</id>
-        <link href="https://tv.naver.com/v/56714099"/>
-        <updated>2024-06-29T11:16:11.415Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
 </feed>
