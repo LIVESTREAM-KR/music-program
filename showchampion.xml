@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-05T01:17:17.929Z</updated>
+    <updated>2024-07-05T02:34:51.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.524 | 240703]]></title>
+        <id>https://tv.naver.com/v/56949597</id>
+        <link href="https://tv.naver.com/v/56949597"/>
+        <updated>2024-07-05T02:34:39.070Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] CHUU(츄) - Strawberry Rush | Show Champion | EP.524 | 240703]]></title>
         <id>https://tv.naver.com/v/56956916</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/56927246</id>
         <link href="https://tv.naver.com/v/56927246"/>
         <updated>2024-07-03T13:20:41.977Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TWS JIHOON(투어스 지훈) - Double Take | Show Champion | EP.524 | 240703]]></title>
-        <id>https://tv.naver.com/v/56926788</id>
-        <link href="https://tv.naver.com/v/56926788"/>
-        <updated>2024-07-03T13:20:41.978Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
