@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-05T13:20:11.398Z</updated>
+    <updated>2024-07-05T14:17:53.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5개월 차 신인 투어스의 1위 앵콜 무대🍀 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/56972190</id>
+        <link href="https://tv.naver.com/v/56972190"/>
+        <updated>2024-07-05T14:17:41.885Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] H1-KEY(하이키) - 뜨거워지자 | Show Champion | EP.524 | 240703]]></title>
         <id>https://tv.naver.com/v/56924889</id>
         <link href="https://tv.naver.com/v/56924889"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56923705"/>
         <updated>2024-07-03T13:20:41.975Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TWS HANJIN(투어스 한진) - Double Take | Show Champion | EP.524 | 240703]]></title>
-        <id>https://tv.naver.com/v/56927246</id>
-        <link href="https://tv.naver.com/v/56927246"/>
-        <updated>2024-07-03T13:20:41.977Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
