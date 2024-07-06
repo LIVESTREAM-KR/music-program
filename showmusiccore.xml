@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-06T10:17:59.572Z</updated>
+    <updated>2024-07-06T11:15:47.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE BELLE (키스 오브 라이프 벨) - Sticky | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57085095</id>
+        <link href="https://tv.naver.com/v/57085095"/>
+        <updated>2024-07-06T11:15:12.597Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE NATTY (키스 오브 라이프 나띠) - Sticky | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57085091</id>
+        <link href="https://tv.naver.com/v/57085091"/>
+        <updated>2024-07-06T11:15:12.599Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE JULIE (키스 오브 라이프 쥴리) - Sticky | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57085090</id>
+        <link href="https://tv.naver.com/v/57085090"/>
+        <updated>2024-07-06T11:15:12.599Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE (키스 오브 라이프) – Sticky | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57084947</id>
+        <link href="https://tv.naver.com/v/57084947"/>
+        <updated>2024-07-06T11:15:12.599Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] STAYC J (스테이씨 재이) - Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57084679</id>
+        <link href="https://tv.naver.com/v/57084679"/>
+        <updated>2024-07-06T11:15:12.599Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] BADVILLAIN (배드빌런) – HURRICANE | 쇼! 음악중심 | MBC240706방송]]></title>
         <id>https://tv.naver.com/v/57084531</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/57084435"/>
         <updated>2024-07-06T10:17:21.844Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC SEEUN (스테이씨 세은) - Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084410</id>
-        <link href="https://tv.naver.com/v/57084410"/>
-        <updated>2024-07-06T10:17:21.845Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC ISA (스테이씨 아이사) - Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084408</id>
-        <link href="https://tv.naver.com/v/57084408"/>
-        <updated>2024-07-06T10:17:21.847Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC YOON (스테이씨 윤) - Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084265</id>
-        <link href="https://tv.naver.com/v/57084265"/>
-        <updated>2024-07-06T10:17:21.848Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] RIIZE ANTON (라이즈 앤톤) - Boom Boom Bass | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084264</id>
-        <link href="https://tv.naver.com/v/57084264"/>
-        <updated>2024-07-06T10:17:21.849Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] RIIZE SOHEE (라이즈 소희) - Boom Boom Bass | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084011</id>
-        <link href="https://tv.naver.com/v/57084011"/>
-        <updated>2024-07-06T10:17:21.851Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
