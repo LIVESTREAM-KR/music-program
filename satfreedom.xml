@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-07-06T11:15:47.125Z</updated>
+    <updated>2024-07-06T12:31:35.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 665회 ＜2024 더 프렌즈 특집 2부＞ 우승자 ⭐손태진&진원⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/57086844</id>
+        <link href="https://tv.naver.com/v/57086844"/>
+        <updated>2024-07-06T12:31:29.571Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] 불꽃 튀는 특별 무대🌟 2024 상반기 왕중왕전 특집! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/57086163</id>
+        <link href="https://tv.naver.com/v/57086163"/>
+        <updated>2024-07-06T12:31:29.571Z</updated>
+        <content type="html"><![CDATA[00:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최선을 다한 이대원X추혁진! 오늘 마지막 결과는?🏆️ | KBS 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57086123</id>
+        <link href="https://tv.naver.com/v/57086123"/>
+        <updated>2024-07-06T12:31:29.572Z</updated>
+        <content type="html"><![CDATA[01:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이대원X추혁진 – 아모르파티 | KBS 240706 방송]]></title>
         <id>https://tv.naver.com/v/57085972</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/57085102"/>
         <updated>2024-07-06T11:15:40.951Z</updated>
         <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사촌 형제의 케미& 춤까지 섭렵한 유하 양의 〈How Sweet〉♪ | KBS 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57084951</id>
-        <link href="https://tv.naver.com/v/57084951"/>
-        <updated>2024-07-06T11:15:40.952Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아마추어 아닌 것 같아요🤣이거 올림픽 엔딩곡 아니에요...? | KBS 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57084836</id>
-        <link href="https://tv.naver.com/v/57084836"/>
-        <updated>2024-07-06T11:15:40.953Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서문탁X손승연 – 아마추어 | KBS 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57084811</id>
-        <link href="https://tv.naver.com/v/57084811"/>
-        <updated>2024-07-06T11:15:40.955Z</updated>
-        <content type="html"><![CDATA[05:22]]></content>
     </entry>
 </feed>
