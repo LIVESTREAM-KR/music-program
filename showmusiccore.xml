@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-06T07:16:21.279Z</updated>
+    <updated>2024-07-06T08:25:58.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[투어스 - 내가 S면 넌 나의 N이 되어줘 (TWS - If I’m S, Can You Be My N?), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57080163</id>
+        <link href="https://tv.naver.com/v/57080163"/>
+        <updated>2024-07-06T08:25:21.809Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 - Cosmic (Red Velvet - Cosmic), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57080162</id>
+        <link href="https://tv.naver.com/v/57080162"/>
+        <updated>2024-07-06T08:25:21.809Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투어스 - Double Take (TWS - Double Take), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57079978</id>
+        <link href="https://tv.naver.com/v/57079978"/>
+        <updated>2024-07-06T08:25:21.811Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라이즈 - Boom Boom Bass (RIIZE - Boom Boom Bass), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57079708</id>
+        <link href="https://tv.naver.com/v/57079708"/>
+        <updated>2024-07-06T08:25:21.814Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이씨 - Cheeky Icy Thang (STAYC - Cheeky Icy Thang), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57079676</id>
+        <link href="https://tv.naver.com/v/57079676"/>
+        <updated>2024-07-06T08:25:21.814Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이씨 - Stay WITH me (STAYC - Stay WITH me), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57079673</id>
+        <link href="https://tv.naver.com/v/57079673"/>
+        <updated>2024-07-06T08:25:21.815Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우아 - POM POM POM (WOOAH - POM POM POM), MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57079341</id>
+        <link href="https://tv.naver.com/v/57079341"/>
+        <updated>2024-07-06T08:25:21.815Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔시티 위시 - Songbird (Korean Ver.) (NCT WISH - Songbird (Korean Ver.)), MBC 240706 방송]]></title>
         <id>https://tv.naver.com/v/57079170</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/57078994"/>
         <updated>2024-07-06T07:15:44.493Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이븐 - Badder Love (EVNNE - Badder Love), MBC 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57078993</id>
-        <link href="https://tv.naver.com/v/57078993"/>
-        <updated>2024-07-06T07:15:44.494Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트렌드지 - GLOW (TRENDZ - GLOW), MBC 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57078804</id>
-        <link href="https://tv.naver.com/v/57078804"/>
-        <updated>2024-07-06T07:15:44.495Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키스 오브 라이프 - Sticky (KISS OF LIFE - Sticky), MBC 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57078687</id>
-        <link href="https://tv.naver.com/v/57078687"/>
-        <updated>2024-07-06T07:15:44.498Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올아워즈 - 도깨비 (ALL(H)OURS - SHOCK), MBC 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57078657</id>
-        <link href="https://tv.naver.com/v/57078657"/>
-        <updated>2024-07-06T07:15:44.499Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배드빌런 - HURRICANE (BADVILLAIN - HURRICANE), MBC 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57078458</id>
-        <link href="https://tv.naver.com/v/57078458"/>
-        <updated>2024-07-06T07:15:44.501Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비업 - Ain't Nobody (VVUP - Ain't Nobody), MBC 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57078456</id>
-        <link href="https://tv.naver.com/v/57078456"/>
-        <updated>2024-07-06T07:15:44.502Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블리처스 - SUPERPOWER (BLITZERS - SUPERPOWER), MBC 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57078129</id>
-        <link href="https://tv.naver.com/v/57078129"/>
-        <updated>2024-07-06T07:15:44.503Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
     </entry>
 </feed>
