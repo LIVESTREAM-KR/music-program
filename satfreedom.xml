@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-07-08T14:18:53.692Z</updated>
+    <updated>2024-07-08T15:20:14.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[가로 직캠] 이지훈&손준호 - Never Ending Story | KBS 240706 방송]]></title>
-        <id>https://tv.naver.com/v/57169890</id>
-        <link href="https://tv.naver.com/v/57169890"/>
-        <updated>2024-07-08T09:20:46.517Z</updated>
-        <content type="html"><![CDATA[05:44]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 665회 ＜2024 더 프렌즈 특집 2부＞ 우승자 ⭐손태진&진원⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/57086844</id>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/57085263"/>
         <updated>2024-07-06T11:15:40.950Z</updated>
         <content type="html"><![CDATA[05:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왕중왕왕전!? 가문의 명예를 걸고 다짐하는 무대!🎙 | KBS 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57085102</id>
+        <link href="https://tv.naver.com/v/57085102"/>
+        <updated>2024-07-08T15:20:08.217Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
     </entry>
 </feed>
