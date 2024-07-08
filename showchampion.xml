@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-08T08:23:32.364Z</updated>
+    <updated>2024-07-08T09:20:53.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 청량함으로 장마철의 꿉꿉함을 날려버릴 쇼챔!]]></title>
+        <id>https://tv.naver.com/v/57155569</id>
+        <link href="https://tv.naver.com/v/57155569"/>
+        <updated>2024-07-08T09:20:41.056Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.524 | 240703]]></title>
         <id>https://tv.naver.com/v/56949597</id>
@@ -48,6 +55,13 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[저음 영재의 등장🖤 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/56972524</id>
+        <link href="https://tv.naver.com/v/56972524"/>
+        <updated>2024-07-08T09:20:41.066Z</updated>
+        <content type="html"><![CDATA[00:24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5개월 차 신인 투어스의 1위 앵콜 무대🍀 ㅣ 쇼챔피언]]></title>
         <id>https://tv.naver.com/v/56972190</id>
         <link href="https://tv.naver.com/v/56972190"/>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/56924889"/>
         <updated>2024-07-03T13:20:41.971Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] H1-KEY RIINA(하이키 리이나) - 뜨거워지자 | Show Champion | EP.524 | 240703]]></title>
-        <id>https://tv.naver.com/v/56924656</id>
-        <link href="https://tv.naver.com/v/56924656"/>
-        <updated>2024-07-03T13:20:41.973Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] TRENDZ(트렌드지) - GLOW | Show Champion | EP.524 | 240703]]></title>
-        <id>https://tv.naver.com/v/56923705</id>
-        <link href="https://tv.naver.com/v/56923705"/>
-        <updated>2024-07-03T13:20:41.975Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>

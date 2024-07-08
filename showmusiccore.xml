@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-08T08:23:32.348Z</updated>
+    <updated>2024-07-08T09:20:53.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT WISH RIKU (엔시티 위시 리쿠) – Songbird (Korean Ver.) | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57168997</id>
+        <link href="https://tv.naver.com/v/57168997"/>
+        <updated>2024-07-08T09:20:17.260Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT WISH YUSHI (엔시티 위시 유우시) – Songbird (Korean Ver.) | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57168995</id>
+        <link href="https://tv.naver.com/v/57168995"/>
+        <updated>2024-07-08T09:20:17.260Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE BELLE (키스 오브 라이프 벨) - Sticky | 쇼! 음악중심 | MBC240706방송]]></title>
         <id>https://tv.naver.com/v/57085095</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/57084438"/>
         <updated>2024-07-06T10:17:21.841Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC SUMIN (스테이씨 수민) - Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084437</id>
-        <link href="https://tv.naver.com/v/57084437"/>
-        <updated>2024-07-06T10:17:21.843Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC (스테이씨) Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084435</id>
-        <link href="https://tv.naver.com/v/57084435"/>
-        <updated>2024-07-06T10:17:21.844Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
