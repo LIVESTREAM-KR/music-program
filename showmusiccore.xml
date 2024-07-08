@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-08T09:20:53.780Z</updated>
+    <updated>2024-07-08T10:20:30.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet YERI (레드벨벳 예리) – Cosmic | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57171703</id>
+        <link href="https://tv.naver.com/v/57171703"/>
+        <updated>2024-07-08T10:19:55.329Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet IRENE (레드벨벳 아이린) – Cosmic | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57171642</id>
+        <link href="https://tv.naver.com/v/57171642"/>
+        <updated>2024-07-08T10:19:55.329Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Red Velvet SEULGI (레드벨벳 슬기) – Cosmic | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57171641</id>
+        <link href="https://tv.naver.com/v/57171641"/>
+        <updated>2024-07-08T10:19:55.330Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT WISH RIKU (엔시티 위시 리쿠) – Songbird (Korean Ver.) | 쇼! 음악중심 | MBC240706방송]]></title>
         <id>https://tv.naver.com/v/57168997</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/57084679"/>
         <updated>2024-07-06T11:15:12.599Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] BADVILLAIN (배드빌런) – HURRICANE | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084531</id>
-        <link href="https://tv.naver.com/v/57084531"/>
-        <updated>2024-07-06T10:17:21.839Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC (스테이씨) – Stay WITH me | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084439</id>
-        <link href="https://tv.naver.com/v/57084439"/>
-        <updated>2024-07-06T10:17:21.840Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC SIEUN (스테이씨 시은) - Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084438</id>
-        <link href="https://tv.naver.com/v/57084438"/>
-        <updated>2024-07-06T10:17:21.841Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
