@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-07-09T10:19:44.040Z</updated>
+    <updated>2024-07-09T11:16:41.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT WISH가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/57239104</id>
+        <link href="https://tv.naver.com/v/57239104"/>
+        <updated>2024-07-09T11:16:19.771Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet - Cosmic | Mnet 240704 방송]]></title>
         <id>https://tv.naver.com/v/56984193</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/56982851"/>
         <updated>2024-07-04T11:18:12.485Z</updated>
         <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWS (투어스) - 내가 S면 넌 나의 N이 되어줘 | Mnet 240704 방송]]></title>
-        <id>https://tv.naver.com/v/56982662</id>
-        <link href="https://tv.naver.com/v/56982662"/>
-        <updated>2024-07-04T11:18:12.488Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>

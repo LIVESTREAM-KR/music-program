@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-09T10:19:44.054Z</updated>
+    <updated>2024-07-09T11:16:41.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cosmic - 레드벨벳 | KBS 240705 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NCT WISH가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57239104</id>
+        <link href="https://tv.naver.com/v/57239104"/>
+        <updated>2024-07-09T11:16:19.771Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Red Velvet - Cosmic | Mnet 240704 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/56984193</id>
         <link href="https://tv.naver.com/v/56984193"/>
@@ -278,11 +285,39 @@
         <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TWS (투어스) - 내가 S면 넌 나의 N이 되어줘 | Mnet 240704 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56982662</id>
-        <link href="https://tv.naver.com/v/56982662"/>
-        <updated>2024-07-04T11:18:12.488Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
+        <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
+        <id>https://tv.naver.com/v/57238873</id>
+        <link href="https://tv.naver.com/v/57238873"/>
+        <updated>2024-07-09T11:16:25.047Z</updated>
+        <content type="html"><![CDATA[05:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEE CHAE YEON, Don't (이채연, Don't) [THE SHOW 240709] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/57238622</id>
+        <link href="https://tv.naver.com/v/57238622"/>
+        <updated>2024-07-09T11:16:25.048Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEE CHAE YEON, Summer Heat (이채연, Summer Heat) [THE SHOW 240709] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/57238446</id>
+        <link href="https://tv.naver.com/v/57238446"/>
+        <updated>2024-07-09T11:16:25.049Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISS OF LIFE, Te Quiero [THE SHOW 240709] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/57238405</id>
+        <link href="https://tv.naver.com/v/57238405"/>
+        <updated>2024-07-09T11:16:25.052Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISS OF LIFE, Sticky [THE SHOW 240709] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/57238401</id>
+        <link href="https://tv.naver.com/v/57238401"/>
+        <updated>2024-07-09T11:16:25.053Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT WISH, Songbird (Korean Ver.) [THE SHOW 240709] (더쇼)]]></title>
@@ -306,20 +341,6 @@
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EVNNE, Badder Love (이븐, Badder Love) [THE SHOW 240709] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/57237319</id>
-        <link href="https://tv.naver.com/v/57237319"/>
-        <updated>2024-07-09T10:19:28.200Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAXY, STUPIDZ (크랙시, STUPIDZ) [THE SHOW 240709] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/57237317</id>
-        <link href="https://tv.naver.com/v/57237317"/>
-        <updated>2024-07-09T10:19:28.202Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GALAXYKIDS, Fly High [THE SHOW 240709] (더쇼)]]></title>
         <id>https://tv.naver.com/v/57237316</id>
         <link href="https://tv.naver.com/v/57237316"/>
@@ -327,32 +348,11 @@
         <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BLITZERS, SUPERPOWER (블리처스, SUPERPOWER) [THE SHOW 240709] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/57236832</id>
-        <link href="https://tv.naver.com/v/57236832"/>
-        <updated>2024-07-09T10:19:28.207Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챌린딩] MC 형준 & KISS OF LIFE [THE SHOW 240709] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/57236828</id>
-        <link href="https://tv.naver.com/v/57236828"/>
-        <updated>2024-07-09T10:19:28.207Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gyubin, Satellite (규빈, Satellite) [THE SHOW 240709] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/57236626</id>
-        <link href="https://tv.naver.com/v/57236626"/>
-        <updated>2024-07-09T10:19:28.209Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VVUP, Ain't Nobody (비비업, Ain't Nobody) [THE SHOW 240709] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/57236625</id>
-        <link href="https://tv.naver.com/v/57236625"/>
-        <updated>2024-07-09T10:19:28.211Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
+        <title type="html"><![CDATA[EVNNE, Badder Love (이븐, Badder Love) [THE SHOW 240709] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/57237319</id>
+        <link href="https://tv.naver.com/v/57237319"/>
+        <updated>2024-07-09T10:19:28.200Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 청량함으로 장마철의 꿉꿉함을 날려버릴 쇼챔! (쇼챔피언)]]></title>
