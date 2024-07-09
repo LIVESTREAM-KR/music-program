@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-09T01:18:22.247Z</updated>
+    <updated>2024-07-09T02:36:27.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC ISA (스테이씨 아이사) – Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57207695</id>
+        <link href="https://tv.naver.com/v/57207695"/>
+        <updated>2024-07-09T02:35:53.390Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS JIHOON (투어스 지훈) – Double Take | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57206057</id>
+        <link href="https://tv.naver.com/v/57206057"/>
+        <updated>2024-07-09T02:35:53.397Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU (투어스 신유) – Double Take | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57206054</id>
+        <link href="https://tv.naver.com/v/57206054"/>
+        <updated>2024-07-09T02:35:53.398Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 시온(NCT WISH) , 7월 첫째 주 음악중심 MC 컷 모음!, MBC 240706 방송]]></title>
+        <id>https://tv.naver.com/v/57206050</id>
+        <link href="https://tv.naver.com/v/57206050"/>
+        <updated>2024-07-09T02:35:53.399Z</updated>
+        <content type="html"><![CDATA[16:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Red Velvet YERI (레드벨벳 예리) – Cosmic | 쇼! 음악중심 | MBC240706방송]]></title>
         <id>https://tv.naver.com/v/57171703</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/57085095"/>
         <updated>2024-07-06T11:15:12.597Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE NATTY (키스 오브 라이프 나띠) - Sticky | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57085091</id>
-        <link href="https://tv.naver.com/v/57085091"/>
-        <updated>2024-07-06T11:15:12.599Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE JULIE (키스 오브 라이프 쥴리) - Sticky | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57085090</id>
-        <link href="https://tv.naver.com/v/57085090"/>
-        <updated>2024-07-06T11:15:12.599Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE (키스 오브 라이프) – Sticky | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084947</id>
-        <link href="https://tv.naver.com/v/57084947"/>
-        <updated>2024-07-06T11:15:12.599Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC J (스테이씨 재이) - Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57084679</id>
-        <link href="https://tv.naver.com/v/57084679"/>
-        <updated>2024-07-06T11:15:12.599Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>
