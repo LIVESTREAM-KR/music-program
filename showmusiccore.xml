@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-09T08:21:50.819Z</updated>
+    <updated>2024-07-09T09:19:55.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE ANTON (라이즈 앤톤) – Boom Boom Bass | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57234876</id>
+        <link href="https://tv.naver.com/v/57234876"/>
+        <updated>2024-07-09T09:19:19.574Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE WONBIN (라이즈 원빈) – Boom Boom Bass | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57234107</id>
+        <link href="https://tv.naver.com/v/57234107"/>
+        <updated>2024-07-09T09:19:19.577Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE SUNGCHAN (라이즈 성찬) – Boom Boom Bass | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57233393</id>
+        <link href="https://tv.naver.com/v/57233393"/>
+        <updated>2024-07-09T09:19:19.582Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] RIIZE SHOTARO (라이즈 쇼타로) – Boom Boom Bass | 쇼! 음악중심 | MBC240706방송]]></title>
+        <id>https://tv.naver.com/v/57233389</id>
+        <link href="https://tv.naver.com/v/57233389"/>
+        <updated>2024-07-09T09:19:19.582Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] STAYC SIEUN (스테이씨 시은) – Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
         <id>https://tv.naver.com/v/57214507</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/57171703"/>
         <updated>2024-07-08T10:19:55.329Z</updated>
         <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] Red Velvet IRENE (레드벨벳 아이린) – Cosmic | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57171642</id>
-        <link href="https://tv.naver.com/v/57171642"/>
-        <updated>2024-07-08T10:19:55.329Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] Red Velvet SEULGI (레드벨벳 슬기) – Cosmic | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57171641</id>
-        <link href="https://tv.naver.com/v/57171641"/>
-        <updated>2024-07-08T10:19:55.330Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT WISH RIKU (엔시티 위시 리쿠) – Songbird (Korean Ver.) | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57168997</id>
-        <link href="https://tv.naver.com/v/57168997"/>
-        <updated>2024-07-08T09:20:17.260Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT WISH YUSHI (엔시티 위시 유우시) – Songbird (Korean Ver.) | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57168995</id>
-        <link href="https://tv.naver.com/v/57168995"/>
-        <updated>2024-07-08T09:20:17.260Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
