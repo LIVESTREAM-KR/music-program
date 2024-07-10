@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-10T07:19:16.074Z</updated>
+    <updated>2024-07-10T08:24:35.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블리처스(BLITZERS) - SUPERPOWER l 240710]]></title>
+        <id>https://tv.naver.com/v/57296564</id>
+        <link href="https://tv.naver.com/v/57296564"/>
+        <updated>2024-07-10T08:24:22.899Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크랙시(CRAXY) - STUPIDZ l 240710]]></title>
+        <id>https://tv.naver.com/v/57296562</id>
+        <link href="https://tv.naver.com/v/57296562"/>
+        <updated>2024-07-10T08:24:22.900Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 청량함으로 장마철의 꿉꿉함을 날려버릴 쇼챔!]]></title>
         <id>https://tv.naver.com/v/57155569</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/56972524"/>
         <updated>2024-07-08T09:20:41.066Z</updated>
         <content type="html"><![CDATA[00:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천만번째 투어스에게 끌리는 중💞 ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/56972558</id>
-        <link href="https://tv.naver.com/v/56972558"/>
-        <updated>2024-07-08T12:35:27.864Z</updated>
-        <content type="html"><![CDATA[00:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5개월 차 신인 투어스의 1위 앵콜 무대🍀 ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/56972190</id>
-        <link href="https://tv.naver.com/v/56972190"/>
-        <updated>2024-07-05T14:17:41.885Z</updated>
-        <content type="html"><![CDATA[00:59]]></content>
     </entry>
 </feed>
