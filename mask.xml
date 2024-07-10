@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-07-10T06:25:56.241Z</updated>
+    <updated>2024-07-10T07:19:16.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥다재다능한 자이언트 베이비&징맨💥 코미디언 미키광수 하이라이트!, MBC 240707 방송]]></title>
+        <id>https://tv.naver.com/v/57291781</id>
+        <link href="https://tv.naver.com/v/57291781"/>
+        <updated>2024-07-10T07:19:15.270Z</updated>
+        <content type="html"><![CDATA[10:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 💗감성을 자극하는 섬세한 목소리💐 가수 김필선 하이라이트!, MBC 240707 방송]]></title>
+        <id>https://tv.naver.com/v/57290723</id>
+        <link href="https://tv.naver.com/v/57290723"/>
+        <updated>2024-07-10T07:19:15.270Z</updated>
+        <content type="html"><![CDATA[09:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜눈물부터 기립박수까지?!👏 모두의 마음을 훔친 실력자의 등장😎＞ 복면가왕 459회 예고, MBC 240714 방송]]></title>
         <id>https://tv.naver.com/v/57119782</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/57118094"/>
         <updated>2024-07-07T10:18:06.208Z</updated>
         <content type="html"><![CDATA[01:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['회 사줄게'의 정체는 트로트 가수 이미리!, MBC 240707 방송]]></title>
-        <id>https://tv.naver.com/v/57118089</id>
-        <link href="https://tv.naver.com/v/57118089"/>
-        <updated>2024-07-07T10:18:06.209Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유희관X송가인과 절친한 사이인 '회 사줄게'! 호랑이 무늬 커플티의 의미는?!🐯, MBC 240707 방송]]></title>
-        <id>https://tv.naver.com/v/57117777</id>
-        <link href="https://tv.naver.com/v/57117777"/>
-        <updated>2024-07-07T10:18:06.211Z</updated>
-        <content type="html"><![CDATA[01:43]]></content>
     </entry>
 </feed>

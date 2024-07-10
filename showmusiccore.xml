@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-10T06:25:56.235Z</updated>
+    <updated>2024-07-10T07:19:16.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Red Velvet.zip 📂 Happiness(행복)부터 Cosmic까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/57280604</id>
+        <link href="https://tv.naver.com/v/57280604"/>
+        <updated>2024-07-10T07:18:40.376Z</updated>
+        <content type="html"><![CDATA[01:10:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] RIIZE ANTON (라이즈 앤톤) – Boom Boom Bass | 쇼! 음악중심 | MBC240706방송]]></title>
         <id>https://tv.naver.com/v/57234876</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57206050"/>
         <updated>2024-07-09T02:35:53.399Z</updated>
         <content type="html"><![CDATA[16:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] Red Velvet YERI (레드벨벳 예리) – Cosmic | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57171703</id>
-        <link href="https://tv.naver.com/v/57171703"/>
-        <updated>2024-07-08T10:19:55.329Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
     </entry>
 </feed>
