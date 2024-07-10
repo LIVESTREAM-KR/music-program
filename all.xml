@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-10T10:20:42.101Z</updated>
+    <updated>2024-07-10T11:16:21.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cosmic - 레드벨벳 | KBS 240705 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 7월 2주 챔피언송 ＜NCT WISH - Songbird (Korean Ver.)＞ 앵콜 Full ver. lShow Championl EP.525 l 240710 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/57303179</id>
+        <link href="https://tv.naver.com/v/57303179"/>
+        <updated>2024-07-10T11:16:09.044Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 키스오브라이프(KISS OF LIFE) - Sticky l 240710 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/57299977</id>
         <link href="https://tv.naver.com/v/57299977"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/57298160"/>
         <updated>2024-07-10T09:19:30.697Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 엔티엑스(NTX) - PROBLEMATIC l 240710 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/57297870</id>
-        <link href="https://tv.naver.com/v/57297870"/>
-        <updated>2024-07-10T09:19:30.699Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[가로 직캠] 이지훈&손준호 - Never Ending Story | KBS 240706 방송 (불후의 명곡)]]></title>
