@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-10T09:19:41.702Z</updated>
+    <updated>2024-07-10T10:20:42.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cosmic - 레드벨벳 | KBS 240705 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[COMEBACK] 키스오브라이프(KISS OF LIFE) - Sticky l 240710 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/57299977</id>
+        <link href="https://tv.naver.com/v/57299977"/>
+        <updated>2024-07-10T10:20:30.023Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 엔시티 위시(NCT WISH) - Songbird (Korean Ver.) l 240710 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/57299755</id>
         <link href="https://tv.naver.com/v/57299755"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/57297870"/>
         <updated>2024-07-10T09:19:30.699Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'KISS OF LIFE' 나!왔어✋🏻 l 240710 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/57297779</id>
-        <link href="https://tv.naver.com/v/57297779"/>
-        <updated>2024-07-10T09:19:30.700Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[가로 직캠] 이지훈&손준호 - Never Ending Story | KBS 240706 방송 (불후의 명곡)]]></title>
