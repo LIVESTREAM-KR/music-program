@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-11T12:35:27.211Z</updated>
+    <updated>2024-07-11T13:22:04.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cosmic - 레드벨벳 | KBS 240705 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,55 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' (여자)아이들 - 클락션 (Klaxon) | Mnet 240711 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57375766</id>
+        <link href="https://tv.naver.com/v/57375766"/>
+        <updated>2024-07-11T13:21:39.513Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 영재 (YOUNGJAE) - T.P.O | Mnet 240711 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57375727</id>
+        <link href="https://tv.naver.com/v/57375727"/>
+        <updated>2024-07-11T13:21:39.514Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 드림캐쳐 - JUSTICE | Mnet 240711 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57375688</id>
+        <link href="https://tv.naver.com/v/57375688"/>
+        <updated>2024-07-11T13:21:39.515Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이채연 - Don't | Mnet 240711 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57375045</id>
+        <link href="https://tv.naver.com/v/57375045"/>
+        <updated>2024-07-11T13:21:39.516Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' Weeekly (위클리) - LIGHTS ON | Mnet 240711 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57374737</id>
+        <link href="https://tv.naver.com/v/57374737"/>
+        <updated>2024-07-11T13:21:39.518Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC(스테이씨) - Cheeky Icy Thang | Mnet 240711 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57374319</id>
+        <link href="https://tv.naver.com/v/57374319"/>
+        <updated>2024-07-11T13:21:39.520Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['차차차' RIIZE 𝘷𝘴 KISS OF LIFE 𝘷𝘴 STAYC!!! 오늘은 내가 인형뽑기 왕! | Mnet 240711 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57374279</id>
+        <link href="https://tv.naver.com/v/57374279"/>
+        <updated>2024-07-11T13:21:39.523Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TWS (투어스) - 내가 S면 넌 나의 N이 되어줘 | Mnet 240711 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/57373877</id>
         <link href="https://tv.naver.com/v/57373877"/>
@@ -234,55 +283,6 @@
         <link href="https://tv.naver.com/v/57372853"/>
         <updated>2024-07-11T12:35:02.988Z</updated>
         <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - Songbird (Korean Ver.) | Mnet 240711 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/57372601</id>
-        <link href="https://tv.naver.com/v/57372601"/>
-        <updated>2024-07-11T12:35:02.990Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' BABYMONSTER - FOREVER | Mnet 240711 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/57371619</id>
-        <link href="https://tv.naver.com/v/57371619"/>
-        <updated>2024-07-11T12:35:02.992Z</updated>
-        <content type="html"><![CDATA[04:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVNNE(이븐) - I ＜3 U (I love U) | Mnet 240711 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/57371249</id>
-        <link href="https://tv.naver.com/v/57371249"/>
-        <updated>2024-07-11T12:35:02.993Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY (하이키) - 뜨거워지자 (Let It Burn) | Mnet 240711 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/57370887</id>
-        <link href="https://tv.naver.com/v/57370887"/>
-        <updated>2024-07-11T12:35:02.994Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - 도깨비(SHOCK) | Mnet 240711 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/57370623</id>
-        <link href="https://tv.naver.com/v/57370623"/>
-        <updated>2024-07-11T12:35:02.995Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[B.D.U - My One | Mnet 240711 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/57370249</id>
-        <link href="https://tv.naver.com/v/57370249"/>
-        <updated>2024-07-11T12:35:02.996Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VVUP(비비업) - Ain't Nobody | Mnet 240711 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/57369912</id>
-        <link href="https://tv.naver.com/v/57369912"/>
-        <updated>2024-07-11T12:35:02.998Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
