@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-12T03:21:26.150Z</updated>
+    <updated>2024-07-12T04:21:09.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 숲의 정령들같아🌿💫 레전드 헤메코 찍음🤍 #레드벨벳 #RedVelvet 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/57401465</id>
+        <link href="https://tv.naver.com/v/57401465"/>
+        <updated>2024-07-12T04:20:33.384Z</updated>
+        <content type="html"><![CDATA[11:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] BADVILLAIN (배드빌런) - BADVILLAIN]]></title>
         <id>https://tv.naver.com/v/57283382</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57206057"/>
         <updated>2024-07-09T02:35:53.397Z</updated>
         <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU (투어스 신유) – Double Take | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57206054</id>
-        <link href="https://tv.naver.com/v/57206054"/>
-        <updated>2024-07-09T02:35:53.398Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
 </feed>
