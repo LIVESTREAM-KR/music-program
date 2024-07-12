@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-12T08:23:58.803Z</updated>
+    <updated>2024-07-12T09:20:41.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[쥴리의 골반댄스는 심장을 뛰게해..❣️ ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/57351283</id>
+        <link href="https://tv.naver.com/v/57351283"/>
+        <updated>2024-07-12T09:20:28.979Z</updated>
+        <content type="html"><![CDATA[00:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] VVUP FAAN(비비업 팬) - Ain't Nobody | Show Champion | EP.525 | 240710]]></title>
         <id>https://tv.naver.com/v/57301513</id>
         <link href="https://tv.naver.com/v/57301513"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57301261"/>
         <updated>2024-07-10T13:21:26.664Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ALL(H)OURS(올아워즈) - 도깨비(SHOCK) | Show Champion | EP.525 | 240710]]></title>
-        <id>https://tv.naver.com/v/57290659</id>
-        <link href="https://tv.naver.com/v/57290659"/>
-        <updated>2024-07-12T01:17:32.403Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
