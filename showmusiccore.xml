@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-12T06:26:04.725Z</updated>
+    <updated>2024-07-12T07:18:07.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] RIIZE (라이즈) - Boom Boom Bass | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/57284146</id>
+        <link href="https://tv.naver.com/v/57284146"/>
+        <updated>2024-07-12T07:17:32.222Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼! 음악중심] 예리 탈색은 항상 레전드💫 #RedVelvet #레드벨벳 #예리 #Shorts]]></title>
+        <id>https://tv.naver.com/v/57402713</id>
+        <link href="https://tv.naver.com/v/57402713"/>
+        <updated>2024-07-12T07:17:32.232Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 너 T야? 난 TWS인데... 내가 T면 넌 나의 W, S가 되어줘🧲 #TWS 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/57404928</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/57233389"/>
         <updated>2024-07-09T09:19:19.582Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] STAYC SIEUN (스테이씨 시은) – Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57214507</id>
-        <link href="https://tv.naver.com/v/57214507"/>
-        <updated>2024-07-09T04:21:09.680Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] STAYC ISA (스테이씨 아이사) – Cheeky Icy Thang | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57207695</id>
-        <link href="https://tv.naver.com/v/57207695"/>
-        <updated>2024-07-09T02:35:53.390Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
