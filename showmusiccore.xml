@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-12T05:17:59.632Z</updated>
+    <updated>2024-07-12T06:26:04.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 너 T야? 난 TWS인데... 내가 T면 넌 나의 W, S가 되어줘🧲 #TWS 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/57404928</id>
+        <link href="https://tv.naver.com/v/57404928"/>
+        <updated>2024-07-12T06:25:29.050Z</updated>
+        <content type="html"><![CDATA[13:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 숲의 정령들같아🌿💫 레전드 헤메코 찍음🤍 #레드벨벳 #RedVelvet 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/57401465</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57207695"/>
         <updated>2024-07-09T02:35:53.390Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS JIHOON (투어스 지훈) – Double Take | 쇼! 음악중심 | MBC240706방송]]></title>
-        <id>https://tv.naver.com/v/57206057</id>
-        <link href="https://tv.naver.com/v/57206057"/>
-        <updated>2024-07-09T02:35:53.397Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
     </entry>
 </feed>
