@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-13T08:20:53.318Z</updated>
+    <updated>2024-07-13T09:17:59.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나띠의 등장으로 여름을 느껴🔥☀️ ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/57351637</id>
+        <link href="https://tv.naver.com/v/57351637"/>
+        <updated>2024-07-13T09:17:48.462Z</updated>
+        <content type="html"><![CDATA[00:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[쥴리의 골반댄스는 심장을 뛰게해..❣️ ㅣ 쇼챔피언]]></title>
         <id>https://tv.naver.com/v/57351283</id>
         <link href="https://tv.naver.com/v/57351283"/>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/57301513</id>
         <link href="https://tv.naver.com/v/57301513"/>
         <updated>2024-07-10T13:21:26.658Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VVUP KIM(비비업 킴) - Ain't Nobody | Show Champion | EP.525 | 240710]]></title>
-        <id>https://tv.naver.com/v/57301314</id>
-        <link href="https://tv.naver.com/v/57301314"/>
-        <updated>2024-07-10T13:21:26.660Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
