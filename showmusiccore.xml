@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-13T13:19:35.090Z</updated>
+    <updated>2024-07-13T14:18:06.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] ENHYPEN SUNGHOON (엔하이픈 성훈) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
+        <id>https://tv.naver.com/v/57475196</id>
+        <link href="https://tv.naver.com/v/57475196"/>
+        <updated>2024-07-13T14:17:29.806Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] ENHYPEN NI-KI (엔하이픈 니키) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
+        <id>https://tv.naver.com/v/57474356</id>
+        <link href="https://tv.naver.com/v/57474356"/>
+        <updated>2024-07-13T14:17:29.806Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] ENHYPEN SUNOO (엔하이픈 선우) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
+        <id>https://tv.naver.com/v/57474353</id>
+        <link href="https://tv.naver.com/v/57474353"/>
+        <updated>2024-07-13T14:17:29.807Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] ENHYPEN JAY (엔하이픈 제이) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
         <id>https://tv.naver.com/v/57473943</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/57472772"/>
         <updated>2024-07-13T13:18:57.745Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT WISH (엔시티 위시) – Songbird (Korean Ver.) | 쇼! 음악중심 | MBC240713방송]]></title>
-        <id>https://tv.naver.com/v/57472771</id>
-        <link href="https://tv.naver.com/v/57472771"/>
-        <updated>2024-07-13T13:18:57.746Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TWS SHINYU (투어스 신유) - 내가 S면 넌 나의 N이 되어줘 | 쇼! 음악중심 | MBC240713방송]]></title>
-        <id>https://tv.naver.com/v/57472769</id>
-        <link href="https://tv.naver.com/v/57472769"/>
-        <updated>2024-07-13T13:18:57.749Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TWS DOHOON (투어스 도훈) - 내가 S면 넌 나의 N이 되어줘 | 쇼! 음악중심 | MBC240713방송]]></title>
-        <id>https://tv.naver.com/v/57472767</id>
-        <link href="https://tv.naver.com/v/57472767"/>
-        <updated>2024-07-13T13:18:57.750Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
