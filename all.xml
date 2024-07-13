@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-13T07:17:21.785Z</updated>
+    <updated>2024-07-13T08:20:53.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1 Thing - STAYC(스테이씨) | KBS 240712 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,48 @@
         <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 클락션 ((G)I-DLE - Klaxon), MBC 240713 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57462444</id>
+        <link href="https://tv.naver.com/v/57462444"/>
+        <updated>2024-07-13T08:20:17.288Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 - XO (Only If You Say Yes) (ENHYPEN - XO (Only If You Say Yes)), MBC 240713 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57462441</id>
+        <link href="https://tv.naver.com/v/57462441"/>
+        <updated>2024-07-13T08:20:17.290Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 - Hundred Broken Hearts (ENHYPEN - Hundred Broken Hearts), MBC 240713 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57462203</id>
+        <link href="https://tv.naver.com/v/57462203"/>
+        <updated>2024-07-13T08:20:17.290Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 - Supernatural (NewJeans - Supernatural), MBC 240713 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57462202</id>
+        <link href="https://tv.naver.com/v/57462202"/>
+        <updated>2024-07-13T08:20:17.290Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 - Right Now (NewJeans - Right Now), MBC 240713 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57461987</id>
+        <link href="https://tv.naver.com/v/57461987"/>
+        <updated>2024-07-13T08:20:17.291Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴진스 - ETA + OMG + Hype Boy (NewJeans - ETA + OMG + Hype Boy), MBC 240713 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57461985</id>
+        <link href="https://tv.naver.com/v/57461985"/>
+        <updated>2024-07-13T08:20:17.294Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[영재 - T.P.O (YOUNGJAE - T.P.O), MBC 240713 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/57461269</id>
         <link href="https://tv.naver.com/v/57461269"/>
@@ -101,48 +143,6 @@
         <link href="https://tv.naver.com/v/57460994"/>
         <updated>2024-07-13T07:16:46.264Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드림캐쳐 - JUSTICE (Dreamcatcher - JUSTICE), MBC 240713 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57460671</id>
-        <link href="https://tv.naver.com/v/57460671"/>
-        <updated>2024-07-13T07:16:46.266Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채연 - Don't (LEE CHAE YEON - Don't), MBC 240713 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57460628</id>
-        <link href="https://tv.naver.com/v/57460628"/>
-        <updated>2024-07-13T07:16:46.267Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위클리 - LIGHTS ON (Weeekly - LIGHTS ON), MBC 240713 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57460437</id>
-        <link href="https://tv.naver.com/v/57460437"/>
-        <updated>2024-07-13T07:16:46.273Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키스 오브 라이프 - Sticky (KISS OF LIFE - Sticky), MBC 240713 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57460435</id>
-        <link href="https://tv.naver.com/v/57460435"/>
-        <updated>2024-07-13T07:16:46.274Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올아워즈 - 도깨비 (ALL(H)OURS - SHOCK), MBC 240713 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57460123</id>
-        <link href="https://tv.naver.com/v/57460123"/>
-        <updated>2024-07-13T07:16:46.274Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이키 - 뜨거워지자 (H1-KEY - Let It Burn), MBC 240713 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57460122</id>
-        <link href="https://tv.naver.com/v/57460122"/>
-        <updated>2024-07-13T07:16:46.274Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet(레드벨벳) - Cosmic  | SBS 240707 방송 (인기가요)]]></title>
