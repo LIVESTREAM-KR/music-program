@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-07-13T11:16:14.000Z</updated>
+    <updated>2024-07-13T12:31:59.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 666회 ＜희극인 특집＞ 우승자 ⭐김기리&임우일⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/57470845</id>
+        <link href="https://tv.naver.com/v/57470845"/>
+        <updated>2024-07-13T12:31:52.966Z</updated>
+        <content type="html"><![CDATA[01:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 마지막 여름 특집! 러블리 카리스마🔥 음악감독 김문정 편🌟 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/57469681</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57468395"/>
         <updated>2024-07-13T11:16:08.130Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새신랑 된 김기리💐 결혼식에서 펑펑 운 절친들😢 | KBS 240713 방송]]></title>
-        <id>https://tv.naver.com/v/57468019</id>
-        <link href="https://tv.naver.com/v/57468019"/>
-        <updated>2024-07-13T11:16:08.131Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
     </entry>
 </feed>
