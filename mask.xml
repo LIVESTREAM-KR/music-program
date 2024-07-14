@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-07-14T11:17:09.842Z</updated>
+    <updated>2024-07-14T12:45:22.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] 스트레이 키즈 아이엔 3R 리허설 무대 영상 - Mermaid, MBC 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57504645</id>
+        <link href="https://tv.naver.com/v/57504645"/>
+        <updated>2024-07-14T12:45:21.965Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] 귀여운 고양이에서 무서운 호랑이로?🐯 스트레이 키즈 아이엔의 고양이 반전 댄스, MBC 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57504644</id>
+        <link href="https://tv.naver.com/v/57504644"/>
+        <updated>2024-07-14T12:45:21.968Z</updated>
+        <content type="html"><![CDATA[01:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜무더운 여름 속이 뻥 뚫리는 무대! 사이다 폭발🌊 여름 특집＞ 복면가왕 460회 예고, MBC 240721]]></title>
         <id>https://tv.naver.com/v/57504320</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/57502715"/>
         <updated>2024-07-14T11:17:09.061Z</updated>
         <content type="html"><![CDATA[02:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한도 초과'의 정체는 배우 박영규!, MBC 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57502562</id>
-        <link href="https://tv.naver.com/v/57502562"/>
-        <updated>2024-07-14T10:20:34.659Z</updated>
-        <content type="html"><![CDATA[01:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[못난 놈(?) 캐릭터의 원조격?! '한도 초과'의 지인 배우 이순재가 주는 힌트🤔, MBC 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57502384</id>
-        <link href="https://tv.naver.com/v/57502384"/>
-        <updated>2024-07-14T10:20:34.660Z</updated>
-        <content type="html"><![CDATA[02:18]]></content>
     </entry>
 </feed>
