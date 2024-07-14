@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-07-14T06:27:02.357Z</updated>
+    <updated>2024-07-14T07:19:18.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 클락션 (Klaxon)  | SBS 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57495118</id>
+        <link href="https://tv.naver.com/v/57495118"/>
+        <updated>2024-07-14T07:18:48.929Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN - XO (Only If You Say Yes) | SBS 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57494937</id>
+        <link href="https://tv.naver.com/v/57494937"/>
+        <updated>2024-07-14T07:18:48.936Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN - Hundred Broken Hearts | SBS 240714 방송]]></title>
+        <id>https://tv.naver.com/v/57494759</id>
+        <link href="https://tv.naver.com/v/57494759"/>
+        <updated>2024-07-14T07:18:48.937Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STAYC(스테이씨) - Cheeky Icy Thang | SBS 240714 방송]]></title>
         <id>https://tv.naver.com/v/57494598</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/57493781"/>
         <updated>2024-07-14T06:26:32.303Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - Songbird (Korean Ver.) | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57493745</id>
-        <link href="https://tv.naver.com/v/57493745"/>
-        <updated>2024-07-14T06:26:32.304Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY(하이키) - 뜨거워지자 (Let It Burn) | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57493740</id>
-        <link href="https://tv.naver.com/v/57493740"/>
-        <updated>2024-07-14T06:26:32.305Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BABYMONSTER - FOREVER | SBS 240714 방송]]></title>
-        <id>https://tv.naver.com/v/57493448</id>
-        <link href="https://tv.naver.com/v/57493448"/>
-        <updated>2024-07-14T06:26:32.307Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
