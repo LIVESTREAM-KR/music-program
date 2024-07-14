@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-14T08:24:33.912Z</updated>
+    <updated>2024-07-14T09:20:43.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[어떻게 사람이 발랄함과 우아함이 공존해? ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/57351778</id>
+        <link href="https://tv.naver.com/v/57351778"/>
+        <updated>2024-07-14T09:20:31.915Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[수영 쪼에 맞설 하늘 쪼✨ ㅣ 쇼챔피언]]></title>
         <id>https://tv.naver.com/v/57351717</id>
         <link href="https://tv.naver.com/v/57351717"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57351283"/>
         <updated>2024-07-12T09:20:28.979Z</updated>
         <content type="html"><![CDATA[00:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채연이 말아주는 현대판 싸이월드 갬성💫 ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57351161</id>
-        <link href="https://tv.naver.com/v/57351161"/>
-        <updated>2024-07-12T12:35:10.168Z</updated>
-        <content type="html"><![CDATA[00:45]]></content>
     </entry>
 </feed>
