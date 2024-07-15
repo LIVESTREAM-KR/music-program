@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-15T09:20:57.556Z</updated>
+    <updated>2024-07-15T10:20:46.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 지훈 X 도훈 X 신유 , TWS(투어스) 7월 둘째 주 음악중심 MC 컷 모음!, MBC 240713 방송]]></title>
+        <id>https://tv.naver.com/v/57553535</id>
+        <link href="https://tv.naver.com/v/57553535"/>
+        <updated>2024-07-15T10:20:10.286Z</updated>
+        <content type="html"><![CDATA[17:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ENHYPEN NI-KI (엔하이픈 니키) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
+        <id>https://tv.naver.com/v/57552238</id>
+        <link href="https://tv.naver.com/v/57552238"/>
+        <updated>2024-07-15T10:20:10.286Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ENHYPEN SUNGHOON (엔하이픈 성훈) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
+        <id>https://tv.naver.com/v/57552033</id>
+        <link href="https://tv.naver.com/v/57552033"/>
+        <updated>2024-07-15T10:20:10.287Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NewJeans HYEIN (뉴진스 혜인) – Supernatural | 쇼! 음악중심 | MBC240713방송]]></title>
         <id>https://tv.naver.com/v/57549743</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/57473943"/>
         <updated>2024-07-13T13:18:57.738Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN HEESEUNG (엔하이픈 희승) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
-        <id>https://tv.naver.com/v/57473892</id>
-        <link href="https://tv.naver.com/v/57473892"/>
-        <updated>2024-07-13T13:18:57.738Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN JAKE (엔하이픈 제이크) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
-        <id>https://tv.naver.com/v/57473694</id>
-        <link href="https://tv.naver.com/v/57473694"/>
-        <updated>2024-07-13T13:18:57.739Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN JUNGWON (엔하이픈 정원) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
-        <id>https://tv.naver.com/v/57473693</id>
-        <link href="https://tv.naver.com/v/57473693"/>
-        <updated>2024-07-13T13:18:57.740Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
