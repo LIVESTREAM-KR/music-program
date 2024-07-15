@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-15T08:24:20.816Z</updated>
+    <updated>2024-07-15T09:20:57.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NewJeans HYEIN (뉴진스 혜인) – Supernatural | 쇼! 음악중심 | MBC240713방송]]></title>
+        <id>https://tv.naver.com/v/57549743</id>
+        <link href="https://tv.naver.com/v/57549743"/>
+        <updated>2024-07-15T09:20:25.535Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NewJeans HANNI (뉴진스 하니) – Supernatural | 쇼! 음악중심 | MBC240713방송]]></title>
+        <id>https://tv.naver.com/v/57549739</id>
+        <link href="https://tv.naver.com/v/57549739"/>
+        <updated>2024-07-15T09:20:25.538Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] STAYC(스테이씨).zip 📂 SO BAD부터 Cheeky Icy Thang까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/57358745</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/57473693"/>
         <updated>2024-07-13T13:18:57.740Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN (엔하이픈) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송]]></title>
-        <id>https://tv.naver.com/v/57473289</id>
-        <link href="https://tv.naver.com/v/57473289"/>
-        <updated>2024-07-13T13:18:57.741Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN (엔하이픈) – Hundred Broken Hearts | 쇼! 음악중심 | MBC240713방송]]></title>
-        <id>https://tv.naver.com/v/57472801</id>
-        <link href="https://tv.naver.com/v/57472801"/>
-        <updated>2024-07-13T13:18:57.742Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
