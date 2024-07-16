@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-16T08:24:20.207Z</updated>
+    <updated>2024-07-16T09:21:32.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1 Thing - STAYC(스테이씨) | KBS 240712 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,27 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨진심 가득한 목소리의 정통 발라더🐣 가수 이병찬 하이라이트!, MBC 240714 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/57610971</id>
+        <link href="https://tv.naver.com/v/57610971"/>
+        <updated>2024-07-16T09:21:32.046Z</updated>
+        <content type="html"><![CDATA[12:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🧭강렬한 퍼포먼스 속 부드러운 미성🦊 스트레이 키즈 아이엔 하이라이트!, MBC 240714 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/57610652</id>
+        <link href="https://tv.naver.com/v/57610652"/>
+        <updated>2024-07-16T09:21:32.046Z</updated>
+        <content type="html"><![CDATA[10:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🔥동양인 최초 웨스트엔드 ＜레미제라블＞ 주연✨ 뮤지컬 배우 전나영 하이라이트!, MBC 240714 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/57610648</id>
+        <link href="https://tv.naver.com/v/57610648"/>
+        <updated>2024-07-16T09:21:32.047Z</updated>
+        <content type="html"><![CDATA[11:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[미방분 공개] 스트레이 키즈 아이엔 3R 리허설 무대 영상 - Mermaid, MBC 240714 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/57504645</id>
         <link href="https://tv.naver.com/v/57504645"/>
@@ -520,7 +541,7 @@
         <id>https://tv.naver.com/v/57504051</id>
         <link href="https://tv.naver.com/v/57504051"/>
         <updated>2024-07-14T11:17:09.050Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
+        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['헤라클레스'의 가왕 방어전 무대 - 위로, MBC 240714 방송 (복면가왕)]]></title>
@@ -542,26 +563,5 @@
         <link href="https://tv.naver.com/v/57503248"/>
         <updated>2024-07-14T11:17:09.054Z</updated>
         <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['회사 줄게' 3라운드 무대 - 도망가자, MBC 240714 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/57503075</id>
-        <link href="https://tv.naver.com/v/57503075"/>
-        <updated>2024-07-14T11:17:09.057Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한도 초과' 박영규의 스페셜 무대 - 사랑은 영원히, MBC 240714 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/57502721</id>
-        <link href="https://tv.naver.com/v/57502721"/>
-        <updated>2024-07-14T11:17:09.060Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['한도 초과' 박영규의 스페셜 무대 - 카멜레온, MBC 240714 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/57502715</id>
-        <link href="https://tv.naver.com/v/57502715"/>
-        <updated>2024-07-14T11:17:09.061Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
     </entry>
 </feed>
