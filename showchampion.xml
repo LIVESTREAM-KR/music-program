@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-17T07:18:53.760Z</updated>
+    <updated>2024-07-17T08:24:06.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'Weeekly(위클리)' 나!왔어✋🏻 l 240717]]></title>
+        <id>https://tv.naver.com/v/57668716</id>
+        <link href="https://tv.naver.com/v/57668716"/>
+        <updated>2024-07-17T08:23:55.607Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비업(VVUP) - Ain’t Nobody l 240717]]></title>
+        <id>https://tv.naver.com/v/57668712</id>
+        <link href="https://tv.naver.com/v/57668712"/>
+        <updated>2024-07-17T08:23:55.608Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웨이커(WAKER) - Vanilla Choco Shake l 240717]]></title>
+        <id>https://tv.naver.com/v/57668383</id>
+        <link href="https://tv.naver.com/v/57668383"/>
+        <updated>2024-07-17T08:23:55.608Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 쇼챔이 좋다고 말해.. 🙋쇼챔이 좋다!!!]]></title>
         <id>https://tv.naver.com/v/57536741</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/57336948"/>
         <updated>2024-07-11T08:22:37.722Z</updated>
         <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 사람이 발랄함과 우아함이 공존해? ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57351778</id>
-        <link href="https://tv.naver.com/v/57351778"/>
-        <updated>2024-07-14T09:20:31.915Z</updated>
-        <content type="html"><![CDATA[00:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수영 쪼에 맞설 하늘 쪼✨ ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57351717</id>
-        <link href="https://tv.naver.com/v/57351717"/>
-        <updated>2024-07-13T12:31:47.305Z</updated>
-        <content type="html"><![CDATA[00:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나띠의 등장으로 여름을 느껴🔥☀️ ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57351637</id>
-        <link href="https://tv.naver.com/v/57351637"/>
-        <updated>2024-07-13T09:17:48.462Z</updated>
-        <content type="html"><![CDATA[00:54]]></content>
     </entry>
 </feed>
