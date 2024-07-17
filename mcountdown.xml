@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-07-17T11:16:25.206Z</updated>
+    <updated>2024-07-17T12:35:29.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[🌹엠카 20주년 기념 VOCAL CHALLENGE 07. 18. 6PM COMING SOON🌹]]></title>
+        <id>https://tv.naver.com/v/57681826</id>
+        <link href="https://tv.naver.com/v/57681826"/>
+        <updated>2024-07-17T12:35:06.233Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[★엠카 20주년★ 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/57647019</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57373877"/>
         <updated>2024-07-11T12:35:02.986Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) | Mnet 240711 방송]]></title>
-        <id>https://tv.naver.com/v/57373866</id>
-        <link href="https://tv.naver.com/v/57373866"/>
-        <updated>2024-07-11T12:35:02.987Z</updated>
-        <content type="html"><![CDATA[06:19]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-17T11:16:25.198Z</updated>
+    <updated>2024-07-17T12:35:29.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1 Thing - STAYC(스테이씨) | KBS 240712 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔싸인 - Love, Love, Love Love Love! (n.SSign - Love, Love, Love Love Love!), MBC 240717 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57682467</id>
+        <link href="https://tv.naver.com/v/57682467"/>
+        <updated>2024-07-17T12:34:55.462Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넥스지 - Ride the Vibe (NEXZ - Ride the Vibe), MBC 240717 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57682122</id>
+        <link href="https://tv.naver.com/v/57682122"/>
+        <updated>2024-07-17T12:34:55.463Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일릿 - Magnetic (ILLIT - Magnetic), MBC 240717 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57681842</id>
+        <link href="https://tv.naver.com/v/57681842"/>
+        <updated>2024-07-17T12:34:55.464Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] TWS (투어스) - 내가 S면 넌 나의 N이 되어줘 | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/57645665</id>
         <link href="https://tv.naver.com/v/57645665"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/57552238"/>
         <updated>2024-07-15T10:20:10.286Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ENHYPEN SUNGHOON (엔하이픈 성훈) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240713방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57552033</id>
-        <link href="https://tv.naver.com/v/57552033"/>
-        <updated>2024-07-15T10:20:10.287Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NewJeans HYEIN (뉴진스 혜인) – Supernatural | 쇼! 음악중심 | MBC240713방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57549743</id>
-        <link href="https://tv.naver.com/v/57549743"/>
-        <updated>2024-07-15T09:20:25.535Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NewJeans HANNI (뉴진스 하니) – Supernatural | 쇼! 음악중심 | MBC240713방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57549739</id>
-        <link href="https://tv.naver.com/v/57549739"/>
-        <updated>2024-07-15T09:20:25.538Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 클락션 (Klaxon)  | SBS 240714 방송 (인기가요)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🌹엠카 20주년 기념 VOCAL CHALLENGE 07. 18. 6PM COMING SOON🌹 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57681826</id>
+        <link href="https://tv.naver.com/v/57681826"/>
+        <updated>2024-07-17T12:35:06.233Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[★엠카 20주년★ 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/57647019</id>
         <link href="https://tv.naver.com/v/57647019"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/57373877"/>
         <updated>2024-07-11T12:35:02.986Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) | Mnet 240711 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/57373866</id>
-        <link href="https://tv.naver.com/v/57373866"/>
-        <updated>2024-07-11T12:35:02.987Z</updated>
-        <content type="html"><![CDATA[06:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
