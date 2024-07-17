@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-17T09:21:59.111Z</updated>
+    <updated>2024-07-17T10:20:27.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1 Thing - STAYC(스테이씨) | KBS 240712 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 7월 3주 챔피언송 ＜KISS OF LIFE - Sticky＞ 앵콜 Full ver. l Show Champion l EP.526 l 240717 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/57674029</id>
+        <link href="https://tv.naver.com/v/57674029"/>
+        <updated>2024-07-17T10:20:16.013Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 드림캐쳐(Dreamcatcher) - JUSTICE l 240717 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/57672059</id>
         <link href="https://tv.naver.com/v/57672059"/>
@@ -367,6 +374,13 @@
         <link href="https://tv.naver.com/v/57672052"/>
         <updated>2024-07-17T09:21:46.117Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 위클리(Weeekly) - LIGHTS ON l 240717 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/57671803</id>
+        <link href="https://tv.naver.com/v/57671803"/>
+        <updated>2024-07-17T10:20:16.017Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키스오브라이프(KISS OF LIFE) - Sticky l 240717 (쇼챔피언)]]></title>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/57670234"/>
         <updated>2024-07-17T09:21:46.125Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPECIAL STAGE] 크레즐(CREZL) - 피안화 l 240717 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/57669999</id>
-        <link href="https://tv.naver.com/v/57669999"/>
-        <updated>2024-07-17T09:21:46.127Z</updated>
-        <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔티엑스(NTX) - PROBLEMATIC l 240717 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/57669664</id>
-        <link href="https://tv.naver.com/v/57669664"/>
-        <updated>2024-07-17T09:21:46.128Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 666회 ＜희극인 특집＞ 우승자 ⭐김기리&임우일⭐ | KBS 방송 (불후의 명곡)]]></title>

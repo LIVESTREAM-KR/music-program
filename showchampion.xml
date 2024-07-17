@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-17T09:21:59.114Z</updated>
+    <updated>2024-07-17T10:20:27.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 7월 3주 챔피언송 ＜KISS OF LIFE - Sticky＞ 앵콜 Full ver. l Show Champion l EP.526 l 240717]]></title>
+        <id>https://tv.naver.com/v/57674029</id>
+        <link href="https://tv.naver.com/v/57674029"/>
+        <updated>2024-07-17T10:20:16.013Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 드림캐쳐(Dreamcatcher) - JUSTICE l 240717]]></title>
         <id>https://tv.naver.com/v/57672059</id>
@@ -18,6 +25,13 @@
         <link href="https://tv.naver.com/v/57672052"/>
         <updated>2024-07-17T09:21:46.117Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 위클리(Weeekly) - LIGHTS ON l 240717]]></title>
+        <id>https://tv.naver.com/v/57671803</id>
+        <link href="https://tv.naver.com/v/57671803"/>
+        <updated>2024-07-17T10:20:16.017Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키스오브라이프(KISS OF LIFE) - Sticky l 240717]]></title>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/57670234"/>
         <updated>2024-07-17T09:21:46.125Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPECIAL STAGE] 크레즐(CREZL) - 피안화 l 240717]]></title>
-        <id>https://tv.naver.com/v/57669999</id>
-        <link href="https://tv.naver.com/v/57669999"/>
-        <updated>2024-07-17T09:21:46.127Z</updated>
-        <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔티엑스(NTX) - PROBLEMATIC l 240717]]></title>
-        <id>https://tv.naver.com/v/57669664</id>
-        <link href="https://tv.naver.com/v/57669664"/>
-        <updated>2024-07-17T09:21:46.128Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
 </feed>
