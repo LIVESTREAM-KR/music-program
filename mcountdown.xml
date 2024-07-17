@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-07-17T01:19:10.836Z</updated>
+    <updated>2024-07-17T02:36:50.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[★엠카 20주년★ 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/57647019</id>
+        <link href="https://tv.naver.com/v/57647019"/>
+        <updated>2024-07-17T02:36:27.888Z</updated>
+        <content type="html"><![CDATA[00:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' (여자)아이들 - 클락션 (Klaxon) | Mnet 240711 방송]]></title>
         <id>https://tv.naver.com/v/57375766</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57373866"/>
         <updated>2024-07-11T12:35:02.987Z</updated>
         <content type="html"><![CDATA[06:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - Sticky | Mnet 240711 방송]]></title>
-        <id>https://tv.naver.com/v/57372853</id>
-        <link href="https://tv.naver.com/v/57372853"/>
-        <updated>2024-07-11T12:35:02.988Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
 </feed>

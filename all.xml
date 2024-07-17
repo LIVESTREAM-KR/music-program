@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-17T01:19:10.756Z</updated>
+    <updated>2024-07-17T02:36:50.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1 Thing - STAYC(스테이씨) | KBS 240712 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[★엠카 20주년★ 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/57647019</id>
+        <link href="https://tv.naver.com/v/57647019"/>
+        <updated>2024-07-17T02:36:27.888Z</updated>
+        <content type="html"><![CDATA[00:58]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' (여자)아이들 - 클락션 (Klaxon) | Mnet 240711 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/57375766</id>
         <link href="https://tv.naver.com/v/57375766"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/57373866"/>
         <updated>2024-07-11T12:35:02.987Z</updated>
         <content type="html"><![CDATA[06:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - Sticky | Mnet 240711 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/57372853</id>
-        <link href="https://tv.naver.com/v/57372853"/>
-        <updated>2024-07-11T12:35:02.988Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 더 쇼 초이스는? (더쇼)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#복면가왕] 어머님~ 이엔이가 노래를 너~무 잘해요~(｡◝‿◜｡) 스트레이 키즈 아이엔이 부르는 《긴 하루》 《사랑한다는 흔한 말》 | #아이엔 #스트레이키즈 MBC240714 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/57605288</id>
+        <link href="https://tv.naver.com/v/57605288"/>
+        <updated>2024-07-17T02:36:49.438Z</updated>
+        <content type="html"><![CDATA[20:12]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 ✨진심 가득한 목소리의 정통 발라더🐣 가수 이병찬 하이라이트!, MBC 240714 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/57610971</id>
         <link href="https://tv.naver.com/v/57610971"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/57503569"/>
         <updated>2024-07-14T11:17:09.053Z</updated>
         <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['화분' 3라운드 무대 - Higher, MBC 240714 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/57503248</id>
-        <link href="https://tv.naver.com/v/57503248"/>
-        <updated>2024-07-14T11:17:09.054Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
