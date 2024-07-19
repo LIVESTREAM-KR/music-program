@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-19T02:36:49.479Z</updated>
+    <updated>2024-07-19T03:23:05.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 바람보다 빠르게 끝나버린 청량위시💨 아쉬워서 가져온 #엔시티위시 #NCTWISH 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/57745521</id>
+        <link href="https://tv.naver.com/v/57745521"/>
+        <updated>2024-07-19T03:22:29.796Z</updated>
+        <content type="html"><![CDATA[09:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼! 음악중심] 보기만 해도 배부른 고봉밥 착장 뉴진스 #NewJeans #뉴진스 #Supernatural #Shorts]]></title>
         <id>https://tv.naver.com/v/57717917</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57687032"/>
         <updated>2024-07-17T14:17:43.582Z</updated>
         <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플레이브 - Intro + WAY 4 LUV (PLAVE -  Intro + WAY 4 LUV), MBC 240717 방송]]></title>
-        <id>https://tv.naver.com/v/57686768</id>
-        <link href="https://tv.naver.com/v/57686768"/>
-        <updated>2024-07-17T14:17:43.583Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
 </feed>
