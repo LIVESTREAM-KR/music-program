@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-19T06:26:11.763Z</updated>
+    <updated>2024-07-19T07:18:46.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] (G)I-DLE.zip 📂  LATATA부터 Klaxon까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/57658986</id>
+        <link href="https://tv.naver.com/v/57658986"/>
+        <updated>2024-07-19T07:18:10.104Z</updated>
+        <content type="html"><![CDATA[38:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 바람보다 빠르게 끝나버린 청량위시💨 아쉬워서 가져온 #엔시티위시 #NCTWISH 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/57745521</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57687034"/>
         <updated>2024-07-17T14:17:43.580Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이즈 - Boom Boom Bass (RIIZE - Boom Boom Bass), MBC 240717 방송]]></title>
-        <id>https://tv.naver.com/v/57687032</id>
-        <link href="https://tv.naver.com/v/57687032"/>
-        <updated>2024-07-17T14:17:43.582Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
     </entry>
 </feed>
