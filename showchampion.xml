@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-19T01:18:56.339Z</updated>
+    <updated>2024-07-19T02:36:49.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[7월 3주 차 쇼챔피언 ＜금동현 & 하늘 & 아민＞ MC 컷 모음📁 | Show Champion | EP.526 | 240717]]></title>
+        <id>https://tv.naver.com/v/57703910</id>
+        <link href="https://tv.naver.com/v/57703910"/>
+        <updated>2024-07-19T02:36:38.168Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] VVUP(비비업) - Ain't Nobody | Show Champion | EP.526 | 240717]]></title>
         <id>https://tv.naver.com/v/57703900</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/57677150</id>
         <link href="https://tv.naver.com/v/57677150"/>
         <updated>2024-07-17T13:21:26.629Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] YOUNGJAE(영재) - T.P.O | Show Champion | EP.526 | 240717]]></title>
-        <id>https://tv.naver.com/v/57676877</id>
-        <link href="https://tv.naver.com/v/57676877"/>
-        <updated>2024-07-17T13:21:26.631Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
