@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-20T07:17:15.795Z</updated>
+    <updated>2024-07-20T08:21:16.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[클락션(Klaxon) - (여자)아이들 | KBS 240719 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,48 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔시티 127 - 삐그덕 (NCT 127 - Walk), MBC 240720 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57817833</id>
+        <link href="https://tv.naver.com/v/57817833"/>
+        <updated>2024-07-20T08:20:40.306Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 127 - 사랑한다는 말의 뜻을 알아가자 (NCT 127 - Meaning of Love), MBC 240720 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57817778</id>
+        <link href="https://tv.naver.com/v/57817778"/>
+        <updated>2024-07-20T08:20:40.306Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트레이 키즈 - Chk Chk Boom (Chk Chk Boom - Chk Chk Boom), MBC 240720 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57817553</id>
+        <link href="https://tv.naver.com/v/57817553"/>
+        <updated>2024-07-20T08:20:40.306Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(여자)아이들 - 클락션 ((G)I-DLE - Klaxon), MBC 240720 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57817203</id>
+        <link href="https://tv.naver.com/v/57817203"/>
+        <updated>2024-07-20T08:20:40.308Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 - XO (Only If You Say Yes) (ENHYPEN - XO (Only If You Say Yes)), MBC 240720 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57817027</id>
+        <link href="https://tv.naver.com/v/57817027"/>
+        <updated>2024-07-20T08:20:40.312Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이승훈 - 딱 내 스타일이야 (LEE SEUNGHOON - MY TYPE), MBC 240720 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57817025</id>
+        <link href="https://tv.naver.com/v/57817025"/>
+        <updated>2024-07-20T08:20:40.314Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[드림캐쳐 - JUSTICE (Dreamcatcher - JUSTICE), MBC 240720 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/57816705</id>
         <link href="https://tv.naver.com/v/57816705"/>
@@ -101,48 +143,6 @@
         <link href="https://tv.naver.com/v/57816464"/>
         <updated>2024-07-20T07:16:43.039Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이엔아이 - LOUD (Korean Ver.) (INI - LOUD (Korean Ver.)), MBC 240720 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57816227</id>
-        <link href="https://tv.naver.com/v/57816227"/>
-        <updated>2024-07-20T07:16:43.041Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크비 - Flirting X (DKB - Flirting X), MBC 240720 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57816198</id>
-        <link href="https://tv.naver.com/v/57816198"/>
-        <updated>2024-07-20T07:16:43.043Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔싸인 - Tiger (New Flavour) (n.SSign - Tiger (New Flavour)), MBC 240720 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57816034</id>
-        <link href="https://tv.naver.com/v/57816034"/>
-        <updated>2024-07-20T07:16:43.045Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키스 오브 라이프 - Sticky (KISS OF LIFE - Sticky), MBC 240720 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57815659</id>
-        <link href="https://tv.naver.com/v/57815659"/>
-        <updated>2024-07-20T07:16:43.046Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올아워즈 - 도깨비 (ALL(H)OURS - SHOCK), MBC 240720 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57815630</id>
-        <link href="https://tv.naver.com/v/57815630"/>
-        <updated>2024-07-20T07:16:43.049Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비업 - Ain't Nobody (VVUP - Ain't Nobody), MBC 240720 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57815453</id>
-        <link href="https://tv.naver.com/v/57815453"/>
-        <updated>2024-07-20T07:16:43.050Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 클락션 (Klaxon)  | SBS 240714 방송 (인기가요)]]></title>
