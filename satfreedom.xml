@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-07-20T11:15:14.452Z</updated>
+    <updated>2024-07-20T12:32:33.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[무대 이겨내고 온 두 배우!🌸 깜짝 카메라인 줄 알았어요😭 | KBS 240720 방송]]></title>
-        <id>https://tv.naver.com/v/57823935</id>
-        <link href="https://tv.naver.com/v/57823935"/>
-        <updated>2024-07-20T11:15:08.007Z</updated>
-        <content type="html"><![CDATA[01:04]]></content>
+        <title type="html"><![CDATA[[예고] 국민들과 희로애락을 함께한 시간들🌟 별이 된 트로트계 거장 故 현 철 | KBS 240720 방송]]></title>
+        <id>https://tv.naver.com/v/57824309</id>
+        <link href="https://tv.naver.com/v/57824309"/>
+        <updated>2024-07-20T12:32:27.268Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상큼한 두 소녀와 두 천재의 최종 승부 결과는?! | KBS 240720 방송]]></title>
+        <id>https://tv.naver.com/v/57824305</id>
+        <link href="https://tv.naver.com/v/57824305"/>
+        <updated>2024-07-20T12:32:27.269Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤도현과 대학 시절부터 인연이?! 김문정 감독의 감상평까지☺️ | KBS 240720 방송]]></title>
@@ -25,6 +32,20 @@
         <link href="https://tv.naver.com/v/57823941"/>
         <updated>2024-07-20T11:15:08.009Z</updated>
         <content type="html"><![CDATA[05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무대 이겨내고 온 두 배우!🌸 깜짝 카메라인 줄 알았어요😭 | KBS 240720 방송]]></title>
+        <id>https://tv.naver.com/v/57823935</id>
+        <link href="https://tv.naver.com/v/57823935"/>
+        <updated>2024-07-20T11:15:08.007Z</updated>
+        <content type="html"><![CDATA[01:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 667회 ＜음악감독 김문정 편＞ 우승자 ⭐강형호&오은철⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/57823746</id>
+        <link href="https://tv.naver.com/v/57823746"/>
+        <updated>2024-07-20T12:32:27.275Z</updated>
+        <content type="html"><![CDATA[01:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 의상 그대로 올라온 정지소와 케이?!👭 떨리는 마음으로🦋 | KBS 240720 방송]]></title>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/57822889"/>
         <updated>2024-07-20T11:15:08.016Z</updated>
         <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬계 인기쟁이 테이😍 김문정 감독의 첫 남자?! | KBS 240720 방송]]></title>
-        <id>https://tv.naver.com/v/57822685</id>
-        <link href="https://tv.naver.com/v/57822685"/>
-        <updated>2024-07-20T11:15:08.017Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테이 – 먼지가 되어 | KBS 240720 방송]]></title>
-        <id>https://tv.naver.com/v/57822684</id>
-        <link href="https://tv.naver.com/v/57822684"/>
-        <updated>2024-07-20T11:15:08.019Z</updated>
-        <content type="html"><![CDATA[04:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감독님을 유일하게 누나라 부르는 테이?! 오늘은 락밴드 바이브로🤘 | KBS 240720 방송]]></title>
-        <id>https://tv.naver.com/v/57822658</id>
-        <link href="https://tv.naver.com/v/57822658"/>
-        <updated>2024-07-20T11:15:08.022Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
