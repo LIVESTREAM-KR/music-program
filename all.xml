@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-20T10:18:39.538Z</updated>
+    <updated>2024-07-20T11:15:14.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[클락션(Klaxon) - (여자)아이들 | KBS 240719 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,62 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#음중직캠] ENHYPEN (엔하이픈) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57823964</id>
+        <link href="https://tv.naver.com/v/57823964"/>
+        <updated>2024-07-20T11:14:38.395Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Stray Kids FELIX (스트레이키즈 필릭스) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57823929</id>
+        <link href="https://tv.naver.com/v/57823929"/>
+        <updated>2024-07-20T11:14:38.395Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Stray Kids HYUNJIN (스트레이키즈 현진) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57823926</id>
+        <link href="https://tv.naver.com/v/57823926"/>
+        <updated>2024-07-20T11:14:38.398Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Stray Kids SEUNGMIN (스트레이키즈 승민) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57823732</id>
+        <link href="https://tv.naver.com/v/57823732"/>
+        <updated>2024-07-20T11:14:38.400Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Stray Kids CHANGBIN (스트레이키즈 창빈) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57823728</id>
+        <link href="https://tv.naver.com/v/57823728"/>
+        <updated>2024-07-20T11:14:38.402Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Stray Kids LEE KNOW (스트레이키즈 리노) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57823727</id>
+        <link href="https://tv.naver.com/v/57823727"/>
+        <updated>2024-07-20T11:14:38.403Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Stray Kids (스트레이키즈) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57823725</id>
+        <link href="https://tv.naver.com/v/57823725"/>
+        <updated>2024-07-20T11:14:38.405Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] Stray Kids BANGCHAN (스트레이키즈 방찬) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57823558</id>
+        <link href="https://tv.naver.com/v/57823558"/>
+        <updated>2024-07-20T11:14:38.406Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE HANEUL(키스 오브 라이프 하늘) - Sticky | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/57821811</id>
         <link href="https://tv.naver.com/v/57821811"/>
@@ -87,62 +143,6 @@
         <link href="https://tv.naver.com/v/57821810"/>
         <updated>2024-07-20T10:18:05.067Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE (키스 오브 라이프) – Sticky | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57821808</id>
-        <link href="https://tv.naver.com/v/57821808"/>
-        <updated>2024-07-20T10:18:05.070Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] INI (아이엔아이) – LOUD (Korean ver.) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57820986</id>
-        <link href="https://tv.naver.com/v/57820986"/>
-        <updated>2024-07-20T10:18:05.071Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT 127 JUNGWOO (엔시티 127 정우) – 삐그덕 (Walk) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57820679</id>
-        <link href="https://tv.naver.com/v/57820679"/>
-        <updated>2024-07-20T10:18:05.072Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT 127 JAEHYUN (엔시티 127 재현) – 삐그덕 (Walk) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57820678</id>
-        <link href="https://tv.naver.com/v/57820678"/>
-        <updated>2024-07-20T10:18:05.074Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT 127 HAECHAN (엔시티 127 해찬) – 삐그덕 (Walk) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57820569</id>
-        <link href="https://tv.naver.com/v/57820569"/>
-        <updated>2024-07-20T09:18:32.480Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT 127 MARK (엔시티 127 마크) – 삐그덕 (Walk) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57820533</id>
-        <link href="https://tv.naver.com/v/57820533"/>
-        <updated>2024-07-20T09:18:32.480Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT 127 (엔시티 127) – 삐그덕 (Walk) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57820530</id>
-        <link href="https://tv.naver.com/v/57820530"/>
-        <updated>2024-07-20T09:18:32.481Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT 127 DOYOUNG (엔시티 127 도영) – 삐그덕 (Walk) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57820399</id>
-        <link href="https://tv.naver.com/v/57820399"/>
-        <updated>2024-07-20T09:18:32.482Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 클락션 (Klaxon)  | SBS 240714 방송 (인기가요)]]></title>
@@ -425,74 +425,74 @@
         <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소름의 연속인 라포엠의 넘버😲 웅장함이 느껴지는 필독 뮤지컬의 서사가...😭 | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57822274</id>
-        <link href="https://tv.naver.com/v/57822274"/>
-        <updated>2024-07-20T10:18:33.313Z</updated>
-        <content type="html"><![CDATA[05:24]]></content>
+        <title type="html"><![CDATA[무대 이겨내고 온 두 배우!🌸 깜짝 카메라인 줄 알았어요😭 | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57823935</id>
+        <link href="https://tv.naver.com/v/57823935"/>
+        <updated>2024-07-20T11:15:08.007Z</updated>
+        <content type="html"><![CDATA[01:04]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라포엠 – 영웅+그날을 기약하며 | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57822106</id>
-        <link href="https://tv.naver.com/v/57822106"/>
-        <updated>2024-07-20T10:18:33.314Z</updated>
-        <content type="html"><![CDATA[05:52]]></content>
+        <title type="html"><![CDATA[윤도현과 대학 시절부터 인연이?! 김문정 감독의 감상평까지☺️ | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57823943</id>
+        <link href="https://tv.naver.com/v/57823943"/>
+        <updated>2024-07-20T11:15:08.008Z</updated>
+        <content type="html"><![CDATA[01:34]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무대를 위해 뮤지컬 관람까지! 모든 걸 쏟은 라포엠🔥 | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57822102</id>
-        <link href="https://tv.naver.com/v/57822102"/>
-        <updated>2024-07-20T10:18:33.315Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
+        <title type="html"><![CDATA[정지소X케이 – 나는 나비 | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57823941</id>
+        <link href="https://tv.naver.com/v/57823941"/>
+        <updated>2024-07-20T11:15:08.009Z</updated>
+        <content type="html"><![CDATA[05:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[심사 모드로 가는 감독님! 찐친의 매치 소감은?!🤣 | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57821957</id>
-        <link href="https://tv.naver.com/v/57821957"/>
-        <updated>2024-07-20T10:18:33.316Z</updated>
+        <title type="html"><![CDATA[뮤지컬 의상 그대로 올라온 정지소와 케이?!👭 떨리는 마음으로🦋 | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57823449</id>
+        <link href="https://tv.naver.com/v/57823449"/>
+        <updated>2024-07-20T11:15:08.012Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온 신경이 집중되는 두 천재의 무대🤩 끌리는 강형호의 매력✨ | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57823414</id>
+        <link href="https://tv.naver.com/v/57823414"/>
+        <updated>2024-07-20T11:15:08.013Z</updated>
+        <content type="html"><![CDATA[06:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PITTA(강형호)X오은철 – The Phantom of the Opera | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57823288</id>
+        <link href="https://tv.naver.com/v/57823288"/>
+        <updated>2024-07-20T11:15:08.016Z</updated>
+        <content type="html"><![CDATA[06:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올 것이 왔다! 천재 뮤지션 PITTA의 성장을 보여주는 선곡🎼 | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57822889</id>
+        <link href="https://tv.naver.com/v/57822889"/>
+        <updated>2024-07-20T11:15:08.016Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬계 인기쟁이 테이😍 김문정 감독의 첫 남자?! | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57822685</id>
+        <link href="https://tv.naver.com/v/57822685"/>
+        <updated>2024-07-20T11:15:08.017Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테이 – 먼지가 되어 | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57822684</id>
+        <link href="https://tv.naver.com/v/57822684"/>
+        <updated>2024-07-20T11:15:08.019Z</updated>
         <content type="html"><![CDATA[04:55]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[산들 – 뜨거운 안녕 | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57821844</id>
-        <link href="https://tv.naver.com/v/57821844"/>
-        <updated>2024-07-20T10:18:33.317Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강적에 맞서는 아이돌 보컬 왕👑 산들의 인생 곡은?! | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57821818</id>
-        <link href="https://tv.naver.com/v/57821818"/>
-        <updated>2024-07-20T10:18:33.318Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손승연 – The Winner Takes It All | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57821817</id>
-        <link href="https://tv.naver.com/v/57821817"/>
-        <updated>2024-07-20T10:18:33.319Z</updated>
-        <content type="html"><![CDATA[04:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포문을 여는 괴물 보컬! 손승연의 승리를 예견하는 선곡?♬ | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57821654</id>
-        <link href="https://tv.naver.com/v/57821654"/>
-        <updated>2024-07-20T10:18:33.321Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김문정 감독과 깊은 인연들?! 흡사 뮤지컬 오디션인 토크 대기실🔥 | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57821501</id>
-        <link href="https://tv.naver.com/v/57821501"/>
-        <updated>2024-07-20T10:18:33.323Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 박기훈&강형호 크로스오버계 댄스 대결 성사?!😁 | KBS 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57785951</id>
-        <link href="https://tv.naver.com/v/57785951"/>
-        <updated>2024-07-19T10:19:05.562Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
+        <title type="html"><![CDATA[감독님을 유일하게 누나라 부르는 테이?! 오늘은 락밴드 바이브로🤘 | KBS 240720 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/57822658</id>
+        <link href="https://tv.naver.com/v/57822658"/>
+        <updated>2024-07-20T11:15:08.022Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 어머님~ 이엔이가 노래를 너~무 잘해요~(｡◝‿◜｡) 스트레이 키즈 아이엔이 부르는 《긴 하루》 《사랑한다는 흔한 말》 | #아이엔 #스트레이키즈 MBC240714 (복면가왕)]]></title>
