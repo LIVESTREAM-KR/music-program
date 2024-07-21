@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-07-21T11:15:15.944Z</updated>
+    <updated>2024-07-21T12:33:51.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['사랑에 빠진 좀비'의 정체는 세븐어스 희재!, MBC 240721 방송]]></title>
-        <id>https://tv.naver.com/v/57852925</id>
-        <link href="https://tv.naver.com/v/57852925"/>
-        <updated>2024-07-21T11:15:15.308Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[심장이 요동치는 '사랑에 빠진 좀비'의 두근두근 좀비 댄스💗, MBC 240721 방송]]></title>
         <id>https://tv.naver.com/v/57852924</id>
         <link href="https://tv.naver.com/v/57852924"/>
         <updated>2024-07-21T11:15:15.310Z</updated>
         <content type="html"><![CDATA[01:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['사랑에 빠진 좀비'의 정체는 세븐어스 희재!, MBC 240721 방송]]></title>
+        <id>https://tv.naver.com/v/57852925</id>
+        <link href="https://tv.naver.com/v/57852925"/>
+        <updated>2024-07-21T11:15:15.308Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거침없는 끼 방출! '아침잠 없는 드라큘라'🧛의 인기 챌린지 메들리, MBC 240721 방송]]></title>
