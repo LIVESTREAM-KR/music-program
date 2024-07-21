@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-21T08:21:11.479Z</updated>
+    <updated>2024-07-21T09:19:29.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://tv.naver.com/v/57722151"/>
         <updated>2024-07-20T12:32:21.219Z</updated>
         <content type="html"><![CDATA[00:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것이 바로 쥴리의 유혹🔥 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/57721798</id>
+        <link href="https://tv.naver.com/v/57721798"/>
+        <updated>2024-07-21T09:19:17.361Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폭룡 나띠가 모든 시선을 지배해🔥 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/57721818</id>
+        <link href="https://tv.naver.com/v/57721818"/>
+        <updated>2024-07-21T09:19:17.363Z</updated>
+        <content type="html"><![CDATA[00:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[라이브도 갓벽한 키오프의 1위 앵콜 무대🏆 l 쇼챔피언]]></title>
@@ -59,20 +73,6 @@
         <id>https://tv.naver.com/v/57677672</id>
         <link href="https://tv.naver.com/v/57677672"/>
         <updated>2024-07-17T13:21:26.624Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE JULIE(키스 오브 라이프 쥴리) - Te Quiero | Show Champion | EP.526 | 240717]]></title>
-        <id>https://tv.naver.com/v/57677671</id>
-        <link href="https://tv.naver.com/v/57677671"/>
-        <updated>2024-07-17T13:21:26.625Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] KISS OF LIFE NATTY(키스 오브 라이프 나띠) - Te Quiero | Show Champion | EP.526 | 240717]]></title>
-        <id>https://tv.naver.com/v/57677204</id>
-        <link href="https://tv.naver.com/v/57677204"/>
-        <updated>2024-07-17T13:21:26.626Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
