@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-22T09:23:22.139Z</updated>
+    <updated>2024-07-22T10:20:01.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Stray Kids I.N (스트레이키즈 아이엔) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송]]></title>
+        <id>https://tv.naver.com/v/57900455</id>
+        <link href="https://tv.naver.com/v/57900455"/>
+        <updated>2024-07-22T10:19:28.862Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Stray Kids HYUNJIN (스트레이키즈 현진) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송]]></title>
+        <id>https://tv.naver.com/v/57899996</id>
+        <link href="https://tv.naver.com/v/57899996"/>
+        <updated>2024-07-22T10:19:28.863Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Stray Kids LEE KNOW (스트레이키즈 리노) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송]]></title>
+        <id>https://tv.naver.com/v/57899768</id>
+        <link href="https://tv.naver.com/v/57899768"/>
+        <updated>2024-07-22T10:19:28.864Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Stray Kids FELIX (스트레이키즈 필릭스) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송]]></title>
+        <id>https://tv.naver.com/v/57899572</id>
+        <link href="https://tv.naver.com/v/57899572"/>
+        <updated>2024-07-22T10:19:28.864Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT 127 HAECHAN (엔시티 127 해찬) – 삐그덕 (Walk) | 쇼! 음악중심 | MBC240720방송]]></title>
         <id>https://tv.naver.com/v/57893753</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/57825581"/>
         <updated>2024-07-20T12:31:56.925Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN SUNGHOON (엔하이픈 성훈) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송]]></title>
-        <id>https://tv.naver.com/v/57825580</id>
-        <link href="https://tv.naver.com/v/57825580"/>
-        <updated>2024-07-20T12:31:56.925Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] (G)I-DLE MIYEON ((여자)아이들 미연) – Klaxon | 쇼! 음악중심 | MBC240720방송]]></title>
-        <id>https://tv.naver.com/v/57825257</id>
-        <link href="https://tv.naver.com/v/57825257"/>
-        <updated>2024-07-20T12:31:56.926Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN NI-KI (엔하이픈 니키) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송]]></title>
-        <id>https://tv.naver.com/v/57825256</id>
-        <link href="https://tv.naver.com/v/57825256"/>
-        <updated>2024-07-20T12:31:56.926Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN JAKE (엔하이픈 제이크) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송]]></title>
-        <id>https://tv.naver.com/v/57825254</id>
-        <link href="https://tv.naver.com/v/57825254"/>
-        <updated>2024-07-20T12:31:56.927Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
