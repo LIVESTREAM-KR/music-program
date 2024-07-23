@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-07-23T10:19:25.392Z</updated>
+    <updated>2024-07-23T11:17:20.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[⭐️엠카 상반기 보고⭐️ MC 샤인멍또캣이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/57963188</id>
+        <link href="https://tv.naver.com/v/57963188"/>
+        <updated>2024-07-23T11:16:56.276Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최초 공개' NCT 127 - 삐그덕 (Walk) | Mnet 240718 방송]]></title>
         <id>https://tv.naver.com/v/57753377</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57753060"/>
         <updated>2024-07-18T17:18:55.937Z</updated>
         <content type="html"><![CDATA[05:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['엠카 뮤비' RIIZE - U (원곡 : 슈퍼주니어) | Mnet 240718 방송]]></title>
-        <id>https://tv.naver.com/v/57753055</id>
-        <link href="https://tv.naver.com/v/57753055"/>
-        <updated>2024-07-18T17:18:55.938Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
