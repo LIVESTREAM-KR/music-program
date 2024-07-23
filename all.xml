@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-23T02:36:38.479Z</updated>
+    <updated>2024-07-23T03:23:15.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[클락션(Klaxon) - (여자)아이들 | KBS 240719 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ENHYPEN NI-KI (엔하이픈 니키) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57927089</id>
+        <link href="https://tv.naver.com/v/57927089"/>
+        <updated>2024-07-23T03:22:42.910Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ENHYPEN JUNGWON (엔하이픈 정원) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57927086</id>
+        <link href="https://tv.naver.com/v/57927086"/>
+        <updated>2024-07-23T03:22:42.910Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ENHYPEN HEESEUNG (엔하이픈 희승) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57927084</id>
+        <link href="https://tv.naver.com/v/57927084"/>
+        <updated>2024-07-23T03:22:42.911Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] Stray Kids I.N (스트레이키즈 아이엔) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/57900455</id>
         <link href="https://tv.naver.com/v/57900455"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/57893401"/>
         <updated>2024-07-22T08:24:13.227Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 정우(NCT) X 이정하 X 리노(SKZ) , 7월 셋째 주 음악중심 MC 컷 모음!, MBC 240720 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57875096</id>
-        <link href="https://tv.naver.com/v/57875096"/>
-        <updated>2024-07-22T02:38:36.252Z</updated>
-        <content type="html"><![CDATA[19:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN JUNGWON (엔하이픈 정원) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57825582</id>
-        <link href="https://tv.naver.com/v/57825582"/>
-        <updated>2024-07-20T12:31:56.924Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN SUNOO (엔하이픈 선우) - XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57825581</id>
-        <link href="https://tv.naver.com/v/57825581"/>
-        <updated>2024-07-20T12:31:56.925Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 클락션 (Klaxon)  | SBS 240714 방송 (인기가요)]]></title>
