@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-07-23T04:22:02.545Z</updated>
+    <updated>2024-07-23T05:19:23.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 뭣이 중허냐고? 노래 부르는 환희가 제일 중요하지~⭐ 배우 김환희가 부르는 《Swing Baby》 《Uh-Oh》 | #김환희 #곡성 MBC240721방송]]></title>
+        <id>https://tv.naver.com/v/57938875</id>
+        <link href="https://tv.naver.com/v/57938875"/>
+        <updated>2024-07-23T05:19:22.862Z</updated>
+        <content type="html"><![CDATA[16:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜우승을 노리는 슈퍼 루키들의 등장😎 복면가왕 금메달의 주인공은 과연 누구?🥇＞ 복면가왕 461회 예고, MBC 240728 방송]]></title>
         <id>https://tv.naver.com/v/57853741</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57852495"/>
         <updated>2024-07-21T11:15:15.312Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['잠 못 드는 열대야'의 정체는 보디빌더 마선호!, MBC 240721 방송]]></title>
-        <id>https://tv.naver.com/v/57852207</id>
-        <link href="https://tv.naver.com/v/57852207"/>
-        <updated>2024-07-21T10:19:16.589Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
