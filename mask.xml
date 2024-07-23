@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-07-23T09:20:07.700Z</updated>
+    <updated>2024-07-23T10:19:25.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🎤청아하고 맑은 목소리의 도입부 장인💙 세븐어스 희재 하이라이트!, MBC 240721 방송]]></title>
+        <id>https://tv.naver.com/v/57960501</id>
+        <link href="https://tv.naver.com/v/57960501"/>
+        <updated>2024-07-23T10:19:24.757Z</updated>
+        <content type="html"><![CDATA[08:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨MBC 차세대 만능 아나테이너🥭 아나운서 박지민 하이라이트!, MBC 240721 방송]]></title>
+        <id>https://tv.naver.com/v/57960499</id>
+        <link href="https://tv.naver.com/v/57960499"/>
+        <updated>2024-07-23T10:19:24.759Z</updated>
+        <content type="html"><![CDATA[10:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 📽️다양한 연기와 색다른 모습을 보여준✨ 배우 김환희 하이라이트!, MBC 240721 방송]]></title>
+        <id>https://tv.naver.com/v/57960496</id>
+        <link href="https://tv.naver.com/v/57960496"/>
+        <updated>2024-07-23T10:19:24.761Z</updated>
+        <content type="html"><![CDATA[10:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 뭣이 중허냐고? 노래 부르는 환희가 제일 중요하지~⭐ 배우 김환희가 부르는 《Swing Baby》 《Uh-Oh》 | #김환희 #곡성 MBC240721방송]]></title>
         <id>https://tv.naver.com/v/57938875</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/57852924"/>
         <updated>2024-07-21T11:15:15.310Z</updated>
         <content type="html"><![CDATA[01:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['사랑에 빠진 좀비'의 정체는 세븐어스 희재!, MBC 240721 방송]]></title>
-        <id>https://tv.naver.com/v/57852925</id>
-        <link href="https://tv.naver.com/v/57852925"/>
-        <updated>2024-07-21T11:15:15.308Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거침없는 끼 방출! '아침잠 없는 드라큘라'🧛의 인기 챌린지 메들리, MBC 240721 방송]]></title>
-        <id>https://tv.naver.com/v/57852681</id>
-        <link href="https://tv.naver.com/v/57852681"/>
-        <updated>2024-07-21T11:15:15.311Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['아침잠 없는 드라큘라' VS '사랑에 빠진 좀비'의 1라운드 무대 - 이름에게, MBC 240721 방송]]></title>
-        <id>https://tv.naver.com/v/57852495</id>
-        <link href="https://tv.naver.com/v/57852495"/>
-        <updated>2024-07-21T11:15:15.312Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
