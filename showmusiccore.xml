@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-24T06:27:00.652Z</updated>
+    <updated>2024-07-24T07:17:48.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT 127.zip 📂 소방차(Fire Truck)부터 삐그덕(Walk)까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/58006696</id>
+        <link href="https://tv.naver.com/v/58006696"/>
+        <updated>2024-07-24T07:17:15.516Z</updated>
+        <content type="html"><![CDATA[01:23:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ENHYPEN NI-KI (엔하이픈 니키) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송]]></title>
         <id>https://tv.naver.com/v/57927089</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57893749"/>
         <updated>2024-07-22T08:24:13.225Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT 127 JUNGWOO (엔시티 127 정우) – 삐그덕 (Walk) | 쇼! 음악중심 | MBC240720방송]]></title>
-        <id>https://tv.naver.com/v/57893401</id>
-        <link href="https://tv.naver.com/v/57893401"/>
-        <updated>2024-07-22T08:24:13.227Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
