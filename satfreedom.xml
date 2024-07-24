@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-07-24T01:19:47.345Z</updated>
+    <updated>2024-07-24T02:37:06.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 불후의 명곡 원주 댄싱 공연장 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/57992093</id>
+        <link href="https://tv.naver.com/v/57992093"/>
+        <updated>2024-07-24T02:36:59.044Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 국민들과 희로애락을 함께한 시간들🌟 별이 된 트로트계 거장 故 현 철 | KBS 240720 방송]]></title>
         <id>https://tv.naver.com/v/57824309</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57823288"/>
         <updated>2024-07-20T11:15:08.016Z</updated>
         <content type="html"><![CDATA[06:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올 것이 왔다! 천재 뮤지션 PITTA의 성장을 보여주는 선곡🎼 | KBS 240720 방송]]></title>
-        <id>https://tv.naver.com/v/57822889</id>
-        <link href="https://tv.naver.com/v/57822889"/>
-        <updated>2024-07-20T11:15:08.016Z</updated>
-        <content type="html"><![CDATA[04:56]]></content>
     </entry>
 </feed>
