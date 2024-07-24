@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-24T07:17:48.084Z</updated>
+    <updated>2024-07-24T08:22:57.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[클락션(Klaxon) - (여자)아이들 | KBS 240719 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NCT WISH (엔시티 위시) - Songbird | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/57946667</id>
+        <link href="https://tv.naver.com/v/57946667"/>
+        <updated>2024-07-24T08:22:19.603Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NCT 127.zip 📂 소방차(Fire Truck)부터 삐그덕(Walk)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/58006696</id>
         <link href="https://tv.naver.com/v/58006696"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/57893753"/>
         <updated>2024-07-22T08:24:13.219Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT 127 MARK (엔시티 127 마크) – 삐그덕 (Walk) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57893749</id>
-        <link href="https://tv.naver.com/v/57893749"/>
-        <updated>2024-07-22T08:24:13.225Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 클락션 (Klaxon)  | SBS 240714 방송 (인기가요)]]></title>
