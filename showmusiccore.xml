@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-07-26T07:17:52.047Z</updated>
+    <updated>2024-07-26T08:22:43.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] KISS OF LIFE (키스 오브 라이프) - Sticky | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/57958158</id>
+        <link href="https://tv.naver.com/v/57958158"/>
+        <updated>2024-07-26T08:22:11.414Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 뉴진스의 연습실에 초대합니다 ˶• ﻌ •˶ #NewJeans 사전녹화 비하인드⏯]]></title>
         <id>https://tv.naver.com/v/58125448</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57899996"/>
         <updated>2024-07-22T10:19:28.863Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] Stray Kids LEE KNOW (스트레이키즈 리노) – Chk Chk Boom | 쇼! 음악중심 | MBC240720방송]]></title>
-        <id>https://tv.naver.com/v/57899768</id>
-        <link href="https://tv.naver.com/v/57899768"/>
-        <updated>2024-07-22T10:19:28.864Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
