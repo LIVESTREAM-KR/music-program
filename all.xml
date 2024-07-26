@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-26T08:22:43.455Z</updated>
+    <updated>2024-07-26T09:19:42.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[PROBLEMATIC - NTX | KBS 240726 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/58148184</id>
+        <link href="https://tv.naver.com/v/58148184"/>
+        <updated>2024-07-26T09:18:58.087Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rainy day - NOWADAYS | KBS 240726 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/58148174</id>
+        <link href="https://tv.naver.com/v/58148174"/>
+        <updated>2024-07-26T09:18:58.088Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클락션(Klaxon) - (여자)아이들 | KBS 240719 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/57786643</id>
@@ -59,20 +73,6 @@
         <link href="https://tv.naver.com/v/57785947"/>
         <updated>2024-07-19T10:18:29.332Z</updated>
         <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도깨비(SHOCK) - ALL(H)OURS (올아워즈) | KBS 240719 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/57785491</id>
-        <link href="https://tv.naver.com/v/57785491"/>
-        <updated>2024-07-19T09:19:02.427Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vanilla Choco Shake - WAKER | KBS 240719 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/57785487</id>
-        <link href="https://tv.naver.com/v/57785487"/>
-        <updated>2024-07-19T09:19:02.429Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] KISS OF LIFE (키스 오브 라이프) - Sticky | 쇼! 음악중심 (쇼! 음악중심)]]></title>
