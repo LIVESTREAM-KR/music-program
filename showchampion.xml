@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-27T08:21:23.525Z</updated>
+    <updated>2024-07-27T09:18:53.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[온몸을 던져 히에의 생일을 축하해🤍 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/58077216</id>
+        <link href="https://tv.naver.com/v/58077216"/>
+        <updated>2024-07-27T09:18:42.019Z</updated>
+        <content type="html"><![CDATA[00:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아기빵 파닥파닥 날라가요오🕊️ ㅣ 쇼챔피언]]></title>
         <id>https://tv.naver.com/v/57925311</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57721730"/>
         <updated>2024-07-20T09:18:56.424Z</updated>
         <content type="html"><![CDATA[00:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE(키스 오브 라이프) - Te Quiero | Show Champion | EP.526 | 240717]]></title>
-        <id>https://tv.naver.com/v/57677995</id>
-        <link href="https://tv.naver.com/v/57677995"/>
-        <updated>2024-07-17T13:21:26.620Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
