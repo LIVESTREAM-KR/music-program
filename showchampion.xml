@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-30T08:23:14.740Z</updated>
+    <updated>2024-07-30T09:19:55.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/58406388"/>
         <updated>2024-07-29T09:20:46.334Z</updated>
         <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공민지의 시선 하나에 Game over💜 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/58403547</id>
+        <link href="https://tv.naver.com/v/58403547"/>
+        <updated>2024-07-30T09:19:42.429Z</updated>
+        <content type="html"><![CDATA[00:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온몸을 던져 히에의 생일을 축하해🤍 ㅣ 쇼챔피언]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57721798"/>
         <updated>2024-07-21T09:19:17.361Z</updated>
         <content type="html"><![CDATA[00:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭룡 나띠가 모든 시선을 지배해🔥 ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57721818</id>
-        <link href="https://tv.naver.com/v/57721818"/>
-        <updated>2024-07-21T09:19:17.363Z</updated>
-        <content type="html"><![CDATA[00:38]]></content>
     </entry>
 </feed>
