@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-31T07:15:30.246Z</updated>
+    <updated>2024-07-31T08:21:28.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[삐그덕(Walk) - NCT 127 | KBS 240726 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] STAYC (스테이씨) - Cheeky Icy Thang (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/58409925</id>
+        <link href="https://tv.naver.com/v/58409925"/>
+        <updated>2024-07-31T08:20:49.406Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NewJeans HYEIN (뉴진스 혜인) – ETA + OMG + Hype Boy | 쇼! 음악중심 | MBC240713방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/58411379</id>
         <link href="https://tv.naver.com/v/58411379"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/58006696"/>
         <updated>2024-07-24T07:17:15.516Z</updated>
         <content type="html"><![CDATA[01:23:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ENHYPEN NI-KI (엔하이픈 니키) – XO (Only If You Say Yes) | 쇼! 음악중심 | MBC240720방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/57927089</id>
-        <link href="https://tv.naver.com/v/57927089"/>
-        <updated>2024-07-23T03:22:42.910Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(여자)아이들 - 클락션 (Klaxon)  | SBS 240714 방송 (인기가요)]]></title>
