@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-07-31T08:21:28.992Z</updated>
+    <updated>2024-07-31T09:20:27.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케플러(Kep1er) & Kep1ian - Shooting Star l 240731]]></title>
+        <id>https://tv.naver.com/v/58519439</id>
+        <link href="https://tv.naver.com/v/58519439"/>
+        <updated>2024-07-31T09:20:14.960Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트리플에스(tripleS) & WAV - Girls Never Die l 240731]]></title>
+        <id>https://tv.naver.com/v/58519147</id>
+        <link href="https://tv.naver.com/v/58519147"/>
+        <updated>2024-07-31T09:20:14.960Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배너(VANNER) & VVS - JACKPOT l 240731]]></title>
+        <id>https://tv.naver.com/v/58518349</id>
+        <link href="https://tv.naver.com/v/58518349"/>
+        <updated>2024-07-31T09:20:14.960Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투어스(TWS) & 42 - hey! hey! l 240731]]></title>
+        <id>https://tv.naver.com/v/58518137</id>
+        <link href="https://tv.naver.com/v/58518137"/>
+        <updated>2024-07-31T09:20:14.962Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] ★올림픽을 맞아 열리는 쇼챔 체육대회★]]></title>
         <id>https://tv.naver.com/v/58406388</id>
         <link href="https://tv.naver.com/v/58406388"/>
         <updated>2024-07-29T09:20:46.334Z</updated>
         <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름하면 프미나지! 🩵🌊 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/58403675</id>
+        <link href="https://tv.naver.com/v/58403675"/>
+        <updated>2024-07-31T09:20:14.964Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공민지의 시선 하나에 Game over💜 ㅣ 쇼챔피언]]></title>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/57703910"/>
         <updated>2024-07-19T02:36:38.168Z</updated>
         <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VVUP(비비업) - Ain't Nobody | Show Champion | EP.526 | 240717]]></title>
-        <id>https://tv.naver.com/v/57703900</id>
-        <link href="https://tv.naver.com/v/57703900"/>
-        <updated>2024-07-18T08:23:15.877Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자작곡까지 완벽한 벨 곤듀님을 Te Quiero.. ❤️ ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57722163</id>
-        <link href="https://tv.naver.com/v/57722163"/>
-        <updated>2024-07-21T12:33:39.921Z</updated>
-        <content type="html"><![CDATA[00:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도입부 장인 고혹'밥' 스카이 등장 💗 ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57722151</id>
-        <link href="https://tv.naver.com/v/57722151"/>
-        <updated>2024-07-20T12:32:21.219Z</updated>
-        <content type="html"><![CDATA[00:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그녀들을 테 키에로 할 수 밖에.. 🖤 ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57722134</id>
-        <link href="https://tv.naver.com/v/57722134"/>
-        <updated>2024-07-23T09:19:54.599Z</updated>
-        <content type="html"><![CDATA[00:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것이 바로 쥴리의 유혹🔥 ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57721798</id>
-        <link href="https://tv.naver.com/v/57721798"/>
-        <updated>2024-07-21T09:19:17.361Z</updated>
-        <content type="html"><![CDATA[00:32]]></content>
     </entry>
 </feed>
