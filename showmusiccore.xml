@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-02T04:23:38.053Z</updated>
+    <updated>2024-08-02T05:19:40.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] - ̗̀ 엔진이 모르는 공지가 있다? 😳 단체 덮머... 엔며든다..💙  #ENHYPEN 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/58516584</id>
+        <link href="https://tv.naver.com/v/58516584"/>
+        <updated>2024-08-02T05:19:07.847Z</updated>
+        <content type="html"><![CDATA[06:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[July TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/58562318</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/58080229"/>
         <updated>2024-07-25T09:20:36.711Z</updated>
         <content type="html"><![CDATA[01:21:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] NCT WISH (엔시티 위시) - Songbird | 쇼! 음악중심]]></title>
-        <id>https://tv.naver.com/v/57946667</id>
-        <link href="https://tv.naver.com/v/57946667"/>
-        <updated>2024-07-24T08:22:19.603Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
