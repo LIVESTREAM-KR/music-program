@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-08-03T08:23:00.415Z</updated>
+    <updated>2024-08-03T09:20:23.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[고혹적인 자몽 우기의 등장🍊 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/58403787</id>
+        <link href="https://tv.naver.com/v/58403787"/>
+        <updated>2024-08-03T09:20:12.535Z</updated>
+        <content type="html"><![CDATA[00:24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[여름하면 프미나지! 🩵🌊 ㅣ 쇼챔피언]]></title>
         <id>https://tv.naver.com/v/58403675</id>
         <link href="https://tv.naver.com/v/58403675"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57925311"/>
         <updated>2024-07-23T09:19:54.591Z</updated>
         <content type="html"><![CDATA[00:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월 3주 차 쇼챔피언 ＜금동현 & 하늘 & 아민＞ MC 컷 모음📁 | Show Champion | EP.526 | 240717]]></title>
-        <id>https://tv.naver.com/v/57703910</id>
-        <link href="https://tv.naver.com/v/57703910"/>
-        <updated>2024-07-19T02:36:38.168Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
     </entry>
 </feed>
