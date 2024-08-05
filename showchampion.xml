@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-08-05T08:24:14.701Z</updated>
+    <updated>2024-08-05T09:20:14.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 그렇게 보면 어떡해 나를 gijerl 🐈‍⬛⚰💨💨]]></title>
+        <id>https://tv.naver.com/v/58754438</id>
+        <link href="https://tv.naver.com/v/58754438"/>
+        <updated>2024-08-05T09:20:03.395Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케플러(Kep1er) & Kep1ian - Shooting Star l 240731]]></title>
         <id>https://tv.naver.com/v/58519439</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/58077216"/>
         <updated>2024-07-27T09:18:42.019Z</updated>
         <content type="html"><![CDATA[00:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아기빵 파닥파닥 날라가요오🕊️ ㅣ 쇼챔피언]]></title>
-        <id>https://tv.naver.com/v/57925311</id>
-        <link href="https://tv.naver.com/v/57925311"/>
-        <updated>2024-07-23T09:19:54.591Z</updated>
-        <content type="html"><![CDATA[00:16]]></content>
     </entry>
 </feed>
