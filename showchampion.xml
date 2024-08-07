@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-08-07T11:15:48.310Z</updated>
+    <updated>2024-08-07T12:36:21.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/58893980"/>
         <updated>2024-08-07T11:15:37.284Z</updated>
         <content type="html"><![CDATA[07:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SPECIAL STAGE] 엔하이픈(ENHYPEN) - Paranormal l 240807]]></title>
+        <id>https://tv.naver.com/v/58893687</id>
+        <link href="https://tv.naver.com/v/58893687"/>
+        <updated>2024-08-07T12:36:09.849Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[SPECIAL TALK] 🔍ENHYPEN을 위해 ENGENE이 새롭게 만들어준 키워드의 주인공을 찾아라!🔎 l 240807]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/58891215"/>
         <updated>2024-08-07T09:20:26.253Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 유니스(UNIS) - 너만 몰라 l 240807]]></title>
-        <id>https://tv.naver.com/v/58890436</id>
-        <link href="https://tv.naver.com/v/58890436"/>
-        <updated>2024-08-07T09:20:26.256Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
