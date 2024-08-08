@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-08T11:17:48.091Z</updated>
+    <updated>2024-08-08T12:35:56.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[삐그덕(Walk) - NCT 127 | KBS 240726 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,48 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' Stray Kids - JJAM | Mnet 240808 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/58965443</id>
+        <link href="https://tv.naver.com/v/58965443"/>
+        <updated>2024-08-08T12:35:32.880Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' Stray Kids - Chk Chk Boom | Mnet 240808 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/58965163</id>
+        <link href="https://tv.naver.com/v/58965163"/>
+        <updated>2024-08-08T12:35:32.882Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 전소미 - Ice Cream | Mnet 240808 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/58964951</id>
+        <link href="https://tv.naver.com/v/58964951"/>
+        <updated>2024-08-08T12:35:32.882Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 뱀뱀 (BamBam) - LAST PARADE | Mnet 240808 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/58964883</id>
+        <link href="https://tv.naver.com/v/58964883"/>
+        <updated>2024-08-08T12:35:32.882Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - Brought The Heat Back | Mnet 240808 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/58964386</id>
+        <link href="https://tv.naver.com/v/58964386"/>
+        <updated>2024-08-08T12:35:32.885Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN(엔하이픈) - XO (Only If You Say Yes) | Mnet 240808 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/58964210</id>
+        <link href="https://tv.naver.com/v/58964210"/>
+        <updated>2024-08-08T12:35:32.886Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Weeekly (위클리) - Dance Dance Dance! | Mnet 240808 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/58963869</id>
         <link href="https://tv.naver.com/v/58963869"/>
@@ -241,48 +283,6 @@
         <link href="https://tv.naver.com/v/58962947"/>
         <updated>2024-08-08T11:17:23.992Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' MCND - 아뜨뜨뜨 | Mnet 240808 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/58962796</id>
-        <link href="https://tv.naver.com/v/58962796"/>
-        <updated>2024-08-08T11:17:23.995Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙스완 - Roll Up | Mnet 240808 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/58962348</id>
-        <link href="https://tv.naver.com/v/58962348"/>
-        <updated>2024-08-08T11:17:23.997Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIGNITY (디그니티) - 식혀 | Mnet 240808 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/58962182</id>
-        <link href="https://tv.naver.com/v/58962182"/>
-        <updated>2024-08-08T11:17:23.997Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['UP NEXT' Stray Kids (스트레이 키즈) | Mnet 240808 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/58961881</id>
-        <link href="https://tv.naver.com/v/58961881"/>
-        <updated>2024-08-08T11:17:23.997Z</updated>
-        <content type="html"><![CDATA[00:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여동생 - 초록 여름 매미 | Mnet 240808 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/58961617</id>
-        <link href="https://tv.naver.com/v/58961617"/>
-        <updated>2024-08-08T11:17:23.999Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['먼슬리 엠카PICK' 7월의 엠카PICK 송 & 스테이지는? | Mnet 240808 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/58961414</id>
-        <link href="https://tv.naver.com/v/58961414"/>
-        <updated>2024-08-08T10:19:37.386Z</updated>
-        <content type="html"><![CDATA[04:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ENHYPEN - FANFEST [THE SHOW 240806] (더쇼)]]></title>
