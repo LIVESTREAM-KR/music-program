@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-08T07:17:46.363Z</updated>
+    <updated>2024-08-08T08:24:47.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] (G)I-DLE ((여자)아이들) - Klaxon | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/58924777</id>
+        <link href="https://tv.naver.com/v/58924777"/>
+        <updated>2024-08-08T08:24:11.766Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] - ̗̀ 엔진이 모르는 공지가 있다? 😳 단체 덮머... 엔며든다..💙  #ENHYPEN 사전녹화 비하인드⏯]]></title>
         <id>https://tv.naver.com/v/58516584</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/58125448"/>
         <updated>2024-07-26T04:22:04.422Z</updated>
         <content type="html"><![CDATA[13:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] Stray Kids.zip 📂 District 9부터 Chk Chk Boom까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/58080229</id>
-        <link href="https://tv.naver.com/v/58080229"/>
-        <updated>2024-07-25T09:20:36.711Z</updated>
-        <content type="html"><![CDATA[01:21:42]]></content>
     </entry>
 </feed>
