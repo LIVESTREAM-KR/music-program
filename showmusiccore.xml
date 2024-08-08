@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-08T08:24:47.088Z</updated>
+    <updated>2024-08-08T09:20:05.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BLACKPINK.zip 📂마지막처럼부터 Lovesick Girls까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/58944163</id>
+        <link href="https://tv.naver.com/v/58944163"/>
+        <updated>2024-08-08T09:19:28.091Z</updated>
+        <content type="html"><![CDATA[26:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] (G)I-DLE ((여자)아이들) - Klaxon | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/58924777</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57958158"/>
         <updated>2024-07-26T08:22:11.414Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#직캠보고서🔍] 뉴진스의 연습실에 초대합니다 ˶• ﻌ •˶ #NewJeans 사전녹화 비하인드⏯]]></title>
-        <id>https://tv.naver.com/v/58125448</id>
-        <link href="https://tv.naver.com/v/58125448"/>
-        <updated>2024-07-26T04:22:04.422Z</updated>
-        <content type="html"><![CDATA[13:34]]></content>
     </entry>
 </feed>
