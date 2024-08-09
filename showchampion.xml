@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-08-09T01:21:27.850Z</updated>
+    <updated>2024-08-09T02:39:24.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[쇼챔 에세이] 4명의 각기 다른 이야기가 모여 하나의 장르가 되다 l 240807]]></title>
+        <title type="html"><![CDATA[8월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.528 | 240807]]></title>
+        <id>https://tv.naver.com/v/58941848</id>
+        <link href="https://tv.naver.com/v/58941848"/>
+        <updated>2024-08-09T02:39:12.809Z</updated>
+        <content type="html"><![CDATA[02:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이 예고] 4명의 각기 다른 이야기가 모여 하나의 장르가 되다 l 240807]]></title>
         <id>https://tv.naver.com/v/58993723</id>
         <link href="https://tv.naver.com/v/58993723"/>
         <updated>2024-08-09T01:21:13.574Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/58899611"/>
         <updated>2024-08-07T13:23:38.260Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ENHYPEN(엔하이픈) - Brought The Heat Back | Show Champion | EP.528 | 240807]]></title>
-        <id>https://tv.naver.com/v/58898898</id>
-        <link href="https://tv.naver.com/v/58898898"/>
-        <updated>2024-08-07T13:23:38.261Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
