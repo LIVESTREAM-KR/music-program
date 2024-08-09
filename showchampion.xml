@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-08-08T23:19:29.248Z</updated>
+    <updated>2024-08-09T01:21:27.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 4명의 각기 다른 이야기가 모여 하나의 장르가 되다 l 240807]]></title>
+        <id>https://tv.naver.com/v/58993723</id>
+        <link href="https://tv.naver.com/v/58993723"/>
+        <updated>2024-08-09T01:21:13.574Z</updated>
+        <content type="html"><![CDATA[00:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] HA SUNG WOON(하성운) - Blessed | Show Champion | EP.528 | 240807]]></title>
         <id>https://tv.naver.com/v/58941590</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/58898898</id>
         <link href="https://tv.naver.com/v/58898898"/>
         <updated>2024-08-07T13:23:38.261Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ENHYPEN HEESEUNG(엔하이픈 희승) - Brought The Heat Back | Show Champion | EP.528 | 240807]]></title>
-        <id>https://tv.naver.com/v/58899547</id>
-        <link href="https://tv.naver.com/v/58899547"/>
-        <updated>2024-08-07T13:23:38.262Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
