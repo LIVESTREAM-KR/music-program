@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-09T03:21:09.716Z</updated>
+    <updated>2024-08-09T04:22:37.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 오늘도 내일도 모레도 Chill~ 영원히 우리칠💚 #엔시티127 #NCT127 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/58962131</id>
+        <link href="https://tv.naver.com/v/58962131"/>
+        <updated>2024-08-09T04:22:01.487Z</updated>
+        <content type="html"><![CDATA[21:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BLACKPINK.zip 📂마지막처럼부터 Lovesick Girls까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/58944163</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/58411100"/>
         <updated>2024-07-29T09:20:25.722Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] KISS OF LIFE (키스 오브 라이프) - Sticky | 쇼! 음악중심]]></title>
-        <id>https://tv.naver.com/v/57958158</id>
-        <link href="https://tv.naver.com/v/57958158"/>
-        <updated>2024-07-26T08:22:11.414Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
     </entry>
 </feed>
