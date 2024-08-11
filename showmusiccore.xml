@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-11T06:26:34.092Z</updated>
+    <updated>2024-08-11T07:17:51.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쇼! 음악중심 MC 스페셜 무대.zip 📂 Show! Music Core MC Special Stage Compilation]]></title>
+        <id>https://tv.naver.com/v/58931951</id>
+        <link href="https://tv.naver.com/v/58931951"/>
+        <updated>2024-08-11T07:17:19.547Z</updated>
+        <content type="html"><![CDATA[01:00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] UNIS SEOWON (유니스 임서원) – 너만 몰라 | 쇼! 음악중심 | MBC240810방송]]></title>
         <id>https://tv.naver.com/v/59067242</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59066038"/>
         <updated>2024-08-10T08:21:43.932Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Stray Kids HYUNJIN (스트레이키즈 현진) – JJAM | 쇼! 음악중심 | MBC240810방송]]></title>
-        <id>https://tv.naver.com/v/59066037</id>
-        <link href="https://tv.naver.com/v/59066037"/>
-        <updated>2024-08-10T08:21:43.932Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
