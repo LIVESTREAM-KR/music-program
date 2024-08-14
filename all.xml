@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-14T07:18:04.436Z</updated>
+    <updated>2024-08-14T08:23:58.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[삐그덕(Walk) - NCT 127 | KBS 240726 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,20 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[디그니티(DIGNITY) - 식혀 l 240814 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/59282660</id>
+        <link href="https://tv.naver.com/v/59282660"/>
+        <updated>2024-08-14T08:23:47.627Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투지(2Z) - Playground l 240814 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/59282646</id>
+        <link href="https://tv.naver.com/v/59282646"/>
+        <updated>2024-08-14T08:23:47.627Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] KEEP YOUR EYES ON 쇼챔! 이번 주도 본방사수 Plz♥ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/59145212</id>
         <link href="https://tv.naver.com/v/59145212"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/58941115"/>
         <updated>2024-08-08T08:24:34.981Z</updated>
         <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Tony Yu(토니유) - Jigglin' (KOR Ver.) | Show Champion | EP.528 | 240807 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/58941587</id>
-        <link href="https://tv.naver.com/v/58941587"/>
-        <updated>2024-08-08T08:24:34.982Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HA SUNG WOON(하성운) - All I Need (feat. ERIC of THE BOYZ) | Show Champion | EP.528 | 240807 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/58900182</id>
-        <link href="https://tv.naver.com/v/58900182"/>
-        <updated>2024-08-07T13:23:38.259Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 불후의 명곡 토지 완간 30주년 기념공연 : 박경리 기억하고 노래하다 | KBS 방송 (불후의 명곡)]]></title>
