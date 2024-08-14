@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-14T06:26:47.560Z</updated>
+    <updated>2024-08-14T07:18:04.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[삐그덕(Walk) - NCT 127 | KBS 240726 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ENHYPEN (엔하이픈) - XO | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59213486</id>
+        <link href="https://tv.naver.com/v/59213486"/>
+        <updated>2024-08-14T07:17:30.469Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] Stray Kids I.N (스트레이키즈 아이엔) – JJAM | 쇼! 음악중심 | MBC240810방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/59161701</id>
         <link href="https://tv.naver.com/v/59161701"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/59133827"/>
         <updated>2024-08-12T02:39:45.037Z</updated>
         <content type="html"><![CDATA[16:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼! 음악중심 MC 스페셜 무대.zip 📂 Show! Music Core MC Special Stage Compilation (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/58931951</id>
-        <link href="https://tv.naver.com/v/58931951"/>
-        <updated>2024-08-11T07:17:19.547Z</updated>
-        <content type="html"><![CDATA[01:00:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김재중 - Glorious Day | SBS 240811 방송 (인기가요)]]></title>
