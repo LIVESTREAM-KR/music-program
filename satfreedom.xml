@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-08-16T08:24:33.163Z</updated>
+    <updated>2024-08-16T09:22:06.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개]  이찬원 - 명작(세로) | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/59392223</id>
+        <link href="https://tv.naver.com/v/59392223"/>
+        <updated>2024-08-16T09:21:59.424Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 폴킴 - 커피 한 잔 할래요(세로) | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/59392187</id>
+        <link href="https://tv.naver.com/v/59392187"/>
+        <updated>2024-08-16T09:21:59.424Z</updated>
+        <content type="html"><![CDATA[04:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 유태평양&김준수 - 코스모스 피어있는 길(가로) | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/59387889</id>
+        <link href="https://tv.naver.com/v/59387889"/>
+        <updated>2024-08-16T09:21:59.424Z</updated>
+        <content type="html"><![CDATA[05:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 스테이씨 - Teddy Bear | KBS 방송]]></title>
         <id>https://tv.naver.com/v/59385690</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/57823935"/>
         <updated>2024-08-16T02:38:07.766Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 667회 ＜음악감독 김문정 편＞ 우승자 ⭐강형호&오은철⭐ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/57823746</id>
-        <link href="https://tv.naver.com/v/57823746"/>
-        <updated>2024-08-16T02:38:07.767Z</updated>
-        <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 의상 그대로 올라온 정지소와 케이?!👭 떨리는 마음으로🦋 | KBS 240720 방송]]></title>
-        <id>https://tv.naver.com/v/57823449</id>
-        <link href="https://tv.naver.com/v/57823449"/>
-        <updated>2024-08-16T02:38:07.769Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온 신경이 집중되는 두 천재의 무대🤩 끌리는 강형호의 매력✨ | KBS 240720 방송]]></title>
-        <id>https://tv.naver.com/v/57823414</id>
-        <link href="https://tv.naver.com/v/57823414"/>
-        <updated>2024-08-16T02:38:07.770Z</updated>
-        <content type="html"><![CDATA[06:19]]></content>
     </entry>
 </feed>
