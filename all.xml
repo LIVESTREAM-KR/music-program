@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-16T10:20:42.000Z</updated>
+    <updated>2024-08-16T11:16:45.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Wait - 효린 | KBS 240816 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,34 @@
         <content type="html"><![CDATA[03:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[불후의 명곡 668회 선공개] 스테이씨 - Teddy bear | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59396991</id>
+        <link href="https://tv.naver.com/v/59396991"/>
+        <updated>2024-08-16T11:16:38.756Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[불후의 명곡 668회 선공개] 폴킴 - 커피 한 잔 할래요 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59396982</id>
+        <link href="https://tv.naver.com/v/59396982"/>
+        <updated>2024-08-16T11:16:38.756Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[불후의 명곡 668회 선공개] 이찬원  - 명작 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59396788</id>
+        <link href="https://tv.naver.com/v/59396788"/>
+        <updated>2024-08-16T11:16:38.757Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[불후의 명곡 668회 선공개] 유태평양X김준수 - 코스모스 피어있는 길 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59396593</id>
+        <link href="https://tv.naver.com/v/59396593"/>
+        <updated>2024-08-16T11:16:38.758Z</updated>
+        <content type="html"><![CDATA[05:11]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개]  이찬원 - 명작(세로) | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/59392223</id>
         <link href="https://tv.naver.com/v/59392223"/>
@@ -465,34 +493,6 @@
         <link href="https://tv.naver.com/v/57824309"/>
         <updated>2024-07-20T12:32:27.268Z</updated>
         <content type="html"><![CDATA[00:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상큼한 두 소녀와 두 천재의 최종 승부 결과는?! | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57824305</id>
-        <link href="https://tv.naver.com/v/57824305"/>
-        <updated>2024-07-20T12:32:27.269Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤도현과 대학 시절부터 인연이?! 김문정 감독의 감상평까지☺️ | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57823943</id>
-        <link href="https://tv.naver.com/v/57823943"/>
-        <updated>2024-07-20T11:15:08.008Z</updated>
-        <content type="html"><![CDATA[01:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정지소X케이 – 나는 나비 | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57823941</id>
-        <link href="https://tv.naver.com/v/57823941"/>
-        <updated>2024-07-20T11:15:08.009Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대 이겨내고 온 두 배우!🌸 깜짝 카메라인 줄 알았어요😭 | KBS 240720 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/57823935</id>
-        <link href="https://tv.naver.com/v/57823935"/>
-        <updated>2024-07-20T11:15:08.007Z</updated>
-        <content type="html"><![CDATA[01:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 🎤청아하고 맑은 목소리의 도입부 장인💙 세븐어스 희재 하이라이트!, MBC 240721 방송 (복면가왕)]]></title>
