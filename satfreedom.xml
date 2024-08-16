@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-08-16T07:18:39.559Z</updated>
+    <updated>2024-08-16T08:24:33.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 스테이씨 - Teddy Bear | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/59385690</id>
+        <link href="https://tv.naver.com/v/59385690"/>
+        <updated>2024-08-16T08:24:26.300Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 불후의 명곡 토지 완간 30주년 기념공연 : 박경리 기억하고 노래하다 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/57992093</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/57823414"/>
         <updated>2024-08-16T02:38:07.770Z</updated>
         <content type="html"><![CDATA[06:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PITTA(강형호)X오은철 – The Phantom of the Opera | KBS 240720 방송]]></title>
-        <id>https://tv.naver.com/v/57823288</id>
-        <link href="https://tv.naver.com/v/57823288"/>
-        <updated>2024-08-16T02:38:07.771Z</updated>
-        <content type="html"><![CDATA[06:31]]></content>
     </entry>
 </feed>
