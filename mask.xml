@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-08-18T11:14:51.004Z</updated>
+    <updated>2024-08-18T12:35:23.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[04:16]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['아침잠 없는 드라큘라'의 정체는 NCT 샤오쥔!, MBC 240818 방송]]></title>
-        <id>https://tv.naver.com/v/59475517</id>
-        <link href="https://tv.naver.com/v/59475517"/>
-        <updated>2024-08-18T10:19:11.550Z</updated>
-        <content type="html"><![CDATA[02:09]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아침잠 저리 가라💤 '아침잠 없는 드라큘라'의 모닝콜 댄스 개인기, MBC 240818 방송]]></title>
         <id>https://tv.naver.com/v/59475515</id>
         <link href="https://tv.naver.com/v/59475515"/>
         <updated>2024-08-18T10:19:11.552Z</updated>
         <content type="html"><![CDATA[01:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['아침잠 없는 드라큘라'의 정체는 NCT 샤오쥔!, MBC 240818 방송]]></title>
+        <id>https://tv.naver.com/v/59475517</id>
+        <link href="https://tv.naver.com/v/59475517"/>
+        <updated>2024-08-18T10:19:11.550Z</updated>
+        <content type="html"><![CDATA[02:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['언더 더 씨' 2라운드 무대 - 안되는데, MBC 240818 방송]]></title>
