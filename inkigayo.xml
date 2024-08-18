@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-08-18T06:25:31.263Z</updated>
+    <updated>2024-08-18T07:15:49.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캐치더영(CATCH THE YOUNG) - Dream it | SBS 240818 방송]]></title>
+        <id>https://tv.naver.com/v/59469227</id>
+        <link href="https://tv.naver.com/v/59469227"/>
+        <updated>2024-08-18T07:15:19.126Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tony yu(토니유) - Jigglin’ (KOR Ver.) | SBS 240818 방송]]></title>
+        <id>https://tv.naver.com/v/59469214</id>
+        <link href="https://tv.naver.com/v/59469214"/>
+        <updated>2024-08-18T07:15:19.126Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIGNITY(디그니티) - 식혀 | SBS 240818 방송]]></title>
+        <id>https://tv.naver.com/v/59469207</id>
+        <link href="https://tv.naver.com/v/59469207"/>
+        <updated>2024-08-18T07:15:19.128Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[김재중 - Glorious Day | SBS 240811 방송]]></title>
         <id>https://tv.naver.com/v/59101563</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/59100428"/>
         <updated>2024-08-11T07:17:24.678Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weeekly(위클리) - Dance Dance Dance! | SBS 240811 방송]]></title>
-        <id>https://tv.naver.com/v/59100249</id>
-        <link href="https://tv.naver.com/v/59100249"/>
-        <updated>2024-08-11T07:17:24.678Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIGHTSUM - POSE! | SBS 240811 방송]]></title>
-        <id>https://tv.naver.com/v/59100133</id>
-        <link href="https://tv.naver.com/v/59100133"/>
-        <updated>2024-08-11T07:17:24.683Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCND(엠씨엔디) - 아뜨뜨뜨 | SBS 240811 방송]]></title>
-        <id>https://tv.naver.com/v/59100132</id>
-        <link href="https://tv.naver.com/v/59100132"/>
-        <updated>2024-08-11T07:17:24.683Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
     </entry>
 </feed>
