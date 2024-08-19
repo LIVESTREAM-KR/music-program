@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-08-19T08:24:24.554Z</updated>
+    <updated>2024-08-19T09:20:34.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 티켓값은 우리가 낼 테니 예매를 부탁해! ★쇼챔피언 in 여수★]]></title>
+        <id>https://tv.naver.com/v/59521895</id>
+        <link href="https://tv.naver.com/v/59521895"/>
+        <updated>2024-08-19T09:20:22.262Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.529 | 240814]]></title>
         <id>https://tv.naver.com/v/59290315</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59289233"/>
         <updated>2024-08-14T13:21:54.471Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KARD BM(카드 비엠) - Tell My Momma | Show Champion | EP.529 | 240814]]></title>
-        <id>https://tv.naver.com/v/59288305</id>
-        <link href="https://tv.naver.com/v/59288305"/>
-        <updated>2024-08-14T13:21:54.471Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
     </entry>
 </feed>
