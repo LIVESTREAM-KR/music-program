@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-19T01:21:57.816Z</updated>
+    <updated>2024-08-19T02:39:42.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 김규빈(ZB1), 8월 셋째 주 음악중심 MC 컷 모음!, MBC 240817 방송]]></title>
+        <id>https://tv.naver.com/v/59500857</id>
+        <link href="https://tv.naver.com/v/59500857"/>
+        <updated>2024-08-19T02:39:06.401Z</updated>
+        <content type="html"><![CDATA[07:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로베이스원 - Feel the POP (ZEROBASEONE - Feel the POP), MBC 240817 방송]]></title>
         <id>https://tv.naver.com/v/59432195</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59430977"/>
         <updated>2024-08-17T08:21:24.061Z</updated>
         <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비 - SABOTAGE (KWON EUNBI - SABOTAGE), MBC 240817 방송]]></title>
-        <id>https://tv.naver.com/v/59430779</id>
-        <link href="https://tv.naver.com/v/59430779"/>
-        <updated>2024-08-17T08:21:24.062Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
