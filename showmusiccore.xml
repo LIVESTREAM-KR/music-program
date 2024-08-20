@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-20T09:21:34.954Z</updated>
+    <updated>2024-08-20T10:20:05.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2PM(투피엠).zip 📂 10점 만점에 10점부터 해야 해까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/59593121</id>
+        <link href="https://tv.naver.com/v/59593121"/>
+        <updated>2024-08-20T10:19:33.717Z</updated>
+        <content type="html"><![CDATA[01:08:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 김규빈(ZB1), 8월 셋째 주 음악중심 MC 컷 모음!, MBC 240817 방송]]></title>
         <id>https://tv.naver.com/v/59500857</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59431188"/>
         <updated>2024-08-17T08:21:24.060Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - DASH (NMIXX - DASH), MBC 240817 방송]]></title>
-        <id>https://tv.naver.com/v/59430977</id>
-        <link href="https://tv.naver.com/v/59430977"/>
-        <updated>2024-08-17T08:21:24.061Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
 </feed>
