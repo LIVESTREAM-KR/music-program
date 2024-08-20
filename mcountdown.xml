@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-08-20T12:36:21.256Z</updated>
+    <updated>2024-08-20T13:22:10.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ENHYPEN (엔하이픈)이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/59603306</id>
+        <link href="https://tv.naver.com/v/59603306"/>
+        <updated>2024-08-20T13:21:47.079Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' Stray Kids - JJAM | Mnet 240808 방송]]></title>
         <id>https://tv.naver.com/v/58965443</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/58963132"/>
         <updated>2024-08-08T11:17:23.992Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 라잇썸 (LIGHTSUM) - POSE! | Mnet 240808 방송]]></title>
-        <id>https://tv.naver.com/v/58962947</id>
-        <link href="https://tv.naver.com/v/58962947"/>
-        <updated>2024-08-08T11:17:23.992Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
     </entry>
 </feed>
