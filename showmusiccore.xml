@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-21T06:26:17.610Z</updated>
+    <updated>2024-08-21T07:17:55.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] Ulsan Summer Festival.zip 📂 Show! Music Core Ulsan Summer Festival Special Compilation]]></title>
+        <id>https://tv.naver.com/v/59589765</id>
+        <link href="https://tv.naver.com/v/59589765"/>
+        <updated>2024-08-21T07:17:23.646Z</updated>
+        <content type="html"><![CDATA[01:51:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼! 음악중심] 플레이브가 음원차트 강자인 이유..🩵 #PLAVE #플레이브 #Shorts]]></title>
         <id>https://tv.naver.com/v/59623019</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59431587"/>
         <updated>2024-08-17T08:21:24.055Z</updated>
         <content type="html"><![CDATA[02:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로미스나인 - Supersonic (fromis_9 - Supersonic), MBC 240817 방송]]></title>
-        <id>https://tv.naver.com/v/59431398</id>
-        <link href="https://tv.naver.com/v/59431398"/>
-        <updated>2024-08-17T08:21:24.056Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>
