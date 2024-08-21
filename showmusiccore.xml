@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-21T03:20:52.032Z</updated>
+    <updated>2024-08-21T04:23:45.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[ENG SUB] [#직캠보고서🔍] 💥칙칙붐+쨈🍓+막방🔫 스키즈 종합선물세트 가보자고 #StrayKids 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/59630896</id>
+        <link href="https://tv.naver.com/v/59630896"/>
+        <updated>2024-08-21T04:23:10.106Z</updated>
+        <content type="html"><![CDATA[15:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2PM(투피엠).zip 📂 10점 만점에 10점부터 해야 해까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/59593121</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59431191"/>
         <updated>2024-08-17T08:21:24.058Z</updated>
         <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 - Cheeky Icy Thang (STAYC - Cheeky Icy Thang), MBC 240817 방송]]></title>
-        <id>https://tv.naver.com/v/59431188</id>
-        <link href="https://tv.naver.com/v/59431188"/>
-        <updated>2024-08-17T08:21:24.060Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
     </entry>
 </feed>
