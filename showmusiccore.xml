@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-23T06:27:21.096Z</updated>
+    <updated>2024-08-23T07:18:23.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] Stray Kids (스트레이 키즈)- Chk Chk Boom | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/59627995</id>
+        <link href="https://tv.naver.com/v/59627995"/>
+        <updated>2024-08-23T07:17:47.079Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] Ulsan Summer Festival.zip 📂 Show! Music Core Ulsan Summer Festival Special Compilation]]></title>
         <id>https://tv.naver.com/v/59589765</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59431589"/>
         <updated>2024-08-17T08:21:24.052Z</updated>
         <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비 - 밤양갱 (BIBI - Bam Yang Gang), MBC 240817 방송]]></title>
-        <id>https://tv.naver.com/v/59431587</id>
-        <link href="https://tv.naver.com/v/59431587"/>
-        <updated>2024-08-17T08:21:24.055Z</updated>
-        <content type="html"><![CDATA[02:23]]></content>
     </entry>
 </feed>
