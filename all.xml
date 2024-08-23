@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-23T09:19:46.742Z</updated>
+    <updated>2024-08-23T10:19:54.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Supersonic - fromis_9 | KBS 240823 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/59782060</id>
+        <link href="https://tv.naver.com/v/59782060"/>
+        <updated>2024-08-23T10:19:13.523Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizon - 태민 | KBS 240823 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/59782059</id>
+        <link href="https://tv.naver.com/v/59782059"/>
+        <updated>2024-08-23T10:19:13.524Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wait - 효린 | KBS 240823 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/59781765</id>
+        <link href="https://tv.naver.com/v/59781765"/>
+        <updated>2024-08-23T10:19:13.526Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 친구의 친구 얘기인데 - 문별 | KBS 240823 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/59781761</id>
+        <link href="https://tv.naver.com/v/59781761"/>
+        <updated>2024-08-23T10:19:13.528Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Worry, Be Happy - SF9 | KBS 240823 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/59781288</id>
+        <link href="https://tv.naver.com/v/59781288"/>
+        <updated>2024-08-23T10:19:13.530Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요.요.요.(YO. YO. YO.) - 성민 | KBS 240823 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/59781284</id>
+        <link href="https://tv.naver.com/v/59781284"/>
+        <updated>2024-08-23T10:19:13.532Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekend - DRIPPIN | KBS 240823 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/59781235</id>
+        <link href="https://tv.naver.com/v/59781235"/>
+        <updated>2024-08-23T10:19:13.534Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아뜨뜨뜨 - MCND | KBS 240823 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/59780722</id>
@@ -24,55 +73,6 @@
         <link href="https://tv.naver.com/v/59780523"/>
         <updated>2024-08-23T09:19:09.079Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POSE! - LIGHTSUM | KBS 240823 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/59780518</id>
-        <link href="https://tv.naver.com/v/59780518"/>
-        <updated>2024-08-23T09:19:09.081Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATE THAT - YONG POSSE(영파씨) | KBS 240823 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/59780175</id>
-        <link href="https://tv.naver.com/v/59780175"/>
-        <updated>2024-08-23T09:19:09.090Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너만 몰라 - 유니스(UNIS) | KBS 240823 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/59779830</id>
-        <link href="https://tv.naver.com/v/59779830"/>
-        <updated>2024-08-23T09:19:09.090Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[illang (Firework) - 아일리원(ILY:1) | KBS 240823 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/59779543</id>
-        <link href="https://tv.naver.com/v/59779543"/>
-        <updated>2024-08-23T09:19:09.090Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roll Up - 블랙스완 | KBS 240823 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/59778830</id>
-        <link href="https://tv.naver.com/v/59778830"/>
-        <updated>2024-08-23T09:19:09.091Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S&S(sour and sweet) - ARrC(아크) | KBS 240823 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/59778490</id>
-        <link href="https://tv.naver.com/v/59778490"/>
-        <updated>2024-08-23T09:19:09.091Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHIP - LUN8(루네이트) | KBS 240823 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/59778397</id>
-        <link href="https://tv.naver.com/v/59778397"/>
-        <updated>2024-08-23T09:19:09.093Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] Stray Kids (스트레이 키즈)- Chk Chk Boom | 쇼! 음악중심 (쇼! 음악중심)]]></title>
