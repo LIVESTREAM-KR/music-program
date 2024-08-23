@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-08-23T08:24:36.486Z</updated>
+    <updated>2024-08-23T09:19:46.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세상 🐐(G.O.A.T)한 키오프를 만날 시간 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/59768215</id>
+        <link href="https://tv.naver.com/v/59768215"/>
+        <updated>2024-08-23T09:19:35.522Z</updated>
+        <content type="html"><![CDATA[00:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 티켓값은 우리가 낼 테니 예매를 부탁해! ★쇼챔피언 in 여수★]]></title>
         <id>https://tv.naver.com/v/59521895</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/59289235</id>
         <link href="https://tv.naver.com/v/59289235"/>
         <updated>2024-08-14T13:21:54.469Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign JUNHYEOK(엔싸인 준혁) - Roller Coaster | Show Champion | EP.529 | 240814]]></title>
-        <id>https://tv.naver.com/v/59289233</id>
-        <link href="https://tv.naver.com/v/59289233"/>
-        <updated>2024-08-14T13:21:54.471Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
