@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-08-24T08:22:21.013Z</updated>
+    <updated>2024-08-24T09:19:52.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/59768215"/>
         <updated>2024-08-23T09:19:35.522Z</updated>
         <content type="html"><![CDATA[00:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이미 완성형 아이돌이었던 임서원🫶 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/59762644</id>
+        <link href="https://tv.naver.com/v/59762644"/>
+        <updated>2024-08-24T09:19:40.221Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 티켓값은 우리가 낼 테니 예매를 부탁해! ★쇼챔피언 in 여수★]]></title>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign KAZUTA(엔싸인 카즈타) - Roller Coaster | Show Champion | EP.529 | 240814]]></title>
         <id>https://tv.naver.com/v/59289491</id>
         <link href="https://tv.naver.com/v/59289491"/>
-        <updated>2024-08-14T13:21:54.469Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign HANJUN(엔싸인 한준) - Roller Coaster | Show Champion | EP.529 | 240814]]></title>
-        <id>https://tv.naver.com/v/59289235</id>
-        <link href="https://tv.naver.com/v/59289235"/>
         <updated>2024-08-14T13:21:54.469Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
     </entry>

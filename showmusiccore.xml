@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-24T08:22:21.011Z</updated>
+    <updated>2024-08-24T09:19:52.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] TAEMIN (태민) – Horizon FanCam | 쇼! 음악중심 | MBC240824방송]]></title>
+        <id>https://tv.naver.com/v/59828083</id>
+        <link href="https://tv.naver.com/v/59828083"/>
+        <updated>2024-08-24T09:19:17.398Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠４K] TAEMIN (태민) – Horizon FullCam | 쇼! 음악중심 | MBC240824방송]]></title>
+        <id>https://tv.naver.com/v/59828045</id>
+        <link href="https://tv.naver.com/v/59828045"/>
+        <updated>2024-08-24T09:19:17.399Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] fromis_9 (프로미스나인) – Supersonic 1위 직캠 | 쇼! 음악중심 | MBC240824방송]]></title>
+        <id>https://tv.naver.com/v/59827717</id>
+        <link href="https://tv.naver.com/v/59827717"/>
+        <updated>2024-08-24T09:19:17.400Z</updated>
+        <content type="html"><![CDATA[05:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8월 4주차 1위 프로미스나인 - Supersonic (fromis_9 - Supersonic), MBC 240824 방송]]></title>
         <id>https://tv.naver.com/v/59824952</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/59823869"/>
         <updated>2024-08-24T08:21:45.512Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - 별별별 (NMIXX - See that?), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59823679</id>
-        <link href="https://tv.naver.com/v/59823679"/>
-        <updated>2024-08-24T08:21:45.513Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - Love Is Lonely (NMIXX - Love Is Lonely), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59823317</id>
-        <link href="https://tv.naver.com/v/59823317"/>
-        <updated>2024-08-24T07:15:41.504Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀 - Weekend (DRIPPIN - Weekend), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59823262</id>
-        <link href="https://tv.naver.com/v/59823262"/>
-        <updated>2024-08-24T07:15:41.505Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
