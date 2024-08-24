@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-24T07:16:16.196Z</updated>
+    <updated>2024-08-24T08:22:21.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8월 4주차 1위 프로미스나인 - Supersonic (fromis_9 - Supersonic), MBC 240824 방송]]></title>
+        <id>https://tv.naver.com/v/59824952</id>
+        <link href="https://tv.naver.com/v/59824952"/>
+        <updated>2024-08-24T08:21:45.505Z</updated>
+        <content type="html"><![CDATA[01:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태민 - Horizon (TAEMIN - Horizon), MBC 240824 방송]]></title>
+        <id>https://tv.naver.com/v/59824951</id>
+        <link href="https://tv.naver.com/v/59824951"/>
+        <updated>2024-08-24T08:21:45.505Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문별 - 내 친구의 친구 얘기인데 (Moon Byul - Is This Love?), MBC 240824 방송]]></title>
+        <id>https://tv.naver.com/v/59824576</id>
+        <link href="https://tv.naver.com/v/59824576"/>
+        <updated>2024-08-24T08:21:45.508Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[효린 - Wait (HYOLYN - Wait), MBC 240824 방송]]></title>
+        <id>https://tv.naver.com/v/59824536</id>
+        <link href="https://tv.naver.com/v/59824536"/>
+        <updated>2024-08-24T08:21:45.508Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스에프나인 - Don't Worry, Be Happy (SF9 - Don't Worry, Be Happy), MBC 240824 방송]]></title>
+        <id>https://tv.naver.com/v/59824332</id>
+        <link href="https://tv.naver.com/v/59824332"/>
+        <updated>2024-08-24T08:21:45.510Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성민 - 요.요.요. (SUNGMIN - YO.YO.YO.), MBC 240824 방송]]></title>
+        <id>https://tv.naver.com/v/59823917</id>
+        <link href="https://tv.naver.com/v/59823917"/>
+        <updated>2024-08-24T08:21:45.511Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로미스나인 - Supersonic (fromis_9 - Supersonic), MBC 240824 방송]]></title>
+        <id>https://tv.naver.com/v/59823869</id>
+        <link href="https://tv.naver.com/v/59823869"/>
+        <updated>2024-08-24T08:21:45.512Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 별별별 (NMIXX - See that?), MBC 240824 방송]]></title>
+        <id>https://tv.naver.com/v/59823679</id>
+        <link href="https://tv.naver.com/v/59823679"/>
+        <updated>2024-08-24T08:21:45.513Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔믹스 - Love Is Lonely (NMIXX - Love Is Lonely), MBC 240824 방송]]></title>
         <id>https://tv.naver.com/v/59823317</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/59823262"/>
         <updated>2024-08-24T07:15:41.505Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라잇썸 - POSE! (LIGHTSUM - POSE!), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59823049</id>
-        <link href="https://tv.naver.com/v/59823049"/>
-        <updated>2024-08-24T07:15:41.509Z</updated>
-        <content type="html"><![CDATA[02:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아크 - S&S (sour and sweet) (ARrC - S&S (sour and sweet)), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59823047</id>
-        <link href="https://tv.naver.com/v/59823047"/>
-        <updated>2024-08-24T07:15:41.509Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루네이트 - WHIP (LUN8 - WHIP), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59822698</id>
-        <link href="https://tv.naver.com/v/59822698"/>
-        <updated>2024-08-24T07:15:41.510Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유니스 - 너만 몰라 (UNIS - Curious), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59822654</id>
-        <link href="https://tv.naver.com/v/59822654"/>
-        <updated>2024-08-24T07:15:41.511Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영파씨 - ATE THAT (YOUNG POSSE - ATE THAT), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59822419</id>
-        <link href="https://tv.naver.com/v/59822419"/>
-        <updated>2024-08-24T07:15:41.512Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토니유 - Jigglin' (KOR Ver.) (Tony Yu - Jigglin' (KOR Ver.)), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59822047</id>
-        <link href="https://tv.naver.com/v/59822047"/>
-        <updated>2024-08-24T07:15:41.514Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황윤성 - 우아하고 근사한 그대 (Hwang Yun Sung - Elegant and wonderful you), MBC 240824 방송]]></title>
-        <id>https://tv.naver.com/v/59822000</id>
-        <link href="https://tv.naver.com/v/59822000"/>
-        <updated>2024-08-24T07:15:41.515Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[STAGE MIX🪄] Stray Kids (스트레이 키즈)- Chk Chk Boom | 쇼! 음악중심]]></title>
-        <id>https://tv.naver.com/v/59627995</id>
-        <link href="https://tv.naver.com/v/59627995"/>
-        <updated>2024-08-23T07:17:47.079Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
     </entry>
 </feed>
