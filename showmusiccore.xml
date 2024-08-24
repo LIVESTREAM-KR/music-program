@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-24T11:15:22.345Z</updated>
+    <updated>2024-08-24T12:34:26.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] fromis_9 (프로미스나인) – Supersonic | 쇼! 음악중심 | MBC240824방송]]></title>
+        <id>https://tv.naver.com/v/59832405</id>
+        <link href="https://tv.naver.com/v/59832405"/>
+        <updated>2024-08-24T12:33:53.300Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] fromis_9 BAEK JI HEON (프로미스나인 백지헌) – Supersonic | 쇼! 음악중심 | MBC240824방송]]></title>
+        <id>https://tv.naver.com/v/59832208</id>
+        <link href="https://tv.naver.com/v/59832208"/>
+        <updated>2024-08-24T12:33:53.302Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] fromis_9 LEE NA GYUNG (프로미스나인 이나경) – Supersonic | 쇼! 음악중심 | MBC240824방송]]></title>
         <id>https://tv.naver.com/v/59832027</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/59831443"/>
         <updated>2024-08-24T11:14:50.610Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ARrC (아크) – S&S (sour and sweet) | 쇼! 음악중심 | MBC240824방송]]></title>
-        <id>https://tv.naver.com/v/59831442</id>
-        <link href="https://tv.naver.com/v/59831442"/>
-        <updated>2024-08-24T11:14:50.612Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Moon Byul (문별) – 내 친구의 친구 얘기인데 (Is This Love?) FullCam | 쇼! 음악중심 | MBC240824방송]]></title>
-        <id>https://tv.naver.com/v/59831435</id>
-        <link href="https://tv.naver.com/v/59831435"/>
-        <updated>2024-08-24T11:14:50.614Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
