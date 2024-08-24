@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-24T09:19:52.316Z</updated>
+    <updated>2024-08-24T10:18:44.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supersonic - fromis_9 | KBS 240823 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[미방분] 8월 4주차 1위 프로미스나인 - Supersonic (fromis_9 - Supersonic), MBC 240824 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59828346</id>
+        <link href="https://tv.naver.com/v/59828346"/>
+        <updated>2024-08-24T10:18:09.185Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] TAEMIN (태민) – Horizon FanCam | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/59828083</id>
         <link href="https://tv.naver.com/v/59828083"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/59823917"/>
         <updated>2024-08-24T08:21:45.511Z</updated>
         <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로미스나인 - Supersonic (fromis_9 - Supersonic), MBC 240824 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59823869</id>
-        <link href="https://tv.naver.com/v/59823869"/>
-        <updated>2024-08-24T08:21:45.512Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[효린(HYOLYN) - Wait | SBS 240818 방송 (인기가요)]]></title>
@@ -425,6 +425,48 @@
         <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[에너지 폭발! 체감상 콘서트였던 무대! 호응 유도 성공의 팁?!✨️ | KBS 240824 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59830177</id>
+        <link href="https://tv.naver.com/v/59830177"/>
+        <updated>2024-08-24T10:18:38.214Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김조한X뮤지X한해 – Uptown Funk | KBS 240824 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59829856</id>
+        <link href="https://tv.naver.com/v/59829856"/>
+        <updated>2024-08-24T10:18:38.215Z</updated>
+        <content type="html"><![CDATA[05:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[필충만 무대 선곡은?!🎵 이찬원 고향! 울산으로 연결되는 토크 대기실🤣 | KBS 240824 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59829853</id>
+        <link href="https://tv.naver.com/v/59829853"/>
+        <updated>2024-08-24T10:18:38.215Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클라이맥스로 날려버린 공연장 지붕😲 올킬 경력직 뮤한해! | KBS 240824 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59829681</id>
+        <link href="https://tv.naver.com/v/59829681"/>
+        <updated>2024-08-24T10:18:38.217Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김연지XDK – 잊지 말아요 | KBS 240824 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59829523</id>
+        <link href="https://tv.naver.com/v/59829523"/>
+        <updated>2024-08-24T10:18:38.218Z</updated>
+        <content type="html"><![CDATA[07:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반칙까지 허용?! 외부 주자 총출동된 상반기 왕중왕전🔥🔥🔥 | KBS 240824 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/59828880</id>
+        <link href="https://tv.naver.com/v/59828880"/>
+        <updated>2024-08-24T10:18:38.219Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 2024 상반기 왕중왕전!🌟 화려한 신들의 전쟁 🏆️ | KBS 240817 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/59439884</id>
         <link href="https://tv.naver.com/v/59439884"/>
@@ -451,48 +493,6 @@
         <link href="https://tv.naver.com/v/59439529"/>
         <updated>2024-08-17T11:15:40.635Z</updated>
         <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이적 - 당연한 것들 | KBS 240817 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/59439315</id>
-        <link href="https://tv.naver.com/v/59439315"/>
-        <updated>2024-08-17T11:15:40.637Z</updated>
-        <content type="html"><![CDATA[05:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이찬원 - 꽃다운 날 | KBS 240817 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/59439314</id>
-        <link href="https://tv.naver.com/v/59439314"/>
-        <updated>2024-08-17T11:15:40.639Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤아 - 장밋빛 인생 | KBS 240817 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/59438723</id>
-        <link href="https://tv.naver.com/v/59438723"/>
-        <updated>2024-08-17T11:15:40.641Z</updated>
-        <content type="html"><![CDATA[05:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김윤아 - Going Home | KBS 240817 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/59438715</id>
-        <link href="https://tv.naver.com/v/59438715"/>
-        <updated>2024-08-17T11:15:40.642Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폴킴 - 모든 날 모든 순간 | KBS 240817 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/59438273</id>
-        <link href="https://tv.naver.com/v/59438273"/>
-        <updated>2024-08-17T11:15:40.644Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유태평양X김준수 - 단지동맹 상주 아리랑&애국가 | KBS 240817 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/59438271</id>
-        <link href="https://tv.naver.com/v/59438271"/>
-        <updated>2024-08-17T11:15:40.645Z</updated>
-        <content type="html"><![CDATA[05:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 풍부한 성량의 4연승 가왕 헤라클라스의 정체는?! 뮤지컬 배우 민우혁,언더 더 씨 《마지막 사랑》 《다시 만날 수 있을까》 | #민우혁 #뮤지컬 MBC240818방 (복면가왕)]]></title>
