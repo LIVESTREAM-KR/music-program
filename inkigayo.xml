@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-08-25T06:25:11.425Z</updated>
+    <updated>2024-08-25T07:17:44.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LIGHTSUM - POSE! | SBS 240825 방송]]></title>
+        <id>https://tv.naver.com/v/59861098</id>
+        <link href="https://tv.naver.com/v/59861098"/>
+        <updated>2024-08-25T07:17:16.119Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIS(유니스) - 너만 몰라 | SBS 240825 방송]]></title>
+        <id>https://tv.naver.com/v/59860901</id>
+        <link href="https://tv.naver.com/v/59860901"/>
+        <updated>2024-08-25T07:17:16.125Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARrC - S&S (sour and sweet) | SBS 240825 방송]]></title>
+        <id>https://tv.naver.com/v/59860706</id>
+        <link href="https://tv.naver.com/v/59860706"/>
+        <updated>2024-08-25T07:17:16.129Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - WHIP | SBS 240825 방송]]></title>
+        <id>https://tv.naver.com/v/59860526</id>
+        <link href="https://tv.naver.com/v/59860526"/>
+        <updated>2024-08-25T07:17:16.133Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일리원 (ILY:1) - illang (Firework) | SBS 240825 방송]]></title>
+        <id>https://tv.naver.com/v/59860479</id>
+        <link href="https://tv.naver.com/v/59860479"/>
+        <updated>2024-08-25T07:17:16.133Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[효린(HYOLYN) - Wait | SBS 240818 방송]]></title>
         <id>https://tv.naver.com/v/59471096</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/59470566"/>
         <updated>2024-08-18T08:21:28.323Z</updated>
         <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLACKSWAN(블랙스완) - Roll Up | SBS 240818 방송]]></title>
-        <id>https://tv.naver.com/v/59470379</id>
-        <link href="https://tv.naver.com/v/59470379"/>
-        <updated>2024-08-18T08:21:28.325Z</updated>
-        <content type="html"><![CDATA[02:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - WHIP | SBS 240818 방송]]></title>
-        <id>https://tv.naver.com/v/59470156</id>
-        <link href="https://tv.naver.com/v/59470156"/>
-        <updated>2024-08-18T08:21:28.332Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOY STORY - Pump !t Up (Korean Ver.) | SBS 240818 방송]]></title>
-        <id>https://tv.naver.com/v/59469969</id>
-        <link href="https://tv.naver.com/v/59469969"/>
-        <updated>2024-08-18T08:21:28.333Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허찬미 - 토요일 밤에 | SBS 240818 방송]]></title>
-        <id>https://tv.naver.com/v/59469800</id>
-        <link href="https://tv.naver.com/v/59469800"/>
-        <updated>2024-08-18T08:21:28.335Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설하윤 - 설렌다 굿싱 | SBS 240818 방송]]></title>
-        <id>https://tv.naver.com/v/59469797</id>
-        <link href="https://tv.naver.com/v/59469797"/>
-        <updated>2024-08-18T08:21:28.336Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
