@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-26T04:23:26.352Z</updated>
+    <updated>2024-08-26T05:18:45.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TAEMIN (태민) – Horizon | 쇼! 음악중심 | MBC240824방송]]></title>
+        <id>https://tv.naver.com/v/59904047</id>
+        <link href="https://tv.naver.com/v/59904047"/>
+        <updated>2024-08-26T05:18:11.403Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] Roller Coaster LEGEND STAGES.zip 📂 Roller Coaster Stages Compilation]]></title>
         <id>https://tv.naver.com/v/59698519</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59831780"/>
         <updated>2024-08-24T11:14:50.607Z</updated>
         <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ARrC KIEN (아크 끼엔) – S&S (sour and sweet) | 쇼! 음악중심 | MBC240824방송]]></title>
-        <id>https://tv.naver.com/v/59831592</id>
-        <link href="https://tv.naver.com/v/59831592"/>
-        <updated>2024-08-24T11:14:50.608Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
