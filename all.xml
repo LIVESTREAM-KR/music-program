@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-26T08:25:30.622Z</updated>
+    <updated>2024-08-26T09:20:46.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supersonic - fromis_9 | KBS 240823 방송 (뮤직뱅크)]]></title>
@@ -376,6 +376,13 @@
         <content type="html"><![CDATA[00:57]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[전생에 큐피드였을지 모르는 유연의 킬링파트 모음💘 ㅣ 쇼챔피언 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/59762573</id>
+        <link href="https://tv.naver.com/v/59762573"/>
+        <updated>2024-08-26T09:20:34.350Z</updated>
+        <content type="html"><![CDATA[00:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 티켓값은 우리가 낼 테니 예매를 부탁해! ★쇼챔피언 in 여수★ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/59521895</id>
         <link href="https://tv.naver.com/v/59521895"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/59291613"/>
         <updated>2024-08-15T08:23:34.139Z</updated>
         <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] n.SSign(엔싸인) - 롤러코스터 | Show Champion | EP.529 | 240814 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/59289757</id>
-        <link href="https://tv.naver.com/v/59289757"/>
-        <updated>2024-08-14T13:21:54.465Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김기태 – 사랑했지만 | KBS 240824 방송 (불후의 명곡)]]></title>
