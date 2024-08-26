@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-26T06:28:01.257Z</updated>
+    <updated>2024-08-26T07:18:23.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supersonic - fromis_9 | KBS 240823 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX KYUJIN (엔믹스 규진) – 별별별 (See that?) | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59911028</id>
+        <link href="https://tv.naver.com/v/59911028"/>
+        <updated>2024-08-26T07:17:47.341Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX JIWOO (엔믹스 지우) – 별별별 (See that?) | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59911024</id>
+        <link href="https://tv.naver.com/v/59911024"/>
+        <updated>2024-08-26T07:17:47.342Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON (엔믹스 설윤) – 별별별 (See that?) | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/59911021</id>
+        <link href="https://tv.naver.com/v/59911021"/>
+        <updated>2024-08-26T07:17:47.342Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] TAEMIN (태민) – Horizon | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/59904047</id>
         <link href="https://tv.naver.com/v/59904047"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/59831974"/>
         <updated>2024-08-24T11:14:50.605Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ARrC ZIWOO (아크 지우) – S&S (sour and sweet) | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59831972</id>
-        <link href="https://tv.naver.com/v/59831972"/>
-        <updated>2024-08-24T11:14:50.605Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ARrC JIBEEN (아크 지빈) – S&S (sour and sweet) | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59831783</id>
-        <link href="https://tv.naver.com/v/59831783"/>
-        <updated>2024-08-24T11:14:50.606Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ARrC DOHA (아크 도하) – S&S (sour and sweet) | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59831780</id>
-        <link href="https://tv.naver.com/v/59831780"/>
-        <updated>2024-08-24T11:14:50.607Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태민(TAEMIN) - Sexy In The Air | SBS 240825 방송 (인기가요)]]></title>
