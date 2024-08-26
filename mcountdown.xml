@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-08-26T11:17:00.568Z</updated>
+    <updated>2024-08-26T12:36:30.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8월 4주 1위 'fromis_9 (프로미스나인)'의 'Supersonic' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/59928176</id>
+        <link href="https://tv.naver.com/v/59928176"/>
+        <updated>2024-08-26T12:36:08.453Z</updated>
+        <content type="html"><![CDATA[05:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' 태민 (TAEMIN) - Sexy In The Air | Mnet 240822 방송]]></title>
         <id>https://tv.naver.com/v/59726466</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59725599"/>
         <updated>2024-08-22T12:35:45.386Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' SF9 (에스에프나인) | Mnet 240822 방송]]></title>
-        <id>https://tv.naver.com/v/59725099</id>
-        <link href="https://tv.naver.com/v/59725099"/>
-        <updated>2024-08-22T11:15:53.758Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
