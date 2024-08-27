@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-08-27T08:24:51.685Z</updated>
+    <updated>2024-08-27T09:20:27.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/59768215"/>
         <updated>2024-08-23T09:19:35.522Z</updated>
         <content type="html"><![CDATA[00:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[점점 더 참을 수 없는 그..🔥 ㅣ 쇼챔피언]]></title>
+        <id>https://tv.naver.com/v/59762718</id>
+        <link href="https://tv.naver.com/v/59762718"/>
+        <updated>2024-08-27T09:20:14.956Z</updated>
+        <content type="html"><![CDATA[00:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온 세상이 잠들어가는 밤 유리와 함께🤍 ㅣ 쇼챔피언]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59292440"/>
         <updated>2024-08-15T08:23:34.139Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BLACKSWAN(블랙스완) - Roll Up | Show Champion | EP.529 | 240814]]></title>
-        <id>https://tv.naver.com/v/59291613</id>
-        <link href="https://tv.naver.com/v/59291613"/>
-        <updated>2024-08-15T08:23:34.139Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
     </entry>
 </feed>
