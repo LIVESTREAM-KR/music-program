@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-27T06:27:45.438Z</updated>
+    <updated>2024-08-27T07:18:10.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TAEMIN(태민).zip 📂Horizon부터 Danger까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/59959264</id>
+        <link href="https://tv.naver.com/v/59959264"/>
+        <updated>2024-08-27T07:17:36.073Z</updated>
+        <content type="html"><![CDATA[49:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX KYUJIN (엔믹스 규진) – 별별별 (See that?) | 쇼! 음악중심 | MBC240824방송]]></title>
         <id>https://tv.naver.com/v/59911028</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59831975"/>
         <updated>2024-08-24T11:14:50.604Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ARrC CHOIHAN (아크 최한) – S&S (sour and sweet) | 쇼! 음악중심 | MBC240824방송]]></title>
-        <id>https://tv.naver.com/v/59831974</id>
-        <link href="https://tv.naver.com/v/59831974"/>
-        <updated>2024-08-24T11:14:50.605Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
