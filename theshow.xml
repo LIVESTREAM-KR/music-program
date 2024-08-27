@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-08-27T10:19:52.426Z</updated>
+    <updated>2024-08-27T11:17:15.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SF9 - THE SHOW CHOICE! [THE SHOW 240827]]]></title>
+        <id>https://tv.naver.com/v/59986059</id>
+        <link href="https://tv.naver.com/v/59986059"/>
+        <updated>2024-08-27T11:16:57.475Z</updated>
+        <content type="html"><![CDATA[06:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF9 - Don't Worry, Be Happy [THE SHOW 240827]]]></title>
+        <id>https://tv.naver.com/v/59985559</id>
+        <link href="https://tv.naver.com/v/59985559"/>
+        <updated>2024-08-27T11:16:57.475Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SF9 - Melodrama [THE SHOW 240827]]]></title>
+        <id>https://tv.naver.com/v/59985555</id>
+        <link href="https://tv.naver.com/v/59985555"/>
+        <updated>2024-08-27T11:16:57.477Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRIPPIN - Weekend [THE SHOW 240827]]]></title>
+        <id>https://tv.naver.com/v/59985042</id>
+        <link href="https://tv.naver.com/v/59985042"/>
+        <updated>2024-08-27T11:16:57.479Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gyeongree - Cherry (경리, Cherry) [THE SHOW 240827]]]></title>
+        <id>https://tv.naver.com/v/59985040</id>
+        <link href="https://tv.naver.com/v/59985040"/>
+        <updated>2024-08-27T11:16:57.481Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UNIS - Curious (유니스, 너만 몰라) [THE SHOW 240827]]]></title>
         <id>https://tv.naver.com/v/59984250</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/59983975"/>
         <updated>2024-08-27T10:19:34.843Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARrC - dummy [THE SHOW 240827]]]></title>
-        <id>https://tv.naver.com/v/59983974</id>
-        <link href="https://tv.naver.com/v/59983974"/>
-        <updated>2024-08-27T10:19:34.845Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CATCH THE YOUNG - Dream it (캐치더영, Dream it) [THE SHOW 240827]]]></title>
-        <id>https://tv.naver.com/v/59983460</id>
-        <link href="https://tv.naver.com/v/59983460"/>
-        <updated>2024-08-27T10:19:34.847Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챌린딩] MC 형준 & YOUNG POSSE (영파씨) [THE SHOW 240827]]]></title>
-        <id>https://tv.naver.com/v/59983273</id>
-        <link href="https://tv.naver.com/v/59983273"/>
-        <updated>2024-08-27T10:19:34.849Z</updated>
-        <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILY:1 - illang (Firework) (아일리원, illang (Firework)) [THE SHOW 240827]]]></title>
-        <id>https://tv.naver.com/v/59983268</id>
-        <link href="https://tv.naver.com/v/59983268"/>
-        <updated>2024-08-27T10:19:34.850Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAVE - Venom [THE SHOW 240827]]]></title>
-        <id>https://tv.naver.com/v/59983225</id>
-        <link href="https://tv.naver.com/v/59983225"/>
-        <updated>2024-08-27T10:19:34.852Z</updated>
-        <content type="html"><![CDATA[02:14]]></content>
     </entry>
 </feed>
