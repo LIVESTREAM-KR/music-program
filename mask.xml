@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-08-28T03:21:56.380Z</updated>
+    <updated>2024-08-28T04:23:46.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 우리만의 블랙스완 당신을 보고 첫눈에 반했습니다...🖤 아르테미스 희진의 《I Go》 《비행소녀》 | #아르테미스 #희진 MBC240825방송]]></title>
+        <id>https://tv.naver.com/v/60014706</id>
+        <link href="https://tv.naver.com/v/60014706"/>
+        <updated>2024-08-28T04:23:45.855Z</updated>
+        <content type="html"><![CDATA[16:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜무결점 실력으로 가왕을 위협하는 실력자들🔥 첫 방어전에 도전한 '언더 더 씨'의 운명은?👀＞ 복면가왕 463회 예고, MBC 240901 방송]]></title>
         <id>https://tv.naver.com/v/59868930</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59866406"/>
         <updated>2024-08-25T10:19:08.471Z</updated>
         <content type="html"><![CDATA[01:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멀티플레이어' VS '멀티탭'의 1라운드 무대 - Timeless, MBC 240825 방송]]></title>
-        <id>https://tv.naver.com/v/59866088</id>
-        <link href="https://tv.naver.com/v/59866088"/>
-        <updated>2024-08-25T10:19:08.479Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
