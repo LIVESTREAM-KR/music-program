@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-29T06:27:40.391Z</updated>
+    <updated>2024-08-29T07:18:50.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supersonic - fromis_9 | KBS 240823 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCkpop] NMIXX.zip 📂  O.O부터 별별별까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/60015427</id>
+        <link href="https://tv.naver.com/v/60015427"/>
+        <updated>2024-08-29T07:18:13.787Z</updated>
+        <content type="html"><![CDATA[34:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fromis_9(프로미스나인).zip 📂유리구두부터 Supersonic까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/60089446</id>
+        <link href="https://tv.naver.com/v/60089446"/>
+        <updated>2024-08-29T07:18:13.788Z</updated>
+        <content type="html"><![CDATA[25:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼! 음악중심] 미모, 춤선, 표정 하나 빠지는 게 없음👍 #NMIXX #엔믹스 #지우 #Shorts (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/60028131</id>
         <link href="https://tv.naver.com/v/60028131"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/59832405"/>
         <updated>2024-08-24T12:33:53.300Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] fromis_9 BAEK JI HEON (프로미스나인 백지헌) – Supersonic | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59832208</id>
-        <link href="https://tv.naver.com/v/59832208"/>
-        <updated>2024-08-24T12:33:53.302Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] fromis_9 LEE NA GYUNG (프로미스나인 이나경) – Supersonic | 쇼! 음악중심 | MBC240824방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/59832027</id>
-        <link href="https://tv.naver.com/v/59832027"/>
-        <updated>2024-08-24T11:14:50.596Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[태민(TAEMIN) - Sexy In The Air | SBS 240825 방송 (인기가요)]]></title>
