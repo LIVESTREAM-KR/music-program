@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-29T11:17:44.934Z</updated>
+    <updated>2024-08-29T12:37:13.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supersonic - fromis_9 | KBS 240823 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:34]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' JUN. K - Paint this love | Mnet 240829 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/60108725</id>
+        <link href="https://tv.naver.com/v/60108725"/>
+        <updated>2024-08-29T12:36:52.491Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' 오마이걸 (OH MY GIRL) - Classified | Mnet 240829 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/60108501</id>
         <link href="https://tv.naver.com/v/60108501"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/60107277"/>
         <updated>2024-08-29T11:17:21.856Z</updated>
         <content type="html"><![CDATA[06:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 방예담 - O-HE | Mnet 240829 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/60107112</id>
-        <link href="https://tv.naver.com/v/60107112"/>
-        <updated>2024-08-29T11:17:21.858Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SF9 - THE SHOW CHOICE! [THE SHOW 240827] (더쇼)]]></title>

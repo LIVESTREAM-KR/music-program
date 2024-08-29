@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-08-29T11:17:44.955Z</updated>
+    <updated>2024-08-29T12:37:13.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' JUN. K - Paint this love | Mnet 240829 방송]]></title>
+        <id>https://tv.naver.com/v/60108725</id>
+        <link href="https://tv.naver.com/v/60108725"/>
+        <updated>2024-08-29T12:36:52.491Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 오마이걸 (OH MY GIRL) - Classified | Mnet 240829 방송]]></title>
         <id>https://tv.naver.com/v/60108501</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60107277"/>
         <updated>2024-08-29T11:17:21.856Z</updated>
         <content type="html"><![CDATA[06:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 방예담 - O-HE | Mnet 240829 방송]]></title>
-        <id>https://tv.naver.com/v/60107112</id>
-        <link href="https://tv.naver.com/v/60107112"/>
-        <updated>2024-08-29T11:17:21.858Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
