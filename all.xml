@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-29T09:21:58.133Z</updated>
+    <updated>2024-08-29T10:20:59.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supersonic - fromis_9 | KBS 240823 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[02:34]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' 오마이걸 (OH MY GIRL) | Mnet 240829 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/60105324</id>
+        <link href="https://tv.naver.com/v/60105324"/>
+        <updated>2024-08-29T10:20:35.759Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - WHIP | Mnet 240829 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/60105170</id>
+        <link href="https://tv.naver.com/v/60105170"/>
+        <updated>2024-08-29T10:20:35.759Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIS (유니스) - 너만 몰라 | Mnet 240829 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/60104711</id>
+        <link href="https://tv.naver.com/v/60104711"/>
+        <updated>2024-08-29T10:20:35.760Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARrC (아크) - S&S (sour and sweet) | Mnet 240829 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/60104545</id>
+        <link href="https://tv.naver.com/v/60104545"/>
+        <updated>2024-08-29T10:20:35.761Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NMIXX가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/59988371</id>
         <link href="https://tv.naver.com/v/59988371"/>
@@ -255,34 +283,6 @@
         <link href="https://tv.naver.com/v/59726212"/>
         <updated>2024-08-22T12:35:45.379Z</updated>
         <content type="html"><![CDATA[05:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 문별 (Moon Byul) - 내 친구의 친구 얘기인데 (Is This Love?) | Mnet 240822 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/59725656</id>
-        <link href="https://tv.naver.com/v/59725656"/>
-        <updated>2024-08-22T12:35:45.381Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KARD - Tell My Momma | Mnet 240822 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/59726473</id>
-        <link href="https://tv.naver.com/v/59726473"/>
-        <updated>2024-08-22T12:35:45.382Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' fromis_9 (프로미스나인) - Supersonic | Mnet 240822 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/59725648</id>
-        <link href="https://tv.naver.com/v/59725648"/>
-        <updated>2024-08-22T12:35:45.383Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NMIXX - 별별별 (See that?) | Mnet 240822 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/59725605</id>
-        <link href="https://tv.naver.com/v/59725605"/>
-        <updated>2024-08-22T12:35:45.384Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SF9 - THE SHOW CHOICE! [THE SHOW 240827] (더쇼)]]></title>
