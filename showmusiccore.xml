@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-30T08:25:16.418Z</updated>
+    <updated>2024-08-30T09:21:33.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 내가 좋아하는 피자는 어깨피자🍕 어깨피고 걱정말고 행복하자!! Don't worry Be Happy😉 #에스에프나인 #SF9 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/60159344</id>
+        <link href="https://tv.naver.com/v/60159344"/>
+        <updated>2024-08-30T09:20:58.699Z</updated>
+        <content type="html"><![CDATA[13:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] SF9(에스에프나인).zip 📂 팡파레부터 Don’t Worry, Be Happy까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/60100637</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/59904047"/>
         <updated>2024-08-26T05:18:11.403Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] Roller Coaster LEGEND STAGES.zip 📂 Roller Coaster Stages Compilation]]></title>
-        <id>https://tv.naver.com/v/59698519</id>
-        <link href="https://tv.naver.com/v/59698519"/>
-        <updated>2024-08-25T07:17:10.464Z</updated>
-        <content type="html"><![CDATA[19:21]]></content>
     </entry>
 </feed>
