@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-30T01:23:57.956Z</updated>
+    <updated>2024-08-30T02:43:09.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Supersonic - fromis_9 | KBS 240823 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[8월 4주 차 쇼챔피언 ＜금동현 & 가온 & 규진 & 지우＞ MC 컷 모음📁 | Show Champion | EP.530 | 240828 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/60084744</id>
+        <link href="https://tv.naver.com/v/60084744"/>
+        <updated>2024-08-30T02:42:58.100Z</updated>
+        <content type="html"><![CDATA[06:55]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엔믹스와 함께라면 외롭지 않아🤍 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/60074779</id>
         <link href="https://tv.naver.com/v/60074779"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/60048672"/>
         <updated>2024-08-28T11:16:00.940Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채연(LEE CHAE YEON) - Don’t l 240828 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/60048480</id>
-        <link href="https://tv.naver.com/v/60048480"/>
-        <updated>2024-08-28T11:16:00.941Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김기태 – 사랑했지만 | KBS 240824 방송 (불후의 명곡)]]></title>
