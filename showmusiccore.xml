@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-08-31T08:24:47.891Z</updated>
+    <updated>2024-08-31T09:19:37.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] JAEHYUN (재현) – Smoke FanCam | 쇼! 음악중심 | MBC240831방송]]></title>
+        <id>https://tv.naver.com/v/60200252</id>
+        <link href="https://tv.naver.com/v/60200252"/>
+        <updated>2024-08-31T09:19:05.896Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] JAEHYUN (재현) – Smoke FullCam | 쇼! 음악중심 | MBC240831방송]]></title>
+        <id>https://tv.naver.com/v/60200117</id>
+        <link href="https://tv.naver.com/v/60200117"/>
+        <updated>2024-08-31T09:19:05.896Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8월 5주차 1위 플레이브 - Pump Up The Volume! (PLAVE - Pump Up The Volume!), MBC 240831 방송]]></title>
         <id>https://tv.naver.com/v/60197681</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/60196781"/>
         <updated>2024-08-31T08:24:16.003Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - 별별별 (NMIXX - See that?), MBC 240831 방송]]></title>
-        <id>https://tv.naver.com/v/60196477</id>
-        <link href="https://tv.naver.com/v/60196477"/>
-        <updated>2024-08-31T08:24:16.005Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로베이스원 - KILL THE ROMEO (ZEROBASEONE - KILL THE ROMEO), MBC 240831 방송]]></title>
-        <id>https://tv.naver.com/v/60196120</id>
-        <link href="https://tv.naver.com/v/60196120"/>
-        <updated>2024-08-31T07:17:23.932Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
