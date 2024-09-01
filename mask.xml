@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-09-01T10:19:10.318Z</updated>
+    <updated>2024-09-01T11:16:28.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜추석맞이 풍성한 실력자들의 등장🍃 가왕은 보름달처럼 환하게 빛날 수 있을 것인가🌕＞ 복면가왕 464회 예고, MBC 240908]]></title>
+        <id>https://tv.naver.com/v/60241011</id>
+        <link href="https://tv.naver.com/v/60241011"/>
+        <updated>2024-09-01T11:16:27.966Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너는 내 운명'의 정체는 악퉁 추승엽!, MBC 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60240396</id>
+        <link href="https://tv.naver.com/v/60240396"/>
+        <updated>2024-09-01T11:16:27.966Z</updated>
+        <content type="html"><![CDATA[01:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['언더 더 씨'의 가왕 방어전 무대 - 말리꽃, MBC 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60239831</id>
+        <link href="https://tv.naver.com/v/60239831"/>
+        <updated>2024-09-01T11:16:27.969Z</updated>
+        <content type="html"><![CDATA[05:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['멀티탭'의 정체는 트로트 가수 최향!, MBC 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60239638</id>
+        <link href="https://tv.naver.com/v/60239638"/>
+        <updated>2024-09-01T11:16:27.969Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['너는 내 운명' 3라운드 무대 - 아침이 밝아올 때까지, MBC 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60239324</id>
+        <link href="https://tv.naver.com/v/60239324"/>
+        <updated>2024-09-01T11:16:27.970Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['멀티탭' 3라운드 무대 - 여자, MBC 240901 방송]]></title>
         <id>https://tv.naver.com/v/60239041</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/60238297"/>
         <updated>2024-09-01T10:19:09.717Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달고나 커피'의 정체는 가수 도코!, MBC 240901 방송]]></title>
-        <id>https://tv.naver.com/v/60238114</id>
-        <link href="https://tv.naver.com/v/60238114"/>
-        <updated>2024-09-01T10:19:09.718Z</updated>
-        <content type="html"><![CDATA[01:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 노래에도 완벽하게 화음을 쌓을 수 있는 '멀티탭'?! 남우현과 함께하는 내꺼하자X추격자🎵, MBC 240901 방송]]></title>
-        <id>https://tv.naver.com/v/60237783</id>
-        <link href="https://tv.naver.com/v/60237783"/>
-        <updated>2024-09-01T10:19:09.721Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레전드 보컬 이승철의 등장! 신봉선과 특별한 인연이 있는 '달고나 커피'?!, MBC 240901 방송]]></title>
-        <id>https://tv.naver.com/v/60237596</id>
-        <link href="https://tv.naver.com/v/60237596"/>
-        <updated>2024-09-01T10:19:09.722Z</updated>
-        <content type="html"><![CDATA[01:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['멀티탭' 2라운드 무대 - 시계태엽, MBC 240901 방송]]></title>
-        <id>https://tv.naver.com/v/60237304</id>
-        <link href="https://tv.naver.com/v/60237304"/>
-        <updated>2024-09-01T10:19:09.723Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달고나 커피' 2라운드 무대 - 삭제, MBC 240901 방송]]></title>
-        <id>https://tv.naver.com/v/60237273</id>
-        <link href="https://tv.naver.com/v/60237273"/>
-        <updated>2024-09-01T10:19:09.725Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
