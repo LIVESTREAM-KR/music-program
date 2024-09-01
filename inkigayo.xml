@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-09-01T06:28:00.706Z</updated>
+    <updated>2024-09-01T07:16:57.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LUN8(루네이트) - WHIP | SBS 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60232046</id>
+        <link href="https://tv.naver.com/v/60232046"/>
+        <updated>2024-09-01T07:16:28.496Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOWADAYS - Why Not? | SBS 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60231898</id>
+        <link href="https://tv.naver.com/v/60231898"/>
+        <updated>2024-09-01T07:16:28.496Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARrC - S&S (sour and sweet) | SBS 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60231744</id>
+        <link href="https://tv.naver.com/v/60231744"/>
+        <updated>2024-09-01T07:16:28.497Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RESCENE(리센느) - LOVE ATTACK | SBS 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60231414</id>
+        <link href="https://tv.naver.com/v/60231414"/>
+        <updated>2024-09-01T07:16:28.497Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[태민(TAEMIN) - Sexy In The Air | SBS 240825 방송]]></title>
         <id>https://tv.naver.com/v/59863607</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/59862597"/>
         <updated>2024-08-25T08:22:11.792Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - 별별별 (See that?) | SBS 240825 방송]]></title>
-        <id>https://tv.naver.com/v/59862220</id>
-        <link href="https://tv.naver.com/v/59862220"/>
-        <updated>2024-08-25T08:22:11.797Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - Love Is Lonely | SBS 240825 방송]]></title>
-        <id>https://tv.naver.com/v/59862093</id>
-        <link href="https://tv.naver.com/v/59862093"/>
-        <updated>2024-08-25T08:22:11.798Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - Weekend | SBS 240825 방송]]></title>
-        <id>https://tv.naver.com/v/59861758</id>
-        <link href="https://tv.naver.com/v/59861758"/>
-        <updated>2024-08-25T08:22:11.800Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLACKSWAN(블랙스완) - Roll Up | SBS 240825 방송]]></title>
-        <id>https://tv.naver.com/v/59861583</id>
-        <link href="https://tv.naver.com/v/59861583"/>
-        <updated>2024-08-25T08:22:11.801Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
     </entry>
 </feed>
