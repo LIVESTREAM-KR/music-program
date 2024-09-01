@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-09-01T08:22:57.876Z</updated>
+    <updated>2024-09-01T09:19:48.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[JUN. K - Paint this love | SBS 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60234821</id>
+        <link href="https://tv.naver.com/v/60234821"/>
+        <updated>2024-09-01T09:19:22.695Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸 - Classified | SBS 240901 방송]]></title>
         <id>https://tv.naver.com/v/60234643</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60233173"/>
         <updated>2024-09-01T08:22:27.886Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - Weekend | SBS 240901 방송]]></title>
-        <id>https://tv.naver.com/v/60232793</id>
-        <link href="https://tv.naver.com/v/60232793"/>
-        <updated>2024-09-01T08:22:27.888Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
