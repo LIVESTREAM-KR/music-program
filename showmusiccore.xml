@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-01T04:24:44.749Z</updated>
+    <updated>2024-09-01T05:20:19.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[August TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/60088603</id>
+        <link href="https://tv.naver.com/v/60088603"/>
+        <updated>2024-09-01T05:19:45.245Z</updated>
+        <content type="html"><![CDATA[30:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] NMIXX KYUJIN (엔믹스 규진) – 별별별 (See that?) | 쇼! 음악중심 | MBC240831방송]]></title>
         <id>https://tv.naver.com/v/60211167</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60210971"/>
         <updated>2024-08-31T14:16:19.184Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE RICKY (제로베이스원 리키) – KILL THE ROMEO | 쇼! 음악중심 | MBC240831방송]]></title>
-        <id>https://tv.naver.com/v/60210970</id>
-        <link href="https://tv.naver.com/v/60210970"/>
-        <updated>2024-08-31T14:16:19.186Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
