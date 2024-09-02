@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-02T08:26:09.646Z</updated>
+    <updated>2024-09-02T09:22:14.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Start Up - 오마이걸 | KBS 240830 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – CRAZY | 쇼! 음악중심 | MBC240831방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/60285022</id>
+        <link href="https://tv.naver.com/v/60285022"/>
+        <updated>2024-09-02T09:21:42.290Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – CRAZY | 쇼! 음악중심 | MBC240831방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/60285019</id>
+        <link href="https://tv.naver.com/v/60285019"/>
+        <updated>2024-09-02T09:21:42.290Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 김규빈(ZB1), 8월 다섯째 주 음악중심 MC 컷 모음!, MBC 240831 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/60262804</id>
         <link href="https://tv.naver.com/v/60262804"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/60210978"/>
         <updated>2024-08-31T14:16:19.183Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] JUN. K (준케이) – Paint This Love FullCam | 쇼! 음악중심 | MBC240831방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/60210976</id>
-        <link href="https://tv.naver.com/v/60210976"/>
-        <updated>2024-08-31T14:16:19.183Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – KILL THE ROMEO | 쇼! 음악중심 | MBC240831방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/60210974</id>
-        <link href="https://tv.naver.com/v/60210974"/>
-        <updated>2024-08-31T14:16:19.184Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JUN. K - Paint this love | SBS 240901 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 알려지지 않은 꿈의 건너편의 라인업 췍! (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/60263478</id>
+        <link href="https://tv.naver.com/v/60263478"/>
+        <updated>2024-09-02T09:22:03.320Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[8월 4주 차 쇼챔피언 ＜금동현 & 가온 & 규진 & 지우＞ MC 컷 모음📁 | Show Champion | EP.530 | 240828 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/60084744</id>
         <link href="https://tv.naver.com/v/60084744"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/60048678"/>
         <updated>2024-08-28T11:16:00.938Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스(NMIXX) - Love Is Lonely l 240828 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/60048672</id>
-        <link href="https://tv.naver.com/v/60048672"/>
-        <updated>2024-08-28T11:16:00.940Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정동하×알리 - 바람의 노래(가로) | KBS 240831 방송 (불후의 명곡)]]></title>
