@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-02T01:25:37.231Z</updated>
+    <updated>2024-09-02T02:46:25.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Start Up - 오마이걸 | KBS 240830 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 김규빈(ZB1), 8월 다섯째 주 음악중심 MC 컷 모음!, MBC 240831 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/60262804</id>
+        <link href="https://tv.naver.com/v/60262804"/>
+        <updated>2024-09-02T02:45:53.989Z</updated>
+        <content type="html"><![CDATA[18:20]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 태민이랑 꿈속에서 만나기로 약속한 썰 푼다🛌💜  #TAEMIN 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/60211408</id>
         <link href="https://tv.naver.com/v/60211408"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/60210974"/>
         <updated>2024-08-31T14:16:19.184Z</updated>
         <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) – KILL THE ROMEO | 쇼! 음악중심 | MBC240831방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/60210972</id>
-        <link href="https://tv.naver.com/v/60210972"/>
-        <updated>2024-08-31T14:16:19.184Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JUN. K - Paint this love | SBS 240901 방송 (인기가요)]]></title>
