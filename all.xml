@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-04T09:21:18.090Z</updated>
+    <updated>2024-09-04T10:20:44.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Start Up - 오마이걸 | KBS 240830 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCkpop] LE SSERAFIME.zip 📂 EASY부터 CRAZY까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/60408900</id>
+        <link href="https://tv.naver.com/v/60408900"/>
+        <updated>2024-09-04T10:20:08.004Z</updated>
+        <content type="html"><![CDATA[14:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[MBCkpop] ZEROBASEONE.zip 📂  In Bloom부터 GOOD SO BAD까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/60412140</id>
         <link href="https://tv.naver.com/v/60412140"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/60349042"/>
         <updated>2024-09-03T09:20:41.952Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON (엔믹스 설윤) – 별별별 (See that?) | 쇼! 음악중심 | MBC240831방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/60348452</id>
-        <link href="https://tv.naver.com/v/60348452"/>
-        <updated>2024-09-03T09:20:41.954Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JUN. K - Paint this love | SBS 240901 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 키스오브라이프(KISS OF LIFE) - Nothing l 240904 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/60413931</id>
+        <link href="https://tv.naver.com/v/60413931"/>
+        <updated>2024-09-04T10:20:31.463Z</updated>
+        <content type="html"><![CDATA[11:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 오마이걸(OH MY GIRL) - Classified l 240904 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/60413676</id>
         <link href="https://tv.naver.com/v/60413676"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/60410700"/>
         <updated>2024-09-04T09:21:05.961Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '오마이걸(OH MY GIRL)' 나!왔어✋🏻 l 240904 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/60410401</id>
-        <link href="https://tv.naver.com/v/60410401"/>
-        <updated>2024-09-04T09:21:05.962Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정동하×알리 - 바람의 노래(가로) | KBS 240831 방송 (불후의 명곡)]]></title>

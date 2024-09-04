@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-09-04T09:21:18.093Z</updated>
+    <updated>2024-09-04T10:20:44.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 에세이] 키스오브라이프(KISS OF LIFE) - Nothing l 240904]]></title>
+        <id>https://tv.naver.com/v/60413931</id>
+        <link href="https://tv.naver.com/v/60413931"/>
+        <updated>2024-09-04T10:20:31.463Z</updated>
+        <content type="html"><![CDATA[11:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 오마이걸(OH MY GIRL) - Classified l 240904]]></title>
         <id>https://tv.naver.com/v/60413676</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60410700"/>
         <updated>2024-09-04T09:21:05.961Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '오마이걸(OH MY GIRL)' 나!왔어✋🏻 l 240904]]></title>
-        <id>https://tv.naver.com/v/60410401</id>
-        <link href="https://tv.naver.com/v/60410401"/>
-        <updated>2024-09-04T09:21:05.962Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
