@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-04T08:23:32.907Z</updated>
+    <updated>2024-09-04T09:21:18.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] ZEROBASEONE.zip 📂  In Bloom부터 GOOD SO BAD까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/60412140</id>
+        <link href="https://tv.naver.com/v/60412140"/>
+        <updated>2024-09-04T09:20:43.180Z</updated>
+        <content type="html"><![CDATA[25:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE RICKY (제로베이스원 리키) – KILL THE ROMEO | 쇼! 음악중심 | MBC240831방송]]></title>
         <id>https://tv.naver.com/v/60350044</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60348452"/>
         <updated>2024-09-03T09:20:41.954Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NMIXX HAEWON (엔믹스 해원) – 별별별 (See that?) | 쇼! 음악중심 | MBC240831방송]]></title>
-        <id>https://tv.naver.com/v/60348451</id>
-        <link href="https://tv.naver.com/v/60348451"/>
-        <updated>2024-09-03T09:20:41.955Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
