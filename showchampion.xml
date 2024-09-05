@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-09-05T07:18:20.824Z</updated>
+    <updated>2024-09-05T08:25:41.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ILY:1(아일리원) - illang (Firework) | Show Champion | EP.531 | 240904]]></title>
+        <id>https://tv.naver.com/v/60451945</id>
+        <link href="https://tv.naver.com/v/60451945"/>
+        <updated>2024-09-05T08:25:28.832Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] OH MY GIRL HYOJUNG(오마이걸 효정) - Start Up | Show Champion | EP.531 | 240904]]></title>
         <id>https://tv.naver.com/v/60436674</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60424930"/>
         <updated>2024-09-04T13:25:53.915Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BANG YEDAM(방예담) - O-HE | Show Champion | EP.531 | 240904]]></title>
-        <id>https://tv.naver.com/v/60417714</id>
-        <link href="https://tv.naver.com/v/60417714"/>
-        <updated>2024-09-04T13:25:53.915Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>

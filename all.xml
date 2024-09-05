@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-05T07:18:20.748Z</updated>
+    <updated>2024-09-05T08:25:41.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Start Up - 오마이걸 | KBS 240830 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] ILY:1(아일리원) - illang (Firework) | Show Champion | EP.531 | 240904 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/60451945</id>
+        <link href="https://tv.naver.com/v/60451945"/>
+        <updated>2024-09-05T08:25:28.832Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] OH MY GIRL HYOJUNG(오마이걸 효정) - Start Up | Show Champion | EP.531 | 240904 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/60436674</id>
         <link href="https://tv.naver.com/v/60436674"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/60424930"/>
         <updated>2024-09-04T13:25:53.915Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] BANG YEDAM(방예담) - O-HE | Show Champion | EP.531 | 240904 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/60417714</id>
-        <link href="https://tv.naver.com/v/60417714"/>
-        <updated>2024-09-04T13:25:53.915Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정동하×알리 - 바람의 노래(가로) | KBS 240831 방송 (불후의 명곡)]]></title>
