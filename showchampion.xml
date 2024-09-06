@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-09-06T01:24:29.278Z</updated>
+    <updated>2024-09-06T02:43:30.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.531 | 240904]]></title>
+        <id>https://tv.naver.com/v/60460320</id>
+        <link href="https://tv.naver.com/v/60460320"/>
+        <updated>2024-09-06T02:43:19.374Z</updated>
+        <content type="html"><![CDATA[04:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] ILY:1(아일리원) - illang (Firework) | Show Champion | EP.531 | 240904]]></title>
         <id>https://tv.naver.com/v/60451945</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/60433254</id>
         <link href="https://tv.naver.com/v/60433254"/>
         <updated>2024-09-04T15:21:19.925Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] OH MY GIRL YooA(오마이걸 유아) - Start Up | Show Champion | EP.531 | 240904]]></title>
-        <id>https://tv.naver.com/v/60433250</id>
-        <link href="https://tv.naver.com/v/60433250"/>
-        <updated>2024-09-04T15:21:19.926Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
