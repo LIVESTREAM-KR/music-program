@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-06T09:23:02.910Z</updated>
+    <updated>2024-09-06T10:20:58.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[CRAZY - LE SSERAFIM | KBS 240906 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/60554484</id>
+        <link href="https://tv.naver.com/v/60554484"/>
+        <updated>2024-09-06T10:20:16.861Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤하 - 태양물고기 | KBS 240906 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/60554254</id>
+        <link href="https://tv.naver.com/v/60554254"/>
+        <updated>2024-09-06T10:20:16.861Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOOD SO BAD - ZEROBASEONE | KBS 240906 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/60554252</id>
+        <link href="https://tv.naver.com/v/60554252"/>
+        <updated>2024-09-06T10:20:16.863Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pineapple Slice - 백현 | KBS 240906 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/60553995</id>
+        <link href="https://tv.naver.com/v/60553995"/>
+        <updated>2024-09-06T10:20:16.863Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classified - 오마이걸 | KBS 240906 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/60553715</id>
+        <link href="https://tv.naver.com/v/60553715"/>
+        <updated>2024-09-06T10:20:16.863Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹아내려요 - DAY6 | KBS 240906 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/60553708</id>
+        <link href="https://tv.naver.com/v/60553708"/>
+        <updated>2024-09-06T10:20:16.865Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wavy - 예린 | KBS 240906 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/60553456</id>
+        <link href="https://tv.naver.com/v/60553456"/>
+        <updated>2024-09-06T10:20:16.866Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run Away - 쯔위 | KBS 240906 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/60553173</id>
@@ -24,55 +73,6 @@
         <link href="https://tv.naver.com/v/60552488"/>
         <updated>2024-09-06T09:22:20.418Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별별별(See that?) - NMIXX(엔믹스) | KBS 240906 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/60552462</id>
-        <link href="https://tv.naver.com/v/60552462"/>
-        <updated>2024-09-06T09:22:20.420Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모님 관람불가 - BOYNEXTDOOR | KBS 240906 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/60551944</id>
-        <link href="https://tv.naver.com/v/60551944"/>
-        <updated>2024-09-06T09:22:20.422Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위치(WITCH) - xikers  | KBS 240906 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/60551935</id>
-        <link href="https://tv.naver.com/v/60551935"/>
-        <updated>2024-09-06T09:22:20.423Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O-HE - 방예담 | KBS 240906 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/60551559</id>
-        <link href="https://tv.naver.com/v/60551559"/>
-        <updated>2024-09-06T09:22:20.425Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TTYL - loossemble  | KBS 240906 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/60551530</id>
-        <link href="https://tv.naver.com/v/60551530"/>
-        <updated>2024-09-06T09:22:20.426Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATE THAT - YONG POSSE(영파씨) | KBS 240906 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/60550876</id>
-        <link href="https://tv.naver.com/v/60550876"/>
-        <updated>2024-09-06T09:22:20.427Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Not? - NOWADAYS | KBS 240906 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/60550550</id>
-        <link href="https://tv.naver.com/v/60550550"/>
-        <updated>2024-09-06T09:22:20.428Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] LE SSERAFIME.zip 📂 EASY부터 CRAZY까지 | Show! MusicCore (쇼! 음악중심)]]></title>
@@ -495,6 +495,27 @@
         <content type="html"><![CDATA[05:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 💕독보적인 매력의 낭만 보컬⭐ 악퉁 추승엽 하이라이트!, MBC 240901 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/60554998</id>
+        <link href="https://tv.naver.com/v/60554998"/>
+        <updated>2024-09-06T10:20:58.004Z</updated>
+        <content type="html"><![CDATA[10:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨만인의 취향 저격할 음색 퀸🎤 트로트 가수 최향 하이라이트!, MBC 240901 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/60554713</id>
+        <link href="https://tv.naver.com/v/60554713"/>
+        <updated>2024-09-06T10:20:58.005Z</updated>
+        <content type="html"><![CDATA[12:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🌊썸머 퀸 등극한 믿고 듣는 메보좌💙 브브걸 민영 하이라이트!, MBC 240901 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/60554481</id>
+        <link href="https://tv.naver.com/v/60554481"/>
+        <updated>2024-09-06T10:20:58.006Z</updated>
+        <content type="html"><![CDATA[09:18]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#복면가왕] 존 레논 아니고요❌ 59호도 아니고❌ 추승엽 맞습니다⭕ 악퉁 추승엽의 《소녀시대》 《아침이 밝아올 때까지》 | #악퉁 #추승엽 MBC240901방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/60384025</id>
         <link href="https://tv.naver.com/v/60384025"/>
@@ -542,26 +563,5 @@
         <link href="https://tv.naver.com/v/60239041"/>
         <updated>2024-09-01T10:19:09.708Z</updated>
         <content type="html"><![CDATA[04:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼바'의 정체는 브브걸 민영!, MBC 240901 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/60238919</id>
-        <link href="https://tv.naver.com/v/60238919"/>
-        <updated>2024-09-01T10:19:09.709Z</updated>
-        <content type="html"><![CDATA[01:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너는 내 운명'을 위한 김경호의 힌트! 비틀스 존 레논과 꼭 닮은 실력파 뮤지션?!😲, MBC 240901 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/60238676</id>
-        <link href="https://tv.naver.com/v/60238676"/>
-        <updated>2024-09-01T10:19:09.711Z</updated>
-        <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너는 내 운명' 2라운드 무대 - 소녀시대, MBC 240901 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/60238338</id>
-        <link href="https://tv.naver.com/v/60238338"/>
-        <updated>2024-09-01T10:19:09.712Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>

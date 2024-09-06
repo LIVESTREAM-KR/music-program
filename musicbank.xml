@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-09-06T09:23:02.741Z</updated>
+    <updated>2024-09-06T10:20:58.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CRAZY - LE SSERAFIM | KBS 240906 방송]]></title>
+        <id>https://tv.naver.com/v/60554484</id>
+        <link href="https://tv.naver.com/v/60554484"/>
+        <updated>2024-09-06T10:20:16.861Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤하 - 태양물고기 | KBS 240906 방송]]></title>
+        <id>https://tv.naver.com/v/60554254</id>
+        <link href="https://tv.naver.com/v/60554254"/>
+        <updated>2024-09-06T10:20:16.861Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOOD SO BAD - ZEROBASEONE | KBS 240906 방송]]></title>
+        <id>https://tv.naver.com/v/60554252</id>
+        <link href="https://tv.naver.com/v/60554252"/>
+        <updated>2024-09-06T10:20:16.863Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pineapple Slice - 백현 | KBS 240906 방송]]></title>
+        <id>https://tv.naver.com/v/60553995</id>
+        <link href="https://tv.naver.com/v/60553995"/>
+        <updated>2024-09-06T10:20:16.863Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Classified - 오마이걸 | KBS 240906 방송]]></title>
+        <id>https://tv.naver.com/v/60553715</id>
+        <link href="https://tv.naver.com/v/60553715"/>
+        <updated>2024-09-06T10:20:16.863Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[녹아내려요 - DAY6 | KBS 240906 방송]]></title>
+        <id>https://tv.naver.com/v/60553708</id>
+        <link href="https://tv.naver.com/v/60553708"/>
+        <updated>2024-09-06T10:20:16.865Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wavy - 예린 | KBS 240906 방송]]></title>
+        <id>https://tv.naver.com/v/60553456</id>
+        <link href="https://tv.naver.com/v/60553456"/>
+        <updated>2024-09-06T10:20:16.866Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run Away - 쯔위 | KBS 240906 방송]]></title>
         <id>https://tv.naver.com/v/60553173</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/60552488"/>
         <updated>2024-09-06T09:22:20.418Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별별별(See that?) - NMIXX(엔믹스) | KBS 240906 방송]]></title>
-        <id>https://tv.naver.com/v/60552462</id>
-        <link href="https://tv.naver.com/v/60552462"/>
-        <updated>2024-09-06T09:22:20.420Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모님 관람불가 - BOYNEXTDOOR | KBS 240906 방송]]></title>
-        <id>https://tv.naver.com/v/60551944</id>
-        <link href="https://tv.naver.com/v/60551944"/>
-        <updated>2024-09-06T09:22:20.422Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위치(WITCH) - xikers  | KBS 240906 방송]]></title>
-        <id>https://tv.naver.com/v/60551935</id>
-        <link href="https://tv.naver.com/v/60551935"/>
-        <updated>2024-09-06T09:22:20.423Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O-HE - 방예담 | KBS 240906 방송]]></title>
-        <id>https://tv.naver.com/v/60551559</id>
-        <link href="https://tv.naver.com/v/60551559"/>
-        <updated>2024-09-06T09:22:20.425Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TTYL - loossemble  | KBS 240906 방송]]></title>
-        <id>https://tv.naver.com/v/60551530</id>
-        <link href="https://tv.naver.com/v/60551530"/>
-        <updated>2024-09-06T09:22:20.426Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATE THAT - YONG POSSE(영파씨) | KBS 240906 방송]]></title>
-        <id>https://tv.naver.com/v/60550876</id>
-        <link href="https://tv.naver.com/v/60550876"/>
-        <updated>2024-09-06T09:22:20.427Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Not? - NOWADAYS | KBS 240906 방송]]></title>
-        <id>https://tv.naver.com/v/60550550</id>
-        <link href="https://tv.naver.com/v/60550550"/>
-        <updated>2024-09-06T09:22:20.428Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>

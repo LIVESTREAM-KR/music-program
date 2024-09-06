@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-09-06T09:23:02.747Z</updated>
+    <updated>2024-09-06T10:20:58.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 💕독보적인 매력의 낭만 보컬⭐ 악퉁 추승엽 하이라이트!, MBC 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60554998</id>
+        <link href="https://tv.naver.com/v/60554998"/>
+        <updated>2024-09-06T10:20:58.004Z</updated>
+        <content type="html"><![CDATA[10:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨만인의 취향 저격할 음색 퀸🎤 트로트 가수 최향 하이라이트!, MBC 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60554713</id>
+        <link href="https://tv.naver.com/v/60554713"/>
+        <updated>2024-09-06T10:20:58.005Z</updated>
+        <content type="html"><![CDATA[12:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🌊썸머 퀸 등극한 믿고 듣는 메보좌💙 브브걸 민영 하이라이트!, MBC 240901 방송]]></title>
+        <id>https://tv.naver.com/v/60554481</id>
+        <link href="https://tv.naver.com/v/60554481"/>
+        <updated>2024-09-06T10:20:58.006Z</updated>
+        <content type="html"><![CDATA[09:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 존 레논 아니고요❌ 59호도 아니고❌ 추승엽 맞습니다⭕ 악퉁 추승엽의 《소녀시대》 《아침이 밝아올 때까지》 | #악퉁 #추승엽 MBC240901방송]]></title>
         <id>https://tv.naver.com/v/60384025</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/60239041"/>
         <updated>2024-09-01T10:19:09.708Z</updated>
         <content type="html"><![CDATA[04:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['삼바'의 정체는 브브걸 민영!, MBC 240901 방송]]></title>
-        <id>https://tv.naver.com/v/60238919</id>
-        <link href="https://tv.naver.com/v/60238919"/>
-        <updated>2024-09-01T10:19:09.709Z</updated>
-        <content type="html"><![CDATA[01:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너는 내 운명'을 위한 김경호의 힌트! 비틀스 존 레논과 꼭 닮은 실력파 뮤지션?!😲, MBC 240901 방송]]></title>
-        <id>https://tv.naver.com/v/60238676</id>
-        <link href="https://tv.naver.com/v/60238676"/>
-        <updated>2024-09-01T10:19:09.711Z</updated>
-        <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너는 내 운명' 2라운드 무대 - 소녀시대, MBC 240901 방송]]></title>
-        <id>https://tv.naver.com/v/60238338</id>
-        <link href="https://tv.naver.com/v/60238338"/>
-        <updated>2024-09-01T10:19:09.712Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
