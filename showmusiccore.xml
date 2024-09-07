@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-07T09:20:09.799Z</updated>
+    <updated>2024-09-07T10:19:52.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] BOYNEXTDOOR (보이넥스트도어) – 부모님 관람불가 | 쇼! 음악중심 | MBC240907방송]]></title>
+        <id>https://tv.naver.com/v/60597975</id>
+        <link href="https://tv.naver.com/v/60597975"/>
+        <updated>2024-09-07T10:19:16.748Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] DAY6 SUNGJIN (데이식스 성진) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
+        <id>https://tv.naver.com/v/60597662</id>
+        <link href="https://tv.naver.com/v/60597662"/>
+        <updated>2024-09-07T10:19:16.748Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] DAY6 DOWOON (데이식스 도운) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
+        <id>https://tv.naver.com/v/60597523</id>
+        <link href="https://tv.naver.com/v/60597523"/>
+        <updated>2024-09-07T10:19:16.748Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] DAY6 WONPIL (데이식스 원필) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
+        <id>https://tv.naver.com/v/60597522</id>
+        <link href="https://tv.naver.com/v/60597522"/>
+        <updated>2024-09-07T10:19:16.750Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] DAY6 Young K (데이식스 영케이) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
+        <id>https://tv.naver.com/v/60597520</id>
+        <link href="https://tv.naver.com/v/60597520"/>
+        <updated>2024-09-07T10:19:16.751Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠8K] DAY6 (데이식스) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
+        <id>https://tv.naver.com/v/60597197</id>
+        <link href="https://tv.naver.com/v/60597197"/>
+        <updated>2024-09-07T10:19:16.756Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백현 - Pineapple Slice (BAEKHYUN - Pineapple Slice), MBC 240907 방송]]></title>
         <id>https://tv.naver.com/v/60593226</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/60592886"/>
         <updated>2024-09-07T08:21:59.909Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔믹스 - 별별별 (NMIXX - See that?), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60592530</id>
-        <link href="https://tv.naver.com/v/60592530"/>
-        <updated>2024-09-07T08:21:59.914Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르세라핌 - CRAZY (LE SSERAFIM - CRAZY), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60592529</id>
-        <link href="https://tv.naver.com/v/60592529"/>
-        <updated>2024-09-07T08:21:59.915Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤하 - 태양물고기 (YOUNHA - Sunfish), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60592276</id>
-        <link href="https://tv.naver.com/v/60592276"/>
-        <updated>2024-09-07T08:21:59.916Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로베이스원 - GOOD SO BAD (ZEROBASEONE - GOOD SO BAD), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60592274</id>
-        <link href="https://tv.naver.com/v/60592274"/>
-        <updated>2024-09-07T08:21:59.917Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예린 - Wavy (YERIN - Wavy), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60591931</id>
-        <link href="https://tv.naver.com/v/60591931"/>
-        <updated>2024-09-07T07:19:06.783Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이넥스트도어 - 부모님 관람불가 (BOYNEXTDOOR - Dangerous), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60591929</id>
-        <link href="https://tv.naver.com/v/60591929"/>
-        <updated>2024-09-07T07:19:06.783Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
     </entry>
 </feed>
