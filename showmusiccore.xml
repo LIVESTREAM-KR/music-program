@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-07T07:19:40.615Z</updated>
+    <updated>2024-09-07T08:22:34.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백현 - Pineapple Slice (BAEKHYUN - Pineapple Slice), MBC 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60593226</id>
+        <link href="https://tv.naver.com/v/60593226"/>
+        <updated>2024-09-07T08:21:59.902Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이식스 - 녹아내려요 (DAY6 - Melt Down), MBC 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60593222</id>
+        <link href="https://tv.naver.com/v/60593222"/>
+        <updated>2024-09-07T08:21:59.906Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 - Classified (OH MY GIRL - Classified), MBC 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60593044</id>
+        <link href="https://tv.naver.com/v/60593044"/>
+        <updated>2024-09-07T08:21:59.907Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쯔위 - Run Away (TZUYU - Run Away), MBC 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60592886</id>
+        <link href="https://tv.naver.com/v/60592886"/>
+        <updated>2024-09-07T08:21:59.909Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 별별별 (NMIXX - See that?), MBC 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60592530</id>
+        <link href="https://tv.naver.com/v/60592530"/>
+        <updated>2024-09-07T08:21:59.914Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[르세라핌 - CRAZY (LE SSERAFIM - CRAZY), MBC 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60592529</id>
+        <link href="https://tv.naver.com/v/60592529"/>
+        <updated>2024-09-07T08:21:59.915Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤하 - 태양물고기 (YOUNHA - Sunfish), MBC 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60592276</id>
+        <link href="https://tv.naver.com/v/60592276"/>
+        <updated>2024-09-07T08:21:59.916Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 - GOOD SO BAD (ZEROBASEONE - GOOD SO BAD), MBC 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60592274</id>
+        <link href="https://tv.naver.com/v/60592274"/>
+        <updated>2024-09-07T08:21:59.917Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예린 - Wavy (YERIN - Wavy), MBC 240907 방송]]></title>
         <id>https://tv.naver.com/v/60591931</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/60591929"/>
         <updated>2024-09-07T07:19:06.783Z</updated>
         <content type="html"><![CDATA[02:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리핀 - Weekend (DRIPPIN - Weekend), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60591328</id>
-        <link href="https://tv.naver.com/v/60591328"/>
-        <updated>2024-09-07T07:19:06.783Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁 - 슈퍼슈퍼 (YOUNGTAK - SuperSuper), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60591282</id>
-        <link href="https://tv.naver.com/v/60591282"/>
-        <updated>2024-09-07T07:19:06.785Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원위 - OFF ROAD (ONEWE - OFF ROAD), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60591280</id>
-        <link href="https://tv.naver.com/v/60591280"/>
-        <updated>2024-09-07T07:19:06.786Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나우어데이즈 - Why Not? (NOWADAYS - Why Not?), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60591279</id>
-        <link href="https://tv.naver.com/v/60591279"/>
-        <updated>2024-09-07T07:19:06.787Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싸이커스 - 위치 (xikers - WITCH), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60591069</id>
-        <link href="https://tv.naver.com/v/60591069"/>
-        <updated>2024-09-07T07:19:06.789Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아일리원 - illang (Firework) (ILY:1 - illang (Firework)), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60590710</id>
-        <link href="https://tv.naver.com/v/60590710"/>
-        <updated>2024-09-07T07:19:06.796Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리센느 - LOVE ATTACK (RESCENE - LOVE ATTACK), MBC 240907 방송]]></title>
-        <id>https://tv.naver.com/v/60590669</id>
-        <link href="https://tv.naver.com/v/60590669"/>
-        <updated>2024-09-07T07:19:06.797Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#직캠보고서🔍] 좋은 것만 잔뜩 담았으니 음중 기억해줘🌸 나의 소중한, 오마이걸🩷 #오마이걸 #OHMYGIRL 사전녹화 비하인드⏯️]]></title>
-        <id>https://tv.naver.com/v/60578644</id>
-        <link href="https://tv.naver.com/v/60578644"/>
-        <updated>2024-09-07T01:22:29.230Z</updated>
-        <content type="html"><![CDATA[23:17]]></content>
     </entry>
 </feed>
