@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-09T06:31:26.774Z</updated>
+    <updated>2024-09-09T07:19:12.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] BAEKHYUN (백현) – Pineapple Slice | 쇼! 음악중심 | MBC240907방송]]></title>
+        <id>https://tv.naver.com/v/60675720</id>
+        <link href="https://tv.naver.com/v/60675720"/>
+        <updated>2024-09-09T07:18:41.676Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 김규빈(ZB1), 9월 첫째 주 음악중심 MC 컷 모음!, MBC 240907 방송]]></title>
         <id>https://tv.naver.com/v/60670851</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60601643"/>
         <updated>2024-09-07T12:33:39.881Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NMIXX (엔믹스) – 별별별 (See that?) | 쇼! 음악중심 | MBC240907방송]]></title>
-        <id>https://tv.naver.com/v/60601615</id>
-        <link href="https://tv.naver.com/v/60601615"/>
-        <updated>2024-09-07T12:33:39.882Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
