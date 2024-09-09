@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-09-09T12:38:52.602Z</updated>
+    <updated>2024-09-09T13:26:43.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9월 1주 1위 'ZEROBASEONE'의 'GOOD SO BAD' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/60698456</id>
+        <link href="https://tv.naver.com/v/60698456"/>
+        <updated>2024-09-09T13:26:18.963Z</updated>
+        <content type="html"><![CDATA[09:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오마이걸 (OH MY GIRL) - Classified | Mnet 240905 방송]]></title>
         <id>https://tv.naver.com/v/60496668</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60494685"/>
         <updated>2024-09-05T11:17:28.716Z</updated>
         <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 윤하(YOUNHA) - 태양물고기 | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60493266</id>
-        <link href="https://tv.naver.com/v/60493266"/>
-        <updated>2024-09-05T11:17:28.717Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
