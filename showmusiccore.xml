@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-09T04:23:52.486Z</updated>
+    <updated>2024-09-09T05:20:12.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 김규빈(ZB1), 9월 첫째 주 음악중심 MC 컷 모음!, MBC 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60670851</id>
+        <link href="https://tv.naver.com/v/60670851"/>
+        <updated>2024-09-09T05:19:34.428Z</updated>
+        <content type="html"><![CDATA[16:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] BOYNEXTDOOR TAESAN (보이넥스트도어 태산) – 부모님 관람불가 | 쇼! 음악중심 | MBC240907방송]]></title>
+        <id>https://tv.naver.com/v/60636645</id>
+        <link href="https://tv.naver.com/v/60636645"/>
+        <updated>2024-09-09T05:19:34.431Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] BOYNEXTDOOR JAEHYUN (보이넥스트도어 명재현) – 부모님 관람불가 | 쇼! 음악중심 | MBC240907방송]]></title>
+        <id>https://tv.naver.com/v/60636643</id>
+        <link href="https://tv.naver.com/v/60636643"/>
+        <updated>2024-09-09T05:19:34.433Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] DAY6 DOWOON (데이식스 도운) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
         <id>https://tv.naver.com/v/60638970</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/60601615"/>
         <updated>2024-09-07T12:33:39.882Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] YERIN (예린) –Wavy FanCam | 쇼! 음악중심 | MBC240907방송]]></title>
-        <id>https://tv.naver.com/v/60601439</id>
-        <link href="https://tv.naver.com/v/60601439"/>
-        <updated>2024-09-07T12:33:39.884Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] YERIN (예린) – Wavy FullCam | 쇼! 음악중심 | MBC240907방송]]></title>
-        <id>https://tv.naver.com/v/60601437</id>
-        <link href="https://tv.naver.com/v/60601437"/>
-        <updated>2024-09-07T12:33:39.886Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – GOOD SO BAD | 쇼! 음악중심 | MBC240907방송]]></title>
-        <id>https://tv.naver.com/v/60601435</id>
-        <link href="https://tv.naver.com/v/60601435"/>
-        <updated>2024-09-07T12:33:39.887Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
