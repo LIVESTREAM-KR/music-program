@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-10T07:20:11.201Z</updated>
+    <updated>2024-09-10T08:25:31.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] TWICE Solo.zip 📂 Show! Music Core TWICE Solo Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/60742980</id>
+        <link href="https://tv.naver.com/v/60742980"/>
+        <updated>2024-09-10T08:24:54.325Z</updated>
+        <content type="html"><![CDATA[14:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TZUYU (쯔위) – Run Away | 쇼! 음악중심 | MBC240907방송]]></title>
         <id>https://tv.naver.com/v/60675724</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60638536"/>
         <updated>2024-09-09T02:48:19.276Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NMIXX JIWOO (엔믹스 지우) – 별별별 (See that?) | 쇼! 음악중심 | MBC240907방송]]></title>
-        <id>https://tv.naver.com/v/60601761</id>
-        <link href="https://tv.naver.com/v/60601761"/>
-        <updated>2024-09-07T12:33:39.876Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
