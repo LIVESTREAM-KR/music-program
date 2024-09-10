@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-10T10:21:09.548Z</updated>
+    <updated>2024-09-10T11:55:44.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 내 블러셔? 정재현 Smoke인데...✨❤️‍🔥 럭키여러분🍀 F랑해~  #JAEHYUN 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/60755035</id>
+        <link href="https://tv.naver.com/v/60755035"/>
+        <updated>2024-09-10T11:55:07.271Z</updated>
+        <content type="html"><![CDATA[08:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] TWICE Solo.zip 📂 Show! Music Core TWICE Solo Stages Compilation]]></title>
         <id>https://tv.naver.com/v/60742980</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60638539"/>
         <updated>2024-09-09T02:48:19.275Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] DAY6 SUNGJIN (데이식스 성진) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
-        <id>https://tv.naver.com/v/60638536</id>
-        <link href="https://tv.naver.com/v/60638536"/>
-        <updated>2024-09-09T02:48:19.276Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
