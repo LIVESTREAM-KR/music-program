@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-09-10T08:25:31.244Z</updated>
+    <updated>2024-09-10T09:22:15.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하나뿐인 꿈이라면 이뤄져 버리게🍀]]></title>
+        <id>https://tv.naver.com/v/60738413</id>
+        <link href="https://tv.naver.com/v/60738413"/>
+        <updated>2024-09-10T09:22:03.846Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 이번주 쇼챔에게 다가와]]></title>
         <id>https://tv.naver.com/v/60679973</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/60433265</id>
         <link href="https://tv.naver.com/v/60433265"/>
         <updated>2024-09-04T15:21:19.921Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] OH MY GIRL YUBIN(오마이걸 유빈) - Start Up | Show Champion | EP.531 | 240904]]></title>
-        <id>https://tv.naver.com/v/60433262</id>
-        <link href="https://tv.naver.com/v/60433262"/>
-        <updated>2024-09-04T15:21:19.922Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
