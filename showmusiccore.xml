@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-11T06:28:03.134Z</updated>
+    <updated>2024-09-11T07:18:31.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DAY6.zip 📂 어떻게 말해부터 녹아내려요까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/60692952</id>
+        <link href="https://tv.naver.com/v/60692952"/>
+        <updated>2024-09-11T07:17:55.042Z</updated>
+        <content type="html"><![CDATA[56:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 내 블러셔? 정재현 Smoke인데...✨❤️‍🔥 럭키여러분🍀 F랑해~  #JAEHYUN 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/60755035</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60638969"/>
         <updated>2024-09-09T02:48:19.274Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] DAY6 Young K (데이식스 영케이) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
-        <id>https://tv.naver.com/v/60638539</id>
-        <link href="https://tv.naver.com/v/60638539"/>
-        <updated>2024-09-09T02:48:19.275Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
 </feed>
