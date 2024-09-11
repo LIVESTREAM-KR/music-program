@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-09-11T07:18:31.630Z</updated>
+    <updated>2024-09-11T08:26:07.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젠블루(GENBLUE) - COCOCO l 240911]]></title>
+        <id>https://tv.naver.com/v/60810296</id>
+        <link href="https://tv.naver.com/v/60810296"/>
+        <updated>2024-09-11T08:25:54.646Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트리거(TRIGER) - 허리케인(hurricane) l 240911]]></title>
+        <id>https://tv.naver.com/v/60809956</id>
+        <link href="https://tv.naver.com/v/60809956"/>
+        <updated>2024-09-11T08:25:54.646Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하나뿐인 꿈이라면 이뤄져 버리게🍀]]></title>
         <id>https://tv.naver.com/v/60738413</id>
@@ -59,20 +73,6 @@
         <id>https://tv.naver.com/v/60436596</id>
         <link href="https://tv.naver.com/v/60436596"/>
         <updated>2024-09-04T15:21:19.915Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] NMIXX KYUJIN(엔믹스 규진) - 별별별 (See that?) | Show Champion | EP.531 | 240904]]></title>
-        <id>https://tv.naver.com/v/60433283</id>
-        <link href="https://tv.naver.com/v/60433283"/>
-        <updated>2024-09-04T15:21:19.918Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] OH MY GIRL MIMI(오마이걸 미미) - Start Up | Show Champion | EP.531 | 240904]]></title>
-        <id>https://tv.naver.com/v/60433265</id>
-        <link href="https://tv.naver.com/v/60433265"/>
-        <updated>2024-09-04T15:21:19.921Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
