@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-09-12T09:20:52.237Z</updated>
+    <updated>2024-09-12T10:21:33.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KATSEYE - Debut | Mnet 240912 방송]]></title>
+        <id>https://tv.naver.com/v/60871761</id>
+        <link href="https://tv.naver.com/v/60871761"/>
+        <updated>2024-09-12T10:21:09.084Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' MEOVV (미야오) | Mnet 240912 방송]]></title>
+        <id>https://tv.naver.com/v/60871522</id>
+        <link href="https://tv.naver.com/v/60871522"/>
+        <updated>2024-09-12T10:21:09.084Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARrC (아크) - S&S (sour and sweet) | Mnet 240912 방송]]></title>
+        <id>https://tv.naver.com/v/60871518</id>
+        <link href="https://tv.naver.com/v/60871518"/>
+        <updated>2024-09-12T10:21:09.085Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RESCENE (리센느) - LOVE ATTACK | Mnet 240912 방송]]></title>
+        <id>https://tv.naver.com/v/60871323</id>
+        <link href="https://tv.naver.com/v/60871323"/>
+        <updated>2024-09-12T10:21:09.088Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LE SSERAFIM이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/60759706</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/60495944"/>
         <updated>2024-09-05T12:37:44.969Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' DAY6 (데이식스) | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60495400</id>
-        <link href="https://tv.naver.com/v/60495400"/>
-        <updated>2024-09-05T12:37:44.969Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['먼슬리 엠카PICK' 8월의 엠카PICK 송 & 스테이지는? | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60495203</id>
-        <link href="https://tv.naver.com/v/60495203"/>
-        <updated>2024-09-05T12:37:44.970Z</updated>
-        <content type="html"><![CDATA[04:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZEROBASEONE - GOOD SO BAD | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60495167</id>
-        <link href="https://tv.naver.com/v/60495167"/>
-        <updated>2024-09-05T12:37:44.970Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - 별별별 (See that?) | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60494689</id>
-        <link href="https://tv.naver.com/v/60494689"/>
-        <updated>2024-09-05T11:17:28.716Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
