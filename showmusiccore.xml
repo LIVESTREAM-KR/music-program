@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-12T05:19:32.142Z</updated>
+    <updated>2024-09-12T06:28:28.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 백현이가 파인애플을 먹여준다? 한 트럭도 가능🍍  #BAEKHYUN 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/60801583</id>
+        <link href="https://tv.naver.com/v/60801583"/>
+        <updated>2024-09-12T06:27:56.452Z</updated>
+        <content type="html"><![CDATA[09:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAY6.zip 📂 어떻게 말해부터 녹아내려요까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/60692952</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60638970"/>
         <updated>2024-09-09T02:48:19.272Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] DAY6 WONPIL (데이식스 원필) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
-        <id>https://tv.naver.com/v/60638969</id>
-        <link href="https://tv.naver.com/v/60638969"/>
-        <updated>2024-09-09T02:48:19.274Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
