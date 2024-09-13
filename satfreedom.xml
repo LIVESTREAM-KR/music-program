@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-09-13T10:20:59.446Z</updated>
+    <updated>2024-09-13T11:17:33.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[예고] 불후의 명곡 ❤건군 76주년 국군의 날 특집❤ | KBS 방송]]></title>
-        <id>https://tv.naver.com/v/60925943</id>
-        <link href="https://tv.naver.com/v/60925943"/>
-        <updated>2024-09-13T09:20:33.179Z</updated>
-        <content type="html"><![CDATA[00:45]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 연기 대부의 트로피를 향한 전쟁!🔥 명사 특집 이순재 2부🌟 | KBS 240907 방송]]></title>
         <id>https://tv.naver.com/v/60600048</id>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/60598851"/>
         <updated>2024-09-07T11:15:46.587Z</updated>
         <content type="html"><![CDATA[04:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍경민 - 타타타 | KBS 240907 방송]]></title>
+        <id>https://tv.naver.com/v/60598549</id>
+        <link href="https://tv.naver.com/v/60598549"/>
+        <updated>2024-09-13T11:17:27.252Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
     </entry>
 </feed>
