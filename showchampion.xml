@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-09-13T01:25:40.590Z</updated>
+    <updated>2024-09-13T02:47:10.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[9월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.531 | 240904]]></title>
+        <id>https://tv.naver.com/v/60842027</id>
+        <link href="https://tv.naver.com/v/60842027"/>
+        <updated>2024-09-13T02:46:59.203Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] KINO(키노) - Dancing On The Road | Show Champion | EP.532 | 240911]]></title>
         <id>https://tv.naver.com/v/60851247</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/60844390</id>
         <link href="https://tv.naver.com/v/60844390"/>
         <updated>2024-09-12T08:24:58.712Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HORI7ON(호라이즌) - SUMAYAW SUMUNOD | Show Champion | EP.532 | 240911]]></title>
-        <id>https://tv.naver.com/v/60844386</id>
-        <link href="https://tv.naver.com/v/60844386"/>
-        <updated>2024-09-12T08:24:58.713Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
