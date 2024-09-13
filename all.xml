@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-13T11:17:33.590Z</updated>
+    <updated>2024-09-13T12:36:54.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Run Away - 쯔위 | KBS 240913 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 불후의 명곡 ❤건군 76주년 국군의 날 특집❤ | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/60934489</id>
+        <link href="https://tv.naver.com/v/60934489"/>
+        <updated>2024-09-13T12:36:48.151Z</updated>
+        <content type="html"><![CDATA[00:44]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 연기 대부의 트로피를 향한 전쟁!🔥 명사 특집 이순재 2부🌟 | KBS 240907 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/60600048</id>
         <link href="https://tv.naver.com/v/60600048"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/60598851"/>
         <updated>2024-09-07T11:15:46.587Z</updated>
         <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍경민 - 타타타 | KBS 240907 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/60598549</id>
-        <link href="https://tv.naver.com/v/60598549"/>
-        <updated>2024-09-13T11:17:27.252Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 ✨역주행 곡 ＜그날처럼＞의 원곡자! 이별 발라드 대가🎙️ 장덕철 장중혁 하이라이트!, MBC 240908 방송 (복면가왕)]]></title>
