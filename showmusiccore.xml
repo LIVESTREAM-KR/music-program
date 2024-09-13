@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-13T04:23:23.015Z</updated>
+    <updated>2024-09-13T05:19:32.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 📋ZB1음중기록부📋 모든 일에 성실한 태도로 임하며 애교가 많음💙  #ZEROBASEONE 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/60821850</id>
+        <link href="https://tv.naver.com/v/60821850"/>
+        <updated>2024-09-13T05:18:55.631Z</updated>
+        <content type="html"><![CDATA[21:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 백현이가 파인애플을 먹여준다? 한 트럭도 가능🍍  #BAEKHYUN 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/60801583</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60636643"/>
         <updated>2024-09-09T05:19:34.433Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] DAY6 DOWOON (데이식스 도운) – 녹아내려요 | 쇼! 음악중심 | MBC240907방송]]></title>
-        <id>https://tv.naver.com/v/60638970</id>
-        <link href="https://tv.naver.com/v/60638970"/>
-        <updated>2024-09-09T02:48:19.272Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
