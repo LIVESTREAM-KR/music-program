@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-09-14T11:15:14.920Z</updated>
+    <updated>2024-09-14T12:35:23.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 보컬 후예들의 전쟁!🎙 아티스트 이승철 편🌟 | KBS 240914 방송]]></title>
+        <id>https://tv.naver.com/v/60971650</id>
+        <link href="https://tv.naver.com/v/60971650"/>
+        <updated>2024-09-14T12:35:17.551Z</updated>
+        <content type="html"><![CDATA[00:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불후의 명창단🤩 젊은 친구들에게 전하는 이순재의 한마디! | KBS 240914 방송]]></title>
         <id>https://tv.naver.com/v/60971527</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60970301"/>
         <updated>2024-09-14T11:15:08.475Z</updated>
         <content type="html"><![CDATA[01:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대를 위해 프랑스어 과외까지?! 선생님께 보내는 유연석의 영상편지😲  | KBS 240914 방송]]></title>
-        <id>https://tv.naver.com/v/60970297</id>
-        <link href="https://tv.naver.com/v/60970297"/>
-        <updated>2024-09-14T11:15:08.476Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
     </entry>
 </feed>
