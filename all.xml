@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-15T11:15:32.940Z</updated>
+    <updated>2024-09-15T12:35:55.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Run Away - 쯔위 | KBS 240913 방송 (뮤직뱅크)]]></title>
@@ -537,18 +537,18 @@
         <content type="html"><![CDATA[04:45]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['핑크뮬리'의 정체는 트로트 가수 오유진!, MBC 240915 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/61003648</id>
-        <link href="https://tv.naver.com/v/61003648"/>
-        <updated>2024-09-15T10:19:36.190Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['장금이' 3라운드 무대 - 홀로, MBC 240915 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/61003650</id>
         <link href="https://tv.naver.com/v/61003650"/>
         <updated>2024-09-15T10:19:36.189Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['핑크뮬리'의 정체는 트로트 가수 오유진!, MBC 240915 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/61003648</id>
+        <link href="https://tv.naver.com/v/61003648"/>
+        <updated>2024-09-15T10:19:36.190Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가요계를 뒤흔든 인기 가수?! 데뷔부터 남달랐던 '아라비안나이트'의 신문 기사📰, MBC 240915 방송 (복면가왕)]]></title>
