@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-16T08:26:58.276Z</updated>
+    <updated>2024-09-16T09:24:13.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Run Away - 쯔위 | KBS 240913 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 추석엔 티니핑 대신 쇼챔에세이 보며 눈물이 핑! (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/60898631</id>
+        <link href="https://tv.naver.com/v/60898631"/>
+        <updated>2024-09-16T09:24:01.643Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[9월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.531 | 240904 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/60842027</id>
         <link href="https://tv.naver.com/v/60842027"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/60844391</id>
         <link href="https://tv.naver.com/v/60844391"/>
         <updated>2024-09-12T08:24:58.709Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] HORI7ON WINSTON(호라이즌 윈스턴) - SUMAYAW SUMUNOD | Show Champion | EP.532 | 240911 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/60844390</id>
-        <link href="https://tv.naver.com/v/60844390"/>
-        <updated>2024-09-12T08:24:58.712Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
