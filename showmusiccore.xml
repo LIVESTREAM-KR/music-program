@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-16T06:29:10.740Z</updated>
+    <updated>2024-09-16T07:20:09.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] Trot.zip 📂 Show! Music Core Trot Special Compilation]]></title>
+        <id>https://tv.naver.com/v/60861895</id>
+        <link href="https://tv.naver.com/v/60861895"/>
+        <updated>2024-09-16T07:19:37.809Z</updated>
+        <content type="html"><![CDATA[01:01:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – CRAZY | 쇼! 음악중심 | MBC240914방송]]></title>
         <id>https://tv.naver.com/v/60969075</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60968872"/>
         <updated>2024-09-14T10:18:41.809Z</updated>
         <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KATSEYE Lara (캣츠아이 라라) – Touch | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/60968871</id>
-        <link href="https://tv.naver.com/v/60968871"/>
-        <updated>2024-09-14T10:18:41.810Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
     </entry>
 </feed>
