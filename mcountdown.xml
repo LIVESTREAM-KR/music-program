@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-09-17T09:21:09.078Z</updated>
+    <updated>2024-09-17T10:21:29.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MC 샤인멍또캣이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/61068903</id>
+        <link href="https://tv.naver.com/v/61068903"/>
+        <updated>2024-09-17T10:21:04.530Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['HOT SOLO DEBUT' 쯔위 (TWICE) - Run Away | Mnet 240912 방송]]></title>
         <id>https://tv.naver.com/v/60877042</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60874817"/>
         <updated>2024-09-12T11:16:41.945Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' BOYNEXTDOOR (보이넥스트도어) (with ONEDOOR (원도어)♥︎) | Mnet 240912 방송]]></title>
-        <id>https://tv.naver.com/v/60874814</id>
-        <link href="https://tv.naver.com/v/60874814"/>
-        <updated>2024-09-12T11:16:41.946Z</updated>
-        <content type="html"><![CDATA[06:53]]></content>
     </entry>
 </feed>

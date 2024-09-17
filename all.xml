@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-17T09:21:09.072Z</updated>
+    <updated>2024-09-17T10:21:29.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Run Away - 쯔위 | KBS 240913 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:30]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MC 샤인멍또캣이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/61068903</id>
+        <link href="https://tv.naver.com/v/61068903"/>
+        <updated>2024-09-17T10:21:04.530Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['HOT SOLO DEBUT' 쯔위 (TWICE) - Run Away | Mnet 240912 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/60877042</id>
         <link href="https://tv.naver.com/v/60877042"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/60874817"/>
         <updated>2024-09-12T11:16:41.945Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' BOYNEXTDOOR (보이넥스트도어) (with ONEDOOR (원도어)♥︎) | Mnet 240912 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/60874814</id>
-        <link href="https://tv.naver.com/v/60874814"/>
-        <updated>2024-09-12T11:16:41.946Z</updated>
-        <content type="html"><![CDATA[06:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZEROBASEONE - THE SHOW CHOICE! [THE SHOW 240903] (더쇼)]]></title>
