@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-19T09:21:43.923Z</updated>
+    <updated>2024-09-19T10:21:42.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 성호(BOYNEXTDOOR), 9월 둘째 주 음악중심 MC 컷 모음!, MBC 240914 방송]]></title>
+        <id>https://tv.naver.com/v/61151628</id>
+        <link href="https://tv.naver.com/v/61151628"/>
+        <updated>2024-09-19T10:21:08.730Z</updated>
+        <content type="html"><![CDATA[14:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT WISH YUSHI (엔시티 위시 유우시) – Dunk Shot | 쇼! 음악중심 | MBC240914방송]]></title>
         <id>https://tv.naver.com/v/61151357</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60969074"/>
         <updated>2024-09-14T10:18:41.797Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – CRAZY | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/60969072</id>
-        <link href="https://tv.naver.com/v/60969072"/>
-        <updated>2024-09-14T10:18:41.798Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
