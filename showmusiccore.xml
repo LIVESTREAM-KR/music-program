@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-19T08:26:47.485Z</updated>
+    <updated>2024-09-19T09:21:43.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT WISH YUSHI (엔시티 위시 유우시) – Dunk Shot | 쇼! 음악중심 | MBC240914방송]]></title>
+        <id>https://tv.naver.com/v/61151357</id>
+        <link href="https://tv.naver.com/v/61151357"/>
+        <updated>2024-09-19T09:21:11.464Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT WISH RIKU (엔시티 위시 리쿠) – Dunk Shot | 쇼! 음악중심 | MBC240914방송]]></title>
+        <id>https://tv.naver.com/v/61151353</id>
+        <link href="https://tv.naver.com/v/61151353"/>
+        <updated>2024-09-19T09:21:11.464Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] BOYNEXTDOOR WOONHAK (보이넥스트도어 운학) – Nice Guy | 쇼! 음악중심 | MBC240914방송]]></title>
+        <id>https://tv.naver.com/v/61148758</id>
+        <link href="https://tv.naver.com/v/61148758"/>
+        <updated>2024-09-19T09:21:11.465Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TZUYU (쯔위) – Run Away | 쇼! 음악중심 | MBC240914방송]]></title>
+        <id>https://tv.naver.com/v/61148747</id>
+        <link href="https://tv.naver.com/v/61148747"/>
+        <updated>2024-09-19T09:21:11.465Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] KATSEYE Yoonchae (캣츠아이 윤채) – Touch | 쇼! 음악중심 | MBC240914방송]]></title>
         <id>https://tv.naver.com/v/61143757</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/60969072"/>
         <updated>2024-09-14T10:18:41.798Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] LE SSERAFIM (르세라핌) – CRAZY | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/60969070</id>
-        <link href="https://tv.naver.com/v/60969070"/>
-        <updated>2024-09-14T10:18:41.799Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NMIXX (엔믹스) – 별별별 (See that?) | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/60968877</id>
-        <link href="https://tv.naver.com/v/60968877"/>
-        <updated>2024-09-14T10:18:41.801Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TZUYU (쯔위) – Run Away FanCam | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/60968876</id>
-        <link href="https://tv.naver.com/v/60968876"/>
-        <updated>2024-09-14T10:18:41.804Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TZUYU (쯔위) – Run Away FullCam | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/60968874</id>
-        <link href="https://tv.naver.com/v/60968874"/>
-        <updated>2024-09-14T10:18:41.806Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
