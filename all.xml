@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-19T04:24:29.322Z</updated>
+    <updated>2024-09-19T05:19:40.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Run Away - 쯔위 | KBS 240913 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[01:38]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#복면가왕] ✨반짝반짝✨트로트계 샛별이자 아기 공주님인👸🏻 트로트 가수 오유진의 《보라빛 향기》 《신사동 그 사람》 | #오유진 #트로트 MBC240915방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/61132814</id>
+        <link href="https://tv.naver.com/v/61132814"/>
+        <updated>2024-09-19T05:19:40.185Z</updated>
+        <content type="html"><![CDATA[17:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[＜'언더 더 씨'의 자리를 노리는 다채로운 매력의 소유자들🌊 과연 평화를 지킬 수 있을 것인가?!🐡＞ 복면가왕 466회 예고, MBC 240922 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/61004918</id>
         <link href="https://tv.naver.com/v/61004918"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/61003491"/>
         <updated>2024-09-15T10:19:36.191Z</updated>
         <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핑크뮬리'의 우혁핑X진세핑과 함께하는 댄스! ＂처음 본~ 순간~🩷＂, MBC 240915 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/61003224</id>
-        <link href="https://tv.naver.com/v/61003224"/>
-        <updated>2024-09-15T10:19:36.193Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
