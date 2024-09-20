@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-09-20T08:26:11.921Z</updated>
+    <updated>2024-09-20T09:24:59.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨청량한 에너지와 파워풀한 가창력을 가진🎙️ 라잇썸 초원 하이라이트!, MBC 240915 방송]]></title>
+        <id>https://tv.naver.com/v/61209670</id>
+        <link href="https://tv.naver.com/v/61209670"/>
+        <updated>2024-09-20T09:24:58.445Z</updated>
+        <content type="html"><![CDATA[11:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ✨세대를 뛰어넘는 실력의 트로트 프린세스💕 트로트 가수 오유진 하이라이트!, MBC 240915 방송]]></title>
+        <id>https://tv.naver.com/v/61209386</id>
+        <link href="https://tv.naver.com/v/61209386"/>
+        <updated>2024-09-20T09:24:58.451Z</updated>
+        <content type="html"><![CDATA[09:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 🎤피노키오 1대 보컬! 록 발라드의 대부🔥 K2 김성면 하이라이트!, MBC 240915 방송]]></title>
+        <id>https://tv.naver.com/v/61209382</id>
+        <link href="https://tv.naver.com/v/61209382"/>
+        <updated>2024-09-20T09:24:58.453Z</updated>
+        <content type="html"><![CDATA[13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] ✨반짝반짝✨트로트계 샛별이자 아기 공주님인👸🏻 트로트 가수 오유진의 《보라빛 향기》 《신사동 그 사람》 | #오유진 #트로트 MBC240915방송]]></title>
         <id>https://tv.naver.com/v/61132814</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/61003652"/>
         <updated>2024-09-15T10:19:36.189Z</updated>
         <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['장금이' 3라운드 무대 - 홀로, MBC 240915 방송]]></title>
-        <id>https://tv.naver.com/v/61003650</id>
-        <link href="https://tv.naver.com/v/61003650"/>
-        <updated>2024-09-15T10:19:36.189Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핑크뮬리'의 정체는 트로트 가수 오유진!, MBC 240915 방송]]></title>
-        <id>https://tv.naver.com/v/61003648</id>
-        <link href="https://tv.naver.com/v/61003648"/>
-        <updated>2024-09-15T10:19:36.190Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가요계를 뒤흔든 인기 가수?! 데뷔부터 남달랐던 '아라비안나이트'의 신문 기사📰, MBC 240915 방송]]></title>
-        <id>https://tv.naver.com/v/61003491</id>
-        <link href="https://tv.naver.com/v/61003491"/>
-        <updated>2024-09-15T10:19:36.191Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
     </entry>
 </feed>
