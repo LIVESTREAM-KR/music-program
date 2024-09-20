@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-20T06:28:15.131Z</updated>
+    <updated>2024-09-20T07:20:25.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX(엔믹스) - 별별별(See that?)  | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/61186904</id>
+        <link href="https://tv.naver.com/v/61186904"/>
+        <updated>2024-09-20T07:19:49.495Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 성호(BOYNEXTDOOR), 9월 둘째 주 음악중심 MC 컷 모음!, MBC 240914 방송]]></title>
         <id>https://tv.naver.com/v/61151628</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/60969075"/>
         <updated>2024-09-14T10:18:41.797Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] LE SSERAFIM KIM CHAEWON (르세라핌 김채원) – CRAZY | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/60969074</id>
-        <link href="https://tv.naver.com/v/60969074"/>
-        <updated>2024-09-14T10:18:41.797Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
