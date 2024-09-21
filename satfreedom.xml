@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-09-21T11:15:42.896Z</updated>
+    <updated>2024-09-21T12:35:57.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 끝나지 않은 가창력 전쟁🔥 아티스트 이승철 편 2부🌟 | KBS 240921 방송]]></title>
+        <id>https://tv.naver.com/v/61257635</id>
+        <link href="https://tv.naver.com/v/61257635"/>
+        <updated>2024-09-21T12:35:51.027Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역대급 보컬 라인 속 명곡판정단의 선택은?✨ | KBS 240921 방송]]></title>
+        <id>https://tv.naver.com/v/61257628</id>
+        <link href="https://tv.naver.com/v/61257628"/>
+        <updated>2024-09-21T12:35:51.027Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[〈네버엔딩 스토리〉 발매 초 비하인드? 사연 있는 음색♪ | KBS 240921 방송]]></title>
         <id>https://tv.naver.com/v/61256973</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/61256263"/>
         <updated>2024-09-21T11:15:36.563Z</updated>
         <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러브 트루스토리 밝히는 박현호!😊 빵 먹으며 직관하는 소녀들🐥 | KBS 240921 방송]]></title>
-        <id>https://tv.naver.com/v/61256262</id>
-        <link href="https://tv.naver.com/v/61256262"/>
-        <updated>2024-09-21T11:15:36.564Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신감에서 나온 임한별 폼✨ 욕망 게이지 차오르는 퍼포먼스🔥 | KBS 240921 방송]]></title>
-        <id>https://tv.naver.com/v/61255904</id>
-        <link href="https://tv.naver.com/v/61255904"/>
-        <updated>2024-09-21T11:15:36.567Z</updated>
-        <content type="html"><![CDATA[05:33]]></content>
     </entry>
 </feed>
