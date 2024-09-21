@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-21T06:26:28.104Z</updated>
+    <updated>2024-09-21T07:18:33.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소수빈 - 사랑하자 (So Soo Bin - Let's Love), MBC 240921 방송]]></title>
+        <id>https://tv.naver.com/v/61248291</id>
+        <link href="https://tv.naver.com/v/61248291"/>
+        <updated>2024-09-21T07:17:57.969Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메이딘 - UNO (MADEIN - UNO), MBC 240921 방송]]></title>
+        <id>https://tv.naver.com/v/61248256</id>
+        <link href="https://tv.naver.com/v/61248256"/>
+        <updated>2024-09-21T07:17:57.969Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아크 - S&S (sour and sweet) (ARrC - S&S (sour and sweet)), MBC 240921 방송]]></title>
+        <id>https://tv.naver.com/v/61248255</id>
+        <link href="https://tv.naver.com/v/61248255"/>
+        <updated>2024-09-21T07:17:57.971Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠블루 - COCOCO (GENBLUE - COCOCO), MBC 240921 방송]]></title>
+        <id>https://tv.naver.com/v/61248048</id>
+        <link href="https://tv.naver.com/v/61248048"/>
+        <updated>2024-09-21T07:17:57.972Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸이커스 - Bittersweet (xikers - Bittersweet), MBC 240921 방송]]></title>
+        <id>https://tv.naver.com/v/61247822</id>
+        <link href="https://tv.naver.com/v/61247822"/>
+        <updated>2024-09-21T07:17:57.973Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박현호 - 사랑은 소리없이 (Park Hyun-ho - Love comes silently), MBC 240921 방송]]></title>
+        <id>https://tv.naver.com/v/61247440</id>
+        <link href="https://tv.naver.com/v/61247440"/>
+        <updated>2024-09-21T07:17:57.975Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰티박스 - 일루와 (BEAUTYBOX - COME TO ME), MBC 240921 방송]]></title>
+        <id>https://tv.naver.com/v/61247438</id>
+        <link href="https://tv.naver.com/v/61247438"/>
+        <updated>2024-09-21T07:17:57.977Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NMIXX(엔믹스) - 별별별(See that?)  | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/61186904</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/61151357"/>
         <updated>2024-09-19T09:21:11.464Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT WISH RIKU (엔시티 위시 리쿠) – Dunk Shot | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/61151353</id>
-        <link href="https://tv.naver.com/v/61151353"/>
-        <updated>2024-09-19T09:21:11.464Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] BOYNEXTDOOR WOONHAK (보이넥스트도어 운학) – Nice Guy | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/61148758</id>
-        <link href="https://tv.naver.com/v/61148758"/>
-        <updated>2024-09-19T09:21:11.465Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TZUYU (쯔위) – Run Away | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/61148747</id>
-        <link href="https://tv.naver.com/v/61148747"/>
-        <updated>2024-09-19T09:21:11.465Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] KATSEYE Yoonchae (캣츠아이 윤채) – Touch | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/61143757</id>
-        <link href="https://tv.naver.com/v/61143757"/>
-        <updated>2024-09-19T08:26:10.774Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] Autumn K-POP.zip 📂 Show! Music Core Autumn K-POP Special Compilation]]></title>
-        <id>https://tv.naver.com/v/60859430</id>
-        <link href="https://tv.naver.com/v/60859430"/>
-        <updated>2024-09-18T07:19:06.203Z</updated>
-        <content type="html"><![CDATA[01:04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] Trot.zip 📂 Show! Music Core Trot Special Compilation]]></title>
-        <id>https://tv.naver.com/v/60861895</id>
-        <link href="https://tv.naver.com/v/60861895"/>
-        <updated>2024-09-16T07:19:37.809Z</updated>
-        <content type="html"><![CDATA[01:01:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] LE SSERAFIM KAZUHA (르세라핌 카즈하) – CRAZY | 쇼! 음악중심 | MBC240914방송]]></title>
-        <id>https://tv.naver.com/v/60969075</id>
-        <link href="https://tv.naver.com/v/60969075"/>
-        <updated>2024-09-14T10:18:41.797Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
