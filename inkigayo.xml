@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-09-22T06:26:45.791Z</updated>
+    <updated>2024-09-22T07:18:09.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[J BLACK(제이블랙) - Like This (Prod & Feat. UPTOWN 정연준) | SBS 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61286388</id>
+        <link href="https://tv.naver.com/v/61286388"/>
+        <updated>2024-09-22T07:17:41.388Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOWADAYS - Why Not? | SBS 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61286193</id>
+        <link href="https://tv.naver.com/v/61286193"/>
+        <updated>2024-09-22T07:17:41.391Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEOVV - MEOW | SBS 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61286030</id>
+        <link href="https://tv.naver.com/v/61286030"/>
+        <updated>2024-09-22T07:17:41.392Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김보민 - 이제나저제나 | SBS 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61285812</id>
+        <link href="https://tv.naver.com/v/61285812"/>
+        <updated>2024-09-22T07:17:41.392Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MADEIN - UNO | SBS 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61285637</id>
+        <link href="https://tv.naver.com/v/61285637"/>
+        <updated>2024-09-22T07:17:41.395Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠블루(GENBLUE) - COCOCO | SBS 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61285635</id>
+        <link href="https://tv.naver.com/v/61285635"/>
+        <updated>2024-09-22T07:17:41.404Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RESCENE(리센느) - Pinball | SBS 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61285407</id>
+        <link href="https://tv.naver.com/v/61285407"/>
+        <updated>2024-09-22T07:17:41.405Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAY6 - 녹아내려요 | SBS 240908 방송]]></title>
         <id>https://tv.naver.com/v/60630488</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/60629510"/>
         <updated>2024-09-08T08:22:43.689Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오마이걸 - Classified | SBS 240908 방송]]></title>
-        <id>https://tv.naver.com/v/60629505</id>
-        <link href="https://tv.naver.com/v/60629505"/>
-        <updated>2024-09-08T08:22:43.702Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쯔위(TZUYU) - Run Away | SBS 240908 방송]]></title>
-        <id>https://tv.naver.com/v/60629502</id>
-        <link href="https://tv.naver.com/v/60629502"/>
-        <updated>2024-09-08T08:22:43.703Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - 별별별 (See that?) | SBS 240908 방송]]></title>
-        <id>https://tv.naver.com/v/60629323</id>
-        <link href="https://tv.naver.com/v/60629323"/>
-        <updated>2024-09-08T08:22:43.703Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - CRAZY | SBS 240908 방송]]></title>
-        <id>https://tv.naver.com/v/60628989</id>
-        <link href="https://tv.naver.com/v/60628989"/>
-        <updated>2024-09-08T08:22:43.703Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZEROBASEONE - GOOD SO BAD | SBS 240908 방송]]></title>
-        <id>https://tv.naver.com/v/60628987</id>
-        <link href="https://tv.naver.com/v/60628987"/>
-        <updated>2024-09-08T08:22:43.709Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예린(YERIN) - Wavy | SBS 240908 방송]]></title>
-        <id>https://tv.naver.com/v/60628815</id>
-        <link href="https://tv.naver.com/v/60628815"/>
-        <updated>2024-09-08T08:22:43.709Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁 - 슈퍼슈퍼 (SuperSuper) | SBS 240908 방송]]></title>
-        <id>https://tv.naver.com/v/60628814</id>
-        <link href="https://tv.naver.com/v/60628814"/>
-        <updated>2024-09-08T08:22:43.709Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
     </entry>
 </feed>
