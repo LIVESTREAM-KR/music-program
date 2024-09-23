@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-23T01:28:43.437Z</updated>
+    <updated>2024-09-23T02:51:54.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nice Guy - BOYNEXTDOOR | KBS 240920 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 이정하 X 설윤 X 성호(BOYNEXTDOOR), 9월 셋째 주 음악중심 MC 컷 모음!, MBC 240921 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/61320207</id>
+        <link href="https://tv.naver.com/v/61320207"/>
+        <updated>2024-09-23T02:51:18.527Z</updated>
+        <content type="html"><![CDATA[15:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] BOYNEXTDOOR TAESAN (보이넥스트도어 태산) – Nice Guy | 쇼! 음악중심 | MBC240921방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/61253079</id>
         <link href="https://tv.naver.com/v/61253079"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/61252600"/>
         <updated>2024-09-21T09:19:15.907Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] HWASA (화사) –NA FanCam | 쇼! 음악중심 | MBC240921방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/61252598</id>
-        <link href="https://tv.naver.com/v/61252598"/>
-        <updated>2024-09-21T09:19:15.908Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화사(HWASA) - NA | SBS 240922 방송 (인기가요)]]></title>
