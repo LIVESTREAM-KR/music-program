@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-24T10:23:13.663Z</updated>
+    <updated>2024-09-24T11:17:13.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nice Guy - BOYNEXTDOOR | KBS 240920 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BOYNEXTDOOR가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/61414804</id>
+        <link href="https://tv.naver.com/v/61414804"/>
+        <updated>2024-09-24T11:16:52.325Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[가을 맞이 특집] NCT 127 (엔시티 127) - 삐그덕 (Walk) | Mnet 240919 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/61156825</id>
         <link href="https://tv.naver.com/v/61156825"/>
@@ -278,11 +285,67 @@
         <content type="html"><![CDATA[03:02]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[가을 맞이 특집] Red Velvet (레드벨벳) - Cosmic | Mnet 240919 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61155185</id>
-        <link href="https://tv.naver.com/v/61155185"/>
-        <updated>2024-09-19T11:16:57.435Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
+        <title type="html"><![CDATA[JINHO (PENTAGON) - Goodbye With You (진호 (펜타곤), 나만의 이별) [THE SHOW 240924] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/61413549</id>
+        <link href="https://tv.naver.com/v/61413549"/>
+        <updated>2024-09-24T11:16:57.420Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P1Harmony - THE SHOW CHOICE! [THE SHOW 240924] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/61413551</id>
+        <link href="https://tv.naver.com/v/61413551"/>
+        <updated>2024-09-24T11:16:57.421Z</updated>
+        <content type="html"><![CDATA[05:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JINHO (PENTAGON) - Dear Precious One, Our Shimmering Days (진호 (펜타곤), 나의 너에게, 우리의 순간) [THE SHOW 2409 (더쇼)]]></title>
+        <id>https://tv.naver.com/v/61413303</id>
+        <link href="https://tv.naver.com/v/61413303"/>
+        <updated>2024-09-24T11:16:57.422Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SCOOL -  DREAM OF YOU Performance Video [THE SHOW 240924] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/61413029</id>
+        <link href="https://tv.naver.com/v/61413029"/>
+        <updated>2024-09-24T11:16:57.424Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P1Harmony - SAD SONG [THE SHOW 240924] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/61412783</id>
+        <link href="https://tv.naver.com/v/61412783"/>
+        <updated>2024-09-24T11:16:57.425Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P1Harmony - All You [THE SHOW 240924] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/61412778</id>
+        <link href="https://tv.naver.com/v/61412778"/>
+        <updated>2024-09-24T11:16:57.427Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers - WITCH (싸이커스, 위치) [THE SHOW 240924] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/61412310</id>
+        <link href="https://tv.naver.com/v/61412310"/>
+        <updated>2024-09-24T11:16:57.435Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers - Bittersweet (싸이커스, Bittersweet) [THE SHOW 240924] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/61412307</id>
+        <link href="https://tv.naver.com/v/61412307"/>
+        <updated>2024-09-24T11:16:57.435Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VANNER - I don't think that I like her (cover.) (배너, I don't think that I like her (cover.)) [THE S (더쇼)]]></title>
+        <id>https://tv.naver.com/v/61412300</id>
+        <link href="https://tv.naver.com/v/61412300"/>
+        <updated>2024-09-24T11:16:57.435Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Loossemble - TTYL (루셈블, TTYL) [THE SHOW 240924] (더쇼)]]></title>
@@ -290,69 +353,6 @@
         <link href="https://tv.naver.com/v/61411873"/>
         <updated>2024-09-24T10:22:55.794Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GENBLUE POSSE - COCOCO [THE SHOW 240924] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/61411870</id>
-        <link href="https://tv.naver.com/v/61411870"/>
-        <updated>2024-09-24T10:22:55.795Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AEONIT - LUMOS (이오닛, LUMOS) [THE SHOW 240924] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/61411207</id>
-        <link href="https://tv.naver.com/v/61411207"/>
-        <updated>2024-09-24T10:22:55.796Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lee Jegyu - Lazybone (Prod.Gwana) (이제규, 미룬이 (Prod.과나)) [THE SHOW 240924] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/61411197</id>
-        <link href="https://tv.naver.com/v/61411197"/>
-        <updated>2024-09-24T10:22:55.797Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gypsy Wanderlust - Alley Cat (집시유랑단, 냥냥펀치) [THE SHOW 240924] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/61410695</id>
-        <link href="https://tv.naver.com/v/61410695"/>
-        <updated>2024-09-24T10:22:55.798Z</updated>
-        <content type="html"><![CDATA[04:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OU:RE - City City [THE SHOW 240924] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/61410499</id>
-        <link href="https://tv.naver.com/v/61410499"/>
-        <updated>2024-09-24T10:22:55.800Z</updated>
-        <content type="html"><![CDATA[05:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIHO - Paper Plane (시호, Paper Plane) [THE SHOW 240924] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/61410448</id>
-        <link href="https://tv.naver.com/v/61410448"/>
-        <updated>2024-09-24T10:22:55.803Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESCENE - Pinball (리센느, Pinball) [THE SHOW 240924] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/61410002</id>
-        <link href="https://tv.naver.com/v/61410002"/>
-        <updated>2024-09-24T10:22:55.804Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIMIIROSE - The flowers swayed (미미로즈, 흔들리지 않고 피는 꽃이 어딨어) [THE SHOW 240924] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/61409768</id>
-        <link href="https://tv.naver.com/v/61409768"/>
-        <updated>2024-09-24T10:22:55.806Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZEROBASEONE - THE SHOW CHOICE! [THE SHOW 240903] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/60355439</id>
-        <link href="https://tv.naver.com/v/60355439"/>
-        <updated>2024-09-03T11:16:34.208Z</updated>
-        <content type="html"><![CDATA[05:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 여름 쇼챔 엔딩🌞 그동안 성원해 주셔서 감사합니다 🙇🏻‍ 가을 쇼챔 커밍쑨🍂 (쇼챔피언)]]></title>
