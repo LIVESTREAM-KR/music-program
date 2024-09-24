@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-09-24T11:17:13.687Z</updated>
+    <updated>2024-09-24T12:40:43.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[JINHO (PENTAGON) - Goodbye With You (진호 (펜타곤), 나만의 이별) [THE SHOW 240924]]]></title>
-        <id>https://tv.naver.com/v/61413549</id>
-        <link href="https://tv.naver.com/v/61413549"/>
-        <updated>2024-09-24T11:16:57.420Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[P1Harmony - THE SHOW CHOICE! [THE SHOW 240924]]]></title>
         <id>https://tv.naver.com/v/61413551</id>
         <link href="https://tv.naver.com/v/61413551"/>
         <updated>2024-09-24T11:16:57.421Z</updated>
         <content type="html"><![CDATA[05:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JINHO (PENTAGON) - Goodbye With You (진호 (펜타곤), 나만의 이별) [THE SHOW 240924]]]></title>
+        <id>https://tv.naver.com/v/61413549</id>
+        <link href="https://tv.naver.com/v/61413549"/>
+        <updated>2024-09-24T11:16:57.420Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JINHO (PENTAGON) - Dear Precious One, Our Shimmering Days (진호 (펜타곤), 나의 너에게, 우리의 순간) [THE SHOW 2409]]></title>
