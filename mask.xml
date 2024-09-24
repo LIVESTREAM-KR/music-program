@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-09-24T09:22:38.538Z</updated>
+    <updated>2024-09-24T10:23:13.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 허스키한 음색과 파워풀한 플로우🎤 래퍼 플로우식 하이라이트!, MBC 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61410500</id>
+        <link href="https://tv.naver.com/v/61410500"/>
+        <updated>2024-09-24T10:23:12.993Z</updated>
+        <content type="html"><![CDATA[10:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 대한민국 최장수 여성 힙합 크루 리더🔥 레이디바운스 놉 하이라이트!, MBC 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61410232</id>
+        <link href="https://tv.naver.com/v/61410232"/>
+        <updated>2024-09-24T10:23:12.995Z</updated>
+        <content type="html"><![CDATA[08:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 현실 고증 100% 연기! 코미디의 여신✨ 코미디언 박소라 하이라이트!, MBC 240922 방송]]></title>
+        <id>https://tv.naver.com/v/61410230</id>
+        <link href="https://tv.naver.com/v/61410230"/>
+        <updated>2024-09-24T10:23:12.995Z</updated>
+        <content type="html"><![CDATA[09:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜새 복면 가수의 등장?!👀 모두를 술렁이게 만든 사상 초유의 무대🙊＞ 복면가왕 467회 예고, MBC 240929 방송]]></title>
         <id>https://tv.naver.com/v/61294270</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/61293466"/>
         <updated>2024-09-22T11:15:46.468Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['식혜' VS '수정과'의 1라운드 무대 - Valenti, MBC 240922 방송]]></title>
-        <id>https://tv.naver.com/v/61293304</id>
-        <link href="https://tv.naver.com/v/61293304"/>
-        <updated>2024-09-22T11:15:46.469Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['거미'의 정체는 코미디언 박소라!, MBC 240922 방송]]></title>
-        <id>https://tv.naver.com/v/61292924</id>
-        <link href="https://tv.naver.com/v/61292924"/>
-        <updated>2024-09-22T10:20:48.372Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달팽이'의 분신 사진 공개🐌 여심 저격 목소리의 소유자 '달팽이'의 정체는?!, MBC 240922 방송]]></title>
-        <id>https://tv.naver.com/v/61292733</id>
-        <link href="https://tv.naver.com/v/61292733"/>
-        <updated>2024-09-22T10:20:48.372Z</updated>
-        <content type="html"><![CDATA[01:57]]></content>
     </entry>
 </feed>
