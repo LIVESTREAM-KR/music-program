@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-09-25T07:19:58.988Z</updated>
+    <updated>2024-09-25T08:28:24.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! '진호(펜타곤)' 나!왔어✋🏻 l 240925]]></title>
+        <id>https://tv.naver.com/v/61468148</id>
+        <link href="https://tv.naver.com/v/61468148"/>
+        <updated>2024-09-25T08:28:12.388Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠블루(GENBLUE) - COCOCO l 240925]]></title>
+        <id>https://tv.naver.com/v/61468143</id>
+        <link href="https://tv.naver.com/v/61468143"/>
+        <updated>2024-09-25T08:28:12.389Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킴미(KiMMi) - SOMETHING l 240925]]></title>
+        <id>https://tv.naver.com/v/61468139</id>
+        <link href="https://tv.naver.com/v/61468139"/>
+        <updated>2024-09-25T08:28:12.390Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뷰티박스(BEAUTYBOX) - 일루와 (COME TO ME) l 240925]]></title>
+        <id>https://tv.naver.com/v/61468136</id>
+        <link href="https://tv.naver.com/v/61468136"/>
+        <updated>2024-09-25T08:28:12.392Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 여름 쇼챔 엔딩🌞 그동안 성원해 주셔서 감사합니다 🙇🏻‍ 가을 쇼챔 커밍쑨🍂]]></title>
         <id>https://tv.naver.com/v/61335540</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/60844994"/>
         <updated>2024-09-12T08:24:58.699Z</updated>
         <content type="html"><![CDATA[02:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] GENBLUE XXIN(젠블루 씬) - COCOCO | Show Champion | EP.532 | 240911]]></title>
-        <id>https://tv.naver.com/v/60843609</id>
-        <link href="https://tv.naver.com/v/60843609"/>
-        <updated>2024-09-12T08:24:58.701Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] GENBLUE YUAN(젠블루 위엔) - COCOCO | Show Champion | EP.532 | 240911]]></title>
-        <id>https://tv.naver.com/v/60843423</id>
-        <link href="https://tv.naver.com/v/60843423"/>
-        <updated>2024-09-12T08:24:58.702Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] GENBLUE NICO(젠블루 니코) - COCOCO | Show Champion | EP.532 | 240911]]></title>
-        <id>https://tv.naver.com/v/60843383</id>
-        <link href="https://tv.naver.com/v/60843383"/>
-        <updated>2024-09-12T08:24:58.704Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] GENBLUE(젠블루) - COCOCO | Show Champion | EP.532 | 240911]]></title>
-        <id>https://tv.naver.com/v/60843382</id>
-        <link href="https://tv.naver.com/v/60843382"/>
-        <updated>2024-09-12T08:24:58.705Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
 </feed>
