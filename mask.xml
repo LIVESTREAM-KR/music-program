@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-09-25T06:29:08.684Z</updated>
+    <updated>2024-09-25T07:19:58.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 🌊깊은 바닷속에 숨겨진 황금 같은 노래! 🌊 가왕 언더 더 씨🔱의 《말리꽃》 《Love wins all》 등 | #가왕 #언더더씨 MBC240915방송]]></title>
+        <id>https://tv.naver.com/v/61385410</id>
+        <link href="https://tv.naver.com/v/61385410"/>
+        <updated>2024-09-25T07:19:58.283Z</updated>
+        <content type="html"><![CDATA[22:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 허스키한 음색과 파워풀한 플로우🎤 래퍼 플로우식 하이라이트!, MBC 240922 방송]]></title>
         <id>https://tv.naver.com/v/61410500</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61293465"/>
         <updated>2024-09-22T11:15:46.467Z</updated>
         <content type="html"><![CDATA[02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['수정과'의 정체는 레이디바운스 놉!, MBC 240922 방송]]></title>
-        <id>https://tv.naver.com/v/61293466</id>
-        <link href="https://tv.naver.com/v/61293466"/>
-        <updated>2024-09-22T11:15:46.468Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-09-25T06:29:08.701Z</updated>
+    <updated>2024-09-25T07:19:58.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] LE SSERAFIM(르세라핌) – CRAZY | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/61444115</id>
+        <link href="https://tv.naver.com/v/61444115"/>
+        <updated>2024-09-25T07:19:24.349Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 음중에서 데이식스 9주년 생파한 썰 푼다🥳 앞으로도 행복합시다 우리🩵 #데이식스 #DAY6 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/61384231</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61252789"/>
         <updated>2024-09-21T09:19:15.902Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] P1Harmony (피원하모니) – SAD SONG | 쇼! 음악중심 | MBC240921방송]]></title>
-        <id>https://tv.naver.com/v/61252787</id>
-        <link href="https://tv.naver.com/v/61252787"/>
-        <updated>2024-09-21T09:19:15.904Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
