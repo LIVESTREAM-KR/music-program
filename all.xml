@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-25T09:22:51.154Z</updated>
+    <updated>2024-09-25T10:23:21.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nice Guy - BOYNEXTDOOR | KBS 240920 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 9월 4주 챔피언송 ＜P1Harmony - SAD SONG＞ 앵콜 Full ver. l Show Champion l EP.534 l 240925 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/61474239</id>
+        <link href="https://tv.naver.com/v/61474239"/>
+        <updated>2024-09-25T10:23:10.020Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 피원하모니(P1Harmony) - SAD SONG l 240925 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/61471662</id>
         <link href="https://tv.naver.com/v/61471662"/>
@@ -374,6 +381,13 @@
         <link href="https://tv.naver.com/v/61471419"/>
         <updated>2024-09-25T09:22:40.155Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SOLO HOT DEBUT] 진호(JINHO(PENTAGON)) - 나만의 이별 (Goodbye With You) l 240925 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/61470981</id>
+        <link href="https://tv.naver.com/v/61470981"/>
+        <updated>2024-09-25T10:23:10.023Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진호(JINHO(PENTAGON)) - 나의 너에게, 우리의 순간 l 240925 (쇼챔피언)]]></title>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/61469980"/>
         <updated>2024-09-25T09:22:40.162Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] EPEX(이펙스) & 키노(KINO)가 쇼챔 팬들에게 들려주고 싶은 노랫말은?🎶 l 240925 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/61469977</id>
-        <link href="https://tv.naver.com/v/61469977"/>
-        <updated>2024-09-25T09:22:40.164Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리센느(RESCENE) - Pinball l 240925 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/61468898</id>
-        <link href="https://tv.naver.com/v/61468898"/>
-        <updated>2024-09-25T09:22:40.165Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 끝나지 않은 가창력 전쟁🔥 아티스트 이승철 편 2부🌟 | KBS 240921 방송 (불후의 명곡)]]></title>
