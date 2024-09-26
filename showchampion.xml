@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-09-26T07:19:50.282Z</updated>
+    <updated>2024-09-26T08:27:15.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] JINHO(진호) - 나의 너에게, 우리의 순간 | Show Champion | EP.534 | 240925]]></title>
+        <id>https://tv.naver.com/v/61504423</id>
+        <link href="https://tv.naver.com/v/61504423"/>
+        <updated>2024-09-26T08:27:02.653Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony(피원하모니) - It's Alright | Show Champion | EP.534 | 240925]]></title>
+        <id>https://tv.naver.com/v/61514634</id>
+        <link href="https://tv.naver.com/v/61514634"/>
+        <updated>2024-09-26T08:27:02.657Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony JIUNG(피원하모니 지웅) - It's Alright | Show Champion | EP.534 | 240925]]></title>
+        <id>https://tv.naver.com/v/61517037</id>
+        <link href="https://tv.naver.com/v/61517037"/>
+        <updated>2024-09-26T08:27:02.658Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony JONGSEOB(피원하모니 종섭) - It's Alright | Show Champion | EP.534 | 240925]]></title>
+        <id>https://tv.naver.com/v/61517036</id>
+        <link href="https://tv.naver.com/v/61517036"/>
+        <updated>2024-09-26T08:27:02.658Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony INTAK(피원하모니 인탁) - It's Alright | Show Champion | EP.534 | 240925]]></title>
+        <id>https://tv.naver.com/v/61517034</id>
+        <link href="https://tv.naver.com/v/61517034"/>
+        <updated>2024-09-26T08:27:02.662Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony SOUL(피원하모니 소울) - It's Alright | Show Champion | EP.534 | 240925]]></title>
+        <id>https://tv.naver.com/v/61517032</id>
+        <link href="https://tv.naver.com/v/61517032"/>
+        <updated>2024-09-26T08:27:02.662Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony THEO(피원하모니 테오) - It's Alright | Show Champion | EP.534 | 240925]]></title>
+        <id>https://tv.naver.com/v/61516219</id>
+        <link href="https://tv.naver.com/v/61516219"/>
+        <updated>2024-09-26T08:27:02.663Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony KEEHO(피원하모니 기호) - It's Alright | Show Champion | EP.534 | 240925]]></title>
+        <id>https://tv.naver.com/v/61516217</id>
+        <link href="https://tv.naver.com/v/61516217"/>
+        <updated>2024-09-26T08:27:02.665Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Think That I Like Vanner]]></title>
         <id>https://tv.naver.com/v/61526140</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/61477848"/>
         <updated>2024-09-25T13:28:54.530Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VANNER(배너) - I don't think that I like her (cover.) | Show Champion | EP.534 | 240925]]></title>
-        <id>https://tv.naver.com/v/61477600</id>
-        <link href="https://tv.naver.com/v/61477600"/>
-        <updated>2024-09-25T13:28:54.531Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠4K] VANNER TAEHWAN(배너 태환) - I don't think that I like her (cover)|ShowChampion|EP.534|240925]]></title>
-        <id>https://tv.naver.com/v/61477595</id>
-        <link href="https://tv.naver.com/v/61477595"/>
-        <updated>2024-09-25T13:28:54.532Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠4K] VANNER YEONGGWANG(배너 영광)-I don't think that I like her(cover)|ShowChampion|EP.534|240925]]></title>
-        <id>https://tv.naver.com/v/61477521</id>
-        <link href="https://tv.naver.com/v/61477521"/>
-        <updated>2024-09-25T13:28:54.534Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] VANNER GON(배너 곤) - I don't think that I like her (cover.) | Show Champion|EP.534|240925]]></title>
-        <id>https://tv.naver.com/v/61477185</id>
-        <link href="https://tv.naver.com/v/61477185"/>
-        <updated>2024-09-25T13:28:54.535Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] JINHO(진호) - 나만의 이별 (Goodbye With You) | Show Champion | EP.534 | 240925]]></title>
-        <id>https://tv.naver.com/v/61477523</id>
-        <link href="https://tv.naver.com/v/61477523"/>
-        <updated>2024-09-25T13:28:54.537Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] JINHO(진호) - 나만의 이별 (Goodbye With You) | Show Champion | EP.534 | 240925]]></title>
-        <id>https://tv.naver.com/v/61477184</id>
-        <link href="https://tv.naver.com/v/61477184"/>
-        <updated>2024-09-25T13:28:54.539Z</updated>
-        <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KINO(키노) - Everglow | Show Champion | EP.534 | 240925]]></title>
-        <id>https://tv.naver.com/v/61466037</id>
-        <link href="https://tv.naver.com/v/61466037"/>
-        <updated>2024-09-25T13:28:54.540Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] EPEX AYDEN(이펙스 에이든) - Painkiller | Show Champion | EP.534 | 240925]]></title>
-        <id>https://tv.naver.com/v/61474011</id>
-        <link href="https://tv.naver.com/v/61474011"/>
-        <updated>2024-09-25T13:28:54.542Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
