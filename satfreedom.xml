@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-09-27T07:20:22.297Z</updated>
+    <updated>2024-09-27T08:26:46.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 오유진&김태연의 상큼한 걸그룹 댄스 모음?!❤ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/61595178</id>
+        <link href="https://tv.naver.com/v/61595178"/>
+        <updated>2024-09-27T08:26:39.691Z</updated>
+        <content type="html"><![CDATA[00:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 끝나지 않은 가창력 전쟁🔥 아티스트 이승철 편 2부🌟 | KBS 240921 방송]]></title>
         <id>https://tv.naver.com/v/61257635</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61256394"/>
         <updated>2024-09-21T11:15:36.562Z</updated>
         <content type="html"><![CDATA[05:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알콩달콩 부부의 선곡💖 음악은 보이지 않는 춤🎧 | KBS 240921 방송]]></title>
-        <id>https://tv.naver.com/v/61256263</id>
-        <link href="https://tv.naver.com/v/61256263"/>
-        <updated>2024-09-21T11:15:36.563Z</updated>
-        <content type="html"><![CDATA[01:57]]></content>
     </entry>
 </feed>
