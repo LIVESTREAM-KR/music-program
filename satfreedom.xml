@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-09-28T12:38:41.261Z</updated>
+    <updated>2024-09-28T13:22:48.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[리베란테의 〈슈퍼노바〉! 소품까지 준비한 삐끼삐끼 춤까지🤣 | KBS 240928 방송]]></title>
+        <id>https://tv.naver.com/v/61653296</id>
+        <link href="https://tv.naver.com/v/61653296"/>
+        <updated>2024-09-28T13:22:42.845Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 674회 ＜아티스트 이승철 편 2부＞ 우승자 ⭐리베란테⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/61648819</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61647822"/>
         <updated>2024-09-28T11:17:08.140Z</updated>
         <content type="html"><![CDATA[02:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김나영 - 인연 | KBS 240928 방송]]></title>
-        <id>https://tv.naver.com/v/61647680</id>
-        <link href="https://tv.naver.com/v/61647680"/>
-        <updated>2024-09-28T11:17:08.142Z</updated>
-        <content type="html"><![CDATA[05:11]]></content>
     </entry>
 </feed>
