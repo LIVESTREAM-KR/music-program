@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-09-30T08:28:46.275Z</updated>
+    <updated>2024-09-30T09:24:36.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 이번주도 shocking한 라인업으로 돌아와 ⚡straight to my heart 할 쇼챔 ❤‍🔥]]></title>
+        <id>https://tv.naver.com/v/61719177</id>
+        <link href="https://tv.naver.com/v/61719177"/>
+        <updated>2024-09-30T09:24:23.829Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9월 4주 차 쇼챔피언 ＜금동현 & 가온 & 지웅＞ MC 컷 모음📁 | Show Champion | EP.534 | 240925]]></title>
         <id>https://tv.naver.com/v/61503847</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61516217"/>
         <updated>2024-09-26T08:27:02.665Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Think That I Like Vanner]]></title>
-        <id>https://tv.naver.com/v/61526140</id>
-        <link href="https://tv.naver.com/v/61526140"/>
-        <updated>2024-09-26T07:19:38.356Z</updated>
-        <content type="html"><![CDATA[00:59]]></content>
     </entry>
 </feed>
