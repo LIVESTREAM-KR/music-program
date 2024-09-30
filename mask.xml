@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-09-30T11:17:57.581Z</updated>
+    <updated>2024-09-30T12:41:52.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분 공개] 가수 이적의 스페셜 무대 영상 - 술이 싫다, MBC 240929 방송]]></title>
+        <id>https://tv.naver.com/v/61744206</id>
+        <link href="https://tv.naver.com/v/61744206"/>
+        <updated>2024-09-30T12:41:51.524Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜너무나 높은 5연승의 벽🔥 과연 강력한 실력자들을 뛰어넘을 수 있을 것인가?🧐＞ 복면가왕 468회 예고, MBC 241006]]></title>
         <id>https://tv.naver.com/v/61686344</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61684537"/>
         <updated>2024-09-29T10:19:46.573Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['식혜' 2라운드 무대 - 사랑해요, MBC 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61684403</id>
-        <link href="https://tv.naver.com/v/61684403"/>
-        <updated>2024-09-29T10:19:46.575Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
