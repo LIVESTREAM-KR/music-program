@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-10-01T08:28:12.859Z</updated>
+    <updated>2024-10-01T09:22:57.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NCT WISH가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/61784243</id>
+        <link href="https://tv.naver.com/v/61784243"/>
+        <updated>2024-10-01T09:22:32.538Z</updated>
+        <content type="html"><![CDATA[01:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 키 (KEY) - Pleasure Shop | Mnet 240926 방송]]></title>
         <id>https://tv.naver.com/v/61542241</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61540118"/>
         <updated>2024-09-26T11:17:03.143Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' BOYNEXTDOOR 𝘷𝘴 NCT WISH 𝘷𝘴 KATSEYE! 오늘은 내가 잘 참 왕👑 | Mnet 240926 방송]]></title>
-        <id>https://tv.naver.com/v/61539606</id>
-        <link href="https://tv.naver.com/v/61539606"/>
-        <updated>2024-09-26T10:21:43.066Z</updated>
-        <content type="html"><![CDATA[04:55]]></content>
     </entry>
 </feed>
