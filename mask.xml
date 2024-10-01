@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-10-01T04:25:55.912Z</updated>
+    <updated>2024-10-01T05:20:28.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 🐶가나디 수빈이를 사랑하자...❤️ 싱어송라이터 소수빈의 《이 밤의 끝을 잡고》 《그 후로 오랫동안》 등 | #소수빈 #싱어송라이터 MBC240929방송]]></title>
+        <id>https://tv.naver.com/v/61722228</id>
+        <link href="https://tv.naver.com/v/61722228"/>
+        <updated>2024-10-01T05:20:28.116Z</updated>
+        <content type="html"><![CDATA[18:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[복면가왕 클린] 가수 이적의 스페셜 무대 영상 - 술이 싫다, MBC 240929 방송]]></title>
         <id>https://tv.naver.com/v/61744206</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61684745"/>
         <updated>2024-09-29T10:19:46.571Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동굴 목소리' 2라운드 무대 - 늘 그대, MBC 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61684537</id>
-        <link href="https://tv.naver.com/v/61684537"/>
-        <updated>2024-09-29T10:19:46.573Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>

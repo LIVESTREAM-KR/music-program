@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-01T04:25:55.906Z</updated>
+    <updated>2024-10-01T05:20:28.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[September TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/61721591</id>
+        <link href="https://tv.naver.com/v/61721591"/>
+        <updated>2024-10-01T05:19:52.926Z</updated>
+        <content type="html"><![CDATA[28:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT WISH SAKUYA (엔시티 위시 사쿠야) – Steady | 쇼! 음악중심 | MBC240928방송]]></title>
         <id>https://tv.naver.com/v/61723489</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61644211"/>
         <updated>2024-09-28T09:19:12.119Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT WISH YUSHI (엔시티 위시 유우시) – Dunk Shot | 쇼! 음악중심 | MBC240928방송]]></title>
-        <id>https://tv.naver.com/v/61644024</id>
-        <link href="https://tv.naver.com/v/61644024"/>
-        <updated>2024-09-28T09:19:12.120Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
