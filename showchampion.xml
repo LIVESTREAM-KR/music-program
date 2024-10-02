@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-02T09:22:06.907Z</updated>
+    <updated>2024-10-02T10:21:41.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 10월 1주 챔피언송 ＜강다니엘 - Electric Shock＞ 앵콜 Full ver. l Show Champion l EP.535 l 241002]]></title>
+        <id>https://tv.naver.com/v/61848802</id>
+        <link href="https://tv.naver.com/v/61848802"/>
+        <updated>2024-10-02T10:21:29.679Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 강다니엘(KANGDANIEL) - Electric Shock l 241002]]></title>
+        <id>https://tv.naver.com/v/61847439</id>
+        <link href="https://tv.naver.com/v/61847439"/>
+        <updated>2024-10-02T10:21:29.679Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 피프티피프티(FIFTY FIFTY) - SOS l 241002]]></title>
         <id>https://tv.naver.com/v/61846888</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/61845071"/>
         <updated>2024-10-02T09:21:52.678Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미미로즈(MIMIIROSE) - 흔들리지 않고 피는 꽃이 어딨어 l 241002]]></title>
-        <id>https://tv.naver.com/v/61845040</id>
-        <link href="https://tv.naver.com/v/61845040"/>
-        <updated>2024-10-02T09:21:52.679Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 친구같은 데뷔 인터뷰! 'MADEIN(메이딘)' 나!왔어✋🏻 l 241002]]></title>
-        <id>https://tv.naver.com/v/61844246</id>
-        <link href="https://tv.naver.com/v/61844246"/>
-        <updated>2024-10-02T09:21:52.681Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
     </entry>
 </feed>
