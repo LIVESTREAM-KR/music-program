@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-02T07:19:22.998Z</updated>
+    <updated>2024-10-02T08:27:15.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더스틴(DUSTIN) - 둥글게(Round A Round) l 241002]]></title>
+        <id>https://tv.naver.com/v/61843494</id>
+        <link href="https://tv.naver.com/v/61843494"/>
+        <updated>2024-10-02T08:27:03.028Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 이번주도 shocking한 라인업으로 돌아와 ⚡straight to my heart 할 쇼챔 ❤‍🔥]]></title>
         <id>https://tv.naver.com/v/61719177</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/61516219</id>
         <link href="https://tv.naver.com/v/61516219"/>
         <updated>2024-09-26T08:27:02.663Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] P1Harmony KEEHO(피원하모니 기호) - It's Alright | Show Champion | EP.534 | 240925]]></title>
-        <id>https://tv.naver.com/v/61516217</id>
-        <link href="https://tv.naver.com/v/61516217"/>
-        <updated>2024-09-26T08:27:02.665Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>

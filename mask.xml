@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-10-02T07:19:23.001Z</updated>
+    <updated>2024-10-02T08:27:15.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 트로트까지 접수한 뮤지컬계 프린스💕 배우 겸 가수 에녹 하이라이트!, MBC 240929 방송]]></title>
+        <id>https://tv.naver.com/v/61841951</id>
+        <link href="https://tv.naver.com/v/61841951"/>
+        <updated>2024-10-02T08:27:14.551Z</updated>
+        <content type="html"><![CDATA[11:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 부드러운 음색과 담백한 미성을 가진✨ 싱어송라이터 소수빈 하이라이트!, MBC 240929 방송]]></title>
+        <id>https://tv.naver.com/v/61841944</id>
+        <link href="https://tv.naver.com/v/61841944"/>
+        <updated>2024-10-02T08:27:14.551Z</updated>
+        <content type="html"><![CDATA[12:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 독보적인 존재감의 목소리를 가진 메인보컬🐰 케플러 김채현 하이라이트!, MBC 240929 방송]]></title>
+        <id>https://tv.naver.com/v/61841938</id>
+        <link href="https://tv.naver.com/v/61841938"/>
+        <updated>2024-10-02T08:27:14.551Z</updated>
+        <content type="html"><![CDATA[09:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#복면가왕] 🐶가나디 수빈이를 사랑하자...❤️ 싱어송라이터 소수빈의 《이 밤의 끝을 잡고》 《그 후로 오랫동안》 등 | #소수빈 #싱어송라이터 MBC240929방송]]></title>
         <id>https://tv.naver.com/v/61722228</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/61685288"/>
         <updated>2024-09-29T11:16:54.393Z</updated>
         <content type="html"><![CDATA[01:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['동굴 목소리' 3라운드 무대 - 잔향, MBC 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61685053</id>
-        <link href="https://tv.naver.com/v/61685053"/>
-        <updated>2024-09-29T11:16:54.394Z</updated>
-        <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['달팽이' 3라운드 무대 - 그 후로 오랫동안, MBC 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61684749</id>
-        <link href="https://tv.naver.com/v/61684749"/>
-        <updated>2024-09-29T10:19:46.569Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['식혜'의 정체는 케플러 김채현!, MBC 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61684745</id>
-        <link href="https://tv.naver.com/v/61684745"/>
-        <updated>2024-09-29T10:19:46.571Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
