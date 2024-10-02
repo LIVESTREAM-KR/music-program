@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-02T10:21:41.720Z</updated>
+    <updated>2024-10-02T11:17:53.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC ZAYYAN(소디엑 자얀) - OUR DAYS | Show Champion | EP.535 | 241002]]></title>
+        <id>https://tv.naver.com/v/61853706</id>
+        <link href="https://tv.naver.com/v/61853706"/>
+        <updated>2024-10-02T11:17:42.966Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 1위] 10월 1주 챔피언송 ＜강다니엘 - Electric Shock＞ 앵콜 Full ver. l Show Champion l EP.535 l 241002]]></title>
         <id>https://tv.naver.com/v/61848802</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/61845120</id>
         <link href="https://tv.naver.com/v/61845120"/>
         <updated>2024-10-02T09:21:52.677Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[HOT DEBUT] 메이딘(MADEIN) - UNO l 241002]]></title>
-        <id>https://tv.naver.com/v/61845071</id>
-        <link href="https://tv.naver.com/v/61845071"/>
-        <updated>2024-10-02T09:21:52.678Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
