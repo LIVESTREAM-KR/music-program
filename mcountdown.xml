@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-10-03T11:17:35.988Z</updated>
+    <updated>2024-10-03T12:39:49.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' SUPER JUNIOR-D&E - Go High | Mnet 241003 방송]]></title>
+        <id>https://tv.naver.com/v/61905224</id>
+        <link href="https://tv.naver.com/v/61905224"/>
+        <updated>2024-10-03T12:39:26.091Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키 (KEY) - Pleasure Shop | Mnet 241003 방송]]></title>
+        <id>https://tv.naver.com/v/61905221</id>
+        <link href="https://tv.naver.com/v/61905221"/>
+        <updated>2024-10-03T12:39:26.093Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' SUPER JUNIOR-D&E (슈퍼주니어-D&E) | Mnet 241003 방송]]></title>
+        <id>https://tv.naver.com/v/61904707</id>
+        <link href="https://tv.naver.com/v/61904707"/>
+        <updated>2024-10-03T12:39:26.094Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 이창섭 - 33 | Mnet 241003 방송]]></title>
         <id>https://tv.naver.com/v/61904508</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/61903186"/>
         <updated>2024-10-03T11:17:09.399Z</updated>
         <content type="html"><![CDATA[05:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFTY FIFTY (피프티피프티) - SOS | Mnet 241003 방송]]></title>
-        <id>https://tv.naver.com/v/61902882</id>
-        <link href="https://tv.naver.com/v/61902882"/>
-        <updated>2024-10-03T11:17:09.400Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - Steady | Mnet 241003 방송]]></title>
-        <id>https://tv.naver.com/v/61902596</id>
-        <link href="https://tv.naver.com/v/61902596"/>
-        <updated>2024-10-03T11:17:09.401Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' 이창섭 (LEECHANGSUB) | Mnet 241003 방송]]></title>
-        <id>https://tv.naver.com/v/61901834</id>
-        <link href="https://tv.naver.com/v/61901834"/>
-        <updated>2024-10-03T10:21:33.910Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
