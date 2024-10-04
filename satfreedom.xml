@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-10-04T11:16:52.750Z</updated>
+    <updated>2024-10-04T12:39:08.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 조승연 - Drowning | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/61971516</id>
+        <link href="https://tv.naver.com/v/61971516"/>
+        <updated>2024-10-04T12:39:01.972Z</updated>
+        <content type="html"><![CDATA[04:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 정승환 - 너였다면 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/61971283</id>
+        <link href="https://tv.naver.com/v/61971283"/>
+        <updated>2024-10-04T12:39:01.974Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 리베란테 - Nelle tue mani | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/61971276</id>
+        <link href="https://tv.naver.com/v/61971276"/>
+        <updated>2024-10-04T12:39:01.974Z</updated>
+        <content type="html"><![CDATA[04:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리베란테의 〈슈퍼노바〉! 소품까지 준비한 삐끼삐끼 춤까지🤣 | KBS 240928 방송]]></title>
         <id>https://tv.naver.com/v/61653296</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/61648144"/>
         <updated>2024-09-28T11:17:08.136Z</updated>
         <content type="html"><![CDATA[04:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로트 소녀시대! 딸바보 만드는 사랑스러운 오유진X김태연😍 | KBS 240928 방송]]></title>
-        <id>https://tv.naver.com/v/61647858</id>
-        <link href="https://tv.naver.com/v/61647858"/>
-        <updated>2024-09-28T11:17:08.137Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11년 만에 마주한 이승철 선배님! 부상 투혼 〈인연〉 탄생 비화!🎼  | KBS 240928 방송]]></title>
-        <id>https://tv.naver.com/v/61647856</id>
-        <link href="https://tv.naver.com/v/61647856"/>
-        <updated>2024-09-28T11:17:08.138Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[녹진한~ 김나영 보이스😭 국밥 사주고 싶은 감동 무대?! | KBS 240928 방송]]></title>
-        <id>https://tv.naver.com/v/61647822</id>
-        <link href="https://tv.naver.com/v/61647822"/>
-        <updated>2024-09-28T11:17:08.140Z</updated>
-        <content type="html"><![CDATA[02:10]]></content>
     </entry>
 </feed>
