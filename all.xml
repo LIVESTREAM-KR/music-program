@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-04T12:39:08.365Z</updated>
+    <updated>2024-10-04T13:27:01.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,27 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 가평군소년소녀합창단 - 군가 메들리 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/61971798</id>
+        <link href="https://tv.naver.com/v/61971798"/>
+        <updated>2024-10-04T13:26:54.928Z</updated>
+        <content type="html"><![CDATA[02:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 트리플에스 - Rising | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/61971788</id>
+        <link href="https://tv.naver.com/v/61971788"/>
+        <updated>2024-10-04T13:26:54.928Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 코요태 - 비몽 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/61971760</id>
+        <link href="https://tv.naver.com/v/61971760"/>
+        <updated>2024-10-04T13:26:54.929Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] 조승연 - Drowning | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/61971516</id>
         <link href="https://tv.naver.com/v/61971516"/>
@@ -472,27 +493,6 @@
         <link href="https://tv.naver.com/v/61648689"/>
         <updated>2024-09-28T11:17:08.135Z</updated>
         <content type="html"><![CDATA[05:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오디션 프로 출신🌟 리베란테의 처음 마음가짐으로 부를 선곡은?! | KBS 240928 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/61648649</id>
-        <link href="https://tv.naver.com/v/61648649"/>
-        <updated>2024-09-28T11:17:08.135Z</updated>
-        <content type="html"><![CDATA[02:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소녀 애드립은 이영현급?!🤣 길거리 커플을 보고 탄생한 〈소녀시대〉 | KBS 240928 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/61648314</id>
-        <link href="https://tv.naver.com/v/61648314"/>
-        <updated>2024-09-28T11:17:08.135Z</updated>
-        <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오유진×김태연 - 소녀시대 | KBS 240928 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/61648144</id>
-        <link href="https://tv.naver.com/v/61648144"/>
-        <updated>2024-09-28T11:17:08.136Z</updated>
-        <content type="html"><![CDATA[04:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 트로트까지 접수한 뮤지컬계 프린스💕 배우 겸 가수 에녹 하이라이트!, MBC 240929 방송 (복면가왕)]]></title>

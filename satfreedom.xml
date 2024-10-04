@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-10-04T12:39:08.361Z</updated>
+    <updated>2024-10-04T13:27:01.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 가평군소년소녀합창단 - 군가 메들리 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/61971798</id>
+        <link href="https://tv.naver.com/v/61971798"/>
+        <updated>2024-10-04T13:26:54.928Z</updated>
+        <content type="html"><![CDATA[02:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 트리플에스 - Rising | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/61971788</id>
+        <link href="https://tv.naver.com/v/61971788"/>
+        <updated>2024-10-04T13:26:54.928Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 코요태 - 비몽 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/61971760</id>
+        <link href="https://tv.naver.com/v/61971760"/>
+        <updated>2024-10-04T13:26:54.929Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 조승연 - Drowning | KBS 방송]]></title>
         <id>https://tv.naver.com/v/61971516</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/61648689"/>
         <updated>2024-09-28T11:17:08.135Z</updated>
         <content type="html"><![CDATA[05:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오디션 프로 출신🌟 리베란테의 처음 마음가짐으로 부를 선곡은?! | KBS 240928 방송]]></title>
-        <id>https://tv.naver.com/v/61648649</id>
-        <link href="https://tv.naver.com/v/61648649"/>
-        <updated>2024-09-28T11:17:08.135Z</updated>
-        <content type="html"><![CDATA[02:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소녀 애드립은 이영현급?!🤣 길거리 커플을 보고 탄생한 〈소녀시대〉 | KBS 240928 방송]]></title>
-        <id>https://tv.naver.com/v/61648314</id>
-        <link href="https://tv.naver.com/v/61648314"/>
-        <updated>2024-09-28T11:17:08.135Z</updated>
-        <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오유진×김태연 - 소녀시대 | KBS 240928 방송]]></title>
-        <id>https://tv.naver.com/v/61648144</id>
-        <link href="https://tv.naver.com/v/61648144"/>
-        <updated>2024-09-28T11:17:08.136Z</updated>
-        <content type="html"><![CDATA[04:38]]></content>
     </entry>
 </feed>
