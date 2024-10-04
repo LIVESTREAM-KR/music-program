@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-04T10:22:32.560Z</updated>
+    <updated>2024-10-04T11:16:52.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 시즈니.. 우리 많이 친해졌잖아.. 음중 직캠보고서로 넘어갈까?🌰❤️  #NCTWISH 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/61966923</id>
+        <link href="https://tv.naver.com/v/61966923"/>
+        <updated>2024-10-04T11:16:18.124Z</updated>
+        <content type="html"><![CDATA[19:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] TZUYU(쯔위) – Run Away | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/61842689</id>
         <link href="https://tv.naver.com/v/61842689"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/61644442"/>
         <updated>2024-09-28T09:19:12.119Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] P1Harmony JIUNG (피원하모니 지웅) – SAD SONG | 쇼! 음악중심 | MBC240928방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/61644408</id>
-        <link href="https://tv.naver.com/v/61644408"/>
-        <updated>2024-09-28T09:19:12.119Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화사(HWASA) - NA | SBS 240929 방송 (인기가요)]]></title>
