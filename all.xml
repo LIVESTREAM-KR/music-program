@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-05T03:24:25.472Z</updated>
+    <updated>2024-10-05T04:24:57.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 에일리 - STRONGER(feat. MEC) | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/61981090</id>
+        <link href="https://tv.naver.com/v/61981090"/>
+        <updated>2024-10-05T04:24:52.124Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] 가평군소년소녀합창단 - 군가 메들리 | KBS 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/61971798</id>
         <link href="https://tv.naver.com/v/61971798"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/61648703"/>
         <updated>2024-09-28T11:17:08.133Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리베란테 - 그런 사람 또 없습니다 | KBS 240928 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/61648689</id>
-        <link href="https://tv.naver.com/v/61648689"/>
-        <updated>2024-09-28T11:17:08.135Z</updated>
-        <content type="html"><![CDATA[05:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 트로트까지 접수한 뮤지컬계 프린스💕 배우 겸 가수 에녹 하이라이트!, MBC 240929 방송 (복면가왕)]]></title>

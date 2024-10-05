@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-10-05T03:24:25.469Z</updated>
+    <updated>2024-10-05T04:24:57.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 에일리 - STRONGER(feat. MEC) | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/61981090</id>
+        <link href="https://tv.naver.com/v/61981090"/>
+        <updated>2024-10-05T04:24:52.124Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 가평군소년소녀합창단 - 군가 메들리 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/61971798</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61648703"/>
         <updated>2024-09-28T11:17:08.133Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리베란테 - 그런 사람 또 없습니다 | KBS 240928 방송]]></title>
-        <id>https://tv.naver.com/v/61648689</id>
-        <link href="https://tv.naver.com/v/61648689"/>
-        <updated>2024-09-28T11:17:08.135Z</updated>
-        <content type="html"><![CDATA[05:38]]></content>
     </entry>
 </feed>
