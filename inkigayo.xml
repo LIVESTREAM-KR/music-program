@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-10-06T06:27:17.823Z</updated>
+    <updated>2024-10-06T07:19:18.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MEOVV - MEOW | SBS 241006 방송]]></title>
+        <id>https://tv.naver.com/v/62050698</id>
+        <link href="https://tv.naver.com/v/62050698"/>
+        <updated>2024-10-06T07:18:49.391Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIOT(티아이오티) - 그 계절 긴 터널을 지나 | SBS 241006 방송]]></title>
+        <id>https://tv.naver.com/v/62050481</id>
+        <link href="https://tv.naver.com/v/62050481"/>
+        <updated>2024-10-06T07:18:49.391Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3piece(쓰리피스) - 피어올라 (Light up) | SBS 241006 방송]]></title>
+        <id>https://tv.naver.com/v/62050202</id>
+        <link href="https://tv.naver.com/v/62050202"/>
+        <updated>2024-10-06T07:18:49.392Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yang Kyle(양카일) - 똑똑 (feat. 문수진) | SBS 241006 방송]]></title>
+        <id>https://tv.naver.com/v/62049997</id>
+        <link href="https://tv.naver.com/v/62049997"/>
+        <updated>2024-10-06T07:18:49.393Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박태훈(Pagaehun) - 모의고사 | SBS 241006 방송]]></title>
+        <id>https://tv.naver.com/v/62049991</id>
+        <link href="https://tv.naver.com/v/62049991"/>
+        <updated>2024-10-06T07:18:49.394Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김창운 - 헤어질 용기 (Prod. 박재정) | SBS 241006 방송]]></title>
+        <id>https://tv.naver.com/v/62049987</id>
+        <link href="https://tv.naver.com/v/62049987"/>
+        <updated>2024-10-06T07:18:49.397Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복지은 - 해피엔딩 | SBS 241006 방송]]></title>
+        <id>https://tv.naver.com/v/62049657</id>
+        <link href="https://tv.naver.com/v/62049657"/>
+        <updated>2024-10-06T07:18:49.399Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화사(HWASA) - NA | SBS 240929 방송]]></title>
         <id>https://tv.naver.com/v/61680168</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/61679749"/>
         <updated>2024-09-29T08:24:13.578Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - Steady | SBS 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61679528</id>
-        <link href="https://tv.naver.com/v/61679528"/>
-        <updated>2024-09-29T08:24:13.578Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - Bittersweet | SBS 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61679147</id>
-        <link href="https://tv.naver.com/v/61679147"/>
-        <updated>2024-09-29T08:24:13.578Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미미로즈(MIMIIROSE) - 흔들리지 않고 피는 꽃이 어딨어 | SBS 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61679096</id>
-        <link href="https://tv.naver.com/v/61679096"/>
-        <updated>2024-09-29T08:24:13.587Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEOVV - MEOW | SBS 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61679093</id>
-        <link href="https://tv.naver.com/v/61679093"/>
-        <updated>2024-09-29T08:24:13.587Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뷰티박스(BEAUTYBOX) - 일루와 (COME TO ME) | SBS 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61678494</id>
-        <link href="https://tv.naver.com/v/61678494"/>
-        <updated>2024-09-29T08:24:13.587Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XODIAC(소디엑) - OUR DAYS | SBS 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61678491</id>
-        <link href="https://tv.naver.com/v/61678491"/>
-        <updated>2024-09-29T08:24:13.587Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESCENE(리센느) - Pinball | SBS 240929 방송]]></title>
-        <id>https://tv.naver.com/v/61678261</id>
-        <link href="https://tv.naver.com/v/61678261"/>
-        <updated>2024-09-29T08:24:13.587Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
