@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-06T05:19:11.891Z</updated>
+    <updated>2024-10-06T06:27:17.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCkpop] HWASA.zip 📂 멍청이부터 NA까지  | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/61988066</id>
+        <link href="https://tv.naver.com/v/61988066"/>
+        <updated>2024-10-06T06:26:41.376Z</updated>
+        <content type="html"><![CDATA[14:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] FIFTY FIFTY HANA (피프티피프티 하나) – SOS | 쇼! 음악중심 | MBC241005방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/62013018</id>
         <link href="https://tv.naver.com/v/62013018"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/62011797"/>
         <updated>2024-10-05T09:22:38.188Z</updated>
         <content type="html"><![CDATA[05:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT WISH RIKU (엔시티 위시 리쿠) – Steady | 쇼! 음악중심 | MBC241005방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/62011795</id>
-        <link href="https://tv.naver.com/v/62011795"/>
-        <updated>2024-10-05T09:22:38.189Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[화사(HWASA) - NA | SBS 240929 방송 (인기가요)]]></title>
