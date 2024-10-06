@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-10-06T07:19:18.017Z</updated>
+    <updated>2024-10-06T08:24:20.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 영원한 마왕!🌟 故 신해철 추모 10주기 특집 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/62051179</id>
+        <link href="https://tv.naver.com/v/62051179"/>
+        <updated>2024-10-06T08:24:13.813Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인순이 – 거위의 꿈 | KBS 241005 방송]]></title>
         <id>https://tv.naver.com/v/62017627</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62015772"/>
         <updated>2024-10-05T11:17:00.523Z</updated>
         <content type="html"><![CDATA[02:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁 - 찐이야 | KBS 241005 방송]]></title>
-        <id>https://tv.naver.com/v/62015768</id>
-        <link href="https://tv.naver.com/v/62015768"/>
-        <updated>2024-10-06T07:19:11.855Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>

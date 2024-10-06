@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-06T07:19:18.011Z</updated>
+    <updated>2024-10-06T08:24:20.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -145,74 +145,74 @@
         <content type="html"><![CDATA[05:10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MEOVV - MEOW | SBS 241006 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/62050698</id>
-        <link href="https://tv.naver.com/v/62050698"/>
-        <updated>2024-10-06T07:18:49.391Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
+        <title type="html"><![CDATA[SUPER JUNIOR-D&E - Go High | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62053259</id>
+        <link href="https://tv.naver.com/v/62053259"/>
+        <updated>2024-10-06T08:23:49.622Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TIOT(티아이오티) - 그 계절 긴 터널을 지나 | SBS 241006 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/62050481</id>
-        <link href="https://tv.naver.com/v/62050481"/>
-        <updated>2024-10-06T07:18:49.391Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
+        <title type="html"><![CDATA[KEY(키) - Pleasure Shop | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62053251</id>
+        <link href="https://tv.naver.com/v/62053251"/>
+        <updated>2024-10-06T08:23:49.622Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3piece(쓰리피스) - 피어올라 (Light up) | SBS 241006 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/62050202</id>
-        <link href="https://tv.naver.com/v/62050202"/>
-        <updated>2024-10-06T07:18:49.392Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
+        <title type="html"><![CDATA[이창섭 - 33 | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62053245</id>
+        <link href="https://tv.naver.com/v/62053245"/>
+        <updated>2024-10-06T08:23:49.624Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yang Kyle(양카일) - 똑똑 (feat. 문수진) | SBS 241006 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/62049997</id>
-        <link href="https://tv.naver.com/v/62049997"/>
-        <updated>2024-10-06T07:18:49.393Z</updated>
+        <title type="html"><![CDATA[P1Harmony - SAD SONG | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62052864</id>
+        <link href="https://tv.naver.com/v/62052864"/>
+        <updated>2024-10-06T08:23:49.643Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YENA(최예나) - 네모네모 | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62052292</id>
+        <link href="https://tv.naver.com/v/62052292"/>
+        <updated>2024-10-06T08:23:49.643Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YENA(최예나) - 설탕 | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62052289</id>
+        <link href="https://tv.naver.com/v/62052289"/>
+        <updated>2024-10-06T08:23:49.643Z</updated>
+        <content type="html"><![CDATA[01:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT WISH - Steady | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62052118</id>
+        <link href="https://tv.naver.com/v/62052118"/>
+        <updated>2024-10-06T08:23:49.643Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VANNER(배너) - Automatic | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62051846</id>
+        <link href="https://tv.naver.com/v/62051846"/>
+        <updated>2024-10-06T08:23:49.643Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XODIAC(소디엑) - OUR DAYS | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62051842</id>
+        <link href="https://tv.naver.com/v/62051842"/>
+        <updated>2024-10-06T08:23:49.645Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박태훈(Pagaehun) - 모의고사 | SBS 241006 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/62049991</id>
-        <link href="https://tv.naver.com/v/62049991"/>
-        <updated>2024-10-06T07:18:49.394Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김창운 - 헤어질 용기 (Prod. 박재정) | SBS 241006 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/62049987</id>
-        <link href="https://tv.naver.com/v/62049987"/>
-        <updated>2024-10-06T07:18:49.397Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복지은 - 해피엔딩 | SBS 241006 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/62049657</id>
-        <link href="https://tv.naver.com/v/62049657"/>
-        <updated>2024-10-06T07:18:49.399Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화사(HWASA) - NA | SBS 240929 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/61680168</id>
-        <link href="https://tv.naver.com/v/61680168"/>
-        <updated>2024-09-29T08:24:13.574Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강다니엘 - Electric Shock | SBS 240929 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/61679970</id>
-        <link href="https://tv.naver.com/v/61679970"/>
-        <updated>2024-09-29T08:24:13.578Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P1Harmony - SAD SONG | SBS 240929 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/61679749</id>
-        <link href="https://tv.naver.com/v/61679749"/>
-        <updated>2024-09-29T08:24:13.578Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
+        <title type="html"><![CDATA[더윈드(The Wind) - 반가워, 나의 첫사랑 | SBS 241006 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/62051626</id>
+        <link href="https://tv.naver.com/v/62051626"/>
+        <updated>2024-10-06T08:23:49.647Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' SUPER JUNIOR-D&E - Go High | Mnet 241003 방송 (엠카운트다운)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 영원한 마왕!🌟 故 신해철 추모 10주기 특집 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/62051179</id>
+        <link href="https://tv.naver.com/v/62051179"/>
+        <updated>2024-10-06T08:24:13.813Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인순이 – 거위의 꿈 | KBS 241005 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/62017627</id>
         <link href="https://tv.naver.com/v/62017627"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/62015772"/>
         <updated>2024-10-05T11:17:00.523Z</updated>
         <content type="html"><![CDATA[02:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영탁 - 찐이야 | KBS 241005 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/62015768</id>
-        <link href="https://tv.naver.com/v/62015768"/>
-        <updated>2024-10-06T07:19:11.855Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 트로트까지 접수한 뮤지컬계 프린스💕 배우 겸 가수 에녹 하이라이트!, MBC 240929 방송 (복면가왕)]]></title>
