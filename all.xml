@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-07T04:25:42.491Z</updated>
+    <updated>2024-10-07T05:21:38.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 이정하 , 10월 첫째 주 음악중심 MC 컷 모음!, MBC 241005 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/62099244</id>
+        <link href="https://tv.naver.com/v/62099244"/>
+        <updated>2024-10-07T05:21:02.595Z</updated>
+        <content type="html"><![CDATA[16:11]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[MBCkpop] HWASA.zip 📂 멍청이부터 NA까지  | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/61988066</id>
         <link href="https://tv.naver.com/v/61988066"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/62012031"/>
         <updated>2024-10-05T09:22:38.186Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미방분] 10월 1주차 1위 키 - Pleasure Shop (KEY - Pleasure Shop), MBC 241005 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/62011797</id>
-        <link href="https://tv.naver.com/v/62011797"/>
-        <updated>2024-10-05T09:22:38.188Z</updated>
-        <content type="html"><![CDATA[05:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SUPER JUNIOR-D&E - Go High | SBS 241006 방송 (인기가요)]]></title>
