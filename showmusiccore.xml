@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-07T06:30:35.331Z</updated>
+    <updated>2024-10-07T07:20:35.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] YENA (최예나) – 네모네모 | 쇼! 음악중심 | MBC241005방송]]></title>
+        <id>https://tv.naver.com/v/62101155</id>
+        <link href="https://tv.naver.com/v/62101155"/>
+        <updated>2024-10-07T07:19:59.709Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT WISH YUSHI (엔시티 위시 유우시) – Steady | 쇼! 음악중심 | MBC241005방송]]></title>
         <id>https://tv.naver.com/v/62103742</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62012294"/>
         <updated>2024-10-05T09:22:38.183Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT WISH JAEHEE (엔시티 위시 재희) – Steady | 쇼! 음악중심 | MBC241005방송]]></title>
-        <id>https://tv.naver.com/v/62012292</id>
-        <link href="https://tv.naver.com/v/62012292"/>
-        <updated>2024-10-05T09:22:38.185Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
