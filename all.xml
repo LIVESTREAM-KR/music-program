@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-08T10:21:52.538Z</updated>
+    <updated>2024-10-08T11:19:51.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FIFTY FIFTY가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/62188005</id>
+        <link href="https://tv.naver.com/v/62188005"/>
+        <updated>2024-10-08T11:19:26.141Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' SUPER JUNIOR-D&E - Go High | Mnet 241003 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/61905224</id>
         <link href="https://tv.naver.com/v/61905224"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/61903778"/>
         <updated>2024-10-03T11:17:09.398Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' NCT WISH 𝘷𝘴 P1Harmony 𝘷𝘴 MC 멍또! 오늘은 내가 짱높왕👑 | Mnet 241003 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61903186</id>
-        <link href="https://tv.naver.com/v/61903186"/>
-        <updated>2024-10-03T11:17:09.399Z</updated>
-        <content type="html"><![CDATA[05:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[P1Harmony - THE SHOW CHOICE! [THE SHOW 240924] (더쇼)]]></title>
