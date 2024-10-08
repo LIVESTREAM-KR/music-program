@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-10-08T11:19:51.070Z</updated>
+    <updated>2024-10-08T12:38:17.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 맑은 음색의 메인 보컬! 국힙 딸내미✨ 영파씨 지아나 하이라이트!, MBC 241006 방송]]></title>
+        <id>https://tv.naver.com/v/62191582</id>
+        <link href="https://tv.naver.com/v/62191582"/>
+        <updated>2024-10-08T12:38:17.336Z</updated>
+        <content type="html"><![CDATA[11:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 청소년 연기상 수상한 확신의 성장캐🏆 배우 이유진 하이라이트!, MBC 241006 방송]]></title>
+        <id>https://tv.naver.com/v/62191575</id>
+        <link href="https://tv.naver.com/v/62191575"/>
+        <updated>2024-10-08T12:38:17.336Z</updated>
+        <content type="html"><![CDATA[09:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜차기 가왕급 실력자의 등장?!🙊 '언더 더 씨'의 5연승을 막아선 극강의 실력자들🔥＞ 복면가왕 469회 예고, MBC 241013 방송]]></title>
         <id>https://tv.naver.com/v/62061778</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/62059485"/>
         <updated>2024-10-06T11:17:07.518Z</updated>
         <content type="html"><![CDATA[02:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['뽑기' VS '자판기'의 1라운드 무대 - 거리에서, MBC 241006 방송]]></title>
-        <id>https://tv.naver.com/v/62059002</id>
-        <link href="https://tv.naver.com/v/62059002"/>
-        <updated>2024-10-06T10:20:11.587Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['두유'의 정체는 유도 선수 안바울!, MBC 241006 방송]]></title>
-        <id>https://tv.naver.com/v/62058503</id>
-        <link href="https://tv.naver.com/v/62058503"/>
-        <updated>2024-10-06T10:20:11.594Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
