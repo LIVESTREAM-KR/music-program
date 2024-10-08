@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-08T07:20:31.756Z</updated>
+    <updated>2024-10-08T08:27:23.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KEY(키).zip 📂Forever Yours부터 Pleasure Shop까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/62175382</id>
+        <link href="https://tv.naver.com/v/62175382"/>
+        <updated>2024-10-08T08:26:47.030Z</updated>
+        <content type="html"><![CDATA[32:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] YENA (최예나) – 네모네모 | 쇼! 음악중심 | MBC241005방송]]></title>
         <id>https://tv.naver.com/v/62101155</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62012345"/>
         <updated>2024-10-05T09:22:38.182Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] FIFTY FIFTY ATHENA (피프티피프티 아테나) – SOS | 쇼! 음악중심 | MBC241005방송]]></title>
-        <id>https://tv.naver.com/v/62012294</id>
-        <link href="https://tv.naver.com/v/62012294"/>
-        <updated>2024-10-05T09:22:38.183Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
