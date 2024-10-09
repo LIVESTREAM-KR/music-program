@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-09T09:22:40.079Z</updated>
+    <updated>2024-10-09T10:22:20.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 최예나(YENA) - 네모네모 l 241009]]></title>
+        <id>https://tv.naver.com/v/62240827</id>
+        <link href="https://tv.naver.com/v/62240827"/>
+        <updated>2024-10-09T10:22:07.864Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[금동현의 사이월드] 'P1Harmony 인탁 & 지웅' 편🖱️ l 241009]]></title>
         <id>https://tv.naver.com/v/62240326</id>
@@ -20,11 +27,25 @@
         <content type="html"><![CDATA[02:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[피원하모니(P1Harmony) - SAD SONG l 241009]]></title>
+        <id>https://tv.naver.com/v/62240263</id>
+        <link href="https://tv.naver.com/v/62240263"/>
+        <updated>2024-10-09T10:22:07.866Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 배너(VANNER) - Automatic l 241009]]></title>
         <id>https://tv.naver.com/v/62239510</id>
         <link href="https://tv.naver.com/v/62239510"/>
         <updated>2024-10-09T09:22:28.804Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소디엑(XODIAC) - OUR DAYS l 241009]]></title>
+        <id>https://tv.naver.com/v/62239149</id>
+        <link href="https://tv.naver.com/v/62239149"/>
+        <updated>2024-10-09T10:22:07.868Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 더윈드(The Wind) - 반가워, 나의 첫사랑 l 241009]]></title>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/62238616"/>
         <updated>2024-10-09T09:22:28.810Z</updated>
         <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이딘(MADEIN) - UNO l 241009]]></title>
-        <id>https://tv.naver.com/v/62238607</id>
-        <link href="https://tv.naver.com/v/62238607"/>
-        <updated>2024-10-09T09:22:28.810Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SPECIAL STAGE] 파우(POW) - Sunset l 241009]]></title>
-        <id>https://tv.naver.com/v/62238586</id>
-        <link href="https://tv.naver.com/v/62238586"/>
-        <updated>2024-10-09T09:22:28.813Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리센느(RESCENE) - LOVE ATTACK l 241009]]></title>
-        <id>https://tv.naver.com/v/62238055</id>
-        <link href="https://tv.naver.com/v/62238055"/>
-        <updated>2024-10-09T09:22:28.814Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
