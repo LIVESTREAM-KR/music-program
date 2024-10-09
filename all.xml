@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-09T01:28:33.752Z</updated>
+    <updated>2024-10-09T02:51:42.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[02:28]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#복면가왕] ⭐복면가왕에 명창 고양이 지아나왔쟈나😺 영파씨 지아나의 《다시 만난 세계》 《Touch my body》 | #영파씨 #지아나 MBC241006방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/62101158</id>
+        <link href="https://tv.naver.com/v/62101158"/>
+        <updated>2024-10-09T02:51:41.616Z</updated>
+        <content type="html"><![CDATA[15:48]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 맑은 음색의 메인 보컬! 국힙 딸내미✨ 영파씨 지아나 하이라이트!, MBC 241006 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/62191582</id>
         <link href="https://tv.naver.com/v/62191582"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/62059541"/>
         <updated>2024-10-06T11:17:07.516Z</updated>
         <content type="html"><![CDATA[01:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누르면 나오는 '뽑기'의 아이돌 댄스🕺 부드러운 춤선에서 느껴지는 알 수 없는 공백(?), MBC 241006 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/62059485</id>
-        <link href="https://tv.naver.com/v/62059485"/>
-        <updated>2024-10-06T11:17:07.518Z</updated>
-        <content type="html"><![CDATA[02:10]]></content>
     </entry>
 </feed>
