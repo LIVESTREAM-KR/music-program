@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-09T03:26:10.197Z</updated>
+    <updated>2024-10-09T04:24:35.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2NE1.zip 📂 Fire부터 DO YOU LOVE ME까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/62155485</id>
+        <link href="https://tv.naver.com/v/62155485"/>
+        <updated>2024-10-09T04:23:58.693Z</updated>
+        <content type="html"><![CDATA[56:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KEY(키).zip 📂Forever Yours부터 Pleasure Shop까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/62175382</id>
         <link href="https://tv.naver.com/v/62175382"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/62012754"/>
         <updated>2024-10-05T09:22:38.181Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT WISH RYO (엔시티 위시 료) – Steady | 쇼! 음악중심 | MBC241005방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/62012345</id>
-        <link href="https://tv.naver.com/v/62012345"/>
-        <updated>2024-10-05T09:22:38.182Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SUPER JUNIOR-D&E - Go High | SBS 241006 방송 (인기가요)]]></title>
