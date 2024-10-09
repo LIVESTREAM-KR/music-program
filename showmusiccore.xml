@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-09T06:29:34.808Z</updated>
+    <updated>2024-10-09T07:20:05.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] BOYNEXTDOOR(보이넥스트도어) – Nice Guy | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/62184109</id>
+        <link href="https://tv.naver.com/v/62184109"/>
+        <updated>2024-10-09T07:19:28.039Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2NE1.zip 📂 Fire부터 DO YOU LOVE ME까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/62155485</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[#음중직캠] NCT WISH SAKUYA (엔시티 위시 사쿠야) – Steady | 쇼! 음악중심 | MBC241005방송]]></title>
         <id>https://tv.naver.com/v/62012755</id>
         <link href="https://tv.naver.com/v/62012755"/>
-        <updated>2024-10-05T09:22:38.181Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT WISH YUSHI (엔시티 위시 유우시) – Steady | 쇼! 음악중심 | MBC241005방송]]></title>
-        <id>https://tv.naver.com/v/62012754</id>
-        <link href="https://tv.naver.com/v/62012754"/>
         <updated>2024-10-05T09:22:38.181Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
     </entry>
