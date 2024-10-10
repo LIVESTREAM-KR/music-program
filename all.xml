@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-10T04:24:24.144Z</updated>
+    <updated>2024-10-10T05:20:06.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[YENA(최예나).zip 📂SMILEY부터 네모네모까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/62114747</id>
+        <link href="https://tv.naver.com/v/62114747"/>
+        <updated>2024-10-10T05:19:32.045Z</updated>
+        <content type="html"><![CDATA[17:55]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] BOYNEXTDOOR(보이넥스트도어) – Nice Guy | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/62184109</id>
         <link href="https://tv.naver.com/v/62184109"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/62012756"/>
         <updated>2024-10-05T09:22:38.176Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT WISH SAKUYA (엔시티 위시 사쿠야) – Steady | 쇼! 음악중심 | MBC241005방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/62012755</id>
-        <link href="https://tv.naver.com/v/62012755"/>
-        <updated>2024-10-05T09:22:38.181Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SUPER JUNIOR-D&E - Go High | SBS 241006 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[지금부터 핑크빛 Romance는 무조건 네모다  #최예나 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/62275940</id>
+        <link href="https://tv.naver.com/v/62275940"/>
+        <updated>2024-10-10T05:19:54.716Z</updated>
+        <content type="html"><![CDATA[00:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] YENA(최예나) - 네모네모 | Show Champion | EP.536 | 241009 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/62236313</id>
         <link href="https://tv.naver.com/v/62236313"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/62232176"/>
         <updated>2024-10-09T13:27:49.745Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] The Wind(더윈드) - 반가워, 나의 첫사랑 | Show Champion | EP.536 | 241009 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/62226135</id>
-        <link href="https://tv.naver.com/v/62226135"/>
-        <updated>2024-10-09T13:27:49.746Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 영원한 마왕!🌟 故 신해철 추모 10주기 특집 | KBS 방송 (불후의 명곡)]]></title>

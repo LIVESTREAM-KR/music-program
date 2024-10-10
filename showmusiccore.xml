@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-10T04:24:24.137Z</updated>
+    <updated>2024-10-10T05:20:06.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YENA(최예나).zip 📂SMILEY부터 네모네모까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/62114747</id>
+        <link href="https://tv.naver.com/v/62114747"/>
+        <updated>2024-10-10T05:19:32.045Z</updated>
+        <content type="html"><![CDATA[17:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] BOYNEXTDOOR(보이넥스트도어) – Nice Guy | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/62184109</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62012756"/>
         <updated>2024-10-05T09:22:38.176Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT WISH SAKUYA (엔시티 위시 사쿠야) – Steady | 쇼! 음악중심 | MBC241005방송]]></title>
-        <id>https://tv.naver.com/v/62012755</id>
-        <link href="https://tv.naver.com/v/62012755"/>
-        <updated>2024-10-05T09:22:38.181Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
     </entry>
 </feed>
