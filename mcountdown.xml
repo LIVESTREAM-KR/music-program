@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-10-10T11:18:20.391Z</updated>
+    <updated>2024-10-10T12:39:38.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' 박재범 (Jay Park) | Mnet 241010 방송]]></title>
+        <id>https://tv.naver.com/v/62309348</id>
+        <link href="https://tv.naver.com/v/62309348"/>
+        <updated>2024-10-10T12:39:17.214Z</updated>
+        <content type="html"><![CDATA[04:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 박재범 - Gimme A Minute (Feat. 청하) | Mnet 241010 방송]]></title>
         <id>https://tv.naver.com/v/62306540</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62304978"/>
         <updated>2024-10-10T10:21:37.259Z</updated>
         <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' AB6IX (에이비식스) | Mnet 241010 방송]]></title>
-        <id>https://tv.naver.com/v/62304448</id>
-        <link href="https://tv.naver.com/v/62304448"/>
-        <updated>2024-10-10T10:21:37.261Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
     </entry>
 </feed>
