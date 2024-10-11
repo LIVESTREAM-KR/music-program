@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-10-11T10:22:24.159Z</updated>
+    <updated>2024-10-11T11:18:33.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이찬원X김동현X이병찬의 신해철 애창곡 부르기! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/62367965</id>
+        <link href="https://tv.naver.com/v/62367965"/>
+        <updated>2024-10-11T11:18:27.468Z</updated>
+        <content type="html"><![CDATA[02:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 영원한 마왕!🌟 故 신해철 추모 10주기 특집 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/62051179</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62015987"/>
         <updated>2024-10-05T11:17:00.522Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군인 지키는 에일리!? 무적의 군악대대가 떴다🌟 | KBS 241005 방송]]></title>
-        <id>https://tv.naver.com/v/62015772</id>
-        <link href="https://tv.naver.com/v/62015772"/>
-        <updated>2024-10-05T11:17:00.523Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
     </entry>
 </feed>
