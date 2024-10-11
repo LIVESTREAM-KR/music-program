@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-10-11T05:19:52.613Z</updated>
+    <updated>2024-10-11T06:29:16.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[365회 금산특집 예고]]></title>
+        <id>https://tv.naver.com/v/62348769</id>
+        <link href="https://tv.naver.com/v/62348769"/>
+        <updated>2024-10-11T06:28:57.636Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[P1Harmony - THE SHOW CHOICE! [THE SHOW 240924]]]></title>
         <id>https://tv.naver.com/v/61413551</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/61412300</id>
         <link href="https://tv.naver.com/v/61412300"/>
         <updated>2024-09-24T11:16:57.435Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loossemble - TTYL (루셈블, TTYL) [THE SHOW 240924]]]></title>
-        <id>https://tv.naver.com/v/61411873</id>
-        <link href="https://tv.naver.com/v/61411873"/>
-        <updated>2024-09-24T10:22:55.794Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
