@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-12T08:24:05.614Z</updated>
+    <updated>2024-10-12T09:21:46.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] XODIAC (소디엑) – OUR DAYS | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62414555</id>
+        <link href="https://tv.naver.com/v/62414555"/>
+        <updated>2024-10-12T09:21:14.487Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] YENA (최예나) –네모네모 FanCam | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62414552</id>
+        <link href="https://tv.naver.com/v/62414552"/>
+        <updated>2024-10-12T09:21:14.488Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] AB6IX (에이비식스) – NVKED | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62414549</id>
+        <link href="https://tv.naver.com/v/62414549"/>
+        <updated>2024-10-12T09:21:14.488Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] LEE CHANGSUB (이창섭) – OLD TOWN FanCam | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62413883</id>
+        <link href="https://tv.naver.com/v/62413883"/>
+        <updated>2024-10-12T09:21:14.490Z</updated>
+        <content type="html"><![CDATA[04:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] LEE CHANGSUB (이창섭) – OLD TOWN FullCam | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62413882</id>
+        <link href="https://tv.naver.com/v/62413882"/>
+        <updated>2024-10-12T09:21:14.491Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] YENA (최예나) – 네모네모 FullCam | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62413877</id>
+        <link href="https://tv.naver.com/v/62413877"/>
+        <updated>2024-10-12T09:21:14.492Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] YENA (최예나) –그건 사랑이었다고 FanCam | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62413875</id>
+        <link href="https://tv.naver.com/v/62413875"/>
+        <updated>2024-10-12T09:21:14.493Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] YENA (최예나) – 그건 사랑이었다고 FullCam | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62413609</id>
+        <link href="https://tv.naver.com/v/62413609"/>
+        <updated>2024-10-12T09:21:14.494Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이창섭 - OLD TOWN (LEE CHANG SUB - OLD TOWN), MBC 241012 방송]]></title>
         <id>https://tv.naver.com/v/62412483</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/62412192"/>
         <updated>2024-10-12T08:23:30.350Z</updated>
         <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최예나 - 네모네모 (YENA - NEMONEMO), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62411922</id>
-        <link href="https://tv.naver.com/v/62411922"/>
-        <updated>2024-10-12T08:23:30.355Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최예나 - 그건 사랑이었다고 (YENA - It was love), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62411686</id>
-        <link href="https://tv.naver.com/v/62411686"/>
-        <updated>2024-10-12T08:23:30.357Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배너 - Automatic (VANNER - Automatic), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62411305</id>
-        <link href="https://tv.naver.com/v/62411305"/>
-        <updated>2024-10-12T08:23:30.358Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이딘 - UNO (MADEIN - UNO), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62411065</id>
-        <link href="https://tv.naver.com/v/62411065"/>
-        <updated>2024-10-12T08:23:30.360Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드 - 반가워, 나의 첫사랑 (The Wind - Hello, My First Love), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62410856</id>
-        <link href="https://tv.naver.com/v/62410856"/>
-        <updated>2024-10-12T08:23:30.363Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어센트 - Sweet Devil (ASC2NT - Sweet Devil), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62410850</id>
-        <link href="https://tv.naver.com/v/62410850"/>
-        <updated>2024-10-12T08:23:30.365Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소디엑 - OUR DAYS (XODIAC - OUR DAYS), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62410361</id>
-        <link href="https://tv.naver.com/v/62410361"/>
-        <updated>2024-10-12T08:23:30.366Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비웨이브 - 너에게로 가는 길이 너무 어려워 (BEWAVE - Hard to get to you), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62410155</id>
-        <link href="https://tv.naver.com/v/62410155"/>
-        <updated>2024-10-12T08:23:30.368Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
