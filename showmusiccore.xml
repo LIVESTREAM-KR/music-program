@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-12T06:26:42.612Z</updated>
+    <updated>2024-10-12T07:17:50.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[김늑 - My Love ! (Kim Neuk - My Love !), MBC 241012 방송]]></title>
+        <id>https://tv.naver.com/v/62409714</id>
+        <link href="https://tv.naver.com/v/62409714"/>
+        <updated>2024-10-12T07:17:17.981Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복지은 - Happy Ending (Bok Jieun - Happy Ending), MBC 241012 방송]]></title>
+        <id>https://tv.naver.com/v/62409699</id>
+        <link href="https://tv.naver.com/v/62409699"/>
+        <updated>2024-10-12T07:17:17.982Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucky팡팡 (김다현X스미다아이코) - Sugar (Lucky PangPang - Sugar), MBC 241012 방송]]></title>
+        <id>https://tv.naver.com/v/62409448</id>
+        <link href="https://tv.naver.com/v/62409448"/>
+        <updated>2024-10-12T07:17:17.982Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓰리피스 - 피어올라 (3piece - Light up), MBC 241012 방송]]></title>
+        <id>https://tv.naver.com/v/62409040</id>
+        <link href="https://tv.naver.com/v/62409040"/>
+        <updated>2024-10-12T07:17:17.984Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더스틴 - 둥글게 (DUSTIN - Round A Round), MBC 241012 방송]]></title>
+        <id>https://tv.naver.com/v/62408784</id>
+        <link href="https://tv.naver.com/v/62408784"/>
+        <updated>2024-10-12T07:17:17.985Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] FIFTY FIFTY(피프티피프티) – SOS | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/62394382</id>
@@ -40,40 +75,5 @@
         <link href="https://tv.naver.com/v/62184109"/>
         <updated>2024-10-09T07:19:28.039Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2NE1.zip 📂 Fire부터 DO YOU LOVE ME까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/62155485</id>
-        <link href="https://tv.naver.com/v/62155485"/>
-        <updated>2024-10-09T04:23:58.693Z</updated>
-        <content type="html"><![CDATA[56:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KEY(키).zip 📂Forever Yours부터 Pleasure Shop까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/62175382</id>
-        <link href="https://tv.naver.com/v/62175382"/>
-        <updated>2024-10-08T08:26:47.030Z</updated>
-        <content type="html"><![CDATA[32:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] YENA (최예나) – 네모네모 | 쇼! 음악중심 | MBC241005방송]]></title>
-        <id>https://tv.naver.com/v/62101155</id>
-        <link href="https://tv.naver.com/v/62101155"/>
-        <updated>2024-10-07T07:19:59.709Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT WISH YUSHI (엔시티 위시 유우시) – Steady | 쇼! 음악중심 | MBC241005방송]]></title>
-        <id>https://tv.naver.com/v/62103742</id>
-        <link href="https://tv.naver.com/v/62103742"/>
-        <updated>2024-10-07T06:29:56.794Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 이정하 , 10월 첫째 주 음악중심 MC 컷 모음!, MBC 241005 방송]]></title>
-        <id>https://tv.naver.com/v/62099244</id>
-        <link href="https://tv.naver.com/v/62099244"/>
-        <updated>2024-10-07T05:21:02.595Z</updated>
-        <content type="html"><![CDATA[16:11]]></content>
     </entry>
 </feed>
