@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-12T09:21:46.353Z</updated>
+    <updated>2024-10-12T10:19:34.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] YENA (최예나) – 네모네모 | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62416185</id>
+        <link href="https://tv.naver.com/v/62416185"/>
+        <updated>2024-10-12T10:18:57.582Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] XODIAC SING (소디엑 씽) – OUR DAYS | 쇼! 음악중심 | MBC241012방송]]></title>
+        <id>https://tv.naver.com/v/62415585</id>
+        <link href="https://tv.naver.com/v/62415585"/>
+        <updated>2024-10-12T10:18:57.583Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] XODIAC (소디엑) – OUR DAYS | 쇼! 음악중심 | MBC241012방송]]></title>
         <id>https://tv.naver.com/v/62414555</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/62413609"/>
         <updated>2024-10-12T09:21:14.494Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이창섭 - OLD TOWN (LEE CHANG SUB - OLD TOWN), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62412483</id>
-        <link href="https://tv.naver.com/v/62412483"/>
-        <updated>2024-10-12T08:23:30.348Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이비식스 - NVKED (AB6IX - NVKED), MBC 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62412192</id>
-        <link href="https://tv.naver.com/v/62412192"/>
-        <updated>2024-10-12T08:23:30.350Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
     </entry>
 </feed>
