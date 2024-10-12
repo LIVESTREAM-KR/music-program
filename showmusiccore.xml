@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-11T23:19:45.284Z</updated>
+    <updated>2024-10-12T01:27:02.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] FIFTY FIFTY(피프티피프티) – SOS | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/62394382</id>
+        <link href="https://tv.naver.com/v/62394382"/>
+        <updated>2024-10-12T01:26:29.114Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] YOUNGTAK.zip 📂 SuperSuper부터 찐이야까지
  | Show! MusicCore]]></title>
@@ -68,12 +75,5 @@
         <link href="https://tv.naver.com/v/62099244"/>
         <updated>2024-10-07T05:21:02.595Z</updated>
         <content type="html"><![CDATA[16:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] HWASA.zip 📂 멍청이부터 NA까지  | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/61988066</id>
-        <link href="https://tv.naver.com/v/61988066"/>
-        <updated>2024-10-06T06:26:41.376Z</updated>
-        <content type="html"><![CDATA[14:53]]></content>
     </entry>
 </feed>
