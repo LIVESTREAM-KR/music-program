@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-14T04:25:00.799Z</updated>
+    <updated>2024-10-14T05:21:05.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 YENA(최예나) X 이정하 , 10월 둘째 주 음악중심 MC 컷 모음!, MBC 241012 방송]]></title>
+        <id>https://tv.naver.com/v/62493859</id>
+        <link href="https://tv.naver.com/v/62493859"/>
+        <updated>2024-10-14T05:20:29.283Z</updated>
+        <content type="html"><![CDATA[12:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] YENA (최예나) – 네모네모 | 쇼! 음악중심 | MBC241012방송]]></title>
         <id>https://tv.naver.com/v/62416185</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62413875"/>
         <updated>2024-10-12T09:21:14.493Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] YENA (최예나) – 그건 사랑이었다고 FullCam | 쇼! 음악중심 | MBC241012방송]]></title>
-        <id>https://tv.naver.com/v/62413609</id>
-        <link href="https://tv.naver.com/v/62413609"/>
-        <updated>2024-10-12T09:21:14.494Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
