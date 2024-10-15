@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-15T11:17:56.277Z</updated>
+    <updated>2024-10-15T12:40:43.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[YENA(최예나)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/62594860</id>
+        <link href="https://tv.naver.com/v/62594860"/>
+        <updated>2024-10-15T12:40:18.860Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['컴백 인터뷰' 박재범 (Jay Park) | Mnet 241010 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/62309348</id>
         <link href="https://tv.naver.com/v/62309348"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/62305024"/>
         <updated>2024-10-10T10:21:37.258Z</updated>
         <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHIB - 배로 (Rush of Joy) | Mnet 241010 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/62304978</id>
-        <link href="https://tv.naver.com/v/62304978"/>
-        <updated>2024-10-10T10:21:37.259Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EPEX, Youth2Youth (이펙스, 청춘에게) [THE SHOW 가을소풍 in 금산 241015] (더쇼)]]></title>
