@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-15T01:37:49.198Z</updated>
+    <updated>2024-10-15T02:53:32.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#복면가왕] 😳가면만 두부인 게 아니라 성격도 두부😳 그 자체인 가수 박현규의 《고백》 《제발》 | #브로맨스 #박현규 MBC241013방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/62496784</id>
+        <link href="https://tv.naver.com/v/62496784"/>
+        <updated>2024-10-15T02:53:32.075Z</updated>
+        <content type="html"><![CDATA[17:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[＜가을 가왕은 우리의 것🍂 굳건한 가왕의 자리를 뺏으러 온 최강의 실력자들🔥＞ 복면가왕 470회 예고, MBC 241020 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/62458403</id>
         <link href="https://tv.naver.com/v/62458403"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/62456735"/>
         <updated>2024-10-13T10:20:37.514Z</updated>
         <content type="html"><![CDATA[01:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아주 유명한 러브 스토리의 주인공?!💗 '자판기'의 지인 소향이 주는 힌트, MBC 241013 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/62456554</id>
-        <link href="https://tv.naver.com/v/62456554"/>
-        <updated>2024-10-13T10:20:37.516Z</updated>
-        <content type="html"><![CDATA[02:05]]></content>
     </entry>
 </feed>
