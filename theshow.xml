@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-10-15T08:28:26.415Z</updated>
+    <updated>2024-10-15T09:22:33.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1000degrees, So obvious (1000˚(천도), 티나게) [THE SHOW 가을소풍 in 금산 241015]]]></title>
+        <id>https://tv.naver.com/v/62584217</id>
+        <link href="https://tv.naver.com/v/62584217"/>
+        <updated>2024-10-15T09:22:12.717Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[365회 금산특집 예고]]></title>
         <id>https://tv.naver.com/v/62348769</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/61412307"/>
         <updated>2024-09-24T11:16:57.435Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VANNER - I don't think that I like her (cover.) (배너, I don't think that I like her (cover.)) [THE S]]></title>
-        <id>https://tv.naver.com/v/61412300</id>
-        <link href="https://tv.naver.com/v/61412300"/>
-        <updated>2024-09-24T11:16:57.435Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
