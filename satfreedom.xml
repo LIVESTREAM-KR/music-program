@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-10-16T12:39:57.930Z</updated>
+    <updated>2024-10-16T13:28:02.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/62419876"/>
         <updated>2024-10-12T12:36:30.651Z</updated>
         <content type="html"><![CDATA[00:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크라잉넛 - 그대에게 | KBS 241012 방송]]></title>
+        <id>https://tv.naver.com/v/62419878</id>
+        <link href="https://tv.naver.com/v/62419878"/>
+        <updated>2024-10-16T13:27:55.656Z</updated>
+        <content type="html"><![CDATA[07:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마왕 페스티벌 다시 시작?! 투표도 까먹을 무대의 열기!!🎇 | KBS 241012 방송]]></title>
@@ -41,6 +48,13 @@
         <content type="html"><![CDATA[03:58]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[감정이입 제대로 된 목소리🤩 시간을 다시 걷는 무대 | KBS 241012 방송]]></title>
+        <id>https://tv.naver.com/v/62418429</id>
+        <link href="https://tv.naver.com/v/62418429"/>
+        <updated>2024-10-16T13:27:55.661Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[안신애 - 날아라 병아리 | KBS 241012 방송]]></title>
         <id>https://tv.naver.com/v/62418109</id>
         <link href="https://tv.naver.com/v/62418109"/>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/62417974"/>
         <updated>2024-10-14T05:20:58.779Z</updated>
         <content type="html"><![CDATA[04:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르테나 - 슬픈 표정 하지 말아요 | KBS 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62417636</id>
-        <link href="https://tv.naver.com/v/62417636"/>
-        <updated>2024-10-14T05:20:58.780Z</updated>
-        <content type="html"><![CDATA[06:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과거 아기천사였던 마왕?! 완전체 포르테나의 선곡은?🎼 | KBS 241012 방송]]></title>
-        <id>https://tv.naver.com/v/62417493</id>
-        <link href="https://tv.naver.com/v/62417493"/>
-        <updated>2024-10-14T05:20:58.781Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
