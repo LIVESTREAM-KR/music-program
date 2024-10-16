@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-16T05:20:58.638Z</updated>
+    <updated>2024-10-16T06:28:52.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] MAMAMOO Solo.zip 📂 Show! Music Core MAMAMOO Solo Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/62553732</id>
+        <link href="https://tv.naver.com/v/62553732"/>
+        <updated>2024-10-16T06:28:16.502Z</updated>
+        <content type="html"><![CDATA[47:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 YENA(최예나) X 이정하 , 10월 둘째 주 음악중심 MC 컷 모음!, MBC 241012 방송]]></title>
         <id>https://tv.naver.com/v/62493859</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62413877"/>
         <updated>2024-10-12T09:21:14.492Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] YENA (최예나) –그건 사랑이었다고 FanCam | 쇼! 음악중심 | MBC241012방송]]></title>
-        <id>https://tv.naver.com/v/62413875</id>
-        <link href="https://tv.naver.com/v/62413875"/>
-        <updated>2024-10-12T09:21:14.493Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
