@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-17T04:24:59.916Z</updated>
+    <updated>2024-10-17T05:20:49.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AKMU(악뮤).zip 📂어떻게 이별까지 사랑하겠어, 널 사랑하는 거지부터 Love Lee까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/62643824</id>
+        <link href="https://tv.naver.com/v/62643824"/>
+        <updated>2024-10-17T05:20:14.944Z</updated>
+        <content type="html"><![CDATA[13:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 데뷔 1000일이라 더욱 스페셜했던 음중 몌나💛 천년돌 예나랑 지구미랑 천년만년 함께하기?🐥 #최예나 #YENA 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/62659614</id>
         <link href="https://tv.naver.com/v/62659614"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/62413883"/>
         <updated>2024-10-12T09:21:14.490Z</updated>
         <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] LEE CHANGSUB (이창섭) – OLD TOWN FullCam | 쇼! 음악중심 | MBC241012방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/62413882</id>
-        <link href="https://tv.naver.com/v/62413882"/>
-        <updated>2024-10-12T09:21:14.491Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SUPER JUNIOR-D&E - Go High | SBS 241006 방송 (인기가요)]]></title>
