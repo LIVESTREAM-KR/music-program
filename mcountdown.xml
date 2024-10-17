@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-10-17T09:22:25.959Z</updated>
+    <updated>2024-10-17T10:21:55.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' KISS OF LIFE (키스오브라이프) | Mnet 241017 방송]]></title>
+        <id>https://tv.naver.com/v/62732657</id>
+        <link href="https://tv.naver.com/v/62732657"/>
+        <updated>2024-10-17T10:21:31.004Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 (The Wind) - 반가워, 나의 첫사랑 | Mnet 241017 방송]]></title>
+        <id>https://tv.naver.com/v/62732652</id>
+        <link href="https://tv.naver.com/v/62732652"/>
+        <updated>2024-10-17T10:21:31.004Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['대한민국 N년차 챌린지' with 더윈드(The Wind) | Mnet 241017 방송]]></title>
+        <id>https://tv.naver.com/v/62731819</id>
+        <link href="https://tv.naver.com/v/62731819"/>
+        <updated>2024-10-17T10:21:31.005Z</updated>
+        <content type="html"><![CDATA[01:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[82MAJOR - 혀끝(Stuck) | Mnet 241017 방송]]></title>
+        <id>https://tv.naver.com/v/62730976</id>
+        <link href="https://tv.naver.com/v/62730976"/>
+        <updated>2024-10-17T10:21:31.005Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHIB - 배로 (Rush of Joy) | Mnet 241017 방송]]></title>
+        <id>https://tv.naver.com/v/62730588</id>
+        <link href="https://tv.naver.com/v/62730588"/>
+        <updated>2024-10-17T10:21:31.007Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YENA(최예나)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/62594860</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/62305709"/>
         <updated>2024-10-10T11:17:55.416Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YENA(최예나) - 네모네모 | Mnet 241010 방송]]></title>
-        <id>https://tv.naver.com/v/62305707</id>
-        <link href="https://tv.naver.com/v/62305707"/>
-        <updated>2024-10-10T11:17:55.417Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VANNER (배너) - Automatic | Mnet 241010 방송]]></title>
-        <id>https://tv.naver.com/v/62305662</id>
-        <link href="https://tv.naver.com/v/62305662"/>
-        <updated>2024-10-10T11:17:55.420Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드 (The Wind) - 반가워, 나의 첫사랑 | Mnet 241010 방송]]></title>
-        <id>https://tv.naver.com/v/62305214</id>
-        <link href="https://tv.naver.com/v/62305214"/>
-        <updated>2024-10-10T10:21:37.256Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드 (The Wind) - 친구 사인 아닌 것 같아 | Mnet 241010 방송]]></title>
-        <id>https://tv.naver.com/v/62305212</id>
-        <link href="https://tv.naver.com/v/62305212"/>
-        <updated>2024-10-10T10:21:37.256Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' MC 샤인멍또캣 𝘷𝘴 VANNER  𝘷𝘴 FIFTY FIFTY ! 오늘은 내가 컬링 왕👑 | Mnet 241010 방송]]></title>
-        <id>https://tv.naver.com/v/62305024</id>
-        <link href="https://tv.naver.com/v/62305024"/>
-        <updated>2024-10-10T10:21:37.258Z</updated>
-        <content type="html"><![CDATA[04:45]]></content>
     </entry>
 </feed>
