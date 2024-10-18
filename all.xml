@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-18T08:27:03.543Z</updated>
+    <updated>2024-10-18T09:22:40.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Automatic - VANNER | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62801997</id>
+        <link href="https://tv.naver.com/v/62801997"/>
+        <updated>2024-10-18T09:21:58.389Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Girl - EPEX (이펙스) | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62801980</id>
+        <link href="https://tv.naver.com/v/62801980"/>
+        <updated>2024-10-18T09:21:58.395Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기억사탕 - Billlie | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62801978</id>
+        <link href="https://tv.naver.com/v/62801978"/>
+        <updated>2024-10-18T09:21:58.396Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혀끝(Stuck) - 82MAJOR | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62800709</id>
+        <link href="https://tv.naver.com/v/62800709"/>
+        <updated>2024-10-18T09:21:58.399Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배로 (Rush of Joy) - WHIB | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62800705</id>
+        <link href="https://tv.naver.com/v/62800705"/>
+        <updated>2024-10-18T09:21:58.405Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WaveWay - SAY MY NAME | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62800688</id>
+        <link href="https://tv.naver.com/v/62800688"/>
+        <updated>2024-10-18T09:21:58.406Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[똑똑(Feat. 문수진) - Yang Kyle | KBS 241018 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/62800685</id>
+        <link href="https://tv.naver.com/v/62800685"/>
+        <updated>2024-10-18T09:21:58.407Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call Me Back - 노매드 | KBS 241018 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/62799867</id>
@@ -24,55 +73,6 @@
         <link href="https://tv.naver.com/v/62799835"/>
         <updated>2024-10-18T08:26:22.812Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너에게로 가는 길이 너무 어려워 - BEWAVE | KBS 241018 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/62799824</id>
-        <link href="https://tv.naver.com/v/62799824"/>
-        <updated>2024-10-18T08:26:22.813Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/61963167</id>
-        <link href="https://tv.naver.com/v/61963167"/>
-        <updated>2024-10-04T10:21:50.673Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go High - SUPER JUNIOR-D&E | KBS 241004 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/61962923</id>
-        <link href="https://tv.naver.com/v/61962923"/>
-        <updated>2024-10-04T10:21:50.674Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pleasure Shop - 키 | KBS 241004 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/61962700</id>
-        <link href="https://tv.naver.com/v/61962700"/>
-        <updated>2024-10-04T10:21:50.676Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[33 - 이창섭 | KBS 241004 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/61962695</id>
-        <link href="https://tv.naver.com/v/61962695"/>
-        <updated>2024-10-04T10:21:50.678Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네모네모 - YENA(최예나) | KBS 241004 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/61962436</id>
-        <link href="https://tv.naver.com/v/61962436"/>
-        <updated>2024-10-04T10:21:50.679Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설탕 - YENA(최예나) | KBS 241004 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/61962427</id>
-        <link href="https://tv.naver.com/v/61962427"/>
-        <updated>2024-10-04T10:21:50.681Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NCT WISH (엔시티 위시) – Steady | 쇼! 음악중심 (쇼! 음악중심)]]></title>
