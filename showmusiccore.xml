@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-18T07:20:07.380Z</updated>
+    <updated>2024-10-18T08:27:03.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NCT WISH (엔시티 위시) – Steady | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/62795149</id>
+        <link href="https://tv.naver.com/v/62795149"/>
+        <updated>2024-10-18T08:26:30.126Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AKMU(악뮤).zip 📂어떻게 이별까지 사랑하겠어, 널 사랑하는 거지부터 Love Lee까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/62643824</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62414549"/>
         <updated>2024-10-12T09:21:14.488Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] LEE CHANGSUB (이창섭) – OLD TOWN FanCam | 쇼! 음악중심 | MBC241012방송]]></title>
-        <id>https://tv.naver.com/v/62413883</id>
-        <link href="https://tv.naver.com/v/62413883"/>
-        <updated>2024-10-12T09:21:14.490Z</updated>
-        <content type="html"><![CDATA[04:18]]></content>
     </entry>
 </feed>

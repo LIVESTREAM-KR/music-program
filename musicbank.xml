@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-10-18T07:20:07.384Z</updated>
+    <updated>2024-10-18T08:27:03.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Call Me Back - 노매드 | KBS 241018 방송]]></title>
+        <id>https://tv.naver.com/v/62799867</id>
+        <link href="https://tv.naver.com/v/62799867"/>
+        <updated>2024-10-18T08:26:22.808Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DESERVED - ONE PACT | KBS 241018 방송]]></title>
+        <id>https://tv.naver.com/v/62799841</id>
+        <link href="https://tv.naver.com/v/62799841"/>
+        <updated>2024-10-18T08:26:22.811Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러브스토리(feat. 김지현) - 신유 | KBS 241018 방송]]></title>
+        <id>https://tv.naver.com/v/62799835</id>
+        <link href="https://tv.naver.com/v/62799835"/>
+        <updated>2024-10-18T08:26:22.812Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너에게로 가는 길이 너무 어려워 - BEWAVE | KBS 241018 방송]]></title>
+        <id>https://tv.naver.com/v/62799824</id>
+        <link href="https://tv.naver.com/v/62799824"/>
+        <updated>2024-10-18T08:26:22.813Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steady - NCT WISH  | KBS 241004 방송]]></title>
         <id>https://tv.naver.com/v/61963167</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/61962427"/>
         <updated>2024-10-04T10:21:50.681Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAD SONG - P1Harmony | KBS 241004 방송]]></title>
-        <id>https://tv.naver.com/v/61962424</id>
-        <link href="https://tv.naver.com/v/61962424"/>
-        <updated>2024-10-04T10:21:50.682Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic - VANNER | KBS 241004 방송]]></title>
-        <id>https://tv.naver.com/v/61962421</id>
-        <link href="https://tv.naver.com/v/61962421"/>
-        <updated>2024-10-04T10:21:50.684Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흔들리지 않고 피는 꽃이 어딨어 - 미미로즈 | KBS 241004 방송]]></title>
-        <id>https://tv.naver.com/v/61961765</id>
-        <link href="https://tv.naver.com/v/61961765"/>
-        <updated>2024-10-04T09:21:14.719Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOS - FIFTY FIFTY | KBS 241004 방송]]></title>
-        <id>https://tv.naver.com/v/61961532</id>
-        <link href="https://tv.naver.com/v/61961532"/>
-        <updated>2024-10-04T09:21:14.719Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
