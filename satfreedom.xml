@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-10-19T07:19:47.548Z</updated>
+    <updated>2024-10-19T08:25:01.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -73,6 +73,6 @@
         <id>https://tv.naver.com/v/62417974</id>
         <link href="https://tv.naver.com/v/62417974"/>
         <updated>2024-10-14T05:20:58.779Z</updated>
-        <content type="html"><![CDATA[04:57]]></content>
+        <content type="html"><![CDATA[04:59]]></content>
     </entry>
 </feed>
