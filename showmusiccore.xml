@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-21T06:30:40.207Z</updated>
+    <updated>2024-10-21T07:20:54.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN HOSHI (세븐틴 호시) – LOVE, MONEY, FAME | 쇼! 음악중심 | MBC241019방송]]></title>
+        <id>https://tv.naver.com/v/62927463</id>
+        <link href="https://tv.naver.com/v/62927463"/>
+        <updated>2024-10-21T07:20:17.136Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN S.COUPS (세븐틴 에스쿱스) – LOVE, MONEY, FAME | 쇼! 음악중심 | MBC241019방송]]></title>
+        <id>https://tv.naver.com/v/62926894</id>
+        <link href="https://tv.naver.com/v/62926894"/>
+        <updated>2024-10-21T07:20:17.136Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 예지(ITZY) X 이정하 , 10월 셋째 주 음악중심 MC 컷 모음!, MBC 241019 방송]]></title>
         <id>https://tv.naver.com/v/62912063</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/62849665"/>
         <updated>2024-10-19T10:20:11.321Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Billlie TSUKI (빌리 츠키) – 기억사탕 FanCam | 쇼! 음악중심 | MBC241019방송]]></title>
-        <id>https://tv.naver.com/v/62849662</id>
-        <link href="https://tv.naver.com/v/62849662"/>
-        <updated>2024-10-19T10:20:11.323Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Billlie MOON SUA (빌리 문수아) – 기억사탕 FanCam | 쇼! 음악중심 | MBC241019방송]]></title>
-        <id>https://tv.naver.com/v/62849660</id>
-        <link href="https://tv.naver.com/v/62849660"/>
-        <updated>2024-10-19T10:20:11.325Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
