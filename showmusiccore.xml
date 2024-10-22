@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-22T01:37:46.926Z</updated>
+    <updated>2024-10-22T02:53:28.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] JD1 (제이디원) – 책임져 | 쇼! 음악중심 | MBC241019방송]]></title>
+        <id>https://tv.naver.com/v/62938435</id>
+        <link href="https://tv.naver.com/v/62938435"/>
+        <updated>2024-10-22T02:52:53.299Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ITZY YUNA (있지 유나) – GOLD | 쇼! 음악중심 | MBC241019방송]]></title>
         <id>https://tv.naver.com/v/62938999</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62850149"/>
         <updated>2024-10-19T10:20:11.315Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Xdinary Heroes GAON (엑스디너리 히어로즈 가온) – Night before the end FanCam | 쇼! 음악중심 | MBC241019방송]]></title>
-        <id>https://tv.naver.com/v/62850148</id>
-        <link href="https://tv.naver.com/v/62850148"/>
-        <updated>2024-10-19T10:20:11.315Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>
