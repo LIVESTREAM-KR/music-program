@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-10-22T10:21:57.303Z</updated>
+    <updated>2024-10-22T11:17:48.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ITZY가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/63006294</id>
+        <link href="https://tv.naver.com/v/63006294"/>
+        <updated>2024-10-22T11:17:26.689Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 세븐틴 (SEVENTEEN) - LOVE, MONEY, FAME (feat. DJ Khaled) | Mnet 241017 방송]]></title>
         <id>https://tv.naver.com/v/62739717</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/62736851"/>
         <updated>2024-10-17T12:40:00.446Z</updated>
         <content type="html"><![CDATA[01:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' ITZY (있지) (with MIDZY♥︎) | Mnet 241017 방송]]></title>
-        <id>https://tv.naver.com/v/62734882</id>
-        <link href="https://tv.naver.com/v/62734882"/>
-        <updated>2024-10-17T11:17:51.711Z</updated>
-        <content type="html"><![CDATA[04:44]]></content>
     </entry>
 </feed>
