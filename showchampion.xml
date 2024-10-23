@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-23T09:22:14.067Z</updated>
+    <updated>2024-10-23T10:21:46.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'Xdinary Heroes' 나!왔어✋🏻 l 241023]]></title>
+        <id>https://tv.naver.com/v/63076172</id>
+        <link href="https://tv.naver.com/v/63076172"/>
+        <updated>2024-10-23T10:21:34.570Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최초 공개] 키스오브라이프(KISS OF LIFE) - Igloo l 241023]]></title>
+        <id>https://tv.naver.com/v/63074723</id>
+        <link href="https://tv.naver.com/v/63074723"/>
+        <updated>2024-10-23T10:21:34.570Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 엑스디너리 히어로즈(Xdinary Heroes) - Night before the end l 241023]]></title>
         <id>https://tv.naver.com/v/63073552</id>
@@ -41,13 +55,6 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[COMEBACK] 키스오브라이프(KISS OF LIFE) - Get Loud l 241023]]></title>
-        <id>https://tv.naver.com/v/63073036</id>
-        <link href="https://tv.naver.com/v/63073036"/>
-        <updated>2024-10-23T09:22:02.877Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'Billlie' 나!왔어✋🏻 l 241023]]></title>
         <id>https://tv.naver.com/v/63072503</id>
         <link href="https://tv.naver.com/v/63072503"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63071992"/>
         <updated>2024-10-23T09:22:02.881Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더윈드(The Wind) - 반가워, 나의 첫사랑 l 241023]]></title>
-        <id>https://tv.naver.com/v/63071990</id>
-        <link href="https://tv.naver.com/v/63071990"/>
-        <updated>2024-10-23T09:22:02.882Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
