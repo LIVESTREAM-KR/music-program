@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-23T07:20:35.616Z</updated>
+    <updated>2024-10-23T08:27:33.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MC석 코너] 친구같은 컴백 인터뷰! 'KISS OF LIFE' 나!왔어✋🏻 l 241023]]></title>
+        <id>https://tv.naver.com/v/63069958</id>
+        <link href="https://tv.naver.com/v/63069958"/>
+        <updated>2024-10-23T08:27:21.300Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휘브(WHIB) - 배로 (Rush of Joy) l 241023]]></title>
+        <id>https://tv.naver.com/v/63069515</id>
+        <link href="https://tv.naver.com/v/63069515"/>
+        <updated>2024-10-23T08:27:21.302Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비웨이브(BEWAVE) - 너에게로 가는 길이 너무 어려워 l 241023]]></title>
+        <id>https://tv.naver.com/v/63069098</id>
+        <link href="https://tv.naver.com/v/63069098"/>
+        <updated>2024-10-23T08:27:21.302Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] Even한 무대로 돌아온 쇼챔🤵🏻🍽 쇼챔 생존입니다.]]></title>
         <id>https://tv.naver.com/v/62921117</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/62276817"/>
         <updated>2024-10-10T08:26:18.211Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] POW(파우) - Sunset | Show Champion | EP.536 | 241009]]></title>
-        <id>https://tv.naver.com/v/62278380</id>
-        <link href="https://tv.naver.com/v/62278380"/>
-        <updated>2024-10-10T08:26:18.212Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] POW JUNGBIN(파우 정빈) - Sunset | Show Champion | EP.536 | 241009]]></title>
-        <id>https://tv.naver.com/v/62278379</id>
-        <link href="https://tv.naver.com/v/62278379"/>
-        <updated>2024-10-10T08:26:18.213Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] POW YORCH(파우 요치) - Sunset | Show Champion | EP.536 | 241009]]></title>
-        <id>https://tv.naver.com/v/62277576</id>
-        <link href="https://tv.naver.com/v/62277576"/>
-        <updated>2024-10-10T08:26:18.214Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
