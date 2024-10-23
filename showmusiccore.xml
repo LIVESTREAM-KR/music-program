@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-23T06:29:41.530Z</updated>
+    <updated>2024-10-23T07:20:35.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] KISSOFLIFE.zip 📂 Shhh(쉿)부터 Get Loud까지
+ | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/63056715</id>
+        <link href="https://tv.naver.com/v/63056715"/>
+        <updated>2024-10-23T07:19:59.941Z</updated>
+        <content type="html"><![CDATA[14:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] JD1 (제이디원) – 책임져 | 쇼! 음악중심 | MBC241019방송]]></title>
         <id>https://tv.naver.com/v/62938435</id>
@@ -67,12 +75,5 @@
         <link href="https://tv.naver.com/v/62850150"/>
         <updated>2024-10-19T10:20:11.315Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] YENA (최예나) – 네모네모 FullCam | 쇼! 음악중심 | MBC241019방송]]></title>
-        <id>https://tv.naver.com/v/62850149</id>
-        <link href="https://tv.naver.com/v/62850149"/>
-        <updated>2024-10-19T10:20:11.315Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
