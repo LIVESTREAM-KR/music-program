@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-24T06:29:42.619Z</updated>
+    <updated>2024-10-24T07:19:58.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10월 4주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.537 | 241023]]></title>
+        <id>https://tv.naver.com/v/63134056</id>
+        <link href="https://tv.naver.com/v/63134056"/>
+        <updated>2024-10-24T07:19:47.016Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Xdinary Heroes GAON(엑스디너리 히어로즈 가온) - Night before the end | Show Champion|EP.537|241023]]></title>
         <id>https://tv.naver.com/v/63086318</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63077876"/>
         <updated>2024-10-23T13:27:47.495Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX(이펙스) - My Girl | Show Champion | EP.537 | 241023]]></title>
-        <id>https://tv.naver.com/v/63071976</id>
-        <link href="https://tv.naver.com/v/63071976"/>
-        <updated>2024-10-23T13:27:47.496Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
