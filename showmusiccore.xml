@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-24T07:19:58.020Z</updated>
+    <updated>2024-10-24T08:27:23.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 세븐틴이 사랑, 돈, 명예보다 원하는 것은? [정답 : 캐럿🥕] #SEVENTEEN 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/63073034</id>
+        <link href="https://tv.naver.com/v/63073034"/>
+        <updated>2024-10-24T08:26:51.118Z</updated>
+        <content type="html"><![CDATA[09:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ITZY (있지).zip 📂 DALLA DALLA(달라달라)부터 GOLD까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/63062708</id>
@@ -68,12 +75,5 @@
         <link href="https://tv.naver.com/v/62926894"/>
         <updated>2024-10-21T07:20:17.136Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 예지(ITZY) X 이정하 , 10월 셋째 주 음악중심 MC 컷 모음!, MBC 241019 방송]]></title>
-        <id>https://tv.naver.com/v/62912063</id>
-        <link href="https://tv.naver.com/v/62912063"/>
-        <updated>2024-10-21T02:56:08.585Z</updated>
-        <content type="html"><![CDATA[18:30]]></content>
     </entry>
 </feed>
