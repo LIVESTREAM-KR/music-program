@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-25T09:22:46.655Z</updated>
+    <updated>2024-10-25T10:22:23.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Night before the end - Xdinary Heroes | KBS 241018 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SEVENTEEN.zip 📂 아낀다부터 LOVE, MONEY, FAME까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/63209300</id>
+        <link href="https://tv.naver.com/v/63209300"/>
+        <updated>2024-10-25T10:21:51.788Z</updated>
+        <content type="html"><![CDATA[54:46]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] YENA (최예나) – 네모네모 | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/63073548</id>
         <link href="https://tv.naver.com/v/63073548"/>
@@ -137,13 +144,6 @@
         <link href="https://tv.naver.com/v/62938733"/>
         <updated>2024-10-21T10:24:03.328Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ITZY LIA (있지 리아) – GOLD | 쇼! 음악중심 | MBC241019방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/62938731</id>
-        <link href="https://tv.naver.com/v/62938731"/>
-        <updated>2024-10-21T10:24:03.329Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SUPER JUNIOR-D&E - Go High | SBS 241006 방송 (인기가요)]]></title>
