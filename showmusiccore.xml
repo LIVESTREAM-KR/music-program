@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-25T06:29:06.563Z</updated>
+    <updated>2024-10-25T07:20:38.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] YENA (최예나) – 네모네모 | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/63073548</id>
+        <link href="https://tv.naver.com/v/63073548"/>
+        <updated>2024-10-25T07:20:03.482Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 빌런즈 보고 싶었어요...🩷믿고 듣는 밴드맨들 컴백하셨다🥰 #엑스디너리히어로즈 #XdinaryHeroes 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/63150915</id>
@@ -68,12 +75,5 @@
         <link href="https://tv.naver.com/v/62938731"/>
         <updated>2024-10-21T10:24:03.329Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN HOSHI (세븐틴 호시) – LOVE, MONEY, FAME | 쇼! 음악중심 | MBC241019방송]]></title>
-        <id>https://tv.naver.com/v/62927463</id>
-        <link href="https://tv.naver.com/v/62927463"/>
-        <updated>2024-10-21T07:20:17.136Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
