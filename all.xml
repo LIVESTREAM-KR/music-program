@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-25T07:20:38.992Z</updated>
+    <updated>2024-10-25T08:27:37.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Night before the end - Xdinary Heroes | KBS 241018 방송 (뮤직뱅크)]]></title>
@@ -356,6 +356,13 @@
         <content type="html"><![CDATA[02:36]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 Billlie(빌리)의 <기억사탕>♬ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/63204239</id>
+        <link href="https://tv.naver.com/v/63204239"/>
+        <updated>2024-10-25T08:27:25.000Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] KISS OF LIFE BELLE(키스오브라이프 벨) - Igloo | Show Champion | EP.537 | 241023 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/63147813</id>
         <link href="https://tv.naver.com/v/63147813"/>
@@ -417,13 +424,6 @@
         <link href="https://tv.naver.com/v/63138647"/>
         <updated>2024-10-24T11:17:37.119Z</updated>
         <content type="html"><![CDATA[02:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie(빌리) - trampoline | Show Champion | EP.537 | 241023 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/63137168</id>
-        <link href="https://tv.naver.com/v/63137168"/>
-        <updated>2024-10-24T11:17:37.121Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[직속 선배 간미연의 무대 감상평💓 떡 챙겨주는 엄마 같은 언니! | KBS 241019 방송 (불후의 명곡)]]></title>

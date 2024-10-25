@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-25T07:20:38.988Z</updated>
+    <updated>2024-10-25T08:27:37.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 Billlie(빌리)의 <기억사탕>♬]]></title>
+        <id>https://tv.naver.com/v/63204239</id>
+        <link href="https://tv.naver.com/v/63204239"/>
+        <updated>2024-10-25T08:27:25.000Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] KISS OF LIFE BELLE(키스오브라이프 벨) - Igloo | Show Champion | EP.537 | 241023]]></title>
         <id>https://tv.naver.com/v/63147813</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63138647"/>
         <updated>2024-10-24T11:17:37.119Z</updated>
         <content type="html"><![CDATA[02:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Billlie(빌리) - trampoline | Show Champion | EP.537 | 241023]]></title>
-        <id>https://tv.naver.com/v/63137168</id>
-        <link href="https://tv.naver.com/v/63137168"/>
-        <updated>2024-10-24T11:17:37.121Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
