@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-10-25T11:17:55.493Z</updated>
+    <updated>2024-10-25T12:40:04.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bittersweet - xikers (싸이커스) | KBS 241025 방송]]></title>
-        <id>https://tv.naver.com/v/63211588</id>
-        <link href="https://tv.naver.com/v/63211588"/>
-        <updated>2024-10-25T11:17:15.736Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
+        <title type="html"><![CDATA[ON MY BIKE - 퍼플키스 (PURPLE KISS) | KBS 241025 방송]]></title>
+        <id>https://tv.naver.com/v/63211592</id>
+        <link href="https://tv.naver.com/v/63211592"/>
+        <updated>2024-10-25T12:39:19.125Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Love or Die - CRAVITY | KBS 241025 방송]]></title>
-        <id>https://tv.naver.com/v/63211585</id>
-        <link href="https://tv.naver.com/v/63211585"/>
-        <updated>2024-10-25T11:17:15.737Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
+        <title type="html"><![CDATA[He + She = We - 앰퍼샌드원 (AMPERS&ONE) | KBS 241025 방송]]></title>
+        <id>https://tv.naver.com/v/63211589</id>
+        <link href="https://tv.naver.com/v/63211589"/>
+        <updated>2024-10-25T12:39:19.126Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
