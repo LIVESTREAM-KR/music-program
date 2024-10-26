@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-10-26T11:18:16.895Z</updated>
+    <updated>2024-10-26T12:37:00.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 새로운 스타 탄생의 예고!✨ 청춘마이크 특집🎙 | KBS 241026 방송]]></title>
+        <id>https://tv.naver.com/v/63253214</id>
+        <link href="https://tv.naver.com/v/63253214"/>
+        <updated>2024-10-26T12:36:53.804Z</updated>
+        <content type="html"><![CDATA[00:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인터뷰] 불후의 명곡 678회 ＜2024 화려한 귀환 특집 2부＞ 우승자 ⭐김종서⭐ | KBS 방송]]></title>
         <id>https://tv.naver.com/v/63252776</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63251918"/>
         <updated>2024-10-26T11:18:10.534Z</updated>
         <content type="html"><![CDATA[01:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김장훈 표 암탉 창법🐔 완벽 추억 소환! 왁스의 〈오빠〉 | KBS 241026 방송]]></title>
-        <id>https://tv.naver.com/v/63251746</id>
-        <link href="https://tv.naver.com/v/63251746"/>
-        <updated>2024-10-26T11:18:10.535Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
     </entry>
 </feed>
