@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-28T01:41:13.903Z</updated>
+    <updated>2024-10-28T02:57:42.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Electric Shock - 강다니엘 | KBS 241025 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 윈터(aespa) X 이정하, 10월 넷째 주 음악중심 MC 컷 모음!, MBC 241026 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/63315901</id>
+        <link href="https://tv.naver.com/v/63315901"/>
+        <updated>2024-10-28T02:57:07.081Z</updated>
+        <content type="html"><![CDATA[17:25]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] SAY MY NAME HITOMI (세이마이네임 히토미) – WaveWay FanCam | 쇼! 음악중심 | MBC241026방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/63249641</id>
         <link href="https://tv.naver.com/v/63249641"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/63248908"/>
         <updated>2024-10-26T10:21:25.591Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ITZY LIA (있지 리아) – GOLD FanCam | 쇼! 음악중심 | MBC241026방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/63248907</id>
-        <link href="https://tv.naver.com/v/63248907"/>
-        <updated>2024-10-26T10:21:25.592Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ITZY - GOLD | SBS 241027 방송 (인기가요)]]></title>
