@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-28T08:27:56.312Z</updated>
+    <updated>2024-10-28T09:23:25.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Electric Shock - 강다니엘 | KBS 241025 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[02:36]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 쇼챔 본방이라 보고 연락할게요 우리 MC들 모음집에 집중해야해서 👀💓 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/63335025</id>
+        <link href="https://tv.naver.com/v/63335025"/>
+        <updated>2024-10-28T09:23:11.836Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1분으로 모아보는 KISS OF LIFE(키스오브라이프)의 <Get Loud>♬ (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/63204336</id>
         <link href="https://tv.naver.com/v/63204336"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/63139396"/>
         <updated>2024-10-24T11:17:37.116Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE JULIE(키스오브라이프 쥴리) - Igloo | Show Champion | EP.537 | 241023 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/63139389</id>
-        <link href="https://tv.naver.com/v/63139389"/>
-        <updated>2024-10-24T11:17:37.117Z</updated>
-        <content type="html"><![CDATA[02:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 새로운 스타 탄생의 예고!✨ 청춘마이크 특집🎙 | KBS 241026 방송 (불후의 명곡)]]></title>
