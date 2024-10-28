@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-28T09:23:25.182Z</updated>
+    <updated>2024-10-28T10:23:19.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING (에스파 닝닝) – Whiplash | 쇼! 음악중심 | MBC241026방송]]></title>
+        <id>https://tv.naver.com/v/63344368</id>
+        <link href="https://tv.naver.com/v/63344368"/>
+        <updated>2024-10-28T10:22:40.734Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa WINTER (에스파 윈터) – Whiplash | 쇼! 음악중심 | MBC241026방송]]></title>
+        <id>https://tv.naver.com/v/63344365</id>
+        <link href="https://tv.naver.com/v/63344365"/>
+        <updated>2024-10-28T10:22:40.734Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa GISELLE (에스파 지젤) – Whiplash | 쇼! 음악중심 | MBC241026방송]]></title>
+        <id>https://tv.naver.com/v/63344362</id>
+        <link href="https://tv.naver.com/v/63344362"/>
+        <updated>2024-10-28T10:22:40.734Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] aespa KARINA (에스파 카리나) – Whiplash | 쇼! 음악중심 | MBC241026방송]]></title>
+        <id>https://tv.naver.com/v/63344361</id>
+        <link href="https://tv.naver.com/v/63344361"/>
+        <updated>2024-10-28T10:22:40.734Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 윈터(aespa) X 이정하, 10월 넷째 주 음악중심 MC 컷 모음!, MBC 241026 방송]]></title>
         <id>https://tv.naver.com/v/63315901</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/63249255"/>
         <updated>2024-10-26T10:21:25.584Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ITZY YEJI (있지 예지) – GOLD FanCam | 쇼! 음악중심 | MBC241026방송]]></title>
-        <id>https://tv.naver.com/v/63249082</id>
-        <link href="https://tv.naver.com/v/63249082"/>
-        <updated>2024-10-26T10:21:25.586Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ITZY (있지) – GOLD FullCam | 쇼! 음악중심 | MBC241026방송]]></title>
-        <id>https://tv.naver.com/v/63248944</id>
-        <link href="https://tv.naver.com/v/63248944"/>
-        <updated>2024-10-26T10:21:25.588Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] tripleS Visionary Vision (트리플에스 비저너리 비전) – Hit the Floor FullCam | 쇼! 음악중심 | MBC241026방송]]></title>
-        <id>https://tv.naver.com/v/63248909</id>
-        <link href="https://tv.naver.com/v/63248909"/>
-        <updated>2024-10-26T10:21:25.590Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ITZY CHAERYEONG (있지 채령) – GOLD FanCam | 쇼! 음악중심 | MBC241026방송]]></title>
-        <id>https://tv.naver.com/v/63248908</id>
-        <link href="https://tv.naver.com/v/63248908"/>
-        <updated>2024-10-26T10:21:25.591Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
