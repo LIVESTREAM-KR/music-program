@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-30T08:29:05.222Z</updated>
+    <updated>2024-10-30T09:22:45.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Electric Shock - 강다니엘 | KBS 241025 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCkpop] ILLIT.zip 📂 Magnetic부터 Cherish까지  | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/63478126</id>
+        <link href="https://tv.naver.com/v/63478126"/>
+        <updated>2024-10-30T09:22:12.323Z</updated>
+        <content type="html"><![CDATA[12:49]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] THE WIND (더윈드) – 반가워, 나의 첫사랑 | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/63416377</id>
         <link href="https://tv.naver.com/v/63416377"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/63401331"/>
         <updated>2024-10-29T06:29:53.311Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING (에스파 닝닝) – Whiplash | 쇼! 음악중심 | MBC241026방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/63344368</id>
-        <link href="https://tv.naver.com/v/63344368"/>
-        <updated>2024-10-28T10:22:40.734Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ITZY - GOLD | SBS 241027 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 Xdinary Heroes(엑스디너리 히어로즈)의 <Night before the end>♬ (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/63480975</id>
+        <link href="https://tv.naver.com/v/63480975"/>
+        <updated>2024-10-30T09:22:33.937Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 쇼챔 본방이라 보고 연락할게요 우리 MC들 모음집에 집중해야해서 👀💓 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/63335025</id>
         <link href="https://tv.naver.com/v/63335025"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/63147494"/>
         <updated>2024-10-24T11:17:37.115Z</updated>
         <content type="html"><![CDATA[02:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE HANEUL(키스오브라이프 하늘) - Igloo | Show Champion | EP.537 | 241023 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/63139396</id>
-        <link href="https://tv.naver.com/v/63139396"/>
-        <updated>2024-10-24T11:17:37.116Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 새로운 스타 탄생의 예고!✨ 청춘마이크 특집🎙 | KBS 241026 방송 (불후의 명곡)]]></title>

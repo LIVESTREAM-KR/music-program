@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-30T08:29:05.215Z</updated>
+    <updated>2024-10-30T09:22:45.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 Xdinary Heroes(엑스디너리 히어로즈)의 <Night before the end>♬]]></title>
+        <id>https://tv.naver.com/v/63480975</id>
+        <link href="https://tv.naver.com/v/63480975"/>
+        <updated>2024-10-30T09:22:33.937Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 쇼챔 본방이라 보고 연락할게요 우리 MC들 모음집에 집중해야해서 👀💓]]></title>
         <id>https://tv.naver.com/v/63335025</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63147494"/>
         <updated>2024-10-24T11:17:37.115Z</updated>
         <content type="html"><![CDATA[02:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE HANEUL(키스오브라이프 하늘) - Igloo | Show Champion | EP.537 | 241023]]></title>
-        <id>https://tv.naver.com/v/63139396</id>
-        <link href="https://tv.naver.com/v/63139396"/>
-        <updated>2024-10-24T11:17:37.116Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
     </entry>
 </feed>

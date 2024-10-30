@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-30T08:29:05.200Z</updated>
+    <updated>2024-10-30T09:22:45.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] ILLIT.zip 📂 Magnetic부터 Cherish까지  | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/63478126</id>
+        <link href="https://tv.naver.com/v/63478126"/>
+        <updated>2024-10-30T09:22:12.323Z</updated>
+        <content type="html"><![CDATA[12:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] THE WIND (더윈드) – 반가워, 나의 첫사랑 | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/63416377</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63401331"/>
         <updated>2024-10-29T06:29:53.311Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING (에스파 닝닝) – Whiplash | 쇼! 음악중심 | MBC241026방송]]></title>
-        <id>https://tv.naver.com/v/63344368</id>
-        <link href="https://tv.naver.com/v/63344368"/>
-        <updated>2024-10-28T10:22:40.734Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
 </feed>
