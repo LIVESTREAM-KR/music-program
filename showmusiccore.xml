@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-10-31T09:22:01.409Z</updated>
+    <updated>2024-10-31T10:22:40.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 뒷목 잡고 쓰러질 만큼 좋은 여자의 악마들 영접하기💥💘] #aespa 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/63558766</id>
+        <link href="https://tv.naver.com/v/63558766"/>
+        <updated>2024-10-31T10:22:05.659Z</updated>
+        <content type="html"><![CDATA[09:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] ILLIT.zip 📂 Magnetic부터 Cherish까지  | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/63478126</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63401331"/>
         <updated>2024-10-29T06:29:53.311Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] aespa NINGNING (에스파 닝닝) – Whiplash | 쇼! 음악중심 | MBC241026방송]]></title>
-        <id>https://tv.naver.com/v/63344368</id>
-        <link href="https://tv.naver.com/v/63344368"/>
-        <updated>2024-10-31T06:28:32.485Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
 </feed>
