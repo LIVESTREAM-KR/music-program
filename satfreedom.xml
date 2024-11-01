@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-11-01T13:27:06.126Z</updated>
+    <updated>2024-11-01T14:20:15.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 다 같이 즐겨 주세요~ 어랑타령👏🏼 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/63636959</id>
+        <link href="https://tv.naver.com/v/63636959"/>
+        <updated>2024-11-01T14:20:08.087Z</updated>
+        <content type="html"><![CDATA[01:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 뮤지컬 배우 X C.I.K 브라스 밴드가 들려주는 Stand By Me📯 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/63636684</id>
+        <link href="https://tv.naver.com/v/63636684"/>
+        <updated>2024-11-01T14:20:08.088Z</updated>
+        <content type="html"><![CDATA[02:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ✨송클레어의 개인기 Time!✨ | KBS 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63636422</id>
+        <link href="https://tv.naver.com/v/63636422"/>
+        <updated>2024-11-01T14:20:08.089Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 김나린의 화려한 기타 스킬 기대하시라🎵 | KBS 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63636419</id>
+        <link href="https://tv.naver.com/v/63636419"/>
+        <updated>2024-11-01T14:20:08.091Z</updated>
+        <content type="html"><![CDATA[01:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 김기태X판소리 제작소  토크 대기실에 울려 퍼지는 허스키 보이스! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/63636134</id>
+        <link href="https://tv.naver.com/v/63636134"/>
+        <updated>2024-11-01T14:20:08.093Z</updated>
+        <content type="html"><![CDATA[01:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 새로운 스타 탄생의 예고!✨ 청춘마이크 특집🎙 | KBS 241026 방송]]></title>
         <id>https://tv.naver.com/v/63253214</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/63252567"/>
         <updated>2024-10-26T11:18:10.525Z</updated>
         <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김장훈 - 걱정말아요 그대 | KBS 241026 방송]]></title>
-        <id>https://tv.naver.com/v/63252563</id>
-        <link href="https://tv.naver.com/v/63252563"/>
-        <updated>2024-10-26T11:18:10.529Z</updated>
-        <content type="html"><![CDATA[05:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소름 돋는 전설의 무대! 육십의 나이가 안 믿기는 에너지💪 | KBS 241026 방송]]></title>
-        <id>https://tv.naver.com/v/63252127</id>
-        <link href="https://tv.naver.com/v/63252127"/>
-        <updated>2024-10-26T11:18:10.530Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김종서 - 돌고 돌고 돌고 | KBS 241026 방송]]></title>
-        <id>https://tv.naver.com/v/63251930</id>
-        <link href="https://tv.naver.com/v/63251930"/>
-        <updated>2024-10-26T11:18:10.531Z</updated>
-        <content type="html"><![CDATA[05:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14분 만에 만든 이 곡! 록의 전설 김종서의 선곡은? | KBS 241026 방송]]></title>
-        <id>https://tv.naver.com/v/63251922</id>
-        <link href="https://tv.naver.com/v/63251922"/>
-        <updated>2024-10-26T11:18:10.533Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예상 못 한 후끈한 반응😉 경고 울리는 부부의 미니 무대🚨 | KBS 241026 방송]]></title>
-        <id>https://tv.naver.com/v/63251918</id>
-        <link href="https://tv.naver.com/v/63251918"/>
-        <updated>2024-10-26T11:18:10.534Z</updated>
-        <content type="html"><![CDATA[01:45]]></content>
     </entry>
 </feed>
