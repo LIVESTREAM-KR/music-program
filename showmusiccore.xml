@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-01T06:30:58.575Z</updated>
+    <updated>2024-11-01T07:20:17.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] THE WIND (더윈드) – 반가워, 나의 첫사랑 | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/63546454</id>
+        <link href="https://tv.naver.com/v/63546454"/>
+        <updated>2024-11-01T07:19:41.083Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[October TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/63470782</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63401339"/>
         <updated>2024-10-29T06:29:53.308Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ILLIT MOKA (아일릿 모카) – Cherish (My Love) | 쇼! 음악중심 | MBC241026방송]]></title>
-        <id>https://tv.naver.com/v/63401335</id>
-        <link href="https://tv.naver.com/v/63401335"/>
-        <updated>2024-10-29T06:29:53.309Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>
