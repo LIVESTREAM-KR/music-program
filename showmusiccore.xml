@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-01T04:25:04.842Z</updated>
+    <updated>2024-11-01T05:20:38.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[October TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/63470782</id>
+        <link href="https://tv.naver.com/v/63470782"/>
+        <updated>2024-11-01T05:20:01.406Z</updated>
+        <content type="html"><![CDATA[31:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 뒷목 잡고 쓰러질 만큼 좋은 여자의 악마들 영접하기💥💘] #aespa 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/63558766</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63401335"/>
         <updated>2024-10-29T06:29:53.309Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ILLIT MINJU (아일릿 민주) – Cherish (My Love) | 쇼! 음악중심 | MBC241026방송]]></title>
-        <id>https://tv.naver.com/v/63401331</id>
-        <link href="https://tv.naver.com/v/63401331"/>
-        <updated>2024-10-29T06:29:53.311Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
