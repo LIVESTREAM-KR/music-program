@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-10-31T23:22:13.070Z</updated>
+    <updated>2024-11-01T01:44:09.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 aespa(에스파)의 <Drama>]]></title>
+        <id>https://tv.naver.com/v/63543278</id>
+        <link href="https://tv.naver.com/v/63543278"/>
+        <updated>2024-11-01T01:43:56.655Z</updated>
+        <content type="html"><![CDATA[00:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1분으로 모아보는 Xdinary Heroes(엑스디너리 히어로즈)의 <Night before the end>♬]]></title>
         <id>https://tv.naver.com/v/63480975</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63138644"/>
         <updated>2024-10-24T11:17:37.113Z</updated>
         <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] KISS OF LIFE BELLE(키스오브라이프 벨) - Igloo | Show Champion | EP.537 | 241023]]></title>
-        <id>https://tv.naver.com/v/63147494</id>
-        <link href="https://tv.naver.com/v/63147494"/>
-        <updated>2024-10-24T11:17:37.115Z</updated>
-        <content type="html"><![CDATA[02:24]]></content>
     </entry>
 </feed>
