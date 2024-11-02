@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-02T07:19:37.056Z</updated>
+    <updated>2024-11-02T08:25:15.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈 - TRIGGER (導火線) (THE BOYZ - TRIGGER (導火線)), MBC 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63667164</id>
+        <link href="https://tv.naver.com/v/63667164"/>
+        <updated>2024-11-02T08:24:38.907Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스파 - Whiplash (aespa - Whiplash), MBC 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63666805</id>
+        <link href="https://tv.naver.com/v/63666805"/>
+        <updated>2024-11-02T08:24:38.910Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이씨 - GPT (STAYC - GPT), MBC 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63666630</id>
+        <link href="https://tv.naver.com/v/63666630"/>
+        <updated>2024-11-02T08:24:38.910Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러 - TIPI-TAP (Kep1er - TIPI-TAP), MBC 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63666624</id>
+        <link href="https://tv.naver.com/v/63666624"/>
+        <updated>2024-11-02T08:24:38.910Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러 - sync-love (Kep1er - sync-love), MBC 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63666418</id>
+        <link href="https://tv.naver.com/v/63666418"/>
+        <updated>2024-11-02T08:24:38.913Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키스 오브 라이프 - Igloo (KISS OF LIFE - Igloo), MBC 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63666414</id>
+        <link href="https://tv.naver.com/v/63666414"/>
+        <updated>2024-11-02T08:24:38.915Z</updated>
+        <content type="html"><![CDATA[02:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재원 - Once again (Lee Jae Won - Once again), MBC 241102 방송]]></title>
         <id>https://tv.naver.com/v/63665889</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/63665181"/>
         <updated>2024-11-02T07:19:01.294Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앰퍼샌드원 - He + She = We (AMPERS&ONE - He + She = We), MBC 241102 방송]]></title>
-        <id>https://tv.naver.com/v/63664959</id>
-        <link href="https://tv.naver.com/v/63664959"/>
-        <updated>2024-11-02T07:19:01.296Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리플에스 비저너리 비전 - Hit the Floor (tripleS Visionary Vision - Hit the Floor), MBC 241102 방송]]></title>
-        <id>https://tv.naver.com/v/63664729</id>
-        <link href="https://tv.naver.com/v/63664729"/>
-        <updated>2024-11-02T07:19:01.304Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피프티피프티 - Gravity (FIFTY FIFTY - Gravity), MBC 241102 방송]]></title>
-        <id>https://tv.naver.com/v/63664728</id>
-        <link href="https://tv.naver.com/v/63664728"/>
-        <updated>2024-11-02T07:19:01.304Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이몬 - 찍찍찍 (DXMON - Zip Zip Zip), MBC 241102 방송]]></title>
-        <id>https://tv.naver.com/v/63664507</id>
-        <link href="https://tv.naver.com/v/63664507"/>
-        <updated>2024-11-02T07:19:01.304Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티투메이저 - 혀끝 (82MAJOR - Stuck), MBC 241102 방송]]></title>
-        <id>https://tv.naver.com/v/63664237</id>
-        <link href="https://tv.naver.com/v/63664237"/>
-        <updated>2024-11-02T07:19:01.304Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세이마이네임 - WaveWay (SAY MY NAME - WaveWay), MBC 241102 방송]]></title>
-        <id>https://tv.naver.com/v/63664234</id>
-        <link href="https://tv.naver.com/v/63664234"/>
-        <updated>2024-11-02T07:19:01.305Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
     </entry>
 </feed>
