@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-11-02T09:19:58.768Z</updated>
+    <updated>2024-11-02T10:20:09.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬계 슈퍼스타 ‘마이클 리’ & 흥 넘치는 금관악기 밴드 C.I.K!   | KBS 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63672314</id>
+        <link href="https://tv.naver.com/v/63672314"/>
+        <updated>2024-11-02T10:20:03.226Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 다 같이 즐겨 주세요~ 어랑타령👏🏼 | KBS 방송]]></title>
         <id>https://tv.naver.com/v/63636959</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63252569"/>
         <updated>2024-10-26T11:18:10.524Z</updated>
         <content type="html"><![CDATA[01:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환갑 발차기?🤣 어둠 속 빛이 된 김장훈의 선곡! | KBS 241026 방송]]></title>
-        <id>https://tv.naver.com/v/63252567</id>
-        <link href="https://tv.naver.com/v/63252567"/>
-        <updated>2024-10-26T11:18:10.525Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
 </feed>
