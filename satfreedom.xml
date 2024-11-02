@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-11-02T11:16:28.799Z</updated>
+    <updated>2024-11-02T12:37:10.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[내내 담담하던 나린의 눈물,,💧 큰 무대의 부담과 끝났다는 안도감 | KBS 241102 방송]]></title>
-        <id>https://tv.naver.com/v/63674812</id>
-        <link href="https://tv.naver.com/v/63674812"/>
-        <updated>2024-11-02T11:16:22.959Z</updated>
-        <content type="html"><![CDATA[01:34]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 어느 때보다 웃음 가득♥ 환상의 짝꿍 특집! | KBS 241102 방송]]></title>
         <id>https://tv.naver.com/v/63674822</id>
@@ -25,6 +18,13 @@
         <link href="https://tv.naver.com/v/63674821"/>
         <updated>2024-11-02T11:16:22.960Z</updated>
         <content type="html"><![CDATA[01:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내내 담담하던 나린의 눈물,,💧 큰 무대의 부담과 끝났다는 안도감 | KBS 241102 방송]]></title>
+        <id>https://tv.naver.com/v/63674812</id>
+        <link href="https://tv.naver.com/v/63674812"/>
+        <updated>2024-11-02T11:16:22.959Z</updated>
+        <content type="html"><![CDATA[01:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박기영 X 송클레어 - 손에 손잡고  | KBS 241102 방송]]></title>
@@ -41,7 +41,7 @@
         <content type="html"><![CDATA[01:23]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[몽니 X 김나린 - Butter fly | KBS 241102 방송]]></title>
+        <title type="html"><![CDATA[몽니 X 김나린 - Butterfly | KBS 241102 방송]]></title>
         <id>https://tv.naver.com/v/63674618</id>
         <link href="https://tv.naver.com/v/63674618"/>
         <updated>2024-11-02T11:16:22.968Z</updated>
