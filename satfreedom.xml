@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-11-02T13:23:37.544Z</updated>
+    <updated>2024-11-02T14:17:33.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 아나키스트가 준비한 Bravo, My Life! | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/63680977</id>
+        <link href="https://tv.naver.com/v/63680977"/>
+        <updated>2024-11-02T14:17:27.791Z</updated>
+        <content type="html"><![CDATA[02:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 어느 때보다 웃음 가득♥ 환상의 짝꿍 특집! | KBS 241102 방송]]></title>
         <id>https://tv.naver.com/v/63674822</id>
@@ -27,7 +34,7 @@
         <content type="html"><![CDATA[01:34]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박기영 X 송클레어 - 손에 손잡고  | KBS 241102 방송]]></title>
+        <title type="html"><![CDATA[박기영X송클레어 - 손에 손잡고(Hand in Hand)  | KBS 241102 방송]]></title>
         <id>https://tv.naver.com/v/63674806</id>
         <link href="https://tv.naver.com/v/63674806"/>
         <updated>2024-11-02T11:16:22.963Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63674448"/>
         <updated>2024-11-02T11:16:22.972Z</updated>
         <content type="html"><![CDATA[04:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최찰랑이와 낭만밴드! 한 번 들으면 잊을 수 없는 이름! | KBS 241102 방송]]></title>
-        <id>https://tv.naver.com/v/63674300</id>
-        <link href="https://tv.naver.com/v/63674300"/>
-        <updated>2024-11-02T11:16:22.973Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
     </entry>
 </feed>

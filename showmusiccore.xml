@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-02T13:23:37.543Z</updated>
+    <updated>2024-11-02T14:17:33.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] SAY MY NAME HITOMI (세이마이네임 히토미) – WaveWay FanCam | 쇼! 음악중심 | MBC241102방송]]></title>
+        <id>https://tv.naver.com/v/63680266</id>
+        <link href="https://tv.naver.com/v/63680266"/>
+        <updated>2024-11-02T14:17:01.813Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] STAYC SIEUN (스테이씨 시은) – GPT FanCam | 쇼! 음악중심 | MBC241102방송]]></title>
+        <id>https://tv.naver.com/v/63680265</id>
+        <link href="https://tv.naver.com/v/63680265"/>
+        <updated>2024-11-02T14:17:01.813Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] THE BOYZ JACOB (더보이즈 제이콥) – TRIGGER (導火線) FanCam | 쇼! 음악중심 | MBC241102방송]]></title>
         <id>https://tv.naver.com/v/63679904</id>
@@ -55,24 +69,10 @@
         <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#음중직캠] FIFTY FIFTY ATHENA (피프티피프티 아테나) – Gravity FanCam | 쇼! 음악중심 | MBC241102방송]]></title>
-        <id>https://tv.naver.com/v/63679054</id>
-        <link href="https://tv.naver.com/v/63679054"/>
-        <updated>2024-11-02T13:23:01.210Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE BELLE (키스오브라이프 벨) – Igloo FanCam | 쇼! 음악중심 | MBC241102방송]]></title>
         <id>https://tv.naver.com/v/63679059</id>
         <link href="https://tv.naver.com/v/63679059"/>
         <updated>2024-11-02T13:23:01.212Z</updated>
         <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KISS OF LIFE (키스오브라이프) – Igloo FullCam | 쇼! 음악중심 | MBC241102방송]]></title>
-        <id>https://tv.naver.com/v/63679055</id>
-        <link href="https://tv.naver.com/v/63679055"/>
-        <updated>2024-11-02T13:23:01.213Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
     </entry>
 </feed>
