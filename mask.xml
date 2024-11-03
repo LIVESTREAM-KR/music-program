@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-11-03T10:22:54.948Z</updated>
+    <updated>2024-11-03T11:17:36.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＜축제의 주인공은 나야🎉 막강한 실력자들 사이 새로운 가왕 '카니발'은 자리를 지킬 수 있을 것인가?!🔎＞ 복면가왕 472회 예고, MBC 241110]]></title>
+        <id>https://tv.naver.com/v/63714068</id>
+        <link href="https://tv.naver.com/v/63714068"/>
+        <updated>2024-11-03T11:17:36.058Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['언더 더 씨'의 정체는 가수 효린!, MBC 241103 방송]]></title>
+        <id>https://tv.naver.com/v/63713720</id>
+        <link href="https://tv.naver.com/v/63713720"/>
+        <updated>2024-11-03T11:17:36.059Z</updated>
+        <content type="html"><![CDATA[01:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['언더 더 씨'의 가왕 방어전 무대 - 차마..., MBC 241103 방송]]></title>
+        <id>https://tv.naver.com/v/63712970</id>
+        <link href="https://tv.naver.com/v/63712970"/>
+        <updated>2024-11-03T11:17:36.059Z</updated>
+        <content type="html"><![CDATA[04:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['도넛'의 정체는 원위 용훈!, MBC 241103 방송]]></title>
+        <id>https://tv.naver.com/v/63712791</id>
+        <link href="https://tv.naver.com/v/63712791"/>
+        <updated>2024-11-03T11:17:36.061Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['카니발' 3라운드 무대 - 나에게로의 초대, MBC 241103 방송]]></title>
         <id>https://tv.naver.com/v/63712447</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/63711405"/>
         <updated>2024-11-03T10:22:54.158Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['브라이덜 샤워'의 정체는 피에스타 혜미(옐)!, MBC 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63711236</id>
-        <link href="https://tv.naver.com/v/63711236"/>
-        <updated>2024-11-03T10:22:54.160Z</updated>
-        <content type="html"><![CDATA[01:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['도넛' 2라운드 무대 - 사월이 지나면 우리 헤어져요, MBC 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63710676</id>
-        <link href="https://tv.naver.com/v/63710676"/>
-        <updated>2024-11-03T10:22:54.161Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['브라이덜 샤워' 2라운드 무대 - 이 바보야, MBC 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63710480</id>
-        <link href="https://tv.naver.com/v/63710480"/>
-        <updated>2024-11-03T10:22:54.165Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#복면가왕] 빌리 문수아가 부르는 《HAPPY》 《시간이 흐른 뒤》&차은우의 응원 메시지💕 | #빌리 #문수아 MBC241027방송]]></title>
-        <id>https://tv.naver.com/v/63397138</id>
-        <link href="https://tv.naver.com/v/63397138"/>
-        <updated>2024-10-29T05:20:47.842Z</updated>
-        <content type="html"><![CDATA[15:59]]></content>
     </entry>
 </feed>
