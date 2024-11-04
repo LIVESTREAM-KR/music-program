@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-11-04T09:24:22.802Z</updated>
+    <updated>2024-11-04T10:23:26.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#복면가왕] 가창력 폭발🔥 씨스타 출신 효린의 가왕전 노래 모음 《차마...》부터 《지상에서 영원으로》까지! | #효린 #씨스타 MBC2411037방송]]></title>
+        <id>https://tv.naver.com/v/63765947</id>
+        <link href="https://tv.naver.com/v/63765947"/>
+        <updated>2024-11-04T10:23:26.267Z</updated>
+        <content type="html"><![CDATA[36:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜축제의 주인공은 나야🎉 막강한 실력자들 사이 새로운 가왕 '카니발'은 자리를 지킬 수 있을 것인가?!🔎＞ 복면가왕 472회 예고, MBC 241110]]></title>
         <id>https://tv.naver.com/v/63714068</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63711411"/>
         <updated>2024-11-03T10:22:54.156Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['전자레인지' 2라운드 무대 - 위로, MBC 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63711405</id>
-        <link href="https://tv.naver.com/v/63711405"/>
-        <updated>2024-11-03T10:22:54.158Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>

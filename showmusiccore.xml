@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-04T09:24:22.800Z</updated>
+    <updated>2024-11-04T10:23:26.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ SUNWOO (더보이즈 선우) – TRIGGER (導火線) | 쇼! 음악중심 | MBC241102방송]]></title>
+        <id>https://tv.naver.com/v/63770623</id>
+        <link href="https://tv.naver.com/v/63770623"/>
+        <updated>2024-11-04T10:22:50.463Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) – TRIGGER (導火線) | 쇼! 음악중심 | MBC241102방송]]></title>
+        <id>https://tv.naver.com/v/63770618</id>
+        <link href="https://tv.naver.com/v/63770618"/>
+        <updated>2024-11-04T10:22:50.463Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] STAYC SEEUN (스테이씨 세은) – GPT | 쇼! 음악중심 | MBC241102방송]]></title>
         <id>https://tv.naver.com/v/63764016</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/63679653"/>
         <updated>2024-11-02T13:23:01.200Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC YOON (스테이씨 윤) – GPT FanCam | 쇼! 음악중심 | MBC241102방송]]></title>
-        <id>https://tv.naver.com/v/63679472</id>
-        <link href="https://tv.naver.com/v/63679472"/>
-        <updated>2024-11-02T13:23:01.202Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] FIFTY FIFTY CHANELLE MOON (피프티피프티 문샤넬) – Gravity FanCam | 쇼! 음악중심 | MBC241102방송]]></title>
-        <id>https://tv.naver.com/v/63679321</id>
-        <link href="https://tv.naver.com/v/63679321"/>
-        <updated>2024-11-02T13:23:01.204Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
