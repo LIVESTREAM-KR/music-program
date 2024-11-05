@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-05T07:19:08.497Z</updated>
+    <updated>2024-11-05T08:26:33.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] 있지는 든든한 믿지를 믿지🩷 GOLD보다 더 값진 것은 있지💛 #있지 #ITZY 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/63830296</id>
+        <link href="https://tv.naver.com/v/63830296"/>
+        <updated>2024-11-05T08:25:59.116Z</updated>
+        <content type="html"><![CDATA[10:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ILLIT MOKA (아일릿 모카) – Cherish (My Love) | 쇼! 음악중심 | MBC241102방송]]></title>
         <id>https://tv.naver.com/v/63761933</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63679904"/>
         <updated>2024-11-02T13:23:01.197Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] SAY MY NAME (세이마이네임) – WaveWay FullCam | 쇼! 음악중심 | MBC241102방송]]></title>
-        <id>https://tv.naver.com/v/63679860</id>
-        <link href="https://tv.naver.com/v/63679860"/>
-        <updated>2024-11-02T13:23:01.198Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>
