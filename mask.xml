@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-11-06T03:23:36.786Z</updated>
+    <updated>2024-11-06T04:25:22.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 음악계 레전드 뮤지션 등장?! 카니발🎉이 부르는 《편지》 《장마》 등 | #카니발 #효린 MBC2411037방송]]></title>
+        <id>https://tv.naver.com/v/63806608</id>
+        <link href="https://tv.naver.com/v/63806608"/>
+        <updated>2024-11-06T04:25:21.746Z</updated>
+        <content type="html"><![CDATA[20:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 가창력 폭발🔥 씨스타 출신 효린의 가왕전 노래 모음 《차마...》부터 《지상에서 영원으로》까지! | #효린 #씨스타 MBC2411037방송]]></title>
         <id>https://tv.naver.com/v/63765947</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63711747"/>
         <updated>2024-11-03T10:22:54.155Z</updated>
         <content type="html"><![CDATA[01:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['카니발' 2라운드 무대 - 장마, MBC 241103 방송]]></title>
-        <id>https://tv.naver.com/v/63711411</id>
-        <link href="https://tv.naver.com/v/63711411"/>
-        <updated>2024-11-03T10:22:54.156Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
