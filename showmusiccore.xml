@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-06T04:25:22.379Z</updated>
+    <updated>2024-11-06T05:20:02.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE BOYZ(더보이즈).zip 📂 소년(Boy)부터 Trigger(導火線)까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/63825925</id>
+        <link href="https://tv.naver.com/v/63825925"/>
+        <updated>2024-11-06T05:19:28.489Z</updated>
+        <content type="html"><![CDATA[01:19:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 있지는 든든한 믿지를 믿지🩷 GOLD보다 더 값진 것은 있지💛 #있지 #ITZY 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/63830296</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63680265"/>
         <updated>2024-11-02T14:17:01.813Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] THE BOYZ JACOB (더보이즈 제이콥) – TRIGGER (導火線) FanCam | 쇼! 음악중심 | MBC241102방송]]></title>
-        <id>https://tv.naver.com/v/63679904</id>
-        <link href="https://tv.naver.com/v/63679904"/>
-        <updated>2024-11-02T13:23:01.197Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>

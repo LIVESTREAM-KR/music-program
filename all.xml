@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-06T04:25:22.371Z</updated>
+    <updated>2024-11-06T05:20:02.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Whiplash - aespa | KBS 241101 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:25]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[THE BOYZ(더보이즈).zip 📂 소년(Boy)부터 Trigger(導火線)까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/63825925</id>
+        <link href="https://tv.naver.com/v/63825925"/>
+        <updated>2024-11-06T05:19:28.489Z</updated>
+        <content type="html"><![CDATA[01:19:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] 있지는 든든한 믿지를 믿지🩷 GOLD보다 더 값진 것은 있지💛 #있지 #ITZY 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/63830296</id>
         <link href="https://tv.naver.com/v/63830296"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/63680265"/>
         <updated>2024-11-02T14:17:01.813Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] THE BOYZ JACOB (더보이즈 제이콥) – TRIGGER (導火線) FanCam | 쇼! 음악중심 | MBC241102방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/63679904</id>
-        <link href="https://tv.naver.com/v/63679904"/>
-        <updated>2024-11-02T13:23:01.197Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ITZY - Imaginary Friend | SBS 241103 방송 (인기가요)]]></title>
