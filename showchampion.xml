@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-11-07T08:25:45.346Z</updated>
+    <updated>2024-11-07T09:21:38.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Visionary Vision Lynn(린) - Choom | Show Champion | EP.539 | 241106]]></title>
+        <id>https://tv.naver.com/v/63979307</id>
+        <link href="https://tv.naver.com/v/63979307"/>
+        <updated>2024-11-07T09:21:25.971Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] 82MAJOR(에이티투메이저) - 혀끝(Stuck) | Show Champion | EP.539 | 241106]]></title>
         <id>https://tv.naver.com/v/63972544</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63971879"/>
         <updated>2024-11-07T08:25:34.908Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX(이펙스) - 잃어버린 것들에 대하여(Closer) | Show Champion | EP.539 | 241106]]></title>
-        <id>https://tv.naver.com/v/63910123</id>
-        <link href="https://tv.naver.com/v/63910123"/>
-        <updated>2024-11-06T13:26:04.695Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
