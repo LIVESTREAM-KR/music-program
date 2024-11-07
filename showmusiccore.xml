@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-07T07:18:45.787Z</updated>
+    <updated>2024-11-07T08:25:45.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] Kep1er.zip 📂 WA DA DA부터 TIPI-TAP까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/63767791</id>
+        <link href="https://tv.naver.com/v/63767791"/>
+        <updated>2024-11-07T08:25:13.813Z</updated>
+        <content type="html"><![CDATA[29:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] STAYC.zip 📂 SO BAD부터 GPT까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/63768083</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/63761317"/>
         <updated>2024-11-04T09:23:46.274Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 11월 첫째 주 음악중심 MC 컷 모음!, MBC 241102 방송]]></title>
-        <id>https://tv.naver.com/v/63739013</id>
-        <link href="https://tv.naver.com/v/63739013"/>
-        <updated>2024-11-04T02:56:31.319Z</updated>
-        <content type="html"><![CDATA[16:49]]></content>
     </entry>
 </feed>
