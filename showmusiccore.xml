@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-09T07:17:39.567Z</updated>
+    <updated>2024-11-09T08:25:12.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[박진영 - Easy Lover (아니라고 말해줘) (J.Y. Park with Gabee - Easy Lover), MBC 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64104244</id>
+        <link href="https://tv.naver.com/v/64104244"/>
+        <updated>2024-11-09T08:24:36.453Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민호 - CALL BACK (MINHO - CALL BACK), MBC 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64103992</id>
+        <link href="https://tv.naver.com/v/64103992"/>
+        <updated>2024-11-09T08:24:36.453Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더보이즈 - TRIGGER (導火線) (THE BOYZ - TRIGGER (導火線)), MBC 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64103601</id>
+        <link href="https://tv.naver.com/v/64103601"/>
+        <updated>2024-11-09T08:24:36.453Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비지 - Shhh! (VIVIZ - Shhh!), MBC 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64103599</id>
+        <link href="https://tv.naver.com/v/64103599"/>
+        <updated>2024-11-09T08:24:36.454Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더 - Over The Moon (TXT - Over The Moon), MBC 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64103408</id>
+        <link href="https://tv.naver.com/v/64103408"/>
+        <updated>2024-11-09T08:24:36.457Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더 - Forty One Winks (TXT - Forty One Winks), MBC 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64103405</id>
+        <link href="https://tv.naver.com/v/64103405"/>
+        <updated>2024-11-09T08:24:36.459Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[있지 - Imaginary Friend (ITZY - Imaginary Friend), MBC 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64103127</id>
+        <link href="https://tv.naver.com/v/64103127"/>
+        <updated>2024-11-09T08:24:36.460Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아일릿 - Cherish (My Love) (ILLIT - Cherish (My Love)), MBC 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64103124</id>
+        <link href="https://tv.naver.com/v/64103124"/>
+        <updated>2024-11-09T08:24:36.461Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이씨 - GPT (STAYC - GPT), MBC 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64102668</id>
+        <link href="https://tv.naver.com/v/64102668"/>
+        <updated>2024-11-09T08:24:36.463Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이펙스 - UNIVERSE (EPEX - UNIVERSE), MBC 241109 방송]]></title>
         <id>https://tv.naver.com/v/64102451</id>
         <link href="https://tv.naver.com/v/64102451"/>
         <updated>2024-11-09T07:17:03.053Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앰퍼샌드원 - He + She = We (AMPERS&ONE - He + She = We), MBC 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64102267</id>
-        <link href="https://tv.naver.com/v/64102267"/>
-        <updated>2024-11-09T07:17:03.055Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리플에스 비저너리 비전 - Hit the Floor (tripleS Visionary Vision - Hit the Floor), MBC 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64102116</id>
-        <link href="https://tv.naver.com/v/64102116"/>
-        <updated>2024-11-09T07:17:03.055Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스지 - HOWLING (XG - HOWLING), MBC 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64102114</id>
-        <link href="https://tv.naver.com/v/64102114"/>
-        <updated>2024-11-09T07:17:03.055Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이몬 - 찍찍찍 (DXMON - Zip Zip Zip), MBC 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64101987</id>
-        <link href="https://tv.naver.com/v/64101987"/>
-        <updated>2024-11-09T07:17:03.055Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파우 - Boyfriend (POW - Boyfriend), MBC 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64101826</id>
-        <link href="https://tv.naver.com/v/64101826"/>
-        <updated>2024-11-09T07:17:03.056Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키코 - NIGHTMARE (Kik5o - NIGHTMARE), MBC 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64101678</id>
-        <link href="https://tv.naver.com/v/64101678"/>
-        <updated>2024-11-09T07:17:03.061Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오드유스 - THAT'S ME (ODD YOUTH - THAT'S ME), MBC 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64101361</id>
-        <link href="https://tv.naver.com/v/64101361"/>
-        <updated>2024-11-09T07:17:03.062Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] Kep1er.zip 📂 WA DA DA부터 TIPI-TAP까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/63767791</id>
-        <link href="https://tv.naver.com/v/63767791"/>
-        <updated>2024-11-07T08:25:13.813Z</updated>
-        <content type="html"><![CDATA[29:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] STAYC.zip 📂 SO BAD부터 GPT까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/63768083</id>
-        <link href="https://tv.naver.com/v/63768083"/>
-        <updated>2024-11-07T07:18:09.820Z</updated>
-        <content type="html"><![CDATA[42:54]]></content>
     </entry>
 </feed>
