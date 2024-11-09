@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-11-09T11:15:58.654Z</updated>
+    <updated>2024-11-09T12:35:41.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 어른들의 진검승부! 환상의 짝꿍 특집 2부✨ | KBS 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64111694</id>
+        <link href="https://tv.naver.com/v/64111694"/>
+        <updated>2024-11-09T12:35:34.903Z</updated>
+        <content type="html"><![CDATA[00:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아빠를 생각하며 직접 쓴 손글씨!💌 박성온 군이 본 이수연 양의 무대는? | KBS 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64111480</id>
+        <link href="https://tv.naver.com/v/64111480"/>
+        <updated>2024-11-09T12:35:34.904Z</updated>
+        <content type="html"><![CDATA[01:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂아빠 생각 많이 났어요!＂뭉클해지는 명곡 판정단& 토크 대기실😢 | KBS 241109 방송]]></title>
+        <id>https://tv.naver.com/v/64111474</id>
+        <link href="https://tv.naver.com/v/64111474"/>
+        <updated>2024-11-09T12:35:34.906Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이수연 – 내 이름 아시죠 | KBS 241109 방송]]></title>
         <id>https://tv.naver.com/v/64111296</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/64110551"/>
         <updated>2024-11-09T11:15:52.896Z</updated>
         <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원곡의 매력을 고스란히~♪ 가창력을 넘어선 임도형 군의 무대 몰입감!💓 | KBS 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64110550</id>
-        <link href="https://tv.naver.com/v/64110550"/>
-        <updated>2024-11-09T11:15:52.897Z</updated>
-        <content type="html"><![CDATA[01:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임도형 – 천상재회 | KBS 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64110369</id>
-        <link href="https://tv.naver.com/v/64110369"/>
-        <updated>2024-11-09T11:15:52.898Z</updated>
-        <content type="html"><![CDATA[05:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대단히 반갑습니다! 리틀 송해 임도형 군의 각오는?🤣 | KBS 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64110184</id>
-        <link href="https://tv.naver.com/v/64110184"/>
-        <updated>2024-11-09T11:15:52.900Z</updated>
-        <content type="html"><![CDATA[05:35]]></content>
     </entry>
 </feed>
