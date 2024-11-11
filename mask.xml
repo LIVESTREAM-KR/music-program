@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-11-11T04:24:48.671Z</updated>
+    <updated>2024-11-11T05:21:24.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 긍정 에너지 뿜뿜😝💕 흥부자! 주이가 부르는 《잊었니...》 《이 바보》 | #주이 #모모랜드 MBC241110방송]]></title>
+        <id>https://tv.naver.com/v/64193520</id>
+        <link href="https://tv.naver.com/v/64193520"/>
+        <updated>2024-11-11T05:21:24.121Z</updated>
+        <content type="html"><![CDATA[13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜대선배님들 취향 저격 성공💘 판정단들을 눈물짓게 만든 감동의 무대까지😿＞ 복면가왕 473회 예고, MBC 241117 방송]]></title>
         <id>https://tv.naver.com/v/64154402</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64151768"/>
         <updated>2024-11-10T10:19:50.166Z</updated>
         <content type="html"><![CDATA[01:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['망둥이' VS '막둥이'의 1라운드 무대 - 사랑은 봄비처럼 이별은 겨울비처럼, MBC 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64151319</id>
-        <link href="https://tv.naver.com/v/64151319"/>
-        <updated>2024-11-10T10:19:50.169Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
