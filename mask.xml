@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-11-11T09:22:56.975Z</updated>
+    <updated>2024-11-11T10:22:48.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 밴드 출신 올라운더! 극세사 감성 장인💕 가수 별사랑 하이라이트!, MBC 241110 방송]]></title>
+        <id>https://tv.naver.com/v/64212560</id>
+        <link href="https://tv.naver.com/v/64212560"/>
+        <updated>2024-11-11T10:22:47.659Z</updated>
+        <content type="html"><![CDATA[09:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 품격 있는 진행자! 토크 천재✨ 크리에이터 이승국 하이라이트!, MBC 241110 방송]]></title>
+        <id>https://tv.naver.com/v/64212504</id>
+        <link href="https://tv.naver.com/v/64212504"/>
+        <updated>2024-11-11T10:22:47.659Z</updated>
+        <content type="html"><![CDATA[08:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 밝은 에너지를 전파하는 인간 비타민😎 가수 주이 하이라이트!, MBC 241110 방송]]></title>
+        <id>https://tv.naver.com/v/64212106</id>
+        <link href="https://tv.naver.com/v/64212106"/>
+        <updated>2024-11-11T10:22:47.659Z</updated>
+        <content type="html"><![CDATA[09:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 긍정 에너지 뿜뿜😝💕 흥부자! 주이가 부르는 《잊었니...》 《이 바보》 | #주이 #모모랜드 MBC241110방송]]></title>
         <id>https://tv.naver.com/v/64193520</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/64152930"/>
         <updated>2024-11-10T11:15:30.441Z</updated>
         <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['너 T야?' VS '너 F야?'의 1라운드 무대 - 그대랑, MBC 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64152250</id>
-        <link href="https://tv.naver.com/v/64152250"/>
-        <updated>2024-11-10T10:19:50.163Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['막둥이'의 정체는 가수 별사랑!, MBC 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64152008</id>
-        <link href="https://tv.naver.com/v/64152008"/>
-        <updated>2024-11-10T10:19:50.163Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록 보컬 속 숨겨져 있던 중저음?! 동굴 목소리 완벽 재현한 '망둥이'의 스네이프 교수님 성대모사!, MBC 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64151768</id>
-        <link href="https://tv.naver.com/v/64151768"/>
-        <updated>2024-11-10T10:19:50.166Z</updated>
-        <content type="html"><![CDATA[01:34]]></content>
     </entry>
 </feed>
