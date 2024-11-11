@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-11-11T08:27:10.313Z</updated>
+    <updated>2024-11-11T09:22:56.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 여러분 오늘은 빼빼로 데이가 아닙니다🤤 오늘은 사실 쇼챔을 백배로 사랑하는 백배로 데이입니다 🤎🤎🤎💛]]></title>
+        <id>https://tv.naver.com/v/64194106</id>
+        <link href="https://tv.naver.com/v/64194106"/>
+        <updated>2024-11-11T09:22:45.017Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.539 | 241106]]></title>
         <id>https://tv.naver.com/v/63942992</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/63972869</id>
         <link href="https://tv.naver.com/v/63972869"/>
         <updated>2024-11-07T08:25:34.902Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Visionary Vision Gong YuBin(공유빈) - Choom | Show Champion | EP.539 | 241106]]></title>
-        <id>https://tv.naver.com/v/63972221</id>
-        <link href="https://tv.naver.com/v/63972221"/>
-        <updated>2024-11-07T08:25:34.907Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
