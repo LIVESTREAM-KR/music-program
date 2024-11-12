@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-12T05:19:56.850Z</updated>
+    <updated>2024-11-12T06:28:37.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ YOUNGHOON (더보이즈 영훈) – TRIGGER (導火線) | 쇼! 음악중심 | MBC241109방송]]></title>
+        <id>https://tv.naver.com/v/64268668</id>
+        <link href="https://tv.naver.com/v/64268668"/>
+        <updated>2024-11-12T06:28:02.010Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) – TRIGGER (導火線) | 쇼! 음악중심 | MBC241109방송]]></title>
+        <id>https://tv.naver.com/v/64268303</id>
+        <link href="https://tv.naver.com/v/64268303"/>
+        <updated>2024-11-12T06:28:02.011Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ HYUNJAE (더보이즈 현재) – TRIGGER (導火線) | 쇼! 음악중심 | MBC241109방송]]></title>
+        <id>https://tv.naver.com/v/64268298</id>
+        <link href="https://tv.naver.com/v/64268298"/>
+        <updated>2024-11-12T06:28:02.012Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ITZY RYUJIN (있지 류진) – Imaginary Friend | 쇼! 음악중심 | MBC241109방송]]></title>
         <id>https://tv.naver.com/v/64210998</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/64110548"/>
         <updated>2024-11-09T11:15:26.559Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC SIEUN (스테이씨 시은) – GPT FanCam | 쇼! 음악중심 | MBC241109방송]]></title>
-        <id>https://tv.naver.com/v/64110009</id>
-        <link href="https://tv.naver.com/v/64110009"/>
-        <updated>2024-11-09T11:15:26.559Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ILLIT (아일릿) – Cherish (My Love) FullCam | 쇼! 음악중심 | MBC241109방송]]></title>
-        <id>https://tv.naver.com/v/64109859</id>
-        <link href="https://tv.naver.com/v/64109859"/>
-        <updated>2024-11-09T10:19:17.065Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] THE BOYZ JUYEON (더보이즈 주연) – TRIGGER (導火線) FanCam | 쇼! 음악중심 | MBC241109방송]]></title>
-        <id>https://tv.naver.com/v/64109758</id>
-        <link href="https://tv.naver.com/v/64109758"/>
-        <updated>2024-11-09T10:19:17.066Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
