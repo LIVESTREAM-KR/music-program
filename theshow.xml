@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-11-12T11:17:07.302Z</updated>
+    <updated>2024-11-12T12:40:46.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AMPERS&ONE - He + She = We (앰퍼샌드원, He + She = We) [THE SHOW 241112]]]></title>
+        <id>https://tv.naver.com/v/64293059</id>
+        <link href="https://tv.naver.com/v/64293059"/>
+        <updated>2024-11-12T12:40:30.459Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[82MAJOR - Stuck (82MAJOR, 혀끝) [THE SHOW 241112]]]></title>
+        <id>https://tv.naver.com/v/64292715</id>
+        <link href="https://tv.naver.com/v/64292715"/>
+        <updated>2024-11-12T12:40:30.459Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kep1er - THE SHOW CHOICE! [THE SHOW 241112]]]></title>
         <id>https://tv.naver.com/v/64287941</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/64286205"/>
         <updated>2024-11-12T10:21:28.034Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POW - Bae (파우, Bae) [THE SHOW 241112]]]></title>
-        <id>https://tv.naver.com/v/64286203</id>
-        <link href="https://tv.naver.com/v/64286203"/>
-        <updated>2024-11-12T10:21:28.034Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[82MAJOR - Face Time [THE SHOW 241112]]]></title>
-        <id>https://tv.naver.com/v/64286201</id>
-        <link href="https://tv.naver.com/v/64286201"/>
-        <updated>2024-11-12T10:21:28.036Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
 </feed>

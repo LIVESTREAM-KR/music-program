@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-12T11:17:07.315Z</updated>
+    <updated>2024-11-12T12:40:46.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TRIGGER (導火線) - 더보이즈 (THE BOYZ) | KBS 241108 방송 (뮤직뱅크)]]></title>
@@ -285,6 +285,20 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AMPERS&ONE - He + She = We (앰퍼샌드원, He + She = We) [THE SHOW 241112] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/64293059</id>
+        <link href="https://tv.naver.com/v/64293059"/>
+        <updated>2024-11-12T12:40:30.459Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[82MAJOR - Stuck (82MAJOR, 혀끝) [THE SHOW 241112] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/64292715</id>
+        <link href="https://tv.naver.com/v/64292715"/>
+        <updated>2024-11-12T12:40:30.459Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kep1er - THE SHOW CHOICE! [THE SHOW 241112] (더쇼)]]></title>
         <id>https://tv.naver.com/v/64287941</id>
         <link href="https://tv.naver.com/v/64287941"/>
@@ -339,20 +353,6 @@
         <link href="https://tv.naver.com/v/64286205"/>
         <updated>2024-11-12T10:21:28.034Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POW - Bae (파우, Bae) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64286203</id>
-        <link href="https://tv.naver.com/v/64286203"/>
-        <updated>2024-11-12T10:21:28.034Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[82MAJOR - Face Time [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64286201</id>
-        <link href="https://tv.naver.com/v/64286201"/>
-        <updated>2024-11-12T10:21:28.036Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1분으로 모아보는 tripleS Visionary Vision(트리플에스 비저너리 비전)의 <Hit the Floor>♬ #tripleSVisi (쇼챔피언)]]></title>
