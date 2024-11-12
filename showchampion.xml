@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-11-11T23:19:10.273Z</updated>
+    <updated>2024-11-12T01:27:04.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 tripleS Visionary Vision(트리플에스 비저너리 비전)의 <Hit the Floor>♬ #tripleSVisi]]></title>
+        <id>https://tv.naver.com/v/64243513</id>
+        <link href="https://tv.naver.com/v/64243513"/>
+        <updated>2024-11-12T01:26:51.481Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 여러분 오늘은 빼빼로 데이가 아닙니다🤤 오늘은 사실 쇼챔을 백배로 사랑하는 백배로 데이입니다 🤎🤎🤎💛]]></title>
         <id>https://tv.naver.com/v/64194106</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/63971520</id>
         <link href="https://tv.naver.com/v/63971520"/>
         <updated>2024-11-07T08:25:34.900Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Visionary Vision Xinyu(신위) - Choom | Show Champion | EP.539 | 241106]]></title>
-        <id>https://tv.naver.com/v/63972869</id>
-        <link href="https://tv.naver.com/v/63972869"/>
-        <updated>2024-11-07T08:25:34.902Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
