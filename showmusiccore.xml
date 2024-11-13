@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-13T06:28:58.914Z</updated>
+    <updated>2024-11-13T07:19:01.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] TOMORROW X TOGETHER.zip 📂 어느날 머리에서 뿔이 자랐다부터 Over The Moon까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/64282592</id>
+        <link href="https://tv.naver.com/v/64282592"/>
+        <updated>2024-11-13T07:18:26.033Z</updated>
+        <content type="html"><![CDATA[18:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑스러움이 3배 💗 빵토리가 어느새 1주년 🎂 | 빵토리 (BBANGTORI) - '러브리 (Love Lee)' 비하인드]]></title>
         <id>https://tv.naver.com/v/64277510</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64207284"/>
         <updated>2024-11-11T09:22:21.353Z</updated>
         <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 11월 둘째 주 음악중심 MC 컷 모음!, MBC 241109 방송]]></title>
-        <id>https://tv.naver.com/v/64181795</id>
-        <link href="https://tv.naver.com/v/64181795"/>
-        <updated>2024-11-11T02:51:17.210Z</updated>
-        <content type="html"><![CDATA[15:32]]></content>
     </entry>
 </feed>
