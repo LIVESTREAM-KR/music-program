@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-11-13T09:21:43.112Z</updated>
+    <updated>2024-11-13T10:22:13.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[COMEBACK] 비비지(VIVIZ) - Shhh! l 241113]]></title>
+        <id>https://tv.naver.com/v/64355464</id>
+        <link href="https://tv.naver.com/v/64355464"/>
+        <updated>2024-11-13T10:22:02.392Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[당신은 누구신가온] K-POP 아티스트들의 추리 토크쇼🔍 Kep1er(케플러) 편 l 241113]]></title>
+        <id>https://tv.naver.com/v/64355460</id>
+        <link href="https://tv.naver.com/v/64355460"/>
+        <updated>2024-11-13T10:22:02.393Z</updated>
+        <content type="html"><![CDATA[07:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케플러(Kep1er) - TIPI-TAP l 241113]]></title>
         <id>https://tv.naver.com/v/64355073</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/64353014"/>
         <updated>2024-11-13T09:21:32.018Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 비하인드 스토리가 한가득✨ 'EPEX' 퍼스널컬러 쇼챔🎨 l 241113]]></title>
-        <id>https://tv.naver.com/v/64352658</id>
-        <link href="https://tv.naver.com/v/64352658"/>
-        <updated>2024-11-13T09:21:32.019Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범진(BUMJIN) - 나이테 l 241113]]></title>
-        <id>https://tv.naver.com/v/64352653</id>
-        <link href="https://tv.naver.com/v/64352653"/>
-        <updated>2024-11-13T09:21:32.020Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>
