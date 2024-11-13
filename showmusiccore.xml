@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-13T07:19:01.322Z</updated>
+    <updated>2024-11-13T08:26:53.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] aespa (에스파) – Whiplash | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/64339905</id>
+        <link href="https://tv.naver.com/v/64339905"/>
+        <updated>2024-11-13T08:26:15.094Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] TOMORROW X TOGETHER.zip 📂 어느날 머리에서 뿔이 자랐다부터 Over The Moon까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/64282592</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64210038"/>
         <updated>2024-11-11T09:22:21.351Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] VIVIZ EUNHA (비비지 은하) – Shhh!| 쇼! 음악중심 | MBC241109방송]]></title>
-        <id>https://tv.naver.com/v/64207284</id>
-        <link href="https://tv.naver.com/v/64207284"/>
-        <updated>2024-11-11T09:22:21.353Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
 </feed>

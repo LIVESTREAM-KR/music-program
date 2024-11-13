@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-13T07:19:01.335Z</updated>
+    <updated>2024-11-13T08:26:53.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TRIGGER (導火線) - 더보이즈 (THE BOYZ) | KBS 241108 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] aespa (에스파) – Whiplash | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64339905</id>
+        <link href="https://tv.naver.com/v/64339905"/>
+        <updated>2024-11-13T08:26:15.094Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[MBCkpop] TOMORROW X TOGETHER.zip 📂 어느날 머리에서 뿔이 자랐다부터 Over The Moon까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/64282592</id>
         <link href="https://tv.naver.com/v/64282592"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/64210038"/>
         <updated>2024-11-11T09:22:21.351Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] VIVIZ EUNHA (비비지 은하) – Shhh!| 쇼! 음악중심 | MBC241109방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64207284</id>
-        <link href="https://tv.naver.com/v/64207284"/>
-        <updated>2024-11-11T09:22:21.353Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박진영(J.Y. Park) (with Xdinary Heroes 정수, Jun Han) - Easy Lover (아니라고 말해줘) | SBS 241110 방송 (인기가요)]]></title>
@@ -355,6 +355,20 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[권인서(Kwon In Seo) - 여전히 난 너를 찾고 있어 l 241113 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/64351158</id>
+        <link href="https://tv.naver.com/v/64351158"/>
+        <updated>2024-11-13T08:26:41.642Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13파운드(13Found) - DOMINO l 241113 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/64351155</id>
+        <link href="https://tv.naver.com/v/64351155"/>
+        <updated>2024-11-13T08:26:41.643Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1분으로 모아보는 tripleS Visionary Vision(트리플에스 비저너리 비전)의 <Hit the Floor>♬ #tripleSVisi (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/64243513</id>
         <link href="https://tv.naver.com/v/64243513"/>
@@ -409,20 +423,6 @@
         <link href="https://tv.naver.com/v/63973230"/>
         <updated>2024-11-07T08:25:34.898Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] PURPLE KISS(퍼플키스) - ON MY BIKE | Show Champion | EP.539 | 241106 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/63973227</id>
-        <link href="https://tv.naver.com/v/63973227"/>
-        <updated>2024-11-07T08:25:34.899Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] tripleS Visionary Vision(트리플에스 비저너리 비전) - Choom | Show Champion | EP.539 | 241106 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/63971520</id>
-        <link href="https://tv.naver.com/v/63971520"/>
-        <updated>2024-11-07T08:25:34.900Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 어른들의 진검승부! 환상의 짝꿍 특집 2부✨ | KBS 241109 방송 (불후의 명곡)]]></title>
