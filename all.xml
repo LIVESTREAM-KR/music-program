@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-14T07:20:04.565Z</updated>
+    <updated>2024-11-14T08:27:18.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TRIGGER (導火線) - 더보이즈 (THE BOYZ) | KBS 241108 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,27 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] AMPERS&ONE(앰퍼샌드원) - Calling You Back | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/64392963</id>
+        <link href="https://tv.naver.com/v/64392963"/>
+        <updated>2024-11-14T08:27:06.742Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] POW(파우) - Bae | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/64393347</id>
+        <link href="https://tv.naver.com/v/64393347"/>
+        <updated>2024-11-14T08:27:06.743Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] POW YORCH(파우 요치) - Bae | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/64407780</id>
+        <link href="https://tv.naver.com/v/64407780"/>
+        <updated>2024-11-14T08:27:06.743Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Moon Jong Up(문종업) - TWIST YA | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/64362845</id>
         <link href="https://tv.naver.com/v/64362845"/>
@@ -402,27 +423,6 @@
         <link href="https://tv.naver.com/v/64363706"/>
         <updated>2024-11-13T13:26:33.548Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] VIVIZ EUNHA(비비지 은하) - Shhh! | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/64363703</id>
-        <link href="https://tv.naver.com/v/64363703"/>
-        <updated>2024-11-13T13:26:33.549Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ UMJI(비비지 엄지) - Shhh! | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/64363701</id>
-        <link href="https://tv.naver.com/v/64363701"/>
-        <updated>2024-11-13T13:26:33.550Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX(이펙스) - UNIVERSE | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/64362209</id>
-        <link href="https://tv.naver.com/v/64362209"/>
-        <updated>2024-11-13T13:26:33.551Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 어른들의 진검승부! 환상의 짝꿍 특집 2부✨ | KBS 241109 방송 (불후의 명곡)]]></title>

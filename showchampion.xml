@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-11-14T07:20:04.552Z</updated>
+    <updated>2024-11-14T08:27:18.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] AMPERS&ONE(앰퍼샌드원) - Calling You Back | Show Champion | EP.540 | 241113]]></title>
+        <id>https://tv.naver.com/v/64392963</id>
+        <link href="https://tv.naver.com/v/64392963"/>
+        <updated>2024-11-14T08:27:06.742Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] POW(파우) - Bae | Show Champion | EP.540 | 241113]]></title>
+        <id>https://tv.naver.com/v/64393347</id>
+        <link href="https://tv.naver.com/v/64393347"/>
+        <updated>2024-11-14T08:27:06.743Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] POW YORCH(파우 요치) - Bae | Show Champion | EP.540 | 241113]]></title>
+        <id>https://tv.naver.com/v/64407780</id>
+        <link href="https://tv.naver.com/v/64407780"/>
+        <updated>2024-11-14T08:27:06.743Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] Moon Jong Up(문종업) - TWIST YA | Show Champion | EP.540 | 241113]]></title>
         <id>https://tv.naver.com/v/64362845</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/64363706"/>
         <updated>2024-11-13T13:26:33.548Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] VIVIZ EUNHA(비비지 은하) - Shhh! | Show Champion | EP.540 | 241113]]></title>
-        <id>https://tv.naver.com/v/64363703</id>
-        <link href="https://tv.naver.com/v/64363703"/>
-        <updated>2024-11-13T13:26:33.549Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ UMJI(비비지 엄지) - Shhh! | Show Champion | EP.540 | 241113]]></title>
-        <id>https://tv.naver.com/v/64363701</id>
-        <link href="https://tv.naver.com/v/64363701"/>
-        <updated>2024-11-13T13:26:33.550Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX(이펙스) - UNIVERSE | Show Champion | EP.540 | 241113]]></title>
-        <id>https://tv.naver.com/v/64362209</id>
-        <link href="https://tv.naver.com/v/64362209"/>
-        <updated>2024-11-13T13:26:33.551Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
