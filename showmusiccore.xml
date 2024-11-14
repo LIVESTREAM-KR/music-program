@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-14T06:29:37.721Z</updated>
+    <updated>2024-11-14T07:20:04.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] VIVIZ.zip 📂 BOP BOP!부터 Shhh!까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/64337287</id>
+        <link href="https://tv.naver.com/v/64337287"/>
+        <updated>2024-11-14T07:19:28.011Z</updated>
+        <content type="html"><![CDATA[20:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] aespa (에스파) – Whiplash | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/64339905</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64210044"/>
         <updated>2024-11-11T09:22:21.350Z</updated>
         <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TOMORROW X TOGETHER YEONJUN (투모로우바이투게더 연준) – Over The Moon | 쇼! 음악중심 | MBC241109방송]]></title>
-        <id>https://tv.naver.com/v/64210038</id>
-        <link href="https://tv.naver.com/v/64210038"/>
-        <updated>2024-11-11T09:22:21.351Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
 </feed>
