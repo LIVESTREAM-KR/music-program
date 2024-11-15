@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-11-15T01:41:47.384Z</updated>
+    <updated>2024-11-15T02:59:22.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.540 | 241113]]></title>
+        <id>https://tv.naver.com/v/64390779</id>
+        <link href="https://tv.naver.com/v/64390779"/>
+        <updated>2024-11-15T02:59:11.964Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] AMPERS&ONE(앰퍼샌드원) - Calling You Back | Show Champion | EP.540 | 241113]]></title>
         <id>https://tv.naver.com/v/64392963</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/64363710</id>
         <link href="https://tv.naver.com/v/64363710"/>
         <updated>2024-11-13T13:26:33.545Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] VIVIZ SINB(비비지 신비) - Shhh! | Show Champion | EP.540 | 241113]]></title>
-        <id>https://tv.naver.com/v/64363706</id>
-        <link href="https://tv.naver.com/v/64363706"/>
-        <updated>2024-11-13T13:26:33.548Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
