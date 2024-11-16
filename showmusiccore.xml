@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-16T07:19:07.049Z</updated>
+    <updated>2024-11-16T08:24:51.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[민호 - CALL BACK (MINHO - CALL BACK), MBC 241116 방송]]></title>
+        <id>https://tv.naver.com/v/64544344</id>
+        <link href="https://tv.naver.com/v/64544344"/>
+        <updated>2024-11-16T08:24:17.701Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 드림 - When I'm With You (NCT DREAM - When I'm With You), MBC 241116 방송]]></title>
+        <id>https://tv.naver.com/v/64544179</id>
+        <link href="https://tv.naver.com/v/64544179"/>
+        <updated>2024-11-16T08:24:17.701Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비비지 - Shhh! (VIVIZ - Shhh!), MBC 241116 방송]]></title>
+        <id>https://tv.naver.com/v/64544053</id>
+        <link href="https://tv.naver.com/v/64544053"/>
+        <updated>2024-11-16T08:24:17.701Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이티즈 - Ice On My Teeth (ATEEZ - Ice On My Teeth), MBC 241116 방송]]></title>
+        <id>https://tv.naver.com/v/64543923</id>
+        <link href="https://tv.naver.com/v/64543923"/>
+        <updated>2024-11-16T08:24:17.702Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투모로우바이투게더 - Over The Moon (TXT - Over The Moon), MBC 241116 방송]]></title>
+        <id>https://tv.naver.com/v/64543776</id>
+        <link href="https://tv.naver.com/v/64543776"/>
+        <updated>2024-11-16T08:24:17.704Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔하이픈 - No Doubt (ENHYPEN - No Doubt), MBC 241116 방송]]></title>
+        <id>https://tv.naver.com/v/64543775</id>
+        <link href="https://tv.naver.com/v/64543775"/>
+        <updated>2024-11-16T08:24:17.706Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이브 - Viola (Yves - Viola), MBC 241116 방송]]></title>
+        <id>https://tv.naver.com/v/64543625</id>
+        <link href="https://tv.naver.com/v/64543625"/>
+        <updated>2024-11-16T08:24:17.711Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케플러 - TIPI-TAP (Kep1er - TIPI-TAP), MBC 241116 방송]]></title>
+        <id>https://tv.naver.com/v/64543622</id>
+        <link href="https://tv.naver.com/v/64543622"/>
+        <updated>2024-11-16T08:24:17.713Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아일릿 - Tick-Tack (ILLIT - Tick-Tack), MBC 241116 방송]]></title>
         <id>https://tv.naver.com/v/64543478</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/64543302"/>
         <updated>2024-11-16T07:18:34.822Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파우 - Boyfriend (POW - Boyfriend), MBC 241116 방송]]></title>
-        <id>https://tv.naver.com/v/64543157</id>
-        <link href="https://tv.naver.com/v/64543157"/>
-        <updated>2024-11-16T07:18:34.822Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이비몬스터 - DRIP (BABYMONSTER - DRIP), MBC 241116 방송]]></title>
-        <id>https://tv.naver.com/v/64542991</id>
-        <link href="https://tv.naver.com/v/64542991"/>
-        <updated>2024-11-16T07:18:34.822Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티아이오티 - Take It Slow (TIOT - Take It Slow), MBC 241116 방송]]></title>
-        <id>https://tv.naver.com/v/64542820</id>
-        <link href="https://tv.naver.com/v/64542820"/>
-        <updated>2024-11-16T07:18:34.824Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범진 - 나이테 (BUMJIN - Growth ring), MBC 241116 방송]]></title>
-        <id>https://tv.naver.com/v/64542668</id>
-        <link href="https://tv.naver.com/v/64542668"/>
-        <updated>2024-11-16T07:18:34.826Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라씨 - Psycho and Beautiful (CLASS:y - Psycho and Beautiful), MBC 241116 방송]]></title>
-        <id>https://tv.naver.com/v/64542520</id>
-        <link href="https://tv.naver.com/v/64542520"/>
-        <updated>2024-11-16T07:18:34.827Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오드유스 - THAT'S ME (ODD YOUTH - THAT'S ME), MBC 241116 방송]]></title>
-        <id>https://tv.naver.com/v/64542374</id>
-        <link href="https://tv.naver.com/v/64542374"/>
-        <updated>2024-11-16T07:18:34.830Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버비 - Clap (Burvey - Clap), MBC 241116 방송]]></title>
-        <id>https://tv.naver.com/v/64542373</id>
-        <link href="https://tv.naver.com/v/64542373"/>
-        <updated>2024-11-16T07:18:34.833Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#직캠보고서🔍] 더보이즈 TRIGGER 보고 무료 스마일라식함... 레전드착으로 웃음 + 개안 다 해주는 남자 여기있다 #THEBOYZ 사전녹화 비하인드]]></title>
-        <id>https://tv.naver.com/v/64487032</id>
-        <link href="https://tv.naver.com/v/64487032"/>
-        <updated>2024-11-15T08:26:48.919Z</updated>
-        <content type="html"><![CDATA[22:26]]></content>
     </entry>
 </feed>
