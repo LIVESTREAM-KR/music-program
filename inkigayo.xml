@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-11-17T06:28:39.510Z</updated>
+    <updated>2024-11-17T07:19:48.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[케플러(Kep1er) - TIPI-TAP | SBS 241117 방송]]></title>
+        <id>https://tv.naver.com/v/64585255</id>
+        <link href="https://tv.naver.com/v/64585255"/>
+        <updated>2024-11-17T07:19:19.016Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BABYMONSTER - DRIP | SBS 241117 방송]]></title>
+        <id>https://tv.naver.com/v/64584937</id>
+        <link href="https://tv.naver.com/v/64584937"/>
+        <updated>2024-11-17T07:19:19.017Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ILLIT - Tick-Tack | SBS 241117 방송]]></title>
+        <id>https://tv.naver.com/v/64584695</id>
+        <link href="https://tv.naver.com/v/64584695"/>
+        <updated>2024-11-17T07:19:19.018Z</updated>
+        <content type="html"><![CDATA[02:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIVERSE LEAGUE - We ready | SBS 241117 방송]]></title>
+        <id>https://tv.naver.com/v/64584456</id>
+        <link href="https://tv.naver.com/v/64584456"/>
+        <updated>2024-11-17T07:19:19.020Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POW(파우) - Boyfriend | SBS 241117 방송]]></title>
+        <id>https://tv.naver.com/v/64584232</id>
+        <link href="https://tv.naver.com/v/64584232"/>
+        <updated>2024-11-17T07:19:19.033Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIOT(티아이오티) - Take It Slow | SBS 241117 방송]]></title>
+        <id>https://tv.naver.com/v/64584008</id>
+        <link href="https://tv.naver.com/v/64584008"/>
+        <updated>2024-11-17T07:19:19.033Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[박진영(J.Y. Park) (with Xdinary Heroes 정수, Jun Han) - Easy Lover (아니라고 말해줘) | SBS 241110 방송]]></title>
         <id>https://tv.naver.com/v/64146965</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/64146522"/>
         <updated>2024-11-10T08:22:34.850Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 - Over The Moon | SBS 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64146329</id>
-        <link href="https://tv.naver.com/v/64146329"/>
-        <updated>2024-11-10T08:22:34.851Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY - Imaginary Friend | SBS 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64146122</id>
-        <link href="https://tv.naver.com/v/64146122"/>
-        <updated>2024-11-10T08:22:34.855Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC(스테이씨) - GPT | SBS 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64145939</id>
-        <link href="https://tv.naver.com/v/64145939"/>
-        <updated>2024-11-10T08:22:34.856Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX(이펙스) - UNIVERSE | SBS 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64145762</id>
-        <link href="https://tv.naver.com/v/64145762"/>
-        <updated>2024-11-10T08:22:34.863Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BABYMONSTER - DRIP | SBS 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64145533</id>
-        <link href="https://tv.naver.com/v/64145533"/>
-        <updated>2024-11-10T08:22:34.863Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BABYMONSTER - CLIK CLAK | SBS 241110 방송]]></title>
-        <id>https://tv.naver.com/v/64145262</id>
-        <link href="https://tv.naver.com/v/64145262"/>
-        <updated>2024-11-10T08:22:34.863Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
