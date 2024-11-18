@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-11-18T05:22:14.444Z</updated>
+    <updated>2024-11-18T06:31:11.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 소찬휘 《Tears》 원키로 부르던 반전남😮 업텐션 출신 선율🐰의 《그대랑》 《나란놈이란》 | #선율 #업텐션 MBC241117방송]]></title>
+        <id>https://tv.naver.com/v/64638734</id>
+        <link href="https://tv.naver.com/v/64638734"/>
+        <updated>2024-11-18T06:31:11.145Z</updated>
+        <content type="html"><![CDATA[13:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜가왕 '카니발'의 3연승 축제 도전🎉 축제의 주인공 자리를 위협하는 8명의 실력자들까지🎤＞ 복면가왕 474회 예고, MBC 241124]]></title>
         <id>https://tv.naver.com/v/64595280</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64592855"/>
         <updated>2024-11-17T10:21:39.984Z</updated>
         <content type="html"><![CDATA[01:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['국물의 제왕' 2라운드 무대 - 어리석은 이별, MBC 241117 방송]]></title>
-        <id>https://tv.naver.com/v/64592655</id>
-        <link href="https://tv.naver.com/v/64592655"/>
-        <updated>2024-11-17T10:21:39.985Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
