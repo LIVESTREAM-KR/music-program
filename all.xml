@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-18T08:29:02.488Z</updated>
+    <updated>2024-11-18T09:25:14.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Over The Moon - 투모로우바이투게더 | KBS 241115 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[02:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM HAECHAN (엔시티 드림 해찬) – When I’m With You | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64657335</id>
+        <link href="https://tv.naver.com/v/64657335"/>
+        <updated>2024-11-18T09:24:38.631Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] BABYMONSTER CHIQUITA (베이비몬스터 치키타) – DRIP | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64655989</id>
+        <link href="https://tv.naver.com/v/64655989"/>
+        <updated>2024-11-18T09:24:38.631Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] BABYMONSTER AHYEON (베이비몬스터 아현) – DRIP | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64655984</id>
+        <link href="https://tv.naver.com/v/64655984"/>
+        <updated>2024-11-18T09:24:38.631Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ATEEZ YUNHO (에이티즈 윤호) – Ice On My Teeth | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/64648219</id>
         <link href="https://tv.naver.com/v/64648219"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/64552839"/>
         <updated>2024-11-16T12:37:37.332Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TOMORROW X TOGETHER YEONJUN (투모로우바이투게더 연준) – Over The Moon FanCam | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64552837</id>
-        <link href="https://tv.naver.com/v/64552837"/>
-        <updated>2024-11-16T12:37:37.334Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TOMORROW X TOGETHER SOOBIN (투모로우바이투게더 수빈) – Over The Moon FanCam | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64552650</id>
-        <link href="https://tv.naver.com/v/64552650"/>
-        <updated>2024-11-16T12:37:37.335Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN SUNOO (엔하이픈 선우) – No Doubt FanCam | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64552648</id>
-        <link href="https://tv.naver.com/v/64552648"/>
-        <updated>2024-11-16T12:37:37.336Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민호(MINHO) - Something About U | SBS 241117 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 맞춤형 쇼챔피언 무대를 추천받고 싶다면? 챔GPT에게 물어봐🤖 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/64642927</id>
+        <link href="https://tv.naver.com/v/64642927"/>
+        <updated>2024-11-18T09:25:01.416Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1분으로 모아보는 Kep1er(케플러)의 <TIPI-TAP>♬ #Kep1er #케플러 #TIPI_TAP (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/64464656</id>
         <link href="https://tv.naver.com/v/64464656"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/64364373</id>
         <link href="https://tv.naver.com/v/64364373"/>
         <updated>2024-11-13T13:26:33.541Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ SINB(비비지 신비) - Shhh! | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/64364032</id>
-        <link href="https://tv.naver.com/v/64364032"/>
-        <updated>2024-11-13T13:26:33.543Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>

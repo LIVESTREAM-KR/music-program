@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-18T08:29:02.460Z</updated>
+    <updated>2024-11-18T09:25:14.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM HAECHAN (엔시티 드림 해찬) – When I’m With You | 쇼! 음악중심 | MBC241116방송]]></title>
+        <id>https://tv.naver.com/v/64657335</id>
+        <link href="https://tv.naver.com/v/64657335"/>
+        <updated>2024-11-18T09:24:38.631Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] BABYMONSTER CHIQUITA (베이비몬스터 치키타) – DRIP | 쇼! 음악중심 | MBC241116방송]]></title>
+        <id>https://tv.naver.com/v/64655989</id>
+        <link href="https://tv.naver.com/v/64655989"/>
+        <updated>2024-11-18T09:24:38.631Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] BABYMONSTER AHYEON (베이비몬스터 아현) – DRIP | 쇼! 음악중심 | MBC241116방송]]></title>
+        <id>https://tv.naver.com/v/64655984</id>
+        <link href="https://tv.naver.com/v/64655984"/>
+        <updated>2024-11-18T09:24:38.631Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ATEEZ YUNHO (에이티즈 윤호) – Ice On My Teeth | 쇼! 음악중심 | MBC241116방송]]></title>
         <id>https://tv.naver.com/v/64648219</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/64552839"/>
         <updated>2024-11-16T12:37:37.332Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TOMORROW X TOGETHER YEONJUN (투모로우바이투게더 연준) – Over The Moon FanCam | 쇼! 음악중심 | MBC241116방송]]></title>
-        <id>https://tv.naver.com/v/64552837</id>
-        <link href="https://tv.naver.com/v/64552837"/>
-        <updated>2024-11-16T12:37:37.334Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TOMORROW X TOGETHER SOOBIN (투모로우바이투게더 수빈) – Over The Moon FanCam | 쇼! 음악중심 | MBC241116방송]]></title>
-        <id>https://tv.naver.com/v/64552650</id>
-        <link href="https://tv.naver.com/v/64552650"/>
-        <updated>2024-11-16T12:37:37.335Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN SUNOO (엔하이픈 선우) – No Doubt FanCam | 쇼! 음악중심 | MBC241116방송]]></title>
-        <id>https://tv.naver.com/v/64552648</id>
-        <link href="https://tv.naver.com/v/64552648"/>
-        <updated>2024-11-16T12:37:37.336Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>

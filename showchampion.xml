@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-11-18T08:29:02.462Z</updated>
+    <updated>2024-11-18T09:25:14.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 맞춤형 쇼챔피언 무대를 추천받고 싶다면? 챔GPT에게 물어봐🤖]]></title>
+        <id>https://tv.naver.com/v/64642927</id>
+        <link href="https://tv.naver.com/v/64642927"/>
+        <updated>2024-11-18T09:25:01.416Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1분으로 모아보는 Kep1er(케플러)의 <TIPI-TAP>♬ #Kep1er #케플러 #TIPI_TAP]]></title>
         <id>https://tv.naver.com/v/64464656</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/64364373</id>
         <link href="https://tv.naver.com/v/64364373"/>
         <updated>2024-11-13T13:26:33.541Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ SINB(비비지 신비) - Shhh! | Show Champion | EP.540 | 241113]]></title>
-        <id>https://tv.naver.com/v/64364032</id>
-        <link href="https://tv.naver.com/v/64364032"/>
-        <updated>2024-11-13T13:26:33.543Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
