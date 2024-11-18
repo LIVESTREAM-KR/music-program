@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-17T23:20:23.345Z</updated>
+    <updated>2024-11-18T01:43:41.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Over The Moon - 투모로우바이투게더 | KBS 241115 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 Kep1er(케플러)의 <TIPI-TAP>♬ #Kep1er #케플러 #TIPI_TAP (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/64464656</id>
+        <link href="https://tv.naver.com/v/64464656"/>
+        <updated>2024-11-18T01:43:29.054Z</updated>
+        <content type="html"><![CDATA[00:56]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1분으로 모아보는 VIVIZ(비비지)의 <Shhh!>♬ #VIVIZ #비비지 #Shhh (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/64464558</id>
         <link href="https://tv.naver.com/v/64464558"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/64364032</id>
         <link href="https://tv.naver.com/v/64364032"/>
         <updated>2024-11-13T13:26:33.543Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] VIVIZ(비비지) - Shhh! | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/64363711</id>
-        <link href="https://tv.naver.com/v/64363711"/>
-        <updated>2024-11-13T13:26:33.544Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
