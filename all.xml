@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-19T07:21:18.118Z</updated>
+    <updated>2024-11-19T08:28:22.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Over The Moon - 투모로우바이투게더 | KBS 241115 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCkpop] XG.zip 📂 MASCARA부터 HOWLING까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/64720302</id>
+        <link href="https://tv.naver.com/v/64720302"/>
+        <updated>2024-11-19T08:27:46.368Z</updated>
+        <content type="html"><![CDATA[19:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DREAM JISUNG (엔시티 드림 지성) – When I’m With You | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/64658451</id>
         <link href="https://tv.naver.com/v/64658451"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/64648219"/>
         <updated>2024-11-18T08:28:29.921Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ATEEZ SAN (에이티즈 산) – Ice On My Teeth | 쇼! 음악중심 | MBC241116방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/64648213</id>
-        <link href="https://tv.naver.com/v/64648213"/>
-        <updated>2024-11-18T08:28:29.922Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민호(MINHO) - Something About U | SBS 241117 방송 (인기가요)]]></title>

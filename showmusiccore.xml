@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-19T07:21:18.120Z</updated>
+    <updated>2024-11-19T08:28:22.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] XG.zip 📂 MASCARA부터 HOWLING까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/64720302</id>
+        <link href="https://tv.naver.com/v/64720302"/>
+        <updated>2024-11-19T08:27:46.368Z</updated>
+        <content type="html"><![CDATA[19:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DREAM JISUNG (엔시티 드림 지성) – When I’m With You | 쇼! 음악중심 | MBC241116방송]]></title>
         <id>https://tv.naver.com/v/64658451</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64648219"/>
         <updated>2024-11-18T08:28:29.921Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ATEEZ SAN (에이티즈 산) – Ice On My Teeth | 쇼! 음악중심 | MBC241116방송]]></title>
-        <id>https://tv.naver.com/v/64648213</id>
-        <link href="https://tv.naver.com/v/64648213"/>
-        <updated>2024-11-18T08:28:29.922Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
