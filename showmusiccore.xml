@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-20T05:20:53.132Z</updated>
+    <updated>2024-11-20T06:30:22.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] ENHYPEN.zip 📂 Sweet Venom부터 No Doubt까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/64722372</id>
+        <link href="https://tv.naver.com/v/64722372"/>
+        <updated>2024-11-20T06:29:47.665Z</updated>
+        <content type="html"><![CDATA[15:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] XG.zip 📂 MASCARA부터 HOWLING까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/64720302</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64655984"/>
         <updated>2024-11-18T09:24:38.631Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ATEEZ YUNHO (에이티즈 윤호) – Ice On My Teeth | 쇼! 음악중심 | MBC241116방송]]></title>
-        <id>https://tv.naver.com/v/64648219</id>
-        <link href="https://tv.naver.com/v/64648219"/>
-        <updated>2024-11-18T08:28:29.921Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
