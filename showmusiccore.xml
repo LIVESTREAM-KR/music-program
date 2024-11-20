@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-20T07:20:30.701Z</updated>
+    <updated>2024-11-20T08:28:57.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] THE BOYZ (더보이즈) – TRIGGER (導火線) | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/64797301</id>
+        <link href="https://tv.naver.com/v/64797301"/>
+        <updated>2024-11-20T08:28:22.812Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] ENHYPEN.zip 📂 Sweet Venom부터 No Doubt까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/64722372</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64655989"/>
         <updated>2024-11-18T09:24:38.631Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] BABYMONSTER AHYEON (베이비몬스터 아현) – DRIP | 쇼! 음악중심 | MBC241116방송]]></title>
-        <id>https://tv.naver.com/v/64655984</id>
-        <link href="https://tv.naver.com/v/64655984"/>
-        <updated>2024-11-18T09:24:38.631Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
