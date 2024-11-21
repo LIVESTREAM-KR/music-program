@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-11-20T23:20:55.609Z</updated>
+    <updated>2024-11-21T01:40:43.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 제로베이스원(ZEROBASEONE)의 <Feel the POP>♬ #제로베이스원 #ZEROBASEONE #FeelthePO]]></title>
+        <id>https://tv.naver.com/v/64779838</id>
+        <link href="https://tv.naver.com/v/64779838"/>
+        <updated>2024-11-21T01:40:32.644Z</updated>
+        <content type="html"><![CDATA[00:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1분으로 모아보는 BOYNEXTDOOR(보이넥스트도어)의 <뭣 같아>♬ #BOYNEXTDOOR #보이넥스트도어 #뭣]]></title>
         <id>https://tv.naver.com/v/64779736</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/64362845</id>
         <link href="https://tv.naver.com/v/64362845"/>
         <updated>2024-11-13T13:26:33.537Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Moon Jong Up(문종업) - TWIST YA | Show Champion | EP.540 | 241113]]></title>
-        <id>https://tv.naver.com/v/64362840</id>
-        <link href="https://tv.naver.com/v/64362840"/>
-        <updated>2024-11-13T13:26:33.538Z</updated>
         <content type="html"><![CDATA[02:42]]></content>
     </entry>
 </feed>
