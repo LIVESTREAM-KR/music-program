@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-22T07:20:24.237Z</updated>
+    <updated>2024-11-22T08:27:59.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Over The Moon - 투모로우바이투게더 | KBS 241115 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[02:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 이윤정 아나운서가 준비한 댄스는?! | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/64940670</id>
+        <link href="https://tv.naver.com/v/64940670"/>
+        <updated>2024-11-22T08:27:52.978Z</updated>
+        <content type="html"><![CDATA[00:48]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 집 나간 vs 집 지키는 아나운서?! KBS 아나운서 특집🎙  | KBS 241116 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/64551261</id>
         <link href="https://tv.naver.com/v/64551261"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/64549976"/>
         <updated>2024-11-16T11:16:28.607Z</updated>
         <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기럭지가 치트키였던 손태진의 댄스🕺 1부의 기운 그대로 1승?! | KBS 241116 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/64549816</id>
-        <link href="https://tv.naver.com/v/64549816"/>
-        <updated>2024-11-16T11:16:28.609Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 주말 드라마 그리고 시청률의 제왕✨ 배우 최대철 하이라이트!, MBC 241117 방송 (복면가왕)]]></title>
