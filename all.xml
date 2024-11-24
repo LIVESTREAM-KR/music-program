@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-24T05:19:48.638Z</updated>
+    <updated>2024-11-24T06:28:15.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[When I′m With You - NCT DREAM | KBS 241122 방송 (뮤직뱅크)]]></title>
@@ -145,6 +145,62 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yves(이브) - Viola | SBS 241124 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/65028026</id>
+        <link href="https://tv.naver.com/v/65028026"/>
+        <updated>2024-11-24T06:27:47.025Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN'(아이칠린) - Official | SBS 241124 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/65027823</id>
+        <link href="https://tv.naver.com/v/65027823"/>
+        <updated>2024-11-24T06:27:47.025Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLASS:y(클라씨) - Psycho and Beautiful | SBS 241124 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/65027653</id>
+        <link href="https://tv.naver.com/v/65027653"/>
+        <updated>2024-11-24T06:27:47.025Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEOVV - BODY | SBS 241124 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/65027649</id>
+        <link href="https://tv.naver.com/v/65027649"/>
+        <updated>2024-11-24T06:27:47.034Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEOVV - TOXIC | SBS 241124 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/65027483</id>
+        <link href="https://tv.naver.com/v/65027483"/>
+        <updated>2024-11-24T06:27:47.034Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박현호 - 사랑은 소리없이 | SBS 241124 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/65027125</id>
+        <link href="https://tv.naver.com/v/65027125"/>
+        <updated>2024-11-24T06:27:47.034Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리베란테(Libelante) - 여정 | SBS 241124 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/65027123</id>
+        <link href="https://tv.naver.com/v/65027123"/>
+        <updated>2024-11-24T06:27:47.039Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ODD YOUTH - THAT’S ME | SBS 241124 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/65026745</id>
+        <link href="https://tv.naver.com/v/65026745"/>
+        <updated>2024-11-24T06:27:47.039Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[민호(MINHO) - Something About U | SBS 241117 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/64587070</id>
         <link href="https://tv.naver.com/v/64587070"/>
@@ -157,62 +213,6 @@
         <link href="https://tv.naver.com/v/64586860"/>
         <updated>2024-11-17T08:24:13.811Z</updated>
         <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT DREAM - Rains in Heaven | SBS 241117 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/64586668</id>
-        <link href="https://tv.naver.com/v/64586668"/>
-        <updated>2024-11-17T08:24:13.811Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이티즈(ATEEZ) - Ice On My Teeth | SBS 241117 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/64586446</id>
-        <link href="https://tv.naver.com/v/64586446"/>
-        <updated>2024-11-17T08:24:13.811Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 - Over The Moon | SBS 241117 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/64586244</id>
-        <link href="https://tv.naver.com/v/64586244"/>
-        <updated>2024-11-17T08:24:13.812Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENHYPEN - No Doubt | SBS 241117 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/64586055</id>
-        <link href="https://tv.naver.com/v/64586055"/>
-        <updated>2024-11-17T08:24:13.816Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투모로우바이투게더 - Forty One Winks | SBS 241117 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/64585919</id>
-        <link href="https://tv.naver.com/v/64585919"/>
-        <updated>2024-11-17T08:24:13.816Z</updated>
-        <content type="html"><![CDATA[02:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yves(이브) - Viola | SBS 241117 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/64585886</id>
-        <link href="https://tv.naver.com/v/64585886"/>
-        <updated>2024-11-17T08:24:13.819Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정동원 - 고리 | SBS 241117 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/64585665</id>
-        <link href="https://tv.naver.com/v/64585665"/>
-        <updated>2024-11-17T08:24:13.821Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC(스테이씨) - GPT | SBS 241117 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/64585464</id>
-        <link href="https://tv.naver.com/v/64585464"/>
-        <updated>2024-11-17T08:24:13.824Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' tripleS Visionary Vision - Hit the Floor | Mnet 241024 방송 (엠카운트다운)]]></title>
