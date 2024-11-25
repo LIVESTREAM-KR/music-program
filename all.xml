@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-24T23:21:21.196Z</updated>
+    <updated>2024-11-25T01:43:35.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[When I′m With You - NCT DREAM | KBS 241122 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 TWS(투어스)의 <내가 S면 넌 나의 N이 되어줘>♬ #TWS #투어스 #내가S면넌나 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/64916680</id>
+        <link href="https://tv.naver.com/v/64916680"/>
+        <updated>2024-11-25T01:43:23.325Z</updated>
+        <content type="html"><![CDATA[00:56]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1분으로 모아보는 제로베이스원(ZEROBASEONE)의 <Feel the POP>♬ #제로베이스원 #ZEROBASEONE #FeelthePO (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/64779838</id>
         <link href="https://tv.naver.com/v/64779838"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/64407780"/>
         <updated>2024-11-14T08:27:06.743Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Moon Jong Up(문종업) - TWIST YA | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/64362845</id>
-        <link href="https://tv.naver.com/v/64362845"/>
-        <updated>2024-11-13T13:26:33.537Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 허각의 복수혈전🔥 2024 발라드 전쟁 특집🌟 | KBS 241123 방송 (불후의 명곡)]]></title>
