@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-11-25T05:22:00.169Z</updated>
+    <updated>2024-11-25T06:31:40.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 방구석 노래방에서의 실력이 아닌데...? 곧 고척돔 갈거같은 미미미누의 《내게 오는 길》 등 | #미미미누 #통감자 MBC241124방송]]></title>
+        <id>https://tv.naver.com/v/65079235</id>
+        <link href="https://tv.naver.com/v/65079235"/>
+        <updated>2024-11-25T06:31:39.889Z</updated>
+        <content type="html"><![CDATA[16:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＜긴장감에 휘청이는 '카니발'?!😨 혼을 쏙 빼앗는 박빙의 승부🙊＞ 복면가왕 475회 예고, MBC 241201 방송]]></title>
         <id>https://tv.naver.com/v/65038100</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65036086"/>
         <updated>2024-11-24T10:20:38.541Z</updated>
         <content type="html"><![CDATA[01:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['발광 머리 앤' VS '파란 머리 맨'의 1라운드 무대 - 하루 하루, MBC 241124 방송]]></title>
-        <id>https://tv.naver.com/v/65035746</id>
-        <link href="https://tv.naver.com/v/65035746"/>
-        <updated>2024-11-24T10:20:38.543Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
