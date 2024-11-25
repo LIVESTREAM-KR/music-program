@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-25T01:43:35.850Z</updated>
+    <updated>2024-11-25T03:02:50.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 11월 넷째 주 음악중심 MC 컷 모음!, MBC 241123 방송]]></title>
+        <id>https://tv.naver.com/v/65065512</id>
+        <link href="https://tv.naver.com/v/65065512"/>
+        <updated>2024-11-25T03:02:15.780Z</updated>
+        <content type="html"><![CDATA[13:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분] 11월 4주차 1위 엔시티 드림 - When I'm With You (NCT DREAM - When I'm With You), MBC 241123 방송]]></title>
         <id>https://tv.naver.com/v/64997465</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64995165"/>
         <updated>2024-11-23T10:21:37.226Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT DREAM (엔시티 드림) – Flying Kiss FullCam | 쇼! 음악중심 | MBC241123방송]]></title>
-        <id>https://tv.naver.com/v/64994999</id>
-        <link href="https://tv.naver.com/v/64994999"/>
-        <updated>2024-11-23T10:21:37.227Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
