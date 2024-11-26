@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-26T03:37:21.259Z</updated>
+    <updated>2024-11-26T04:26:34.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[When I′m With You - NCT DREAM | KBS 241122 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:15]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN (#엔시티드림 #재민) – When I’m With You | 쇼! 음악중심 | MBC241123방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/65141939</id>
+        <link href="https://tv.naver.com/v/65141939"/>
+        <updated>2024-11-26T04:25:59.492Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] BABYMONSTER CHIQUITA (베이비몬스터 치키타) – DRIP | 쇼! 음악중심 | MBC241123방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/65097766</id>
         <link href="https://tv.naver.com/v/65097766"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/65087791"/>
         <updated>2024-11-25T08:28:40.302Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM MARK (#엔시티드림 #마크) – Flying Kiss | 쇼! 음악중심 | MBC241123방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65087788</id>
-        <link href="https://tv.naver.com/v/65087788"/>
-        <updated>2024-11-25T08:28:40.303Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - When I’m With You | SBS 241124 방송 (인기가요)]]></title>
