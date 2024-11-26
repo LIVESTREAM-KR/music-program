@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-26T05:20:50.437Z</updated>
+    <updated>2024-11-26T06:30:34.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ATEEZ SAN (에이티즈 산) – Ice On My Teeth | 쇼! 음악중심 | MBC241123방송]]></title>
+        <id>https://tv.naver.com/v/65152330</id>
+        <link href="https://tv.naver.com/v/65152330"/>
+        <updated>2024-11-26T06:30:00.506Z</updated>
+        <content type="html"><![CDATA[04:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT DREAM JAEMIN (#엔시티드림 #재민) – When I’m With You | 쇼! 음악중심 | MBC241123방송]]></title>
         <id>https://tv.naver.com/v/65141939</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65087795"/>
         <updated>2024-11-25T08:28:40.301Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JENO (#엔시티드림 #제노) – Flying Kiss | 쇼! 음악중심 | MBC241123방송]]></title>
-        <id>https://tv.naver.com/v/65087791</id>
-        <link href="https://tv.naver.com/v/65087791"/>
-        <updated>2024-11-25T08:28:40.302Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
