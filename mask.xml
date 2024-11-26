@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-11-26T08:29:16.972Z</updated>
+    <updated>2024-11-26T09:23:50.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 5수 끝에 고려대 합격한 허수 판독기 미3누🥔 크리에이터 미미미누 하이라이트!, MBC 241124 방송]]></title>
+        <id>https://tv.naver.com/v/65165222</id>
+        <link href="https://tv.naver.com/v/65165222"/>
+        <updated>2024-11-26T09:23:50.086Z</updated>
+        <content type="html"><![CDATA[11:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ＜스·우·파＞ '원트' 댄서에서 아이돌 메인 댄서로😈 배드빌런 엠마 하이라이트!, MBC 241124 방송]]></title>
+        <id>https://tv.naver.com/v/65165216</id>
+        <link href="https://tv.naver.com/v/65165216"/>
+        <updated>2024-11-26T09:23:50.086Z</updated>
+        <content type="html"><![CDATA[09:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 방구석 노래방에서의 실력이 아닌데...? 곧 고척돔 갈거같은 미미미누의 《내게 오는 길》 등 | #미미미누 #통감자 MBC241124방송]]></title>
         <id>https://tv.naver.com/v/65079235</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/65036464"/>
         <updated>2024-11-24T10:20:38.539Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['발광 머리 앤'의 정체는 배드빌런 엠마!, MBC 241124 방송]]></title>
-        <id>https://tv.naver.com/v/65036245</id>
-        <link href="https://tv.naver.com/v/65036245"/>
-        <updated>2024-11-24T10:20:38.539Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['발광 머리 앤'X'파란 머리 맨'의 완벽한 호흡의 댄스🔥 과연 '발광 머리 앤'은 아이돌일까?!, MBC 241124 방송]]></title>
-        <id>https://tv.naver.com/v/65036086</id>
-        <link href="https://tv.naver.com/v/65036086"/>
-        <updated>2024-11-24T10:20:38.541Z</updated>
-        <content type="html"><![CDATA[01:46]]></content>
     </entry>
 </feed>
