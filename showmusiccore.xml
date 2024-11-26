@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-26T01:42:28.003Z</updated>
+    <updated>2024-11-26T03:00:19.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ENHYPEN NI-KI (엔하이픈 니키) – No Doubt | 쇼! 음악중심 | MBC241123방송]]></title>
+        <id>https://tv.naver.com/v/65096429</id>
+        <link href="https://tv.naver.com/v/65096429"/>
+        <updated>2024-11-26T02:59:44.706Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ENHYPEN JUNGWON (엔하이픈 정원) – No Doubt | 쇼! 음악중심 | MBC241123방송]]></title>
+        <id>https://tv.naver.com/v/65096435</id>
+        <link href="https://tv.naver.com/v/65096435"/>
+        <updated>2024-11-26T02:59:44.710Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NEXZ YU (넥스지 유우) – NALLINA | 쇼! 음악중심 | MBC241123방송]]></title>
         <id>https://tv.naver.com/v/65094566</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/64997465"/>
         <updated>2024-11-23T11:16:17.636Z</updated>
         <content type="html"><![CDATA[05:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT DREAM HAECHAN (엔시티 드림 해찬) – Flying Kiss FanCam | 쇼! 음악중심 | MBC241123방송]]></title>
-        <id>https://tv.naver.com/v/64995711</id>
-        <link href="https://tv.naver.com/v/64995711"/>
-        <updated>2024-11-23T10:21:37.216Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NCT DREAM CHENLE (엔시티 드림 천러) – Flying Kiss FanCam | 쇼! 음악중심 | MBC241123방송]]></title>
-        <id>https://tv.naver.com/v/64995531</id>
-        <link href="https://tv.naver.com/v/64995531"/>
-        <updated>2024-11-23T10:21:37.216Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
     </entry>
 </feed>
