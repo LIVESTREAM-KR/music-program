@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-27T05:21:46.982Z</updated>
+    <updated>2024-11-27T06:31:25.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ILLIT (아일릿) – Cherish (My Love) | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/65208660</id>
+        <link href="https://tv.naver.com/v/65208660"/>
+        <updated>2024-11-27T06:30:48.495Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ATEEZ SAN (에이티즈 산) – Ice On My Teeth | 쇼! 음악중심 | MBC241123방송]]></title>
         <id>https://tv.naver.com/v/65152330</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65088218"/>
         <updated>2024-11-25T08:28:40.301Z</updated>
         <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM HAECHAN (#엔시티드림 #해찬) – Flying Kiss | 쇼! 음악중심 | MBC241123방송]]></title>
-        <id>https://tv.naver.com/v/65087795</id>
-        <link href="https://tv.naver.com/v/65087795"/>
-        <updated>2024-11-25T08:28:40.301Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
     </entry>
 </feed>
