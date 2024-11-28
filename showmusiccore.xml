@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-28T08:29:15.841Z</updated>
+    <updated>2024-11-28T09:23:56.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #아일릿 #ILLIT 5주동안 릿둥이들과 함께해서 행복했던 음중 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/65319894</id>
+        <link href="https://tv.naver.com/v/65319894"/>
+        <updated>2024-11-28T09:23:18.330Z</updated>
+        <content type="html"><![CDATA[26:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] The First Snow.zip 📂 Show! Music Core The First Snow Special Compilation]]></title>
         <id>https://tv.naver.com/v/65239419</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[#최애직캠] NEXZ YU (넥스지 유우) – NALLINA | 쇼! 음악중심 | MBC241123방송]]></title>
         <id>https://tv.naver.com/v/65094566</id>
         <link href="https://tv.naver.com/v/65094566"/>
-        <updated>2024-11-25T09:24:00.429Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NEXZ TOMOYA (넥스지 토모야) – NALLINA | 쇼! 음악중심 | MBC241123방송]]></title>
-        <id>https://tv.naver.com/v/65094561</id>
-        <link href="https://tv.naver.com/v/65094561"/>
         <updated>2024-11-25T09:24:00.429Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
     </entry>

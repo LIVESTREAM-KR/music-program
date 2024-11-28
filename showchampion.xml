@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-11-28T08:29:15.846Z</updated>
+    <updated>2024-11-28T09:23:56.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 RIIZE(라이즈)의 <Boom Boom Bass>♬ #RIIZE #라이즈 #붐붐베이스]]></title>
+        <id>https://tv.naver.com/v/65319161</id>
+        <link href="https://tv.naver.com/v/65319161"/>
+        <updated>2024-11-28T09:23:43.681Z</updated>
+        <content type="html"><![CDATA[01:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1분으로 모아보는 ENHYPEN(엔하이픈)의 <Brought The Heat Back>♬ #ENHYPEN #엔하이픈 #브로우트더히]]></title>
         <id>https://tv.naver.com/v/65233829</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64392963"/>
         <updated>2024-11-14T08:27:06.742Z</updated>
         <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] POW(파우) - Bae | Show Champion | EP.540 | 241113]]></title>
-        <id>https://tv.naver.com/v/64393347</id>
-        <link href="https://tv.naver.com/v/64393347"/>
-        <updated>2024-11-14T08:27:06.743Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
