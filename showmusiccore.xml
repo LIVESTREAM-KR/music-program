@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-28T03:02:10.474Z</updated>
+    <updated>2024-11-28T04:27:14.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] The First Snow.zip 📂 Show! Music Core The First Snow Special Compilation]]></title>
+        <id>https://tv.naver.com/v/65239419</id>
+        <link href="https://tv.naver.com/v/65239419"/>
+        <updated>2024-11-28T04:26:37.295Z</updated>
+        <content type="html"><![CDATA[53:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] ILLIT (아일릿) – Cherish (My Love) | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/65208660</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65094561"/>
         <updated>2024-11-25T09:24:00.429Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT DREAM JISUNG (#엔시티드림 #지성) – Flying Kiss | 쇼! 음악중심 | MBC241123방송]]></title>
-        <id>https://tv.naver.com/v/65088218</id>
-        <link href="https://tv.naver.com/v/65088218"/>
-        <updated>2024-11-25T08:28:40.301Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
 </feed>
