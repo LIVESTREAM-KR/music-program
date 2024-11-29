@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-29T16:27:28.612Z</updated>
+    <updated>2024-11-29T17:19:20.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하루마다 끝도 없이 - 규현 | KBS 241129 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 허각x신용재x임한별! 허용별이 부르는 고민중독은?🎵🎤 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/65422527</id>
+        <link href="https://tv.naver.com/v/65422527"/>
+        <updated>2024-11-29T17:19:14.362Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 허각의 복수혈전🔥 2024 발라드 전쟁 특집🌟 | KBS 241123 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/64998390</id>
         <link href="https://tv.naver.com/v/64998390"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/64997284"/>
         <updated>2024-11-23T11:16:47.263Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임성민(Lim Sung Min) - 미소를 띄우며 나를 보낸 그 모습처럼 | KBS 241123 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/64997279</id>
-        <link href="https://tv.naver.com/v/64997279"/>
-        <updated>2024-11-23T11:16:47.265Z</updated>
-        <content type="html"><![CDATA[04:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 5수 끝에 고려대 합격한 허수 판독기 미3누🥔 크리에이터 미미미누 하이라이트!, MBC 241124 방송 (복면가왕)]]></title>

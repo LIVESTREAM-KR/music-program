@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-11-29T16:27:28.615Z</updated>
+    <updated>2024-11-29T17:19:20.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 허각x신용재x임한별! 허용별이 부르는 고민중독은?🎵🎤 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/65422527</id>
+        <link href="https://tv.naver.com/v/65422527"/>
+        <updated>2024-11-29T17:19:14.362Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 허각의 복수혈전🔥 2024 발라드 전쟁 특집🌟 | KBS 241123 방송]]></title>
         <id>https://tv.naver.com/v/64998390</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64997284"/>
         <updated>2024-11-23T11:16:47.263Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임성민(Lim Sung Min) - 미소를 띄우며 나를 보낸 그 모습처럼 | KBS 241123 방송]]></title>
-        <id>https://tv.naver.com/v/64997279</id>
-        <link href="https://tv.naver.com/v/64997279"/>
-        <updated>2024-11-23T11:16:47.265Z</updated>
-        <content type="html"><![CDATA[04:27]]></content>
     </entry>
 </feed>
