@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-11-29T09:23:45.166Z</updated>
+    <updated>2024-11-29T10:23:25.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하루마다 끝도 없이 - 규현 | KBS 241129 방송]]></title>
+        <id>https://tv.naver.com/v/65400304</id>
+        <link href="https://tv.naver.com/v/65400304"/>
+        <updated>2024-11-29T10:22:45.964Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daydream - ENHYPEN | KBS 241129 방송]]></title>
+        <id>https://tv.naver.com/v/65400301</id>
+        <link href="https://tv.naver.com/v/65400301"/>
+        <updated>2024-11-29T10:22:45.971Z</updated>
+        <content type="html"><![CDATA[02:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Like A Flower - 아이린 | KBS 241129 방송]]></title>
+        <id>https://tv.naver.com/v/65400297</id>
+        <link href="https://tv.naver.com/v/65400297"/>
+        <updated>2024-11-29T10:22:45.971Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV | KBS 241129 방송]]></title>
+        <id>https://tv.naver.com/v/65400294</id>
+        <link href="https://tv.naver.com/v/65400294"/>
+        <updated>2024-11-29T10:22:45.971Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crash - JAY B | KBS 241129 방송]]></title>
+        <id>https://tv.naver.com/v/65400292</id>
+        <link href="https://tv.naver.com/v/65400292"/>
+        <updated>2024-11-29T10:22:45.972Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better With You (Korean Ver.) - YAOCHEN | KBS 241129 방송]]></title>
+        <id>https://tv.naver.com/v/65399183</id>
+        <link href="https://tv.naver.com/v/65399183"/>
+        <updated>2024-11-29T10:22:45.972Z</updated>
+        <content type="html"><![CDATA[02:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마지막 축제 - TWS(투어스) | KBS 241129 방송]]></title>
+        <id>https://tv.naver.com/v/65399180</id>
+        <link href="https://tv.naver.com/v/65399180"/>
+        <updated>2024-11-29T10:22:45.972Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나이테 - 범진 | KBS 241129 방송]]></title>
         <id>https://tv.naver.com/v/65398755</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/65398749"/>
         <updated>2024-11-29T09:23:07.082Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINATA - 에이스 | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65397960</id>
-        <link href="https://tv.naver.com/v/65397960"/>
-        <updated>2024-11-29T09:23:07.082Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Official - ICHILLIN′ | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65397956</id>
-        <link href="https://tv.naver.com/v/65397956"/>
-        <updated>2024-11-29T09:23:07.082Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psycho and Beautiful - 클라씨(CLASS:y) | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65397164</id>
-        <link href="https://tv.naver.com/v/65397164"/>
-        <updated>2024-11-29T09:23:07.084Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여정 - 리베란테 | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65397152</id>
-        <link href="https://tv.naver.com/v/65397152"/>
-        <updated>2024-11-29T09:23:07.085Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DXMON - 열기구 | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65396314</id>
-        <link href="https://tv.naver.com/v/65396314"/>
-        <updated>2024-11-29T09:23:07.086Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NALLINA - NEXZ | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65396300</id>
-        <link href="https://tv.naver.com/v/65396300"/>
-        <updated>2024-11-29T09:23:07.088Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[렛츠기릿(Let‘s get it) - NOWADAYS | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65395872</id>
-        <link href="https://tv.naver.com/v/65395872"/>
-        <updated>2024-11-29T09:23:07.089Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
