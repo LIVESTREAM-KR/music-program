@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-11-30T09:20:30.257Z</updated>
+    <updated>2024-11-30T10:21:08.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] IRENE (아이린) – Like A Flower FanCam | 쇼! 음악중심 | MBC241130방송]]></title>
+        <id>https://tv.naver.com/v/65449997</id>
+        <link href="https://tv.naver.com/v/65449997"/>
+        <updated>2024-11-30T10:20:35.003Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] IRENE (아이린) – Like A Flower FullCam | 쇼! 음악중심 | MBC241130방송]]></title>
+        <id>https://tv.naver.com/v/65449995</id>
+        <link href="https://tv.naver.com/v/65449995"/>
+        <updated>2024-11-30T10:20:35.003Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] NEXZ (넥스지) – NALLINA FullCam | 쇼! 음악중심 | MBC241130방송]]></title>
         <id>https://tv.naver.com/v/65447111</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/65446748"/>
         <updated>2024-11-30T09:19:55.018Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna YOON JIYOON (이즈나 윤지윤) – IZNA FanCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65446703</id>
-        <link href="https://tv.naver.com/v/65446703"/>
-        <updated>2024-11-30T09:19:55.020Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ENHYPEN (엔하이픈) – Daydream FullCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65446701</id>
-        <link href="https://tv.naver.com/v/65446701"/>
-        <updated>2024-11-30T09:19:55.021Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
     </entry>
 </feed>
