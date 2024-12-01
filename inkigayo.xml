@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-12-01T06:30:27.444Z</updated>
+    <updated>2024-12-01T07:21:58.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DXMON(다이몬) - 열기구 | SBS 241201 방송]]></title>
+        <id>https://tv.naver.com/v/65488420</id>
+        <link href="https://tv.naver.com/v/65488420"/>
+        <updated>2024-12-01T07:21:27.977Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장민호 - 사랑의 티키타카 | SBS 241201 방송]]></title>
+        <id>https://tv.naver.com/v/65488417</id>
+        <link href="https://tv.naver.com/v/65488417"/>
+        <updated>2024-12-01T07:21:27.979Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEXZ - NALLINA | SBS 241201 방송]]></title>
+        <id>https://tv.naver.com/v/65488194</id>
+        <link href="https://tv.naver.com/v/65488194"/>
+        <updated>2024-12-01T07:21:27.979Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재쓰비(JAESSBEE) - 너와의 모든 지금 | SBS 241201 방송]]></title>
+        <id>https://tv.naver.com/v/65487969</id>
+        <link href="https://tv.naver.com/v/65487969"/>
+        <updated>2024-12-01T07:21:27.980Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOWADAYS - 렛츠기릿 (Let’s get it) | SBS 241201 방송]]></title>
+        <id>https://tv.naver.com/v/65487807</id>
+        <link href="https://tv.naver.com/v/65487807"/>
+        <updated>2024-12-01T07:21:27.980Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YAOCHEN - Better With You (Korean Ver.) | SBS 241201 방송]]></title>
+        <id>https://tv.naver.com/v/65487634</id>
+        <link href="https://tv.naver.com/v/65487634"/>
+        <updated>2024-12-01T07:21:27.980Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DREAM - When I’m With You | SBS 241124 방송]]></title>
         <id>https://tv.naver.com/v/65029826</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/65029300"/>
         <updated>2024-11-24T07:19:39.681Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이스(A.C.E) - PINATA | SBS 241124 방송]]></title>
-        <id>https://tv.naver.com/v/65029138</id>
-        <link href="https://tv.naver.com/v/65029138"/>
-        <updated>2024-11-24T07:19:39.682Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조미(ZHOUMI) - Ex Games | SBS 241124 방송]]></title>
-        <id>https://tv.naver.com/v/65028966</id>
-        <link href="https://tv.naver.com/v/65028966"/>
-        <updated>2024-11-24T07:19:39.682Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안예은 - 잉어왕 | SBS 241124 방송]]></title>
-        <id>https://tv.naver.com/v/65028804</id>
-        <link href="https://tv.naver.com/v/65028804"/>
-        <updated>2024-11-24T07:19:39.682Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러(Kep1er) - TIPI-TAP | SBS 241124 방송]]></title>
-        <id>https://tv.naver.com/v/65028798</id>
-        <link href="https://tv.naver.com/v/65028798"/>
-        <updated>2024-11-24T07:19:39.682Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILLIT - Tick-Tack | SBS 241124 방송]]></title>
-        <id>https://tv.naver.com/v/65028628</id>
-        <link href="https://tv.naver.com/v/65028628"/>
-        <updated>2024-11-24T07:19:39.687Z</updated>
-        <content type="html"><![CDATA[02:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BABYMONSTER - DRIP | SBS 241124 방송]]></title>
-        <id>https://tv.naver.com/v/65028403</id>
-        <link href="https://tv.naver.com/v/65028403"/>
-        <updated>2024-11-24T07:19:39.687Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
