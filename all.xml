@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-02T08:29:55.454Z</updated>
+    <updated>2024-12-02T09:28:37.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하루마다 끝도 없이 - 규현 | KBS 241129 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 헤어지자고? 이번 쇼챔 무대 대박인데?😳 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/65535888</id>
+        <link href="https://tv.naver.com/v/65535888"/>
+        <updated>2024-12-02T09:28:23.984Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1분으로 모아보는 RIIZE(라이즈)의 <Boom Boom Bass>♬ #RIIZE #라이즈 #붐붐베이스 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/65319161</id>
         <link href="https://tv.naver.com/v/65319161"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/64390779"/>
         <updated>2024-11-15T02:59:11.964Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] AMPERS&ONE(앰퍼샌드원) - Calling You Back | Show Champion | EP.540 | 241113 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/64392963</id>
-        <link href="https://tv.naver.com/v/64392963"/>
-        <updated>2024-11-14T08:27:06.742Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성대 잘 붙은 신용재의 피날레 무대✨ 임한별의 불후 조종 의혹?! | KBS 241130 방송 (불후의 명곡)]]></title>
