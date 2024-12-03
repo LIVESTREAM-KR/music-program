@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-03T01:45:18.511Z</updated>
+    <updated>2024-12-03T03:06:41.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 11월 다섯째 주 음악중심 MC 컷 모음!, MBC 241130 방송]]></title>
+        <id>https://tv.naver.com/v/65594459</id>
+        <link href="https://tv.naver.com/v/65594459"/>
+        <updated>2024-12-03T03:06:08.983Z</updated>
+        <content type="html"><![CDATA[15:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] IRENE (아이린) – Like A Flower FanCam | 쇼! 음악중심 | MBC241130방송]]></title>
         <id>https://tv.naver.com/v/65449997</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65446922"/>
         <updated>2024-11-30T09:19:55.016Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna KOKO (이즈나 코코) – IZNA FanCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65446748</id>
-        <link href="https://tv.naver.com/v/65446748"/>
-        <updated>2024-11-30T09:19:55.018Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
