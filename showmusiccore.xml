@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-03T09:23:56.009Z</updated>
+    <updated>2024-12-03T10:25:13.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] WayV XIAOJUN (웨이션브이 샤오쥔) – FREQUENCY (Korean ver.) | 쇼! 음악중심 | MBC241130방송]]></title>
+        <id>https://tv.naver.com/v/65629611</id>
+        <link href="https://tv.naver.com/v/65629611"/>
+        <updated>2024-12-03T10:24:41.886Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IRENE (아이린) – Like A Flower | 쇼! 음악중심 | MBC241130방송]]></title>
+        <id>https://tv.naver.com/v/65629606</id>
+        <link href="https://tv.naver.com/v/65629606"/>
+        <updated>2024-12-03T10:24:41.887Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] WayV TEN (웨이션브이 텐) – FREQUENCY (Korean ver.) | 쇼! 음악중심 | MBC241130방송]]></title>
+        <id>https://tv.naver.com/v/65629255</id>
+        <link href="https://tv.naver.com/v/65629255"/>
+        <updated>2024-12-03T10:24:41.887Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU (투어스 신유) – 마지막 축제 | 쇼! 음악중심 | MBC241130방송]]></title>
+        <id>https://tv.naver.com/v/65628004</id>
+        <link href="https://tv.naver.com/v/65628004"/>
+        <updated>2024-12-03T10:24:41.888Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS DOHOON (투어스 도훈) – 마지막 축제 | 쇼! 음악중심 | MBC241130방송]]></title>
+        <id>https://tv.naver.com/v/65627923</id>
+        <link href="https://tv.naver.com/v/65627923"/>
+        <updated>2024-12-03T10:24:41.889Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ENHYPEN SUNGHOON (엔하이픈 성훈) – Daydream | 쇼! 음악중심 | MBC241130방송]]></title>
         <id>https://tv.naver.com/v/65624339</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/65449997"/>
         <updated>2024-11-30T10:20:35.003Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IRENE (아이린) – Like A Flower FullCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65449995</id>
-        <link href="https://tv.naver.com/v/65449995"/>
-        <updated>2024-11-30T10:20:35.003Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NEXZ (넥스지) – NALLINA FullCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65447111</id>
-        <link href="https://tv.naver.com/v/65447111"/>
-        <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna JEONG SAEBI (이즈나 정세비) – IZNA FanCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65447109</id>
-        <link href="https://tv.naver.com/v/65447109"/>
-        <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna RYU SARANG (이즈나 유사랑) – IZNA FanCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65447108</id>
-        <link href="https://tv.naver.com/v/65447108"/>
-        <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna BANG JEEMIN (이즈나 방지민) – IZNA FanCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65447106</id>
-        <link href="https://tv.naver.com/v/65447106"/>
-        <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>

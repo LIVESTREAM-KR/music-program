@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-03T09:23:56.029Z</updated>
+    <updated>2024-12-03T10:25:14.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하루마다 끝도 없이 - 규현 | KBS 241129 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,41 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] WayV XIAOJUN (웨이션브이 샤오쥔) – FREQUENCY (Korean ver.) | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/65629611</id>
+        <link href="https://tv.naver.com/v/65629611"/>
+        <updated>2024-12-03T10:24:41.886Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IRENE (아이린) – Like A Flower | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/65629606</id>
+        <link href="https://tv.naver.com/v/65629606"/>
+        <updated>2024-12-03T10:24:41.887Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] WayV TEN (웨이션브이 텐) – FREQUENCY (Korean ver.) | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/65629255</id>
+        <link href="https://tv.naver.com/v/65629255"/>
+        <updated>2024-12-03T10:24:41.887Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU (투어스 신유) – 마지막 축제 | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/65628004</id>
+        <link href="https://tv.naver.com/v/65628004"/>
+        <updated>2024-12-03T10:24:41.888Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TWS DOHOON (투어스 도훈) – 마지막 축제 | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/65627923</id>
+        <link href="https://tv.naver.com/v/65627923"/>
+        <updated>2024-12-03T10:24:41.889Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ENHYPEN SUNGHOON (엔하이픈 성훈) – Daydream | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/65624339</id>
         <link href="https://tv.naver.com/v/65624339"/>
@@ -108,41 +143,6 @@
         <link href="https://tv.naver.com/v/65449997"/>
         <updated>2024-11-30T10:20:35.003Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IRENE (아이린) – Like A Flower FullCam | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65449995</id>
-        <link href="https://tv.naver.com/v/65449995"/>
-        <updated>2024-11-30T10:20:35.003Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NEXZ (넥스지) – NALLINA FullCam | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65447111</id>
-        <link href="https://tv.naver.com/v/65447111"/>
-        <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna JEONG SAEBI (이즈나 정세비) – IZNA FanCam | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65447109</id>
-        <link href="https://tv.naver.com/v/65447109"/>
-        <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna RYU SARANG (이즈나 유사랑) – IZNA FanCam | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65447108</id>
-        <link href="https://tv.naver.com/v/65447108"/>
-        <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna BANG JEEMIN (이즈나 방지민) – IZNA FanCam | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65447106</id>
-        <link href="https://tv.naver.com/v/65447106"/>
-        <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[규현(KYUHYUN) - 하루마다 끝도 없이 (Unending Days) | SBS 241201 방송 (인기가요)]]></title>
@@ -285,74 +285,74 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New L - Focus [THE SHOW 241203] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/65627534</id>
-        <link href="https://tv.naver.com/v/65627534"/>
-        <updated>2024-12-03T09:23:37.186Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
+        <title type="html"><![CDATA[YOASOBI - New me [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65631588</id>
+        <link href="https://tv.naver.com/v/65631588"/>
+        <updated>2024-12-03T10:24:57.601Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMPERS&ONE - He + She = We (앰퍼샌드원, He + She = We) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64293059</id>
-        <link href="https://tv.naver.com/v/64293059"/>
-        <updated>2024-11-12T12:40:30.459Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
+        <title type="html"><![CDATA[YOASOBI - Idol [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65630727</id>
+        <link href="https://tv.naver.com/v/65630727"/>
+        <updated>2024-12-03T10:24:57.604Z</updated>
+        <content type="html"><![CDATA[04:05]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[82MAJOR - Stuck (82MAJOR, 혀끝) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64292715</id>
-        <link href="https://tv.naver.com/v/64292715"/>
-        <updated>2024-11-12T12:40:30.459Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
+        <title type="html"><![CDATA[A.C.E - PINATA (에이스, PINATA) [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65630303</id>
+        <link href="https://tv.naver.com/v/65630303"/>
+        <updated>2024-12-03T10:24:57.605Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kep1er - THE SHOW CHOICE! [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64287941</id>
-        <link href="https://tv.naver.com/v/64287941"/>
-        <updated>2024-11-12T11:16:49.643Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIVIZ - Shhh! (비비지, Shhh!) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64287939</id>
-        <link href="https://tv.naver.com/v/64287939"/>
-        <updated>2024-11-12T11:16:49.646Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX - UNIVERSE (이펙스, UNIVERSE) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64287644</id>
-        <link href="https://tv.naver.com/v/64287644"/>
-        <updated>2024-11-12T11:16:49.647Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EPEX - Closer (이펙스, 잃어버린 것들에 대하여) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64287640</id>
-        <link href="https://tv.naver.com/v/64287640"/>
-        <updated>2024-11-12T11:16:49.651Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kep1er - TIPI-TAP (케플러, TIPI-TAP) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64287638</id>
-        <link href="https://tv.naver.com/v/64287638"/>
-        <updated>2024-11-12T11:16:49.651Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEE JAEWON - ONCE AGAIN (이재원, ONCE AGAIN) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64286263</id>
-        <link href="https://tv.naver.com/v/64286263"/>
-        <updated>2024-11-12T10:21:28.034Z</updated>
+        <title type="html"><![CDATA[NOWADAYS - Let’s get it (NOWADAYS, 렛츠기릿) [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65630027</id>
+        <link href="https://tv.naver.com/v/65630027"/>
+        <updated>2024-12-03T10:24:57.608Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moon Jong Up - TWIST YA (문종업, TWIST YA) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64286261</id>
-        <link href="https://tv.naver.com/v/64286261"/>
-        <updated>2024-11-12T10:21:28.034Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
+        <title type="html"><![CDATA[ICHILLIN’ - Official (아이칠린, Official) [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65629963</id>
+        <link href="https://tv.naver.com/v/65629963"/>
+        <updated>2024-12-03T10:24:57.609Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BADVILLAIN - ZOOM (배드빌런, 숨) [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65629613</id>
+        <link href="https://tv.naver.com/v/65629613"/>
+        <updated>2024-12-03T10:24:57.611Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PARK JEUP - Reset (박제업, Reset) [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65628967</id>
+        <link href="https://tv.naver.com/v/65628967"/>
+        <updated>2024-12-03T10:24:57.612Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[챌린딩] MC 형준 & WayV [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65628633</id>
+        <link href="https://tv.naver.com/v/65628633"/>
+        <updated>2024-12-03T10:24:57.614Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PRIMROSE - Steal Heart (프림로즈, Steal Heart) [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65628285</id>
+        <link href="https://tv.naver.com/v/65628285"/>
+        <updated>2024-12-03T10:24:57.616Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jay Chang - LaSalle Ave (제이창, LaSalle Ave) [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65627933</id>
+        <link href="https://tv.naver.com/v/65627933"/>
+        <updated>2024-12-03T10:24:57.617Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 헤어지자고? 이번 쇼챔 무대 대박인데?😳 (쇼챔피언)]]></title>
