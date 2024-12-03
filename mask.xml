@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-12-03T07:23:41.633Z</updated>
+    <updated>2024-12-03T08:28:26.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 감미로운 음색의 OST 요정🧀 싱어송라이터 치즈 하이라이트!, MBC 241201 방송]]></title>
+        <id>https://tv.naver.com/v/65621889</id>
+        <link href="https://tv.naver.com/v/65621889"/>
+        <updated>2024-12-03T08:28:25.477Z</updated>
+        <content type="html"><![CDATA[09:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 허스키한 저음과 섬세한 고음을 넘나드는✨ 라비던스 황건하 하이라이트!, MBC 241201 방송]]></title>
+        <id>https://tv.naver.com/v/65621886</id>
+        <link href="https://tv.naver.com/v/65621886"/>
+        <updated>2024-12-03T08:28:25.477Z</updated>
+        <content type="html"><![CDATA[11:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 서바이벌 프로그램 휩쓴 완성형 아티스트🎁 가수 제이창 하이라이트!, MBC 241201 방송]]></title>
+        <id>https://tv.naver.com/v/65621566</id>
+        <link href="https://tv.naver.com/v/65621566"/>
+        <updated>2024-12-03T08:28:25.479Z</updated>
+        <content type="html"><![CDATA[11:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 싼토끼🐰가 노래를 이렇게 잘했다고😮? 산다라박이 부르는 《원하고 원망하죠》 《시작》 | #산다라박 #2NE1 MBC241201방송]]></title>
         <id>https://tv.naver.com/v/65598770</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/65496942"/>
         <updated>2024-12-01T11:17:36.503Z</updated>
         <content type="html"><![CDATA[01:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['파란 머리 맨' 3라운드 무대 - 12월의 기적, MBC 241201 방송]]></title>
-        <id>https://tv.naver.com/v/65496351</id>
-        <link href="https://tv.naver.com/v/65496351"/>
-        <updated>2024-12-01T11:17:36.504Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['회오리 감자' 3라운드 무대 - 녹턴, MBC 241201 방송]]></title>
-        <id>https://tv.naver.com/v/65496344</id>
-        <link href="https://tv.naver.com/v/65496344"/>
-        <updated>2024-12-01T11:17:36.506Z</updated>
-        <content type="html"><![CDATA[04:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['범인 잡는 손전등'의 정체는 2NE1 산다라박!, MBC 241201 방송]]></title>
-        <id>https://tv.naver.com/v/65495925</id>
-        <link href="https://tv.naver.com/v/65495925"/>
-        <updated>2024-12-01T10:22:59.695Z</updated>
-        <content type="html"><![CDATA[01:43]]></content>
     </entry>
 </feed>
