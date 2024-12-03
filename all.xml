@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-03T04:27:15.095Z</updated>
+    <updated>2024-12-03T05:21:35.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하루마다 끝도 없이 - 규현 | KBS 241129 방송 (뮤직뱅크)]]></title>
@@ -467,13 +467,6 @@
         <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[허각(Huh Gak) - 어떻게 사랑이 그래요 | KBS 241130 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/65451369</id>
-        <link href="https://tv.naver.com/v/65451369"/>
-        <updated>2024-11-30T11:17:20.127Z</updated>
-        <content type="html"><![CDATA[05:42]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[피하고 싶은 허각 뒤 순서💦 아들과 배우까지 섭외한 김기태의 무대 연출😲 | KBS 241130 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/65451366</id>
         <link href="https://tv.naver.com/v/65451366"/>
@@ -493,6 +486,13 @@
         <link href="https://tv.naver.com/v/65450710"/>
         <updated>2024-11-30T11:17:20.131Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웃참 필수 감동적인(?) 임한별 무대🤣 바쁜 양손잡이 무대 매너?! | KBS 241130 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/65450704</id>
+        <link href="https://tv.naver.com/v/65450704"/>
+        <updated>2024-12-03T05:21:29.141Z</updated>
+        <content type="html"><![CDATA[01:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 싼토끼🐰가 노래를 이렇게 잘했다고😮? 산다라박이 부르는 《원하고 원망하죠》 《시작》 | #산다라박 #2NE1 MBC241201방송 (복면가왕)]]></title>
