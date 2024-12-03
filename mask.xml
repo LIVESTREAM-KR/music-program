@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-12-03T03:06:41.911Z</updated>
+    <updated>2024-12-03T04:27:15.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 싼토끼🐰가 노래를 이렇게 잘했다고😮? 산다라박이 부르는 《원하고 원망하죠》 《시작》 | #산다라박 #2NE1 MBC241201방송]]></title>
+        <id>https://tv.naver.com/v/65598770</id>
+        <link href="https://tv.naver.com/v/65598770"/>
+        <updated>2024-12-03T04:27:14.438Z</updated>
+        <content type="html"><![CDATA[16:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분] 상큼함 대폭발! '범인 잡는 손전등' 산다라박이 추는 핑클의 ＜영원한 사랑＞💗, MBC 241201 방송]]></title>
         <id>https://tv.naver.com/v/65498255</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65495925"/>
         <updated>2024-12-01T10:22:59.695Z</updated>
         <content type="html"><![CDATA[01:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경연에서 준우승을 차지한 '회오리 감자'?! 배우 여진구가 전하는 중요한 힌트💡, MBC 241201 방송]]></title>
-        <id>https://tv.naver.com/v/65495923</id>
-        <link href="https://tv.naver.com/v/65495923"/>
-        <updated>2024-12-01T10:22:59.696Z</updated>
-        <content type="html"><![CDATA[01:19]]></content>
     </entry>
 </feed>
