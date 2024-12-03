@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-03T08:28:26.097Z</updated>
+    <updated>2024-12-03T09:23:56.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하루마다 끝도 없이 - 규현 | KBS 241129 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ENHYPEN SUNGHOON (엔하이픈 성훈) – Daydream | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/65624339</id>
+        <link href="https://tv.naver.com/v/65624339"/>
+        <updated>2024-12-03T09:23:19.044Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ENHYPEN NI-KI (엔하이픈 니키) – Daydream | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/65624103</id>
         <link href="https://tv.naver.com/v/65624103"/>
@@ -135,13 +142,6 @@
         <id>https://tv.naver.com/v/65447106</id>
         <link href="https://tv.naver.com/v/65447106"/>
         <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna (이즈나) – IZNA FullCam | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65447105</id>
-        <link href="https://tv.naver.com/v/65447105"/>
-        <updated>2024-11-30T09:19:55.009Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
@@ -285,6 +285,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New L - Focus [THE SHOW 241203] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/65627534</id>
+        <link href="https://tv.naver.com/v/65627534"/>
+        <updated>2024-12-03T09:23:37.186Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AMPERS&ONE - He + She = We (앰퍼샌드원, He + She = We) [THE SHOW 241112] (더쇼)]]></title>
         <id>https://tv.naver.com/v/64293059</id>
         <link href="https://tv.naver.com/v/64293059"/>
@@ -346,13 +353,6 @@
         <link href="https://tv.naver.com/v/64286261"/>
         <updated>2024-11-12T10:21:28.034Z</updated>
         <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POW - Boyfriend (파우, Boyfriend) [THE SHOW 241112] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/64286205</id>
-        <link href="https://tv.naver.com/v/64286205"/>
-        <updated>2024-11-12T10:21:28.034Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 헤어지자고? 이번 쇼챔 무대 대박인데?😳 (쇼챔피언)]]></title>

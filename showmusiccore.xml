@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-03T08:28:26.094Z</updated>
+    <updated>2024-12-03T09:23:56.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ENHYPEN SUNGHOON (엔하이픈 성훈) – Daydream | 쇼! 음악중심 | MBC241130방송]]></title>
+        <id>https://tv.naver.com/v/65624339</id>
+        <link href="https://tv.naver.com/v/65624339"/>
+        <updated>2024-12-03T09:23:19.044Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ENHYPEN NI-KI (엔하이픈 니키) – Daydream | 쇼! 음악중심 | MBC241130방송]]></title>
         <id>https://tv.naver.com/v/65624103</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/65447106</id>
         <link href="https://tv.naver.com/v/65447106"/>
         <updated>2024-11-30T09:19:55.007Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna (이즈나) – IZNA FullCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65447105</id>
-        <link href="https://tv.naver.com/v/65447105"/>
-        <updated>2024-11-30T09:19:55.009Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>

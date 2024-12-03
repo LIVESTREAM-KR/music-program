@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2024-12-03T08:28:26.092Z</updated>
+    <updated>2024-12-03T09:23:56.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New L - Focus [THE SHOW 241203]]]></title>
+        <id>https://tv.naver.com/v/65627534</id>
+        <link href="https://tv.naver.com/v/65627534"/>
+        <updated>2024-12-03T09:23:37.186Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMPERS&ONE - He + She = We (앰퍼샌드원, He + She = We) [THE SHOW 241112]]]></title>
         <id>https://tv.naver.com/v/64293059</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/64286261"/>
         <updated>2024-11-12T10:21:28.034Z</updated>
         <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POW - Boyfriend (파우, Boyfriend) [THE SHOW 241112]]]></title>
-        <id>https://tv.naver.com/v/64286205</id>
-        <link href="https://tv.naver.com/v/64286205"/>
-        <updated>2024-11-12T10:21:28.034Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
