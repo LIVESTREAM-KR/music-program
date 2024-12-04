@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-04T07:23:41.952Z</updated>
+    <updated>2024-12-04T08:30:01.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] TOMORROW X TOGETHER (투모로우바이투게더) – Over The Moon | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/65691663</id>
+        <link href="https://tv.naver.com/v/65691663"/>
+        <updated>2024-12-04T08:29:26.034Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] WayV.zip 📂 Turn Back Time (超时空回)부터 FREQUENCY까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/65626534</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65615535"/>
         <updated>2024-12-03T07:23:07.177Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 11월 다섯째 주 음악중심 MC 컷 모음!, MBC 241130 방송]]></title>
-        <id>https://tv.naver.com/v/65594459</id>
-        <link href="https://tv.naver.com/v/65594459"/>
-        <updated>2024-12-03T03:06:08.983Z</updated>
-        <content type="html"><![CDATA[15:20]]></content>
     </entry>
 </feed>
