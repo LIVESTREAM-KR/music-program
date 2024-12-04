@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-04T06:31:39.318Z</updated>
+    <updated>2024-12-04T07:23:41.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] WayV.zip 📂 Turn Back Time (超时空回)부터 FREQUENCY까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/65626534</id>
+        <link href="https://tv.naver.com/v/65626534"/>
+        <updated>2024-12-04T07:23:05.008Z</updated>
+        <content type="html"><![CDATA[35:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] WayV XIAOJUN (웨이션브이 샤오쥔) – FREQUENCY (Korean ver.) | 쇼! 음악중심 | MBC241130방송]]></title>
         <id>https://tv.naver.com/v/65629611</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65594459"/>
         <updated>2024-12-03T03:06:08.983Z</updated>
         <content type="html"><![CDATA[15:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IRENE (아이린) – Like A Flower FanCam | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65449997</id>
-        <link href="https://tv.naver.com/v/65449997"/>
-        <updated>2024-11-30T10:20:35.003Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
