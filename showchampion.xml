@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-12-04T10:24:16.161Z</updated>
+    <updated>2024-12-04T11:18:45.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] BADVILLAIN(배드빌런) - 숨 | Show Champion | EP.542 | 241204]]></title>
+        <id>https://tv.naver.com/v/65698638</id>
+        <link href="https://tv.naver.com/v/65698638"/>
+        <updated>2024-12-04T11:18:33.777Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 12월 1주 챔피언송 ＜WayV - FREQUENCY (Korean Ver.)＞ 앵콜 Full ver. l Show Champion l EP.542 l 241204]]></title>
+        <id>https://tv.naver.com/v/65709832</id>
+        <link href="https://tv.naver.com/v/65709832"/>
+        <updated>2024-12-04T11:18:33.779Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 웨이션브이(WayV) - FREQUENCY (Korean Ver.) l 241204]]></title>
         <id>https://tv.naver.com/v/65703599</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/65701780"/>
         <updated>2024-12-04T09:24:19.889Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥스지(NEXZ) - HARD l 241204]]></title>
-        <id>https://tv.naver.com/v/65701778</id>
-        <link href="https://tv.naver.com/v/65701778"/>
-        <updated>2024-12-04T09:24:19.891Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 나우어데이즈(NOWADAYS) - 렛츠기릿 (Let’s get it) l 241204]]></title>
-        <id>https://tv.naver.com/v/65701376</id>
-        <link href="https://tv.naver.com/v/65701376"/>
-        <updated>2024-12-04T09:24:19.892Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
