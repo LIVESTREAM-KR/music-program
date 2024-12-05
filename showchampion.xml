@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-12-04T23:21:36.125Z</updated>
+    <updated>2024-12-05T01:45:30.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 VERIVERY(베리베리)의 <CRAZY LIKE THAT>♬ #VERIVERY #베리베리 #크레이지 라이크]]></title>
+        <id>https://tv.naver.com/v/65738218</id>
+        <link href="https://tv.naver.com/v/65738218"/>
+        <updated>2024-12-05T01:45:18.496Z</updated>
+        <content type="html"><![CDATA[01:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] CLASS:y(클라씨) - Psycho and Beautiful | Show Champion | EP.542 | 241204]]></title>
         <id>https://tv.naver.com/v/65709532</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/65706204</id>
         <link href="https://tv.naver.com/v/65706204"/>
         <updated>2024-12-04T13:31:45.395Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] WayV YANGYANG(웨이션브이 양양) - HIGH FIVE | Show Champion | EP.542 | 241204]]></title>
-        <id>https://tv.naver.com/v/65705584</id>
-        <link href="https://tv.naver.com/v/65705584"/>
-        <updated>2024-12-04T13:31:45.397Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
