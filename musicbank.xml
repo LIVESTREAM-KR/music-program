@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2024-12-06T07:23:30.374Z</updated>
+    <updated>2024-12-06T08:28:40.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아찔하게 - 이예은 (Lee Ye Eun) | KBS 241206 방송]]></title>
+        <id>https://tv.naver.com/v/65847121</id>
+        <link href="https://tv.naver.com/v/65847121"/>
+        <updated>2024-12-06T08:27:58.144Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루마다 끝도 없이 - 규현 | KBS 241129 방송]]></title>
         <id>https://tv.naver.com/v/65400304</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65398752"/>
         <updated>2024-11-29T09:23:07.077Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIMEBOMB - izna(이즈나) | KBS 241129 방송]]></title>
-        <id>https://tv.naver.com/v/65398749</id>
-        <link href="https://tv.naver.com/v/65398749"/>
-        <updated>2024-11-29T09:23:07.082Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
