@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-12-06T01:44:21.390Z</updated>
+    <updated>2024-12-06T03:04:04.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[12월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.542 | 241204]]></title>
+        <id>https://tv.naver.com/v/65714053</id>
+        <link href="https://tv.naver.com/v/65714053"/>
+        <updated>2024-12-06T03:03:52.120Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] A.C.E(에이스) - Anymore | Show Champion | EP.542 | 241204]]></title>
         <id>https://tv.naver.com/v/65739251</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/65709213</id>
         <link href="https://tv.naver.com/v/65709213"/>
         <updated>2024-12-04T13:31:45.385Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CLASS:y JIMIN(클라씨 지민) - Psycho and Beautiful | Show Champion | EP.542 | 241204]]></title>
-        <id>https://tv.naver.com/v/65709210</id>
-        <link href="https://tv.naver.com/v/65709210"/>
-        <updated>2024-12-04T13:31:45.386Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
