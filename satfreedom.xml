@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-12-07T11:17:02.951Z</updated>
+    <updated>2024-12-07T12:39:26.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이키(H1-KEY) - 풀잎사랑(가로) | KBS 241207 방송]]></title>
+        <id>https://tv.naver.com/v/65912879</id>
+        <link href="https://tv.naver.com/v/65912879"/>
+        <updated>2024-12-07T12:39:20.654Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우디(Woody) - 바램(세로) | KBS 241207 방송]]></title>
+        <id>https://tv.naver.com/v/65912033</id>
+        <link href="https://tv.naver.com/v/65912033"/>
+        <updated>2024-12-07T12:39:20.654Z</updated>
+        <content type="html"><![CDATA[05:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 입담만큼 남다른 스케일의 무대들! 아티스트 노사연&최성수 2부 | KBS 241207 방송]]></title>
         <id>https://tv.naver.com/v/65910819</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/65909040"/>
         <updated>2024-12-07T11:16:56.583Z</updated>
         <content type="html"><![CDATA[01:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노사연을 누나라고 부르는 귀염둥이 13년생 막내 민호🤣 | KBS 241207 방송]]></title>
-        <id>https://tv.naver.com/v/65909034</id>
-        <link href="https://tv.naver.com/v/65909034"/>
-        <updated>2024-12-07T11:16:56.584Z</updated>
-        <content type="html"><![CDATA[01:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유일한 전설 출연자 이세준 ＂불후의 명곡인데 자신 있어야죠＂트로피만 8개?! | KBS 241207 방송]]></title>
-        <id>https://tv.naver.com/v/65908869</id>
-        <link href="https://tv.naver.com/v/65908869"/>
-        <updated>2024-12-07T11:16:56.585Z</updated>
-        <content type="html"><![CDATA[01:18]]></content>
     </entry>
 </feed>
