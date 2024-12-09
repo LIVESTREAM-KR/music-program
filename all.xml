@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-09T05:22:19.946Z</updated>
+    <updated>2024-12-09T06:32:23.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[01:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 압도적인 가창력🎤으로 전하는 위로❤️‍🔥 카니발이 부르는 《여러분》 《그것만이 내 세상》 | #카니발 #가왕 MBC241117방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/66010299</id>
+        <link href="https://tv.naver.com/v/66010299"/>
+        <updated>2024-12-09T06:32:23.101Z</updated>
+        <content type="html"><![CDATA[13:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 감미로운 음색의 OST 요정🧀 싱어송라이터 치즈 하이라이트!, MBC 241201 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/65621889</id>
         <link href="https://tv.naver.com/v/65621889"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/65496945"/>
         <updated>2024-12-01T11:17:36.501Z</updated>
         <content type="html"><![CDATA[04:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['회오리 감자'의 정체는 뮤지컬 배우 황건하!, MBC 241201 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/65496942</id>
-        <link href="https://tv.naver.com/v/65496942"/>
-        <updated>2024-12-01T11:17:36.503Z</updated>
-        <content type="html"><![CDATA[01:23]]></content>
     </entry>
 </feed>
