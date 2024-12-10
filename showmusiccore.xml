@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-10T07:24:29.559Z</updated>
+    <updated>2024-12-10T08:29:43.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ENHYPEN (엔하이픈) – No Doubt | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/66084616</id>
+        <link href="https://tv.naver.com/v/66084616"/>
+        <updated>2024-12-10T08:29:07.672Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Red Velvet Solo.zip 📂 Show! Music Core Red Velvet Solo Stages Compilation]]></title>
         <id>https://tv.naver.com/v/66077326</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65624339"/>
         <updated>2024-12-03T09:23:19.044Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ENHYPEN NI-KI (엔하이픈 니키) – Daydream | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65624103</id>
-        <link href="https://tv.naver.com/v/65624103"/>
-        <updated>2024-12-03T08:27:50.905Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
     </entry>
 </feed>
