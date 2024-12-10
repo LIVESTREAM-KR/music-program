@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-10T05:22:12.887Z</updated>
+    <updated>2024-12-10T06:31:38.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Red Velvet Solo.zip 📂 Show! Music Core Red Velvet Solo Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/66077326</id>
+        <link href="https://tv.naver.com/v/66077326"/>
+        <updated>2024-12-10T06:31:02.127Z</updated>
+        <content type="html"><![CDATA[27:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] TOMORROW X TOGETHER (투모로우바이투게더) – Over The Moon | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/65691663</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65624103"/>
         <updated>2024-12-03T08:27:50.905Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] izna BANG JEEMIN (이즈나 방지민) – IZNA | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65615535</id>
-        <link href="https://tv.naver.com/v/65615535"/>
-        <updated>2024-12-03T07:23:07.177Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
 </feed>
