@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-11T09:24:09.064Z</updated>
+    <updated>2024-12-11T10:24:13.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #웨이션브이 #WayV 태양과 밤이 공존(?)하는 글로벌 그룹 웨이션둥이들 음중 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/66161191</id>
+        <link href="https://tv.naver.com/v/66161191"/>
+        <updated>2024-12-11T10:23:39.164Z</updated>
+        <content type="html"><![CDATA[08:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] VIVIZ (비비지) – Shhh! | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/66154098</id>
         <link href="https://tv.naver.com/v/66154098"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/65628004"/>
         <updated>2024-12-03T10:24:41.888Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS DOHOON (투어스 도훈) – 마지막 축제 | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65627923</id>
-        <link href="https://tv.naver.com/v/65627923"/>
-        <updated>2024-12-03T10:24:41.889Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[규현(KYUHYUN) - 하루마다 끝도 없이 (Unending Days) | SBS 241201 방송 (인기가요)]]></title>
