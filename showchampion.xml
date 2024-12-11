@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-12-11T07:23:03.677Z</updated>
+    <updated>2024-12-11T08:29:41.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE CHAMPION] SHOW CHAMPION 542회 BEST CLIP TOP3✨ l 241211]]></title>
+        <id>https://tv.naver.com/v/66083060</id>
+        <link href="https://tv.naver.com/v/66083060"/>
+        <updated>2024-12-11T08:29:28.140Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1분으로 모아보는 IVE(아이브)의 <ELEVEN>♬]]></title>
         <id>https://tv.naver.com/v/66082977</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/65738754</id>
         <link href="https://tv.naver.com/v/65738754"/>
         <updated>2024-12-05T08:29:00.289Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NEXZ YU(넥스지 유우) - HARD | Show Champion | EP.542 | 241204]]></title>
-        <id>https://tv.naver.com/v/65738752</id>
-        <link href="https://tv.naver.com/v/65738752"/>
-        <updated>2024-12-05T08:29:00.291Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
