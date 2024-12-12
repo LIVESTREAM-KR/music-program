@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-12T07:22:48.884Z</updated>
+    <updated>2024-12-12T08:29:29.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] BABYMONSTER (베이비몬스터) – DRIP | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/66223028</id>
+        <link href="https://tv.naver.com/v/66223028"/>
+        <updated>2024-12-12T08:28:51.438Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #웨이션브이 #WayV 태양과 밤이 공존(?)하는 글로벌 그룹 웨이션둥이들 음중 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/66161191</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65629255"/>
         <updated>2024-12-03T10:24:41.887Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU (투어스 신유) – 마지막 축제 | 쇼! 음악중심 | MBC241130방송]]></title>
-        <id>https://tv.naver.com/v/65628004</id>
-        <link href="https://tv.naver.com/v/65628004"/>
-        <updated>2024-12-03T10:24:41.888Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
