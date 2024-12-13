@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-13T05:22:13.102Z</updated>
+    <updated>2024-12-13T06:32:17.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ILLIT (아일릿) – Tick-Tack | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/66270833</id>
+        <link href="https://tv.naver.com/v/66270833"/>
+        <updated>2024-12-13T06:31:46.225Z</updated>
+        <content type="html"><![CDATA[02:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #투어스 #TWS 들숨에 투어스!!! 날숨에 귀여워!! 이제는 프로아이돌💙✨ TWS 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/66268643</id>
+        <link href="https://tv.naver.com/v/66268643"/>
+        <updated>2024-12-13T06:31:46.227Z</updated>
+        <content type="html"><![CDATA[10:55]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] BABYMONSTER (베이비몬스터) – DRIP | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/66223028</id>
         <link href="https://tv.naver.com/v/66223028"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/65629611"/>
         <updated>2024-12-03T10:24:41.886Z</updated>
         <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IRENE (아이린) – Like A Flower | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65629606</id>
-        <link href="https://tv.naver.com/v/65629606"/>
-        <updated>2024-12-03T10:24:41.887Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] WayV TEN (웨이션브이 텐) – FREQUENCY (Korean ver.) | 쇼! 음악중심 | MBC241130방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/65629255</id>
-        <link href="https://tv.naver.com/v/65629255"/>
-        <updated>2024-12-03T10:24:41.887Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[규현(KYUHYUN) - 하루마다 끝도 없이 (Unending Days) | SBS 241201 방송 (인기가요)]]></title>
