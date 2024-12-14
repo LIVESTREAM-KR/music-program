@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-12-14T11:17:03.163Z</updated>
+    <updated>2024-12-14T12:39:07.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[위스키와 댄스에 취했던(?) 안성훈의 무대🤣 표정에서 보이는 끼충만?! | KBS 241214 방송]]></title>
-        <id>https://tv.naver.com/v/66363930</id>
-        <link href="https://tv.naver.com/v/66363930"/>
-        <updated>2024-12-14T11:16:56.657Z</updated>
-        <content type="html"><![CDATA[04:44]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 왕중왕전을 뛰어넘는 라인업! 2024 오 마이 스타 특집 편✨ | KBS 241214 방송]]></title>
         <id>https://tv.naver.com/v/66363916</id>
         <link href="https://tv.naver.com/v/66363916"/>
         <updated>2024-12-14T11:16:56.660Z</updated>
         <content type="html"><![CDATA[00:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위스키와 댄스에 취했던(?) 안성훈의 무대🤣 표정에서 보이는 끼충만?! | KBS 241214 방송]]></title>
+        <id>https://tv.naver.com/v/66363930</id>
+        <link href="https://tv.naver.com/v/66363930"/>
+        <updated>2024-12-14T11:16:56.657Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안성훈(An Seong Hoon) - Whisky on the Rock | KBS 241214 방송]]></title>
