@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-15T10:22:07.906Z</updated>
+    <updated>2024-12-15T11:16:51.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#음중직캠] izna JEONG SAEBI (이즈나 정세비) – IZNA FanCam | 쇼! 음악중심 | MBC241215방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/66413863</id>
+        <link href="https://tv.naver.com/v/66413863"/>
+        <updated>2024-12-15T11:16:16.899Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] izna CHOI JUNGEUN (이즈나 최정은) – IZNA FanCam | 쇼! 음악중심 | MBC241215방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/66413858</id>
+        <link href="https://tv.naver.com/v/66413858"/>
+        <updated>2024-12-15T11:16:16.899Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] TWS DOHOON (투어스 도훈) – 마지막 축제 | 쇼! 음악중심 | MBC241215방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/66407212</id>
         <link href="https://tv.naver.com/v/66407212"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/66406938"/>
         <updated>2024-12-15T09:20:23.363Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna YOON JIYOON (이즈나 윤지윤) – IZNA FanCam | 쇼! 음악중심 | MBC241215방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/66406757</id>
-        <link href="https://tv.naver.com/v/66406757"/>
-        <updated>2024-12-15T09:20:23.365Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna RYU SARANG (이즈나 유사랑) – IZNA FanCam | 쇼! 음악중심 | MBC241215방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/66406714</id>
-        <link href="https://tv.naver.com/v/66406714"/>
-        <updated>2024-12-15T09:20:23.366Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이린(IRENE) - Like A Flower | SBS 241215 방송 (인기가요)]]></title>
