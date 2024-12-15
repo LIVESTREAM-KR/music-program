@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-12-15T08:26:01.820Z</updated>
+    <updated>2024-12-15T09:20:58.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://tv.naver.com/v/66403940"/>
         <updated>2024-12-15T08:25:31.981Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWICE(트와이스) - Strategy | SBS 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66403716</id>
-        <link href="https://tv.naver.com/v/66403716"/>
-        <updated>2024-12-15T08:25:31.997Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CRAVITY - Now or Never | SBS 241215 방송]]></title>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/66402016"/>
         <updated>2024-12-15T08:25:32.012Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주시크(Joosiq) - 양재천에서 (Call Your Name) | SBS 241215 방송]]></title>
+        <id>https://tv.naver.com/v/66401759</id>
+        <link href="https://tv.naver.com/v/66401759"/>
+        <updated>2024-12-15T09:20:29.140Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
