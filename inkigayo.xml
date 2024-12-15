@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2024-12-15T06:29:25.581Z</updated>
+    <updated>2024-12-15T07:20:11.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프림로즈(PRIMROSE) - Steal Heart | SBS 241215 방송]]></title>
+        <id>https://tv.naver.com/v/66401280</id>
+        <link href="https://tv.naver.com/v/66401280"/>
+        <updated>2024-12-15T07:19:42.005Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅오션(Big Ocean) - FLOW | SBS 241215 방송]]></title>
+        <id>https://tv.naver.com/v/66401041</id>
+        <link href="https://tv.naver.com/v/66401041"/>
+        <updated>2024-12-15T07:19:42.005Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이차일드(DayChild) - Stunning | SBS 241215 방송]]></title>
+        <id>https://tv.naver.com/v/66401036</id>
+        <link href="https://tv.naver.com/v/66401036"/>
+        <updated>2024-12-15T07:19:42.018Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양지은 - 나비당신 (You are a butterfly) | SBS 241215 방송]]></title>
+        <id>https://tv.naver.com/v/66400783</id>
+        <link href="https://tv.naver.com/v/66400783"/>
+        <updated>2024-12-15T07:19:42.019Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[규현(KYUHYUN) - 하루마다 끝도 없이 (Unending Days) | SBS 241201 방송]]></title>
         <id>https://tv.naver.com/v/65490646</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/65489789"/>
         <updated>2024-12-01T08:25:41.142Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLASS:y(클라씨) - Psycho and Beautiful | SBS 241201 방송]]></title>
-        <id>https://tv.naver.com/v/65489591</id>
-        <link href="https://tv.naver.com/v/65489591"/>
-        <updated>2024-12-01T08:25:41.144Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICHILLIN'(아이칠린) - Official | SBS 241201 방송]]></title>
-        <id>https://tv.naver.com/v/65489586</id>
-        <link href="https://tv.naver.com/v/65489586"/>
-        <updated>2024-12-01T08:25:41.145Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWS (투어스) - 마지막 축제 | SBS 241201 방송]]></title>
-        <id>https://tv.naver.com/v/65489250</id>
-        <link href="https://tv.naver.com/v/65489250"/>
-        <updated>2024-12-01T08:25:41.147Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILLIT - Tick-Tack | SBS 241201 방송]]></title>
-        <id>https://tv.naver.com/v/65489247</id>
-        <link href="https://tv.naver.com/v/65489247"/>
-        <updated>2024-12-01T08:25:41.149Z</updated>
-        <content type="html"><![CDATA[02:17]]></content>
     </entry>
 </feed>

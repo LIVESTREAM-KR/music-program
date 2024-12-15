@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-15T06:29:25.560Z</updated>
+    <updated>2024-12-15T07:20:11.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #엔시티드림 #NCTDREAM When I'm with 7DREAM.. 칠드림과 함께하면 행복해지는 이유💚 음중 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/66400548</id>
+        <link href="https://tv.naver.com/v/66400548"/>
+        <updated>2024-12-15T07:19:36.168Z</updated>
+        <content type="html"><![CDATA[37:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이린 - Like A Flower (IRENE - Like A Flower), MBC 241215 방송]]></title>
+        <id>https://tv.naver.com/v/66400174</id>
+        <link href="https://tv.naver.com/v/66400174"/>
+        <updated>2024-12-15T07:19:36.168Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트와이스 - Strategy (TWICE - Strategy), MBC 241215 방송]]></title>
+        <id>https://tv.naver.com/v/66399876</id>
+        <link href="https://tv.naver.com/v/66399876"/>
+        <updated>2024-12-15T07:19:36.168Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웨이션브이 - FREQUENCY (Korean Ver.) (WayV - FREQUENCY (Korean Ver.)), MBC 241215 방송]]></title>
+        <id>https://tv.naver.com/v/66399623</id>
+        <link href="https://tv.naver.com/v/66399623"/>
+        <updated>2024-12-15T07:19:36.168Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크래비티 - Horizon (CRAVITY - Horizon), MBC 241215 방송]]></title>
         <id>https://tv.naver.com/v/66399433</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/66398489"/>
         <updated>2024-12-15T06:28:49.360Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥스지 - NALLINA (NEXZ - NALLINA), MBC 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66398270</id>
-        <link href="https://tv.naver.com/v/66398270"/>
-        <updated>2024-12-15T06:28:49.361Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나우어데이즈 - 렛츠기릿 (NOWADAYS - Let's get it), MBC 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66398052</id>
-        <link href="https://tv.naver.com/v/66398052"/>
-        <updated>2024-12-15T06:28:49.362Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장민호 - 사랑의 티키타카 (JANG MIN HO - Tiki-taka of Love), MBC 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66397810</id>
-        <link href="https://tv.naver.com/v/66397810"/>
-        <updated>2024-12-15T06:28:49.364Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배드빌런 - 숨 (ZOOM) (BADVILLAIN - ZOOM), MBC 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66397807</id>
-        <link href="https://tv.naver.com/v/66397807"/>
-        <updated>2024-12-15T06:28:49.365Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
     </entry>
 </feed>
