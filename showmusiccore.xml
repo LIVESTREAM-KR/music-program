@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-16T04:27:13.805Z</updated>
+    <updated>2024-12-16T05:22:28.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 12월 둘째 주 음악중심 MC 컷 모음!, MBC 241215 방송]]></title>
+        <id>https://tv.naver.com/v/66455592</id>
+        <link href="https://tv.naver.com/v/66455592"/>
+        <updated>2024-12-16T05:21:52.521Z</updated>
+        <content type="html"><![CDATA[15:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] izna JEONG SAEBI (이즈나 정세비) – IZNA FanCam | 쇼! 음악중심 | MBC241215방송]]></title>
         <id>https://tv.naver.com/v/66413863</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66406939"/>
         <updated>2024-12-15T09:20:23.362Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWICE SANA (트와이스 사나) – Strategy | 쇼! 음악중심 | MBC241215방송]]></title>
-        <id>https://tv.naver.com/v/66406938</id>
-        <link href="https://tv.naver.com/v/66406938"/>
-        <updated>2024-12-15T09:20:23.363Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
