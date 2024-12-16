@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2024-12-16T08:30:33.833Z</updated>
+    <updated>2024-12-16T09:25:31.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 일식 끝판왕🍣 장호준 셰프가 부르는 《어쩌다 마주친 그대》 《거꾸로 강을 거슬러 오르는 저 힘찬 연어들처럼》 | #장호준 #흑백요리사 MBC241215방송]]></title>
+        <id>https://tv.naver.com/v/66471402</id>
+        <link href="https://tv.naver.com/v/66471402"/>
+        <updated>2024-12-16T09:25:30.877Z</updated>
+        <content type="html"><![CDATA[15:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 독특한 음색으로 따뜻한 꿈을 노래하는🍃 오월오일 류지호 하이라이트!, MBC 241215 방송]]></title>
         <id>https://tv.naver.com/v/66468891</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66409137"/>
         <updated>2024-12-15T10:22:07.263Z</updated>
         <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['다리미' VS '코인 세탁기'의 1라운드 무대 - 마법의 성, MBC 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66408734</id>
-        <link href="https://tv.naver.com/v/66408734"/>
-        <updated>2024-12-15T10:22:07.264Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
