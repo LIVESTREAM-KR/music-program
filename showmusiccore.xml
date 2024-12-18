@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-18T03:34:02.009Z</updated>
+    <updated>2024-12-18T04:25:46.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #트와이스 #TWICE 10년째 영원의 단짝인 트둥이들 #음악중심 #비하인드]]></title>
+        <id>https://tv.naver.com/v/66543544</id>
+        <link href="https://tv.naver.com/v/66543544"/>
+        <updated>2024-12-18T04:25:10.983Z</updated>
+        <content type="html"><![CDATA[07:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 12월 둘째 주 음악중심 MC 컷 모음!, MBC 241215 방송]]></title>
         <id>https://tv.naver.com/v/66455592</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66407196"/>
         <updated>2024-12-15T09:20:23.360Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] CRAVITY HYEONGJUN (크래비티 형준) – Now or Never | 쇼! 음악중심 | MBC241215방송]]></title>
-        <id>https://tv.naver.com/v/66406939</id>
-        <link href="https://tv.naver.com/v/66406939"/>
-        <updated>2024-12-15T09:20:23.362Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
 </feed>
