@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-18T07:20:39.244Z</updated>
+    <updated>2024-12-18T08:29:05.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] NCT DREAM (엔시티 드림) – When I'm With You | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/66603275</id>
+        <link href="https://tv.naver.com/v/66603275"/>
+        <updated>2024-12-18T08:28:29.665Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #트와이스 #TWICE 10년째 영원의 단짝인 트둥이들 음중 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/66543544</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66407199"/>
         <updated>2024-12-15T09:20:23.359Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna BANG JEEMIN (이즈나 방지민) – IZNA FanCam | 쇼! 음악중심 | MBC241215방송]]></title>
-        <id>https://tv.naver.com/v/66407196</id>
-        <link href="https://tv.naver.com/v/66407196"/>
-        <updated>2024-12-15T09:20:23.360Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
 </feed>
