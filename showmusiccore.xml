@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-19T09:23:23.348Z</updated>
+    <updated>2024-12-19T10:23:23.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #트레저 #TREASURE 어젯밤.. 기억 나? 트레저 사녹갔잖아🩵 음중 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/66680042</id>
+        <link href="https://tv.naver.com/v/66680042"/>
+        <updated>2024-12-19T10:22:50.543Z</updated>
+        <content type="html"><![CDATA[21:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #투어스 #TWS 기억해 투어스가 영원히 반짝일 순간✨🍀 음중 사전녹화 비하인드⏯]]></title>
         <id>https://tv.naver.com/v/66677087</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66407211"/>
         <updated>2024-12-15T09:20:23.356Z</updated>
         <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IRENE (아이린) – Like A Flower | 쇼! 음악중심 | MBC241215방송]]></title>
-        <id>https://tv.naver.com/v/66407205</id>
-        <link href="https://tv.naver.com/v/66407205"/>
-        <updated>2024-12-15T09:20:23.356Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
     </entry>
 </feed>
