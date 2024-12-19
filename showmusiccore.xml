@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-19T07:21:21.361Z</updated>
+    <updated>2024-12-19T08:28:03.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TREASURE (트레저).zip 📂 BOY부터 LAST NIGHT까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/66671664</id>
+        <link href="https://tv.naver.com/v/66671664"/>
+        <updated>2024-12-19T08:27:28.204Z</updated>
+        <content type="html"><![CDATA[31:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] NCT DREAM (엔시티 드림) – When I'm With You | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/66603275</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66407202"/>
         <updated>2024-12-15T09:20:23.357Z</updated>
         <content type="html"><![CDATA[04:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWICE TZUYU (트와이스 쯔위) – Strategy | 쇼! 음악중심 | MBC241215방송]]></title>
-        <id>https://tv.naver.com/v/66407199</id>
-        <link href="https://tv.naver.com/v/66407199"/>
-        <updated>2024-12-15T09:20:23.359Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
