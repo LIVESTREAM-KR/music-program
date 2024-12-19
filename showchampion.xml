@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-12-19T08:28:03.304Z</updated>
+    <updated>2024-12-19T09:23:23.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 NMIXX(엔믹스)의 <DICE>♬ #NMIXX #엔믹스 #DICE]]></title>
+        <id>https://tv.naver.com/v/66645241</id>
+        <link href="https://tv.naver.com/v/66645241"/>
+        <updated>2024-12-19T09:23:09.594Z</updated>
+        <content type="html"><![CDATA[01:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1분으로 모아보는 아이브 'LOVE DIVE' #IVE #LOVEDIVE]]></title>
         <id>https://tv.naver.com/v/66509594</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[쇼챔직캠 4K] A.C.E(에이스) - Anymore | Show Champion | EP.542 | 241204]]></title>
         <id>https://tv.naver.com/v/65739251</id>
         <link href="https://tv.naver.com/v/65739251"/>
-        <updated>2024-12-05T08:29:00.287Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NEXZ(넥스지) - HARD | Show Champion | EP.542 | 241204]]></title>
-        <id>https://tv.naver.com/v/65739247</id>
-        <link href="https://tv.naver.com/v/65739247"/>
         <updated>2024-12-05T08:29:00.287Z</updated>
         <content type="html"><![CDATA[03:03]]></content>
     </entry>
