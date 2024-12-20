@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-20T06:29:14.084Z</updated>
+    <updated>2024-12-20T07:19:38.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] TWS (투어스) – 마지막 축제 | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/66609518</id>
+        <link href="https://tv.naver.com/v/66609518"/>
+        <updated>2024-12-20T07:19:01.375Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #트레저 #TREASURE 어젯밤.. 기억 나? 트레저 사녹갔잖아🩵 음중 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/66680042</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66407212"/>
         <updated>2024-12-15T09:20:23.353Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TWS SHINYU (투어스 신유) – 마지막 축제 | 쇼! 음악중심 | MBC241215방송]]></title>
-        <id>https://tv.naver.com/v/66407211</id>
-        <link href="https://tv.naver.com/v/66407211"/>
-        <updated>2024-12-15T09:20:23.356Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
 </feed>
