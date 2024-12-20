@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2024-12-20T08:26:56.170Z</updated>
+    <updated>2024-12-20T09:21:28.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 모아보는 WOOAH(우아)의 <Feel Special (원곡: TWICE)>♬ #WOOAH #TWICE #Feel_Special]]></title>
+        <id>https://tv.naver.com/v/66645299</id>
+        <link href="https://tv.naver.com/v/66645299"/>
+        <updated>2024-12-20T09:21:17.294Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1분으로 모아보는 NMIXX(엔믹스)의 <DICE>♬ #NMIXX #엔믹스 #DICE]]></title>
         <id>https://tv.naver.com/v/66645241</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65714053"/>
         <updated>2024-12-06T03:03:52.120Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] A.C.E(에이스) - Anymore | Show Champion | EP.542 | 241204]]></title>
-        <id>https://tv.naver.com/v/65739251</id>
-        <link href="https://tv.naver.com/v/65739251"/>
-        <updated>2024-12-05T08:29:00.287Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>
