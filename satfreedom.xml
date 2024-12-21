@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2024-12-21T11:15:22.185Z</updated>
+    <updated>2024-12-21T12:37:06.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최정원×손승연 - 그대 내 친구여(가로) | KBS 241221 방송]]></title>
+        <id>https://tv.naver.com/v/66803422</id>
+        <link href="https://tv.naver.com/v/66803422"/>
+        <updated>2024-12-21T12:37:00.096Z</updated>
+        <content type="html"><![CDATA[06:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김장훈×은가은 - Show(가로) | KBS 241221 방송]]></title>
+        <id>https://tv.naver.com/v/66803230</id>
+        <link href="https://tv.naver.com/v/66803230"/>
+        <updated>2024-12-21T12:37:00.097Z</updated>
+        <content type="html"><![CDATA[05:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이소정×Kik5o(키코) - 귀로(가로) | KBS 241221 방송]]></title>
+        <id>https://tv.naver.com/v/66802595</id>
+        <link href="https://tv.naver.com/v/66802595"/>
+        <updated>2024-12-21T12:37:00.097Z</updated>
+        <content type="html"><![CDATA[05:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 올해 대미를 장식할 하모니! 2024 오 마이 스타 특집 2부✨ | KBS 241221 방송]]></title>
         <id>https://tv.naver.com/v/66801027</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/66800334"/>
         <updated>2024-12-21T11:15:15.965Z</updated>
         <content type="html"><![CDATA[04:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김장훈×은가은 - Show | KBS 241221 방송]]></title>
-        <id>https://tv.naver.com/v/66799908</id>
-        <link href="https://tv.naver.com/v/66799908"/>
-        <updated>2024-12-21T11:15:15.966Z</updated>
-        <content type="html"><![CDATA[05:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은가은과 김장훈이 듀엣을 하게 된 계기! 매니저 자처한 사랑꾼 박현호?!💘 | KBS 241221 방송]]></title>
-        <id>https://tv.naver.com/v/66799706</id>
-        <link href="https://tv.naver.com/v/66799706"/>
-        <updated>2024-12-21T11:15:15.967Z</updated>
-        <content type="html"><![CDATA[05:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학생들에게 미안해진 승제 쌤? 아마추어를 뛰어넘는 노래 실력과 무대 매너✨ | KBS 241221 방송]]></title>
-        <id>https://tv.naver.com/v/66799511</id>
-        <link href="https://tv.naver.com/v/66799511"/>
-        <updated>2024-12-21T11:15:15.968Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
