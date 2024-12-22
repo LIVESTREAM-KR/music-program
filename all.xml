@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-22T10:19:41.642Z</updated>
+    <updated>2024-12-22T11:15:14.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,34 @@
         <content type="html"><![CDATA[04:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[478회 예고] 복면 가왕을 찾아온 특별한 손님?!😲 연말을 맞아 쏟아지는 초특급 노래 선물🎁, MBC 241229 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/66844624</id>
+        <link href="https://tv.naver.com/v/66844624"/>
+        <updated>2024-12-22T11:15:13.595Z</updated>
+        <content type="html"><![CDATA[00:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카니발'의 정체는 신촌블루스 강성희!, MBC 241222 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/66844264</id>
+        <link href="https://tv.naver.com/v/66844264"/>
+        <updated>2024-12-22T11:15:13.597Z</updated>
+        <content type="html"><![CDATA[02:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['카니발'의 가왕 방어전 무대 - 사랑했지만, MBC 241222 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/66843623</id>
+        <link href="https://tv.naver.com/v/66843623"/>
+        <updated>2024-12-22T11:15:13.597Z</updated>
+        <content type="html"><![CDATA[04:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['호박 고구마'의 정체는 가수 스테파니!, MBC 241222 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/66843590</id>
+        <link href="https://tv.naver.com/v/66843590"/>
+        <updated>2024-12-22T11:15:13.598Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['꽃보다 향수' 3라운드 무대 - 바람이 분다, MBC 241222 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/66843176</id>
         <link href="https://tv.naver.com/v/66843176"/>
@@ -535,33 +563,5 @@
         <link href="https://tv.naver.com/v/66842161"/>
         <updated>2024-12-22T10:19:41.051Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['같이 걸을래'의 정체는 가수 노브!, MBC 241222 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/66842157</id>
-        <link href="https://tv.naver.com/v/66842157"/>
-        <updated>2024-12-22T10:19:41.053Z</updated>
-        <content type="html"><![CDATA[02:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호박 고구마'의 쇠 맛 댄스😮 예사롭지 않은 댄스 실력의 '호박 고구마'는 누구?!, MBC 241222 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/66841789</id>
-        <link href="https://tv.naver.com/v/66841789"/>
-        <updated>2024-12-22T10:19:41.054Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['같이 걸을래'의 어린 시절 모습 대공개👼 남동생과 같이 음악 하는 '같이 걸을래'?!, MBC 241222 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/66841381</id>
-        <link href="https://tv.naver.com/v/66841381"/>
-        <updated>2024-12-22T10:19:41.055Z</updated>
-        <content type="html"><![CDATA[01:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['호박 고구마' 2라운드 무대 - 어른아이, MBC 241222 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/66841167</id>
-        <link href="https://tv.naver.com/v/66841167"/>
-        <updated>2024-12-22T10:19:41.057Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
