@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-22T23:20:24.210Z</updated>
+    <updated>2024-12-23T01:38:51.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] TREASURE HARUTO (트레저 하루토) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241215방송]]></title>
+        <id>https://tv.naver.com/v/66794917</id>
+        <link href="https://tv.naver.com/v/66794917"/>
+        <updated>2024-12-23T01:38:15.434Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] TREASURE PARK JEONGWOO (트레저 박정우) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241221방송]]></title>
         <id>https://tv.naver.com/v/66794356</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66793953"/>
         <updated>2024-12-21T08:23:11.048Z</updated>
         <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] TREASURE (트레저) – LAST NIGHT FullCam | 쇼! 음악중심 | MBC241221방송]]></title>
-        <id>https://tv.naver.com/v/66793523</id>
-        <link href="https://tv.naver.com/v/66793523"/>
-        <updated>2024-12-21T08:23:11.050Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
