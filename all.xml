@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-23T03:26:45.272Z</updated>
+    <updated>2024-12-23T04:24:34.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[04:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 4연승 가왕👑 카니발의 피날레🎆 신촌블루스 강성희가 부르는 《사랑했지만》 | #강성희 #신촌블루스 MBC241222방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/66873252</id>
+        <link href="https://tv.naver.com/v/66873252"/>
+        <updated>2024-12-23T04:24:33.545Z</updated>
+        <content type="html"><![CDATA[16:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[478회 예고] 복면 가왕을 찾아온 특별한 손님?!😲 연말을 맞아 쏟아지는 초특급 노래 선물🎁, MBC 241229 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/66844624</id>
         <link href="https://tv.naver.com/v/66844624"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/66842384"/>
         <updated>2024-12-22T10:19:41.047Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['코인 세탁기' 2라운드 무대 - 후애, MBC 241222 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/66842161</id>
-        <link href="https://tv.naver.com/v/66842161"/>
-        <updated>2024-12-22T10:19:41.051Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
