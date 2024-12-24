@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-24T06:29:00.810Z</updated>
+    <updated>2024-12-24T07:20:07.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE HARUTO (트레저 하루토) – LAST NIGHT | 쇼! 음악중심 | MBC241221방송]]></title>
+        <id>https://tv.naver.com/v/66964473</id>
+        <link href="https://tv.naver.com/v/66964473"/>
+        <updated>2024-12-24T07:19:33.539Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE DOYOUNG (트레저 도영) – LAST NIGHT | 쇼! 음악중심 | MBC241221방송]]></title>
+        <id>https://tv.naver.com/v/66964188</id>
+        <link href="https://tv.naver.com/v/66964188"/>
+        <updated>2024-12-24T07:19:33.539Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE JUNKYU (트레저 준규) – LAST NIGHT | 쇼! 음악중심 | MBC241221방송]]></title>
+        <id>https://tv.naver.com/v/66964186</id>
+        <link href="https://tv.naver.com/v/66964186"/>
+        <updated>2024-12-24T07:19:33.539Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE ASAHI (트레저 아사히) – LAST NIGHT | 쇼! 음악중심 | MBC241221방송]]></title>
+        <id>https://tv.naver.com/v/66964116</id>
+        <link href="https://tv.naver.com/v/66964116"/>
+        <updated>2024-12-24T07:19:33.541Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] IRENE (아이린) – Ka-Ching | 쇼! 음악중심 | MBC241221방송]]></title>
         <id>https://tv.naver.com/v/66907072</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/66794151"/>
         <updated>2024-12-21T08:23:11.039Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE YOON JAEHYUK (트레저 윤재혁) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241221방송]]></title>
-        <id>https://tv.naver.com/v/66794149</id>
-        <link href="https://tv.naver.com/v/66794149"/>
-        <updated>2024-12-21T08:23:11.040Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE JUNKYU (트레저 준규) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241221방송]]></title>
-        <id>https://tv.naver.com/v/66794148</id>
-        <link href="https://tv.naver.com/v/66794148"/>
-        <updated>2024-12-21T08:23:11.041Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE YOSHI (트레저 요시) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241221방송]]></title>
-        <id>https://tv.naver.com/v/66794146</id>
-        <link href="https://tv.naver.com/v/66794146"/>
-        <updated>2024-12-21T08:23:11.043Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE DOYOUNG (트레저 도영) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241221방송]]></title>
-        <id>https://tv.naver.com/v/66793956</id>
-        <link href="https://tv.naver.com/v/66793956"/>
-        <updated>2024-12-21T08:23:11.044Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
