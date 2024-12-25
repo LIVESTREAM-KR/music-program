@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-25T01:28:26.035Z</updated>
+    <updated>2024-12-25T02:49:47.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] IRENE (아이린) – Like A Flower | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/66971083</id>
+        <link href="https://tv.naver.com/v/66971083"/>
+        <updated>2024-12-25T02:49:11.244Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] TREASURE HARUTO (트레저 하루토) – LAST NIGHT | 쇼! 음악중심 | MBC241221방송]]></title>
         <id>https://tv.naver.com/v/66964473</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66794317"/>
         <updated>2024-12-21T08:23:11.039Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE ASAHI (트레저 아사히) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241221방송]]></title>
-        <id>https://tv.naver.com/v/66794151</id>
-        <link href="https://tv.naver.com/v/66794151"/>
-        <updated>2024-12-21T08:23:11.039Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
