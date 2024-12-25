@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-25T06:29:29.655Z</updated>
+    <updated>2024-12-25T07:19:56.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCkpop] 2024 July - December Hit Song.zip 📂 Show! Music Core Hit Song Stages Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/66969013</id>
+        <link href="https://tv.naver.com/v/66969013"/>
+        <updated>2024-12-25T07:19:21.038Z</updated>
+        <content type="html"><![CDATA[54:14]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[MBCkpop] Yoona.zip 📂 GayoDaejejeon Yoona 10th Anniversary Special Stages Collection (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/66680823</id>
         <link href="https://tv.naver.com/v/66680823"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/66794917"/>
         <updated>2024-12-23T01:38:15.434Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE PARK JEONGWOO (트레저 박정우) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241221방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/66794356</id>
-        <link href="https://tv.naver.com/v/66794356"/>
-        <updated>2024-12-21T08:23:11.038Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이린(IRENE) - Like A Flower | SBS 241215 방송 (인기가요)]]></title>
