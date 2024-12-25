@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-25T05:19:47.528Z</updated>
+    <updated>2024-12-25T06:29:29.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] Yoona.zip 📂 GayoDaejejeon Yoona 10th Anniversary Special Stages Collection]]></title>
+        <id>https://tv.naver.com/v/66680823</id>
+        <link href="https://tv.naver.com/v/66680823"/>
+        <updated>2024-12-25T06:28:54.683Z</updated>
+        <content type="html"><![CDATA[10:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] IRENE (아이린) – Like A Flower | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/66971083</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66794356"/>
         <updated>2024-12-21T08:23:11.038Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE SO JUNGHWAN (트레저 소정환) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241221방송]]></title>
-        <id>https://tv.naver.com/v/66794317</id>
-        <link href="https://tv.naver.com/v/66794317"/>
-        <updated>2024-12-21T08:23:11.039Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
