@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-26T05:19:59.851Z</updated>
+    <updated>2024-12-26T06:29:25.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] 2023 MBC Music Festival.zip 📂 2023 MBC Music Festival Special Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/66682039</id>
+        <link href="https://tv.naver.com/v/66682039"/>
+        <updated>2024-12-26T06:28:51.820Z</updated>
+        <content type="html"><![CDATA[40:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] 2024 July - December Hit Song.zip 📂 Show! Music Core Hit Song Stages Compilation]]></title>
         <id>https://tv.naver.com/v/66969013</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66884761"/>
         <updated>2024-12-23T06:29:32.295Z</updated>
         <content type="html"><![CDATA[11:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE HARUTO (트레저 하루토) – LAST NIGHT FanCam | 쇼! 음악중심 | MBC241215방송]]></title>
-        <id>https://tv.naver.com/v/66794917</id>
-        <link href="https://tv.naver.com/v/66794917"/>
-        <updated>2024-12-23T01:38:15.434Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
     </entry>
 </feed>
