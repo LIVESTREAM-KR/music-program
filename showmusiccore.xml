@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-28T07:17:52.517Z</updated>
+    <updated>2024-12-28T08:24:55.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 - MAESTRO (SEVENTEEN - MAESTRO), MBC 241228 방송]]></title>
+        <id>https://tv.naver.com/v/67200219</id>
+        <link href="https://tv.naver.com/v/67200219"/>
+        <updated>2024-12-28T08:24:20.733Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트와이스 - Strategy (TWICE - Strategy), MBC 241228 방송]]></title>
+        <id>https://tv.naver.com/v/67199747</id>
+        <link href="https://tv.naver.com/v/67199747"/>
+        <updated>2024-12-28T08:24:20.735Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엔시티 드림 - Smoothie (NCT DREAM - Smoothie), MBC 241228 방송]]></title>
+        <id>https://tv.naver.com/v/67199745</id>
+        <link href="https://tv.naver.com/v/67199745"/>
+        <updated>2024-12-28T08:24:20.737Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트레이 키즈 - Chk Chk Boom (Stray Kids - Chk Chk Boom), MBC 241228 방송]]></title>
+        <id>https://tv.naver.com/v/67199483</id>
+        <link href="https://tv.naver.com/v/67199483"/>
+        <updated>2024-12-28T08:24:20.742Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민호 - CALL BACK (MINHO - CALL BACK), MBC 241228 방송]]></title>
+        <id>https://tv.naver.com/v/67199479</id>
+        <link href="https://tv.naver.com/v/67199479"/>
+        <updated>2024-12-28T08:24:20.743Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제니 - Mantra (JENNIE - Mantra), MBC 241228 방송]]></title>
         <id>https://tv.naver.com/v/67199216</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/67198713"/>
         <updated>2024-12-28T07:17:16.686Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이즈 - Boom Boom Bass (RIIZE - Boom Boom Bass), MBC 241228 방송]]></title>
-        <id>https://tv.naver.com/v/67198519</id>
-        <link href="https://tv.naver.com/v/67198519"/>
-        <updated>2024-12-28T07:17:16.688Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 - 해야 (IVE - HEYA), MBC 241228 방송]]></title>
-        <id>https://tv.naver.com/v/67198517</id>
-        <link href="https://tv.naver.com/v/67198517"/>
-        <updated>2024-12-28T07:17:16.689Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴진스 - Supernatural (NewJeans - Supernatural), MBC 241228 방송]]></title>
-        <id>https://tv.naver.com/v/67198228</id>
-        <link href="https://tv.naver.com/v/67198228"/>
-        <updated>2024-12-28T07:17:16.691Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 - Supernova (aespa - Supernova), MBC 241228 방송]]></title>
-        <id>https://tv.naver.com/v/67198227</id>
-        <link href="https://tv.naver.com/v/67198227"/>
-        <updated>2024-12-28T07:17:16.692Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비 - 밤양갱 (BIBI - Bam Yang Gang), MBC 241228 방송]]></title>
-        <id>https://tv.naver.com/v/67197997</id>
-        <link href="https://tv.naver.com/v/67197997"/>
-        <updated>2024-12-28T07:17:16.695Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
     </entry>
 </feed>
