@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2024-12-28T05:18:52.877Z</updated>
+    <updated>2024-12-28T06:27:18.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔믹스 - 별별별 (NMIXX - See that?), MBC 241228 방송]]></title>
+        <id>https://tv.naver.com/v/67197022</id>
+        <link href="https://tv.naver.com/v/67197022"/>
+        <updated>2024-12-28T06:26:45.212Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] New Year.zip 📂 Show! Music Core New Year Special Compilation]]></title>
         <id>https://tv.naver.com/v/66969016</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66964116"/>
         <updated>2024-12-24T07:19:33.541Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IRENE (아이린) – Ka-Ching | 쇼! 음악중심 | MBC241221방송]]></title>
-        <id>https://tv.naver.com/v/66907072</id>
-        <link href="https://tv.naver.com/v/66907072"/>
-        <updated>2024-12-23T11:17:11.514Z</updated>
-        <content type="html"><![CDATA[04:40]]></content>
     </entry>
 </feed>

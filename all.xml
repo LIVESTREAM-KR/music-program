@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-28T05:18:52.905Z</updated>
+    <updated>2024-12-28T06:27:18.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[엔믹스 - 별별별 (NMIXX - See that?), MBC 241228 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/67197022</id>
+        <link href="https://tv.naver.com/v/67197022"/>
+        <updated>2024-12-28T06:26:45.212Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[MBCkpop] New Year.zip 📂 Show! Music Core New Year Special Compilation (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/66969016</id>
         <link href="https://tv.naver.com/v/66969016"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/66964116"/>
         <updated>2024-12-24T07:19:33.541Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] IRENE (아이린) – Ka-Ching | 쇼! 음악중심 | MBC241221방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/66907072</id>
-        <link href="https://tv.naver.com/v/66907072"/>
-        <updated>2024-12-23T11:17:11.514Z</updated>
-        <content type="html"><![CDATA[04:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이린(IRENE) - Like A Flower | SBS 241215 방송 (인기가요)]]></title>
