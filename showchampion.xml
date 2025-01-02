@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-01-02T02:50:20.591Z</updated>
+    <updated>2025-01-02T03:24:50.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1분으로 보는 승언이 성장기✨]]></title>
+        <id>https://tv.naver.com/v/67438155</id>
+        <link href="https://tv.naver.com/v/67438155"/>
+        <updated>2025-01-02T03:24:38.340Z</updated>
+        <content type="html"><![CDATA[00:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이팝을 이끌어 갈🔥 24년 데뷔 아이돌 모음📁]]></title>
         <id>https://tv.naver.com/v/67438248</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/65844447"/>
         <updated>2024-12-09T01:48:39.375Z</updated>
         <content type="html"><![CDATA[00:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1분으로 모아보는 CLASS:y(클라씨)의 <Psycho and Beautiful>♬ #CLASS:y #클라씨 #사이코 앤 뷰티풀]]></title>
-        <id>https://tv.naver.com/v/65844225</id>
-        <link href="https://tv.naver.com/v/65844225"/>
-        <updated>2024-12-06T09:23:44.697Z</updated>
-        <content type="html"><![CDATA[01:27]]></content>
     </entry>
 </feed>
