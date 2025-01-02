@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-02T05:19:49.387Z</updated>
+    <updated>2025-01-02T06:29:02.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -432,13 +432,6 @@
         <content type="html"><![CDATA[04:47]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[예고] 푸른 뱀의 해를 맞은 가족 총출동! 2025 신년 가족 특집✨ | KBS 241228 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/67209886</id>
-        <link href="https://tv.naver.com/v/67209886"/>
-        <updated>2024-12-28T12:36:40.384Z</updated>
-        <content type="html"><![CDATA[01:06]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[라이브가 믿기지 않았던 소향과 안신애의 무대! 행운 같은 인연🍀 | KBS 241228 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/67209639</id>
         <link href="https://tv.naver.com/v/67209639"/>
@@ -493,6 +486,13 @@
         <link href="https://tv.naver.com/v/67208168"/>
         <updated>2024-12-28T11:15:49.061Z</updated>
         <content type="html"><![CDATA[01:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우정의 깊이가 와닿았던 무대💧 꼭 손을 잡고자 한 진성의 아이디어? | KBS 241228 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/67207950</id>
+        <link href="https://tv.naver.com/v/67207950"/>
+        <updated>2025-01-02T06:28:56.580Z</updated>
+        <content type="html"><![CDATA[02:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 3연승 가왕👑 카니발의 피날레🎆 신촌블루스 강성희가 부르는 《사랑했지만》 | #강성희 #신촌블루스 MBC241222방송 (복면가왕)]]></title>
