@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-01-05T07:18:06.131Z</updated>
+    <updated>2025-01-05T08:23:59.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[8TURN - 이럴거면 다음생에 | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67609758</id>
+        <link href="https://tv.naver.com/v/67609758"/>
+        <updated>2025-01-05T08:23:33.035Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - Love Potion (백일몽; 白日夢) | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67609321</id>
+        <link href="https://tv.naver.com/v/67609321"/>
+        <updated>2025-01-05T08:23:33.036Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign(엔싸인) - Apocalypse (:Superego) + Running After Love | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67609112</id>
+        <link href="https://tv.naver.com/v/67609112"/>
+        <updated>2025-01-05T08:23:33.036Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우연이 - 우연히 | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67608884</id>
+        <link href="https://tv.naver.com/v/67608884"/>
+        <updated>2025-01-05T08:23:33.037Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이창 - LaSalle Ave (라셀에브) | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67608689</id>
+        <link href="https://tv.naver.com/v/67608689"/>
+        <updated>2025-01-05T08:23:33.043Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바다(BADA) - Kiss Me Baby | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67608510</id>
+        <link href="https://tv.naver.com/v/67608510"/>
+        <updated>2025-01-05T08:23:33.044Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몬트 (M.O.N.T) - 어딘가로 (OMW) | SBS 250105 방송]]></title>
+        <id>https://tv.naver.com/v/67608296</id>
+        <link href="https://tv.naver.com/v/67608296"/>
+        <updated>2025-01-05T08:23:33.046Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일민 - 손 편지 (Prod. 설운도) | SBS 250105 방송]]></title>
         <id>https://tv.naver.com/v/67608113</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/67607717"/>
         <updated>2025-01-05T07:17:34.604Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지원이 - 자기야 화이팅 | SBS 250105 방송]]></title>
-        <id>https://tv.naver.com/v/67607716</id>
-        <link href="https://tv.naver.com/v/67607716"/>
-        <updated>2025-01-05T07:17:34.606Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권인서 - 여전히 난 너를 찾고 있어 | SBS 250105 방송]]></title>
-        <id>https://tv.naver.com/v/67607525</id>
-        <link href="https://tv.naver.com/v/67607525"/>
-        <updated>2025-01-05T07:17:34.608Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13Found - MMM | SBS 250105 방송]]></title>
-        <id>https://tv.naver.com/v/67607320</id>
-        <link href="https://tv.naver.com/v/67607320"/>
-        <updated>2025-01-05T07:17:34.615Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성온(Park Sung On) - 직진이야 | SBS 250105 방송]]></title>
-        <id>https://tv.naver.com/v/67607115</id>
-        <link href="https://tv.naver.com/v/67607115"/>
-        <updated>2025-01-05T07:17:34.616Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이린(IRENE) - Like A Flower | SBS 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66403940</id>
-        <link href="https://tv.naver.com/v/66403940"/>
-        <updated>2024-12-15T08:25:31.981Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Now or Never | SBS 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66403476</id>
-        <link href="https://tv.naver.com/v/66403476"/>
-        <updated>2024-12-15T08:25:31.997Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Horizon | SBS 241215 방송]]></title>
-        <id>https://tv.naver.com/v/66403228</id>
-        <link href="https://tv.naver.com/v/66403228"/>
-        <updated>2024-12-15T08:25:32.004Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
