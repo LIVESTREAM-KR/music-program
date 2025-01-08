@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-01-08T08:27:07.776Z</updated>
+    <updated>2025-01-08T09:21:55.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] TREASURE (트레저) – LAST NIGHT | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/67809565</id>
+        <link href="https://tv.naver.com/v/67809565"/>
+        <updated>2025-01-08T09:21:19.330Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뱀띠 아이돌.zip 📂 Show! Music Core 2025 Year of the Snake Special Compilation]]></title>
         <id>https://tv.naver.com/v/66917777</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/67198980"/>
         <updated>2024-12-28T07:17:16.682Z</updated>
         <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔하이픈 - XO (Only If You Say Yes) (ENHYPEN - XO (Only If You Say Yes)), MBC 241228 방송]]></title>
-        <id>https://tv.naver.com/v/67198714</id>
-        <link href="https://tv.naver.com/v/67198714"/>
-        <updated>2024-12-28T07:17:16.684Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
