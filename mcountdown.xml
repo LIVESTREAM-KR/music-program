@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-01-09T11:17:13.091Z</updated>
+    <updated>2025-01-09T12:40:19.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 부석순 (SEVENTEEN) - 청바지 | Mnet 250109 방송]]></title>
+        <id>https://tv.naver.com/v/67900056</id>
+        <link href="https://tv.naver.com/v/67900056"/>
+        <updated>2025-01-09T12:39:55.807Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 부석순 (SEVENTEEN) - 사랑 노래 | Mnet 250109 방송]]></title>
+        <id>https://tv.naver.com/v/67899650</id>
+        <link href="https://tv.naver.com/v/67899650"/>
+        <updated>2025-01-09T12:39:55.807Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 여자친구 (GFRIEND) - 우리의 다정한 계절 속에 (Season of Memories) | Mnet 250109 방송]]></title>
+        <id>https://tv.naver.com/v/67899647</id>
+        <link href="https://tv.naver.com/v/67899647"/>
+        <updated>2025-01-09T12:39:55.809Z</updated>
+        <content type="html"><![CDATA[04:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['미니 팬미팅' 부석순 (SEVENTEEN) (with CARAT(캐럿)♥︎) | Mnet 250109 방송]]></title>
         <id>https://tv.naver.com/v/67899155</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/67897066"/>
         <updated>2025-01-09T11:16:47.731Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제이창(Jay Chang) - LaSalle Ave | Mnet 250109 방송]]></title>
-        <id>https://tv.naver.com/v/67897050</id>
-        <link href="https://tv.naver.com/v/67897050"/>
-        <updated>2025-01-09T11:16:47.732Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' BOYNEXTDOOR (보이넥스트도어) | Mnet 250109 방송]]></title>
-        <id>https://tv.naver.com/v/67896569</id>
-        <link href="https://tv.naver.com/v/67896569"/>
-        <updated>2025-01-09T11:16:47.734Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XLOV - I'mma Be | Mnet 250109 방송]]></title>
-        <id>https://tv.naver.com/v/67896210</id>
-        <link href="https://tv.naver.com/v/67896210"/>
-        <updated>2025-01-09T11:16:47.735Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
