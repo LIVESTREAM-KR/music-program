@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-09T09:21:53.900Z</updated>
+    <updated>2025-01-09T10:22:23.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FREQUENCY (Korean Ver.) - WayV (웨이브이) | KBS 241206 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,41 @@
         <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[서이브 (SEO EVE) - 어른들은 몰라요 | Mnet 250109 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/67895915</id>
+        <link href="https://tv.naver.com/v/67895915"/>
+        <updated>2025-01-09T10:22:00.927Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['스페셜 인터뷰' izna (이즈나) | Mnet 250109 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/67894181</id>
+        <link href="https://tv.naver.com/v/67894181"/>
+        <updated>2025-01-09T10:22:00.927Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NouerA (누에라) - 무한대 (無限大) | Mnet 250109 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/67894171</id>
+        <link href="https://tv.naver.com/v/67894171"/>
+        <updated>2025-01-09T10:22:00.928Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이예은 - 아찔하게 | Mnet 250109 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/67893174</id>
+        <link href="https://tv.naver.com/v/67893174"/>
+        <updated>2025-01-09T10:22:00.928Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13파운드(13Found) - MMM | Mnet 250109 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/67893166</id>
+        <link href="https://tv.naver.com/v/67893166"/>
+        <updated>2025-01-09T10:22:00.929Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[♥2025년 엠카의 첫 이야기가 시작됩니다♥ 2025 첫 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/67748707</id>
         <link href="https://tv.naver.com/v/67748707"/>
@@ -248,41 +283,6 @@
         <link href="https://tv.naver.com/v/63149387"/>
         <updated>2024-10-24T11:17:25.635Z</updated>
         <content type="html"><![CDATA[05:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JD1 - 책임져 | Mnet 241024 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/63149380</id>
-        <link href="https://tv.naver.com/v/63149380"/>
-        <updated>2024-10-24T11:17:25.637Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 아일릿(ILLIT) - Cherish (My Love) | Mnet 241024 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/63149371</id>
-        <link href="https://tv.naver.com/v/63149371"/>
-        <updated>2024-10-24T11:17:25.638Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 아일릿(ILLIT) - IYKYK (If You Know You Know) | Mnet 241024 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/63149366</id>
-        <link href="https://tv.naver.com/v/63149366"/>
-        <updated>2024-10-24T11:17:25.640Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' TEMPEST(템페스트) - MANIAC : Freaky Lab(원곡 : Stray Kids) | Mnet 241024 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/63149352</id>
-        <link href="https://tv.naver.com/v/63149352"/>
-        <updated>2024-10-24T11:17:25.641Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' aespa (에스파) | Mnet 241024 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/63147815</id>
-        <link href="https://tv.naver.com/v/63147815"/>
-        <updated>2024-10-24T11:17:25.642Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[izna - TIMEBOMB (이즈나, TIMEBOMB) [THE SHOW 241203] (더쇼)]]></title>
