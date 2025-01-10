@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-01-10T06:29:28.637Z</updated>
+    <updated>2025-01-10T07:19:44.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] 2025 Good Luck.zip 📂 Show! Music Core 2025 Good Luck Special Compilation]]></title>
+        <id>https://tv.naver.com/v/67866427</id>
+        <link href="https://tv.naver.com/v/67866427"/>
+        <updated>2025-01-10T07:19:09.141Z</updated>
+        <content type="html"><![CDATA[32:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[06즈.zip 📂 Show! Music Core 06s Special Compilation]]></title>
         <id>https://tv.naver.com/v/66917771</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/67199216"/>
         <updated>2024-12-28T07:17:16.679Z</updated>
         <content type="html"><![CDATA[02:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이식스 - 녹아내려요 (DAY6 - Melt Down), MBC 241228 방송]]></title>
-        <id>https://tv.naver.com/v/67198983</id>
-        <link href="https://tv.naver.com/v/67198983"/>
-        <updated>2024-12-28T07:17:16.680Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
