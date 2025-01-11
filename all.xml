@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-11T08:24:08.351Z</updated>
+    <updated>2025-01-11T09:19:36.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[청바지 - 부석순 (SEVENTEEN) | KBS 250110 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[02:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#음중직캠] BOYNEXTDOOR SUNGHO (보이넥스트도어 성호) – 오늘만 I LOVE YOU FanCam | 쇼! 음악중심 | MBC250111 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68010558</id>
+        <link href="https://tv.naver.com/v/68010558"/>
+        <updated>2025-01-11T09:19:03.929Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중풀캠] BOYNEXTDOOR (보이넥스트도어) – 오늘만 I LOVE YOU FullCam | 쇼! 음악중심 | MBC250111 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68010358</id>
+        <link href="https://tv.naver.com/v/68010358"/>
+        <updated>2025-01-11T09:19:03.930Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중풀캠] n.SSign (엔싸인) – Love Potion (백일몽; 白日夢) FullCam | 쇼! 음악중심 | MBC250111 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/68008016</id>
         <link href="https://tv.naver.com/v/68008016"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/68007770"/>
         <updated>2025-01-11T08:23:29.363Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] GFRIEND SOWON (여자친구 소원) – 우리의 다정한 계절 속에 (Season of Memories) FanCam | 쇼! 음악중심 | MBC250111 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68007768</id>
-        <link href="https://tv.naver.com/v/68007768"/>
-        <updated>2025-01-11T08:23:29.365Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] SEVENTEEN BSS HOSHI (세븐틴 부석순 호시) – 청바지 FanCam | 쇼! 음악중심 | MBC250111 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68007566</id>
-        <link href="https://tv.naver.com/v/68007566"/>
-        <updated>2025-01-11T08:23:29.366Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8TURN - 이럴거면 다음생에 | SBS 250105 방송 (인기가요)]]></title>
