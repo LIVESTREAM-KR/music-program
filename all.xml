@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-12T06:27:54.059Z</updated>
+    <updated>2025-01-12T07:17:58.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[청바지 - 부석순 (SEVENTEEN) | KBS 250110 방송 (뮤직뱅크)]]></title>
@@ -145,6 +145,41 @@
         <content type="html"><![CDATA[04:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[박성온(Park Sung On) - 직진이야 | SBS 250112 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68048728</id>
+        <link href="https://tv.naver.com/v/68048728"/>
+        <updated>2025-01-12T07:17:31.401Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서이브(SEO EVE) - 어른들은 몰라요 (They Never Know) | SBS 250112 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68048724</id>
+        <link href="https://tv.naver.com/v/68048724"/>
+        <updated>2025-01-12T07:17:31.411Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권인서 - 여전히 난 너를 찾고있어 | SBS 250112 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68048255</id>
+        <link href="https://tv.naver.com/v/68048255"/>
+        <updated>2025-01-12T07:17:31.413Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NouerA - 무한대 (無限大) | SBS 250112 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68048005</id>
+        <link href="https://tv.naver.com/v/68048005"/>
+        <updated>2025-01-12T07:17:31.413Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몬트(M.O.N.T) - 어딘가로 (OMW) | SBS 250112 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68048001</id>
+        <link href="https://tv.naver.com/v/68048001"/>
+        <updated>2025-01-12T07:17:31.414Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[8TURN - 이럴거면 다음생에 | SBS 250105 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/67609758</id>
         <link href="https://tv.naver.com/v/67609758"/>
@@ -178,41 +213,6 @@
         <link href="https://tv.naver.com/v/67608689"/>
         <updated>2025-01-05T08:23:33.043Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다(BADA) - Kiss Me Baby | SBS 250105 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/67608510</id>
-        <link href="https://tv.naver.com/v/67608510"/>
-        <updated>2025-01-05T08:23:33.044Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몬트 (M.O.N.T) - 어딘가로 (OMW) | SBS 250105 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/67608296</id>
-        <link href="https://tv.naver.com/v/67608296"/>
-        <updated>2025-01-05T08:23:33.046Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일민 - 손 편지 (Prod. 설운도) | SBS 250105 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/67608113</id>
-        <link href="https://tv.naver.com/v/67608113"/>
-        <updated>2025-01-05T07:17:34.604Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진이 - 가을밤 떠난 너 | SBS 250105 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/67607918</id>
-        <link href="https://tv.naver.com/v/67607918"/>
-        <updated>2025-01-05T07:17:34.604Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐어스(SEVENUS) - 차갑고, 반짝이는 | SBS 250105 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/67607717</id>
-        <link href="https://tv.naver.com/v/67607717"/>
-        <updated>2025-01-05T07:17:34.604Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 부석순 (SEVENTEEN) - 청바지 | Mnet 250109 방송 (엠카운트다운)]]></title>
