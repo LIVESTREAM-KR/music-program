@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-01-13T01:41:43.025Z</updated>
+    <updated>2025-01-13T02:57:16.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트로트 신동에서 ‘현역 가왕’ 우승까지! 대세 트로트 퀸 전유진! | KBS 250111 방송]]></title>
+        <id>https://tv.naver.com/v/68089871</id>
+        <link href="https://tv.naver.com/v/68089871"/>
+        <updated>2025-01-13T02:57:10.492Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍이삭 (Hong Isaac) - 거리에서 | KBS 250111 방송]]></title>
         <id>https://tv.naver.com/v/68015331</id>
@@ -25,13 +32,6 @@
         <link href="https://tv.naver.com/v/68014387"/>
         <updated>2025-01-11T11:16:12.227Z</updated>
         <content type="html"><![CDATA[05:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로트 신동에서 ‘현역 가왕’ 우승까지! 대세 트로트 퀸 전유진! | KBS 250111 방송]]></title>
-        <id>https://tv.naver.com/v/68014167</id>
-        <link href="https://tv.naver.com/v/68014167"/>
-        <updated>2025-01-11T11:16:12.229Z</updated>
-        <content type="html"><![CDATA[02:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알고보니 밴드부 선후배?! 한별의 선배였던 홍이삭! | KBS 250111 방송]]></title>

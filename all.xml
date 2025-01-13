@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-13T01:41:43.033Z</updated>
+    <updated>2025-01-13T02:57:16.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[청바지 - 부석순 (SEVENTEEN) | KBS 250110 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[02:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 성호(BOYNEXTDOOR) X 이정하, 1월 둘째 주 음악중심 MC 컷 모음!, MBC 250111 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68088539</id>
+        <link href="https://tv.naver.com/v/68088539"/>
+        <updated>2025-01-13T02:56:43.120Z</updated>
+        <content type="html"><![CDATA[18:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] BOYNEXTDOOR WOONHAK (보이넥스트도어 운학) – 오늘만 I LOVE YOU FanCam | 쇼! 음악중심 | MBC250111 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/68010889</id>
         <link href="https://tv.naver.com/v/68010889"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/68007982"/>
         <updated>2025-01-11T08:23:29.357Z</updated>
         <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] n.SSign KAZUTA (엔싸인 카즈타) – Love Potion (백일몽; 白日夢) FanCam | 쇼! 음악중심 | MBC250111 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68007981</id>
-        <link href="https://tv.naver.com/v/68007981"/>
-        <updated>2025-01-11T08:23:29.357Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부석순(SEVENTEEN) - 청바지 | SBS 250112 방송 (인기가요)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[00:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[트로트 신동에서 ‘현역 가왕’ 우승까지! 대세 트로트 퀸 전유진! | KBS 250111 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/68089871</id>
+        <link href="https://tv.naver.com/v/68089871"/>
+        <updated>2025-01-13T02:57:10.492Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[홍이삭 (Hong Isaac) - 거리에서 | KBS 250111 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/68015331</id>
         <link href="https://tv.naver.com/v/68015331"/>
@@ -444,13 +451,6 @@
         <link href="https://tv.naver.com/v/68014387"/>
         <updated>2025-01-11T11:16:12.227Z</updated>
         <content type="html"><![CDATA[05:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로트 신동에서 ‘현역 가왕’ 우승까지! 대세 트로트 퀸 전유진! | KBS 250111 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/68014167</id>
-        <link href="https://tv.naver.com/v/68014167"/>
-        <updated>2025-01-11T11:16:12.229Z</updated>
-        <content type="html"><![CDATA[02:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[알고보니 밴드부 선후배?! 한별의 선배였던 홍이삭! | KBS 250111 방송 (불후의 명곡)]]></title>
