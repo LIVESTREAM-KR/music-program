@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-13T07:21:02.351Z</updated>
+    <updated>2025-01-13T08:28:19.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[청바지 - 부석순 (SEVENTEEN) | KBS 250110 방송 (뮤직뱅크)]]></title>
@@ -523,13 +523,6 @@
         <content type="html"><![CDATA[00:39]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['선물 꾸러미'의 정체는 배우 정혜인!, MBC 250112 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/68058186</id>
-        <link href="https://tv.naver.com/v/68058186"/>
-        <updated>2025-01-12T11:16:27.307Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[닮은 꼴이 강동원X차은우?! 최다니엘이 소개하는 팔방미인 '선물 꾸러미'✨, MBC 250112 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/68058184</id>
         <link href="https://tv.naver.com/v/68058184"/>
@@ -544,13 +537,6 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['캐럴송'의 정체는 아역 배우 김준!, MBC 250112 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/68057761</id>
-        <link href="https://tv.naver.com/v/68057761"/>
-        <updated>2025-01-12T11:16:27.315Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[작은 체구 속 폭발하는 파워풀한 에너지🔥 '캐럴송'이 선보이는 ＜Smoke＞ 챌린지, MBC 250112 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/68057533</id>
         <link href="https://tv.naver.com/v/68057533"/>
@@ -563,5 +549,19 @@
         <link href="https://tv.naver.com/v/68057531"/>
         <updated>2025-01-12T11:16:27.317Z</updated>
         <content type="html"><![CDATA[01:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['핸드벨' VS '캐럴송'의 1라운드 무대 - 너에게 난, 나에게 넌, MBC 250112 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/68056877</id>
+        <link href="https://tv.naver.com/v/68056877"/>
+        <updated>2025-01-13T08:28:18.557Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힌트가 배우 송중기와 축구 선수 김민재?!🤔 과연 '티라미수 케이크'의 정체는?, MBC 250112 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/68056265</id>
+        <link href="https://tv.naver.com/v/68056265"/>
+        <updated>2025-01-13T08:28:18.559Z</updated>
+        <content type="html"><![CDATA[01:35]]></content>
     </entry>
 </feed>
