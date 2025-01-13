@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-01-13T06:30:24.960Z</updated>
+    <updated>2025-01-13T07:21:02.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 비주얼에 목소리까지 잘생쁨 그 자체🧡 배우 정혜인이 부르는 《비처럼 음악처럼》 《묘해, 너와》 | #정혜인 MBC250112방송]]></title>
+        <id>https://tv.naver.com/v/68100813</id>
+        <link href="https://tv.naver.com/v/68100813"/>
+        <updated>2025-01-13T07:21:01.688Z</updated>
+        <content type="html"><![CDATA[13:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 사랑스럽고 유쾌한 매력에 넘치는 끼까지!💕 코미디언 김승혜 하이라이트!, MBC 250112 방송]]></title>
         <id>https://tv.naver.com/v/68100823</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68057531"/>
         <updated>2025-01-12T11:16:27.317Z</updated>
         <content type="html"><![CDATA[01:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핸드벨' VS '캐럴송'의 1라운드 무대 - 너에게 난, 나에게 넌, MBC 250112 방송]]></title>
-        <id>https://tv.naver.com/v/68056877</id>
-        <link href="https://tv.naver.com/v/68056877"/>
-        <updated>2025-01-12T10:20:03.790Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
     </entry>
 </feed>
