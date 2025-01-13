@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-01-13T05:21:00.208Z</updated>
+    <updated>2025-01-13T06:30:24.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 사랑스럽고 유쾌한 매력에 넘치는 끼까지!💕 코미디언 김승혜 하이라이트!, MBC 250112 방송]]></title>
+        <id>https://tv.naver.com/v/68100823</id>
+        <link href="https://tv.naver.com/v/68100823"/>
+        <updated>2025-01-13T06:30:24.330Z</updated>
+        <content type="html"><![CDATA[09:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 운동·광고·연극까지 섭렵한 만능 육각형 혜컴✨ 배우 정혜인 하이라이트!, MBC 250112 방송]]></title>
+        <id>https://tv.naver.com/v/68100821</id>
+        <link href="https://tv.naver.com/v/68100821"/>
+        <updated>2025-01-13T06:30:24.331Z</updated>
+        <content type="html"><![CDATA[09:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[479회 예고] 실력자들 기에 눌려버린 가왕?!🤯 긴장감 속 시작된 '꽃보다 향수'의 첫 방어전💥, MBC 250119 방송]]></title>
         <id>https://tv.naver.com/v/68058523</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/68056877"/>
         <updated>2025-01-12T10:20:03.790Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['티라미수 케이크'의 정체는 셰프 권성준!, MBC 250112 방송]]></title>
-        <id>https://tv.naver.com/v/68056462</id>
-        <link href="https://tv.naver.com/v/68056462"/>
-        <updated>2025-01-12T10:20:03.791Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힌트가 배우 송중기와 축구 선수 김민재?!🤔 과연 '티라미수 케이크'의 정체는?, MBC 250112 방송]]></title>
-        <id>https://tv.naver.com/v/68056265</id>
-        <link href="https://tv.naver.com/v/68056265"/>
-        <updated>2025-01-12T10:20:03.796Z</updated>
-        <content type="html"><![CDATA[01:35]]></content>
     </entry>
 </feed>
