@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-01-15T07:19:00.334Z</updated>
+    <updated>2025-01-15T08:25:56.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 불후의 명곡 명사 특집 김해숙 편 2부 | KBS 250111 방송]]></title>
+        <id>https://tv.naver.com/v/68259241</id>
+        <link href="https://tv.naver.com/v/68259241"/>
+        <updated>2025-01-15T08:25:50.608Z</updated>
+        <content type="html"><![CDATA[00:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네 번째 무대에 오를 가수는?! 가요계가 주목하는 트로트 퀸! 전유진! | KBS 250111 방송]]></title>
+        <id>https://tv.naver.com/v/68259240</id>
+        <link href="https://tv.naver.com/v/68259240"/>
+        <updated>2025-01-15T08:25:50.609Z</updated>
+        <content type="html"><![CDATA[01:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트로트 신동에서 ‘현역 가왕’ 우승까지! 대세 트로트 퀸 전유진! | KBS 250111 방송]]></title>
         <id>https://tv.naver.com/v/68089871</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/68013690"/>
         <updated>2025-01-11T11:16:12.234Z</updated>
         <content type="html"><![CDATA[04:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스윗소로우의 최고의 견제 대상 욕망 전차 몽니의 선곡은? | KBS 250111 방송]]></title>
-        <id>https://tv.naver.com/v/68013119</id>
-        <link href="https://tv.naver.com/v/68013119"/>
-        <updated>2025-01-11T10:19:41.751Z</updated>
-        <content type="html"><![CDATA[01:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화의 한 장면을 본 것 같은 무대 “소름 돋고 멋있었습니다” | KBS 250111 방송]]></title>
-        <id>https://tv.naver.com/v/68013110</id>
-        <link href="https://tv.naver.com/v/68013110"/>
-        <updated>2025-01-11T10:19:41.752Z</updated>
-        <content type="html"><![CDATA[01:43]]></content>
     </entry>
 </feed>
