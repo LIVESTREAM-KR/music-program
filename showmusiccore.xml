@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-01-16T05:19:24.680Z</updated>
+    <updated>2025-01-16T06:27:43.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] CRAVITY (크래비티) – Now or Never | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/68255302</id>
+        <link href="https://tv.naver.com/v/68255302"/>
+        <updated>2025-01-16T06:27:08.620Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] BOYNEXTDOOR LEEHAN (보이넥스트도어 이한) – 오늘만 I LOVE YOU | 쇼! 음악중심 | MBC250111]]></title>
         <id>https://tv.naver.com/v/68108098</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68088539"/>
         <updated>2025-01-13T02:56:43.120Z</updated>
         <content type="html"><![CDATA[18:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] BOYNEXTDOOR WOONHAK (보이넥스트도어 운학) – 오늘만 I LOVE YOU FanCam | 쇼! 음악중심 | MBC250111]]></title>
-        <id>https://tv.naver.com/v/68010889</id>
-        <link href="https://tv.naver.com/v/68010889"/>
-        <updated>2025-01-11T10:19:15.742Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
