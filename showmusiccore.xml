@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-01-16T08:25:05.010Z</updated>
+    <updated>2025-01-16T09:20:43.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #세븐틴 #부석순 행복과 청춘은 바로 부석순💎👖 음중 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/68329214</id>
+        <link href="https://tv.naver.com/v/68329214"/>
+        <updated>2025-01-16T09:20:09.078Z</updated>
+        <content type="html"><![CDATA[12:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #여자친구 #GFRIEND 버디와의 다정한 그 사녹 속에..🔆 음중 사전녹화 비하인드]]></title>
         <id>https://tv.naver.com/v/68265964</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68115908"/>
         <updated>2025-01-13T10:23:08.648Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] GFRIEND EUNHA (여자친구 은하) – 우리의 다정한 계절 속에 (Season of Memories) | 쇼! 음악중심 | MBC250111]]></title>
-        <id>https://tv.naver.com/v/68115902</id>
-        <link href="https://tv.naver.com/v/68115902"/>
-        <updated>2025-01-13T10:23:08.649Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
