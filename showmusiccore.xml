@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-01-16T07:18:58.277Z</updated>
+    <updated>2025-01-16T08:25:05.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #여자친구 #GFRIEND 버디와의 다정한 그 사녹 속에..🔆 음중 사전녹화 비하인드]]></title>
+        <id>https://tv.naver.com/v/68265964</id>
+        <link href="https://tv.naver.com/v/68265964"/>
+        <updated>2025-01-16T08:24:29.396Z</updated>
+        <content type="html"><![CDATA[06:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] CRAVITY (크래비티) – Now or Never | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/68255302</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68115902"/>
         <updated>2025-01-13T10:23:08.649Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 영훈 X 성호(BOYNEXTDOOR) X 이정하, 1월 둘째 주 음악중심 MC 컷 모음!, MBC 250111 방송]]></title>
-        <id>https://tv.naver.com/v/68088539</id>
-        <link href="https://tv.naver.com/v/68088539"/>
-        <updated>2025-01-13T02:56:43.120Z</updated>
-        <content type="html"><![CDATA[18:57]]></content>
     </entry>
 </feed>
