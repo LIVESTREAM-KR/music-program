@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-01-17T05:19:50.322Z</updated>
+    <updated>2025-01-17T06:28:02.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #보이넥스트도어 #BOYNEXTDOOR 오늘내일모레도 🩵할 보넥도 오알럽❄️☃️ 음중 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/68390110</id>
+        <link href="https://tv.naver.com/v/68390110"/>
+        <updated>2025-01-17T06:27:29.343Z</updated>
+        <content type="html"><![CDATA[09:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] GFRIEND.zip 📂 유리구슬부터 우리의 다정한 계절 속에까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/68249893</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68116167"/>
         <updated>2025-01-13T10:23:08.641Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] SEVENTEEN BSS HOSHI (세븐틴 부석순 호시) – 청바지 | 쇼! 음악중심 | MBC250111]]></title>
-        <id>https://tv.naver.com/v/68116163</id>
-        <link href="https://tv.naver.com/v/68116163"/>
-        <updated>2025-01-13T10:23:08.646Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
