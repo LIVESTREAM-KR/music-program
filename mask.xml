@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-01-19T10:20:00.122Z</updated>
+    <updated>2025-01-19T11:15:08.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[480회 예고] 설맞이 도전자 선물 세트 등장?!🎁 가왕전을 방불케 하는 무대의 향연👍, MBC 250126 방송]]></title>
+        <id>https://tv.naver.com/v/68497615</id>
+        <link href="https://tv.naver.com/v/68497615"/>
+        <updated>2025-01-19T11:15:07.978Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크리스마스 캔들' 조정현의 스페셜 무대 - 그 아픔까지 사랑한거야, MBC 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68497222</id>
+        <link href="https://tv.naver.com/v/68497222"/>
+        <updated>2025-01-19T11:15:07.979Z</updated>
+        <content type="html"><![CDATA[02:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['크리스마스 캔들'의 정체는 가수 조정현!, MBC 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68497181</id>
+        <link href="https://tv.naver.com/v/68497181"/>
+        <updated>2025-01-19T11:15:07.981Z</updated>
+        <content type="html"><![CDATA[02:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃보다 향수'의 가왕 방어전 무대 - 정류장, MBC 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68496635</id>
+        <link href="https://tv.naver.com/v/68496635"/>
+        <updated>2025-01-19T11:15:07.983Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['마시멜로 쿠키'의 정체는 트로트 가수 신성!, MBC 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68496435</id>
+        <link href="https://tv.naver.com/v/68496435"/>
+        <updated>2025-01-19T11:15:07.984Z</updated>
+        <content type="html"><![CDATA[01:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['크리스마스 캔들' 3라운드 무대 - 끝사랑, MBC 250119 방송]]></title>
         <id>https://tv.naver.com/v/68495868</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/68495287"/>
         <updated>2025-01-19T10:19:59.507Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핸드벨' 2라운드 무대 - 기대, MBC 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68495073</id>
-        <link href="https://tv.naver.com/v/68495073"/>
-        <updated>2025-01-19T10:19:59.511Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['매일 크리스마스'의 정체는 뮤지컬 배우 류인아!, MBC 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68494857</id>
-        <link href="https://tv.naver.com/v/68494857"/>
-        <updated>2025-01-19T10:19:59.511Z</updated>
-        <content type="html"><![CDATA[01:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동갑내기 친구 양세형이 주는 '마시멜로 쿠키' 힌트! 포스트 백종원을 꿈꾸는 '마시멜로 쿠키'?!, MBC 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68494401</id>
-        <link href="https://tv.naver.com/v/68494401"/>
-        <updated>2025-01-19T10:19:59.513Z</updated>
-        <content type="html"><![CDATA[02:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마시멜로 쿠키' 2라운드 무대 - 사랑아, MBC 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68494336</id>
-        <link href="https://tv.naver.com/v/68494336"/>
-        <updated>2025-01-19T10:19:59.514Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['매일 크리스마스' 2라운드 무대 - My Destiny, MBC 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68494114</id>
-        <link href="https://tv.naver.com/v/68494114"/>
-        <updated>2025-01-19T10:19:59.515Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
