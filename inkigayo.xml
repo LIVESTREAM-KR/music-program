@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-01-19T09:18:54.154Z</updated>
+    <updated>2025-01-19T10:20:00.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[IVE - REBEL HEART | SBS 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68490977</id>
-        <link href="https://tv.naver.com/v/68490977"/>
-        <updated>2025-01-19T08:22:36.614Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[완선&슬기 - LUCKY | SBS 250119 방송]]></title>
         <id>https://tv.naver.com/v/68490568</id>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/68488903"/>
         <updated>2025-01-19T07:17:38.961Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ODD YOUTH - Best Friendz | SBS 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68488712</id>
+        <link href="https://tv.naver.com/v/68488712"/>
+        <updated>2025-01-19T10:19:30.065Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
     </entry>
 </feed>
