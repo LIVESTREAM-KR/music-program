@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-01-19T06:26:16.429Z</updated>
+    <updated>2025-01-19T07:18:11.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정슬(feat.신동) - 따봉 (Tabom) | SBS 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68489095</id>
+        <link href="https://tv.naver.com/v/68489095"/>
+        <updated>2025-01-19T07:17:38.961Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서이브(SEO EVE) - 어른들은 몰라요 (They Never Know) | SBS 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68488903</id>
+        <link href="https://tv.naver.com/v/68488903"/>
+        <updated>2025-01-19T07:17:38.961Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ODD YOUTH - Best Friendz | SBS 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68488712</id>
+        <link href="https://tv.naver.com/v/68488712"/>
+        <updated>2025-01-19T07:17:38.961Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XLOV - I'mma Be | SBS 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68488544</id>
+        <link href="https://tv.naver.com/v/68488544"/>
+        <updated>2025-01-19T07:17:38.964Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별사랑 - 너뿐야 | SBS 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68488339</id>
+        <link href="https://tv.naver.com/v/68488339"/>
+        <updated>2025-01-19T07:17:38.966Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부석순(SEVENTEEN) - 청바지 | SBS 250112 방송]]></title>
         <id>https://tv.naver.com/v/68050763</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/68049770"/>
         <updated>2025-01-12T08:23:22.776Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진이 - 가을밤 떠난 너 | SBS 250112 방송]]></title>
-        <id>https://tv.naver.com/v/68049567</id>
-        <link href="https://tv.naver.com/v/68049567"/>
-        <updated>2025-01-12T08:23:22.776Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이규라 - 그때가 좋았어 | SBS 250112 방송]]></title>
-        <id>https://tv.naver.com/v/68049352</id>
-        <link href="https://tv.naver.com/v/68049352"/>
-        <updated>2025-01-12T08:23:22.785Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CREZL - HAKUNA MATATA | SBS 250112 방송]]></title>
-        <id>https://tv.naver.com/v/68049156</id>
-        <link href="https://tv.naver.com/v/68049156"/>
-        <updated>2025-01-12T08:23:22.789Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한가빈 - 허니허니 (드림 ver.) | SBS 250112 방송]]></title>
-        <id>https://tv.naver.com/v/68048944</id>
-        <link href="https://tv.naver.com/v/68048944"/>
-        <updated>2025-01-12T08:23:22.790Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박성온(Park Sung On) - 직진이야 | SBS 250112 방송]]></title>
-        <id>https://tv.naver.com/v/68048728</id>
-        <link href="https://tv.naver.com/v/68048728"/>
-        <updated>2025-01-12T07:17:31.401Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
