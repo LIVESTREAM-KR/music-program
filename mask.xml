@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-01-20T06:30:30.218Z</updated>
+    <updated>2025-01-20T07:19:55.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 원곡자 나윤권 앞에서 노래 부른 성덕✨ 꼬북좌 유정의 《너에게 난, 나에게 넌》 《기적》 | #유정 MBC250119방송]]></title>
+        <id>https://tv.naver.com/v/68542152</id>
+        <link href="https://tv.naver.com/v/68542152"/>
+        <updated>2025-01-20T07:19:55.217Z</updated>
+        <content type="html"><![CDATA[15:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[480회 예고] 설맞이 도전자 선물 세트 등장?!🎁 가왕전을 방불케 하는 무대의 향연👍, MBC 250126 방송]]></title>
         <id>https://tv.naver.com/v/68497615</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68495437"/>
         <updated>2025-01-19T10:19:59.506Z</updated>
         <content type="html"><![CDATA[01:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크리스마스 캔들' 2라운드 무대 - 세월, MBC 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68495287</id>
-        <link href="https://tv.naver.com/v/68495287"/>
-        <updated>2025-01-19T10:19:59.507Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>

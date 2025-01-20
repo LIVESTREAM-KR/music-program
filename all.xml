@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-20T06:30:30.209Z</updated>
+    <updated>2025-01-20T07:19:55.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REBEL HEART - IVE (아이브) | KBS 250117 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[02:57]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – REBEL HEART | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68544912</id>
+        <link href="https://tv.naver.com/v/68544912"/>
+        <updated>2025-01-20T07:19:15.192Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE LEESEO (아이브 이서) – REBEL HEART | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68544623</id>
+        <link href="https://tv.naver.com/v/68544623"/>
+        <updated>2025-01-20T07:19:15.195Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) – REBEL HEART | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/68544621</id>
+        <link href="https://tv.naver.com/v/68544621"/>
+        <updated>2025-01-20T07:19:15.198Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 1월 셋째 주 음악중심 MC 컷 모음!, MBC 250118 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/68536876</id>
         <link href="https://tv.naver.com/v/68536876"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/68449250"/>
         <updated>2025-01-18T08:22:18.457Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE LEESEO (아이브 이서) – REBEL HEART FanCam | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68449111</id>
-        <link href="https://tv.naver.com/v/68449111"/>
-        <updated>2025-01-18T08:22:18.459Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] WANSUN&SEULGI SEULGI (완선&슬기 슬기) – Lucky FanCam | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68449110</id>
-        <link href="https://tv.naver.com/v/68449110"/>
-        <updated>2025-01-18T08:22:18.461Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] BBGIRLS (브브걸) – LOVE 2 FullCam | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68449108</id>
-        <link href="https://tv.naver.com/v/68449108"/>
-        <updated>2025-01-18T08:22:18.462Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IVE - REBEL HEART | SBS 250119 방송 (인기가요)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[02:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 원곡자 나윤권 앞에서 노래 부른 성덕✨ 꼬북좌 유정의 《너에게 난, 나에게 넌》 《기적》 | #유정 MBC250119방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/68542152</id>
+        <link href="https://tv.naver.com/v/68542152"/>
+        <updated>2025-01-20T07:19:55.217Z</updated>
+        <content type="html"><![CDATA[15:48]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[480회 예고] 설맞이 도전자 선물 세트 등장?!🎁 가왕전을 방불케 하는 무대의 향연👍, MBC 250126 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/68497615</id>
         <link href="https://tv.naver.com/v/68497615"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/68495437"/>
         <updated>2025-01-19T10:19:59.506Z</updated>
         <content type="html"><![CDATA[01:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['크리스마스 캔들' 2라운드 무대 - 세월, MBC 250119 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/68495287</id>
-        <link href="https://tv.naver.com/v/68495287"/>
-        <updated>2025-01-19T10:19:59.507Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
     </entry>
 </feed>

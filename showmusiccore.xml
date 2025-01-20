@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-01-20T06:30:30.216Z</updated>
+    <updated>2025-01-20T07:19:55.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – REBEL HEART | 쇼! 음악중심 | MBC250118]]></title>
+        <id>https://tv.naver.com/v/68544912</id>
+        <link href="https://tv.naver.com/v/68544912"/>
+        <updated>2025-01-20T07:19:15.192Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE LEESEO (아이브 이서) – REBEL HEART | 쇼! 음악중심 | MBC250118]]></title>
+        <id>https://tv.naver.com/v/68544623</id>
+        <link href="https://tv.naver.com/v/68544623"/>
+        <updated>2025-01-20T07:19:15.195Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) – REBEL HEART | 쇼! 음악중심 | MBC250118]]></title>
+        <id>https://tv.naver.com/v/68544621</id>
+        <link href="https://tv.naver.com/v/68544621"/>
+        <updated>2025-01-20T07:19:15.198Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 1월 셋째 주 음악중심 MC 컷 모음!, MBC 250118 방송]]></title>
         <id>https://tv.naver.com/v/68536876</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/68449250"/>
         <updated>2025-01-18T08:22:18.457Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE LEESEO (아이브 이서) – REBEL HEART FanCam | 쇼! 음악중심 | MBC250118]]></title>
-        <id>https://tv.naver.com/v/68449111</id>
-        <link href="https://tv.naver.com/v/68449111"/>
-        <updated>2025-01-18T08:22:18.459Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] WANSUN&SEULGI SEULGI (완선&슬기 슬기) – Lucky FanCam | 쇼! 음악중심 | MBC250118]]></title>
-        <id>https://tv.naver.com/v/68449110</id>
-        <link href="https://tv.naver.com/v/68449110"/>
-        <updated>2025-01-18T08:22:18.461Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] BBGIRLS (브브걸) – LOVE 2 FullCam | 쇼! 음악중심 | MBC250118]]></title>
-        <id>https://tv.naver.com/v/68449108</id>
-        <link href="https://tv.naver.com/v/68449108"/>
-        <updated>2025-01-18T08:22:18.462Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
