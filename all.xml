@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-21T07:22:57.592Z</updated>
+    <updated>2025-01-21T08:26:11.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[#shorts#아이브 컴백인터뷰(IVE COMEBACK Interview) | KBS 250117 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/68617996</id>
+        <link href="https://tv.naver.com/v/68617996"/>
+        <updated>2025-01-21T08:25:32.594Z</updated>
+        <content type="html"><![CDATA[00:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REBEL HEART - IVE (아이브) | KBS 250117 방송 (뮤직뱅크)]]></title>
         <id>https://tv.naver.com/v/68407056</id>
@@ -66,13 +73,6 @@
         <link href="https://tv.naver.com/v/68404662"/>
         <updated>2025-01-17T10:20:00.894Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따봉 - 정슬 (Seul Jung) (feat. 신동) | KBS 250117 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/68404659</id>
-        <link href="https://tv.naver.com/v/68404659"/>
-        <updated>2025-01-17T10:20:00.895Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – REBEL HEART | 쇼! 음악중심 | MBC250118 (쇼! 음악중심)]]></title>
