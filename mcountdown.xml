@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-01-21T09:22:09.585Z</updated>
+    <updated>2025-01-21T10:21:21.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RIIZE가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/68623862</id>
+        <link href="https://tv.naver.com/v/68623862"/>
+        <updated>2025-01-21T10:20:58.003Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1월 3주 1위 'BOYNEXTDOOR'의 '오늘만 I LOVE YOU' 앵콜 무대! (Full ver.)]]></title>
         <id>https://tv.naver.com/v/68559316</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68339481"/>
         <updated>2025-01-16T11:16:29.995Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위클리 엠카PICK 스테이지' 1월 2주 위클리 엠카PICK 스테이지의 주인공은? | Mnet 250116 방송]]></title>
-        <id>https://tv.naver.com/v/68338586</id>
-        <link href="https://tv.naver.com/v/68338586"/>
-        <updated>2025-01-16T11:16:29.997Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
     </entry>
 </feed>
