@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-01-22T09:21:34.819Z</updated>
+    <updated>2025-01-22T10:19:50.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 촉촉한 보이스의 트로트 황태자👑 트로트 가수 신성 하이라이트!, MBC 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68695854</id>
+        <link href="https://tv.naver.com/v/68695854"/>
+        <updated>2025-01-22T10:19:49.982Z</updated>
+        <content type="html"><![CDATA[12:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 시대를 풍미한 발라드 왕자✨ 가수 조정현 하이라이트!, MBC 250119 방송]]></title>
+        <id>https://tv.naver.com/v/68695851</id>
+        <link href="https://tv.naver.com/v/68695851"/>
+        <updated>2025-01-22T10:19:49.982Z</updated>
+        <content type="html"><![CDATA[13:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 원곡자 나윤권 앞에서 노래 부른 성덕✨ 꼬북좌 유정의 《너에게 난, 나에게 넌》 《기적》 | #유정 MBC250119방송]]></title>
         <id>https://tv.naver.com/v/68542152</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/68495696"/>
         <updated>2025-01-19T10:19:59.502Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['핸드벨'의 정체는 가수 유정!, MBC 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68495588</id>
-        <link href="https://tv.naver.com/v/68495588"/>
-        <updated>2025-01-19T10:19:59.503Z</updated>
-        <content type="html"><![CDATA[01:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다소곳한 '핸드벨'의 반전 개인기😮 '핸드벨'은 서바이벌 경력자 아이돌?!, MBC 250119 방송]]></title>
-        <id>https://tv.naver.com/v/68495437</id>
-        <link href="https://tv.naver.com/v/68495437"/>
-        <updated>2025-01-19T10:19:59.506Z</updated>
-        <content type="html"><![CDATA[01:35]]></content>
     </entry>
 </feed>
