@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-23T11:17:15.831Z</updated>
+    <updated>2025-01-23T12:39:35.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[#shorts#아이브 컴백인터뷰(IVE COMEBACK Interview) | KBS 250117 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,41 @@
         <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' GOT7 - PYTHON | Mnet 250123 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/68771458</id>
+        <link href="https://tv.naver.com/v/68771458"/>
+        <updated>2025-01-23T12:39:11.016Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 민니 ((여자)아이들) - HER | Mnet 250123 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/68770885</id>
+        <link href="https://tv.naver.com/v/68770885"/>
+        <updated>2025-01-23T12:39:11.017Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' GOT7 (갓세븐) | Mnet 250123 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/68770528</id>
+        <link href="https://tv.naver.com/v/68770528"/>
+        <updated>2025-01-23T12:39:11.019Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IVE - REBEL HEART | Mnet 250123 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/68770524</id>
+        <link href="https://tv.naver.com/v/68770524"/>
+        <updated>2025-01-23T12:39:11.020Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' ZEROBASEONE - Doctor! Doctor! | Mnet 250123 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/68770520</id>
+        <link href="https://tv.naver.com/v/68770520"/>
+        <updated>2025-01-23T12:39:11.022Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[브브걸(BBGIRLS) - LOVE 2 | Mnet 250123 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/68770062</id>
         <link href="https://tv.naver.com/v/68770062"/>
@@ -248,41 +283,6 @@
         <link href="https://tv.naver.com/v/68768250"/>
         <updated>2025-01-23T11:16:51.504Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' &TEAM - Deer Hunter (Korean ver.) | Mnet 250123 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/68768239</id>
-        <link href="https://tv.naver.com/v/68768239"/>
-        <updated>2025-01-23T11:16:51.505Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인터뷰' ZEROBASEONE (제로베이스원) | Mnet 250123 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/68768232</id>
-        <link href="https://tv.naver.com/v/68768232"/>
-        <updated>2025-01-23T11:16:51.507Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - Miracle | Mnet 250123 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/68767752</id>
-        <link href="https://tv.naver.com/v/68767752"/>
-        <updated>2025-01-23T11:16:51.508Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' CIX(씨아이엑스) - THUNDER | Mnet 250123 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/68767437</id>
-        <link href="https://tv.naver.com/v/68767437"/>
-        <updated>2025-01-23T11:16:51.510Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' &TEAM (앤팀) | Mnet 250123 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/68767430</id>
-        <link href="https://tv.naver.com/v/68767430"/>
-        <updated>2025-01-23T11:16:51.511Z</updated>
-        <content type="html"><![CDATA[02:13]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[izna - TIMEBOMB (이즈나, TIMEBOMB) [THE SHOW 241203] (더쇼)]]></title>
