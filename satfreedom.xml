@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-01-24T08:26:22.142Z</updated>
+    <updated>2025-01-24T09:21:49.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 박현빈 - 비싼 술 먹고 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/68831312</id>
+        <link href="https://tv.naver.com/v/68831312"/>
+        <updated>2025-01-24T09:21:42.616Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 스타들의 가족 총출동!! 2025 신년 가족 특집✨ | KBS 250118 방송]]></title>
         <id>https://tv.naver.com/v/68456646</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68455529"/>
         <updated>2025-01-18T11:15:33.069Z</updated>
         <content type="html"><![CDATA[05:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈만 같은 무대를 끝마친 가람의 소감🌟 다시 눈가가 촉촉해진(?) 성훈? | KBS 250118 방송]]></title>
-        <id>https://tv.naver.com/v/68455526</id>
-        <link href="https://tv.naver.com/v/68455526"/>
-        <updated>2025-01-18T11:15:33.070Z</updated>
-        <content type="html"><![CDATA[02:19]]></content>
     </entry>
 </feed>
