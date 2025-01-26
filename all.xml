@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-26T06:26:01.440Z</updated>
+    <updated>2025-01-26T07:17:29.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REBEL HEART - IVE (아이브) | KBS 250124 방송 (뮤직뱅크)]]></title>
@@ -145,6 +145,41 @@
         <content type="html"><![CDATA[02:49]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[박지현 - 바다사나이 | SBS 250126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68918467</id>
+        <link href="https://tv.naver.com/v/68918467"/>
+        <updated>2025-01-26T07:16:57.897Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KickFlip - Mama Said (뭐가 되려고?) | SBS 250126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68918210</id>
+        <link href="https://tv.naver.com/v/68918210"/>
+        <updated>2025-01-26T07:16:57.898Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KickFlip - 응 그래 (Umm Great) | SBS 250126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68917995</id>
+        <link href="https://tv.naver.com/v/68917995"/>
+        <updated>2025-01-26T07:16:57.899Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이규라 - 그때가 좋았어 | SBS 250126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68917803</id>
+        <link href="https://tv.naver.com/v/68917803"/>
+        <updated>2025-01-26T07:16:57.901Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캐치더영(CATCH THE YOUNG) - 넌 언제나 (2025) | SBS 250126 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/68917607</id>
+        <link href="https://tv.naver.com/v/68917607"/>
+        <updated>2025-01-26T07:16:57.903Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IVE - REBEL HEART | SBS 250119 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/68490977</id>
         <link href="https://tv.naver.com/v/68490977"/>
@@ -178,41 +213,6 @@
         <link href="https://tv.naver.com/v/68489935"/>
         <updated>2025-01-19T11:14:38.557Z</updated>
         <content type="html"><![CDATA[01:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위아이(WEi) - NOT ENOUGH | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68489721</id>
-        <link href="https://tv.naver.com/v/68489721"/>
-        <updated>2025-01-19T08:22:36.627Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진이 - 가을밤 떠난 너 | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68489720</id>
-        <link href="https://tv.naver.com/v/68489720"/>
-        <updated>2025-01-19T08:22:36.629Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - Love Potion (백일몽; 白日夢) | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68489504</id>
-        <link href="https://tv.naver.com/v/68489504"/>
-        <updated>2025-01-19T08:22:36.631Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박지현 - 바다사나이 | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68489288</id>
-        <link href="https://tv.naver.com/v/68489288"/>
-        <updated>2025-01-19T08:22:36.633Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정슬(feat.신동) - 따봉 (Tabom) | SBS 250119 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/68489095</id>
-        <link href="https://tv.naver.com/v/68489095"/>
-        <updated>2025-01-19T07:17:38.961Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' GOT7 - PYTHON | Mnet 250123 방송 (엠카운트다운)]]></title>
