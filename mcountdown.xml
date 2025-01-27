@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-01-27T09:22:36.642Z</updated>
+    <updated>2025-01-27T10:22:37.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1월 4주 1위 'IVE'의 'REBEL HEART' 앵콜 무대! (Full ver.)]]></title>
+        <id>https://tv.naver.com/v/68974442</id>
+        <link href="https://tv.naver.com/v/68974442"/>
+        <updated>2025-01-27T10:22:05.038Z</updated>
+        <content type="html"><![CDATA[05:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' GOT7 - PYTHON | Mnet 250123 방송]]></title>
         <id>https://tv.naver.com/v/68771458</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68769758"/>
         <updated>2025-01-23T11:16:51.504Z</updated>
         <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' &TEAM - Yukiakari (Korean ver.) | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68768250</id>
-        <link href="https://tv.naver.com/v/68768250"/>
-        <updated>2025-01-23T11:16:51.504Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
