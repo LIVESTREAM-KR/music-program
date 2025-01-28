@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-28T07:19:25.406Z</updated>
+    <updated>2025-01-28T08:26:35.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REBEL HEART - IVE (아이브) | KBS 250124 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[샤인멍또캣이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69010423</id>
+        <link href="https://tv.naver.com/v/69010423"/>
+        <updated>2025-01-28T08:26:09.530Z</updated>
+        <content type="html"><![CDATA[01:19]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[1월 4주 1위 'IVE'의 'REBEL HEART' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/68974442</id>
         <link href="https://tv.naver.com/v/68974442"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/68770060"/>
         <updated>2025-01-23T11:16:51.502Z</updated>
         <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스(ONEUS) - IKUK | Mnet 250123 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/68769758</id>
-        <link href="https://tv.naver.com/v/68769758"/>
-        <updated>2025-01-23T11:16:51.504Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[izna - TIMEBOMB (이즈나, TIMEBOMB) [THE SHOW 241203] (더쇼)]]></title>

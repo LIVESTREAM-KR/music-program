@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-01-28T07:19:25.373Z</updated>
+    <updated>2025-01-28T08:26:35.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[샤인멍또캣이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/69010423</id>
+        <link href="https://tv.naver.com/v/69010423"/>
+        <updated>2025-01-28T08:26:09.530Z</updated>
+        <content type="html"><![CDATA[01:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1월 4주 1위 'IVE'의 'REBEL HEART' 앵콜 무대! (Full ver.)]]></title>
         <id>https://tv.naver.com/v/68974442</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68770060"/>
         <updated>2025-01-23T11:16:51.502Z</updated>
         <content type="html"><![CDATA[02:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원어스(ONEUS) - IKUK | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68769758</id>
-        <link href="https://tv.naver.com/v/68769758"/>
-        <updated>2025-01-23T11:16:51.504Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
 </feed>
