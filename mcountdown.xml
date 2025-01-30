@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-01-30T08:24:58.113Z</updated>
+    <updated>2025-01-30T09:20:56.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[새해 목표 특집] RIIZE (라이즈) - Boom Boom Bass | Mnet 250130 방송]]></title>
+        <id>https://tv.naver.com/v/69095716</id>
+        <link href="https://tv.naver.com/v/69095716"/>
+        <updated>2025-01-30T09:20:32.957Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤인멍또캣이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/69010423</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68770062"/>
         <updated>2025-01-23T11:16:51.500Z</updated>
         <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['솔로 데뷔 인터뷰' 민니 ((여자)아이들) | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68770060</id>
-        <link href="https://tv.naver.com/v/68770060"/>
-        <updated>2025-01-23T11:16:51.502Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
     </entry>
 </feed>

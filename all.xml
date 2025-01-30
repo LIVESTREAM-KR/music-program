@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-30T08:24:58.123Z</updated>
+    <updated>2025-01-30T09:20:56.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REBEL HEART - IVE (아이브) | KBS 250124 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[새해 목표 특집] RIIZE (라이즈) - Boom Boom Bass | Mnet 250130 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69095716</id>
+        <link href="https://tv.naver.com/v/69095716"/>
+        <updated>2025-01-30T09:20:32.957Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[샤인멍또캣이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/69010423</id>
         <link href="https://tv.naver.com/v/69010423"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/68770062"/>
         <updated>2025-01-23T11:16:51.500Z</updated>
         <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['솔로 데뷔 인터뷰' 민니 ((여자)아이들) | Mnet 250123 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/68770060</id>
-        <link href="https://tv.naver.com/v/68770060"/>
-        <updated>2025-01-23T11:16:51.502Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[izna - TIMEBOMB (이즈나, TIMEBOMB) [THE SHOW 241203] (더쇼)]]></title>
