@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-01-31T06:29:01.606Z</updated>
+    <updated>2025-01-31T07:19:28.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 김성주 MC 자리 노리는 차승원 복사기?! 코미디언 이재율의 《모든 날, 모든 순간》 《아로하》 | #이재율 MBC250126방송]]></title>
+        <id>https://tv.naver.com/v/69137816</id>
+        <link href="https://tv.naver.com/v/69137816"/>
+        <updated>2025-01-31T07:19:27.328Z</updated>
+        <content type="html"><![CDATA[16:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[481회 예고] 믿고 듣는 가왕의 위기?!🙊 쟁쟁한 실력자 4인의 강렬한 무대⚡, MBC 250202 방송]]></title>
         <id>https://tv.naver.com/v/68926454</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68925296"/>
         <updated>2025-01-26T10:19:46.446Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['을사좋네 을사좋아'의 정체는 배우 백봉기!, MBC 250126 방송]]></title>
-        <id>https://tv.naver.com/v/68925292</id>
-        <link href="https://tv.naver.com/v/68925292"/>
-        <updated>2025-01-26T10:19:46.447Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
     </entry>
 </feed>
