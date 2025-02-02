@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-02-02T08:23:39.631Z</updated>
+    <updated>2025-02-02T09:18:38.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[피스트범프(FISTBUMP) - Misery (미저리) | SBS 250202 방송]]></title>
+        <id>https://tv.naver.com/v/69243886</id>
+        <link href="https://tv.naver.com/v/69243886"/>
+        <updated>2025-02-02T09:18:09.112Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BOMIN(김보민) - 몇 번 몇 밤 몇 달 | SBS 250202 방송]]></title>
         <id>https://tv.naver.com/v/69243686</id>
         <link href="https://tv.naver.com/v/69243686"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69243444"/>
         <updated>2025-02-02T08:23:06.894Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬울 - 고맙소 | SBS 250202 방송]]></title>
-        <id>https://tv.naver.com/v/69243127</id>
-        <link href="https://tv.naver.com/v/69243127"/>
-        <updated>2025-02-02T07:17:01.062Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
     </entry>
 </feed>
