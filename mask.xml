@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-02-02T11:16:00.349Z</updated>
+    <updated>2025-02-02T12:35:09.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[482회 예고] 겨울 방학 맞이 엄청난 실력자들의 등장💥 '꽃보다 향수'는 여유로운 방학을 되찾을 수 있을지?🤯, MBC 250209 방송]]></title>
-        <id>https://tv.naver.com/v/69253265</id>
-        <link href="https://tv.naver.com/v/69253265"/>
-        <updated>2025-02-02T11:15:59.676Z</updated>
-        <content type="html"><![CDATA[00:30]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA['갓생 사는 선비'의 정체는 딕펑스 김태현!, MBC 250202 방송]]></title>
         <id>https://tv.naver.com/v/69252617</id>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/69250102"/>
         <updated>2025-02-02T10:19:04.168Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['복을 품은 뱀'의 정체는 크래비티 원진!, MBC 250202 방송]]></title>
+        <id>https://tv.naver.com/v/69249904</id>
+        <link href="https://tv.naver.com/v/69249904"/>
+        <updated>2025-02-02T12:35:09.076Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
     </entry>
 </feed>
