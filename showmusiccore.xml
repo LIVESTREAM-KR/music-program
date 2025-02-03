@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-03T08:27:28.956Z</updated>
+    <updated>2025-02-03T09:22:23.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[January TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/69305295</id>
+        <link href="https://tv.naver.com/v/69305295"/>
+        <updated>2025-02-03T09:21:44.897Z</updated>
+        <content type="html"><![CDATA[31:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 1월 넷째 주 음악중심 MC 컷 모음!, MBC 250125 방송]]></title>
         <id>https://tv.naver.com/v/69295120</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68927631"/>
         <updated>2025-01-27T04:25:12.862Z</updated>
         <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] &TEAM EJ (앤팀 의주) – Yukiakari (Korean ver.) | 쇼! 음악중심 | MBC250125]]></title>
-        <id>https://tv.naver.com/v/68927824</id>
-        <link href="https://tv.naver.com/v/68927824"/>
-        <updated>2025-01-27T04:25:12.866Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>
