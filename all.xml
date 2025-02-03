@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-03T05:20:19.141Z</updated>
+    <updated>2025-02-03T06:28:54.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REBEL HEART - IVE (아이브) | KBS 250124 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 1월 넷째 주 음악중심 MC 컷 모음!, MBC 250125 방송 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/69295120</id>
+        <link href="https://tv.naver.com/v/69295120"/>
+        <updated>2025-02-03T06:28:17.359Z</updated>
+        <content type="html"><![CDATA[18:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT WISH SAKUYA (엔시티 위시 사쿠야) – Miracle | 쇼! 음악중심 | MBC250125 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/68928050</id>
         <link href="https://tv.naver.com/v/68928050"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/68927824"/>
         <updated>2025-01-27T04:25:12.866Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] GOT7 MARK (갓세븐 마크) – PYTHON | 쇼! 음악중심 | MBC250125 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/68928092</id>
-        <link href="https://tv.naver.com/v/68928092"/>
-        <updated>2025-01-27T03:22:23.348Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은혁(EUNHYUK) - UP N DOWN | SBS 250202 방송 (인기가요)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[04:03]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 라이즈 6명이 부른 곡을 혼자서? 앤톤 아빠 윤상의 인정을 받은 크래비티 원진의 《Boat》《Boom Boom Bass》 | #크래비티 #원진 MBC250202방 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/69290187</id>
+        <link href="https://tv.naver.com/v/69290187"/>
+        <updated>2025-02-03T06:28:53.580Z</updated>
+        <content type="html"><![CDATA[16:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[482회 예고] 여유로운 방학을 맞이한 가왕, 그리고 가왕석을 노리는 8인의 끼 많은 실력자들?!, MBC 250209 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/69288475</id>
         <link href="https://tv.naver.com/v/69288475"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/69250104"/>
         <updated>2025-02-02T10:19:04.162Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갈비찜' 2라운드 무대 - 태양계, MBC 250202 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/69250102</id>
-        <link href="https://tv.naver.com/v/69250102"/>
-        <updated>2025-02-02T10:19:04.168Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-03T05:20:19.140Z</updated>
+    <updated>2025-02-03T06:28:54.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 1월 넷째 주 음악중심 MC 컷 모음!, MBC 250125 방송]]></title>
+        <id>https://tv.naver.com/v/69295120</id>
+        <link href="https://tv.naver.com/v/69295120"/>
+        <updated>2025-02-03T06:28:17.359Z</updated>
+        <content type="html"><![CDATA[18:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NCT WISH SAKUYA (엔시티 위시 사쿠야) – Miracle | 쇼! 음악중심 | MBC250125]]></title>
         <id>https://tv.naver.com/v/68928050</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68927824"/>
         <updated>2025-01-27T04:25:12.866Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] GOT7 MARK (갓세븐 마크) – PYTHON | 쇼! 음악중심 | MBC250125]]></title>
-        <id>https://tv.naver.com/v/68928092</id>
-        <link href="https://tv.naver.com/v/68928092"/>
-        <updated>2025-01-27T03:22:23.348Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
     </entry>
 </feed>

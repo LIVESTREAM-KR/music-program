@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-02-03T05:20:19.137Z</updated>
+    <updated>2025-02-03T06:28:54.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 라이즈 6명이 부른 곡을 혼자서? 앤톤 아빠 윤상의 인정을 받은 크래비티 원진의 《Boat》《Boom Boom Bass》 | #크래비티 #원진 MBC250202방]]></title>
+        <id>https://tv.naver.com/v/69290187</id>
+        <link href="https://tv.naver.com/v/69290187"/>
+        <updated>2025-02-03T06:28:53.580Z</updated>
+        <content type="html"><![CDATA[16:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[482회 예고] 여유로운 방학을 맞이한 가왕, 그리고 가왕석을 노리는 8인의 끼 많은 실력자들?!, MBC 250209 방송]]></title>
         <id>https://tv.naver.com/v/69288475</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69250104"/>
         <updated>2025-02-02T10:19:04.162Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['갈비찜' 2라운드 무대 - 태양계, MBC 250202 방송]]></title>
-        <id>https://tv.naver.com/v/69250102</id>
-        <link href="https://tv.naver.com/v/69250102"/>
-        <updated>2025-02-02T10:19:04.168Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
