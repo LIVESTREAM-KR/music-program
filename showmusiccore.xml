@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-05T07:20:37.318Z</updated>
+    <updated>2025-02-05T08:24:43.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] &TEAM(앤팀).zip 📂 War Cry(Korean ver.)부터 Yukiakari(Korean ver.)까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/69373441</id>
+        <link href="https://tv.naver.com/v/69373441"/>
+        <updated>2025-02-05T08:24:07.742Z</updated>
+        <content type="html"><![CDATA[11:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[January TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
         <id>https://tv.naver.com/v/69305295</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68927827"/>
         <updated>2025-01-27T04:25:12.861Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] &TEAM YUMA (앤팀 유마) – Yukiakari (Korean ver.) | 쇼! 음악중심 | MBC250125]]></title>
-        <id>https://tv.naver.com/v/68927631</id>
-        <link href="https://tv.naver.com/v/68927631"/>
-        <updated>2025-01-27T04:25:12.862Z</updated>
-        <content type="html"><![CDATA[04:02]]></content>
     </entry>
 </feed>
