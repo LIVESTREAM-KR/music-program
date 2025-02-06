@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-06T07:19:19.803Z</updated>
+    <updated>2025-02-06T08:26:47.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[REBEL HEART - IVE (아이브) | KBS 250124 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,13 @@
         <content type="html"><![CDATA[00:50]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 불후의 명곡 심수봉X송가인의 새해 연가 | KBS 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/69511442</id>
+        <link href="https://tv.naver.com/v/69511442"/>
+        <updated>2025-02-06T08:26:40.949Z</updated>
+        <content type="html"><![CDATA[00:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인간 김정화의 모습을 보여준 무대! 이번 주 트로피의 주인공은?🏆️ | KBS 250201 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/69211022</id>
         <link href="https://tv.naver.com/v/69211022"/>
@@ -486,13 +493,6 @@
         <link href="https://tv.naver.com/v/69209312"/>
         <updated>2025-02-01T11:15:02.458Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건주 보살이 본 살벌한(?) 연애운🔥 올해 결혼 가능할까요?🤣 | KBS 250201 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/69209078</id>
-        <link href="https://tv.naver.com/v/69209078"/>
-        <updated>2025-02-01T11:15:02.460Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 퍼포먼스 맛집의 올라운더🐥 크래비티 원진 하이라이트!, MBC 250202 방송 (복면가왕)]]></title>

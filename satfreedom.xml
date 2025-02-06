@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-02-06T07:19:19.795Z</updated>
+    <updated>2025-02-06T08:26:47.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 불후의 명곡 심수봉X송가인의 새해 연가 | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/69511442</id>
+        <link href="https://tv.naver.com/v/69511442"/>
+        <updated>2025-02-06T08:26:40.949Z</updated>
+        <content type="html"><![CDATA[00:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인간 김정화의 모습을 보여준 무대! 이번 주 트로피의 주인공은?🏆️ | KBS 250201 방송]]></title>
         <id>https://tv.naver.com/v/69211022</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69209312"/>
         <updated>2025-02-01T11:15:02.458Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건주 보살이 본 살벌한(?) 연애운🔥 올해 결혼 가능할까요?🤣 | KBS 250201 방송]]></title>
-        <id>https://tv.naver.com/v/69209078</id>
-        <link href="https://tv.naver.com/v/69209078"/>
-        <updated>2025-02-01T11:15:02.460Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
     </entry>
 </feed>
