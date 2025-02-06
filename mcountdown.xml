@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-02-06T09:21:35.064Z</updated>
+    <updated>2025-02-06T10:22:19.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피스트범프 (FISTBUMP) - 미저리 (MISERY) | Mnet 250206 방송]]></title>
+        <id>https://tv.naver.com/v/69520975</id>
+        <link href="https://tv.naver.com/v/69520975"/>
+        <updated>2025-02-06T10:21:55.330Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZEROBASEONE이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/69379133</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69098121"/>
         <updated>2025-01-30T10:21:00.188Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] 전소미 (JEON SOMI) - 금금금 | Mnet 250130 방송]]></title>
-        <id>https://tv.naver.com/v/69098114</id>
-        <link href="https://tv.naver.com/v/69098114"/>
-        <updated>2025-01-30T10:21:00.190Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
     </entry>
 </feed>
