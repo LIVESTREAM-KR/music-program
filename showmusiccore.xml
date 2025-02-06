@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-06T06:38:14.942Z</updated>
+    <updated>2025-02-06T07:19:19.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GOT7 (갓세븐).zip 📂 Girls Girls Girls부터 PYTHON까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/69464728</id>
+        <link href="https://tv.naver.com/v/69464728"/>
+        <updated>2025-02-06T07:18:44.453Z</updated>
+        <content type="html"><![CDATA[01:31:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #민니 #MINNIE 그녀를 보면 HER.. 소리가 절로 나옴🩷 음중 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/69437883</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68928052"/>
         <updated>2025-01-27T05:19:16.267Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] &TEAM NICHOLAS (앤팀 니콜라스) – Deer Hunter (Korean ver.) | 쇼! 음악중심 | MBC250125]]></title>
-        <id>https://tv.naver.com/v/68927828</id>
-        <link href="https://tv.naver.com/v/68927828"/>
-        <updated>2025-01-27T04:25:12.859Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
