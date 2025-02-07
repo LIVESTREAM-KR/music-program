@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-07T06:29:04.584Z</updated>
+    <updated>2025-02-07T07:19:19.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] NCT WISH.zip 📂 WISH부터 Miracle까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/69362592</id>
+        <link href="https://tv.naver.com/v/69362592"/>
+        <updated>2025-02-07T07:18:39.573Z</updated>
+        <content type="html"><![CDATA[19:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] IVE (아이브) – REBEL HEART | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/69553819</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/68928466"/>
         <updated>2025-01-27T05:19:16.261Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NCT WISH JAEHEE (엔시티 위시 재희) – Miracle | 쇼! 음악중심 | MBC250125]]></title>
-        <id>https://tv.naver.com/v/68928464</id>
-        <link href="https://tv.naver.com/v/68928464"/>
-        <updated>2025-01-27T05:19:16.263Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
