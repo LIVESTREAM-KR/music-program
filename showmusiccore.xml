@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-08T10:19:52.188Z</updated>
+    <updated>2025-02-08T11:15:36.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방분] 2월 2주차 1위 아이브 - REBEL HEART (IVE - REBEL HEART), MBC 250208 방송]]></title>
+        <id>https://tv.naver.com/v/69644327</id>
+        <link href="https://tv.naver.com/v/69644327"/>
+        <updated>2025-02-08T11:14:56.910Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중풀캠] KickFlip (킥플립) – 응 그래 (Umm Great) FullCam | 쇼! 음악중심 | MBC250208]]></title>
         <id>https://tv.naver.com/v/69637450</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69637128"/>
         <updated>2025-02-08T09:18:34.838Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] EUNHYUK (은혁) – UP N DOWN FullCam | 쇼! 음악중심 | MBC250208]]></title>
-        <id>https://tv.naver.com/v/69637126</id>
-        <link href="https://tv.naver.com/v/69637126"/>
-        <updated>2025-02-08T09:18:34.839Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
