@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-08T07:18:52.019Z</updated>
+    <updated>2025-02-08T08:24:55.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] IVE (아이브) – REBEL HEART 1위 직캠 | 쇼! 음악중심 | MBC250208]]></title>
+        <id>https://tv.naver.com/v/69636882</id>
+        <link href="https://tv.naver.com/v/69636882"/>
+        <updated>2025-02-08T08:24:12.708Z</updated>
+        <content type="html"><![CDATA[05:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2월 2주차 1위 아이브 - REBEL HEART (IVE - REBEL HEART), MBC 250208 방송]]></title>
+        <id>https://tv.naver.com/v/69635199</id>
+        <link href="https://tv.naver.com/v/69635199"/>
+        <updated>2025-02-08T08:24:12.710Z</updated>
+        <content type="html"><![CDATA[01:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은혁 - UP N DOWN (EUNHYUK - UP N DOWN), MBC 250208 방송]]></title>
+        <id>https://tv.naver.com/v/69635195</id>
+        <link href="https://tv.naver.com/v/69635195"/>
+        <updated>2025-02-08T08:24:12.712Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이브 - ATTITUDE (IVE - ATTITUDE), MBC 250208 방송]]></title>
+        <id>https://tv.naver.com/v/69634961</id>
+        <link href="https://tv.naver.com/v/69634961"/>
+        <updated>2025-02-08T08:24:12.714Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨아이엑스 - THUNDER (CIX - THUNDER), MBC 250208 방송]]></title>
+        <id>https://tv.naver.com/v/69634694</id>
+        <link href="https://tv.naver.com/v/69634694"/>
+        <updated>2025-02-08T08:24:12.716Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피스트범프 - 미저리 (FISTBUMP - MISERY), MBC 250208 방송]]></title>
+        <id>https://tv.naver.com/v/69634434</id>
+        <link href="https://tv.naver.com/v/69634434"/>
+        <updated>2025-02-08T08:24:12.719Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김보민 - 몇 번 몇 밤 몇 달 (BOMIN - How Many Times), MBC 250208 방송]]></title>
+        <id>https://tv.naver.com/v/69634177</id>
+        <link href="https://tv.naver.com/v/69634177"/>
+        <updated>2025-02-08T08:24:12.720Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킥플립 - Mama Said (뭐가 되려고?) (KickFlip - Mama Said), MBC 250208 방송]]></title>
         <id>https://tv.naver.com/v/69633920</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/69633635"/>
         <updated>2025-02-08T07:18:15.996Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올아워즈 - GIMME GIMME (ALL(H)OURS - GIMME GIMME), MBC 250208 방송]]></title>
-        <id>https://tv.naver.com/v/69633342</id>
-        <link href="https://tv.naver.com/v/69633342"/>
-        <updated>2025-02-08T07:18:15.998Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마하 - Love is over (macha - Love is over), MBC 250208 방송]]></title>
-        <id>https://tv.naver.com/v/69633094</id>
-        <link href="https://tv.naver.com/v/69633094"/>
-        <updated>2025-02-08T07:18:15.999Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리센느 - Glow Up (RESCENE - Glow Up), MBC 250208 방송]]></title>
-        <id>https://tv.naver.com/v/69633090</id>
-        <link href="https://tv.naver.com/v/69633090"/>
-        <updated>2025-02-08T07:18:16.001Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[캔디스 - Playground (Kandis - Playground), MBC 250208 방송]]></title>
-        <id>https://tv.naver.com/v/69632817</id>
-        <link href="https://tv.naver.com/v/69632817"/>
-        <updated>2025-02-08T07:18:16.004Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박민수 - 보름아 (Park Min Su - Dear Moon), MBC 250208 방송]]></title>
-        <id>https://tv.naver.com/v/69632564</id>
-        <link href="https://tv.naver.com/v/69632564"/>
-        <updated>2025-02-08T07:18:16.005Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우예린 - 붉은장미 (Woo Yerin - Red Rose), MBC 250208 방송]]></title>
-        <id>https://tv.naver.com/v/69632296</id>
-        <link href="https://tv.naver.com/v/69632296"/>
-        <updated>2025-02-08T07:18:16.006Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] NCT WISH.zip 📂 WISH부터 Miracle까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/69362592</id>
-        <link href="https://tv.naver.com/v/69362592"/>
-        <updated>2025-02-07T07:18:39.573Z</updated>
-        <content type="html"><![CDATA[19:30]]></content>
     </entry>
 </feed>
