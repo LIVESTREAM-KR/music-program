@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-09T01:39:39.981Z</updated>
+    <updated>2025-02-09T02:52:00.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[GIMME GIMME - ALL(H)OURS (올아워즈)  | KBS 250207 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE JANG WONYOUNG (아이브 장원영) – ATTITUDE | 쇼! 음악중심 | MBC250208 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/69638983</id>
+        <link href="https://tv.naver.com/v/69638983"/>
+        <updated>2025-02-09T02:51:19.717Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE REI (아이브 레이) – ATTITUDE | 쇼! 음악중심 | MBC250208 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/69638984</id>
+        <link href="https://tv.naver.com/v/69638984"/>
+        <updated>2025-02-09T02:51:19.718Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] IVE AN YUJIN (아이브 안유진) – ATTITUDE | 쇼! 음악중심 | MBC250208 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/69638714</id>
+        <link href="https://tv.naver.com/v/69638714"/>
+        <updated>2025-02-09T02:51:19.718Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[미방분] 2월 2주차 1위 아이브 - REBEL HEART (IVE - REBEL HEART), MBC 250208 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/69644327</id>
         <link href="https://tv.naver.com/v/69644327"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/69637275"/>
         <updated>2025-02-08T09:18:34.832Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] IVE (아이브) – ATTITUDE FullCam | 쇼! 음악중심 | MBC250208 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/69637273</id>
-        <link href="https://tv.naver.com/v/69637273"/>
-        <updated>2025-02-08T09:18:34.835Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE GAEUL (아이브 가을) – ATTITUDE FanCam | 쇼! 음악중심 | MBC250208 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/69637130</id>
-        <link href="https://tv.naver.com/v/69637130"/>
-        <updated>2025-02-08T09:18:34.836Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE AN YUJIN (아이브 안유진) – ATTITUDE FanCam | 쇼! 음악중심 | MBC250208 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/69637128</id>
-        <link href="https://tv.naver.com/v/69637128"/>
-        <updated>2025-02-08T09:18:34.838Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은혁(EUNHYUK) - UP N DOWN | SBS 250202 방송 (인기가요)]]></title>
