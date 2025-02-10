@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-02-10T08:28:03.754Z</updated>
+    <updated>2025-02-10T09:23:26.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 두둥chill 2025년 다시 돌아온 쇼챔!🕺🏻 놓chill면 안 될 chill guy&girl들의 모임🎤]]></title>
+        <id>https://tv.naver.com/v/69726632</id>
+        <link href="https://tv.naver.com/v/69726632"/>
+        <updated>2025-02-10T09:23:14.339Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1분으로 보는 승언이 성장기✨]]></title>
         <id>https://tv.naver.com/v/67438155</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/66003322"/>
         <updated>2024-12-09T09:25:10.450Z</updated>
         <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1분으로 모아보는 웨이션브이(WayV)의 <FREQUENCY>♬ #WayV #웨이션브이 #프리퀀시]]></title>
-        <id>https://tv.naver.com/v/65844447</id>
-        <link href="https://tv.naver.com/v/65844447"/>
-        <updated>2024-12-09T01:48:39.375Z</updated>
-        <content type="html"><![CDATA[00:50]]></content>
     </entry>
 </feed>
