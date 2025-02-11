@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-11T08:26:09.261Z</updated>
+    <updated>2025-02-11T09:22:10.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #갓세븐 #GOT7 눈빛은 예전부터 아가새 씹어먹었고...🐥 외모는 여전히 아가세븐💚 5년만에 음중 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/69818577</id>
+        <link href="https://tv.naver.com/v/69818577"/>
+        <updated>2025-02-11T09:21:30.876Z</updated>
+        <content type="html"><![CDATA[12:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 2월 둘째 주 음악중심 MC 컷 모음!, MBC 250208 방송]]></title>
         <id>https://tv.naver.com/v/69715589</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/69637445</id>
         <link href="https://tv.naver.com/v/69637445"/>
         <updated>2025-02-08T09:18:34.828Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE JANG WONYOUNG (아이브 장원영) – ATTITUDE  FanCam | 쇼! 음악중심 | MBC250208]]></title>
-        <id>https://tv.naver.com/v/69637276</id>
-        <link href="https://tv.naver.com/v/69637276"/>
-        <updated>2025-02-08T09:18:34.830Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
