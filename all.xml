@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-12T13:25:57.567Z</updated>
+    <updated>2025-02-12T14:20:02.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[GIMME GIMME - ALL(H)OURS (올아워즈)  | KBS 250207 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX(이펙스) - Attosecond | Show Champion | EP.543 | 250212 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/69916276</id>
+        <link href="https://tv.naver.com/v/69916276"/>
+        <updated>2025-02-12T14:19:51.398Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] RESCENE(리센느) - CRASH | Show Champion | EP.543 | 250212 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/69905487</id>
         <link href="https://tv.naver.com/v/69905487"/>
@@ -415,13 +422,6 @@
         <id>https://tv.naver.com/v/69907056</id>
         <link href="https://tv.naver.com/v/69907056"/>
         <updated>2025-02-12T13:25:45.108Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CIX YONGHEE(씨아이엑스 용희) - THUNDER | Show Champion | EP.543 | 250212 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/69906673</id>
-        <link href="https://tv.naver.com/v/69906673"/>
-        <updated>2025-02-12T13:25:45.109Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-02-12T13:25:57.560Z</updated>
+    <updated>2025-02-12T14:20:02.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] EPEX(이펙스) - Attosecond | Show Champion | EP.543 | 250212]]></title>
+        <id>https://tv.naver.com/v/69916276</id>
+        <link href="https://tv.naver.com/v/69916276"/>
+        <updated>2025-02-12T14:19:51.398Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] RESCENE(리센느) - CRASH | Show Champion | EP.543 | 250212]]></title>
         <id>https://tv.naver.com/v/69905487</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/69907056</id>
         <link href="https://tv.naver.com/v/69907056"/>
         <updated>2025-02-12T13:25:45.108Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] CIX YONGHEE(씨아이엑스 용희) - THUNDER | Show Champion | EP.543 | 250212]]></title>
-        <id>https://tv.naver.com/v/69906673</id>
-        <link href="https://tv.naver.com/v/69906673"/>
-        <updated>2025-02-12T13:25:45.109Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
