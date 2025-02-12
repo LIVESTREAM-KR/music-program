@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-12T09:21:55.204Z</updated>
+    <updated>2025-02-12T10:21:57.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[GIMME GIMME - ALL(H)OURS (올아워즈)  | KBS 250207 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,20 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 2월 2주 챔피언송 ＜PLAVE - Dash＞ 수상소감 Full ver. l Show Champion l EP.543 l 250212 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/69900038</id>
+        <link href="https://tv.naver.com/v/69900038"/>
+        <updated>2025-02-12T10:21:42.735Z</updated>
+        <content type="html"><![CDATA[01:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] KickFlip JUWANG(킥플립 주왕) - Mama Said (뭐가 되려고?) | Show Champion | EP.543 | 250212 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/69899346</id>
+        <link href="https://tv.naver.com/v/69899346"/>
+        <updated>2025-02-12T10:21:42.736Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[SPECIAL STAGE] 엑스디너리 히어로즈(Xdinary Heroes) - 불꽃놀이의 밤 l 250212 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/69896206</id>
         <link href="https://tv.naver.com/v/69896206"/>
@@ -411,20 +425,6 @@
         <content type="html"><![CDATA[02:54]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[최초 공개] 리센느(RESCENE) - CRASH l 250212 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/69893956</id>
-        <link href="https://tv.naver.com/v/69893956"/>
-        <updated>2025-02-12T09:21:42.452Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MC석 코너] 취향이 선명해지는 시간✨ 'RESCENE' 취향의 발견💖 l 250212 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/69893953</id>
-        <link href="https://tv.naver.com/v/69893953"/>
-        <updated>2025-02-12T09:21:42.453Z</updated>
-        <content type="html"><![CDATA[03:49]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[영원한 유행가를 두고 떠난 국민 트로트 가수 故송대관 | KBS 250208 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/69683293</id>
         <link href="https://tv.naver.com/v/69683293"/>
@@ -457,7 +457,7 @@
         <id>https://tv.naver.com/v/69644328</id>
         <link href="https://tv.naver.com/v/69644328"/>
         <updated>2025-02-08T11:15:30.429Z</updated>
-        <content type="html"><![CDATA[04:40]]></content>
+        <content type="html"><![CDATA[04:41]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심수봉 (Shim Soo Bong) - 로맨스 그레이 | KBS 250208 방송 (불후의 명곡)]]></title>
