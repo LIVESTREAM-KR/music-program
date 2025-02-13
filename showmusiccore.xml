@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-13T08:26:39.124Z</updated>
+    <updated>2025-02-13T09:22:20.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #앤팀 #andTEAM 놓Chill 수 없는 Chill Guys💥 르네 마음 Hunter🐺 음중 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/69967127</id>
+        <link href="https://tv.naver.com/v/69967127"/>
+        <updated>2025-02-13T09:21:44.554Z</updated>
+        <content type="html"><![CDATA[13:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] IVE.zip 📂 ELEVEN부터 ATTITUDE까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/69962715</id>
+        <link href="https://tv.naver.com/v/69962715"/>
+        <updated>2025-02-13T09:21:44.554Z</updated>
+        <content type="html"><![CDATA[39:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #갓세븐 #GOT7 눈빛은 예전부터 아가새 씹어먹었고...🐥 외모는 여전히 아가세븐💚 5년만에 음중 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/69818577</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/69637449"/>
         <updated>2025-02-08T09:18:34.825Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KickFlip MINJE (킥플립 민제) – Mama Said (뭐가 되려고?) FanCam | 쇼! 음악중심 | MBC250208]]></title>
-        <id>https://tv.naver.com/v/69637446</id>
-        <link href="https://tv.naver.com/v/69637446"/>
-        <updated>2025-02-08T09:18:34.828Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] KickFlip (킥플립) – Mama Said (뭐가 되려고?) FullCam | 쇼! 음악중심 | MBC250208]]></title>
-        <id>https://tv.naver.com/v/69637445</id>
-        <link href="https://tv.naver.com/v/69637445"/>
-        <updated>2025-02-08T09:18:34.828Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
