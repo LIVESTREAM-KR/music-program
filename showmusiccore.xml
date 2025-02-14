@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-14T07:19:29.223Z</updated>
+    <updated>2025-02-14T08:26:22.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[MBCkpop] Valentine's Day.zip 📂 Show! Music Core Valentine's Day Special Compilation]]></title>
+        <id>https://tv.naver.com/v/70013121</id>
+        <link href="https://tv.naver.com/v/70013121"/>
+        <updated>2025-02-14T08:25:42.236Z</updated>
+        <content type="html"><![CDATA[29:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] KickFlip (킥플립) – Mama Said (뭐가 되려고?) | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/69900034</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69644327"/>
         <updated>2025-02-08T11:14:56.910Z</updated>
         <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] KickFlip (킥플립) – 응 그래 (Umm Great) FullCam | 쇼! 음악중심 | MBC250208]]></title>
-        <id>https://tv.naver.com/v/69637450</id>
-        <link href="https://tv.naver.com/v/69637450"/>
-        <updated>2025-02-08T09:18:34.825Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
     </entry>
 </feed>
