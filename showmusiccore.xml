@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-14T06:28:27.415Z</updated>
+    <updated>2025-02-14T07:19:29.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] KickFlip (킥플립) – Mama Said (뭐가 되려고?) | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/69900034</id>
+        <link href="https://tv.naver.com/v/69900034"/>
+        <updated>2025-02-14T07:18:52.715Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #앤팀 #andTEAM 놓Chill 수 없는 Chill Guys💥 르네 마음 Hunter🐺 음중 사전녹화 비하인드⏯️]]></title>
         <id>https://tv.naver.com/v/69967127</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69637450"/>
         <updated>2025-02-08T09:18:34.825Z</updated>
         <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KickFlip KEIJU (킥플립 케이주) – Mama Said (뭐가 되려고?) FanCam | 쇼! 음악중심 | MBC250208]]></title>
-        <id>https://tv.naver.com/v/69637449</id>
-        <link href="https://tv.naver.com/v/69637449"/>
-        <updated>2025-02-08T09:18:34.825Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
