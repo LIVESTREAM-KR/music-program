@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659774/clip</id>
     <title>뮤직뱅크</title>
-    <updated>2025-02-14T08:26:22.289Z</updated>
+    <updated>2025-02-14T09:21:28.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Storm - 김보경 (KIM BO-KYOUNG) | KBS 250214 방송]]></title>
+        <id>https://tv.naver.com/v/70040101</id>
+        <link href="https://tv.naver.com/v/70040101"/>
+        <updated>2025-02-14T09:20:47.232Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mama Said (뭐가 되려고?) - KickFlip (킥플립) | KBS 250214 방송]]></title>
+        <id>https://tv.naver.com/v/70039803</id>
+        <link href="https://tv.naver.com/v/70039803"/>
+        <updated>2025-02-14T09:20:47.235Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기세(氣勢) - 2Z (투지)  | KBS 250214 방송]]></title>
+        <id>https://tv.naver.com/v/70039796</id>
+        <link href="https://tv.naver.com/v/70039796"/>
+        <updated>2025-02-14T09:20:47.236Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑, 두려움 - MADEIN (메이딘) | KBS 250214 방송]]></title>
+        <id>https://tv.naver.com/v/70039794</id>
+        <link href="https://tv.naver.com/v/70039794"/>
+        <updated>2025-02-14T09:20:47.238Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bubble Gum - Blingone (블링원) | KBS 250214 방송]]></title>
+        <id>https://tv.naver.com/v/70039791</id>
+        <link href="https://tv.naver.com/v/70039791"/>
+        <updated>2025-02-14T09:20:47.241Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highway - 킴미 (KiMMi) | KBS 250214 방송]]></title>
+        <id>https://tv.naver.com/v/70039790</id>
+        <link href="https://tv.naver.com/v/70039790"/>
+        <updated>2025-02-14T09:20:47.242Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stars take me - 최수환 (Choi Su Hwan) | KBS 250214 방송]]></title>
+        <id>https://tv.naver.com/v/70039738</id>
+        <link href="https://tv.naver.com/v/70039738"/>
+        <updated>2025-02-14T09:20:47.243Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love is over - 마하 (macha) | KBS 250214 방송]]></title>
+        <id>https://tv.naver.com/v/70039729</id>
+        <link href="https://tv.naver.com/v/70039729"/>
+        <updated>2025-02-14T09:20:47.245Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그냥가면 어쩌나 - 강혜연 (Kang Hyeyeon) | KBS 250214 방송]]></title>
+        <id>https://tv.naver.com/v/70039719</id>
+        <link href="https://tv.naver.com/v/70039719"/>
+        <updated>2025-02-14T09:20:47.246Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GIMME GIMME - ALL(H)OURS (올아워즈)  | KBS 250207 방송]]></title>
         <id>https://tv.naver.com/v/69595699</id>
         <link href="https://tv.naver.com/v/69595699"/>
         <updated>2025-02-07T12:38:14.771Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UP N DOWN - 은혁 (EUNHYUK) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69590822</id>
-        <link href="https://tv.naver.com/v/69590822"/>
-        <updated>2025-02-07T10:21:09.534Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ATTITUDE - IVE (아이브) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69590815</id>
-        <link href="https://tv.naver.com/v/69590815"/>
-        <updated>2025-02-07T10:21:09.536Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THUNDER - CIX (씨아이엑스) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69590813</id>
-        <link href="https://tv.naver.com/v/69590813"/>
-        <updated>2025-02-07T10:21:09.538Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다사나이 - 박지현 (Park Ji Hyeon) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69589952</id>
-        <link href="https://tv.naver.com/v/69589952"/>
-        <updated>2025-02-07T10:21:09.539Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running After Love + Love Potion (백일몽 白日夢) - n.SSign(엔싸인) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69589949</id>
-        <link href="https://tv.naver.com/v/69589949"/>
-        <updated>2025-02-07T10:21:09.542Z</updated>
-        <content type="html"><![CDATA[04:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커플 (원곡: 젝스키스) - CIX (씨아이엑스) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69589439</id>
-        <link href="https://tv.naver.com/v/69589439"/>
-        <updated>2025-02-07T10:21:09.543Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[락(樂) (원곡: Stray Kids) - KickFlip (킥플립) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69589379</id>
-        <link href="https://tv.naver.com/v/69589379"/>
-        <updated>2025-02-07T10:21:09.544Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mama Said (뭐가 되려고?) - KickFlip (킥플립) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69589371</id>
-        <link href="https://tv.naver.com/v/69589371"/>
-        <updated>2025-02-07T10:21:09.545Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미저리 (MISERY) - 피스트범프 (FISTBUMP) | KBS 250207 방송]]></title>
-        <id>https://tv.naver.com/v/69589367</id>
-        <link href="https://tv.naver.com/v/69589367"/>
-        <updated>2025-02-07T10:21:09.546Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
