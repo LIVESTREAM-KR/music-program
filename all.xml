@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-14T09:21:28.662Z</updated>
+    <updated>2025-02-14T10:21:10.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Storm - 김보경 (KIM BO-KYOUNG) | KBS 250214 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70040101</id>
-        <link href="https://tv.naver.com/v/70040101"/>
-        <updated>2025-02-14T09:20:47.232Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
+        <title type="html"><![CDATA[ATTITUDE - IVE (아이브) | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041768</id>
+        <link href="https://tv.naver.com/v/70041768"/>
+        <updated>2025-02-14T10:20:28.170Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mama Said (뭐가 되려고?) - KickFlip (킥플립) | KBS 250214 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70039803</id>
-        <link href="https://tv.naver.com/v/70039803"/>
-        <updated>2025-02-14T09:20:47.235Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
+        <title type="html"><![CDATA[STRESS - 청하 (CHUNG HA) | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041701</id>
+        <link href="https://tv.naver.com/v/70041701"/>
+        <updated>2025-02-14T10:20:28.171Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기세(氣勢) - 2Z (투지)  | KBS 250214 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70039796</id>
-        <link href="https://tv.naver.com/v/70039796"/>
-        <updated>2025-02-14T09:20:47.236Z</updated>
+        <title type="html"><![CDATA[또 다른 시작 - 신수현 (Su Hyun Shin) | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041698</id>
+        <link href="https://tv.naver.com/v/70041698"/>
+        <updated>2025-02-14T10:20:28.171Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THUNDER - CIX (씨아이엑스) | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041401</id>
+        <link href="https://tv.naver.com/v/70041401"/>
+        <updated>2025-02-14T10:20:28.176Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[말하면 어떨까 - 김영철 (Kim Young-chul) | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041383</id>
+        <link href="https://tv.naver.com/v/70041383"/>
+        <updated>2025-02-14T10:20:28.176Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glow Up - RESCENE (리센느) | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041063</id>
+        <link href="https://tv.naver.com/v/70041063"/>
+        <updated>2025-02-14T10:20:28.178Z</updated>
+        <content type="html"><![CDATA[02:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOT MESS - EVNNE (이븐) | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041060</id>
+        <link href="https://tv.naver.com/v/70041060"/>
+        <updated>2025-02-14T10:20:28.179Z</updated>
+        <content type="html"><![CDATA[02:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Birthday - EVNNE (이븐) | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041058</id>
+        <link href="https://tv.naver.com/v/70041058"/>
+        <updated>2025-02-14T10:20:28.180Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIMME GIMME - ALL(H)OURS (올아워즈)  | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041054</id>
+        <link href="https://tv.naver.com/v/70041054"/>
+        <updated>2025-02-14T10:20:28.182Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100! - ONE PACT (원팩트) | KBS 250214 방송 (뮤직뱅크)]]></title>
+        <id>https://tv.naver.com/v/70041050</id>
+        <link href="https://tv.naver.com/v/70041050"/>
+        <updated>2025-02-14T10:20:28.183Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑, 두려움 - MADEIN (메이딘) | KBS 250214 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70039794</id>
-        <link href="https://tv.naver.com/v/70039794"/>
-        <updated>2025-02-14T09:20:47.238Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bubble Gum - Blingone (블링원) | KBS 250214 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70039791</id>
-        <link href="https://tv.naver.com/v/70039791"/>
-        <updated>2025-02-14T09:20:47.241Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highway - 킴미 (KiMMi) | KBS 250214 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70039790</id>
-        <link href="https://tv.naver.com/v/70039790"/>
-        <updated>2025-02-14T09:20:47.242Z</updated>
-        <content type="html"><![CDATA[02:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stars take me - 최수환 (Choi Su Hwan) | KBS 250214 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70039738</id>
-        <link href="https://tv.naver.com/v/70039738"/>
-        <updated>2025-02-14T09:20:47.243Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love is over - 마하 (macha) | KBS 250214 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70039729</id>
-        <link href="https://tv.naver.com/v/70039729"/>
-        <updated>2025-02-14T09:20:47.245Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그냥가면 어쩌나 - 강혜연 (Kang Hyeyeon) | KBS 250214 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/70039719</id>
-        <link href="https://tv.naver.com/v/70039719"/>
-        <updated>2025-02-14T09:20:47.246Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIMME GIMME - ALL(H)OURS (올아워즈)  | KBS 250207 방송 (뮤직뱅크)]]></title>
-        <id>https://tv.naver.com/v/69595699</id>
-        <link href="https://tv.naver.com/v/69595699"/>
-        <updated>2025-02-07T12:38:14.771Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[MBCkpop] Valentine's Day.zip 📂 Show! Music Core Valentine's Day Special Compilation (쇼! 음악중심)]]></title>
