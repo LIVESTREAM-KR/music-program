@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-16T04:23:17.484Z</updated>
+    <updated>2025-02-16T05:19:40.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ATTITUDE - IVE (아이브) | KBS 250214 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #아이브 #IVE 폭주기니와 원영턴으로 퀸👑의 애티튜드 낉이는 법🏍️🎀 음중 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70099638</id>
+        <link href="https://tv.naver.com/v/70099638"/>
+        <updated>2025-02-16T05:19:05.703Z</updated>
+        <content type="html"><![CDATA[16:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] IVE LIZ (아이브 리즈) – ATTITUDE FanCam | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/70090718</id>
         <link href="https://tv.naver.com/v/70090718"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/70089660"/>
         <updated>2025-02-15T09:20:14.867Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] EVNNE KEITA (이븐 케이타) – HOT MESS FanCam | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70089659</id>
-        <link href="https://tv.naver.com/v/70089659"/>
-        <updated>2025-02-15T09:20:14.868Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[IVE - ATTITUDE | SBS 250209 방송 (인기가요)]]></title>
