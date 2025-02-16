@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-02-16T06:26:50.794Z</updated>
+    <updated>2025-02-16T07:20:05.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신수현 - 또 다른 시작 | SBS 250216 방송]]></title>
+        <id>https://tv.naver.com/v/70132819</id>
+        <link href="https://tv.naver.com/v/70132819"/>
+        <updated>2025-02-16T07:19:38.254Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김채원 - Dear My Wave | SBS 250216 방송]]></title>
+        <id>https://tv.naver.com/v/70132818</id>
+        <link href="https://tv.naver.com/v/70132818"/>
+        <updated>2025-02-16T07:19:38.257Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE PACT(원팩트) - 100! | SBS 250216 방송]]></title>
+        <id>https://tv.naver.com/v/70132760</id>
+        <link href="https://tv.naver.com/v/70132760"/>
+        <updated>2025-02-16T07:19:38.264Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RESCENE(리센느) - Glow Up | SBS 250216 방송]]></title>
+        <id>https://tv.naver.com/v/70132507</id>
+        <link href="https://tv.naver.com/v/70132507"/>
+        <updated>2025-02-16T07:19:38.264Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KickFlip - Mama Said (뭐가 되려고?) | SBS 250216 방송]]></title>
+        <id>https://tv.naver.com/v/70132090</id>
+        <link href="https://tv.naver.com/v/70132090"/>
+        <updated>2025-02-16T07:19:38.266Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메이딘(MADEIN) - 사랑, 두려움 | SBS 250216 방송]]></title>
+        <id>https://tv.naver.com/v/70132047</id>
+        <link href="https://tv.naver.com/v/70132047"/>
+        <updated>2025-02-16T07:19:38.269Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blingone - Bubble Gum | SBS 250216 방송]]></title>
+        <id>https://tv.naver.com/v/70132045</id>
+        <link href="https://tv.naver.com/v/70132045"/>
+        <updated>2025-02-16T07:19:38.269Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KiMMi(킴미) - Highway | SBS 250216 방송]]></title>
+        <id>https://tv.naver.com/v/70131792</id>
+        <link href="https://tv.naver.com/v/70131792"/>
+        <updated>2025-02-16T07:19:38.271Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IVE - ATTITUDE | SBS 250209 방송]]></title>
         <id>https://tv.naver.com/v/69681654</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/69681119"/>
         <updated>2025-02-09T08:23:01.100Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL(H)OURS - GIMME GIMME | SBS 250209 방송]]></title>
-        <id>https://tv.naver.com/v/69680854</id>
-        <link href="https://tv.naver.com/v/69680854"/>
-        <updated>2025-02-09T08:23:01.100Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL(H)OURS - INTRO | SBS 250209 방송]]></title>
-        <id>https://tv.naver.com/v/69680447</id>
-        <link href="https://tv.naver.com/v/69680447"/>
-        <updated>2025-02-09T08:23:01.100Z</updated>
-        <content type="html"><![CDATA[01:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다혜 - Cherry Road | SBS 250209 방송]]></title>
-        <id>https://tv.naver.com/v/69680409</id>
-        <link href="https://tv.naver.com/v/69680409"/>
-        <updated>2025-02-09T08:23:01.100Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우예린 - 붉은장미 (Red Rose) | SBS 250209 방송]]></title>
-        <id>https://tv.naver.com/v/69680175</id>
-        <link href="https://tv.naver.com/v/69680175"/>
-        <updated>2025-02-09T08:23:01.100Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김나희 - 깍지 | SBS 250209 방송]]></title>
-        <id>https://tv.naver.com/v/69679902</id>
-        <link href="https://tv.naver.com/v/69679902"/>
-        <updated>2025-02-09T08:23:01.100Z</updated>
-        <content type="html"><![CDATA[03:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESCENE(리센느) - Glow Up | SBS 250209 방송]]></title>
-        <id>https://tv.naver.com/v/69679639</id>
-        <link href="https://tv.naver.com/v/69679639"/>
-        <updated>2025-02-09T08:23:01.104Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KickFlip - Mama Said (뭐가 되려고?) | SBS 250209 방송]]></title>
-        <id>https://tv.naver.com/v/69679354</id>
-        <link href="https://tv.naver.com/v/69679354"/>
-        <updated>2025-02-09T07:17:10.631Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KickFlip - 응 그래 (Umm Great) | SBS 250209 방송]]></title>
-        <id>https://tv.naver.com/v/69679351</id>
-        <link href="https://tv.naver.com/v/69679351"/>
-        <updated>2025-02-09T07:17:10.638Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
     </entry>
 </feed>
