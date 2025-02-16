@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-16T10:20:30.238Z</updated>
+    <updated>2025-02-16T11:16:19.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ATTITUDE - IVE (아이브) | KBS 250214 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,34 @@
         <content type="html"><![CDATA[03:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[483회 예고] 제대로 각성한 실력자들에 위태로운 가왕 자리?!😲 엇갈린 결과 속 역대급 반전이 기다린다🔥, MBC 250223 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/70143952</id>
+        <link href="https://tv.naver.com/v/70143952"/>
+        <updated>2025-02-16T11:16:18.702Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['바늘'의 정체는 가수 이현영!, MBC 250216 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/70143894</id>
+        <link href="https://tv.naver.com/v/70143894"/>
+        <updated>2025-02-16T11:16:18.702Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['바늘' VS '실'의 1라운드 무대 - Butterfly, MBC 250216 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/70142918</id>
+        <link href="https://tv.naver.com/v/70142918"/>
+        <updated>2025-02-16T11:16:18.702Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['생활 계획표'의 정체는 펜타곤 우석!, MBC 250216 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/70142103</id>
+        <link href="https://tv.naver.com/v/70142103"/>
+        <updated>2025-02-16T11:16:18.703Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['생활 계획표'의 잔망 폭발 둘리 춤! 모델처럼 돋보이는 길쭉한 팔다리🕺, MBC 250216 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/70142099</id>
         <link href="https://tv.naver.com/v/70142099"/>
@@ -535,33 +563,5 @@
         <link href="https://tv.naver.com/v/70140451"/>
         <updated>2025-02-16T10:20:29.631Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['난로'의 정체는 공무원 충주맨!, MBC 250216 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/70139933</id>
-        <link href="https://tv.naver.com/v/70139933"/>
-        <updated>2025-02-16T10:20:29.632Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['난로'의 지인 침착맨의 등장!😮 '난로'는 복면가왕에 처음 나오는 직업을 가진 사람?!, MBC 250216 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/70139688</id>
-        <link href="https://tv.naver.com/v/70139688"/>
-        <updated>2025-02-16T10:20:29.633Z</updated>
-        <content type="html"><![CDATA[01:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['난로' VS '전기장판'의 1라운드 무대 - 거리에서, MBC 250216 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/70139485</id>
-        <link href="https://tv.naver.com/v/70139485"/>
-        <updated>2025-02-16T10:20:29.635Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 퍼포먼스 맛집의 올라운더🐥 크래비티 원진 하이라이트!, MBC 250202 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/69437516</id>
-        <link href="https://tv.naver.com/v/69437516"/>
-        <updated>2025-02-05T07:20:36.589Z</updated>
-        <content type="html"><![CDATA[09:12]]></content>
     </entry>
 </feed>
