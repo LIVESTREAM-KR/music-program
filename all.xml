@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-17T06:29:42.332Z</updated>
+    <updated>2025-02-17T07:20:24.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ATTITUDE - IVE (아이브) | KBS 250214 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#2024가요대제전] #데이식스 #DAY6 2025년도 계속 달릴거니까 같이 HAPPY하게 보내봅시다🍀 가요대제전 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70197667</id>
+        <link href="https://tv.naver.com/v/70197667"/>
+        <updated>2025-02-17T07:19:43.272Z</updated>
+        <content type="html"><![CDATA[21:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 영훈 X 설윤 X 이정하 , 빵토리 2월 셋째 주 음악중심 MC 컷 모음!, MBC 250215 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/70193470</id>
         <link href="https://tv.naver.com/v/70193470"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/70090511"/>
         <updated>2025-02-15T09:20:14.864Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] IVE (아이브) – ATTITUDE FullCam | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70090510</id>
-        <link href="https://tv.naver.com/v/70090510"/>
-        <updated>2025-02-15T09:20:14.865Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - earthquake | SBS 250216 방송 (인기가요)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2월 2주 1위 'IVE'의 'ATTITUDE' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/70195734</id>
+        <link href="https://tv.naver.com/v/70195734"/>
+        <updated>2025-02-17T07:19:55.392Z</updated>
+        <content type="html"><![CDATA[04:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IVE - ATTITUDE | Mnet 250213 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/69973321</id>
         <link href="https://tv.naver.com/v/69973321"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/69971722"/>
         <updated>2025-02-13T11:17:02.826Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESCENE (리센느) - Glow Up | Mnet 250213 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69971718</id>
-        <link href="https://tv.naver.com/v/69971718"/>
-        <updated>2025-02-13T11:17:02.827Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[izna - TIMEBOMB (이즈나, TIMEBOMB) [THE SHOW 241203] (더쇼)]]></title>
