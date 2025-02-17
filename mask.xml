@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-02-17T05:22:18.993Z</updated>
+    <updated>2025-02-17T06:29:42.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 연 61만 원 예산으로 구독자 78만 명 달성ㄷㄷ 홍보에 이어 노래까지 잘해버린 충주맨 김선태🍎ㅣ#충주맨 MBC250216방송]]></title>
+        <id>https://tv.naver.com/v/70189057</id>
+        <link href="https://tv.naver.com/v/70189057"/>
+        <updated>2025-02-17T06:29:41.711Z</updated>
+        <content type="html"><![CDATA[17:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[483회 예고] 제대로 각성한 실력자들에 위태로운 가왕 자리?!😲 엇갈린 결과 속 역대급 반전이 기다린다🔥, MBC 250223 방송]]></title>
         <id>https://tv.naver.com/v/70143952</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70140511"/>
         <updated>2025-02-16T10:20:29.630Z</updated>
         <content type="html"><![CDATA[01:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소녀시대' VS '야인시대'의 1라운드 무대 - 기댈곳, MBC 250216 방송]]></title>
-        <id>https://tv.naver.com/v/70140451</id>
-        <link href="https://tv.naver.com/v/70140451"/>
-        <updated>2025-02-16T10:20:29.631Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
