@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-17T08:28:12.313Z</updated>
+    <updated>2025-02-17T09:24:07.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ATTITUDE - IVE (아이브) | KBS 250214 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] EVNNE LEE JEONGHYEON (이븐 이정현) – HOT MESS | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70207808</id>
+        <link href="https://tv.naver.com/v/70207808"/>
+        <updated>2025-02-17T09:23:30.500Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중팔로우캠] IVE (아이브) – ATTITUDE | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70207802</id>
+        <link href="https://tv.naver.com/v/70207802"/>
+        <updated>2025-02-17T09:23:30.501Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] MADEIN NAGOMI (메이딘 나고미) – 사랑, 두려움 | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70206927</id>
+        <link href="https://tv.naver.com/v/70206927"/>
+        <updated>2025-02-17T09:23:30.501Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#2024가요대제전] #데이식스 #DAY6 2025년도 계속 달릴거니까 같이 HAPPY하게 보내봅시다🍀 가요대제전 비하인드⏯️ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/70197667</id>
         <link href="https://tv.naver.com/v/70197667"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/70090685"/>
         <updated>2025-02-15T09:20:14.860Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE LEESEO (아이브 이서) – ATTITUDE FanCam | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70090682</id>
-        <link href="https://tv.naver.com/v/70090682"/>
-        <updated>2025-02-15T09:20:14.861Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE AN YUJIN (아이브 안유진) – ATTITUDE FanCam | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70090514</id>
-        <link href="https://tv.naver.com/v/70090514"/>
-        <updated>2025-02-15T09:20:14.861Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE GAEUL (아이브 가을) – ATTITUDE FanCam | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70090511</id>
-        <link href="https://tv.naver.com/v/70090511"/>
-        <updated>2025-02-15T09:20:14.864Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - earthquake | SBS 250216 방송 (인기가요)]]></title>
