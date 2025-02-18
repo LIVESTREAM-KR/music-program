@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-18T09:22:20.099Z</updated>
+    <updated>2025-02-18T10:22:34.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ATTITUDE - IVE (아이브) | KBS 250214 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] EVNNE PARK HANBIN (이븐 박한빈) – HOT MESS | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70206139</id>
+        <link href="https://tv.naver.com/v/70206139"/>
+        <updated>2025-02-18T10:22:00.406Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] CHUNGHA (청하) – STRESS | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/70247972</id>
         <link href="https://tv.naver.com/v/70247972"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/70099638"/>
         <updated>2025-02-16T05:19:05.703Z</updated>
         <content type="html"><![CDATA[16:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] IVE LIZ (아이브 리즈) – ATTITUDE FanCam | 쇼! 음악중심 | MBC250215 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70090718</id>
-        <link href="https://tv.naver.com/v/70090718"/>
-        <updated>2025-02-15T09:20:14.858Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - earthquake | SBS 250216 방송 (인기가요)]]></title>
