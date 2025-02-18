@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-02-18T10:22:34.080Z</updated>
+    <updated>2025-02-18T11:17:46.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EVNNE(이븐)이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/70292131</id>
+        <link href="https://tv.naver.com/v/70292131"/>
+        <updated>2025-02-18T11:17:25.283Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월 2주 1위 'IVE'의 'ATTITUDE' 앵콜 무대! (Full ver.)]]></title>
         <id>https://tv.naver.com/v/70195734</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69972069"/>
         <updated>2025-02-13T11:17:02.824Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - GIMME GIMME | Mnet 250213 방송]]></title>
-        <id>https://tv.naver.com/v/69971722</id>
-        <link href="https://tv.naver.com/v/69971722"/>
-        <updated>2025-02-13T11:17:02.826Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
