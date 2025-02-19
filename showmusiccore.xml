@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-18T23:19:30.943Z</updated>
+    <updated>2025-02-19T01:37:25.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#2024가요대제전 #비하인드] 리허설인 줄 모르고 복근공개한 니키에 난리난 현장💥 #니키 #엔하이픈 #ENHYPEN]]></title>
+        <id>https://tv.naver.com/v/70328840</id>
+        <link href="https://tv.naver.com/v/70328840"/>
+        <updated>2025-02-19T01:36:52.449Z</updated>
+        <content type="html"><![CDATA[01:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] EVNNE PARK HANBIN (이븐 박한빈) – HOT MESS | 쇼! 음악중심 | MBC250215]]></title>
         <id>https://tv.naver.com/v/70206139</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70191115"/>
         <updated>2025-02-17T06:29:04.235Z</updated>
         <content type="html"><![CDATA[08:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#직캠보고서🔍] #아이브 #IVE 폭주기니와 원영턴으로 퀸👑의 애티튜드 낉이는 법🏍️🎀 음중 사전녹화 비하인드⏯]]></title>
-        <id>https://tv.naver.com/v/70099638</id>
-        <link href="https://tv.naver.com/v/70099638"/>
-        <updated>2025-02-16T05:19:05.703Z</updated>
-        <content type="html"><![CDATA[16:35]]></content>
     </entry>
 </feed>
