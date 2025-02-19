@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-02-19T08:28:27.499Z</updated>
+    <updated>2025-02-19T09:21:49.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 충주시 홍보맨 김선태 주무관✨ 공무원 충주맨 하이라이트!, MBC 250216 방송]]></title>
+        <id>https://tv.naver.com/v/70366718</id>
+        <link href="https://tv.naver.com/v/70366718"/>
+        <updated>2025-02-19T09:21:48.480Z</updated>
+        <content type="html"><![CDATA[10:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 연 61만 원 예산으로 구독자 78만 명 달성ㄷㄷ 홍보에 이어 노래까지 잘해버린 충주맨 김선태🍎ㅣ#충주맨 MBC250216방송]]></title>
         <id>https://tv.naver.com/v/70189057</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70141286"/>
         <updated>2025-02-16T10:20:29.630Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바라만 봐도 심장 어택💘 '소녀시대'가 추는 걸그룹 소녀시대의 ＜Gee＞!, MBC 250216 방송]]></title>
-        <id>https://tv.naver.com/v/70140511</id>
-        <link href="https://tv.naver.com/v/70140511"/>
-        <updated>2025-02-16T10:20:29.630Z</updated>
-        <content type="html"><![CDATA[01:29]]></content>
     </entry>
 </feed>
