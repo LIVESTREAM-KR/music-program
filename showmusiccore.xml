@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-19T06:29:22.287Z</updated>
+    <updated>2025-02-19T07:20:00.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE EUNHO (플레이브 은호) – Dash | 쇼! 음악중심 | MBC250215]]></title>
+        <id>https://tv.naver.com/v/70347717</id>
+        <link href="https://tv.naver.com/v/70347717"/>
+        <updated>2025-02-19T07:19:27.197Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] PLAVE EUNHO (플레이브 은호) – Dash FanCam | 쇼! 음악중심 | MBC250215]]></title>
         <id>https://tv.naver.com/v/70349642</id>
         <link href="https://tv.naver.com/v/70349642"/>
@@ -48,31 +55,24 @@
         <content type="html"><![CDATA[03:46]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#2024가요대제전 #비하인드] 리허설인 줄 모르고 복근공개한 니키에 난리난 현장💥 #니키 #엔하이픈 #ENHYPEN]]></title>
-        <id>https://tv.naver.com/v/70328840</id>
-        <link href="https://tv.naver.com/v/70328840"/>
-        <updated>2025-02-19T01:36:52.449Z</updated>
-        <content type="html"><![CDATA[01:55]]></content>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE BAMBY (플레이브 밤비) – Dash | 쇼! 음악중심 | MBC250215]]></title>
+        <id>https://tv.naver.com/v/70289336</id>
+        <link href="https://tv.naver.com/v/70289336"/>
+        <updated>2025-02-19T07:19:27.205Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#최애직캠] EVNNE PARK HANBIN (이븐 박한빈) – HOT MESS | 쇼! 음악중심 | MBC250215]]></title>
-        <id>https://tv.naver.com/v/70206139</id>
-        <link href="https://tv.naver.com/v/70206139"/>
-        <updated>2025-02-18T10:22:00.406Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE YEJUN (플레이브 예준) – Dash | 쇼! 음악중심 | MBC250215]]></title>
+        <id>https://tv.naver.com/v/70289340</id>
+        <link href="https://tv.naver.com/v/70289340"/>
+        <updated>2025-02-19T07:19:27.206Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#최애직캠] CHUNGHA (청하) – STRESS | 쇼! 음악중심 | MBC250215]]></title>
-        <id>https://tv.naver.com/v/70247972</id>
-        <link href="https://tv.naver.com/v/70247972"/>
-        <updated>2025-02-18T01:36:06.782Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] CIX (씨아이엑스) – THUNDER FullCam | 쇼! 음악중심 | MBC250215]]></title>
-        <id>https://tv.naver.com/v/70250315</id>
-        <link href="https://tv.naver.com/v/70250315"/>
-        <updated>2025-02-18T01:36:06.783Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
+        <title type="html"><![CDATA[[#최애직캠] PLAVE HAMIN (플레이브 하민) – Dash | 쇼! 음악중심 | MBC250215]]></title>
+        <id>https://tv.naver.com/v/70289324</id>
+        <link href="https://tv.naver.com/v/70289324"/>
+        <updated>2025-02-19T07:19:27.208Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
