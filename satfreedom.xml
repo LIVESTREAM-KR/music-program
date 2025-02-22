@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-02-22T14:18:14.162Z</updated>
+    <updated>2025-02-22T15:18:55.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[직캠] 전유진 (Jeon Yu Jin) - 사랑만은 않겠어요 | KBS 250222 방송]]></title>
+        <id>https://tv.naver.com/v/70584736</id>
+        <link href="https://tv.naver.com/v/70584736"/>
+        <updated>2025-02-22T15:18:48.505Z</updated>
+        <content type="html"><![CDATA[04:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[직캠] 라키 (Rocky) - 황홀한 고백 | KBS 250222 방송]]></title>
         <id>https://tv.naver.com/v/70578236</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70572699"/>
         <updated>2025-02-22T12:35:55.063Z</updated>
         <content type="html"><![CDATA[04:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓 스무 살이 된 전유진의 트로트 느낌 선곡! 순애보의 기억을 담아... ♥ | KBS 250222 방송]]></title>
-        <id>https://tv.naver.com/v/70572488</id>
-        <link href="https://tv.naver.com/v/70572488"/>
-        <updated>2025-02-22T11:15:36.603Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>
