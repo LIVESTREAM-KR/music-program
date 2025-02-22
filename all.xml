@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-22T12:36:01.176Z</updated>
+    <updated>2025-02-22T13:21:11.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250221 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,27 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[직캠] 라키 (Rocky) - 황홀한 고백 | KBS 250222 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/70578236</id>
+        <link href="https://tv.naver.com/v/70578236"/>
+        <updated>2025-02-22T13:21:05.262Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[직캠] 손승연 (Son Seung Yeon) - 아름다워 | KBS 250222 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/70577824</id>
+        <link href="https://tv.naver.com/v/70577824"/>
+        <updated>2025-02-22T13:21:05.263Z</updated>
+        <content type="html"><![CDATA[04:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[직캠] 길구봉구 (GB9) - 찻잔의 이별 | KBS 250222 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/70577774</id>
+        <link href="https://tv.naver.com/v/70577774"/>
+        <updated>2025-02-22T13:21:05.265Z</updated>
+        <content type="html"><![CDATA[05:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[직캠] 크랙샷 (Crack Shot) - 아파트 | KBS 250222 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/70576993</id>
         <link href="https://tv.naver.com/v/70576993"/>
@@ -472,27 +493,6 @@
         <link href="https://tv.naver.com/v/70572488"/>
         <updated>2025-02-22T11:15:36.603Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앞서나갔던 윤수일의 스타일과 안무✨라키의 화려한 퍼포먼스😍 | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70572275</id>
-        <link href="https://tv.naver.com/v/70572275"/>
-        <updated>2025-02-22T11:15:36.606Z</updated>
-        <content type="html"><![CDATA[05:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라키 (Rocky) - 황홀한 고백 | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70571922</id>
-        <link href="https://tv.naver.com/v/70571922"/>
-        <updated>2025-02-22T11:15:36.607Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위스트 퍼포먼스를 더한 선곡은? 승률 100% 라키의 목 꺾기 춤🔥 | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70571881</id>
-        <link href="https://tv.naver.com/v/70571881"/>
-        <updated>2025-02-22T11:15:36.609Z</updated>
-        <content type="html"><![CDATA[02:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 충주시 홍보맨 김선태 주무관✨ 공무원 충주맨 하이라이트!, MBC 250216 방송 (복면가왕)]]></title>
