@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-22T11:15:42.530Z</updated>
+    <updated>2025-02-22T12:36:01.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250221 방송 (뮤직뱅크)]]></title>
@@ -425,6 +425,27 @@
         <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[직캠] 크랙샷 (Crack Shot) - 아파트 | KBS 250222 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/70576993</id>
+        <link href="https://tv.naver.com/v/70576993"/>
+        <updated>2025-02-22T12:35:55.058Z</updated>
+        <content type="html"><![CDATA[05:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[직캠] 윤수일(Yoon Soo il) - 꿈인지 생신지 | KBS 250222 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/70576291</id>
+        <link href="https://tv.naver.com/v/70576291"/>
+        <updated>2025-02-22T12:35:55.058Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] 106년 전, 조국을 위한 외침! 3.1절 특집 | KBS 250222 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/70573376</id>
+        <link href="https://tv.naver.com/v/70573376"/>
+        <updated>2025-02-22T12:35:55.059Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[인생 2회차 같은 전유진의 아우라! 어머니를 떠오르게 한 무대💓 | KBS 250222 방송 (불후의 명곡)]]></title>
         <id>https://tv.naver.com/v/70573201</id>
         <link href="https://tv.naver.com/v/70573201"/>
@@ -437,6 +458,13 @@
         <link href="https://tv.naver.com/v/70573199"/>
         <updated>2025-02-22T11:15:36.602Z</updated>
         <content type="html"><![CDATA[01:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전유진 (Jeon Yu Jin) - 사랑만은 않겠어요 | KBS 250222 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/70572699</id>
+        <link href="https://tv.naver.com/v/70572699"/>
+        <updated>2025-02-22T12:35:55.063Z</updated>
+        <content type="html"><![CDATA[04:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갓 스무 살이 된 전유진의 트로트 느낌 선곡! 순애보의 기억을 담아... ♥ | KBS 250222 방송 (불후의 명곡)]]></title>
@@ -465,34 +493,6 @@
         <link href="https://tv.naver.com/v/70571881"/>
         <updated>2025-02-22T11:15:36.609Z</updated>
         <content type="html"><![CDATA[02:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펑키 스타일을 노렸던 미스코리아 그 곡! 〈아름다워〉  | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70571685</id>
-        <link href="https://tv.naver.com/v/70571685"/>
-        <updated>2025-02-22T11:15:36.610Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손승연 (Son Seung Yeon) - 아름다워 | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70571393</id>
-        <link href="https://tv.naver.com/v/70571393"/>
-        <updated>2025-02-22T11:15:36.611Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랜만에 퍼포먼스를 준비한 손승연! 댄스 DNA 끌어올린 선곡은? | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70571364</id>
-        <link href="https://tv.naver.com/v/70571364"/>
-        <updated>2025-02-22T11:15:36.612Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애창곡 노래방 대결🎙 90점은 기본(?) 유진&손승연&찬원의 가창력! | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70571186</id>
-        <link href="https://tv.naver.com/v/70571186"/>
-        <updated>2025-02-22T11:15:36.614Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 충주시 홍보맨 김선태 주무관✨ 공무원 충주맨 하이라이트!, MBC 250216 방송 (복면가왕)]]></title>
