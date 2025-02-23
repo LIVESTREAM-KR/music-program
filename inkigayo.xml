@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-02-23T09:20:09.032Z</updated>
+    <updated>2025-02-23T10:21:14.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/70609771"/>
         <updated>2025-02-23T08:24:46.103Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVNNE - HOT MESS | SBS 250223 방송]]></title>
+        <id>https://tv.naver.com/v/70609293</id>
+        <link href="https://tv.naver.com/v/70609293"/>
+        <updated>2025-02-23T10:20:12.968Z</updated>
+        <content type="html"><![CDATA[02:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[김채원 - Dear My Wave | SBS 250223 방송]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70607685"/>
         <updated>2025-02-23T07:18:42.212Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE PACT(원팩트) - 100! | SBS 250223 방송]]></title>
-        <id>https://tv.naver.com/v/70607405</id>
-        <link href="https://tv.naver.com/v/70607405"/>
-        <updated>2025-02-23T07:18:42.212Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
