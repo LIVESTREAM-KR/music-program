@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-02-23T10:21:14.155Z</updated>
+    <updated>2025-02-23T11:17:22.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/70609771"/>
         <updated>2025-02-23T08:24:46.103Z</updated>
         <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프(ONF) - The Stranger | SBS 250223 방송]]></title>
+        <id>https://tv.naver.com/v/70609527</id>
+        <link href="https://tv.naver.com/v/70609527"/>
+        <updated>2025-02-23T11:16:54.710Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[EVNNE - HOT MESS | SBS 250223 방송]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70607689"/>
         <updated>2025-02-23T07:18:42.201Z</updated>
         <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우디 (Woody) - 길냥이 | SBS 250223 방송]]></title>
-        <id>https://tv.naver.com/v/70607685</id>
-        <link href="https://tv.naver.com/v/70607685"/>
-        <updated>2025-02-23T07:18:42.212Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
