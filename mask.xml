@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-02-23T08:25:15.432Z</updated>
+    <updated>2025-02-23T09:20:09.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['전기장판' 2라운드 무대 - Fine, MBC 250223 방송]]></title>
+        <id>https://tv.naver.com/v/70614210</id>
+        <link href="https://tv.naver.com/v/70614210"/>
+        <updated>2025-02-23T09:20:08.321Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 충주시 홍보맨 김선태 주무관✨ 공무원 충주맨 하이라이트!, MBC 250216 방송]]></title>
         <id>https://tv.naver.com/v/70366718</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70141779"/>
         <updated>2025-02-16T10:20:29.630Z</updated>
         <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['야인시대'의 정체는 전 야구 선수 정의윤!, MBC 250216 방송]]></title>
-        <id>https://tv.naver.com/v/70141286</id>
-        <link href="https://tv.naver.com/v/70141286"/>
-        <updated>2025-02-16T10:20:29.630Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
     </entry>
 </feed>
