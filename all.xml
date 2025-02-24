@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-24T08:28:34.661Z</updated>
+    <updated>2025-02-24T09:23:31.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250221 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,34 @@
         <content type="html"><![CDATA[03:12]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF MINKYUN (온앤오프 민균) – The Stranger | 쇼! 음악중심 | MBC250222 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70677110</id>
+        <link href="https://tv.naver.com/v/70677110"/>
+        <updated>2025-02-24T09:22:54.741Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF SEUNGJUN (온앤오프 승준) – The Stranger | 쇼! 음악중심 | MBC250222 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70677107</id>
+        <link href="https://tv.naver.com/v/70677107"/>
+        <updated>2025-02-24T09:22:54.741Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF E-TION (온앤오프 이션) – The Stranger | 쇼! 음악중심 | MBC250222 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70677103</id>
+        <link href="https://tv.naver.com/v/70677103"/>
+        <updated>2025-02-24T09:22:54.742Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF HYOJIN (온앤오프 효진) – The Stranger | 쇼! 음악중심 | MBC250222 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/70676783</id>
+        <link href="https://tv.naver.com/v/70676783"/>
+        <updated>2025-02-24T09:22:54.743Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 가을 X 리즈 , 아이브(IVE) 2월 넷째 주 음악중심 MC 컷 모음!, MBC 250222 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/70646077</id>
         <link href="https://tv.naver.com/v/70646077"/>
@@ -115,34 +143,6 @@
         <link href="https://tv.naver.com/v/70565969"/>
         <updated>2025-02-24T06:30:27.186Z</updated>
         <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] XODIAC (소디엑) – TIME 2 SHINE FullCam | 쇼! 음악중심 | MBC250222 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70565967</id>
-        <link href="https://tv.naver.com/v/70565967"/>
-        <updated>2025-02-24T06:30:27.187Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ONF U (온앤오프 유) – The Stranger FanCam | 쇼! 음악중심 | MBC250222 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70565898</id>
-        <link href="https://tv.naver.com/v/70565898"/>
-        <updated>2025-02-24T06:30:27.187Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ONF E-TION (온앤오프 이션) – The Stranger FanCam | 쇼! 음악중심 | MBC250222 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70565896</id>
-        <link href="https://tv.naver.com/v/70565896"/>
-        <updated>2025-02-24T06:30:27.188Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ONF WYATT (온앤오프 와이엇) – The Stranger  FanCam | 쇼! 음악중심 | MBC250222 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/70565619</id>
-        <link href="https://tv.naver.com/v/70565619"/>
-        <updated>2025-02-24T06:30:27.189Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - earthquake | SBS 250223 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] HOT한 쇼챔 무대를 낉여오너라 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/70659870</id>
+        <link href="https://tv.naver.com/v/70659870"/>
+        <updated>2025-02-24T09:23:18.987Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.543 | 250212 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/69907059</id>
         <link href="https://tv.naver.com/v/69907059"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/69916276"/>
         <updated>2025-02-12T14:19:51.398Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] RESCENE(리센느) - CRASH | Show Champion | EP.543 | 250212 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/69905487</id>
-        <link href="https://tv.naver.com/v/69905487"/>
-        <updated>2025-02-12T13:25:45.097Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[직캠] 전유진 (Jeon Yu Jin) - 사랑만은 않겠어요 | KBS 250222 방송 (불후의 명곡)]]></title>

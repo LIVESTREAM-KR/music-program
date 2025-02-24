@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-02-24T08:28:34.608Z</updated>
+    <updated>2025-02-24T09:23:31.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] HOT한 쇼챔 무대를 낉여오너라]]></title>
+        <id>https://tv.naver.com/v/70659870</id>
+        <link href="https://tv.naver.com/v/70659870"/>
+        <updated>2025-02-24T09:23:18.987Z</updated>
+        <content type="html"><![CDATA[00:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.543 | 250212]]></title>
         <id>https://tv.naver.com/v/69907059</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/69916276"/>
         <updated>2025-02-12T14:19:51.398Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] RESCENE(리센느) - CRASH | Show Champion | EP.543 | 250212]]></title>
-        <id>https://tv.naver.com/v/69905487</id>
-        <link href="https://tv.naver.com/v/69905487"/>
-        <updated>2025-02-12T13:25:45.097Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
     </entry>
 </feed>
