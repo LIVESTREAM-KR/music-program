@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-26T10:23:50.193Z</updated>
+    <updated>2025-02-26T11:18:21.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250221 방송 (뮤직뱅크)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 2월 4주 챔피언송 ＜온앤오프 - The Stranger＞ 앵콜 Full ver. l Show Champion l EP.544 l 250226 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/70838527</id>
+        <link href="https://tv.naver.com/v/70838527"/>
+        <updated>2025-02-26T11:18:08.594Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[COMEBACK] 온앤오프(ONF) - The Stranger l 250226 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/70832995</id>
         <link href="https://tv.naver.com/v/70832995"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/70831006"/>
         <updated>2025-02-26T09:34:50.672Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킥플립(KickFlip) - Knock Knock l 250226 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/70830999</id>
-        <link href="https://tv.naver.com/v/70830999"/>
-        <updated>2025-02-26T09:34:50.674Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[직캠] 전유진 (Jeon Yu Jin) - 사랑만은 않겠어요 | KBS 250222 방송 (불후의 명곡)]]></title>

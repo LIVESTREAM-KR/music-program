@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-02-26T10:23:50.188Z</updated>
+    <updated>2025-02-26T11:18:21.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔 1위] 2월 4주 챔피언송 ＜온앤오프 - The Stranger＞ 앵콜 Full ver. l Show Champion l EP.544 l 250226]]></title>
+        <id>https://tv.naver.com/v/70838527</id>
+        <link href="https://tv.naver.com/v/70838527"/>
+        <updated>2025-02-26T11:18:08.594Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 온앤오프(ONF) - The Stranger l 250226]]></title>
         <id>https://tv.naver.com/v/70832995</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70831006"/>
         <updated>2025-02-26T09:34:50.672Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킥플립(KickFlip) - Knock Knock l 250226]]></title>
-        <id>https://tv.naver.com/v/70830999</id>
-        <link href="https://tv.naver.com/v/70830999"/>
-        <updated>2025-02-26T09:34:50.674Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
     </entry>
 </feed>
