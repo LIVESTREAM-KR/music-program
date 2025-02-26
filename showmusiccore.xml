@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-26T06:30:06.367Z</updated>
+    <updated>2025-02-26T07:20:22.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] Block B (블락비) – H.E.R | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/70670002</id>
+        <link href="https://tv.naver.com/v/70670002"/>
+        <updated>2025-02-26T07:19:47.693Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ONF MINKYUN (온앤오프 민균) – The Stranger | 쇼! 음악중심 | MBC250222]]></title>
         <id>https://tv.naver.com/v/70677110</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70565970"/>
         <updated>2025-02-24T06:30:27.184Z</updated>
         <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] KickFlip KEIJU (킥플립 케이주) – Knock Knock FanCam | 쇼! 음악중심 | MBC250222]]></title>
-        <id>https://tv.naver.com/v/70565969</id>
-        <link href="https://tv.naver.com/v/70565969"/>
-        <updated>2025-02-24T06:30:27.186Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
     </entry>
 </feed>
