@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-27T05:21:34.663Z</updated>
+    <updated>2025-02-27T06:30:13.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ONF(온앤오프).zip 📂 ON/OFF부터 The Stranger까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/70894027</id>
+        <link href="https://tv.naver.com/v/70894027"/>
+        <updated>2025-02-27T06:29:38.385Z</updated>
+        <content type="html"><![CDATA[50:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] Block B (블락비) – H.E.R | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/70670002</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70566179"/>
         <updated>2025-02-24T06:30:27.184Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] ARrC (아크) – nu kidz FullCam | 쇼! 음악중심 | MBC250222]]></title>
-        <id>https://tv.naver.com/v/70565970</id>
-        <link href="https://tv.naver.com/v/70565970"/>
-        <updated>2025-02-24T06:30:27.184Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
