@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-02-27T08:27:20.254Z</updated>
+    <updated>2025-02-27T09:22:43.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정선아&민우혁 - 마마(MAMA) | KBS 230715 방송]]></title>
+        <id>https://tv.naver.com/v/70906607</id>
+        <link href="https://tv.naver.com/v/70906607"/>
+        <updated>2025-02-27T09:22:36.510Z</updated>
+        <content type="html"><![CDATA[05:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[직캠] 전유진 (Jeon Yu Jin) - 사랑만은 않겠어요 | KBS 250222 방송]]></title>
         <id>https://tv.naver.com/v/70584736</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70573199"/>
         <updated>2025-02-22T11:15:36.602Z</updated>
         <content type="html"><![CDATA[01:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전유진 (Jeon Yu Jin) - 사랑만은 않겠어요 | KBS 250222 방송]]></title>
-        <id>https://tv.naver.com/v/70572699</id>
-        <link href="https://tv.naver.com/v/70572699"/>
-        <updated>2025-02-22T12:35:55.063Z</updated>
-        <content type="html"><![CDATA[04:25]]></content>
     </entry>
 </feed>
