@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-02-27T02:55:42.677Z</updated>
+    <updated>2025-02-27T03:28:38.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8(루네이트) - 나비(Butterfly) | Show Champion | EP.544 | 250226]]></title>
+        <id>https://tv.naver.com/v/70824605</id>
+        <link href="https://tv.naver.com/v/70824605"/>
+        <updated>2025-02-27T03:28:27.684Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC(소디엑) - TIME 2 SHINE | Show Champion | EP.544 | 250226]]></title>
+        <id>https://tv.naver.com/v/70838096</id>
+        <link href="https://tv.naver.com/v/70838096"/>
+        <updated>2025-02-27T03:28:27.687Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC ZAYYAN(소디엑 자얀) - TIME 2 SHINE | Show Champion | EP.544 | 250226]]></title>
+        <id>https://tv.naver.com/v/70838902</id>
+        <link href="https://tv.naver.com/v/70838902"/>
+        <updated>2025-02-27T03:28:27.689Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC SING(소디엑 씽) - TIME 2 SHINE | Show Champion | EP.544 | 250226]]></title>
+        <id>https://tv.naver.com/v/70838104</id>
+        <link href="https://tv.naver.com/v/70838104"/>
+        <updated>2025-02-27T03:28:27.690Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 원픽캠 4K] EVNNE PARK HAN BIN(이븐 박한빈) - Birthday | Show Champion | EP.544 | 250226]]></title>
         <id>https://tv.naver.com/v/70836623</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/70835525"/>
         <updated>2025-02-26T23:21:45.429Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE PARK HAN BIN(이븐 박한빈) - Birthday | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70835053</id>
-        <link href="https://tv.naver.com/v/70835053"/>
-        <updated>2025-02-26T23:21:45.432Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE PARK JI HOO(이븐 박지후) - Birthday | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70834422</id>
-        <link href="https://tv.naver.com/v/70834422"/>
-        <updated>2025-02-26T23:21:45.433Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE MUN JUNG HYUN(이븐 문정현) - Birthday | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70834364</id>
-        <link href="https://tv.naver.com/v/70834364"/>
-        <updated>2025-02-26T23:21:45.435Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] ARrC(아크) - nu kidz | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70792167</id>
-        <link href="https://tv.naver.com/v/70792167"/>
-        <updated>2025-02-26T23:21:45.436Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
 </feed>
