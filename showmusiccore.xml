@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-02-28T03:28:40.225Z</updated>
+    <updated>2025-02-28T04:25:27.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[February TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
+        <id>https://tv.naver.com/v/70894456</id>
+        <link href="https://tv.naver.com/v/70894456"/>
+        <updated>2025-02-28T04:24:50.491Z</updated>
+        <content type="html"><![CDATA[32:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ONF(온앤오프).zip 📂 ON/OFF부터 The Stranger까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/70894027</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70566181"/>
         <updated>2025-02-24T06:30:27.184Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] XODIAC SING (소디엑 씽) – TIME 2 SHINE FanCam | 쇼! 음악중심 | MBC250222]]></title>
-        <id>https://tv.naver.com/v/70566179</id>
-        <link href="https://tv.naver.com/v/70566179"/>
-        <updated>2025-02-24T06:30:27.184Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
 </feed>
