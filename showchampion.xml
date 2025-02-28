@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-02-28T01:39:46.679Z</updated>
+    <updated>2025-02-28T02:55:54.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2월 4주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.544 | 250226]]></title>
+        <id>https://tv.naver.com/v/70870726</id>
+        <link href="https://tv.naver.com/v/70870726"/>
+        <updated>2025-02-28T02:55:42.057Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8(루네이트) - 나비(Butterfly) | Show Champion | EP.544 | 250226]]></title>
         <id>https://tv.naver.com/v/70824605</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70835527"/>
         <updated>2025-02-26T23:21:45.428Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE LEE JEONG HYEON(이븐 이정현) - Birthday | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70835525</id>
-        <link href="https://tv.naver.com/v/70835525"/>
-        <updated>2025-02-26T23:21:45.429Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
