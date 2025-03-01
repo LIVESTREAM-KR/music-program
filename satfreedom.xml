@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-03-01T11:16:17.060Z</updated>
+    <updated>2025-03-01T12:37:59.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인터뷰] 불후의 명곡 695회 ＜3.1절 특집＞ 우승자 ⭐라포엠⭐ | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/71042379</id>
+        <link href="https://tv.naver.com/v/71042379"/>
+        <updated>2025-03-01T12:37:53.075Z</updated>
+        <content type="html"><![CDATA[01:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 세계로 뻗는 K-뮤지컬! 스타 총출동 불후드웨이 특집🌟 | KBS 250301 방송]]></title>
         <id>https://tv.naver.com/v/71042165</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71041138"/>
         <updated>2025-03-01T11:16:11.081Z</updated>
         <content type="html"><![CDATA[02:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수줍은 김성현의 고음 데시벨은?!🤣 루키 원위와 맞붙을 터줏대감! | KBS 250301 방송]]></title>
-        <id>https://tv.naver.com/v/71040901</id>
-        <link href="https://tv.naver.com/v/71040901"/>
-        <updated>2025-03-01T11:16:11.082Z</updated>
-        <content type="html"><![CDATA[02:16]]></content>
     </entry>
 </feed>
