@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-01T10:20:24.813Z</updated>
+    <updated>2025-03-01T11:16:17.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250228 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,48 @@
         <content type="html"><![CDATA[04:18]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii KYA (키키 키야) – I DO ME FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71039837</id>
+        <link href="https://tv.naver.com/v/71039837"/>
+        <updated>2025-03-01T11:15:43.891Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii HAUM (키키 하음) – I DO ME  FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71039836</id>
+        <link href="https://tv.naver.com/v/71039836"/>
+        <updated>2025-03-01T11:15:43.893Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii JIYU (키키 지유) – I DO ME FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71039834</id>
+        <link href="https://tv.naver.com/v/71039834"/>
+        <updated>2025-03-01T11:15:43.894Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii SUI (키키 수이) – I DO ME  FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71039832</id>
+        <link href="https://tv.naver.com/v/71039832"/>
+        <updated>2025-03-01T11:15:43.894Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii LEESOL (키키 이솔) – I DO ME FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71039831</id>
+        <link href="https://tv.naver.com/v/71039831"/>
+        <updated>2025-03-01T11:15:43.894Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중풀캠8K] KiiiKiii (키키) – I DO ME FullCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71039830</id>
+        <link href="https://tv.naver.com/v/71039830"/>
+        <updated>2025-03-01T11:15:43.896Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – BLUE FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/71039208</id>
         <link href="https://tv.naver.com/v/71039208"/>
@@ -101,48 +143,6 @@
         <link href="https://tv.naver.com/v/71039202"/>
         <updated>2025-03-01T10:19:45.374Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM TAERAE (제로베이스원 김태래) – BLUE FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71039200</id>
-        <link href="https://tv.naver.com/v/71039200"/>
-        <updated>2025-03-01T10:19:45.376Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – BLUE FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71039198</id>
-        <link href="https://tv.naver.com/v/71039198"/>
-        <updated>2025-03-01T10:19:45.377Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE SEOK MATTHEW (제로베이스원 석매튜) – BLUE FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71039025</id>
-        <link href="https://tv.naver.com/v/71039025"/>
-        <updated>2025-03-01T10:19:45.379Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠8K] ZEROBASEONE (제로베이스원) – BLUE FullCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71038875</id>
-        <link href="https://tv.naver.com/v/71038875"/>
-        <updated>2025-03-01T10:19:45.380Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM JIWOONG (제로베이스원 김지웅) – BLUE FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71038837</id>
-        <link href="https://tv.naver.com/v/71038837"/>
-        <updated>2025-03-01T10:19:45.381Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) – BLUE FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71038596</id>
-        <link href="https://tv.naver.com/v/71038596"/>
-        <updated>2025-03-01T10:19:45.382Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지수(JISOO) - earthquake | SBS 250223 방송 (인기가요)]]></title>
@@ -425,74 +425,74 @@
         <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서도밴드X김태연 - 아름다운 나라  | KBS 250301 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/71039492</id>
-        <link href="https://tv.naver.com/v/71039492"/>
-        <updated>2025-03-01T10:20:16.828Z</updated>
-        <content type="html"><![CDATA[05:07]]></content>
+        <title type="html"><![CDATA[[예고] 세계로 뻗는 K-뮤지컬! 스타 총출동 불후드웨이 특집🌟 | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71042165</id>
+        <link href="https://tv.naver.com/v/71042165"/>
+        <updated>2025-03-01T11:16:11.071Z</updated>
+        <content type="html"><![CDATA[00:50]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[태연 양이 소개하는 서도 밴드의 신곡! 최강 조합의 선곡 이유는?🎵 | KBS 250301 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/71039211</id>
-        <link href="https://tv.naver.com/v/71039211"/>
-        <updated>2025-03-01T10:20:16.829Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
+        <title type="html"><![CDATA[아쉬웠던 라포엠의 엔딩 🤣 번호교환으로 화해한 철천지원수? | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71042110</id>
+        <link href="https://tv.naver.com/v/71042110"/>
+        <updated>2025-03-01T11:16:11.071Z</updated>
+        <content type="html"><![CDATA[01:42]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독립군의 용기가 전해진 무대! 원위 무대를 보고 반한 김태연?😍 | KBS 250301 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/71039210</id>
-        <link href="https://tv.naver.com/v/71039210"/>
-        <updated>2025-03-01T10:20:16.830Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
+        <title type="html"><![CDATA[라포엠 (La Poem) - 심판의 날  | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71041892</id>
+        <link href="https://tv.naver.com/v/71041892"/>
+        <updated>2025-03-01T11:16:11.072Z</updated>
+        <content type="html"><![CDATA[05:56]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원위 (Onewe) - 독립군가 | KBS 250301 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/71038839</id>
-        <link href="https://tv.naver.com/v/71038839"/>
-        <updated>2025-03-01T10:20:16.832Z</updated>
-        <content type="html"><![CDATA[04:39]]></content>
+        <title type="html"><![CDATA[선곡이 겹친 김기태와 정동하? 뮤지컬로 재해석한 라포엠의 〈각시탈〉 OST | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71041887</id>
+        <link href="https://tv.naver.com/v/71041887"/>
+        <updated>2025-03-01T11:16:11.073Z</updated>
+        <content type="html"><![CDATA[04:47]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[핫하게 떠오른 10년 차 보이밴드🌟 원위 스타일로 편곡한 선곡은? | KBS 250301 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/71038598</id>
-        <link href="https://tv.naver.com/v/71038598"/>
-        <updated>2025-03-01T10:20:16.834Z</updated>
-        <content type="html"><![CDATA[05:44]]></content>
+        <title type="html"><![CDATA[김기태 (Kim Ki Tae) - 상록수+애국가  | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71041471</id>
+        <link href="https://tv.naver.com/v/71041471"/>
+        <updated>2025-03-01T11:16:11.074Z</updated>
+        <content type="html"><![CDATA[08:17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[44개월 아들이 뽑아준 선곡🥰 라포엠의 오늘 목표는 김기태?!🔥 | KBS 250301 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/71038335</id>
-        <link href="https://tv.naver.com/v/71038335"/>
-        <updated>2025-03-01T10:20:16.836Z</updated>
-        <content type="html"><![CDATA[05:12]]></content>
+        <title type="html"><![CDATA[정동하가 직접 뽑은 경쟁상대는?!🤣 김기태 부자의 목청 대결! | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71041419</id>
+        <link href="https://tv.naver.com/v/71041419"/>
+        <updated>2025-03-01T11:16:11.075Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정선아&민우혁 - 마마(MAMA) | KBS 230715 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70906607</id>
-        <link href="https://tv.naver.com/v/70906607"/>
-        <updated>2025-02-27T09:22:36.510Z</updated>
-        <content type="html"><![CDATA[05:57]]></content>
+        <title type="html"><![CDATA[만세 엔딩으로 뭉클해진 명곡판정단💧 정동하를 보고 성장한 원위!? | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71041414</id>
+        <link href="https://tv.naver.com/v/71041414"/>
+        <updated>2025-03-01T11:16:11.077Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[직캠] 전유진 (Jeon Yu Jin) - 사랑만은 않겠어요 | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70584736</id>
-        <link href="https://tv.naver.com/v/70584736"/>
-        <updated>2025-02-22T15:18:48.505Z</updated>
-        <content type="html"><![CDATA[04:46]]></content>
+        <title type="html"><![CDATA[정동하 (Jung Dong Ha) - 8호 감방의 노래  | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71041142</id>
+        <link href="https://tv.naver.com/v/71041142"/>
+        <updated>2025-03-01T11:16:11.078Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[직캠] 라키 (Rocky) - 황홀한 고백 | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70578236</id>
-        <link href="https://tv.naver.com/v/70578236"/>
-        <updated>2025-02-22T13:21:05.262Z</updated>
-        <content type="html"><![CDATA[04:10]]></content>
+        <title type="html"><![CDATA[8호 감방에서 내려온 노래! 여성 독립운동가들의 고초를 담은 가사 | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71041138</id>
+        <link href="https://tv.naver.com/v/71041138"/>
+        <updated>2025-03-01T11:16:11.081Z</updated>
+        <content type="html"><![CDATA[02:03]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[직캠] 손승연 (Son Seung Yeon) - 아름다워 | KBS 250222 방송 (불후의 명곡)]]></title>
-        <id>https://tv.naver.com/v/70577824</id>
-        <link href="https://tv.naver.com/v/70577824"/>
-        <updated>2025-02-22T13:21:05.263Z</updated>
-        <content type="html"><![CDATA[04:49]]></content>
+        <title type="html"><![CDATA[수줍은 김성현의 고음 데시벨은?!🤣 루키 원위와 맞붙을 터줏대감! | KBS 250301 방송 (불후의 명곡)]]></title>
+        <id>https://tv.naver.com/v/71040901</id>
+        <link href="https://tv.naver.com/v/71040901"/>
+        <updated>2025-03-01T11:16:11.082Z</updated>
+        <content type="html"><![CDATA[02:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 목소리로 위로를 건네는🎤 가수 홍대광 하이라이트!, MBC 250223 방송 (복면가왕)]]></title>

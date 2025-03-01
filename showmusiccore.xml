@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-01T10:20:24.808Z</updated>
+    <updated>2025-03-01T11:16:17.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii KYA (키키 키야) – I DO ME FanCam | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71039837</id>
+        <link href="https://tv.naver.com/v/71039837"/>
+        <updated>2025-03-01T11:15:43.891Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii HAUM (키키 하음) – I DO ME  FanCam | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71039836</id>
+        <link href="https://tv.naver.com/v/71039836"/>
+        <updated>2025-03-01T11:15:43.893Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii JIYU (키키 지유) – I DO ME FanCam | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71039834</id>
+        <link href="https://tv.naver.com/v/71039834"/>
+        <updated>2025-03-01T11:15:43.894Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii SUI (키키 수이) – I DO ME  FanCam | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71039832</id>
+        <link href="https://tv.naver.com/v/71039832"/>
+        <updated>2025-03-01T11:15:43.894Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii LEESOL (키키 이솔) – I DO ME FanCam | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71039831</id>
+        <link href="https://tv.naver.com/v/71039831"/>
+        <updated>2025-03-01T11:15:43.894Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중풀캠8K] KiiiKiii (키키) – I DO ME FullCam | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71039830</id>
+        <link href="https://tv.naver.com/v/71039830"/>
+        <updated>2025-03-01T11:15:43.896Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – BLUE FanCam | 쇼! 음악중심 | MBC250301]]></title>
         <id>https://tv.naver.com/v/71039208</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/71039202"/>
         <updated>2025-03-01T10:19:45.374Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM TAERAE (제로베이스원 김태래) – BLUE FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71039200</id>
-        <link href="https://tv.naver.com/v/71039200"/>
-        <updated>2025-03-01T10:19:45.376Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – BLUE FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71039198</id>
-        <link href="https://tv.naver.com/v/71039198"/>
-        <updated>2025-03-01T10:19:45.377Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE SEOK MATTHEW (제로베이스원 석매튜) – BLUE FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71039025</id>
-        <link href="https://tv.naver.com/v/71039025"/>
-        <updated>2025-03-01T10:19:45.379Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠8K] ZEROBASEONE (제로베이스원) – BLUE FullCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71038875</id>
-        <link href="https://tv.naver.com/v/71038875"/>
-        <updated>2025-03-01T10:19:45.380Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM JIWOONG (제로베이스원 김지웅) – BLUE FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71038837</id>
-        <link href="https://tv.naver.com/v/71038837"/>
-        <updated>2025-03-01T10:19:45.381Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) – BLUE FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71038596</id>
-        <link href="https://tv.naver.com/v/71038596"/>
-        <updated>2025-03-01T10:19:45.382Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
