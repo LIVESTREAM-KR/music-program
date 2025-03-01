@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-01T07:19:11.799Z</updated>
+    <updated>2025-03-01T08:25:35.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 - BLUE (ZEROBASEONE - BLUE), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71032915</id>
+        <link href="https://tv.naver.com/v/71032915"/>
+        <updated>2025-03-01T08:24:59.711Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로베이스원 - Devil Game (ZEROBASEONE - Devil Game), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71032669</id>
+        <link href="https://tv.naver.com/v/71032669"/>
+        <updated>2025-03-01T08:24:59.711Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프 - The Stranger (ONF - The Stranger), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71032449</id>
+        <link href="https://tv.naver.com/v/71032449"/>
+        <updated>2025-03-01T08:24:59.711Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이븐 - HOT MESS (EVNNE - HOT MESS), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71032224</id>
+        <link href="https://tv.naver.com/v/71032224"/>
+        <updated>2025-03-01T08:24:59.712Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올아워즈 - Graffiti (ALL(H)OURS - Graffiti), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71032222</id>
+        <link href="https://tv.naver.com/v/71032222"/>
+        <updated>2025-03-01T08:24:59.716Z</updated>
+        <content type="html"><![CDATA[02:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하츠투하츠 - The Chase (Hearts2Hearts - The Chase), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71032032</id>
+        <link href="https://tv.naver.com/v/71032032"/>
+        <updated>2025-03-01T08:24:59.717Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메이딘 - 사랑, 두려움 (MADEIN - LOVE, AFRAID), MBC 250301 방송]]></title>
+        <id>https://tv.naver.com/v/71031775</id>
+        <link href="https://tv.naver.com/v/71031775"/>
+        <updated>2025-03-01T08:24:59.717Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[킥플립 - Knock Knock (KickFlip - Knock Knock), MBC 250301 방송]]></title>
         <id>https://tv.naver.com/v/71031603</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/71031150"/>
         <updated>2025-03-01T07:18:34.043Z</updated>
         <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원팩트 - 100! (ONE PACT - 100!), MBC 250301 방송]]></title>
-        <id>https://tv.naver.com/v/71030946</id>
-        <link href="https://tv.naver.com/v/71030946"/>
-        <updated>2025-03-01T07:18:34.044Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누에라 - N.I.N (New is Now) (NouerA - N.I.N (New is Now)), MBC 250301 방송]]></title>
-        <id>https://tv.naver.com/v/71030706</id>
-        <link href="https://tv.naver.com/v/71030706"/>
-        <updated>2025-03-01T07:18:34.045Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소디엑 - TIME 2 SHINE (XODIAC - TIME 2 SHINE), MBC 250301 방송]]></title>
-        <id>https://tv.naver.com/v/71030484</id>
-        <link href="https://tv.naver.com/v/71030484"/>
-        <updated>2025-03-01T07:18:34.047Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규빈 - LIKE U 100 (Gyubin - LIKE U 100), MBC 250301 방송]]></title>
-        <id>https://tv.naver.com/v/71030233</id>
-        <link href="https://tv.naver.com/v/71030233"/>
-        <updated>2025-03-01T07:18:34.048Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아크 - nu kidz (ARrC - nu kidz), MBC 250301 방송]]></title>
-        <id>https://tv.naver.com/v/71030232</id>
-        <link href="https://tv.naver.com/v/71030232"/>
-        <updated>2025-03-01T07:18:34.050Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[February TOP10.zip 📂 Show! Music Core TOP 10 Most Viewed Stages Compilation]]></title>
-        <id>https://tv.naver.com/v/70894456</id>
-        <link href="https://tv.naver.com/v/70894456"/>
-        <updated>2025-02-28T04:24:50.491Z</updated>
-        <content type="html"><![CDATA[32:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONF(온앤오프).zip 📂 ON/OFF부터 The Stranger까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/70894027</id>
-        <link href="https://tv.naver.com/v/70894027"/>
-        <updated>2025-02-27T06:29:38.385Z</updated>
-        <content type="html"><![CDATA[50:15]]></content>
     </entry>
 </feed>
