@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-02T10:21:29.623Z</updated>
+    <updated>2025-03-02T11:17:06.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250228 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,34 @@
         <content type="html"><![CDATA[02:03]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[485회 예고] 실망스러운 가왕의 무대?!😲 서서히 드러나는 불편한 진실👀, MBC 250309 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/71085258</id>
+        <link href="https://tv.naver.com/v/71085258"/>
+        <updated>2025-03-02T11:17:06.197Z</updated>
+        <content type="html"><![CDATA[00:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['절구'의 정체는 코미디언 김시덕!, MBC 250302 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/71084974</id>
+        <link href="https://tv.naver.com/v/71084974"/>
+        <updated>2025-03-02T11:17:06.198Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간 각도기 같은 '절구'의 코어 운동🙊 과연 그의 정체는 운동선수가 맞을지?, MBC 250302 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/71084972</id>
+        <link href="https://tv.naver.com/v/71084972"/>
+        <updated>2025-03-02T11:17:06.199Z</updated>
+        <content type="html"><![CDATA[02:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['절구' VS '쑥떡'의 1라운드 무대 - 밤이면 밤마다, MBC 250302 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/71084498</id>
+        <link href="https://tv.naver.com/v/71084498"/>
+        <updated>2025-03-02T11:17:06.201Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['아파트 아파트'의 정체는 클라씨 지민!, MBC 250302 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/71084078</id>
         <link href="https://tv.naver.com/v/71084078"/>
@@ -535,33 +563,5 @@
         <link href="https://tv.naver.com/v/71083099"/>
         <updated>2025-03-02T10:21:28.973Z</updated>
         <content type="html"><![CDATA[02:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비비디 바비디 부'의 소망을 이뤄 줄 마법의 노래🔮 음색 천재 '비비디 바비디 부'의 정체는?!, MBC 250302 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/71082908</id>
-        <link href="https://tv.naver.com/v/71082908"/>
-        <updated>2025-03-02T10:21:28.975Z</updated>
-        <content type="html"><![CDATA[01:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비비디 바비디 부' VS '하쿠나 마타타'의 1라운드 무대 - 이런 엔딩, MBC 250302 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/71082561</id>
-        <link href="https://tv.naver.com/v/71082561"/>
-        <updated>2025-03-02T10:21:28.976Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['열혈 수강생'의 정체는 성우 전영수!, MBC 250302 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/71082558</id>
-        <link href="https://tv.naver.com/v/71082558"/>
-        <updated>2025-03-02T10:21:28.978Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청하&허니제이와 관련 있는 '일타강사'! 힙합 바이브 '일타강사'의 정체는?!, MBC 250302 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/71082343</id>
-        <link href="https://tv.naver.com/v/71082343"/>
-        <updated>2025-03-02T10:21:28.980Z</updated>
-        <content type="html"><![CDATA[04:35]]></content>
     </entry>
 </feed>
