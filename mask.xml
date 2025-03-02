@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-03-02T08:24:23.994Z</updated>
+    <updated>2025-03-02T09:21:47.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['열혈 수강생'의 이명화 모창😆 목청에서 느껴지는 프로의 향기🌸, MBC 250302 방송]]></title>
+        <id>https://tv.naver.com/v/71081930</id>
+        <link href="https://tv.naver.com/v/71081930"/>
+        <updated>2025-03-02T09:21:47.196Z</updated>
+        <content type="html"><![CDATA[01:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['열혈 수강생' VS '일타강사'의 1라운드 무대 - 찬바람이 불면, MBC 250302 방송]]></title>
+        <id>https://tv.naver.com/v/71081725</id>
+        <link href="https://tv.naver.com/v/71081725"/>
+        <updated>2025-03-02T09:21:47.197Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 목소리로 위로를 건네는🎤 가수 홍대광 하이라이트!, MBC 250223 방송]]></title>
         <id>https://tv.naver.com/v/70673244</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/70616168"/>
         <updated>2025-02-23T10:21:13.548Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['실'의 정체는 배우 강성진!, MBC 250223 방송]]></title>
-        <id>https://tv.naver.com/v/70615951</id>
-        <link href="https://tv.naver.com/v/70615951"/>
-        <updated>2025-02-23T10:21:13.549Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두를 초토화시킨 '실'의 동물 묘사! 비싼 오골계부터 고라니까지🐔, MBC 250223 방송]]></title>
-        <id>https://tv.naver.com/v/70615946</id>
-        <link href="https://tv.naver.com/v/70615946"/>
-        <updated>2025-02-23T10:21:13.551Z</updated>
-        <content type="html"><![CDATA[01:07]]></content>
     </entry>
 </feed>
