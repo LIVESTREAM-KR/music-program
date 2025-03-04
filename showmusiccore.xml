@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-04T09:22:57.868Z</updated>
+    <updated>2025-03-04T10:23:33.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – BLUE | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71200999</id>
+        <link href="https://tv.naver.com/v/71200999"/>
+        <updated>2025-03-04T10:23:00.494Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE KIM GYUVIN (제로베이스원 김규빈) – BLUE | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71200700</id>
+        <link href="https://tv.naver.com/v/71200700"/>
+        <updated>2025-03-04T10:23:00.494Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – BLUE | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71200699</id>
+        <link href="https://tv.naver.com/v/71200699"/>
+        <updated>2025-03-04T10:23:00.496Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) – BLUE | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71200697</id>
+        <link href="https://tv.naver.com/v/71200697"/>
+        <updated>2025-03-04T10:23:00.501Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ONF SEUNGJUN (온앤오프 승준) – The Stranger | 쇼! 음악중심 | MBC250301]]></title>
         <id>https://tv.naver.com/v/71185416</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/71046034"/>
         <updated>2025-03-01T12:37:26.869Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM TAERAE (제로베이스원 김태래) – Devil Game FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71046033</id>
-        <link href="https://tv.naver.com/v/71046033"/>
-        <updated>2025-03-01T12:37:26.871Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE SEOK MATTHEW (제로베이스원 석매튜) – Devil Game FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71046032</id>
-        <link href="https://tv.naver.com/v/71046032"/>
-        <updated>2025-03-01T12:37:26.871Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – Devil Game FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71046027</id>
-        <link href="https://tv.naver.com/v/71046027"/>
-        <updated>2025-03-01T12:37:26.872Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) – Devil Game FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71046026</id>
-        <link href="https://tv.naver.com/v/71046026"/>
-        <updated>2025-03-01T12:37:26.875Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
