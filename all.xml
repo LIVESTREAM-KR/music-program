@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-04T03:30:39.237Z</updated>
+    <updated>2025-03-04T04:26:06.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250228 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[02:03]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 중학생 때 오디션 프로 1등!🏆 앞으로가 더 기대되는 클라씨 지민의 《사랑한다 말해도》 《인연》ㅣ#클라씨 #지민 MBC250302방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/71168435</id>
+        <link href="https://tv.naver.com/v/71168435"/>
+        <updated>2025-03-04T04:26:05.381Z</updated>
+        <content type="html"><![CDATA[14:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[485회 예고] 실망스러운 가왕의 무대?!😲 서서히 드러나는 불편한 진실👀, MBC 250309 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/71085258</id>
         <link href="https://tv.naver.com/v/71085258"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/71083103"/>
         <updated>2025-03-02T10:21:28.970Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영글진 않았지만(?) 매력 있는 '하쿠나 마타타'의 김동률X김경호 모창🎤, MBC 250302 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/71083099</id>
-        <link href="https://tv.naver.com/v/71083099"/>
-        <updated>2025-03-02T10:21:28.973Z</updated>
-        <content type="html"><![CDATA[02:17]]></content>
     </entry>
 </feed>
