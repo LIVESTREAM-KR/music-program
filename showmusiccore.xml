@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-04T12:41:25.060Z</updated>
+    <updated>2025-03-04T13:28:39.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71211339</id>
+        <link href="https://tv.naver.com/v/71211339"/>
+        <updated>2025-03-04T13:28:03.332Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts CARMEN (하츠투하츠 카르멘) – The Chase | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71211334</id>
+        <link href="https://tv.naver.com/v/71211334"/>
+        <updated>2025-03-04T13:28:03.335Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – The Chase | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71215117</id>
+        <link href="https://tv.naver.com/v/71215117"/>
+        <updated>2025-03-04T13:28:03.337Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – BLUE | 쇼! 음악중심 | MBC250301]]></title>
         <id>https://tv.naver.com/v/71200999</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/71185051"/>
         <updated>2025-03-04T06:29:16.442Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 김규빈 X 에이나 X 도훈 , 3월 첫째 주 음악중심 MC 컷 모음!, MBC 250301 방송]]></title>
-        <id>https://tv.naver.com/v/71127051</id>
-        <link href="https://tv.naver.com/v/71127051"/>
-        <updated>2025-03-03T08:28:50.501Z</updated>
-        <content type="html"><![CDATA[17:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – Devil Game FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71046035</id>
-        <link href="https://tv.naver.com/v/71046035"/>
-        <updated>2025-03-01T12:37:26.868Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) – Devil Game FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71046034</id>
-        <link href="https://tv.naver.com/v/71046034"/>
-        <updated>2025-03-01T12:37:26.869Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
