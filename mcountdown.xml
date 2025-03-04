@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-03-04T10:23:33.076Z</updated>
+    <updated>2025-03-04T11:18:27.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hearts2Hearts가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/71205743</id>
+        <link href="https://tv.naver.com/v/71205743"/>
+        <updated>2025-03-04T11:18:03.911Z</updated>
+        <content type="html"><![CDATA[01:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' Hearts2Hearts - The Chase | Mnet 250227 방송]]></title>
         <id>https://tv.naver.com/v/70920902</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/70917397"/>
         <updated>2025-02-27T12:40:48.438Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - 나비(Butterfly) | Mnet 250227 방송]]></title>
-        <id>https://tv.naver.com/v/70917373</id>
-        <link href="https://tv.naver.com/v/70917373"/>
-        <updated>2025-02-27T12:40:48.439Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
     </entry>
 </feed>

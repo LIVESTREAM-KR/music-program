@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2025-03-04T10:23:33.041Z</updated>
+    <updated>2025-03-04T11:18:27.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - BLUE [THE SHOW 250304]]]></title>
+        <id>https://tv.naver.com/v/71204159</id>
+        <link href="https://tv.naver.com/v/71204159"/>
+        <updated>2025-03-04T11:18:09.639Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - Devil Game [THE SHOW 250304]]]></title>
+        <id>https://tv.naver.com/v/71204157</id>
+        <link href="https://tv.naver.com/v/71204157"/>
+        <updated>2025-03-04T11:18:09.640Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hearts2Hearts - The Chase (하츠투하츠, The Chase) [THE SHOW 250304]]]></title>
+        <id>https://tv.naver.com/v/71203481</id>
+        <link href="https://tv.naver.com/v/71203481"/>
+        <updated>2025-03-04T11:18:09.642Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARrC - nu kidz (아크, nu kidz) [THE SHOW 250304]]]></title>
         <id>https://tv.naver.com/v/71203175</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/71202528"/>
         <updated>2025-03-04T10:23:16.716Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choi Suhwan - Stars take me (최수환, Stars take me) [THE SHOW 250304]]]></title>
-        <id>https://tv.naver.com/v/71201012</id>
-        <link href="https://tv.naver.com/v/71201012"/>
-        <updated>2025-03-04T10:23:16.718Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE PACT - 100! (원팩트, 100!) [THE SHOW 250304]]]></title>
-        <id>https://tv.naver.com/v/71201008</id>
-        <link href="https://tv.naver.com/v/71201008"/>
-        <updated>2025-03-04T10:23:16.719Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NouerA - N.I.N (New is Now) (누에라, N.I.N (New is Now)) [THE SHOW 250304]]]></title>
-        <id>https://tv.naver.com/v/71201000</id>
-        <link href="https://tv.naver.com/v/71201000"/>
-        <updated>2025-03-04T10:23:16.721Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>

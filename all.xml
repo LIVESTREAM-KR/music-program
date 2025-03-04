@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-04T10:23:33.044Z</updated>
+    <updated>2025-03-04T11:18:27.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250228 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hearts2Hearts가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71205743</id>
+        <link href="https://tv.naver.com/v/71205743"/>
+        <updated>2025-03-04T11:18:03.911Z</updated>
+        <content type="html"><![CDATA[01:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' Hearts2Hearts - The Chase | Mnet 250227 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/70920902</id>
         <link href="https://tv.naver.com/v/70920902"/>
@@ -278,11 +285,25 @@
         <content type="html"><![CDATA[03:39]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LUN8(루네이트) - 나비(Butterfly) | Mnet 250227 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/70917373</id>
-        <link href="https://tv.naver.com/v/70917373"/>
-        <updated>2025-02-27T12:40:48.439Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
+        <title type="html"><![CDATA[ZEROBASEONE - BLUE [THE SHOW 250304] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/71204159</id>
+        <link href="https://tv.naver.com/v/71204159"/>
+        <updated>2025-03-04T11:18:09.639Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - Devil Game [THE SHOW 250304] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/71204157</id>
+        <link href="https://tv.naver.com/v/71204157"/>
+        <updated>2025-03-04T11:18:09.640Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hearts2Hearts - The Chase (하츠투하츠, The Chase) [THE SHOW 250304] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/71203481</id>
+        <link href="https://tv.naver.com/v/71203481"/>
+        <updated>2025-03-04T11:18:09.642Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ARrC - nu kidz (아크, nu kidz) [THE SHOW 250304] (더쇼)]]></title>
@@ -332,27 +353,6 @@
         <link href="https://tv.naver.com/v/71202528"/>
         <updated>2025-03-04T10:23:16.716Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choi Suhwan - Stars take me (최수환, Stars take me) [THE SHOW 250304] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/71201012</id>
-        <link href="https://tv.naver.com/v/71201012"/>
-        <updated>2025-03-04T10:23:16.718Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE PACT - 100! (원팩트, 100!) [THE SHOW 250304] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/71201008</id>
-        <link href="https://tv.naver.com/v/71201008"/>
-        <updated>2025-03-04T10:23:16.719Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NouerA - N.I.N (New is Now) (누에라, N.I.N (New is Now)) [THE SHOW 250304] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/71201000</id>
-        <link href="https://tv.naver.com/v/71201000"/>
-        <updated>2025-03-04T10:23:16.721Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] I wanna run 쇼챔 본방송으로~~ (쇼챔피언)]]></title>
