@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-04T05:20:45.215Z</updated>
+    <updated>2025-03-04T06:29:52.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF SEUNGJUN (온앤오프 승준) – The Stranger | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71185416</id>
+        <link href="https://tv.naver.com/v/71185416"/>
+        <updated>2025-03-04T06:29:16.440Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF HYOJIN (온앤오프 효진) – The Stranger | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71185413</id>
+        <link href="https://tv.naver.com/v/71185413"/>
+        <updated>2025-03-04T06:29:16.440Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF MINKYUN (온앤오프 민균) – The Stranger | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71185051</id>
+        <link href="https://tv.naver.com/v/71185051"/>
+        <updated>2025-03-04T06:29:16.442Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 김규빈 X 에이나 X 도훈 , 3월 첫째 주 음악중심 MC 컷 모음!, MBC 250301 방송]]></title>
         <id>https://tv.naver.com/v/71127051</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/71046026"/>
         <updated>2025-03-01T12:37:26.875Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM GYUVIN (제로베이스원 김규빈) – Devil Game FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71045771</id>
-        <link href="https://tv.naver.com/v/71045771"/>
-        <updated>2025-03-01T12:37:26.876Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE RICKY (제로베이스원 리키) – Devil Game FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71045768</id>
-        <link href="https://tv.naver.com/v/71045768"/>
-        <updated>2025-03-01T12:37:26.877Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM JIWOONG (제로베이스원 김지웅) – Devil Game FanCam | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71045205</id>
-        <link href="https://tv.naver.com/v/71045205"/>
-        <updated>2025-03-01T12:37:26.879Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-04T05:20:45.222Z</updated>
+    <updated>2025-03-04T06:29:52.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250228 방송 (뮤직뱅크)]]></title>
@@ -75,6 +75,27 @@
         <content type="html"><![CDATA[04:18]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF SEUNGJUN (온앤오프 승준) – The Stranger | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71185416</id>
+        <link href="https://tv.naver.com/v/71185416"/>
+        <updated>2025-03-04T06:29:16.440Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF HYOJIN (온앤오프 효진) – The Stranger | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71185413</id>
+        <link href="https://tv.naver.com/v/71185413"/>
+        <updated>2025-03-04T06:29:16.440Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ONF MINKYUN (온앤오프 민균) – The Stranger | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71185051</id>
+        <link href="https://tv.naver.com/v/71185051"/>
+        <updated>2025-03-04T06:29:16.442Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 김규빈 X 에이나 X 도훈 , 3월 첫째 주 음악중심 MC 컷 모음!, MBC 250301 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/71127051</id>
         <link href="https://tv.naver.com/v/71127051"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/71046026"/>
         <updated>2025-03-01T12:37:26.875Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM GYUVIN (제로베이스원 김규빈) – Devil Game FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71045771</id>
-        <link href="https://tv.naver.com/v/71045771"/>
-        <updated>2025-03-01T12:37:26.876Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE RICKY (제로베이스원 리키) – Devil Game FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71045768</id>
-        <link href="https://tv.naver.com/v/71045768"/>
-        <updated>2025-03-01T12:37:26.877Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE KIM JIWOONG (제로베이스원 김지웅) – Devil Game FanCam | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71045205</id>
-        <link href="https://tv.naver.com/v/71045205"/>
-        <updated>2025-03-01T12:37:26.879Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프(ONF) - The Stranger | SBS 250302 방송 (인기가요)]]></title>
