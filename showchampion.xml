@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-05T08:28:17.306Z</updated>
+    <updated>2025-03-05T09:23:35.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올아워즈(ALL(H)OURS) - GIMME GIMME l 250305]]></title>
+        <id>https://tv.naver.com/v/71278794</id>
+        <link href="https://tv.naver.com/v/71278794"/>
+        <updated>2025-03-05T09:23:22.602Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소디엑(XODIAC) - TIME 2 SHINE l 250305]]></title>
+        <id>https://tv.naver.com/v/71278791</id>
+        <link href="https://tv.naver.com/v/71278791"/>
+        <updated>2025-03-05T09:23:22.603Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MC석 코너] 취향이 선명해지는 시간✨ 'ALL(H)OURS' 취향의 발견💖 l 250305]]></title>
+        <id>https://tv.naver.com/v/71278489</id>
+        <link href="https://tv.naver.com/v/71278489"/>
+        <updated>2025-03-05T09:23:22.605Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[HOT DEBUT] 누에라(NouerA) - N.I.N (New is Now) l 250305]]></title>
+        <id>https://tv.naver.com/v/71278487</id>
+        <link href="https://tv.naver.com/v/71278487"/>
+        <updated>2025-03-05T09:23:22.607Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아크(ARrC) - nu kidz l 250305]]></title>
+        <id>https://tv.naver.com/v/71278486</id>
+        <link href="https://tv.naver.com/v/71278486"/>
+        <updated>2025-03-05T09:23:22.608Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원팩트(ONE PACT) - 100! l 250305]]></title>
+        <id>https://tv.naver.com/v/71278069</id>
+        <link href="https://tv.naver.com/v/71278069"/>
+        <updated>2025-03-05T09:23:22.610Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이몬드(I:MOND) - Wonderland l 250305]]></title>
+        <id>https://tv.naver.com/v/71277720</id>
+        <link href="https://tv.naver.com/v/71277720"/>
+        <updated>2025-03-05T09:23:22.612Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[['출챔'합니다] SHOW CHAMPION 545회! '출챔 인증'할 오늘의 라인업은?❤ l 250305]]></title>
+        <id>https://tv.naver.com/v/71277322</id>
+        <link href="https://tv.naver.com/v/71277322"/>
+        <updated>2025-03-05T09:23:22.614Z</updated>
+        <content type="html"><![CDATA[01:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] I wanna run 쇼챔 본방송으로~~]]></title>
         <id>https://tv.naver.com/v/71161915</id>
@@ -18,61 +74,5 @@
         <link href="https://tv.naver.com/v/70870726"/>
         <updated>2025-02-28T02:55:42.057Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] LUN8(루네이트) - 나비(Butterfly) | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70824605</id>
-        <link href="https://tv.naver.com/v/70824605"/>
-        <updated>2025-02-27T03:28:27.684Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC(소디엑) - TIME 2 SHINE | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70838096</id>
-        <link href="https://tv.naver.com/v/70838096"/>
-        <updated>2025-02-27T03:28:27.687Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC ZAYYAN(소디엑 자얀) - TIME 2 SHINE | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70838902</id>
-        <link href="https://tv.naver.com/v/70838902"/>
-        <updated>2025-02-27T03:28:27.689Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC SING(소디엑 씽) - TIME 2 SHINE | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70838104</id>
-        <link href="https://tv.naver.com/v/70838104"/>
-        <updated>2025-02-27T03:28:27.690Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] EVNNE PARK HAN BIN(이븐 박한빈) - Birthday | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70836623</id>
-        <link href="https://tv.naver.com/v/70836623"/>
-        <updated>2025-02-26T23:21:45.422Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE(이븐) - Birthday | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70834030</id>
-        <link href="https://tv.naver.com/v/70834030"/>
-        <updated>2025-02-26T23:21:45.423Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE YOO SEUNG EON(이븐 유승언) - Birthday | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70836619</id>
-        <link href="https://tv.naver.com/v/70836619"/>
-        <updated>2025-02-26T23:21:45.425Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] EVNNE KEITA(이븐 케이타) - Birthday | Show Champion | EP.544 | 250226]]></title>
-        <id>https://tv.naver.com/v/70835856</id>
-        <link href="https://tv.naver.com/v/70835856"/>
-        <updated>2025-02-26T23:21:45.426Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>

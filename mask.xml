@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-03-05T08:28:17.294Z</updated>
+    <updated>2025-03-05T09:23:35.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 독보적인 색채의 포크 뮤지션🍂 가수 김사월 하이라이트!, MBC 250302 방송]]></title>
+        <id>https://tv.naver.com/v/71276085</id>
+        <link href="https://tv.naver.com/v/71276085"/>
+        <updated>2025-03-05T09:23:34.368Z</updated>
+        <content type="html"><![CDATA[10:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 비주얼까지 완벽한 고음 천재 센터✨ 클라씨 지민 하이라이트!, MBC 250302 방송]]></title>
+        <id>https://tv.naver.com/v/71276082</id>
+        <link href="https://tv.naver.com/v/71276082"/>
+        <updated>2025-03-05T09:23:34.368Z</updated>
+        <content type="html"><![CDATA[10:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 중학생 때 오디션 프로 1등!🏆 앞으로가 더 기대되는 클라씨 지민의 《사랑한다 말해도》 《인연》ㅣ#클라씨 #지민 MBC250302방송]]></title>
         <id>https://tv.naver.com/v/71168435</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/71083860"/>
         <updated>2025-03-02T10:21:28.966Z</updated>
         <content type="html"><![CDATA[02:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['둥글게 둥글게' VS '아파트 아파트'의 1라운드 무대 - 사랑한다 말해도, MBC 250302 방송]]></title>
-        <id>https://tv.naver.com/v/71083490</id>
-        <link href="https://tv.naver.com/v/71083490"/>
-        <updated>2025-03-02T10:21:28.968Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['비비디 바비디 부'의 정체는 가수 김사월!, MBC 250302 방송]]></title>
-        <id>https://tv.naver.com/v/71083103</id>
-        <link href="https://tv.naver.com/v/71083103"/>
-        <updated>2025-03-02T10:21:28.970Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
 </feed>
