@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-05T01:41:03.281Z</updated>
+    <updated>2025-03-05T02:56:45.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250228 방송 (뮤직뱅크)]]></title>
@@ -89,11 +89,32 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE KIM JIWOONG (제로베이스원 김지웅) – Devil Game | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71211717</id>
+        <link href="https://tv.naver.com/v/71211717"/>
+        <updated>2025-03-05T02:56:04.959Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – The Chase | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/71215117</id>
         <link href="https://tv.naver.com/v/71215117"/>
         <updated>2025-03-04T13:28:03.337Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – Devil Game | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71245539</id>
+        <link href="https://tv.naver.com/v/71245539"/>
+        <updated>2025-03-05T02:56:04.960Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) – Devil Game | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71244781</id>
+        <link href="https://tv.naver.com/v/71244781"/>
+        <updated>2025-03-05T02:56:04.961Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – BLUE | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/71200697"/>
         <updated>2025-03-04T10:23:00.501Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ONF SEUNGJUN (온앤오프 승준) – The Stranger | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71185416</id>
-        <link href="https://tv.naver.com/v/71185416"/>
-        <updated>2025-03-04T06:29:16.440Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ONF HYOJIN (온앤오프 효진) – The Stranger | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71185413</id>
-        <link href="https://tv.naver.com/v/71185413"/>
-        <updated>2025-03-04T06:29:16.440Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ONF MINKYUN (온앤오프 민균) – The Stranger | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71185051</id>
-        <link href="https://tv.naver.com/v/71185051"/>
-        <updated>2025-03-04T06:29:16.442Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프(ONF) - The Stranger | SBS 250302 방송 (인기가요)]]></title>
