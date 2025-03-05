@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-05T04:25:58.748Z</updated>
+    <updated>2025-03-05T05:21:03.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -34,6 +34,27 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] KiiiKiii JIYU (키키 지유) – I DO ME | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71211797</id>
+        <link href="https://tv.naver.com/v/71211797"/>
+        <updated>2025-03-05T05:20:27.686Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] KiiiKiii SUI (키키 수이) – I DO ME | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71211345</id>
+        <link href="https://tv.naver.com/v/71211345"/>
+        <updated>2025-03-05T05:20:27.688Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] KiiiKiii LEESOL (키키 이솔) – I DO ME | 쇼! 음악중심 | MBC250301]]></title>
+        <id>https://tv.naver.com/v/71219235</id>
+        <link href="https://tv.naver.com/v/71219235"/>
+        <updated>2025-03-05T05:20:27.690Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – Devil Game | 쇼! 음악중심 | MBC250301]]></title>
         <id>https://tv.naver.com/v/71245539</id>
         <link href="https://tv.naver.com/v/71245539"/>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/71200999"/>
         <updated>2025-03-04T10:23:00.494Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE KIM GYUVIN (제로베이스원 김규빈) – BLUE | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71200700</id>
-        <link href="https://tv.naver.com/v/71200700"/>
-        <updated>2025-03-04T10:23:00.494Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – BLUE | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71200699</id>
-        <link href="https://tv.naver.com/v/71200699"/>
-        <updated>2025-03-04T10:23:00.496Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) – BLUE | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71200697</id>
-        <link href="https://tv.naver.com/v/71200697"/>
-        <updated>2025-03-04T10:23:00.501Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
