@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-03-06T12:41:55.532Z</updated>
+    <updated>2025-03-06T13:29:11.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소년소녀 엠카백서' 소희&지우와 함께하는 상큼발랄 차트쇼! | Mnet 250306 방송]]></title>
+        <id>https://tv.naver.com/v/71374612</id>
+        <link href="https://tv.naver.com/v/71374612"/>
+        <updated>2025-03-06T13:28:47.211Z</updated>
+        <content type="html"><![CDATA[06:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-POP GENERATION Mnet | Mnet 250306 방송]]></title>
         <id>https://tv.naver.com/v/71370127</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71365479"/>
         <updated>2025-03-06T11:17:44.797Z</updated>
         <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['먼슬리 엠카PICK' 2월의 엠카PICK 송 & 스테이지는? | Mnet 250306 방송]]></title>
-        <id>https://tv.naver.com/v/71365470</id>
-        <link href="https://tv.naver.com/v/71365470"/>
-        <updated>2025-03-06T11:17:44.799Z</updated>
-        <content type="html"><![CDATA[05:30]]></content>
     </entry>
 </feed>
