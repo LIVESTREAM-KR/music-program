@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-03-06T11:18:10.307Z</updated>
+    <updated>2025-03-06T12:41:55.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-POP GENERATION Mnet | Mnet 250306 방송]]></title>
+        <id>https://tv.naver.com/v/71370127</id>
+        <link href="https://tv.naver.com/v/71370127"/>
+        <updated>2025-03-06T12:41:30.525Z</updated>
+        <content type="html"><![CDATA[01:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 인피니트 - Dangerous | Mnet 250306 방송]]></title>
+        <id>https://tv.naver.com/v/71369008</id>
+        <link href="https://tv.naver.com/v/71369008"/>
+        <updated>2025-03-06T12:41:30.528Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - BLUE | Mnet 250306 방송]]></title>
+        <id>https://tv.naver.com/v/71368330</id>
+        <link href="https://tv.naver.com/v/71368330"/>
+        <updated>2025-03-06T12:41:30.529Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' BTOB (비투비) - LOVE TODAY | Mnet 250306 방송]]></title>
+        <id>https://tv.naver.com/v/71367794</id>
+        <link href="https://tv.naver.com/v/71367794"/>
+        <updated>2025-03-06T12:41:30.531Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' BTOB (비투비) - Say Yes | Mnet 250306 방송]]></title>
+        <id>https://tv.naver.com/v/71367786</id>
+        <link href="https://tv.naver.com/v/71367786"/>
+        <updated>2025-03-06T12:41:30.533Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' 인피니트 (INFINITE) | Mnet 250306 방송]]></title>
+        <id>https://tv.naver.com/v/71366965</id>
+        <link href="https://tv.naver.com/v/71366965"/>
+        <updated>2025-03-06T12:41:30.534Z</updated>
+        <content type="html"><![CDATA[05:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' 강승윤 X 서은광 X 김태래 - Show (원곡：김원준) | Mnet 250306 방송]]></title>
+        <id>https://tv.naver.com/v/71366488</id>
+        <link href="https://tv.naver.com/v/71366488"/>
+        <updated>2025-03-06T12:41:30.539Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Mnet 30주년 축하 메시지' GOT7, NCT WISH, &TEAM | Mnet 250306 방송]]></title>
         <id>https://tv.naver.com/v/71365888</id>
@@ -25,54 +74,5 @@
         <link href="https://tv.naver.com/v/71365470"/>
         <updated>2025-03-06T11:17:44.799Z</updated>
         <content type="html"><![CDATA[05:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 원위(ONEWE) - 별 헤는 밤 (The Starry Night) | Mnet 250306 방송]]></title>
-        <id>https://tv.naver.com/v/71365459</id>
-        <link href="https://tv.naver.com/v/71365459"/>
-        <updated>2025-03-06T11:17:44.799Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' BTOB (비투비) | Mnet 250306 방송]]></title>
-        <id>https://tv.naver.com/v/71364784</id>
-        <link href="https://tv.naver.com/v/71364784"/>
-        <updated>2025-03-06T11:17:44.799Z</updated>
-        <content type="html"><![CDATA[05:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearts2Hearts - The Chase | Mnet 250306 방송]]></title>
-        <id>https://tv.naver.com/v/71364392</id>
-        <link href="https://tv.naver.com/v/71364392"/>
-        <updated>2025-03-06T11:17:44.802Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KiiiKiii - I DO ME | Mnet 250306 방송]]></title>
-        <id>https://tv.naver.com/v/71363853</id>
-        <link href="https://tv.naver.com/v/71363853"/>
-        <updated>2025-03-06T11:17:44.803Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 8TURN(에잇턴) - LEGGO | Mnet 250306 방송]]></title>
-        <id>https://tv.naver.com/v/71362875</id>
-        <link href="https://tv.naver.com/v/71362875"/>
-        <updated>2025-03-06T11:17:44.804Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 8TURN(에잇턴) - I Want You Now | Mnet 250306 방송]]></title>
-        <id>https://tv.naver.com/v/71362870</id>
-        <link href="https://tv.naver.com/v/71362870"/>
-        <updated>2025-03-06T11:17:44.807Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XODIAC (소디엑) - TIME 2 SHINE | Mnet 250306 방송]]></title>
-        <id>https://tv.naver.com/v/71362510</id>
-        <link href="https://tv.naver.com/v/71362510"/>
-        <updated>2025-03-06T10:23:57.264Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
