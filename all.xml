@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-07T04:25:55.891Z</updated>
+    <updated>2025-03-07T05:21:51.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Stranger - 온앤오프 (ONF) | KBS 250228 방송 (뮤직뱅크)]]></title>
@@ -89,6 +89,13 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[새 학기 준비 완료.zip 📂 Show! Music Core New Semester Kickoff Special Compilation (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71373552</id>
+        <link href="https://tv.naver.com/v/71373552"/>
+        <updated>2025-03-07T05:21:16.311Z</updated>
+        <content type="html"><![CDATA[30:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE KIM JIWOONG (제로베이스원 김지웅) – Devil Game | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/71211717</id>
         <link href="https://tv.naver.com/v/71211717"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/71244781"/>
         <updated>2025-03-05T02:56:04.961Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – BLUE | 쇼! 음악중심 | MBC250301 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71200999</id>
-        <link href="https://tv.naver.com/v/71200999"/>
-        <updated>2025-03-04T10:23:00.494Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프(ONF) - The Stranger | SBS 250302 방송 (인기가요)]]></title>
