@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-07T01:41:42.691Z</updated>
+    <updated>2025-03-07T02:57:49.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.545 | 250305]]></title>
+        <id>https://tv.naver.com/v/71281777</id>
+        <link href="https://tv.naver.com/v/71281777"/>
+        <updated>2025-03-07T02:57:36.418Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] XODIAC(소디엑) - TIME 2 SHINE | Show Champion | EP.545 | 250305]]></title>
         <id>https://tv.naver.com/v/71270049</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71268409"/>
         <updated>2025-03-05T13:28:37.807Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] RESCENE WONI(리센느 원이) - In my lotion | Show Champion | EP.545 | 250305]]></title>
-        <id>https://tv.naver.com/v/71267949</id>
-        <link href="https://tv.naver.com/v/71267949"/>
-        <updated>2025-03-05T13:28:37.809Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
 </feed>
