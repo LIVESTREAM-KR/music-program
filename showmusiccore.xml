@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-08T06:23:20.818Z</updated>
+    <updated>2025-03-08T07:17:18.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,41 @@
         <link href="https://tv.naver.com/v/71211334"/>
         <updated>2025-03-04T13:28:03.335Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누에라 - N.I.N (New is Now) (NouerA - N.I.N (New is Now)), MBC 250308 방송]]></title>
+        <id>https://tv.naver.com/v/71486324</id>
+        <link href="https://tv.naver.com/v/71486324"/>
+        <updated>2025-03-08T07:16:37.692Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키키 - I DO ME (KiiiKiii - I DO ME), MBC 250308 방송]]></title>
+        <id>https://tv.naver.com/v/71486261</id>
+        <link href="https://tv.naver.com/v/71486261"/>
+        <updated>2025-03-08T07:16:37.692Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠블루 - ACT LIKE THAT (GENBLUE - ACT LIKE THAT), MBC 250308 방송]]></title>
+        <id>https://tv.naver.com/v/71486022</id>
+        <link href="https://tv.naver.com/v/71486022"/>
+        <updated>2025-03-08T07:16:37.692Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓰리웨이 - 음 (3WAY - Mm-hmm), MBC 250308 방송]]></title>
+        <id>https://tv.naver.com/v/71485749</id>
+        <link href="https://tv.naver.com/v/71485749"/>
+        <updated>2025-03-08T07:16:37.692Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보라미유 - 행운을 부탁해 (BORAMIYU - Wish You Luck), MBC 250308 방송]]></title>
+        <id>https://tv.naver.com/v/71485242</id>
+        <link href="https://tv.naver.com/v/71485242"/>
+        <updated>2025-03-08T07:16:37.693Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #온앤오프 #ONF 오늘도 내일도 더 뜨거워질 온앤오프를 믿어줘💫 음중 사전녹화 비하인드⏯️]]></title>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/71211717"/>
         <updated>2025-03-05T02:56:04.959Z</updated>
         <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts A-NA (하츠투하츠 에이나) – The Chase | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71215117</id>
-        <link href="https://tv.naver.com/v/71215117"/>
-        <updated>2025-03-04T13:28:03.337Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] KiiiKiii JIYU (키키 지유) – I DO ME | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71211797</id>
-        <link href="https://tv.naver.com/v/71211797"/>
-        <updated>2025-03-05T05:20:27.686Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] KiiiKiii SUI (키키 수이) – I DO ME | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71211345</id>
-        <link href="https://tv.naver.com/v/71211345"/>
-        <updated>2025-03-05T05:20:27.688Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] KiiiKiii LEESOL (키키 이솔) – I DO ME | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71219235</id>
-        <link href="https://tv.naver.com/v/71219235"/>
-        <updated>2025-03-05T05:20:27.690Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – Devil Game | 쇼! 음악중심 | MBC250301]]></title>
-        <id>https://tv.naver.com/v/71245539</id>
-        <link href="https://tv.naver.com/v/71245539"/>
-        <updated>2025-03-05T02:56:04.960Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
