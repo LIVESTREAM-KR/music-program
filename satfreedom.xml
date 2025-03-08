@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-03-08T11:15:00.426Z</updated>
+    <updated>2025-03-08T12:30:56.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 완전체로 돌아온 그녀들! 아티스트 베이비복스 편🌟 | KBS 250308 방송]]></title>
+        <id>https://tv.naver.com/v/71498471</id>
+        <link href="https://tv.naver.com/v/71498471"/>
+        <updated>2025-03-08T12:30:49.996Z</updated>
+        <content type="html"><![CDATA[00:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[두 커플(?)의 대결💘 이번 주 최종 우승의 결과는 역시?! | KBS 250308 방송]]></title>
         <id>https://tv.naver.com/v/71497757</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71495714"/>
         <updated>2025-03-08T11:14:54.183Z</updated>
         <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅스 켄X케이 (VIXX Ken&Kei) - A whole new world | KBS 250308 방송]]></title>
-        <id>https://tv.naver.com/v/71495457</id>
-        <link href="https://tv.naver.com/v/71495457"/>
-        <updated>2025-03-08T11:14:54.183Z</updated>
-        <content type="html"><![CDATA[04:47]]></content>
     </entry>
 </feed>
