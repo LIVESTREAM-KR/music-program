@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-09T11:15:04.418Z</updated>
+    <updated>2025-03-09T12:31:16.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dangerous - 인피니트 (INFINITE) | KBS 250307 방송 (뮤직뱅크)]]></title>
@@ -152,6 +152,13 @@
         <content type="html"><![CDATA[03:27]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BTOB - LOVE TODAY | SBS 250309 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/71539370</id>
+        <link href="https://tv.naver.com/v/71539370"/>
+        <updated>2025-03-09T12:30:48.665Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BTOB - 이보다 더 좋을 수 있을까 | SBS 250309 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/71539040</id>
         <link href="https://tv.naver.com/v/71539040"/>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/71537257"/>
         <updated>2025-03-09T07:15:47.502Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보라미유 - 행운을 부탁해 | SBS 250309 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/71537207</id>
-        <link href="https://tv.naver.com/v/71537207"/>
-        <updated>2025-03-09T07:15:47.504Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['소년소녀 엠카백서' 소희&지우와 함께하는 상큼발랄 차트쇼! | Mnet 250306 방송 (엠카운트다운)]]></title>

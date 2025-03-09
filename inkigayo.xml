@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-03-09T11:15:04.426Z</updated>
+    <updated>2025-03-09T12:31:16.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/71539652"/>
         <updated>2025-03-09T08:21:05.470Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTOB - LOVE TODAY | SBS 250309 방송]]></title>
+        <id>https://tv.naver.com/v/71539370</id>
+        <link href="https://tv.naver.com/v/71539370"/>
+        <updated>2025-03-09T12:30:48.665Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BTOB - 이보다 더 좋을 수 있을까 | SBS 250309 방송]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71537257"/>
         <updated>2025-03-09T07:15:47.502Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보라미유 - 행운을 부탁해 | SBS 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71537207</id>
-        <link href="https://tv.naver.com/v/71537207"/>
-        <updated>2025-03-09T07:15:47.504Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
