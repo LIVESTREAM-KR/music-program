@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-03-09T10:20:32.365Z</updated>
+    <updated>2025-03-09T11:15:04.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[486회 예고] 나는 Mask Singer💗 오가는 환승 시그널 속 가왕의 자리를 지킬 수 있을 것인지?💥, MBC 250316 방송]]></title>
+        <id>https://tv.naver.com/v/71550270</id>
+        <link href="https://tv.naver.com/v/71550270"/>
+        <updated>2025-03-09T11:15:03.784Z</updated>
+        <content type="html"><![CDATA[00:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['하쿠나 마타타'의 정체는 엑스디너리 히어로즈 주연!, MBC 250309 방송]]></title>
+        <id>https://tv.naver.com/v/71549699</id>
+        <link href="https://tv.naver.com/v/71549699"/>
+        <updated>2025-03-09T11:15:03.786Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃보다 향수'의 가왕 방어전 무대 - 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지, MBC 250309 방송]]></title>
+        <id>https://tv.naver.com/v/71548521</id>
+        <link href="https://tv.naver.com/v/71548521"/>
+        <updated>2025-03-09T11:15:03.790Z</updated>
+        <content type="html"><![CDATA[05:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['둥글게 둥글게'의 정체는 배우 주종혁!, MBC 250309 방송]]></title>
+        <id>https://tv.naver.com/v/71548270</id>
+        <link href="https://tv.naver.com/v/71548270"/>
+        <updated>2025-03-09T11:15:03.792Z</updated>
+        <content type="html"><![CDATA[01:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['둥글게 둥글게' 3라운드 무대 - 눈물이 쓰다, MBC 250309 방송]]></title>
         <id>https://tv.naver.com/v/71547774</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/71547191"/>
         <updated>2025-03-09T10:20:31.720Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['둥글게 둥글게' 2라운드 무대 - 난치병, MBC 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71546909</id>
-        <link href="https://tv.naver.com/v/71546909"/>
-        <updated>2025-03-09T10:20:31.721Z</updated>
-        <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['일타강사'의 정체는 래퍼 블라세!, MBC 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71546634</id>
-        <link href="https://tv.naver.com/v/71546634"/>
-        <updated>2025-03-09T10:20:31.726Z</updated>
-        <content type="html"><![CDATA[01:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 달 만에 M/V 천만 뷰 달성?! 지인 윤도현이 주는 '하쿠나 마타타' 힌트!, MBC 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71546226</id>
-        <link href="https://tv.naver.com/v/71546226"/>
-        <updated>2025-03-09T10:20:31.727Z</updated>
-        <content type="html"><![CDATA[01:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더콰이엇에게 목걸이를 받았던 '일타강사'😮 '일타강사'의 정체는 ＜쇼미더머니＞ 출신 래퍼?!, MBC 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71545980</id>
-        <link href="https://tv.naver.com/v/71545980"/>
-        <updated>2025-03-09T10:20:31.728Z</updated>
-        <content type="html"><![CDATA[01:12]]></content>
     </entry>
 </feed>
