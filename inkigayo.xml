@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-03-09T07:16:16.289Z</updated>
+    <updated>2025-03-09T08:21:36.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인피니트(INFINITE) - Dangerous | SBS 250309 방송]]></title>
+        <id>https://tv.naver.com/v/71539652</id>
+        <link href="https://tv.naver.com/v/71539652"/>
+        <updated>2025-03-09T08:21:05.470Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTOB - 이보다 더 좋을 수 있을까 | SBS 250309 방송]]></title>
+        <id>https://tv.naver.com/v/71539040</id>
+        <link href="https://tv.naver.com/v/71539040"/>
+        <updated>2025-03-09T08:21:05.470Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - BLUE | SBS 250309 방송]]></title>
+        <id>https://tv.naver.com/v/71538804</id>
+        <link href="https://tv.naver.com/v/71538804"/>
+        <updated>2025-03-09T08:21:05.473Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8TURN - LEGGO | SBS 250309 방송]]></title>
+        <id>https://tv.naver.com/v/71538550</id>
+        <link href="https://tv.naver.com/v/71538550"/>
+        <updated>2025-03-09T08:21:05.484Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원위(ONEWE) - 별 헤는 밤 (The Starry Night) | SBS 250309 방송]]></title>
         <id>https://tv.naver.com/v/71538075</id>
@@ -27,7 +55,7 @@
         <content type="html"><![CDATA[03:19]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hearts2Hearts (하츠투하츠) - The Chase | SBS 250309 방송]]></title>
+        <title type="html"><![CDATA[Hearts2Hearts(하츠투하츠) - The Chase | SBS 250309 방송]]></title>
         <id>https://tv.naver.com/v/71537760</id>
         <link href="https://tv.naver.com/v/71537760"/>
         <updated>2025-03-09T07:15:47.501Z</updated>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/71537207"/>
         <updated>2025-03-09T07:15:47.504Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진이 - Farewell | SBS 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71536929</id>
-        <link href="https://tv.naver.com/v/71536929"/>
-        <updated>2025-03-09T07:15:47.506Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GENBLUE - ACT LIKE THAT | SBS 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71536479</id>
-        <link href="https://tv.naver.com/v/71536479"/>
-        <updated>2025-03-09T07:15:47.508Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NouerA(누에라) - N.I.N (New is Now) | SBS 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71536477</id>
-        <link href="https://tv.naver.com/v/71536477"/>
-        <updated>2025-03-09T07:15:47.510Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규빈(Gyubin) - LIKE U 100 | SBS 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71536427</id>
-        <link href="https://tv.naver.com/v/71536427"/>
-        <updated>2025-03-09T07:15:47.512Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
 </feed>
