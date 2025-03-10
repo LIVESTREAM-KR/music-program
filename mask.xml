@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-03-10T05:17:56.324Z</updated>
+    <updated>2025-03-10T06:26:15.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 가창력 탑티어 걔 맞습니다🫰 락스타 비주얼로 대구 사투리 쓰는 주연의 《이런 엔딩》 《10년(年)의 약속》 《비밀》 | #엑디즈 #주연 MBC250309방송]]></title>
+        <id>https://tv.naver.com/v/71595500</id>
+        <link href="https://tv.naver.com/v/71595500"/>
+        <updated>2025-03-10T06:26:15.274Z</updated>
+        <content type="html"><![CDATA[21:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[486회 예고] 나는 Mask Singer💗 오가는 환승 시그널 속 가왕의 자리를 지킬 수 있을 것인지?💥, MBC 250316 방송]]></title>
         <id>https://tv.naver.com/v/71550270</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71547198"/>
         <updated>2025-03-09T10:20:31.718Z</updated>
         <content type="html"><![CDATA[02:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쑥떡' 2라운드 무대 - 대전 부르스, MBC 250309 방송]]></title>
-        <id>https://tv.naver.com/v/71547191</id>
-        <link href="https://tv.naver.com/v/71547191"/>
-        <updated>2025-03-09T10:20:31.720Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
     </entry>
 </feed>
