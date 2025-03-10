@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-10T08:24:34.122Z</updated>
+    <updated>2025-03-10T09:19:52.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dangerous - 인피니트 (INFINITE) | KBS 250307 방송 (뮤직뱅크)]]></title>
@@ -89,6 +89,20 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] INFINITE JANG DONGWOO (인피니트 장동우) – Dangerous | 쇼! 음악중심 | MBC250308 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71613004</id>
+        <link href="https://tv.naver.com/v/71613004"/>
+        <updated>2025-03-10T09:19:11.591Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] INFINITE NAM WOOHYUN (인피니트 남우현) – Dangerous | 쇼! 음악중심 | MBC250308 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71611548</id>
+        <link href="https://tv.naver.com/v/71611548"/>
+        <updated>2025-03-10T09:19:11.594Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 김규빈 X 에이나 X 도훈 , 3월 둘째 주 음악중심 MC 컷 모음!, MBC 250308 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/71579977</id>
         <link href="https://tv.naver.com/v/71579977"/>
@@ -129,20 +143,6 @@
         <link href="https://tv.naver.com/v/71492695"/>
         <updated>2025-03-08T10:17:46.322Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Hearts2Hearts YUHA (하츠투하츠 유하) – The Chase FanCam | 쇼! 음악중심 | MBC250308 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71492693</id>
-        <link href="https://tv.naver.com/v/71492693"/>
-        <updated>2025-03-08T10:17:46.324Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Hearts2Hearts YE-ON (하츠투하츠 예온) – The Chase FanCam | 쇼! 음악중심 | MBC250308 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71492525</id>
-        <link href="https://tv.naver.com/v/71492525"/>
-        <updated>2025-03-08T10:17:46.325Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인피니트(INFINITE) - Dangerous | SBS 250309 방송 (인기가요)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[예고] 이번 주도 쇼챔 보러 LEGGO🔜 (쇼챔피언)]]></title>
+        <id>https://tv.naver.com/v/71598323</id>
+        <link href="https://tv.naver.com/v/71598323"/>
+        <updated>2025-03-10T09:19:40.020Z</updated>
+        <content type="html"><![CDATA[00:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3월 1주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.545 | 250305 (쇼챔피언)]]></title>
         <id>https://tv.naver.com/v/71281777</id>
         <link href="https://tv.naver.com/v/71281777"/>
@@ -416,13 +423,6 @@
         <link href="https://tv.naver.com/v/71268838"/>
         <updated>2025-03-05T13:28:37.806Z</updated>
         <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] RESCENE ZENA(리센느 제나) - In my lotion | Show Champion | EP.545 | 250305 (쇼챔피언)]]></title>
-        <id>https://tv.naver.com/v/71268409</id>
-        <link href="https://tv.naver.com/v/71268409"/>
-        <updated>2025-03-05T13:28:37.807Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 완전체로 돌아온 그녀들! 아티스트 베이비복스 편🌟 | KBS 250308 방송 (불후의 명곡)]]></title>

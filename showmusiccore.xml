@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-10T08:24:34.127Z</updated>
+    <updated>2025-03-10T09:19:52.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://tv.naver.com/v/71211334"/>
         <updated>2025-03-04T13:28:03.335Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] INFINITE JANG DONGWOO (인피니트 장동우) – Dangerous | 쇼! 음악중심 | MBC250308]]></title>
+        <id>https://tv.naver.com/v/71613004</id>
+        <link href="https://tv.naver.com/v/71613004"/>
+        <updated>2025-03-10T09:19:11.591Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] INFINITE NAM WOOHYUN (인피니트 남우현) – Dangerous | 쇼! 음악중심 | MBC250308]]></title>
+        <id>https://tv.naver.com/v/71611548</id>
+        <link href="https://tv.naver.com/v/71611548"/>
+        <updated>2025-03-10T09:19:11.594Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 김규빈 X 에이나 X 도훈 , 3월 둘째 주 음악중심 MC 컷 모음!, MBC 250308 방송]]></title>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/71492695"/>
         <updated>2025-03-08T10:17:46.322Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Hearts2Hearts YUHA (하츠투하츠 유하) – The Chase FanCam | 쇼! 음악중심 | MBC250308]]></title>
-        <id>https://tv.naver.com/v/71492693</id>
-        <link href="https://tv.naver.com/v/71492693"/>
-        <updated>2025-03-08T10:17:46.324Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Hearts2Hearts YE-ON (하츠투하츠 예온) – The Chase FanCam | 쇼! 음악중심 | MBC250308]]></title>
-        <id>https://tv.naver.com/v/71492525</id>
-        <link href="https://tv.naver.com/v/71492525"/>
-        <updated>2025-03-08T10:17:46.325Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
     </entry>
 </feed>
