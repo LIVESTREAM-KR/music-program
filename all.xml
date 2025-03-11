@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-11T10:24:47.334Z</updated>
+    <updated>2025-03-11T11:18:40.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dangerous - 인피니트 (INFINITE) | KBS 250307 방송 (뮤직뱅크)]]></title>
@@ -285,6 +285,34 @@
         <content type="html"><![CDATA[03:15]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hearts2Hearts - The Chase (하츠투하츠, The Chase) [THE SHOW 250311] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/71695152</id>
+        <link href="https://tv.naver.com/v/71695152"/>
+        <updated>2025-03-11T11:18:21.799Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONEWE - The Starry Night (원위, 별 헤는 밤) [THE SHOW 250311] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/71695149</id>
+        <link href="https://tv.naver.com/v/71695149"/>
+        <updated>2025-03-11T11:18:21.800Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hearts2Hearts - THE SHOW CHOICE! [THE SHOW 250311] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/71695077</id>
+        <link href="https://tv.naver.com/v/71695077"/>
+        <updated>2025-03-11T11:18:21.804Z</updated>
+        <content type="html"><![CDATA[01:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONEWE - Sole Star (원위, 검은 별) [THE SHOW 250311] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/71695073</id>
+        <link href="https://tv.naver.com/v/71695073"/>
+        <updated>2025-03-11T11:18:21.805Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[8TURN - LEGGO (에잇턴, LEGGO) [THE SHOW 250311] (더쇼)]]></title>
         <id>https://tv.naver.com/v/71694255</id>
         <link href="https://tv.naver.com/v/71694255"/>
@@ -325,34 +353,6 @@
         <link href="https://tv.naver.com/v/71693845"/>
         <updated>2025-03-11T10:24:30.458Z</updated>
         <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NouerA - N.I.N (New is Now) (누에라, N.I.N (New is Now)) [THE SHOW 250311] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/71692393</id>
-        <link href="https://tv.naver.com/v/71692393"/>
-        <updated>2025-03-11T10:24:30.459Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GENBLUE - SLOW DOWN [THE SHOW 250311] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/71692085</id>
-        <link href="https://tv.naver.com/v/71692085"/>
-        <updated>2025-03-11T10:24:30.463Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTX - OVER N OVER [THE SHOW 250311] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/71692083</id>
-        <link href="https://tv.naver.com/v/71692083"/>
-        <updated>2025-03-11T10:24:30.464Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GENBLUE - ACT LIKE THAT [THE SHOW 250311] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/71692073</id>
-        <link href="https://tv.naver.com/v/71692073"/>
-        <updated>2025-03-11T10:24:30.464Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 이번 주도 쇼챔 보러 LEGGO🔜 (쇼챔피언)]]></title>
