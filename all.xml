@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-11T11:18:40.722Z</updated>
+    <updated>2025-03-11T12:42:33.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dangerous - 인피니트 (INFINITE) | KBS 250307 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[KiiiKiii가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71703902</id>
+        <link href="https://tv.naver.com/v/71703902"/>
+        <updated>2025-03-11T12:42:07.954Z</updated>
+        <content type="html"><![CDATA[01:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['소년소녀 엠카백서' 소희&지우와 함께하는 상큼발랄 차트쇼! | Mnet 250306 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/71374612</id>
         <link href="https://tv.naver.com/v/71374612"/>
@@ -276,13 +283,6 @@
         <link href="https://tv.naver.com/v/71365888"/>
         <updated>2025-03-06T11:17:44.794Z</updated>
         <content type="html"><![CDATA[01:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MADEIN - 사랑, 두려움 | Mnet 250306 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/71365479</id>
-        <link href="https://tv.naver.com/v/71365479"/>
-        <updated>2025-03-06T11:17:44.797Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hearts2Hearts - The Chase (하츠투하츠, The Chase) [THE SHOW 250311] (더쇼)]]></title>
