@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-11T04:26:26.472Z</updated>
+    <updated>2025-03-11T05:20:55.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://tv.naver.com/v/71611548"/>
         <updated>2025-03-10T09:19:11.594Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] KiiiKiii LEESOL (키키 이솔) – I DO ME | 쇼! 음악중심 | MBC250308]]></title>
+        <id>https://tv.naver.com/v/71658960</id>
+        <link href="https://tv.naver.com/v/71658960"/>
+        <updated>2025-03-11T05:20:16.657Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] Hearts2Hearts IAN (하츠투하츠 이안) – The Chase | 쇼! 음악중심 | MBC250308]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71629540"/>
         <updated>2025-03-10T13:29:47.342Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ZEROBASEONE HAN YUJIN (제로베이스원 한유진) – BLUE FanCam | 쇼! 음악중심 | MBC250308]]></title>
-        <id>https://tv.naver.com/v/71629538</id>
-        <link href="https://tv.naver.com/v/71629538"/>
-        <updated>2025-03-10T13:29:47.343Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
