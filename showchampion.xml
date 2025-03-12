@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-12T09:23:48.526Z</updated>
+    <updated>2025-03-12T10:23:22.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[에잇턴(8TURN) - I Want You Now l 250312]]></title>
+        <id>https://tv.naver.com/v/71768766</id>
+        <link href="https://tv.naver.com/v/71768766"/>
+        <updated>2025-03-12T10:23:11.550Z</updated>
+        <content type="html"><![CDATA[02:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[규빈(Gyubin) - LIKE U 100 l 250312]]></title>
         <id>https://tv.naver.com/v/71767869</id>
         <link href="https://tv.naver.com/v/71767869"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71767399"/>
         <updated>2025-03-12T09:23:35.843Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누에라(NouerA) - N.I.N (New is Now) l 250312]]></title>
-        <id>https://tv.naver.com/v/71767396</id>
-        <link href="https://tv.naver.com/v/71767396"/>
-        <updated>2025-03-12T09:23:35.845Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
     </entry>
 </feed>
