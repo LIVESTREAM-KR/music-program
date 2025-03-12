@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-12T07:21:56.754Z</updated>
+    <updated>2025-03-12T08:28:52.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dangerous - 인피니트 (INFINITE) | KBS 250307 방송 (뮤직뱅크)]]></title>
@@ -103,6 +103,13 @@
         <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[INFINITE (인피니트).zip 📂 다시 돌아와부터 Dangerous까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71758894</id>
+        <link href="https://tv.naver.com/v/71758894"/>
+        <updated>2025-03-12T08:28:15.508Z</updated>
+        <content type="html"><![CDATA[01:16:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] KiiiKiii LEESOL (키키 이솔) – I DO ME | 쇼! 음악중심 | MBC250308 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/71658960</id>
         <link href="https://tv.naver.com/v/71658960"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/71629542"/>
         <updated>2025-03-10T13:29:47.341Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE ZHANG HAO (제로베이스원 장하오) – BLUE | 쇼! 음악중심 | MBC250308 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71629540</id>
-        <link href="https://tv.naver.com/v/71629540"/>
-        <updated>2025-03-10T13:29:47.342Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인피니트(INFINITE) - Dangerous | SBS 250309 방송 (인기가요)]]></title>
@@ -495,6 +495,20 @@
         <content type="html"><![CDATA[02:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 무대 압도하는 폭발적 성량의 메인 보컬🎸 엑스디너리 히어로즈 주연 하이라이트!, MBC 250309 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/71759873</id>
+        <link href="https://tv.naver.com/v/71759873"/>
+        <updated>2025-03-12T08:28:51.775Z</updated>
+        <content type="html"><![CDATA[12:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 다양한 장르 섭렵! 육각형 배우, 파란의 리더✨ 배우 주종혁 하이라이트!, MBC 250309 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/71759783</id>
+        <link href="https://tv.naver.com/v/71759783"/>
+        <updated>2025-03-12T08:28:51.778Z</updated>
+        <content type="html"><![CDATA[10:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 가창력 탑티어 걔 맞습니다🫰 락스타 비주얼로 대구 사투리 쓰는 주연의 《이런 엔딩》 《10년(年)의 약속》 《비밀》 | #엑디즈 #주연 MBC250309방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/71595500</id>
         <link href="https://tv.naver.com/v/71595500"/>
@@ -549,19 +563,5 @@
         <link href="https://tv.naver.com/v/71547574"/>
         <updated>2025-03-09T10:20:31.714Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['쑥떡'은 이하늬X설현와 관련 있는 배우?! 궁금증 폭발하게 만든 인물 사진 두 장🔎, MBC 250309 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/71547572</id>
-        <link href="https://tv.naver.com/v/71547572"/>
-        <updated>2025-03-09T10:20:31.718Z</updated>
-        <content type="html"><![CDATA[00:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['둥글게 둥글게'는 아이돌 출신 트로트 가수?! 어린 시절 사진에서도 빛나는 외모✨, MBC 250309 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/71547198</id>
-        <link href="https://tv.naver.com/v/71547198"/>
-        <updated>2025-03-09T10:20:31.718Z</updated>
-        <content type="html"><![CDATA[02:27]]></content>
     </entry>
 </feed>
