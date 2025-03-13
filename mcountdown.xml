@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-03-13T11:18:44.388Z</updated>
+    <updated>2025-03-13T12:42:38.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 호시X우지 (SEVENTEEN) - 동갑내기 | Mnet 250313 방송]]></title>
+        <id>https://tv.naver.com/v/71856774</id>
+        <link href="https://tv.naver.com/v/71856774"/>
+        <updated>2025-03-13T12:42:14.441Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 호시X우지 (SEVENTEEN) - STUPID IDIOT | Mnet 250313 방송]]></title>
+        <id>https://tv.naver.com/v/71856203</id>
+        <link href="https://tv.naver.com/v/71856203"/>
+        <updated>2025-03-13T12:42:14.441Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 슬기 (SEULGI) - Baby, Not Baby | Mnet 250313 방송]]></title>
+        <id>https://tv.naver.com/v/71855843</id>
+        <link href="https://tv.naver.com/v/71855843"/>
+        <updated>2025-03-13T12:42:14.441Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인터뷰' 호시X우지 (SEVENTEEN) | Mnet 250313 방송]]></title>
+        <id>https://tv.naver.com/v/71855829</id>
+        <link href="https://tv.naver.com/v/71855829"/>
+        <updated>2025-03-13T12:42:14.444Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' SF9 - LOVE RACE | Mnet 250313 방송]]></title>
         <id>https://tv.naver.com/v/71855207</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/71853677"/>
         <updated>2025-03-13T11:18:19.731Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' TREASURE(트레저) - 사르르 (SARURU) | Mnet 250313 방송]]></title>
-        <id>https://tv.naver.com/v/71852780</id>
-        <link href="https://tv.naver.com/v/71852780"/>
-        <updated>2025-03-13T11:18:19.731Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearts2Hearts - The Chase | Mnet 250313 방송]]></title>
-        <id>https://tv.naver.com/v/71852779</id>
-        <link href="https://tv.naver.com/v/71852779"/>
-        <updated>2025-03-13T11:18:19.732Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' SF9 (에스에프나인) | Mnet 250313 방송]]></title>
-        <id>https://tv.naver.com/v/71852766</id>
-        <link href="https://tv.naver.com/v/71852766"/>
-        <updated>2025-03-13T11:18:19.733Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위클리 엠카PICK 스테이지' 3월 2주 위클리 엠카PICK 스테이지의 주인공은? | Mnet 250313 방송]]></title>
-        <id>https://tv.naver.com/v/71851812</id>
-        <link href="https://tv.naver.com/v/71851812"/>
-        <updated>2025-03-13T11:18:19.735Z</updated>
-        <content type="html"><![CDATA[01:28]]></content>
     </entry>
 </feed>

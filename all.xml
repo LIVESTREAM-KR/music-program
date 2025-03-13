@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-13T11:18:44.383Z</updated>
+    <updated>2025-03-13T12:42:38.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dangerous - 인피니트 (INFINITE) | KBS 250307 방송 (뮤직뱅크)]]></title>
@@ -103,6 +103,13 @@
         <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #ZEROBASEONE #제로베이스원 자면 안 돼!!🤚 기다려!!🤚 ZB1의 단짠단짠 음중 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71858849</id>
+        <link href="https://tv.naver.com/v/71858849"/>
+        <updated>2025-03-13T12:42:03.415Z</updated>
+        <content type="html"><![CDATA[26:58]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[INFINITE (인피니트).zip 📂 다시 돌아와부터 Dangerous까지 | Show! MusicCore (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/71758894</id>
         <link href="https://tv.naver.com/v/71758894"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/71629546"/>
         <updated>2025-03-10T13:29:47.340Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE SUNG HANBIN (제로베이스원 성한빈) – BLUE | 쇼! 음악중심 | MBC250308 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71629542</id>
-        <link href="https://tv.naver.com/v/71629542"/>
-        <updated>2025-03-10T13:29:47.341Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인피니트(INFINITE) - Dangerous | SBS 250309 방송 (인기가요)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[03:45]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' 호시X우지 (SEVENTEEN) - 동갑내기 | Mnet 250313 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71856774</id>
+        <link href="https://tv.naver.com/v/71856774"/>
+        <updated>2025-03-13T12:42:14.441Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 호시X우지 (SEVENTEEN) - STUPID IDIOT | Mnet 250313 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71856203</id>
+        <link href="https://tv.naver.com/v/71856203"/>
+        <updated>2025-03-13T12:42:14.441Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 슬기 (SEULGI) - Baby, Not Baby | Mnet 250313 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71855843</id>
+        <link href="https://tv.naver.com/v/71855843"/>
+        <updated>2025-03-13T12:42:14.441Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['인터뷰' 호시X우지 (SEVENTEEN) | Mnet 250313 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71855829</id>
+        <link href="https://tv.naver.com/v/71855829"/>
+        <updated>2025-03-13T12:42:14.444Z</updated>
+        <content type="html"><![CDATA[03:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' SF9 - LOVE RACE | Mnet 250313 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/71855207</id>
         <link href="https://tv.naver.com/v/71855207"/>
@@ -255,34 +283,6 @@
         <link href="https://tv.naver.com/v/71853677"/>
         <updated>2025-03-13T11:18:19.731Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' TREASURE(트레저) - 사르르 (SARURU) | Mnet 250313 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/71852780</id>
-        <link href="https://tv.naver.com/v/71852780"/>
-        <updated>2025-03-13T11:18:19.731Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearts2Hearts - The Chase | Mnet 250313 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/71852779</id>
-        <link href="https://tv.naver.com/v/71852779"/>
-        <updated>2025-03-13T11:18:19.732Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' SF9 (에스에프나인) | Mnet 250313 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/71852766</id>
-        <link href="https://tv.naver.com/v/71852766"/>
-        <updated>2025-03-13T11:18:19.733Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위클리 엠카PICK 스테이지' 3월 2주 위클리 엠카PICK 스테이지의 주인공은? | Mnet 250313 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/71851812</id>
-        <link href="https://tv.naver.com/v/71851812"/>
-        <updated>2025-03-13T11:18:19.735Z</updated>
-        <content type="html"><![CDATA[01:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hearts2Hearts - The Chase (하츠투하츠, The Chase) [THE SHOW 250311] (더쇼)]]></title>
