@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-14T06:29:49.595Z</updated>
+    <updated>2025-03-14T07:20:44.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dangerous - 인피니트 (INFINITE) | KBS 250307 방송 (뮤직뱅크)]]></title>
@@ -103,6 +103,13 @@
         <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] ZEROBASEONE (제로베이스원) – BLUE | 쇼! 음악중심 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/71842664</id>
+        <link href="https://tv.naver.com/v/71842664"/>
+        <updated>2025-03-14T07:20:08.236Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #ZEROBASEONE #제로베이스원 자면 안 돼!!🤚 기다려!!🤚 ZB1의 단짠단짠 음중 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/71858849</id>
         <link href="https://tv.naver.com/v/71858849"/>
@@ -135,13 +142,6 @@
         <id>https://tv.naver.com/v/71615028</id>
         <link href="https://tv.naver.com/v/71615028"/>
         <updated>2025-03-11T02:57:22.612Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] ZEROBASEONE PARK GUNWOOK (제로베이스원 박건욱) – BLUE | 쇼! 음악중심 | MBC250308 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/71629546</id>
-        <link href="https://tv.naver.com/v/71629546"/>
-        <updated>2025-03-10T13:29:47.340Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
