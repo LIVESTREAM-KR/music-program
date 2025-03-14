@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-14T01:40:48.575Z</updated>
+    <updated>2025-03-14T02:57:47.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 2주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.546 | 250312]]></title>
+        <id>https://tv.naver.com/v/71825271</id>
+        <link href="https://tv.naver.com/v/71825271"/>
+        <updated>2025-03-14T02:57:34.809Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] GENBLUE(젠블루) - ACT LIKE THAT | Show Champion | EP.546 | 250312]]></title>
         <id>https://tv.naver.com/v/71758388</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71743172"/>
         <updated>2025-03-12T13:30:31.197Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] YOUNG POSSE SUNHYE(영파씨 정선혜) - COLD (YPS Colder Ver.) | Show Champion | EP.546 | 250312]]></title>
-        <id>https://tv.naver.com/v/71738524</id>
-        <link href="https://tv.naver.com/v/71738524"/>
-        <updated>2025-03-12T13:30:31.199Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
