@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-03-16T06:27:50.927Z</updated>
+    <updated>2025-03-16T07:18:59.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -69,7 +69,7 @@
         <content type="html"><![CDATA[03:30]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원위 (ONEWE) - 별 헤는 밤 (The Starry Night) | SBS 250316 방송]]></title>
+        <title type="html"><![CDATA[원위(ONEWE) - 별 헤는 밤 (The Starry Night) | SBS 250316 방송]]></title>
         <id>https://tv.naver.com/v/72017967</id>
         <link href="https://tv.naver.com/v/72017967"/>
         <updated>2025-03-16T06:27:20.485Z</updated>
