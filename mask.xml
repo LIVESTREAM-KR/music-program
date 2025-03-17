@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-03-17T03:37:01.326Z</updated>
+    <updated>2025-03-17T04:26:36.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 가면을 써도 느껴지는 끼✨ 마라탕후루 챌린지로 MZ를 넘어 젠지까지 사로잡은 서이브의 《애상》 《여행》 | #서이브 MBC250316]]></title>
+        <id>https://tv.naver.com/v/72064592</id>
+        <link href="https://tv.naver.com/v/72064592"/>
+        <updated>2025-03-17T04:26:36.296Z</updated>
+        <content type="html"><![CDATA[15:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[487회 예고] 독기 충전한 가왕의 질주! 과연 6연승 도전을 막을 수 있을까?!, MBC 250323 방송]]></title>
         <id>https://tv.naver.com/v/72034728</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72032733"/>
         <updated>2025-03-16T10:22:01.558Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코어 근육으로 버티는 완벽한 자세💪 '머슬독'이 선보이는 근육 비결 운동, MBC 250316 방송]]></title>
-        <id>https://tv.naver.com/v/72032731</id>
-        <link href="https://tv.naver.com/v/72032731"/>
-        <updated>2025-03-16T10:22:01.558Z</updated>
-        <content type="html"><![CDATA[01:18]]></content>
     </entry>
 </feed>
