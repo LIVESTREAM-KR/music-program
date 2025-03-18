@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-18T07:22:33.676Z</updated>
+    <updated>2025-03-18T08:28:48.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://tv.naver.com/v/71211334"/>
         <updated>2025-03-04T13:28:03.335Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE ASAHI (트레저 아사히) – YELLOW | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72093560</id>
+        <link href="https://tv.naver.com/v/72093560"/>
+        <updated>2025-03-18T08:28:11.766Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – HOT | 쇼! 음악중심 | MBC250315]]></title>
@@ -41,6 +48,20 @@
         <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE YOSHI (트레저 요시) – YELLOW | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72125923</id>
+        <link href="https://tv.naver.com/v/72125923"/>
+        <updated>2025-03-18T08:28:11.771Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] TREASURE JUNKYU (트레저 준규) – YELLOW | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72125842</id>
+        <link href="https://tv.naver.com/v/72125842"/>
+        <updated>2025-03-18T08:28:11.772Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – HOT | 쇼! 음악중심 | MBC250315]]></title>
         <id>https://tv.naver.com/v/72159919</id>
         <link href="https://tv.naver.com/v/72159919"/>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/72122341"/>
         <updated>2025-03-18T02:59:56.649Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 에이나 X 김규빈, 3월 셋째 주 음악중심 MC 컷 모음!, MBC 250315 방송]]></title>
-        <id>https://tv.naver.com/v/72065588</id>
-        <link href="https://tv.naver.com/v/72065588"/>
-        <updated>2025-03-17T03:00:45.806Z</updated>
-        <content type="html"><![CDATA[19:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] HOSHI x WOOZI HOSHI (호시X우지 호시) – STUPID IDIOT FanCam | 쇼! 음악중심 | MBC250315]]></title>
-        <id>https://tv.naver.com/v/71986271</id>
-        <link href="https://tv.naver.com/v/71986271"/>
-        <updated>2025-03-15T12:37:17.427Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE JUNKYU (트레저 준규) – 사르르 (SARURU) FanCam | 쇼! 음악중심 | MBC250315]]></title>
-        <id>https://tv.naver.com/v/71986269</id>
-        <link href="https://tv.naver.com/v/71986269"/>
-        <updated>2025-03-15T12:37:17.428Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>

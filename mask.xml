@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-03-18T07:22:33.688Z</updated>
+    <updated>2025-03-18T08:28:48.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 예능까지 잘하는 대한민국 6호 프리미어리거⚽ 전 축구 선수 조원희 하이라이트!, MBC 250316 방송]]></title>
+        <id>https://tv.naver.com/v/72167519</id>
+        <link href="https://tv.naver.com/v/72167519"/>
+        <updated>2025-03-18T08:28:48.168Z</updated>
+        <content type="html"><![CDATA[09:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 가슴 울리는 명품 보이스✨ 트로트 가수 박민수 하이라이트!, MBC 250316 방송]]></title>
+        <id>https://tv.naver.com/v/72167516</id>
+        <link href="https://tv.naver.com/v/72167516"/>
+        <updated>2025-03-18T08:28:48.169Z</updated>
+        <content type="html"><![CDATA[11:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 가면을 써도 느껴지는 끼✨ 마라탕후루 챌린지로 MZ를 넘어 젠지까지 사로잡은 서이브의 《애상》 《여행》 | #서이브 MBC250316]]></title>
         <id>https://tv.naver.com/v/72064592</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/72033509"/>
         <updated>2025-03-16T11:18:18.278Z</updated>
         <content type="html"><![CDATA[01:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['백도' VS '황도'의 1라운드 무대 - 애상, MBC 250316 방송]]></title>
-        <id>https://tv.naver.com/v/72033096</id>
-        <link href="https://tv.naver.com/v/72033096"/>
-        <updated>2025-03-16T10:22:01.556Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['머슬독'의 정체는 전 축구선수 조원희!, MBC 250316 방송]]></title>
-        <id>https://tv.naver.com/v/72032733</id>
-        <link href="https://tv.naver.com/v/72032733"/>
-        <updated>2025-03-16T10:22:01.558Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
     </entry>
 </feed>
