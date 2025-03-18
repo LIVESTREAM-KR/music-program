@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-18T10:24:00.856Z</updated>
+    <updated>2025-03-18T11:18:58.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] ILLIT WONHEE (아일릿 원희) – Almond Chocolate (Korean ver.) | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72122518</id>
+        <link href="https://tv.naver.com/v/72122518"/>
+        <updated>2025-03-18T11:18:23.157Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] TREASURE ASAHI (트레저 아사히) – YELLOW | 쇼! 음악중심 | MBC250315]]></title>
         <id>https://tv.naver.com/v/72093560</id>
         <link href="https://tv.naver.com/v/72093560"/>
         <updated>2025-03-18T08:28:11.766Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] HOSHI x WOOZI WOOZI (호시X우지 우지) – STUPID IDIOT | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72093550</id>
+        <link href="https://tv.naver.com/v/72093550"/>
+        <updated>2025-03-18T11:18:23.159Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – HOT | 쇼! 음악중심 | MBC250315]]></title>
@@ -48,31 +62,17 @@
         <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#최애직캠] TREASURE YOSHI (트레저 요시) – YELLOW | 쇼! 음악중심 | MBC250315]]></title>
-        <id>https://tv.naver.com/v/72125923</id>
-        <link href="https://tv.naver.com/v/72125923"/>
-        <updated>2025-03-18T08:28:11.771Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
+        <title type="html"><![CDATA[[#최애직캠] HOSHI x WOOZI HOSHI (호시X우지 호시) – STUPID IDIOT | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72182935</id>
+        <link href="https://tv.naver.com/v/72182935"/>
+        <updated>2025-03-18T11:18:23.164Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#최애직캠] TREASURE JUNKYU (트레저 준규) – YELLOW | 쇼! 음악중심 | MBC250315]]></title>
-        <id>https://tv.naver.com/v/72125842</id>
-        <link href="https://tv.naver.com/v/72125842"/>
-        <updated>2025-03-18T08:28:11.772Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루토 최애]]></title>
-        <id>https://tv.naver.com/v/72165994</id>
-        <link href="https://tv.naver.com/v/72165994"/>
-        <updated>2025-03-18T09:23:46.572Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] SEULGI (슬기) – Baby, Not Baby | 쇼! 음악중심 | MBC250315]]></title>
-        <id>https://tv.naver.com/v/72122878</id>
-        <link href="https://tv.naver.com/v/72122878"/>
-        <updated>2025-03-18T09:23:46.574Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
+        <title type="html"><![CDATA[[#음중직캠] ILLIT IROHA (아일릿 이로하) – Almond Chocolate (Korean ver.) FanCam | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72182932</id>
+        <link href="https://tv.naver.com/v/72182932"/>
+        <updated>2025-03-18T11:18:23.165Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
