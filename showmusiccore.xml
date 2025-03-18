@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-18T01:42:57.551Z</updated>
+    <updated>2025-03-18T03:00:31.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://tv.naver.com/v/71611548"/>
         <updated>2025-03-10T09:19:11.594Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] YEJI (예지) – Air | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72122341</id>
+        <link href="https://tv.naver.com/v/72122341"/>
+        <updated>2025-03-18T02:59:56.649Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 에이나 X 김규빈, 3월 셋째 주 음악중심 MC 컷 모음!, MBC 250315 방송]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/71986262"/>
         <updated>2025-03-15T12:37:17.430Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Hearts2Hearts YE-ON (하츠투하츠 예온) – The Chase FanCam | 쇼! 음악중심 | MBC250315]]></title>
-        <id>https://tv.naver.com/v/71986259</id>
-        <link href="https://tv.naver.com/v/71986259"/>
-        <updated>2025-03-15T12:37:17.434Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
