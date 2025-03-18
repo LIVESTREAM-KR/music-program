@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-18T05:21:36.337Z</updated>
+    <updated>2025-03-18T06:31:02.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – HOT | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72122876</id>
+        <link href="https://tv.naver.com/v/72122876"/>
+        <updated>2025-03-18T06:30:26.835Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] INFINITE JANG DONGWOO (인피니트 장동우) – Dangerous | 쇼! 음악중심 | MBC250308]]></title>
         <id>https://tv.naver.com/v/71613004</id>
         <link href="https://tv.naver.com/v/71613004"/>
@@ -32,6 +39,13 @@
         <link href="https://tv.naver.com/v/71611548"/>
         <updated>2025-03-10T09:19:11.594Z</updated>
         <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM HONG EUNCHAE (르세라핌 홍은채) – HOT | 쇼! 음악중심 | MBC250315]]></title>
+        <id>https://tv.naver.com/v/72159919</id>
+        <link href="https://tv.naver.com/v/72159919"/>
+        <updated>2025-03-18T06:30:26.839Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] YEJI (예지) – Air | 쇼! 음악중심 | MBC250315]]></title>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/71986269"/>
         <updated>2025-03-15T12:37:17.428Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] TREASURE YOSHI (트레저 요시) – 사르르 (SARURU) FanCam | 쇼! 음악중심 | MBC250315]]></title>
-        <id>https://tv.naver.com/v/71986266</id>
-        <link href="https://tv.naver.com/v/71986266"/>
-        <updated>2025-03-15T12:37:17.428Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] KiiiKiii (키키) – I DO ME FullCam | 쇼! 음악중심 | MBC250315]]></title>
-        <id>https://tv.naver.com/v/71986262</id>
-        <link href="https://tv.naver.com/v/71986262"/>
-        <updated>2025-03-15T12:37:17.430Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
