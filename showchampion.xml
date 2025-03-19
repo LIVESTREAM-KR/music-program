@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-19T07:22:33.819Z</updated>
+    <updated>2025-03-19T08:30:01.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더블유트웬티포(W24) - Seize The Day l 250319]]></title>
+        <id>https://tv.naver.com/v/72254219</id>
+        <link href="https://tv.naver.com/v/72254219"/>
+        <updated>2025-03-19T08:29:50.092Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠블루(GENBLUE) - ACT LIKE THAT l 250319]]></title>
+        <id>https://tv.naver.com/v/72254214</id>
+        <link href="https://tv.naver.com/v/72254214"/>
+        <updated>2025-03-19T08:29:50.094Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건우(GUNWOO) - SHOT l 250319]]></title>
+        <id>https://tv.naver.com/v/72254213</id>
+        <link href="https://tv.naver.com/v/72254213"/>
+        <updated>2025-03-19T08:29:50.096Z</updated>
+        <content type="html"><![CDATA[02:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[['출챔'합니다] SHOW CHAMPION 547회! '출챔 인증'할 오늘의 라인업은?❤ l 250319]]></title>
+        <id>https://tv.naver.com/v/72253376</id>
+        <link href="https://tv.naver.com/v/72253376"/>
+        <updated>2025-03-19T08:29:50.097Z</updated>
+        <content type="html"><![CDATA[02:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 이번 주 쇼챔이 이렇게 기대될 줄 몰랐어]]></title>
         <id>https://tv.naver.com/v/72076256</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/71769928"/>
         <updated>2025-03-12T13:30:31.192Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] GENBLUE Yuan(젠블루 위엔) - ACT LIKE THAT | Show Champion | EP.546 | 250312]]></title>
-        <id>https://tv.naver.com/v/71769924</id>
-        <link href="https://tv.naver.com/v/71769924"/>
-        <updated>2025-03-12T13:30:31.192Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] GENBLUE Nico(젠블루 니코) - ACT LIKE THAT | Show Champion | EP.546 | 250312]]></title>
-        <id>https://tv.naver.com/v/71759878</id>
-        <link href="https://tv.naver.com/v/71759878"/>
-        <updated>2025-03-12T13:30:31.192Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] GENBLUE XXIN(젠블루 씬) - ACT LIKE THAT | Show Champion | EP.546 | 250312]]></title>
-        <id>https://tv.naver.com/v/71759386</id>
-        <link href="https://tv.naver.com/v/71759386"/>
-        <updated>2025-03-12T13:30:31.195Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] YOUNG POSSE(영파씨) - COLD (YPS Colder Ver.) | Show Champion | EP.546 | 250312]]></title>
-        <id>https://tv.naver.com/v/71735618</id>
-        <link href="https://tv.naver.com/v/71735618"/>
-        <updated>2025-03-12T13:30:31.196Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
