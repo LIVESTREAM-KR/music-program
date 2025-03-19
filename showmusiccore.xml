@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-19T03:35:27.721Z</updated>
+    <updated>2025-03-19T04:26:14.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCkpop] LE SSERAFIM.zip 📂 EASY부터 HOT까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/72090886</id>
+        <link href="https://tv.naver.com/v/72090886"/>
+        <updated>2025-03-19T04:25:04.965Z</updated>
+        <content type="html"><![CDATA[19:20]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] HOSHI x WOOZI HOSHI (호시X우지 호시) – STUPID IDIOT | 쇼! 음악중심 | MBC250315]]></title>
         <id>https://tv.naver.com/v/72182935</id>
         <link href="https://tv.naver.com/v/72182935"/>
         <updated>2025-03-18T11:18:23.164Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] ILLIT IROHA (아일릿 이로하) – Almond Chocolate (Korean ver.) FanCam | 쇼! 음악중심 | MBC250315]]></title>
-        <id>https://tv.naver.com/v/72182932</id>
-        <link href="https://tv.naver.com/v/72182932"/>
-        <updated>2025-03-18T11:18:23.165Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
