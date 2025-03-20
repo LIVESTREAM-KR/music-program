@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-20T01:42:03.451Z</updated>
+    <updated>2025-03-20T02:58:47.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3월 3주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.547 | 250319]]></title>
+        <id>https://tv.naver.com/v/72261724</id>
+        <link href="https://tv.naver.com/v/72261724"/>
+        <updated>2025-03-20T02:58:31.292Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] SAY MY NAME(세이마이네임) - 1,2,3,4 | Show Champion | EP.547 | 250319]]></title>
         <id>https://tv.naver.com/v/72242703</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72216318"/>
         <updated>2025-03-19T13:30:36.826Z</updated>
         <content type="html"><![CDATA[03:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] GENBLUE(젠블루) - ACT LIKE THAT | Show Champion | EP.547 | 250319]]></title>
-        <id>https://tv.naver.com/v/72225440</id>
-        <link href="https://tv.naver.com/v/72225440"/>
-        <updated>2025-03-19T13:30:36.827Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
