@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-20T06:30:30.370Z</updated>
+    <updated>2025-03-20T07:20:44.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[03:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCkpop] ILLIT(아일릿).zip 📂 Magnetic부터 Almond Chocolate까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/72277458</id>
+        <link href="https://tv.naver.com/v/72277458"/>
+        <updated>2025-03-20T07:20:05.140Z</updated>
+        <content type="html"><![CDATA[18:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] XODIAC (소디엑) – TIME 2 SHINE | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/72180532</id>
         <link href="https://tv.naver.com/v/72180532"/>
         <updated>2025-03-19T07:21:46.400Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MBCkpop] LE SSERAFIM.zip 📂 EASY부터 HOT까지 | Show! MusicCore]]></title>
-        <id>https://tv.naver.com/v/72090886</id>
-        <link href="https://tv.naver.com/v/72090886"/>
-        <updated>2025-03-19T04:25:04.965Z</updated>
-        <content type="html"><![CDATA[19:20]]></content>
     </entry>
 </feed>
