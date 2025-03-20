@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-03-20T11:19:15.376Z</updated>
+    <updated>2025-03-20T12:41:26.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슬기 (SEULGI) - Baby, Not Baby | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72345078</id>
+        <link href="https://tv.naver.com/v/72345078"/>
+        <updated>2025-03-20T12:41:01.967Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['단독 공개' 마크 (MARK) - +82 Pressin’ (Feat. 해찬) | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72343615</id>
+        <link href="https://tv.naver.com/v/72343615"/>
+        <updated>2025-03-20T12:41:01.968Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 더보이즈(THE BOYZ) - VVV | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72343219</id>
+        <link href="https://tv.naver.com/v/72343219"/>
+        <updated>2025-03-20T12:41:01.970Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예지 (ITZY) - Air | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72343214</id>
+        <link href="https://tv.naver.com/v/72343214"/>
+        <updated>2025-03-20T12:41:01.971Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' 더보이즈 (THE BOYZ) | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72343211</id>
+        <link href="https://tv.naver.com/v/72343211"/>
+        <updated>2025-03-20T12:41:01.973Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE(트레저) - YELLOW | Mnet 250320 방송]]></title>
         <id>https://tv.naver.com/v/72342621</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/72341555"/>
         <updated>2025-03-20T11:18:52.452Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' 마크 (MARK) - 프락치 (Fraktsiya) (Feat. 이영지) | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72341236</id>
-        <link href="https://tv.naver.com/v/72341236"/>
-        <updated>2025-03-20T11:18:52.454Z</updated>
-        <content type="html"><![CDATA[04:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' STAYC(스테이씨) | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72341232</id>
-        <link href="https://tv.naver.com/v/72341232"/>
-        <updated>2025-03-20T11:18:52.456Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - HOT | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72340734</id>
-        <link href="https://tv.naver.com/v/72340734"/>
-        <updated>2025-03-20T11:18:52.459Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - Come Over | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72340373</id>
-        <link href="https://tv.naver.com/v/72340373"/>
-        <updated>2025-03-20T11:18:52.460Z</updated>
-        <content type="html"><![CDATA[02:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 에일리(Ailee) - MMI | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72340368</id>
-        <link href="https://tv.naver.com/v/72340368"/>
-        <updated>2025-03-20T11:18:52.462Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
     </entry>
 </feed>
