@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-03-23T08:25:45.430Z</updated>
+    <updated>2025-03-23T09:20:52.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['소개팅' 2라운드 무대 - 곰인형, MBC 250323 방송]]></title>
+        <id>https://tv.naver.com/v/72528605</id>
+        <link href="https://tv.naver.com/v/72528605"/>
+        <updated>2025-03-23T09:20:52.147Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《스페셜》 예능까지 잘하는 대한민국 6호 프리미어리거⚽ 전 축구 선수 조원희 하이라이트!, MBC 250316 방송]]></title>
         <id>https://tv.naver.com/v/72167519</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72033673"/>
         <updated>2025-03-16T11:18:18.277Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[챌린지 고수 '황도'가 선보이는 챌린지 댄스 메들리🎵, MBC 250316 방송]]></title>
-        <id>https://tv.naver.com/v/72033509</id>
-        <link href="https://tv.naver.com/v/72033509"/>
-        <updated>2025-03-16T11:18:18.278Z</updated>
-        <content type="html"><![CDATA[01:19]]></content>
     </entry>
 </feed>
