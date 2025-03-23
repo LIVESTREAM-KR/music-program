@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-03-23T07:19:19.937Z</updated>
+    <updated>2025-03-23T08:25:45.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://tv.naver.com/v/72479702"/>
         <updated>2025-03-22T11:17:30.395Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 토크 폭주기관차! 꿀잼보장🔥 작사 · 작곡가 윤명선 편 2부🌟 | KBS 250322 방송]]></title>
-        <id>https://tv.naver.com/v/72479692</id>
-        <link href="https://tv.naver.com/v/72479692"/>
-        <updated>2025-03-22T11:17:30.395Z</updated>
-        <content type="html"><![CDATA[00:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[의외로 풋풋함이 느껴졌던 조째즈 무대✨ 후배 기강 잡는 크래비티🤣 | KBS 250322 방송]]></title>
@@ -74,5 +67,12 @@
         <link href="https://tv.naver.com/v/72477937"/>
         <updated>2025-03-22T11:17:30.406Z</updated>
         <content type="html"><![CDATA[01:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자동으로 미니홈피 BGM이 떠오르는 무대...★ 매니저에서 작곡가가 된 계기? | KBS 250322 방송]]></title>
+        <id>https://tv.naver.com/v/72477649</id>
+        <link href="https://tv.naver.com/v/72477649"/>
+        <updated>2025-03-23T08:25:38.910Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
     </entry>
 </feed>
