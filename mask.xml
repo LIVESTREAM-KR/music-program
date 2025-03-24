@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-03-24T05:21:53.957Z</updated>
+    <updated>2025-03-24T06:31:53.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 30번째 장기집권 가왕의 저력💙 목소리에서 향기 나는 가왕 '꽃보다 향수' 노래 모음집💐| #꽃보다향수 MBC250316]]></title>
+        <id>https://tv.naver.com/v/72583361</id>
+        <link href="https://tv.naver.com/v/72583361"/>
+        <updated>2025-03-24T06:31:52.843Z</updated>
+        <content type="html"><![CDATA[32:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[488회 예고] 단단한 가왕의 벽을 뚫을 8인의 새싹🌱 역대급 초접전 속 7연승 가왕이 될 수 있을지?👀, MBC 250330 방송]]></title>
         <id>https://tv.naver.com/v/72535687</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72531718"/>
         <updated>2025-03-23T10:21:20.976Z</updated>
         <content type="html"><![CDATA[01:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['노팅 힐' 2라운드 무대 - 언제나, MBC 250323 방송]]></title>
-        <id>https://tv.naver.com/v/72530943</id>
-        <link href="https://tv.naver.com/v/72530943"/>
-        <updated>2025-03-23T10:21:20.977Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
