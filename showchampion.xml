@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-24T09:24:51.783Z</updated>
+    <updated>2025-03-24T10:25:39.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나 쇼챔이 너~무 좋아❕ [예고]]]></title>
+        <id>https://tv.naver.com/v/72610878</id>
+        <link href="https://tv.naver.com/v/72610878"/>
+        <updated>2025-03-24T10:25:26.501Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3월 3주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.547 | 250319]]></title>
         <id>https://tv.naver.com/v/72261724</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72243121"/>
         <updated>2025-03-19T13:30:36.824Z</updated>
         <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] NouerA(누에라) - Bring the Crunk | Show Champion | EP.547 | 250319]]></title>
-        <id>https://tv.naver.com/v/72216318</id>
-        <link href="https://tv.naver.com/v/72216318"/>
-        <updated>2025-03-19T13:30:36.826Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
