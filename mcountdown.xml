@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-03-25T10:24:49.642Z</updated>
+    <updated>2025-03-25T11:19:52.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NMIXX가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/72695399</id>
+        <link href="https://tv.naver.com/v/72695399"/>
+        <updated>2025-03-25T11:19:24.704Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슬기 (SEULGI) - Baby, Not Baby | Mnet 250320 방송]]></title>
         <id>https://tv.naver.com/v/72345078</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72342234"/>
         <updated>2025-03-20T11:18:52.450Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NMIXX - High Horse | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72341555</id>
-        <link href="https://tv.naver.com/v/72341555"/>
-        <updated>2025-03-20T11:18:52.452Z</updated>
-        <content type="html"><![CDATA[03:44]]></content>
     </entry>
 </feed>
