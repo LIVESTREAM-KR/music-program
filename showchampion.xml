@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-26T10:24:18.810Z</updated>
+    <updated>2025-03-26T11:18:54.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[최초공개] 엑스디너리히어로즈(Xdinary Heroes) - Beautiful Life l 250326]]></title>
-        <id>https://tv.naver.com/v/72777185</id>
-        <link href="https://tv.naver.com/v/72777185"/>
-        <updated>2025-03-26T10:24:04.826Z</updated>
-        <content type="html"><![CDATA[05:30]]></content>
+        <title type="html"><![CDATA[[쇼챔 1위] 3월 4주 챔피언송 ＜NMIXX - KNOW ABOUT ME＞ 앵콜 Full ver. l Show Champion l EP.548 l 250326]]></title>
+        <id>https://tv.naver.com/v/72781833</id>
+        <link href="https://tv.naver.com/v/72781833"/>
+        <updated>2025-03-26T11:18:43.094Z</updated>
+        <content type="html"><![CDATA[04:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[최초공개] 엑스디너리히어로즈(Xdinary Heroes) - Diamond l 250326]]></title>
-        <id>https://tv.naver.com/v/72777175</id>
-        <link href="https://tv.naver.com/v/72777175"/>
-        <updated>2025-03-26T10:24:04.829Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
+        <title type="html"><![CDATA[3월 4주 차 쇼챔피언 ＜금동현 & 가온＞ MC 컷 모음📁 | Show Champion | EP.548 | 250326]]></title>
+        <id>https://tv.naver.com/v/72780502</id>
+        <link href="https://tv.naver.com/v/72780502"/>
+        <updated>2025-03-26T11:18:43.094Z</updated>
+        <content type="html"><![CDATA[04:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최초공개] Xdinary Heroes (엑스디너리히어로즈) - Diamond+Beautiful Life l 250326]]></title>
+        <id>https://tv.naver.com/v/72779820</id>
+        <link href="https://tv.naver.com/v/72779820"/>
+        <updated>2025-03-26T11:18:43.096Z</updated>
+        <content type="html"><![CDATA[08:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[COMEBACK] 엔믹스(NMIXX) - KNOW ABOUT ME l 250326]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72773406"/>
         <updated>2025-03-26T09:24:19.188Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세이마이네임(SAY MY NAME) - ShaLala l 250326]]></title>
-        <id>https://tv.naver.com/v/72772950</id>
-        <link href="https://tv.naver.com/v/72772950"/>
-        <updated>2025-03-26T09:24:19.192Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
 </feed>
