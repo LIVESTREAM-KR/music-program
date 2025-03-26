@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-26T03:37:07.554Z</updated>
+    <updated>2025-03-26T04:26:22.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[쇼챔직캠 4K] FANTASY BOYS HONG SUNGMIN(판타지 보이즈 홍성민) - Undeniable | Show Champion | EP.548 | 250326]]></title>
+        <id>https://tv.naver.com/v/72744027</id>
+        <link href="https://tv.naver.com/v/72744027"/>
+        <updated>2025-03-26T04:26:09.272Z</updated>
+        <content type="html"><![CDATA[03:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나 쇼챔이 너~무 좋아❕ [예고]]]></title>
         <id>https://tv.naver.com/v/72610878</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72243662"/>
         <updated>2025-03-19T13:30:36.822Z</updated>
         <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔 원픽캠 4K] SAY MY NAME HITOMI(세이마이네임 히토미) - 1,2,3,4 | Show Champion | EP.547 | 250319]]></title>
-        <id>https://tv.naver.com/v/72243121</id>
-        <link href="https://tv.naver.com/v/72243121"/>
-        <updated>2025-03-19T13:30:36.824Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
     </entry>
 </feed>
