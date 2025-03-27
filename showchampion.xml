@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-03-27T01:43:30.994Z</updated>
+    <updated>2025-03-27T03:01:06.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[STAGE CHAMPION] SHOW CHAMPION 547회 BEST CLIP TOP3✨ l 250326]]></title>
+        <id>https://tv.naver.com/v/72820748</id>
+        <link href="https://tv.naver.com/v/72820748"/>
+        <updated>2025-03-27T03:00:54.229Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] SAY MY NAME(세이마이네임) - ShaLala | Show Champion | EP.548 | 250326]]></title>
         <id>https://tv.naver.com/v/72763793</id>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/72739759</id>
         <link href="https://tv.naver.com/v/72739759"/>
         <updated>2025-03-26T13:31:11.925Z</updated>
-        <content type="html"><![CDATA[08:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Xdinary Heroes 가온 - Diamond + Beautiful Life | Show Champion | EP.548 | 250326]]></title>
-        <id>https://tv.naver.com/v/72738711</id>
-        <link href="https://tv.naver.com/v/72738711"/>
-        <updated>2025-03-26T13:31:11.926Z</updated>
         <content type="html"><![CDATA[08:18]]></content>
     </entry>
 </feed>
