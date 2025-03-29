@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-03-29T11:18:03.733Z</updated>
+    <updated>2025-03-29T12:39:06.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 전설이 보내는 초대장! 불후의 명곡 700회 특집🌟 | KBS 250329 방송]]></title>
+        <id>https://tv.naver.com/v/73009447</id>
+        <link href="https://tv.naver.com/v/73009447"/>
+        <updated>2025-03-29T12:39:00.623Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[16살 차이를 극복한 국악 케미🌟 드디어 연예인 인정받은(?) 최수호😆  | KBS 250329 방송]]></title>
         <id>https://tv.naver.com/v/73009201</id>
@@ -62,17 +69,10 @@
         <content type="html"><![CDATA[05:03]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피날레의 감동 담은 라포엠의 선곡! 아티스트로 만났던 신유와 정면 대결🔥 | KBS 250329 방송]]></title>
+        <title type="html"><![CDATA[피날레의 감동 담은 라포엠의 선곡! 아티스트로 만났던 신유와 정면 대결 | KBS 250329 방송]]></title>
         <id>https://tv.naver.com/v/73007228</id>
         <link href="https://tv.naver.com/v/73007228"/>
         <updated>2025-03-29T11:17:56.435Z</updated>
         <content type="html"><![CDATA[02:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신유 (Shin Yu) - 까만안경 | KBS 250329 방송]]></title>
-        <id>https://tv.naver.com/v/73007226</id>
-        <link href="https://tv.naver.com/v/73007226"/>
-        <updated>2025-03-29T11:17:56.437Z</updated>
-        <content type="html"><![CDATA[06:07]]></content>
     </entry>
 </feed>
