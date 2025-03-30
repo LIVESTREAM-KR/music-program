@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-03-30T07:21:40.204Z</updated>
+    <updated>2025-03-30T08:26:24.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250330 방송]]></title>
+        <id>https://tv.naver.com/v/73051679</id>
+        <link href="https://tv.naver.com/v/73051679"/>
+        <updated>2025-03-30T08:25:44.288Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텐 (TEN) - BAMBOLA | SBS 250330 방송]]></title>
+        <id>https://tv.naver.com/v/73051394</id>
+        <link href="https://tv.naver.com/v/73051394"/>
+        <updated>2025-03-30T08:25:44.289Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC - BEBE | SBS 250330 방송]]></title>
+        <id>https://tv.naver.com/v/73051117</id>
+        <link href="https://tv.naver.com/v/73051117"/>
+        <updated>2025-03-30T08:25:44.290Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes - Beautiful Life | SBS 250330 방송]]></title>
+        <id>https://tv.naver.com/v/73050854</id>
+        <link href="https://tv.naver.com/v/73050854"/>
+        <updated>2025-03-30T08:25:44.292Z</updated>
+        <content type="html"><![CDATA[04:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - KNOW ABOUT ME | SBS 250330 방송]]></title>
+        <id>https://tv.naver.com/v/73050565</id>
+        <link href="https://tv.naver.com/v/73050565"/>
+        <updated>2025-03-30T08:25:44.295Z</updated>
+        <content type="html"><![CDATA[02:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TNX - 아 진짜 (For Real?) | SBS 250330 방송]]></title>
+        <id>https://tv.naver.com/v/73050276</id>
+        <link href="https://tv.naver.com/v/73050276"/>
+        <updated>2025-03-30T08:25:44.296Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더윈드 (The Wind) - Only One | SBS 250330 방송]]></title>
         <id>https://tv.naver.com/v/73049970</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/73048977"/>
         <updated>2025-03-30T07:21:08.337Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAY MY NAME - ShaLala | SBS 250330 방송]]></title>
-        <id>https://tv.naver.com/v/73048972</id>
-        <link href="https://tv.naver.com/v/73048972"/>
-        <updated>2025-03-30T07:21:08.338Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규빈(Gyubin) - LIKE U 100 | SBS 250330 방송]]></title>
-        <id>https://tv.naver.com/v/73048718</id>
-        <link href="https://tv.naver.com/v/73048718"/>
-        <updated>2025-03-30T07:21:08.339Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신의진 - 이별찬가 (離別讚歌) | SBS 250330 방송]]></title>
-        <id>https://tv.naver.com/v/73048325</id>
-        <link href="https://tv.naver.com/v/73048325"/>
-        <updated>2025-03-30T07:21:08.340Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEWBEAT - Flip the Coin | SBS 250330 방송]]></title>
-        <id>https://tv.naver.com/v/73048028</id>
-        <link href="https://tv.naver.com/v/73048028"/>
-        <updated>2025-03-30T07:21:08.342Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE OR EIGHT - DSTM | SBS 250330 방송]]></title>
-        <id>https://tv.naver.com/v/73047784</id>
-        <link href="https://tv.naver.com/v/73047784"/>
-        <updated>2025-03-30T07:21:08.343Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤서령 - 슬픈 가야금 | SBS 250330 방송]]></title>
-        <id>https://tv.naver.com/v/73047421</id>
-        <link href="https://tv.naver.com/v/73047421"/>
-        <updated>2025-03-30T07:21:08.344Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
