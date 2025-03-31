@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-03-31T07:23:35.922Z</updated>
+    <updated>2025-03-31T08:30:55.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 듣는 순간 빠져드는 감성의 명곡 제조기✨ 싱어송라이터 라디 하이라이트!, MBC 250330 방송]]></title>
+        <id>https://tv.naver.com/v/73126316</id>
+        <link href="https://tv.naver.com/v/73126316"/>
+        <updated>2025-03-31T08:30:54.418Z</updated>
+        <content type="html"><![CDATA[09:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 시선을 사로잡는 비주얼 래퍼💙 루네이트 카엘 하이라이트!, MBC 250330 방송]]></title>
+        <id>https://tv.naver.com/v/73126313</id>
+        <link href="https://tv.naver.com/v/73126313"/>
+        <updated>2025-03-31T08:30:54.418Z</updated>
+        <content type="html"><![CDATA[09:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 임우일 울린 감동의 듀엣😭나는 반딧불 리메이크 장본인 황가람X원곡자 정중식의 무대🌟 | #정중식 #나는반딧불 MBC250330]]></title>
         <id>https://tv.naver.com/v/73109157</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/73060338"/>
         <updated>2025-03-30T11:18:07.893Z</updated>
         <content type="html"><![CDATA[01:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['월남쌈' VS '신선로'의 1라운드 무대 - 만약에 말야, MBC 250330 방송]]></title>
-        <id>https://tv.naver.com/v/73059864</id>
-        <link href="https://tv.naver.com/v/73059864"/>
-        <updated>2025-03-30T10:21:38.108Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정중식X황가람의 감동 듀엣! ＜나는 반딧불＞ LIVE🎤, MBC 250330 방송]]></title>
-        <id>https://tv.naver.com/v/73059623</id>
-        <link href="https://tv.naver.com/v/73059623"/>
-        <updated>2025-03-30T10:21:38.109Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
     </entry>
 </feed>
