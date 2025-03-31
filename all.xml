@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-31T14:22:40.060Z</updated>
+    <updated>2025-03-31T15:24:25.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HOT - LE SSERAFIM (르세라핌) | KBS 250321 방송 (뮤직뱅크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ YOUNGHOON (더보이즈 영훈) – VVV | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73148431</id>
+        <link href="https://tv.naver.com/v/73148431"/>
+        <updated>2025-03-31T15:23:42.941Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) – VVV | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/73149041</id>
         <link href="https://tv.naver.com/v/73149041"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/73096772"/>
         <updated>2025-03-31T03:08:43.742Z</updated>
         <content type="html"><![CDATA[17:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – HOT | 쇼! 음악중심 | MBC250315 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/72122876</id>
-        <link href="https://tv.naver.com/v/72122876"/>
-        <updated>2025-03-18T06:30:26.835Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250330 방송 (인기가요)]]></title>
