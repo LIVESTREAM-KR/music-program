@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-03-31T01:49:23.207Z</updated>
+    <updated>2025-03-31T03:09:17.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《스페셜》 방지민(izna) X 민제(KickFlip) X 이솔(KiiiKiii) , 3월 다섯째 주 음악중심 MC 컷 모음!, MBC 250329 방송]]></title>
+        <id>https://tv.naver.com/v/73096772</id>
+        <link href="https://tv.naver.com/v/73096772"/>
+        <updated>2025-03-31T03:08:43.742Z</updated>
+        <content type="html"><![CDATA[17:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] LE SSERAFIM SAKURA (르세라핌 사쿠라) – HOT | 쇼! 음악중심 | MBC250315]]></title>
         <id>https://tv.naver.com/v/72122876</id>
         <link href="https://tv.naver.com/v/72122876"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73008055"/>
         <updated>2025-03-29T11:17:23.447Z</updated>
         <content type="html"><![CDATA[04:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] STAYC SUMIN (스테이씨 수민) – BEBE FanCam | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73008054</id>
-        <link href="https://tv.naver.com/v/73008054"/>
-        <updated>2025-03-29T11:17:23.448Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
