@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-31T12:43:37.659Z</updated>
+    <updated>2025-03-31T13:31:33.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HOT - LE SSERAFIM (르세라핌) | KBS 250321 방송 (뮤직뱅크)]]></title>
@@ -110,6 +110,27 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) – VVV | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73149041</id>
+        <link href="https://tv.naver.com/v/73149041"/>
+        <updated>2025-03-31T13:30:54.774Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ SUNWOO (더보이즈 선우) – VVV | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73149037</id>
+        <link href="https://tv.naver.com/v/73149037"/>
+        <updated>2025-03-31T13:30:54.776Z</updated>
+        <content type="html"><![CDATA[04:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ HYUNJAE (더보이즈 현재) – VVV | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73148437</id>
+        <link href="https://tv.naver.com/v/73148437"/>
+        <updated>2025-03-31T13:30:54.778Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 방지민(izna) X 민제(KickFlip) X 이솔(KiiiKiii) , 3월 다섯째 주 음악중심 MC 컷 모음!, MBC 250329 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/73096772</id>
         <link href="https://tv.naver.com/v/73096772"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/72122876"/>
         <updated>2025-03-18T06:30:26.835Z</updated>
         <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Xdinary Heroes GAON (엑스디너리 히어로즈 가온) – Beautiful Life FanCam | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73008666</id>
-        <link href="https://tv.naver.com/v/73008666"/>
-        <updated>2025-03-29T11:17:23.444Z</updated>
-        <content type="html"><![CDATA[04:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] Xdinary Heroes (엑스디너리 히어로즈) – Beautiful Life FullCam | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73008246</id>
-        <link href="https://tv.naver.com/v/73008246"/>
-        <updated>2025-03-29T11:17:23.445Z</updated>
-        <content type="html"><![CDATA[05:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] Xdinary Heroes JOOYEON (엑스디너리 히어로즈 주연) – Beautiful Life FanCam | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73008055</id>
-        <link href="https://tv.naver.com/v/73008055"/>
-        <updated>2025-03-29T11:17:23.447Z</updated>
-        <content type="html"><![CDATA[04:49]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250330 방송 (인기가요)]]></title>
