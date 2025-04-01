@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-01T06:32:56.163Z</updated>
+    <updated>2025-04-01T07:23:11.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -42,6 +42,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX HAEWON (엔믹스 해원) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329]]></title>
+        <id>https://tv.naver.com/v/73196855</id>
+        <link href="https://tv.naver.com/v/73196855"/>
+        <updated>2025-04-01T07:22:28.715Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX HAEWON (엔믹스 해원) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329]]></title>
         <id>https://tv.naver.com/v/73198648</id>
         <link href="https://tv.naver.com/v/73198648"/>
         <updated>2025-04-01T06:32:16.238Z</updated>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73148431"/>
         <updated>2025-03-31T15:23:42.941Z</updated>
         <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) – VVV | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73149041</id>
-        <link href="https://tv.naver.com/v/73149041"/>
-        <updated>2025-03-31T13:30:54.774Z</updated>
-        <content type="html"><![CDATA[04:42]]></content>
     </entry>
 </feed>
