@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-01T05:22:55.187Z</updated>
+    <updated>2025-04-01T06:32:56.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,27 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX HAEWON (엔믹스 해원) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329]]></title>
+        <id>https://tv.naver.com/v/73198648</id>
+        <link href="https://tv.naver.com/v/73198648"/>
+        <updated>2025-04-01T06:32:16.238Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX BAE (엔믹스 배이) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329]]></title>
+        <id>https://tv.naver.com/v/73198640</id>
+        <link href="https://tv.naver.com/v/73198640"/>
+        <updated>2025-04-01T06:32:16.239Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON (엔믹스 설윤) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329]]></title>
+        <id>https://tv.naver.com/v/73198636</id>
+        <link href="https://tv.naver.com/v/73198636"/>
+        <updated>2025-04-01T06:32:16.241Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] THE BOYZ YOUNGHOON (더보이즈 영훈) – VVV | 쇼! 음악중심 | MBC250329]]></title>
         <id>https://tv.naver.com/v/73148431</id>
         <link href="https://tv.naver.com/v/73148431"/>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/73149041"/>
         <updated>2025-03-31T13:30:54.774Z</updated>
         <content type="html"><![CDATA[04:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ SUNWOO (더보이즈 선우) – VVV | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73149037</id>
-        <link href="https://tv.naver.com/v/73149037"/>
-        <updated>2025-03-31T13:30:54.776Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ HYUNJAE (더보이즈 현재) – VVV | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73148437</id>
-        <link href="https://tv.naver.com/v/73148437"/>
-        <updated>2025-03-31T13:30:54.778Z</updated>
-        <content type="html"><![CDATA[04:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 방지민(izna) X 민제(KickFlip) X 이솔(KiiiKiii) , 3월 다섯째 주 음악중심 MC 컷 모음!, MBC 250329 방송]]></title>
-        <id>https://tv.naver.com/v/73096772</id>
-        <link href="https://tv.naver.com/v/73096772"/>
-        <updated>2025-03-31T03:08:43.742Z</updated>
-        <content type="html"><![CDATA[17:28]]></content>
     </entry>
 </feed>
