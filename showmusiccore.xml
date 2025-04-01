@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-01T07:23:11.692Z</updated>
+    <updated>2025-04-01T08:29:54.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,20 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC SIEUN (스테이씨 시은) – BEBE | 쇼! 음악중심 | MBC250329]]></title>
+        <id>https://tv.naver.com/v/73208373</id>
+        <link href="https://tv.naver.com/v/73208373"/>
+        <updated>2025-04-01T08:29:12.877Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] STAYC ISA (스테이씨 아이사) – BEBE | 쇼! 음악중심 | MBC250329]]></title>
+        <id>https://tv.naver.com/v/73208300</id>
+        <link href="https://tv.naver.com/v/73208300"/>
+        <updated>2025-04-01T08:29:12.878Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NMIXX HAEWON (엔믹스 해원) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329]]></title>
         <id>https://tv.naver.com/v/73196855</id>
         <link href="https://tv.naver.com/v/73196855"/>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/73198640"/>
         <updated>2025-04-01T06:32:16.239Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NMIXX SULLYOON (엔믹스 설윤) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73198636</id>
-        <link href="https://tv.naver.com/v/73198636"/>
-        <updated>2025-04-01T06:32:16.241Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] THE BOYZ YOUNGHOON (더보이즈 영훈) – VVV | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73148431</id>
-        <link href="https://tv.naver.com/v/73148431"/>
-        <updated>2025-03-31T15:23:42.941Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
     </entry>
 </feed>
