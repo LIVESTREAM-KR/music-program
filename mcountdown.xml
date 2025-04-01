@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-04-01T11:20:07.961Z</updated>
+    <updated>2025-04-01T12:45:19.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/73230341</id>
+        <link href="https://tv.naver.com/v/73230341"/>
+        <updated>2025-04-01T12:44:53.574Z</updated>
+        <content type="html"><![CDATA[01:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 텐 (TEN) - STUNNER | Mnet 250327 방송]]></title>
         <id>https://tv.naver.com/v/72867570</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72865110"/>
         <updated>2025-03-27T12:43:39.521Z</updated>
         <content type="html"><![CDATA[05:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' PLAVE(플레이브) - Pink Venom (원곡：BLACKPINK) | Mnet 250327 방송]]></title>
-        <id>https://tv.naver.com/v/72863406</id>
-        <link href="https://tv.naver.com/v/72863406"/>
-        <updated>2025-03-27T11:18:22.934Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
     </entry>
 </feed>
