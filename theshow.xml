@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2025-04-01T10:25:37.590Z</updated>
+    <updated>2025-04-01T11:20:07.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TEN - THE SHOW CHOICE! [THE SHOW 250401]]]></title>
+        <id>https://tv.naver.com/v/73221514</id>
+        <link href="https://tv.naver.com/v/73221514"/>
+        <updated>2025-04-01T11:19:47.005Z</updated>
+        <content type="html"><![CDATA[05:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEN - STUNNER (텐, STUNNER) [THE SHOW 250401]]]></title>
+        <id>https://tv.naver.com/v/73220907</id>
+        <link href="https://tv.naver.com/v/73220907"/>
+        <updated>2025-04-01T11:19:47.005Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEN - BAMBOLA (텐, BAMBOLA) [THE SHOW 250401]]]></title>
+        <id>https://tv.naver.com/v/73220829</id>
+        <link href="https://tv.naver.com/v/73220829"/>
+        <updated>2025-04-01T11:19:47.007Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STAYC - BEBE (스테이씨, BEBE) [THE SHOW 250401]]]></title>
         <id>https://tv.naver.com/v/73220469</id>
@@ -53,26 +74,5 @@
         <link href="https://tv.naver.com/v/73218918"/>
         <updated>2025-04-01T10:25:18.449Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FANTASY BOYS - Undeniable [THE SHOW 250401]]]></title>
-        <id>https://tv.naver.com/v/73218526</id>
-        <link href="https://tv.naver.com/v/73218526"/>
-        <updated>2025-04-01T10:25:18.450Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTX - WASSUP [THE SHOW 250401]]]></title>
-        <id>https://tv.naver.com/v/73218524</id>
-        <link href="https://tv.naver.com/v/73218524"/>
-        <updated>2025-04-01T10:25:18.451Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔프Pick] MC샤오쥔 & 텐(TEN) [THE SHOW 250401]]]></title>
-        <id>https://tv.naver.com/v/73218281</id>
-        <link href="https://tv.naver.com/v/73218281"/>
-        <updated>2025-04-01T10:25:18.453Z</updated>
-        <content type="html"><![CDATA[04:35]]></content>
     </entry>
 </feed>
