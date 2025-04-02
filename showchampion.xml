@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-04-02T07:23:02.413Z</updated>
+    <updated>2025-04-02T08:30:10.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[['출챔'합니다] SHOW CHAMPION 549회! '출챔 인증'할 오늘의 라인업은?❤ l 250402]]></title>
+        <id>https://tv.naver.com/v/73297903</id>
+        <link href="https://tv.naver.com/v/73297903"/>
+        <updated>2025-04-02T08:29:54.300Z</updated>
+        <content type="html"><![CDATA[01:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 드럼캠] Xdinary Heroes 건일 - Diamond + Beautiful Life (드럼캠ver.) l Show Champion l EP.548 l 250326]]></title>
         <id>https://tv.naver.com/v/73192766</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/72764612"/>
         <updated>2025-03-26T13:31:11.919Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] Xdinary Heroes(엑스디너리 히어로즈) - Diamond + Beautiful Life | Show Champion | EP.548 | 250326]]></title>
-        <id>https://tv.naver.com/v/72732647</id>
-        <link href="https://tv.naver.com/v/72732647"/>
-        <updated>2025-03-26T13:31:11.922Z</updated>
-        <content type="html"><![CDATA[08:33]]></content>
     </entry>
 </feed>

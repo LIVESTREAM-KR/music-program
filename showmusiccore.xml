@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-02T07:23:02.373Z</updated>
+    <updated>2025-04-02T08:30:09.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] LE SSERAFIM (르세라핌) – HOT | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/73292615</id>
+        <link href="https://tv.naver.com/v/73292615"/>
+        <updated>2025-04-02T08:29:25.189Z</updated>
+        <content type="html"><![CDATA[03:01]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[MBCKPOP] STAYC (스테이씨).zip 📂 SO BAD부터 BEBE까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/73237359</id>
         <link href="https://tv.naver.com/v/73237359"/>
@@ -66,13 +73,6 @@
         <id>https://tv.naver.com/v/73196855</id>
         <link href="https://tv.naver.com/v/73196855"/>
         <updated>2025-04-01T07:22:28.715Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NMIXX HAEWON (엔믹스 해원) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73198648</id>
-        <link href="https://tv.naver.com/v/73198648"/>
-        <updated>2025-04-01T06:32:16.238Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
