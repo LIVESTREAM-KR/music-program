@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-02T05:23:20.142Z</updated>
+    <updated>2025-04-02T06:31:32.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HOT - LE SSERAFIM (르세라핌) | KBS 250321 방송 (뮤직뱅크)]]></title>
@@ -110,6 +110,13 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCKPOP] STAYC (스테이씨).zip 📂 SO BAD부터 BEBE까지 | Show! MusicCore (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73237359</id>
+        <link href="https://tv.naver.com/v/73237359"/>
+        <updated>2025-04-02T06:30:53.631Z</updated>
+        <content type="html"><![CDATA[49:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] STAYC SIEUN (스테이씨 시은) – BEBE | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/73208373</id>
         <link href="https://tv.naver.com/v/73208373"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/73198648"/>
         <updated>2025-04-01T06:32:16.238Z</updated>
         <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NMIXX BAE (엔믹스 배이) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73198640</id>
-        <link href="https://tv.naver.com/v/73198640"/>
-        <updated>2025-04-01T06:32:16.239Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250330 방송 (인기가요)]]></title>
