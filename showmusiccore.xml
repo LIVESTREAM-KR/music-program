@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-03T05:21:54.881Z</updated>
+    <updated>2025-04-03T06:32:31.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[MBCkpop] NMIXX.zip 📂 O.O부터 KNOW ABOUT ME까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/73295648</id>
+        <link href="https://tv.naver.com/v/73295648"/>
+        <updated>2025-04-03T06:31:53.814Z</updated>
+        <content type="html"><![CDATA[41:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] LE SSERAFIM (르세라핌) – HOT | 쇼! 음악중심]]></title>
         <id>https://tv.naver.com/v/73292615</id>
         <link href="https://tv.naver.com/v/73292615"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73208300"/>
         <updated>2025-04-01T08:29:12.878Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NMIXX HAEWON (엔믹스 해원) – KNOW ABOUT ME | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73196855</id>
-        <link href="https://tv.naver.com/v/73196855"/>
-        <updated>2025-04-01T07:22:28.715Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
