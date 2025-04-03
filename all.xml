@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-03T10:24:37.320Z</updated>
+    <updated>2025-04-03T11:19:43.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HOT - LE SSERAFIM (르세라핌) | KBS 250321 방송 (뮤직뱅크)]]></title>
@@ -215,6 +215,34 @@
         <content type="html"><![CDATA[03:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[더윈드(The Wind) - Only One | Mnet 250403 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73385783</id>
+        <link href="https://tv.naver.com/v/73385783"/>
+        <updated>2025-04-03T11:19:15.025Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FANTASY BOYS - Undeniable | Mnet 250403 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73385767</id>
+        <link href="https://tv.naver.com/v/73385767"/>
+        <updated>2025-04-03T11:19:15.027Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['엠카 매점' 말랑짤 거래하실 분 있나요? 💗STAYC・ Xdinary Heroes ・ NMIXX ・ KiiiKiii💗 | Mnet 250403 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73384670</id>
+        <link href="https://tv.naver.com/v/73384670"/>
+        <updated>2025-04-03T11:19:15.028Z</updated>
+        <content type="html"><![CDATA[05:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HOT DEBUT' CLOSE YOUR EYES - 내 안의 모든 시와 소설은 | Mnet 250403 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73384662</id>
+        <link href="https://tv.naver.com/v/73384662"/>
+        <updated>2025-04-03T11:19:15.031Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NEWBEAT(뉴비트) - Flip the Coin | Mnet 250403 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/73383303</id>
         <link href="https://tv.naver.com/v/73383303"/>
@@ -254,34 +282,6 @@
         <id>https://tv.naver.com/v/72867570</id>
         <link href="https://tv.naver.com/v/72867570"/>
         <updated>2025-03-27T12:43:39.511Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 텐 (TEN) - BAMBOLA | Mnet 250327 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72867207</id>
-        <link href="https://tv.naver.com/v/72867207"/>
-        <updated>2025-03-27T12:43:39.514Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['단독 공개' 정은지, 서인국 - 커플 (Couple) | Mnet 250327 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72867194</id>
-        <link href="https://tv.naver.com/v/72867194"/>
-        <updated>2025-03-27T12:43:39.515Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) - VVV | Mnet 250327 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72866556</id>
-        <link href="https://tv.naver.com/v/72866556"/>
-        <updated>2025-03-27T12:43:39.515Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인터뷰' 정은지(Jeong Eun Ji), 서인국(Seo In Guk) | Mnet 250327 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72866145</id>
-        <link href="https://tv.naver.com/v/72866145"/>
-        <updated>2025-03-27T12:43:39.516Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
