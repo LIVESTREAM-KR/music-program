@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-04-03T09:24:15.509Z</updated>
+    <updated>2025-04-03T10:24:37.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NEWBEAT(뉴비트) - Flip the Coin | Mnet 250403 방송]]></title>
+        <id>https://tv.naver.com/v/73383303</id>
+        <link href="https://tv.naver.com/v/73383303"/>
+        <updated>2025-04-03T10:24:15.003Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' CLOSE YOUR EYES | Mnet 250403 방송]]></title>
+        <id>https://tv.naver.com/v/73380996</id>
+        <link href="https://tv.naver.com/v/73380996"/>
+        <updated>2025-04-03T10:24:15.006Z</updated>
+        <content type="html"><![CDATA[03:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE OR EIGHT - DSTM | Mnet 250403 방송]]></title>
+        <id>https://tv.naver.com/v/73380995</id>
+        <link href="https://tv.naver.com/v/73380995"/>
+        <updated>2025-04-03T10:24:15.007Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이젤(EJel) - 봄은 내 안티 | Mnet 250403 방송]]></title>
+        <id>https://tv.naver.com/v/73380232</id>
+        <link href="https://tv.naver.com/v/73380232"/>
+        <updated>2025-04-03T10:24:15.008Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xdinary Heroes가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/73230341</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/72866145"/>
         <updated>2025-03-27T12:43:39.516Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC(스테이씨) - BEBE | Mnet 250327 방송]]></title>
-        <id>https://tv.naver.com/v/72866139</id>
-        <link href="https://tv.naver.com/v/72866139"/>
-        <updated>2025-03-27T12:43:39.517Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' Xdinary Heroes - Beautiful Life | Mnet 250327 방송]]></title>
-        <id>https://tv.naver.com/v/72865454</id>
-        <link href="https://tv.naver.com/v/72865454"/>
-        <updated>2025-03-27T12:43:39.519Z</updated>
-        <content type="html"><![CDATA[04:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX - KNOW ABOUT ME | Mnet 250327 방송]]></title>
-        <id>https://tv.naver.com/v/72865449</id>
-        <link href="https://tv.naver.com/v/72865449"/>
-        <updated>2025-03-27T12:43:39.520Z</updated>
-        <content type="html"><![CDATA[02:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['소년소녀 엠카백서' 준규&규진과 함께하는 상큼발랄 차트쇼! | Mnet 250327 방송]]></title>
-        <id>https://tv.naver.com/v/72865110</id>
-        <link href="https://tv.naver.com/v/72865110"/>
-        <updated>2025-03-27T12:43:39.521Z</updated>
-        <content type="html"><![CDATA[05:29]]></content>
     </entry>
 </feed>
