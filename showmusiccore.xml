@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-03T08:30:55.470Z</updated>
+    <updated>2025-04-03T09:24:15.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,20 @@
         <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Xdinary Heroes (엑스디너리 히어로즈).zip 📂 Happy Death Day부터 Beautiful Life까지 | Show! MusicCore]]></title>
+        <id>https://tv.naver.com/v/73306533</id>
+        <link href="https://tv.naver.com/v/73306533"/>
+        <updated>2025-04-03T09:23:34.876Z</updated>
+        <content type="html"><![CDATA[29:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[STAGE MIX🪄] Apink(에이핑크) – Mr. Chu | 쇼! 음악중심]]></title>
+        <id>https://tv.naver.com/v/73302649</id>
+        <link href="https://tv.naver.com/v/73302649"/>
+        <updated>2025-04-03T09:23:34.876Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[MBCkpop] NMIXX.zip 📂 O.O부터 KNOW ABOUT ME까지 | Show! MusicCore]]></title>
         <id>https://tv.naver.com/v/73295648</id>
         <link href="https://tv.naver.com/v/73295648"/>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/73237359"/>
         <updated>2025-04-02T06:30:53.631Z</updated>
         <content type="html"><![CDATA[49:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] STAYC SIEUN (스테이씨 시은) – BEBE | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73208373</id>
-        <link href="https://tv.naver.com/v/73208373"/>
-        <updated>2025-04-01T08:29:12.877Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] STAYC ISA (스테이씨 아이사) – BEBE | 쇼! 음악중심 | MBC250329]]></title>
-        <id>https://tv.naver.com/v/73208300</id>
-        <link href="https://tv.naver.com/v/73208300"/>
-        <updated>2025-04-01T08:29:12.878Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
