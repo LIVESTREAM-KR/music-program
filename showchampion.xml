@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-04-04T05:22:32.158Z</updated>
+    <updated>2025-04-04T06:31:19.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월 1주 차 쇼챔피언 ＜규진 & 금동현 & 지우＞ MC 컷 모음📁 | Show Champion | EP.549 | 250402]]></title>
+        <id>https://tv.naver.com/v/73440974</id>
+        <link href="https://tv.naver.com/v/73440974"/>
+        <updated>2025-04-04T06:31:06.285Z</updated>
+        <content type="html"><![CDATA[05:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔직캠 4K] An Yul(안율) - Heart On Fire | Show Champion | EP.549 | 250402]]></title>
         <id>https://tv.naver.com/v/73313995</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73313119"/>
         <updated>2025-04-02T13:31:52.228Z</updated>
         <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔원픽캠 4K] SAY MY NAME 메이 - 처음 만난 그날처럼 (He told me) | Show Champion | EP.549 | 250402]]></title>
-        <id>https://tv.naver.com/v/73313118</id>
-        <link href="https://tv.naver.com/v/73313118"/>
-        <updated>2025-04-02T13:31:52.230Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
     </entry>
 </feed>
