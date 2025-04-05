@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-05T08:25:48.483Z</updated>
+    <updated>2025-04-05T09:20:49.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://tv.naver.com/v/72093560"/>
         <updated>2025-03-18T08:28:11.766Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] KiiiKiii (키키) – I DO ME 1위 직캠 | 쇼! 음악중심 | MBC250405방송]]></title>
+        <id>https://tv.naver.com/v/73521620</id>
+        <link href="https://tv.naver.com/v/73521620"/>
+        <updated>2025-04-05T09:20:06.706Z</updated>
+        <content type="html"><![CDATA[06:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈 - Rock And Roll (THE BOYZ - Rock And Roll), MBC 250405 방송]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73517250"/>
         <updated>2025-04-05T08:25:05.575Z</updated>
         <content type="html"><![CDATA[03:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨 - BEBE (STAYC - BEBE), MBC 250405 방송]]></title>
-        <id>https://tv.naver.com/v/73517009</id>
-        <link href="https://tv.naver.com/v/73517009"/>
-        <updated>2025-04-05T08:25:05.576Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
