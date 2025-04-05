@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-05T13:25:11.643Z</updated>
+    <updated>2025-04-05T14:18:42.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[VVV - 더보이즈 (THE BOYZ) | KBS 250328 방송 (뮤직뱅크)]]></title>
@@ -96,6 +96,27 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#음중직캠] NiziU NINA (니쥬 니나) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73537185</id>
+        <link href="https://tv.naver.com/v/73537185"/>
+        <updated>2025-04-05T14:18:02.466Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] NiziU MIIHI (니쥬 미이히) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73537183</id>
+        <link href="https://tv.naver.com/v/73537183"/>
+        <updated>2025-04-05T14:18:02.467Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#음중직캠] NiziU MAYUKA (니쥬 마유카) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73537181</id>
+        <link href="https://tv.naver.com/v/73537181"/>
+        <updated>2025-04-05T14:18:02.469Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#음중직캠] NiziU RIMA (니쥬 리마) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/73536868</id>
         <link href="https://tv.naver.com/v/73536868"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/73536576"/>
         <updated>2025-04-05T13:24:30.024Z</updated>
         <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NiziU MAKO (니쥬 마코) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73536363</id>
-        <link href="https://tv.naver.com/v/73536363"/>
-        <updated>2025-04-05T13:24:30.025Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NiziU RIKU (니쥬 리쿠) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73536299</id>
-        <link href="https://tv.naver.com/v/73536299"/>
-        <updated>2025-04-05T13:24:30.027Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NiziU AYAKA (니쥬 아야카) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73536029</id>
-        <link href="https://tv.naver.com/v/73536029"/>
-        <updated>2025-04-05T13:24:30.028Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250330 방송 (인기가요)]]></title>
