@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-04-06T13:27:02.225Z</updated>
+    <updated>2025-04-06T14:19:31.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[00:59]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['청바지' 3라운드 무대 - 나의 사춘기에게, MBC 250406 방송]]></title>
-        <id>https://tv.naver.com/v/73581051</id>
-        <link href="https://tv.naver.com/v/73581051"/>
-        <updated>2025-04-06T10:22:40.018Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['신선로' 3라운드 무대 - 열애, MBC 250406 방송]]></title>
         <id>https://tv.naver.com/v/73581046</id>
         <link href="https://tv.naver.com/v/73581046"/>
         <updated>2025-04-06T10:22:40.019Z</updated>
         <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청바지' 3라운드 무대 - 나의 사춘기에게, MBC 250406 방송]]></title>
+        <id>https://tv.naver.com/v/73581051</id>
+        <link href="https://tv.naver.com/v/73581051"/>
+        <updated>2025-04-06T10:22:40.018Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신세대 女탤런트 5인방 멤버! 라디오 전성기를 이끌었던 '걸 크러시'의 정체는?📻, MBC 250406 방송]]></title>
