@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658960/clip</id>
     <title>인기가요</title>
-    <updated>2025-04-06T05:20:44.034Z</updated>
+    <updated>2025-04-06T06:30:33.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이젤(EJel) - 봄은 내 안티 | SBS 250406 방송]]></title>
+        <id>https://tv.naver.com/v/73568894</id>
+        <link href="https://tv.naver.com/v/73568894"/>
+        <updated>2025-04-06T06:30:04.999Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250330 방송]]></title>
         <id>https://tv.naver.com/v/73051679</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73049283"/>
         <updated>2025-03-30T07:21:08.337Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Candy Shop - TIP TOE | SBS 250330 방송]]></title>
-        <id>https://tv.naver.com/v/73048977</id>
-        <link href="https://tv.naver.com/v/73048977"/>
-        <updated>2025-03-30T07:21:08.337Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
     </entry>
 </feed>
