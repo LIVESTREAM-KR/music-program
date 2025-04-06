@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-06T10:22:40.694Z</updated>
+    <updated>2025-04-06T11:17:51.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[VVV - 더보이즈 (THE BOYZ) | KBS 250328 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,34 @@
         <content type="html"><![CDATA[07:20]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[490회 예고] '꽃보다 향수'의 8연승 도전✨ 성대 풀가동한 실력자들의 거침없는 무대👀, MBC 250413 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/73583238</id>
+        <link href="https://tv.naver.com/v/73583238"/>
+        <updated>2025-04-06T11:17:51.274Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['신선로'의 정체는 트로트 가수 정미애!, MBC 250406 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/73582585</id>
+        <link href="https://tv.naver.com/v/73582585"/>
+        <updated>2025-04-06T11:17:51.277Z</updated>
+        <content type="html"><![CDATA[01:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꽃보다 향수'의 가왕 방어전 무대 - 팬이야, MBC 250406 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/73582040</id>
+        <link href="https://tv.naver.com/v/73582040"/>
+        <updated>2025-04-06T11:17:51.278Z</updated>
+        <content type="html"><![CDATA[05:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['청바지'의 정체는 뮤지컬 배우 장민제!, MBC 250406 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/73581540</id>
+        <link href="https://tv.naver.com/v/73581540"/>
+        <updated>2025-04-06T11:17:51.279Z</updated>
+        <content type="html"><![CDATA[00:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['청바지' 3라운드 무대 - 나의 사춘기에게, MBC 250406 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/73581051</id>
         <link href="https://tv.naver.com/v/73581051"/>
@@ -535,33 +563,5 @@
         <link href="https://tv.naver.com/v/73579696"/>
         <updated>2025-04-06T10:22:40.027Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['신선로' 2라운드 무대 - 기억상실, MBC 250406 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/73579440</id>
-        <link href="https://tv.naver.com/v/73579440"/>
-        <updated>2025-04-06T10:22:40.029Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콜럼버스'의 정체는 싱어송라이터 윤현상!, MBC 250406 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/73579217</id>
-        <link href="https://tv.naver.com/v/73579217"/>
-        <updated>2025-04-06T10:22:40.030Z</updated>
-        <content type="html"><![CDATA[01:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['콜럼버스'의 감미로운 자작곡🎵 엄청난 작곡 실력의 '콜럼버스'는 누구일까?!, MBC 250406 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/73578884</id>
-        <link href="https://tv.naver.com/v/73578884"/>
-        <updated>2025-04-06T10:22:40.032Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['청바지' 2라운드 무대 - 있잖아, MBC 250406 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/73578371</id>
-        <link href="https://tv.naver.com/v/73578371"/>
-        <updated>2025-04-06T10:22:40.033Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>
