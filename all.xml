@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-06T07:19:33.480Z</updated>
+    <updated>2025-04-06T08:26:39.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[VVV - 더보이즈 (THE BOYZ) | KBS 250328 방송 (뮤직뱅크)]]></title>
@@ -145,6 +145,55 @@
         <content type="html"><![CDATA[03:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250406 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/73573093</id>
+        <link href="https://tv.naver.com/v/73573093"/>
+        <updated>2025-04-06T08:26:05.627Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔라 (Solar) - WANT | SBS 250406 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/73573040</id>
+        <link href="https://tv.naver.com/v/73573040"/>
+        <updated>2025-04-06T08:26:05.627Z</updated>
+        <content type="html"><![CDATA[03:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STAYC - BEBE | SBS 250406 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/73572786</id>
+        <link href="https://tv.naver.com/v/73572786"/>
+        <updated>2025-04-06T08:26:05.627Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - KNOW ABOUT ME | SBS 250406 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/73572560</id>
+        <link href="https://tv.naver.com/v/73572560"/>
+        <updated>2025-04-06T08:26:05.627Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST(템페스트) - Unfreeze | SBS 250406 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/73572333</id>
+        <link href="https://tv.naver.com/v/73572333"/>
+        <updated>2025-04-06T08:26:05.627Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TNX - 아 진짜 (For Real?) | SBS 250406 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/73571726</id>
+        <link href="https://tv.naver.com/v/73571726"/>
+        <updated>2025-04-06T08:26:05.629Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - BREATHE | SBS 250406 방송 (인기가요)]]></title>
+        <id>https://tv.naver.com/v/73571724</id>
+        <link href="https://tv.naver.com/v/73571724"/>
+        <updated>2025-04-06T08:26:05.631Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NiziU - LOVE LINE (운명선) | SBS 250406 방송 (인기가요)]]></title>
         <id>https://tv.naver.com/v/73571164</id>
         <link href="https://tv.naver.com/v/73571164"/>
@@ -164,55 +213,6 @@
         <link href="https://tv.naver.com/v/73570911"/>
         <updated>2025-04-06T07:18:58.945Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태진아 - 친구야 술 한잔하자 | SBS 250406 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/73570703</id>
-        <link href="https://tv.naver.com/v/73570703"/>
-        <updated>2025-04-06T07:18:58.946Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JO1 - BE CLASSIC | SBS 250406 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/73570696</id>
-        <link href="https://tv.naver.com/v/73570696"/>
-        <updated>2025-04-06T07:18:58.947Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KiiiKiii - BTG | SBS 250406 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/73570352</id>
-        <link href="https://tv.naver.com/v/73570352"/>
-        <updated>2025-04-06T07:18:58.948Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스트샤인(EASTSHINE) - Lucky Tonight | SBS 250406 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/73570035</id>
-        <link href="https://tv.naver.com/v/73570035"/>
-        <updated>2025-04-06T07:18:58.949Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백청강 - 점점점 | SBS 250406 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/73569793</id>
-        <link href="https://tv.naver.com/v/73569793"/>
-        <updated>2025-04-06T07:18:58.950Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEWBEAT - Flip the Coin | SBS 250406 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/73569433</id>
-        <link href="https://tv.naver.com/v/73569433"/>
-        <updated>2025-04-06T07:18:58.951Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLOSE YOUR EYES - 내 안의 모든 시와 소설은 | SBS 250406 방송 (인기가요)]]></title>
-        <id>https://tv.naver.com/v/73569430</id>
-        <link href="https://tv.naver.com/v/73569430"/>
-        <updated>2025-04-06T07:18:58.952Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['단독 공개' KAI (카이) - Adult Swim | Mnet 250403 방송 (엠카운트다운)]]></title>
