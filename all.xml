@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-07T09:25:45.708Z</updated>
+    <updated>2025-04-07T10:25:41.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[VVV - 더보이즈 (THE BOYZ) | KBS 250328 방송 (뮤직뱅크)]]></title>
@@ -96,6 +96,27 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] TEN (텐) – STUNNER | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73654557</id>
+        <link href="https://tv.naver.com/v/73654557"/>
+        <updated>2025-04-07T10:24:59.098Z</updated>
+        <content type="html"><![CDATA[03:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] izna JEONG SAEBI (이즈나 정세비) – SIGN | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73653417</id>
+        <link href="https://tv.naver.com/v/73653417"/>
+        <updated>2025-04-07T10:24:59.098Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] izna BANG JEEMIN (이즈나 방지민) – SIGN | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73653073</id>
+        <link href="https://tv.naver.com/v/73653073"/>
+        <updated>2025-04-07T10:24:59.099Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] NiziU MIIHI (니쥬 미이히) – LOVE LINE (운명선) | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/73645760</id>
         <link href="https://tv.naver.com/v/73645760"/>
@@ -122,27 +143,6 @@
         <link href="https://tv.naver.com/v/73627684"/>
         <updated>2025-04-07T05:22:19.006Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 김규빈 X 에이나 X 도훈 , 콩해또 4월 첫째 주 음악중심 MC 컷 모음!, MBC 250405 방송 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73618634</id>
-        <link href="https://tv.naver.com/v/73618634"/>
-        <updated>2025-04-07T03:06:10.858Z</updated>
-        <content type="html"><![CDATA[15:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NiziU NINA (니쥬 니나) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73537185</id>
-        <link href="https://tv.naver.com/v/73537185"/>
-        <updated>2025-04-05T14:18:02.466Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NiziU MIIHI (니쥬 미이히) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73537183</id>
-        <link href="https://tv.naver.com/v/73537183"/>
-        <updated>2025-04-05T14:18:02.467Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250406 방송 (인기가요)]]></title>
