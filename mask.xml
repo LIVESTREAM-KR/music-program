@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-04-07T08:30:53.582Z</updated>
+    <updated>2025-04-07T09:25:45.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 깊이 있는 명품 보이스와 애절함🎤 트로트 가수 정미애 하이라이트!, MBC 250406 방송]]></title>
+        <id>https://tv.naver.com/v/73649313</id>
+        <link href="https://tv.naver.com/v/73649313"/>
+        <updated>2025-04-07T09:25:45.053Z</updated>
+        <content type="html"><![CDATA[12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 깨끗한 목소리와 넘치는 끼로 대극장 접수 중✨ 뮤지컬 배우 장민제 하이라이트!, MBC 250406 방송]]></title>
+        <id>https://tv.naver.com/v/73649242</id>
+        <link href="https://tv.naver.com/v/73649242"/>
+        <updated>2025-04-07T09:25:45.060Z</updated>
+        <content type="html"><![CDATA[09:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 듣는 사람의 심금을 울리는 목소리🎤 미스트롯 준우승 정미애의 《기억상실》 《열애》 | #정미애 MBC250406]]></title>
         <id>https://tv.naver.com/v/73619032</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/73580528"/>
         <updated>2025-04-06T10:22:40.021Z</updated>
         <content type="html"><![CDATA[01:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['걸 크러시'의 정체는 배우 이본!, MBC 250406 방송]]></title>
-        <id>https://tv.naver.com/v/73580523</id>
-        <link href="https://tv.naver.com/v/73580523"/>
-        <updated>2025-04-06T10:22:40.022Z</updated>
-        <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트로트 여제 김연자가 주는 '신선로'의 힌트🌹 큰 고비를 이겨낸 '신선로'의 정체는?!, MBC 250406 방송]]></title>
-        <id>https://tv.naver.com/v/73579975</id>
-        <link href="https://tv.naver.com/v/73579975"/>
-        <updated>2025-04-06T10:22:40.025Z</updated>
-        <content type="html"><![CDATA[01:34]]></content>
     </entry>
 </feed>
