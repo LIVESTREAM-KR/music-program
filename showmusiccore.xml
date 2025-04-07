@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-07T01:47:41.048Z</updated>
+    <updated>2025-04-07T03:06:53.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/72122518"/>
         <updated>2025-03-18T11:18:23.157Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 김규빈 X 에이나 X 도훈 , 콩해또 4월 첫째 주 음악중심 MC 컷 모음!, MBC 250405 방송]]></title>
+        <id>https://tv.naver.com/v/73618634</id>
+        <link href="https://tv.naver.com/v/73618634"/>
+        <updated>2025-04-07T03:06:10.858Z</updated>
+        <content type="html"><![CDATA[15:49]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#음중직캠] NiziU NINA (니쥬 니나) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73536864"/>
         <updated>2025-04-05T13:24:30.022Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] NiziU (니쥬) – LOVE LINE (운명선) FullCam | 쇼! 음악중심 | MBC250405]]></title>
-        <id>https://tv.naver.com/v/73536576</id>
-        <link href="https://tv.naver.com/v/73536576"/>
-        <updated>2025-04-05T13:24:30.024Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
