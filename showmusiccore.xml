@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-07T07:23:28.121Z</updated>
+    <updated>2025-04-07T08:30:53.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/72122518"/>
         <updated>2025-03-18T11:18:23.157Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] NiziU MIIHI (니쥬 미이히) – LOVE LINE (운명선) | 쇼! 음악중심 | MBC250405]]></title>
+        <id>https://tv.naver.com/v/73645760</id>
+        <link href="https://tv.naver.com/v/73645760"/>
+        <updated>2025-04-07T08:30:19.451Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] JO1 KAWANISHI TAKUMI (제이오원 카와니시 타쿠미) – BE CLASSIC | 쇼! 음악중심 | MBC250405]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73537183"/>
         <updated>2025-04-05T14:18:02.467Z</updated>
         <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] NiziU MAYUKA (니쥬 마유카) – LOVE LINE (운명선) FanCam | 쇼! 음악중심 | MBC250405]]></title>
-        <id>https://tv.naver.com/v/73537181</id>
-        <link href="https://tv.naver.com/v/73537181"/>
-        <updated>2025-04-05T14:18:02.469Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
     </entry>
 </feed>
