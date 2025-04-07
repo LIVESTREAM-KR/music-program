@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-04-07T03:06:53.800Z</updated>
+    <updated>2025-04-07T04:27:18.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 듣는 사람의 심금을 울리는 목소리🎤 미스트롯 준우승 정미애의 《기억상실》 《열애》 | #정미애 MBC250406]]></title>
+        <id>https://tv.naver.com/v/73619032</id>
+        <link href="https://tv.naver.com/v/73619032"/>
+        <updated>2025-04-07T04:27:18.131Z</updated>
+        <content type="html"><![CDATA[17:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[490회 예고] '꽃보다 향수'의 8연승 도전✨ 성대 풀가동한 실력자들의 거침없는 무대👀, MBC 250413 방송]]></title>
         <id>https://tv.naver.com/v/73583238</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73579975"/>
         <updated>2025-04-06T10:22:40.025Z</updated>
         <content type="html"><![CDATA[01:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['걸 크러시' 2라운드 무대 - 기다림, 설레임, MBC 250406 방송]]></title>
-        <id>https://tv.naver.com/v/73579696</id>
-        <link href="https://tv.naver.com/v/73579696"/>
-        <updated>2025-04-06T10:22:40.027Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
