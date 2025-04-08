@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2025-04-08T11:19:16.725Z</updated>
+    <updated>2025-04-08T12:45:09.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CLOSE YOUR EYES - All My Poetry (CLOSE YOUR EYES, 내 안의 모든 시와 소설은) [THE SHOW 250408]]]></title>
+        <id>https://tv.naver.com/v/73737902</id>
+        <link href="https://tv.naver.com/v/73737902"/>
+        <updated>2025-04-08T12:44:51.523Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CLOSE YOUR EYES - Upside Down (CLOSE YOUR EYES, 사과가 하늘로 떨어진 날) [THE SHOW 250408]]]></title>
         <id>https://tv.naver.com/v/73737641</id>
         <link href="https://tv.naver.com/v/73737641"/>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73737239"/>
         <updated>2025-04-08T10:24:34.037Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Dragonfly - The Small Spring (고추잠자리, 작은 봄) [THE SHOW 250408]]]></title>
-        <id>https://tv.naver.com/v/73735683</id>
-        <link href="https://tv.naver.com/v/73735683"/>
-        <updated>2025-04-08T10:24:34.038Z</updated>
-        <content type="html"><![CDATA[04:00]]></content>
     </entry>
 </feed>
