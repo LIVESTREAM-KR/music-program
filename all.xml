@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-08T09:25:17.875Z</updated>
+    <updated>2025-04-08T10:24:53.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[VVV - 더보이즈 (THE BOYZ) | KBS 250404 방송 (뮤직뱅크)]]></title>
@@ -96,6 +96,34 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ SUNWOO (더보이즈 선우) – Rock and Roll | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73734989</id>
+        <link href="https://tv.naver.com/v/73734989"/>
+        <updated>2025-04-08T10:24:13.126Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ JUYEON (더보이즈 주연) – Rock and Roll | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73734987</id>
+        <link href="https://tv.naver.com/v/73734987"/>
+        <updated>2025-04-08T10:24:13.126Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ HYUNJAE (더보이즈 현재) – Rock and Roll | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73734983</id>
+        <link href="https://tv.naver.com/v/73734983"/>
+        <updated>2025-04-08T10:24:13.127Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] THE BOYZ YOUNGHOON (더보이즈 영훈) – Rock and Roll | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73734979</id>
+        <link href="https://tv.naver.com/v/73734979"/>
+        <updated>2025-04-08T10:24:13.128Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[#최애직캠] TEN (텐) – STUNNER | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/73654557</id>
         <link href="https://tv.naver.com/v/73654557"/>
@@ -115,34 +143,6 @@
         <link href="https://tv.naver.com/v/73653073"/>
         <updated>2025-04-07T10:24:59.099Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] NiziU MIIHI (니쥬 미이히) – LOVE LINE (운명선) | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73645760</id>
-        <link href="https://tv.naver.com/v/73645760"/>
-        <updated>2025-04-07T08:30:19.451Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] JO1 KAWANISHI TAKUMI (제이오원 카와니시 타쿠미) – BE CLASSIC | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73628441</id>
-        <link href="https://tv.naver.com/v/73628441"/>
-        <updated>2025-04-07T05:22:19.003Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] JO1 KONO JUNKI (제이오원 코노 준키) – BE CLASSIC | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73627688</id>
-        <link href="https://tv.naver.com/v/73627688"/>
-        <updated>2025-04-07T05:22:19.005Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] JO1 SHIROIWA RUKI (제이오원 시로이와 루키) – BE CLASSIC | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73627684</id>
-        <link href="https://tv.naver.com/v/73627684"/>
-        <updated>2025-04-07T05:22:19.006Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250406 방송 (인기가요)]]></title>
@@ -285,74 +285,74 @@
         <content type="html"><![CDATA[02:49]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Yul - Heart on Fire (안율, Heart on Fire) [THE SHOW 250408] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73733733</id>
-        <link href="https://tv.naver.com/v/73733733"/>
-        <updated>2025-04-08T09:24:55.248Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
+        <title type="html"><![CDATA[TNX - For Real? (TNX, 아 진짜) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73738185</id>
+        <link href="https://tv.naver.com/v/73738185"/>
+        <updated>2025-04-08T10:24:34.028Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TEN - THE SHOW CHOICE! [THE SHOW 250401] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73221514</id>
-        <link href="https://tv.naver.com/v/73221514"/>
-        <updated>2025-04-01T11:19:47.005Z</updated>
-        <content type="html"><![CDATA[05:37]]></content>
+        <title type="html"><![CDATA[CLOSE YOUR EYES - All My Poetry (CLOSE YOUR EYES, 내 안의 모든 시와 소설은) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73737902</id>
+        <link href="https://tv.naver.com/v/73737902"/>
+        <updated>2025-04-08T10:24:34.031Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TEN - STUNNER (텐, STUNNER) [THE SHOW 250401] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73220907</id>
-        <link href="https://tv.naver.com/v/73220907"/>
-        <updated>2025-04-01T11:19:47.005Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
+        <title type="html"><![CDATA[CLOSE YOUR EYES - Upside Down (CLOSE YOUR EYES, 사과가 하늘로 떨어진 날) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73737641</id>
+        <link href="https://tv.naver.com/v/73737641"/>
+        <updated>2025-04-08T10:24:34.032Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TEN - BAMBOLA (텐, BAMBOLA) [THE SHOW 250401] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73220829</id>
-        <link href="https://tv.naver.com/v/73220829"/>
-        <updated>2025-04-01T11:19:47.007Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
+        <title type="html"><![CDATA[FANTASY BOYS - INTRO+Undeniable [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73737562</id>
+        <link href="https://tv.naver.com/v/73737562"/>
+        <updated>2025-04-08T10:24:34.034Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[STAYC - BEBE (스테이씨, BEBE) [THE SHOW 250401] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73220469</id>
-        <link href="https://tv.naver.com/v/73220469"/>
-        <updated>2025-04-01T10:25:18.440Z</updated>
+        <title type="html"><![CDATA[NEWBEAT - HICCUPS [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73737242</id>
+        <link href="https://tv.naver.com/v/73737242"/>
+        <updated>2025-04-08T10:24:34.035Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEWBEAT - Flip the Coin [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73737239</id>
+        <link href="https://tv.naver.com/v/73737239"/>
+        <updated>2025-04-08T10:24:34.037Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Dragonfly - The Small Spring (고추잠자리, 작은 봄) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73735683</id>
+        <link href="https://tv.naver.com/v/73735683"/>
+        <updated>2025-04-08T10:24:34.038Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EJel - Anti-Spring (이젤, 봄은 내 안티) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73735316</id>
+        <link href="https://tv.naver.com/v/73735316"/>
+        <updated>2025-04-08T10:24:34.040Z</updated>
         <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TNX - For Real? (TNX, 아 진짜) [THE SHOW 250401] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73220124</id>
-        <link href="https://tv.naver.com/v/73220124"/>
-        <updated>2025-04-01T10:25:18.440Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
+        <title type="html"><![CDATA[[엔프Pick] MC 형준 & TEMPEST(템페스트) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73735315</id>
+        <link href="https://tv.naver.com/v/73735315"/>
+        <updated>2025-04-08T10:24:34.041Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Wind - Only One(더윈드, Only One) [THE SHOW 250401] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73219766</id>
-        <link href="https://tv.naver.com/v/73219766"/>
-        <updated>2025-04-01T10:25:18.440Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAY MY NAME - 1,2,3,4 [THE SHOW 250401] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73219474</id>
-        <link href="https://tv.naver.com/v/73219474"/>
-        <updated>2025-04-01T10:25:18.443Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEWBEAT - Flip the Coin [THE SHOW 250401] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73219472</id>
-        <link href="https://tv.naver.com/v/73219472"/>
-        <updated>2025-04-01T10:25:18.444Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEWBEAT - JeLLo (NEWBEAT, 힘숨찐) [THE SHOW 250401] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73219465</id>
-        <link href="https://tv.naver.com/v/73219465"/>
-        <updated>2025-04-01T10:25:18.446Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
+        <title type="html"><![CDATA[ShinEuiJin - Anthem for Me (신의진, 이별찬가(離別讚歌)) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73734607</id>
+        <link href="https://tv.naver.com/v/73734607"/>
+        <updated>2025-04-08T10:24:34.042Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 난 쇼챔만 바라봐 매일 난 쇼챔만 생각해 매일🎵 (쇼챔피언)]]></title>
