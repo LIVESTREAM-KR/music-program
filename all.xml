@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-08T10:24:53.117Z</updated>
+    <updated>2025-04-08T11:19:16.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[VVV - 더보이즈 (THE BOYZ) | KBS 250404 방송 (뮤직뱅크)]]></title>
@@ -285,18 +285,39 @@
         <content type="html"><![CDATA[02:49]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CLOSE YOUR EYES - THE SHOW CHOICE! [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73739080</id>
+        <link href="https://tv.naver.com/v/73739080"/>
+        <updated>2025-04-08T11:18:55.947Z</updated>
+        <content type="html"><![CDATA[05:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST - Unfreeze (템페스트, Unfreeze) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73739070</id>
+        <link href="https://tv.naver.com/v/73739070"/>
+        <updated>2025-04-08T11:18:55.951Z</updated>
+        <content type="html"><![CDATA[03:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TEMPEST - WE ARE THE YOUNG (템페스트, WE ARE THE YOUNG) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73738784</id>
+        <link href="https://tv.naver.com/v/73738784"/>
+        <updated>2025-04-08T11:18:55.951Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers - BREATHE (싸이커스, BREATHE) [THE SHOW 250408] (더쇼)]]></title>
+        <id>https://tv.naver.com/v/73738503</id>
+        <link href="https://tv.naver.com/v/73738503"/>
+        <updated>2025-04-08T11:18:55.952Z</updated>
+        <content type="html"><![CDATA[04:59]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TNX - For Real? (TNX, 아 진짜) [THE SHOW 250408] (더쇼)]]></title>
         <id>https://tv.naver.com/v/73738185</id>
         <link href="https://tv.naver.com/v/73738185"/>
         <updated>2025-04-08T10:24:34.028Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLOSE YOUR EYES - All My Poetry (CLOSE YOUR EYES, 내 안의 모든 시와 소설은) [THE SHOW 250408] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73737902</id>
-        <link href="https://tv.naver.com/v/73737902"/>
-        <updated>2025-04-08T10:24:34.031Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CLOSE YOUR EYES - Upside Down (CLOSE YOUR EYES, 사과가 하늘로 떨어진 날) [THE SHOW 250408] (더쇼)]]></title>
@@ -332,27 +353,6 @@
         <link href="https://tv.naver.com/v/73735683"/>
         <updated>2025-04-08T10:24:34.038Z</updated>
         <content type="html"><![CDATA[04:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EJel - Anti-Spring (이젤, 봄은 내 안티) [THE SHOW 250408] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73735316</id>
-        <link href="https://tv.naver.com/v/73735316"/>
-        <updated>2025-04-08T10:24:34.040Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엔프Pick] MC 형준 & TEMPEST(템페스트) [THE SHOW 250408] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73735315</id>
-        <link href="https://tv.naver.com/v/73735315"/>
-        <updated>2025-04-08T10:24:34.041Z</updated>
-        <content type="html"><![CDATA[04:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShinEuiJin - Anthem for Me (신의진, 이별찬가(離別讚歌)) [THE SHOW 250408] (더쇼)]]></title>
-        <id>https://tv.naver.com/v/73734607</id>
-        <link href="https://tv.naver.com/v/73734607"/>
-        <updated>2025-04-08T10:24:34.042Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 난 쇼챔만 바라봐 매일 난 쇼챔만 생각해 매일🎵 (쇼챔피언)]]></title>
