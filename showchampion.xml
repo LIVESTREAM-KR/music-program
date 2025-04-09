@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-04-09T11:19:37.460Z</updated>
+    <updated>2025-04-09T12:45:11.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[['출챔'합니다] SHOW CHAMPION 550회! '출챔 인증'할 오늘의 라인업은?❤ l 250409]]></title>
+        <id>https://tv.naver.com/v/73825932</id>
+        <link href="https://tv.naver.com/v/73825932"/>
+        <updated>2025-04-09T12:44:59.402Z</updated>
+        <content type="html"><![CDATA[02:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔 1위] 4월 2주 챔피언송 ＜NiziU - LOVE LINE＞ 앵콜 Full ver. l Show Champion l EP.550 l 250409]]></title>
         <id>https://tv.naver.com/v/73822978</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73818265"/>
         <updated>2025-04-09T10:27:15.315Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[COMEBACK] 이젤(EJel) - 봄은 내 안티 l 250409]]></title>
-        <id>https://tv.naver.com/v/73817862</id>
-        <link href="https://tv.naver.com/v/73817862"/>
-        <updated>2025-04-09T10:27:15.318Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
