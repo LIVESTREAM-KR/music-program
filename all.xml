@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-10T09:24:38.028Z</updated>
+    <updated>2025-04-10T10:24:27.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[VVV - 더보이즈 (THE BOYZ) | KBS 250404 방송 (뮤직뱅크)]]></title>
@@ -96,6 +96,13 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #엑스디너리히어로즈 #XdinaryHeroes 라이브의 신 엑디즈가 음중에서 미니콘서트한 썰 푼다💥 음중 사전녹화 비하인드⏯️ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/73902729</id>
+        <link href="https://tv.naver.com/v/73902729"/>
+        <updated>2025-04-10T10:23:49.699Z</updated>
+        <content type="html"><![CDATA[24:22]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[STAGE MIX🪄] STAYC (스테이씨) – BEBE | 쇼! 음악중심 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/73736138</id>
         <link href="https://tv.naver.com/v/73736138"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/73654557"/>
         <updated>2025-04-07T10:24:59.098Z</updated>
         <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] izna JEONG SAEBI (이즈나 정세비) – SIGN | 쇼! 음악중심 | MBC250405 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/73653417</id>
-        <link href="https://tv.naver.com/v/73653417"/>
-        <updated>2025-04-07T10:24:59.098Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250406 방송 (인기가요)]]></title>
@@ -215,6 +215,62 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['COMEBACK' xikers(싸이커스) - BREATHE | Mnet 250410 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73902802</id>
+        <link href="https://tv.naver.com/v/73902802"/>
+        <updated>2025-04-10T10:24:02.354Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 문수아X시윤 (Billlie) - SNAP (feat. sokodomo) | Mnet 250410 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73902422</id>
+        <link href="https://tv.naver.com/v/73902422"/>
+        <updated>2025-04-10T10:24:02.356Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 앰퍼샌드원 (AMPERS&ONE) - Kick Start | Mnet 250410 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73902114</id>
+        <link href="https://tv.naver.com/v/73902114"/>
+        <updated>2025-04-10T10:24:02.358Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KiiiKiii - BTG | Mnet 250410 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73902107</id>
+        <link href="https://tv.naver.com/v/73902107"/>
+        <updated>2025-04-10T10:24:02.359Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' ifeye (이프아이) - NERDY | Mnet 250410 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73901860</id>
+        <link href="https://tv.naver.com/v/73901860"/>
+        <updated>2025-04-10T10:24:02.361Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' WHIB - BANG OUT | Mnet 250410 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73901089</id>
+        <link href="https://tv.naver.com/v/73901089"/>
+        <updated>2025-04-10T10:24:02.362Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLOSE YOUR EYES - 내 안의 모든 시와 소설은 | Mnet 250410 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73900826</id>
+        <link href="https://tv.naver.com/v/73900826"/>
+        <updated>2025-04-10T10:24:02.364Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kik5o X AleXa - VITAL CHECK | Mnet 250410 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/73900422</id>
+        <link href="https://tv.naver.com/v/73900422"/>
+        <updated>2025-04-10T10:24:02.366Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[izna가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/73742567</id>
         <link href="https://tv.naver.com/v/73742567"/>
@@ -227,62 +283,6 @@
         <link href="https://tv.naver.com/v/73392635"/>
         <updated>2025-04-03T12:43:27.771Z</updated>
         <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 솔라 (Solar) - WANT | Mnet 250403 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/73392618</id>
-        <link href="https://tv.naver.com/v/73392618"/>
-        <updated>2025-04-03T12:43:27.771Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텐 (TEN) - STUNNER | Mnet 250403 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/73391887</id>
-        <link href="https://tv.naver.com/v/73391887"/>
-        <updated>2025-04-03T12:43:27.772Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) - Rock and Roll | Mnet 250403 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/73391448</id>
-        <link href="https://tv.naver.com/v/73391448"/>
-        <updated>2025-04-03T12:43:27.772Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' izna - SIGN | Mnet 250403 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/73391430</id>
-        <link href="https://tv.naver.com/v/73391430"/>
-        <updated>2025-04-03T12:43:27.774Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KiiiKiii - BTG | Mnet 250403 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/73390785</id>
-        <link href="https://tv.naver.com/v/73390785"/>
-        <updated>2025-04-03T12:43:27.779Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['먼슬리 엠카PICK' 3월의 엠카PICK 송 & 스테이지는? | Mnet 250403 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/73390318</id>
-        <link href="https://tv.naver.com/v/73390318"/>
-        <updated>2025-04-03T12:43:27.780Z</updated>
-        <content type="html"><![CDATA[04:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAYC(스테이씨) - BEBE | Mnet 250403 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/73389644</id>
-        <link href="https://tv.naver.com/v/73389644"/>
-        <updated>2025-04-03T12:43:27.782Z</updated>
-        <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' JO1 - BE CLASSIC | Mnet 250403 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/73389242</id>
-        <link href="https://tv.naver.com/v/73389242"/>
-        <updated>2025-04-03T12:43:27.783Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CLOSE YOUR EYES - THE SHOW CHOICE! [THE SHOW 250408] (더쇼)]]></title>
