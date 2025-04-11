@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/670142/clip</id>
     <title>불후의 명곡</title>
-    <updated>2025-04-11T09:24:45.289Z</updated>
+    <updated>2025-04-11T10:24:08.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] YB - orchid | KBS 방송]]></title>
+        <id>https://tv.naver.com/v/73982167</id>
+        <link href="https://tv.naver.com/v/73982167"/>
+        <updated>2025-04-11T10:24:00.787Z</updated>
+        <content type="html"><![CDATA[07:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 청춘의 아이콘이 한자리에! 불후의 명곡 700회 특집🌟 | KBS 250405 방송]]></title>
         <id>https://tv.naver.com/v/73530068</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73527820"/>
         <updated>2025-04-05T11:17:50.150Z</updated>
         <content type="html"><![CDATA[05:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이나믹듀오 (Dynamicduo) - 고백+출첵+불꽃놀이 | KBS 250405 방송]]></title>
-        <id>https://tv.naver.com/v/73527553</id>
-        <link href="https://tv.naver.com/v/73527553"/>
-        <updated>2025-04-05T11:17:50.152Z</updated>
-        <content type="html"><![CDATA[07:20]]></content>
     </entry>
 </feed>
