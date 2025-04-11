@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/669613/clip</id>
     <title>쇼챔피언</title>
-    <updated>2025-04-11T04:28:00.391Z</updated>
+    <updated>2025-04-11T05:23:00.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[4월 2주 차 쇼챔피언 ＜금동현 & 미이히 & 민재＞ MC 컷 모음📁 | Show Champion | EP.550 | 250409]]></title>
+        <id>https://tv.naver.com/v/73837472</id>
+        <link href="https://tv.naver.com/v/73837472"/>
+        <updated>2025-04-11T05:22:46.710Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[쇼챔원픽캠 4K] NiziU AYAKA(니쥬 아야카) - 만약이란 건 없어(What if) | Show Champion | EP.550 | 250409]]></title>
         <id>https://tv.naver.com/v/73834653</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73832404"/>
         <updated>2025-04-10T03:03:28.003Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[쇼챔직캠 4K] xikers(싸이커스) - BREATHE | Show Champion | EP.550 | 250409]]></title>
-        <id>https://tv.naver.com/v/73832401</id>
-        <link href="https://tv.naver.com/v/73832401"/>
-        <updated>2025-04-09T13:33:08.852Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>

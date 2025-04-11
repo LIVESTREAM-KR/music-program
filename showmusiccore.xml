@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-11T04:28:00.449Z</updated>
+    <updated>2025-04-11T05:23:00.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/72122518"/>
         <updated>2025-03-18T11:18:23.157Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #엔믹스 #NMIXX 더 알고(know)싶은 그녀들에게로 말(horse)벌 아저씨처럼 달려가🏃🏃 음중 사전녹화 비하인드⏯️]]></title>
+        <id>https://tv.naver.com/v/73947753</id>
+        <link href="https://tv.naver.com/v/73947753"/>
+        <updated>2025-04-11T05:22:18.342Z</updated>
+        <content type="html"><![CDATA[13:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#직캠보고서🔍] #엑스디너리히어로즈 #XdinaryHeroes 라이브의 신 엑디즈가 음중에서 미니콘서트한 썰 푼다💥 음중 사전녹화 비하인드⏯️]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73734979"/>
         <updated>2025-04-08T10:24:13.128Z</updated>
         <content type="html"><![CDATA[04:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#최애직캠] TEN (텐) – STUNNER | 쇼! 음악중심 | MBC250405]]></title>
-        <id>https://tv.naver.com/v/73654557</id>
-        <link href="https://tv.naver.com/v/73654557"/>
-        <updated>2025-04-07T10:24:59.098Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
     </entry>
 </feed>
