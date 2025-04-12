@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-12T09:22:33.411Z</updated>
+    <updated>2025-04-12T10:21:07.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/72122518"/>
         <updated>2025-03-18T11:18:23.157Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#최애직캠] MARK (마크) – 1999 | 쇼! 음악중심 | MBC250412]]></title>
+        <id>https://tv.naver.com/v/74043546</id>
+        <link href="https://tv.naver.com/v/74043546"/>
+        <updated>2025-04-12T10:20:24.321Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#음중풀캠] izna (이즈나) – SIGN FullCam | 쇼! 음악중심 | MBC250412]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/74043217"/>
         <updated>2025-04-12T09:21:52.323Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna KOKO (이즈나 코코) – SIGN FanCam | 쇼! 음악중심 | MBC250412]]></title>
-        <id>https://tv.naver.com/v/74043216</id>
-        <link href="https://tv.naver.com/v/74043216"/>
-        <updated>2025-04-12T09:21:52.324Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
