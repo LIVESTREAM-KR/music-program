@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-04-13T10:23:22.383Z</updated>
+    <updated>2025-04-13T11:17:52.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['꿀 같은 낮잠' VS '잠 못 이루는 밤'의 1라운드 무대 - 밤하늘의 별을, MBC 250413 방송]]></title>
+        <id>https://tv.naver.com/v/74107279</id>
+        <link href="https://tv.naver.com/v/74107279"/>
+        <updated>2025-04-13T11:17:51.677Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뇌섹남'의 정체는 크리에이터 궤도!, MBC 250413 방송]]></title>
+        <id>https://tv.naver.com/v/74106593</id>
+        <link href="https://tv.naver.com/v/74106593"/>
+        <updated>2025-04-13T11:17:51.679Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뇌섹남'이 음악을 접었으면 좋겠다고?! 전현무의 힌트 TIME👀, MBC 250413 방송]]></title>
+        <id>https://tv.naver.com/v/74106341</id>
+        <link href="https://tv.naver.com/v/74106341"/>
+        <updated>2025-04-13T11:17:51.680Z</updated>
+        <content type="html"><![CDATA[01:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['뇌섹남' VS '너드 소녀'의 1라운드 무대 - 친구, MBC 250413 방송]]></title>
+        <id>https://tv.naver.com/v/74105753</id>
+        <link href="https://tv.naver.com/v/74105753"/>
+        <updated>2025-04-13T11:17:51.683Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['꽃길'의 정체는 izi 오진성!, MBC 250413 방송]]></title>
         <id>https://tv.naver.com/v/74103187</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/74101194"/>
         <updated>2025-04-13T10:23:21.704Z</updated>
         <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['타르트' VS '프레즐'의 1라운드 무대 - 왜 그래, MBC 250413 방송]]></title>
-        <id>https://tv.naver.com/v/74100638</id>
-        <link href="https://tv.naver.com/v/74100638"/>
-        <updated>2025-04-13T09:23:30.167Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 깊이 있는 명품 보이스와 애절함🎤 트로트 가수 정미애 하이라이트!, MBC 250406 방송]]></title>
-        <id>https://tv.naver.com/v/73649313</id>
-        <link href="https://tv.naver.com/v/73649313"/>
-        <updated>2025-04-07T19:18:16.209Z</updated>
-        <content type="html"><![CDATA[12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《스페셜》 깨끗한 목소리와 넘치는 끼로 대극장 접수 중✨ 뮤지컬 배우 장민제 하이라이트!, MBC 250406 방송]]></title>
-        <id>https://tv.naver.com/v/73649242</id>
-        <link href="https://tv.naver.com/v/73649242"/>
-        <updated>2025-04-07T19:18:16.211Z</updated>
-        <content type="html"><![CDATA[09:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엠뚜루마뚜루] 듣는 사람의 심금을 울리는 목소리🎤 미스트롯 준우승 정미애의 《기억상실》 《열애》 | #정미애 MBC250406]]></title>
-        <id>https://tv.naver.com/v/73619032</id>
-        <link href="https://tv.naver.com/v/73619032"/>
-        <updated>2025-04-07T19:18:16.213Z</updated>
-        <content type="html"><![CDATA[17:37]]></content>
     </entry>
 </feed>
