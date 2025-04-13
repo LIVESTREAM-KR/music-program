@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/658837/clip</id>
     <title>쇼! 음악중심</title>
-    <updated>2025-04-13T07:20:19.470Z</updated>
+    <updated>2025-04-13T08:26:18.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/72122518"/>
         <updated>2025-03-18T11:18:23.157Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #더보이즈 #THEBOYZ  더비 밥 먹언? 더보이즈 달아유~🥬 + no절제 초호기 락앤롤🕺 음중 사전녹화 비하인드⏯]]></title>
+        <id>https://tv.naver.com/v/74096272</id>
+        <link href="https://tv.naver.com/v/74096272"/>
+        <updated>2025-04-13T08:25:39.921Z</updated>
+        <content type="html"><![CDATA[21:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[#최애직캠] MARK (마크) – 1999 | 쇼! 음악중심 | MBC250412]]></title>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/74043219"/>
         <updated>2025-04-12T09:21:52.321Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중직캠] izna RYU SARANG (이즈나 유사랑) – SIGN FanCam | 쇼! 음악중심 | MBC250412]]></title>
-        <id>https://tv.naver.com/v/74043217</id>
-        <link href="https://tv.naver.com/v/74043217"/>
-        <updated>2025-04-12T09:21:52.323Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
