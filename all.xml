@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-13T11:17:52.377Z</updated>
+    <updated>2025-04-13T12:39:44.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1999 - 마크 (MARK) | KBS 250411 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,27 @@
         <content type="html"><![CDATA[04:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[491회 예고] '꽃보다 향수'가 꿈꾸는 8연승🏆 천재적인 실력의 도전자들 등장!, MBC 250420 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/74109081</id>
+        <link href="https://tv.naver.com/v/74109081"/>
+        <updated>2025-04-13T12:39:43.526Z</updated>
+        <content type="html"><![CDATA[00:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['꿀 같은 낮잠'의 정체는 코미디언 김효진!, MBC 250413 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/74108413</id>
+        <link href="https://tv.naver.com/v/74108413"/>
+        <updated>2025-04-13T12:39:43.526Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육중완 들어 올린 '잠 못 이루는 밤'의 파워 스쿼트!🏋, MBC 250413 방송 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/74108082</id>
+        <link href="https://tv.naver.com/v/74108082"/>
+        <updated>2025-04-13T12:39:43.527Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['꿀 같은 낮잠' VS '잠 못 이루는 밤'의 1라운드 무대 - 밤하늘의 별을, MBC 250413 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/74107279</id>
         <link href="https://tv.naver.com/v/74107279"/>
@@ -542,26 +563,5 @@
         <link href="https://tv.naver.com/v/74102085"/>
         <updated>2025-04-13T10:23:21.698Z</updated>
         <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['타르트'의 정체는 정치학자 김지윤!, MBC 250413 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/74101718</id>
-        <link href="https://tv.naver.com/v/74101718"/>
-        <updated>2025-04-13T10:23:21.701Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['프레즐'의 그루브 넘치는 댄스! '프레즐'은 모두가 확신하는 4세대 아이돌?!, MBC 250413 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/74101442</id>
-        <link href="https://tv.naver.com/v/74101442"/>
-        <updated>2025-04-13T10:23:21.704Z</updated>
-        <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['타르트'의 지인 김영철이 주는 힌트📞 '타르트'는 인터뷰의 달인?!, MBC 250413 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/74101194</id>
-        <link href="https://tv.naver.com/v/74101194"/>
-        <updated>2025-04-13T10:23:21.704Z</updated>
-        <content type="html"><![CDATA[01:57]]></content>
     </entry>
 </feed>
