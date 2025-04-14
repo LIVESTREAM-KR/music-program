@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-14T06:36:48.399Z</updated>
+    <updated>2025-04-14T07:24:36.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1999 - 마크 (MARK) | KBS 250411 방송 (뮤직뱅크)]]></title>
@@ -495,6 +495,13 @@
         <content type="html"><![CDATA[04:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[엠뚜루마뚜루] 입으로 궤소리만 뱉을 줄 알았던 과친자의 반전 노래 실력🫢 궤도의 《친구》 《그게 나야》 | #궤도 MBC250413 (복면가왕)]]></title>
+        <id>https://tv.naver.com/v/74155188</id>
+        <link href="https://tv.naver.com/v/74155188"/>
+        <updated>2025-04-14T07:24:35.514Z</updated>
+        <content type="html"><![CDATA[16:21]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[491회 예고] '꽃보다 향수'가 꿈꾸는 8연승🏆 천재적인 실력의 도전자들 등장!, MBC 250420 방송 (복면가왕)]]></title>
         <id>https://tv.naver.com/v/74109081</id>
         <link href="https://tv.naver.com/v/74109081"/>
@@ -556,12 +563,5 @@
         <link href="https://tv.naver.com/v/74102617"/>
         <updated>2025-04-13T10:23:21.693Z</updated>
         <content type="html"><![CDATA[02:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃다발' VS '꽃길'의 1라운드 무대 - 헤어지는 중입니다, MBC 250413 방송 (복면가왕)]]></title>
-        <id>https://tv.naver.com/v/74102085</id>
-        <link href="https://tv.naver.com/v/74102085"/>
-        <updated>2025-04-13T10:23:21.698Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
