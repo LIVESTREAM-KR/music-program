@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/2404757/clip</id>
     <title>복면가왕</title>
-    <updated>2025-04-14T07:24:36.120Z</updated>
+    <updated>2025-04-14T08:31:30.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 유쾌한 입담으로 지식을 풀어내는 과학 커뮤니케이터🪐 크리에이터 궤도 하이라이트!, MBC 250413 방송]]></title>
+        <id>https://tv.naver.com/v/74168051</id>
+        <link href="https://tv.naver.com/v/74168051"/>
+        <updated>2025-04-14T08:31:29.948Z</updated>
+        <content type="html"><![CDATA[09:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《스페셜》 ＜응급실＞의 주인공! 짙은 감성의 명품 보컬🎤 izi 오진성 하이라이트!, MBC 250413 방송]]></title>
+        <id>https://tv.naver.com/v/74167598</id>
+        <link href="https://tv.naver.com/v/74167598"/>
+        <updated>2025-04-14T08:31:29.951Z</updated>
+        <content type="html"><![CDATA[09:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[엠뚜루마뚜루] 입으로 궤소리만 뱉을 줄 알았던 과친자의 반전 노래 실력🫢 궤도의 《친구》 《그게 나야》 | #궤도 MBC250413]]></title>
         <id>https://tv.naver.com/v/74155188</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/74105753"/>
         <updated>2025-04-13T11:17:51.683Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃길'의 정체는 izi 오진성!, MBC 250413 방송]]></title>
-        <id>https://tv.naver.com/v/74103187</id>
-        <link href="https://tv.naver.com/v/74103187"/>
-        <updated>2025-04-13T10:23:21.693Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꽃길'의 힌트를 주기 위해 등장한 한문철 변호사🤓 '꽃길'과 판소리의 연관성은?!, MBC 250413 방송]]></title>
-        <id>https://tv.naver.com/v/74102617</id>
-        <link href="https://tv.naver.com/v/74102617"/>
-        <updated>2025-04-13T10:23:21.693Z</updated>
-        <content type="html"><![CDATA[02:19]]></content>
     </entry>
 </feed>
