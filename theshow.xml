@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3235720/clip</id>
     <title>더쇼</title>
-    <updated>2025-04-15T08:31:15.503Z</updated>
+    <updated>2025-04-15T09:25:54.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[An Yul - Heart on Fire (안율, Heart on Fire) [THE SHOW 250415]]]></title>
+        <id>https://tv.naver.com/v/74255878</id>
+        <link href="https://tv.naver.com/v/74255878"/>
+        <updated>2025-04-15T09:25:31.589Z</updated>
+        <content type="html"><![CDATA[02:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLOSE YOUR EYES - THE SHOW CHOICE! [THE SHOW 250408]]]></title>
         <id>https://tv.naver.com/v/73739080</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73737242"/>
         <updated>2025-04-08T10:24:34.035Z</updated>
         <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEWBEAT - Flip the Coin [THE SHOW 250408]]]></title>
-        <id>https://tv.naver.com/v/73737239</id>
-        <link href="https://tv.naver.com/v/73737239"/>
-        <updated>2025-04-08T10:24:34.037Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
