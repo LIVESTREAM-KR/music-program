@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/music-program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-15T07:24:20.752Z</updated>
+    <updated>2025-04-15T08:31:15.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[1999 - 마크 (MARK) | KBS 250411 방송 (뮤직뱅크)]]></title>
@@ -96,6 +96,13 @@
         <content type="html"><![CDATA[03:40]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[#직캠보고서🔍] #이즈나 #izna 💟아이스크림보다 더 달콤한🍧 사랑둥이 짱즈나 음중 사전녹화 비하인드⏯ (쇼! 음악중심)]]></title>
+        <id>https://tv.naver.com/v/74247713</id>
+        <link href="https://tv.naver.com/v/74247713"/>
+        <updated>2025-04-15T08:30:40.324Z</updated>
+        <content type="html"><![CDATA[14:15]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《스페셜》 이솔(KiiiKiii) X 에이나 X 수이(KiiiKiii) , 4월 둘째 주 음악중심 MC 컷 모음!, MBC 250412 방송 (쇼! 음악중심)]]></title>
         <id>https://tv.naver.com/v/74133992</id>
         <link href="https://tv.naver.com/v/74133992"/>
@@ -136,13 +143,6 @@
         <link href="https://tv.naver.com/v/74043228"/>
         <updated>2025-04-12T09:21:52.315Z</updated>
         <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#음중풀캠] KiiiKiii (키키) – BTG FullCam | 쇼! 음악중심 | MBC250412 (쇼! 음악중심)]]></title>
-        <id>https://tv.naver.com/v/74043224</id>
-        <link href="https://tv.naver.com/v/74043224"/>
-        <updated>2025-04-12T09:21:52.318Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[텐 (TEN) - STUNNER | SBS 250406 방송 (인기가요)]]></title>
