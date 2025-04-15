@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-04-15T10:25:20.303Z</updated>
+    <updated>2025-04-15T11:19:27.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NiziU(니쥬)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
+        <id>https://tv.naver.com/v/74264015</id>
+        <link href="https://tv.naver.com/v/74264015"/>
+        <updated>2025-04-15T11:19:04.064Z</updated>
+        <content type="html"><![CDATA[01:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 대성 (DAESUNG) - Universe | Mnet 250410 방송]]></title>
         <id>https://tv.naver.com/v/73907750</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/73905800"/>
         <updated>2025-04-10T11:18:54.599Z</updated>
         <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['UP NEXT' 대성 (DAESUNG) | Mnet 250410 방송]]></title>
-        <id>https://tv.naver.com/v/73905148</id>
-        <link href="https://tv.naver.com/v/73905148"/>
-        <updated>2025-04-10T11:18:54.601Z</updated>
-        <content type="html"><![CDATA[00:25]]></content>
     </entry>
 </feed>
